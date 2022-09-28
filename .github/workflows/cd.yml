@@ -1,0 +1,38 @@
+name: Continuous Integration
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  schedule:
+    - cron: '17 3 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    container: python:3.10
+    env:
+      CI_COMMIT_MESSAGE: Continuous Integration Build Artifacts
+      CI_COMMIT_AUTHOR: Continuous Integration
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        fetch-depth: '0'
+
+    - name: Harvest files
+      run: |-
+        pip3 install tox
+        rm assets -rf && mkdir assets -p
+        tox -e run
+
+    # Commit and push all changed files.
+    - name: GIT Commit Build Artifacts (coverage, dist, devdist, docs)
+      # Only run on main branch push (e.g. after pull request merge).
+      if: github.event_name == 'push'
+      run: |
+        git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
+        git config --global user.email "ci-bot@noreply"
+        git add assets/
+        git commit -a -m "${{ env.CI_COMMIT_MESSAGE }}"
+        git push -f
