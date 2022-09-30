@@ -1,0 +1,191 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN> a skos:Concept ;
+    at:authority-code "DOCUMENTATION_MAIN" ;
+    at:deprecated "false" ;
+    at:op-code "DOCUMENTATION_MAIN" ;
+    at:start.use "2013-01-01" ;
+    atold:op-code "DOCUMENTATION_MAIN" ;
+    dc:identifier "DOCUMENTATION_MAIN" ;
+    skos:definition "A resource that holds the main documentation for this item."@en ;
+    skos:inScheme atold:documentation-type ;
+    skos:prefLabel "Основна документация"@bg,
+        "Hlavní dokumentace"@cs,
+        "Hoveddokumentation"@da,
+        "Zentrale Unterlagen"@de,
+        "Κύρια τεκμηρίωση"@el,
+        "Main documentation"@en,
+        "Documentación principal"@es,
+        "Põhidokumendid"@et,
+        "Päädokumentaatio"@fi,
+        "Documentation principale"@fr,
+        "Doiciméadacht phríomha"@ga,
+        "Glavna dokumentacija"@hr,
+        "Alapdokumentáció"@hu,
+        "Documentazione principale"@it,
+        "Pagrindinė dokumentacija"@lt,
+        "Galvenā dokumentācija"@lv,
+        "Dokumentazzjoni ewlenija"@mt,
+        "Hoofddocumentatie"@nl,
+        "Dokumenty główne"@pl,
+        "Documentação principal"@pt,
+        "Documentație principală"@ro,
+        "Hlavná dokumentácia"@sk,
+        "Glavna dokumentacija"@sl,
+        "Dokumentation"@sv ;
+    skos:topConceptOf atold:documentation-type .
+
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED> a skos:Concept ;
+    at:authority-code "DOCUMENTATION_RELATED" ;
+    at:deprecated "false" ;
+    at:op-code "DOCUMENTATION_RELATED" ;
+    at:start.use "2013-01-01" ;
+    atold:op-code "DOCUMENTATION_RELATED" ;
+    dc:identifier "DOCUMENTATION_RELATED" ;
+    skos:definition "A resource that holds documentation that is related to this item."@en ;
+    skos:inScheme atold:documentation-type ;
+    skos:prefLabel "Свързана документация"@bg,
+        "Související dokumentace"@cs,
+        "Relateret dokumentation"@da,
+        "Unterstützende Unterlagen"@de,
+        "Σχετική τεκμηρίωση"@el,
+        "Related documentation"@en,
+        "Documentación relacionada"@es,
+        "Seotud dokumendid"@et,
+        "Asiaan liittyvä dokumentaatio"@fi,
+        "Documentation correspondante"@fr,
+        "Doiciméadacht ghaolmhar"@ga,
+        "Povezana dokumentacija"@hr,
+        "Kapcsolódó dokumentáció"@hu,
+        "Documentazione correlata"@it,
+        "Susijusi dokumentacija"@lt,
+        "Saistītā dokumentācija"@lv,
+        "Dokumentazzjoni relatata"@mt,
+        "Verwante documentatie"@nl,
+        "Dokumenty powiązane"@pl,
+        "Documentação conexa"@pt,
+        "Documentație conexă"@ro,
+        "Súvisiaca dokumentácia"@sk,
+        "Povezana dokumentacija"@sl,
+        "Tillhörande dokumentation"@sv ;
+    skos:topConceptOf atold:documentation-type .
+
+<http://publications.europa.eu/resource/authority/documentation-type/VISUALIZATION> a skos:Concept ;
+    at:authority-code "VISUALIZATION" ;
+    at:deprecated "true" ;
+    at:end.use "2013-01-02" ;
+    at:op-code "VISUALIZATION" ;
+    at:start.use "2013-01-01" ;
+    atold:op-code "VISUALIZATION" ;
+    dc:identifier "VISUALIZATION" ;
+    skos:changeNote "See email sent by Agnieszka ZAJAC on 20160527."@en ;
+    skos:definition "A visualization of the dataset."@en ;
+    skos:historyNote "ODP needed this concept as a distribution type instead of a documentation type."@en ;
+    skos:inScheme atold:documentation-type ;
+    skos:prefLabel "Визуализация"@bg,
+        "Vizualizace"@cs,
+        "Visualisering"@da,
+        "Visualisierung"@de,
+        "Οπτική εμφάνιση"@el,
+        "Visualization"@en,
+        "Visualización"@es,
+        "Visuaalne kuju"@et,
+        "Visualisointi"@fi,
+        "Visualisation"@fr,
+        "Vizualizacija"@hr,
+        "Megjelenítés"@hu,
+        "Visualizzazione"@it,
+        "Vizualizacija"@lt,
+        "Vizualizācija"@lv,
+        "Viżwalizzazzjoni"@mt,
+        "Visualisatie"@nl,
+        "Wizualizacja"@pl,
+        "Visualização"@pt,
+        "Vizualizare"@ro,
+        "Vizualizácia"@sk,
+        "Vizualizacija"@sl,
+        "Visualisering"@sv ;
+    skos:topConceptOf atold:documentation-type .
+
+<http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED> a skos:Concept ;
+    at:authority-code "WEBPAGE_RELATED" ;
+    at:deprecated "false" ;
+    at:op-code "WEBPAGE_RELATED" ;
+    at:start.use "2013-01-01" ;
+    atold:op-code "WEBPAGE_RELATED" ;
+    dc:identifier "WEBPAGE_RELATED" ;
+    skos:definition "A web page that holds information on this item."@en ;
+    skos:inScheme atold:documentation-type ;
+    skos:prefLabel "Свързана интернет страница"@bg,
+        "Související internetová stránka"@cs,
+        "Relateret webside"@da,
+        "Einschlägige Webseite"@de,
+        "Σχετική ιστοσελίδα"@el,
+        "Related webpage"@en,
+        "Página web relacionada"@es,
+        "Seotud veebileht"@et,
+        "Asiaan liittyvä verkkosivusto"@fi,
+        "Page web correspondante"@fr,
+        "Leathanach gréasáin gaolmhar"@ga,
+        "Povezana web-stranica"@hr,
+        "Kapcsolódó weboldal"@hu,
+        "Pagina web collegata"@it,
+        "Susijęs tinklalapis"@lt,
+        "Saistītā vietne"@lv,
+        "Paġna Web relatata"@mt,
+        "Verwante webpagina"@nl,
+        "Powiązane strony internetowe"@pl,
+        "Página web conexa"@pt,
+        "Pagină de internet asociată"@ro,
+        "Súvisiaca webová stránka"@sk,
+        "Povezana spletna stran"@sl,
+        "Webbsida"@sv ;
+    skos:topConceptOf atold:documentation-type .
+
+<http://publications.europa.eu/resource/authority/documentation-types/OP_DATPRO> a skos:Concept ;
+    at:authority-code "OP_DATPRO" ;
+    at:deprecated "false" ;
+    at:op-code "OP_DATPRO" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:documentation-type ;
+    skos:prefLabel "НЕОКОНЧАТЕЛНИ ДАННИ"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv ;
+    skos:topConceptOf atold:documentation-type .
+
+atold:documentation-type a skos:ConceptScheme ;
+    rdfs:label "Documentation type"@en ;
+    at:prefLabel "Documentation type"@en ;
+    at:table.id "documentation-type" ;
+    at:table.version.number "20220316-0" ;
+    owl:versionInfo "20220316-0" ;
+    skos:prefLabel "Documentation type"@en .
+

@@ -1,0 +1,1298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:at="http://publications.europa.eu/ontology/authority/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:euvoc="http://publications.europa.eu/ontology/euvoc#"
+         xmlns:dct="http://purl.org/dc/terms/"
+         xmlns:atold="http://publications.europa.eu/resource/authority/"
+         xml:base="http://publications.europa.eu/resource/authority/procedure">
+   <skos:ConceptScheme rdf:about="http://publications.europa.eu/resource/authority/procedure"
+                       at:table.id="procedure"
+                       at:table.version.number="20220928-0">
+      <at:prefLabel xml:lang="en">Interinstitutional procedure</at:prefLabel>
+      <rdfs:label xml:lang="en">Interinstitutional procedure</rdfs:label>
+      <owl:versionInfo>20220928-0</owl:versionInfo>
+      <skos:prefLabel xml:lang="en">Interinstitutional procedure</skos:prefLabel>
+   </skos:ConceptScheme>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/procedure/035a12163599c3ecea26623ae3ae09bd">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-12-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-06-16</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/FD_609"/>
+      <rdf:value>(NLE;1035)</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/procedure/035f169b78d5b04c77ab76b71779af96">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-12-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-11-07</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/EP"/>
+      <rdf:value>DEA</rdf:value>
+      <euvoc:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-12-02</euvoc:endDate>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/procedure/1f4080f0d9759acec9117a56e573cd4b">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1987-07-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-06-16</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/FD_609"/>
+      <rdf:value>(AVC;1020)</rdf:value>
+      <euvoc:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-11-30</euvoc:endDate>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/procedure/2de56e2c1a0462d9c020ac37ea988644">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-12-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-06-16</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/FD_609"/>
+      <rdf:value>(CNS;1015)</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/procedure/3392b71d491fc3f79315c652657de4f9">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1987-07-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-06-16</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/EP"/>
+      <rdf:value>SYN</rdf:value>
+      <euvoc:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-11-30</euvoc:endDate>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/procedure/367b024ccf5f636bcd0cec345fb24ba9">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-12-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-06-16</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/EP"/>
+      <rdf:value>CNS</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/procedure/40a303dd1cffa3d04ce3cd6160fcdfa0">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-12-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-06-16</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/FD_609"/>
+      <rdf:value>(APP;1030)</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/procedure/4ff76edc7f47893880c019dda57e2284">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-12-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-06-16</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/FD_609"/>
+      <rdf:value>(COD;1010)</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/procedure/5852ea5db28d58e180465658c388bdf1">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1993-11-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-06-16</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/FD_609"/>
+      <rdf:value>(CNC;100060)</rdf:value>
+      <euvoc:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-11-30</euvoc:endDate>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/procedure/5bf9acc6ee6a69f384fe037ab647cb5d">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1987-07-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-06-16</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/FD_609"/>
+      <rdf:value>(SYN;1005)</rdf:value>
+      <euvoc:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-11-30</euvoc:endDate>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/procedure/6717917e091c65ce0c63da1ec50b7d28">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1987-07-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-06-16</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/EP"/>
+      <rdf:value>AVC</rdf:value>
+      <euvoc:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-11-30</euvoc:endDate>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/procedure/932ad0b5cd9de5e955cd8534a63e3c08">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1993-11-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-06-16</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/FD_609"/>
+      <rdf:value>(PRT;1025)</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/procedure/9e8e94383fc9074bb060848372c4086c">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-12-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-06-16</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/EP"/>
+      <rdf:value>COD</rdf:value>
+   </euvoc:XlNotation>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/procedure/ACC"
+                 at:deprecated="true">
+      <skos:prefLabel xml:lang="bg">Споразумение (ACC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Dohoda (ACC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Enighed (ACC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Abkommen (ACC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Συμφωνία (ACC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Agreement (ACC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Acuerdo (ACC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Kokkulepe (ACC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Sopimus (ACC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Accord (ACC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Comhaontú (ACC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Sporazum (ACC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Megállapodás (ACC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Accordo (ACC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Susitarimas (ACC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Nolīgums (ACC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Ftehim (ACC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Akkoord (ACC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Zgoda (ACC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Acordo (ACC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Acord (ACC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Dohoda (ACC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Sporazum (ACC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Samtycke (ACC)</skos:prefLabel>
+      <at:authority-code>ACC</at:authority-code>
+      <at:end.use>2009-11-30</at:end.use>
+      <at:op-code>ACC</at:op-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>ATTO</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>ACC</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>PreLex</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>(ACC;10000)</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>ATTO</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>ACC</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>PreLex</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>(ACC;10000)</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:start.use>1958-01-01</at:start.use>
+      <atold:op-code>ACC</atold:op-code>
+      <dc:identifier>ACC</dc:identifier>
+      <skos:changeNote xml:lang="en">1957E228 , 1992E228 , 1997E300 , 12002E300 , 12006E300 , 12008E218 , 12010E218</skos:changeNote>
+      <skos:definition xml:lang="en">The procedure was used before the entry into force of the Lisbon Treaty on 1 December 2009 for some types of legal acts related to the Communities’ competence to conclude international agreements in the area of common commercial policy and the economic, financial and technical cooperation with third countries.</skos:definition>
+      <skos:definition xml:lang="fr">La procédure a été utilisée avant l’entrée en vigueur du traité de Lisbonne, le 1er décembre 2009, pour certains types d’actes juridiques liés à la compétence des Communautés pour conclure des accords internationaux dans le domaine de la politique commerciale commune et de la coopération économique, financière et technique avec les pays tiers.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/procedure"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/procedure/f8567f06d374e17cf979be57cb3e424f"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/procedure"/>
+   </skos:Concept>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/procedure/f8567f06d374e17cf979be57cb3e424f">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1958-01-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-06-16</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/FD_609"/>
+      <rdf:value>(ACC;10000)</rdf:value>
+   </euvoc:XlNotation>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/procedure/APP"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Специална законодателна процедура – одобряване от ЕП (APP)</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Zvláštní legislativní postup – souhlas EP (APP)</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Særlig lovgivningsprocedure – godkendelse fra Europa-Parlamentet (APP)</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Besonderes Rechtsetzungsverfahren — Zustimmung des Parlaments (APP)</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Ειδική νομοθετική διαδικασία – έγκριση από το ΕΚ (APP)</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Special legislative procedure — EP consent required (APP)</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Procedimiento legislativo especial — Aprobación del PE (APP)</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Seadusandlik erimenetlus – Euroopa Parlamendi nõusolek vajalik (APP)</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Erityinen lainsäätämisjärjestys – Euroopan parlamentin hyväksyntä (APP)</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Procédure législative spéciale — approbation du PE (APP)</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Nós imeachta reachtach speisialta – toiliú PE de dhíth (APP)</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Poseban zakonodavni postupak – obvezna suglasnost EP-a (APP)</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Különleges jogalkotási eljárás – az Európai Parlament jóváhagyásával (APP)</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Procedura legislativa speciale — Approvazione del PE (APP)</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Speciali teisėkūros procedūra – EP pritarimas (APP)</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Īpašā likumdošanas procedūra — EP piekrišana (APP)</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Proċedura leġiżlattiva speċjali – approvazzjoni tal-PE (APP)</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Bijzondere wetgevingsprocedure — goedkeuring van het EP (APP)</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Szczególna procedura prawodawcza – zgoda PE (APP)</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Processo legislativo especial – aprovação do PE (APP)</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Procedură legislativă specială – aprobarea PE (APP)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Mimoriadny legislatívny postup – súhlas EP (APP)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Posebni zakonodajni postopek – odobritev EP (APP)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Särskilt lagstiftningsförfarande – godkännande av parlamentet (APP)</skos:prefLabel>
+      <at:authority-code>APP</at:authority-code>
+      <at:op-code>APP</at:op-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>PreLex</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>(APP;1030)</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>PreLex</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>(APP;1030)</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>ATTO</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>APP</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>EP</dc:source>
+            <at:legacy-code>APP</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>ATTO</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>APP</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>EP</dc:source>
+            <at:legacy-code>APP</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:start.use>2009-12-01</at:start.use>
+      <atold:op-code>APP</atold:op-code>
+      <dc:identifier>APP</dc:identifier>
+      <skos:changeNote xml:lang="fr">16 domaines différents sont soumis a cette procédure depuis l'entrée en vigueur du trait de lisbonne. Il ne peut donc pas exister une seule référence Celex. Cf tableau APP /AVC</skos:changeNote>
+      <skos:definition xml:lang="en">In certain legislative areas, the European Parliament is requested to give its consent, as a special legislative procedure under Article 289(2) of the Treaty on the Functioning of the European Union (TFEU). The consent procedure gives Parliament the right of veto. Parliament's role is thus to approve or reject the legislative proposal without further amendments and the Council cannot overrule Parliament's opinion. Consent is also required as a non-legislative procedure when the Council is adopting certain international agreements.</skos:definition>
+      <skos:definition xml:lang="fr">Dans certains domaines législatifs, le Parlement européen est invité à donner son approbation, dans le cadre d’une procédure législative spéciale au sens de l’article 289, paragraphe 2, du traité sur le fonctionnement de l’Union européenne. Cette procédure d’approbation attribue un droit de veto au Parlement. Le rôle de ce dernier consiste donc à approuver ou rejeter la proposition législative sans amendements, et le Conseil ne peut passer outre à l’avis du Parlement. L’approbation est également requise dans le cadre d’une procédure non législative, lorsque le Conseil adopte certains accords internationaux.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/procedure"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/procedure/40a303dd1cffa3d04ce3cd6160fcdfa0"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/procedure/ab4ffea5319f14968e8aa9177ba8f8d9"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/procedure"/>
+   </skos:Concept>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/procedure/ab4ffea5319f14968e8aa9177ba8f8d9">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-12-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-06-16</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/EP"/>
+      <rdf:value>APP</rdf:value>
+   </euvoc:XlNotation>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/procedure/AVC"
+                 at:deprecated="true">
+      <skos:prefLabel xml:lang="bg">Процедура на одобрение (AVC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Postup souhlasu EP (AVC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Procedure med EP’s samstemmende udtalelse (AVC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Zustimmungsverfahren (AVC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Διαδικασία σύμφωνης γνώμης (AVC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Assent procedure (AVC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Procedimiento de dictamen conforme (AVC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Nõusolekumenetlus (AVC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">EP:n hyväksyntämenettely (AVC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Procédure d’avis conforme du PE (AVC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Nós imeachta an aontaithe (AVC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Postupak pristanka (AVC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Hozzájárulási eljárás (AVC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Procedura di parere conforme (AVC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">EP pritarimo procedūra (AVC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">EP piekrišanas procedūra (AVC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Proċedura ta' kunsens (AVC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Instemmingsprocedure van het EP (AVC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Procedura zgody (AVC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Procedimento de parecer favorável PE (AVC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Procedura avizului conform (AVC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Postup súhlasu EP (AVC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Postopek privolitve EP (AVC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Samtyckesförfarandet (AVC)</skos:prefLabel>
+      <at:authority-code>AVC</at:authority-code>
+      <at:end.use>2009-11-30</at:end.use>
+      <at:op-code>AVC</at:op-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>PreLex</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>(AVC;1020)</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>PreLex</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>(AVC;1020)</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>EP</dc:source>
+            <at:legacy-code>AVC</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>ATTO</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>AVC</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>ATTO</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>AVC</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>EP</dc:source>
+            <at:legacy-code>AVC</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:start.use>1987-07-01</at:start.use>
+      <atold:op-code>AVC</atold:op-code>
+      <dc:identifier>AVC</dc:identifier>
+      <skos:changeNote xml:lang="fr">9 domaines diffférents étaient soumis à la procédure de l'avis conforme introduite par l'acte Unique européen. Il ne peut donc pas exister une seule référence Celex. CF tableau APP/AVC ; 12007E0218_6</skos:changeNote>
+      <skos:changeNote xml:lang="fr">julia: Introduction de la procédure de l'avis conforme dans l'Acte unique européen {11986U008 modifiant 11957E237 sur les accords d'adhésion , 11986U009 modifiant 11957E238-P2 sur les accords d'association</skos:changeNote>
+      <skos:definition xml:lang="en">The assent procedure, which was introduced by the Single European Act, gives Parliament the possibility of expressing its approval or disapproval of certain Council instruments. There are certain matters on which the Council cannot legislate unless Parliament gives its consent by an absolute majority of its members. The assent procedure, which represents as it were a right of veto for Parliament, was originally intended to apply only to the conclusion of association agreements and the examination of applications to join the European Community.</skos:definition>
+      <skos:definition xml:lang="fr">La procédure de l’avis conforme a été introduite par l’Acte unique européen et donne au Parlement la possibilité d’exprimer son accord ou son désaccord sur l’approbation de certains actes du Conseil. Le Conseil ne peut pas légiférer dans certaines matières si le Parlement, à la majorité absolue de ses membres, ne donne pas son accord. La procédure de l’avis conforme, qui représente quasiment un droit de veto du Parlement, était prévue à l’origine seulement pour la conclusion des accords d’association et pour l’examen des demandes d’adhésion à la Communauté européenne.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/procedure"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/procedure/1f4080f0d9759acec9117a56e573cd4b"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/procedure/6717917e091c65ce0c63da1ec50b7d28"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/procedure"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/procedure/BUD"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Бюджетна процедура (BUD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Rozpočtový proces (BUD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Budgetbehandling (BUD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Verfahren zur Feststellung des Haushaltsplans (BUD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Διαδικασία του προϋπολογισμού (BUD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Budgetary procedure (BUD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Procedimiento presupuestario (BUD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Eelarvemenetlus (BUD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Talousarviomenettely (BUD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Procédure budgétaire (BUD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Nós imeachta buiséadach (BUD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Proračunski postupak (BUD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Költségvetési eljárás (BUD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Procedura di bilancio (BUD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Biudžeto procedūra (BUD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Budžeta procedūra (BUD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Proċedura baġitarja (BUD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Procedure tot vaststelling van de begroting (BUD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Procedura budżetowa (BUD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Processo orçamental (BUD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Procedură bugetară (BUD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Rozpočtový postup (BUD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Proračunski postopek (BUD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Budgetförfarande (BUD)</skos:prefLabel>
+      <at:authority-code>BUD</at:authority-code>
+      <at:op-code>BUD</at:op-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>EP</dc:source>
+            <at:legacy-code>BUD</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>EP</dc:source>
+            <at:legacy-code>BUD</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:start.use>1958-01-01</at:start.use>
+      <atold:op-code>BUD</atold:op-code>
+      <dc:identifier>BUD</dc:identifier>
+      <skos:definition xml:lang="en">The general principles of the Union's annual budget are set in Article 310 of the Treaty on the Functioning of the European Union. This provision also mentioned the decision-making process to be followed for drafting and adopting the EU’s annual budget (formerly the European Economic Community): ‘The Union’s annual budget shall be established by the European Parliament and the Council in accordance with Article 314.’ This latter article provides that in this context the European Parliament and the Council act in accordance with a special legislative procedure and the various stages of this procedure are described in the rest of the text (from the submission of the draft budget by the Commission to the definitive adoption of the Budget).</skos:definition>
+      <skos:definition xml:lang="fr">Les principes généraux du budget annuel de l’Union sont énoncés à l’article 310 du traité sur le fonctionnement de l’Union européenne. Cette disposition mentionnait également le processus décisionnel à suivre pour l’élaboration et l’adoption du budget annuel de l’UE (anciennement la Communauté économique européenne): «Le budget annuel de l’Union est établi par le Parlement européen et le Conseil conformément à l’article 314.» Cet article dispose que, dans ce contexte, le Parlement européen et le Conseil agissent conformément à une procédure législative spéciale, dont les différentes étapes sont décrites dans le reste du texte (du dépôt du projet de budget par la Commission jusqu’à l’adoption définitive du budget).</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/procedure"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/procedure/ef44666125fbc3309a8ae9b3a70627d2"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/procedure"/>
+      <skos:historyNote xml:lang="en">On 14 August 2020, (BUD) was added to the end of the label in order to align the label of this concept with other labels in this scheme.</skos:historyNote>
+   </skos:Concept>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/procedure/ef44666125fbc3309a8ae9b3a70627d2">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1958-01-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-04-28</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/EP"/>
+      <rdf:value>BUD</rdf:value>
+   </euvoc:XlNotation>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/procedure/CNB"
+                 at:deprecated="true">
+      <skos:prefLabel xml:lang="bg">Консултация с Европейската централна банка (CNB)</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Konzultace Evropské centrální banky (CNB)</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Høring af Den Europæiske Centralbank (CNB)</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Anhörung Europäische Zentralbank (CNB)</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Διαβούλευση της Ευρωπαϊκής Κεντρικής Τράπεζας (CNB)</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Consultation of the European Central Bank (CNB)</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Consulta del Banco Central Europeo (CNB)</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Konsulteerimine Euroopa Keskpangaga (CNB)</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Euroopan keskuspankin kuuleminen (CNB)</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Consultation de la Banque centrale européenne (CNB)</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Comhairliúchán an Bhainc Cheannais Eorpaigh (CNB)</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Savjetovanje s Europskom središnjom bankom (CNB)</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Konzultáció az Európai Központi Bankkal (CNB)</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Consultazione della Banca centrale europea (CNB)</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Konsultavimasis su Europos centriniu banku (CNB)</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Apspriešanās ar Eiropas Centrālo banku (CNB)</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Konsultazzjoni tal-Bank Ċentrali Ewropew (CNB)</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Raadpleging van de Europese Centrale Bank (CNB)</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Konsultacja Europejskiego Banku Centralnego (CNB)</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Consulta do Banco Central Europeu (CNB)</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Consultarea Băncii Centrale Europene (CNB)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Konzultácia s Európskou centrálnou bankou (CNB)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Posvetovanje z Evropsko centralno banko (CNB)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Samråd med Europeiska centralbanken (CNB)</skos:prefLabel>
+      <at:authority-code>CNB</at:authority-code>
+      <at:end.use>2009-11-30</at:end.use>
+      <at:op-code>CNB</at:op-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>PreLex</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>(CNB;100000)</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>ATTO</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>CNB</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>PreLex</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>(CNB;100000)</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>ATTO</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>CNB</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:start.use>1993-11-01</at:start.use>
+      <atold:op-code>CNB</atold:op-code>
+      <dc:identifier>CNB</dc:identifier>
+      <skos:changeNote xml:lang="en">Doc. identifier is "CON"</skos:changeNote>
+      <skos:changeNote xml:lang="fr">*politique économique et monétaire : 12010E126 , 12008E126 , 12006E104,12002E104, 11997E104 , 11992E104C , 12010E127, 12008E127, 12006E105, 12002E105, 11997E105, 11992E105 * accords internationaux :12010E219 {ex-art 111P1à 3et5 TCE} ET 12010E138 {ex-art111P4TCE}, 12008E219 {idem}, 12006E111, 12002E111, 11997E111, 11992E109 12007E0115</skos:changeNote>
+      <skos:definition xml:lang="en">The European Central Bank is consulted on the position to be taken by the EU regarding the negotiation and renegotiation of the monetary agreements and the introduction of the euro in Member States. The procedure was applied before the entry into force of the Lisbon Treaty on 1 December 2009.</skos:definition>
+      <skos:definition xml:lang="fr">La Banque centrale européenne est consultée sur la position à adopter par l’UE en ce qui concerne la négociation et la renégociation des accords monétaires et l’introduction de l’euro dans les États membres. La procédure a été appliquée avant l’entrée en vigueur du traité de Lisbonne, le 1er décembre 2009.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/procedure"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/procedure/f1790523d855d7b988d4c7a8cc85119d"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/procedure"/>
+   </skos:Concept>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/procedure/f1790523d855d7b988d4c7a8cc85119d">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1993-11-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-06-16</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/FD_609"/>
+      <rdf:value>(CNB;100000)</rdf:value>
+   </euvoc:XlNotation>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/procedure/CNC"
+                 at:deprecated="true">
+      <skos:prefLabel xml:lang="bg">Консултация със Сметната палата (CNC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Konzultace Účetního dvora (CNC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Høring af Revisionsretten (CNC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Anhörung des Rechnungshofes (CNC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Διαβούλευση του Ελεγκτικού Συνεδρίου (CNC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Consultation of the Court of Auditors (CNC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Consulta del Tribunal de Cuentas (CNC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Konsulteerimine kontrollikojaga (CNC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Tilintarkastustuomioistuimen kuuleminen (CNC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Consultation de la Cour des Comptes (CNC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Dul i gcomhairle leis an gCúirt Iniúchóirí (CNC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Savjetovanje s Revizorskim sudom (CNC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Konzultáció a Számvevőszékkel (CNC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Consultazione della Corte dei conti (CNC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Konsultavimasis su Audito Rūmais (CNC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Apspriešanās ar Revīzijas palātu (CNC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Konsultazzjoni tal-Qorti tal-Awdituri (CNC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Raadpleging Rekenkamer (CNC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Konsultacja Trybunału Obrachunkowego (CNC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Consulta do Tribunal de Contas (CNC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Consultarea Curţii de Conturi (CNC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Konzultácia s Dvorom audítorov (CNC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Posvetovanje z Računskim sodiščem (CNC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Samråd med revisionsrätten (CNC)</skos:prefLabel>
+      <at:authority-code>CNC</at:authority-code>
+      <at:end.use>2009-11-30</at:end.use>
+      <at:op-code>CNC</at:op-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>PreLex</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>(CNC;100060)</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>ATTO</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>CNC</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>ATTO</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>CNC</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>PreLex</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>(CNC;100060)</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:start.use>1993-11-01</at:start.use>
+      <atold:op-code>CNC</atold:op-code>
+      <dc:identifier>CNC</dc:identifier>
+      <skos:changeNote xml:lang="fr">12006E279 , 12002E279 , 1997E279 , 1992E209 11992E0187</skos:changeNote>
+      <skos:changeNote xml:lang="fr">depuis TFUE consultation CNC intégrée dans COD</skos:changeNote>
+      <skos:definition xml:lang="en">Until the entry into force of the Treaty of Lisbon, the procedure of consultation of the Court of Auditors was used for a few specific legal acts related to the financial regulations applicable to the European Development Fund (EDF).</skos:definition>
+      <skos:definition xml:lang="fr">Jusqu’à l’entrée en vigueur du traité de Lisbonne, la procédure de consultation de la Cour des comptes était utilisée pour quelques actes juridiques spécifiques liés aux règlements financiers applicables au Fonds européen de développement (FED).</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/procedure"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/procedure/5852ea5db28d58e180465658c388bdf1"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/procedure"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/procedure/CNS"
+                 at:deprecated="true">
+      <skos:prefLabel xml:lang="bg">Процедура на консултация (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Postup konzultace (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Høringsprocedure (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Konsultationsverfahren (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Διαδικασία διαβούλευσης (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Consultation procedure (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Procedimiento de consulta (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Nõuandemenetlus (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Kuulemismenettely (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Procédure de consultation (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Nós imeachta comhairliúcháin (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Postupak savjetovanja (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Konzultációs eljárás (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Procedura di consultazione (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Konsultavimosi procedūra (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Apspriešanās procedūra (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Proċedura ta' konsultazzjoni (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Raadplegingsprocedure (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Procedura konsultacji (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Procedimento de consulta (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Procedură de consultare (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Postup konzultácie (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Postopek posvetovanja (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Samrådsförfarandet (CNS)</skos:prefLabel>
+      <at:authority-code>CNS</at:authority-code>
+      <at:end.use>2009-11-30</at:end.use>
+      <at:op-code>CNS</at:op-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>PreLex</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>(CNS_OLD;1016)</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>ATTO</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>CNS_OLD</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>ATTO</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>CNS_OLD</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>PreLex</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>(CNS_OLD;1016)</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>EP</dc:source>
+            <at:legacy-code>CNS</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>EP</dc:source>
+            <at:legacy-code>CNS</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:start.use>1958-01-01</at:start.use>
+      <atold:op-code>CNS</atold:op-code>
+      <dc:identifier>CNS</dc:identifier>
+      <skos:changeNote xml:lang="fr">La procédure de consultation était à l'origine la seule possibilité dont disposait le PE dans l'élaboration des actes normatifs de la Communauté. Elle était donc mentionnée dans les articles qui la prévoyaient. Il n'y avait pas d'article générique unique. { 12006M , 12002M , 11997M , 1992M , 12006E , 12002E , 1997E , 11992E , 11957E }</skos:changeNote>
+      <skos:changeNote xml:lang="fr">julia:s'agit il de l'initiative prévue à l'art.289P4 ou bien de celle prévue à l'art. 225 qui consiste plus pour le PE à suggérer à la Comm° une proposition d'acte législatif ?</skos:changeNote>
+      <skos:definition xml:lang="en">Under Article 289 of the Treaty on the Functioning of the European Union (TFEU), consultation is a special legislative procedure, whereby Parliament is asked for its opinion on proposed legislation before the Council adopts it.</skos:definition>
+      <skos:definition xml:lang="fr">En vertu de l’article 289 du traité sur le fonctionnement de l’Union européenne (TFUE), la consultation est une procédure législative spéciale, dans le cadre de laquelle le Parlement donne son avis sur les propositions législatives avant que le Conseil ne les adopte.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/procedure"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/procedure/af2f645a1c39ec98637679e77cc3a43c"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/procedure/dd71d72072a9941da387a4191360a47b"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/procedure"/>
+   </skos:Concept>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/procedure/af2f645a1c39ec98637679e77cc3a43c">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1958-01-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-06-16</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/EP"/>
+      <rdf:value>CNS</rdf:value>
+      <euvoc:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-11-30</euvoc:endDate>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/procedure/dd71d72072a9941da387a4191360a47b">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1958-01-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-06-16</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/FD_609"/>
+      <rdf:value>(CNS_OLD;1016)</rdf:value>
+      <euvoc:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-11-30</euvoc:endDate>
+   </euvoc:XlNotation>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/procedure/COD"
+                 at:deprecated="true">
+      <skos:prefLabel xml:lang="bg">Процедура за съвместно вземане на решение (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Postup spolurozhodování (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Fælles beslutningsprocedure (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Mitentscheidungsverfahren (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Διαδικασία συναπόφασης (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Co-decision procedure (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Procedimiento de codecisión (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Kaasotsustamismenetlus (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Yhteispäätösmenettely (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Procédure de codécision (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Nós imeachta na comhchinnteoireachta (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Postupak suodlučivanja (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Együttdöntési eljárás (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Procedura di codecisione (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Bendro sprendimo procedūra (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Koplēmuma procedūra (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Proċedura ta' Deċiżjoni konġunta (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Medebeslissingsprocedure (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Procedura współdecyzji (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Procedimento de co-decisão (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Procedură de codecizie (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Postup spolurozhodovania (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Postopek soodločanja (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Medbeslutandeförfarandet (COD)</skos:prefLabel>
+      <at:authority-code>COD</at:authority-code>
+      <at:end.use>2009-11-30</at:end.use>
+      <at:op-code>COD</at:op-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>ATTO</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>COD_OLD</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>ATTO</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>COD_OLD</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>PreLex</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>(COD_OLD;1011)</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>PreLex</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>(COD_OLD;1011)</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:start.use>1993-11-01</at:start.use>
+      <atold:op-code>COD</atold:op-code>
+      <dc:identifier>COD</dc:identifier>
+      <skos:changeNote xml:lang="en">11992E189B , 11997E251 , 12002E251 , 12006E251 , 11957E0251</skos:changeNote>
+      <skos:definition xml:lang="en">The codecision procedure was first introduced with the Maastricht Treaty in 1992. Its purpose was the joint adoption of legislation on an equal footing by the European Parliament and the Council. In 1999, the Treaty of Amsterdam greatly extended the use case of this procedure into new policy areas. With the Treaty of Lisbon in 2009, the procedure was renamed the Ordinary Legislative Procedure, becoming the main decision making procedure covering the vast majority of areas of today’s Union’s action. </skos:definition>
+      <skos:definition xml:lang="fr">La procédure de codécision a été introduite pour la première fois avec le traité de Maastricht en 1992. Son objectif était l’adoption conjointe de la législation, sur un pied d’égalité, par le Parlement européen et le Conseil. En 1999, le traité d’Amsterdam a considérablement étendu le recours à cette procédure à de nouveaux domaines d’action. Avec le traité de Lisbonne en 2009, la procédure a été rebaptisée «procédure législative ordinaire», devenant la principale procédure décisionnelle, qui couvre la plupart des domaines d’action actuels de l’Union.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/procedure"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/procedure/f0dcf03cd683d0eafec10021376e4c4c"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/procedure"/>
+   </skos:Concept>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/procedure/f0dcf03cd683d0eafec10021376e4c4c">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1993-11-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-06-16</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/FD_609"/>
+      <rdf:value>(COD_OLD;1011)</rdf:value>
+      <euvoc:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-11-30</euvoc:endDate>
+   </euvoc:XlNotation>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/procedure/DEA"
+                 at:deprecated="true">
+      <skos:prefLabel xml:lang="bg">Процедурата за делегираните актове (DEA)</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Postup pro přijímání aktů v přenesené pravomoci (DEA)</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Procedure for delegerede retsakter (DEA)</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Verfahren zu delegierten Rechtsakten (DEA)</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Διαδικασία των πράξεων κατ' εξουσιοδότηση (DEA)</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Delegated acts procedure (DEA)</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Procedimiento de actos delegados (DEA)</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Delegeeritud õigusaktide menetlus (DEA)</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Delegoituja säädöksiä koskeva menettely (DEA)</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Procédure d’acte délégué (DEA)</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Nós imeachta um ghníomhartha tarmligthe (DEA)</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Procedura delegiranih pravnih akata (DEA)</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Felhatalmazáson alapuló jogi aktusokra vonatkozó eljárás (DEA)</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Procedura degli atti delegati (DEA)</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Deleguotųjų aktų procedūra (DEA)</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Deleģēto aktu procedūra (DEA)</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Proċedura tal-atti ddelegati (DEA)</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Procedure voor gedelegeerde handelingen (DEA)</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Procedura aktów delegowanych (DEA)</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Processo de atos delegados (DEA)</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Procedura privind actele delegate (DEA)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Postup delegovaných aktov (DEA)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Postopek delegiranih aktov (DEA)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Förfarandet med delegerade akter (DEA)</skos:prefLabel>
+      <at:authority-code>DEA</at:authority-code>
+      <at:end.use>2009-12-02</at:end.use>
+      <at:op-code>DEA</at:op-code>
+      <at:start.use>2009-12-01</at:start.use>
+      <atold:op-code>DEA</atold:op-code>
+      <dc:identifier>DEA</dc:identifier>
+      <skos:changeNote xml:lang="en">Article 290 TFEU</skos:changeNote>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/procedure"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/procedure/035f169b78d5b04c77ab76b71779af96"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/procedure"/>
+      <skos:historyNote xml:lang="en">This concept was erroneously created and is withdrawn.</skos:historyNote>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/procedure/DEC"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Процедура по освобождаване от отговорност във връзка с изпълнението на бюджета (DEC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Postup pro udělování absolutoria (DEC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Budgetdechargeprocedure (DEC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Entlastungsverfahren (DEC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Διαδικασία απαλλαγής για τον προϋπολογισμό (DEC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Budgetary discharge procedure (DEC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Procedimiento de aprobación de la gestión presupuestaria (DEC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Eelarve täitmisele heakskiidu andmise menetlus (DEC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Talousarviota koskeva vastuusvapausmenettely (DEC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Procédure de décharge budgétaire (DEC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Nós imeachta um urscaoileadh buiséadach (DEC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Postupak davanja razrješnice (DEC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Költségvetési mentesítési eljárás (DEC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Procedura di discarico del bilancio (DEC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Biudžeto įvykdymo patvirtinimo procedūra (DEC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Budžeta izpildes apstiprinājuma procedūra (DEC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Proċedura ta' kwittanza baġitarja (DEC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Procedure tot kwijting van de begroting (DEC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Procedura udzielania absolutorium z wykonania budżetu (DEC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Processo de quitação orçamental (DEC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Procedura de descărcare de gestiune (DEC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Postup udelenia rozpočtového absolutória (DEC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Postopek proračunske razrešnice (DEC)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Beviljande av ansvarsfrihet för budgeten (DEC)</skos:prefLabel>
+      <at:authority-code>DEC</at:authority-code>
+      <at:op-code>DEC</at:op-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>EP</dc:source>
+            <at:legacy-code>DEC</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>EP</dc:source>
+            <at:legacy-code>DEC</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:start.use>1958-01-01</at:start.use>
+      <atold:op-code>DEC</atold:op-code>
+      <dc:identifier>DEC</dc:identifier>
+      <skos:definition xml:lang="en">Article 319 of the Treaty on the Functioning of the European Union establishes that the European Parliament, acting on a recommendation of the Council, decides on whether to grant discharge to the European Commission as regards the implementation of the annual budget of the European Union.</skos:definition>
+      <skos:definition xml:lang="fr">L’article 319 du Traité sur le fonctionnement de l’Union européenne dispose que le Parlement européen, sur recommandation du Conseil, décide s’il y a lieu de donner décharge à la Commission européenne pour l’exécution du budget annuel de l’Union européenne.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/procedure"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/procedure/ef296283a2a8e4354ed6b9c77a08bb1c"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/procedure"/>
+      <skos:historyNote xml:lang="en">On 14 August 2020, (DEC) was added to the end of the label in order to align the label of this concept with other labels in this scheme.</skos:historyNote>
+   </skos:Concept>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/procedure/ef296283a2a8e4354ed6b9c77a08bb1c">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1958-01-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-03-20</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/EP"/>
+      <rdf:value>DEC</rdf:value>
+   </euvoc:XlNotation>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/procedure/INL"
+                 at:deprecated="true">
+      <skos:prefLabel xml:lang="bg">Законодателна инициатива (INL)</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Legislativní podnět (INL)</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Lovgivningsinitiativ (INL)</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Gesetzgebungsinitiative (INL)</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Νομοθετική πρωτοβουλία (INL)</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Legislative initiative (INL)</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Iniciativa legislativa (INL)</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Seadusandlik algatus (INL)</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Säädösaloite (INL)</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Initiative législative (INL)</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Tionscnamh reachtach (INL)</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Zakonodavna inicijativa (INL)</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Jogalkotási kezdeményezés (INL)</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Iniziativa legislativa (INL)</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Teisėkūros iniciatyva (INL)</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Likumdošanas iniciatīva (INL)</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Inizjattiva leġiżlattiva (INL)</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Wetgevingsinitiatief (INL)</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Inicjatywa ustawodawcza (INL)</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Iniciativa legislativa (INL)</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Iniţiativă legislativă (INL)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Legislatívna iniciatíva (INL)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Zakonodajna pobuda (INL)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Lagstiftningsinitiativ (INL)</skos:prefLabel>
+      <at:authority-code>INL</at:authority-code>
+      <at:end.use>2013-10-26</at:end.use>
+      <at:op-code>INL</at:op-code>
+      <at:start.use>2013-10-25</at:start.use>
+      <atold:op-code>INL</atold:op-code>
+      <dc:identifier>INL</dc:identifier>
+      <skos:changeNote xml:lang="en">Article 225 TFEU</skos:changeNote>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/procedure"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/procedure/ca6dbda1f71a3e4f067c542accd20654"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/procedure"/>
+      <skos:historyNote xml:lang="en">This concept was erroneously created and is withdrawn.</skos:historyNote>
+   </skos:Concept>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/procedure/ca6dbda1f71a3e4f067c542accd20654">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-10-25</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-10-30</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/EP"/>
+      <rdf:value>INL</rdf:value>
+      <euvoc:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-10-26</euvoc:endDate>
+   </euvoc:XlNotation>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/procedure/NLE"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Незаконодателна процедура (NLE)</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Nelegislativní postup (NLE)</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Ikkelovgivningsprocedure (NLE)</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Rechtsetzungsverfahren ohne Gesetzescharakter (NLE)</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Μη νομοθετική διαδικασία (NLE)</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Non-legislative procedure (NLE)</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Procedimiento no legislativo (NLE)</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Muu kui seadusandlik menetlus (NLE)</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Muu kuin lainsäädäntömenettely (NLE)</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Procédure non législative (NLE)</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Nós imeachta neamhreachtach (NLE)</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Nezakonodavni postupak (NLE)</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Nem jogalkotási eljárás (NLE)</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Procedura non legislativa (NLE)</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Ne teisėkūros procedūra (NLE)</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Ar likumdošanu nesaistīta procedūra (NLE)</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Proċedura mhux leġiżlattiva (NLE)</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Niet-wetgevingsprocedure (NLE)</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Procedura o charakterze nieprawodawczym (NLE)</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Processo não legislativo (NLE)</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Procedură nelegislativă (NLE)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Nelegislatívny postup (NLE)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Nezakonodajni postopek (NLE)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Icke-lagstiftningsförfarande (NLE)</skos:prefLabel>
+      <at:authority-code>NLE</at:authority-code>
+      <at:op-code>NLE</at:op-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>EP</dc:source>
+            <at:legacy-code>NLE</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>PreLex</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>(NLE;1035)</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>PreLex</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>(NLE;1035)</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>EP</dc:source>
+            <at:legacy-code>NLE</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>ATTO</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>NLE</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>ATTO</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>NLE</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:start.use>2009-12-01</at:start.use>
+      <atold:op-code>NLE</atold:op-code>
+      <dc:identifier>NLE</dc:identifier>
+      <skos:changeNote xml:lang="en">12010E290 12010E291 , 12010E290 , 12008E291</skos:changeNote>
+      <skos:definition xml:lang="en">A non-legislative procedure is the law-making process for legal acts of the Union that were not adopted through a legislative procedure. Typically, these are acts adopted by the Commission or the Council in the form of regulations, directives or decisions that supplement or amend non-essential elements of a legislative act or set uniform rules for its implementation. The power to adopt such an act can be exercised only if primary or secondary legislation allows for it and only within the boundaries set by them.</skos:definition>
+      <skos:definition xml:lang="fr">La procédure non législative est le processus législatif relatif aux actes juridiques de l’Union qui n’ont pas été adoptés dans le cadre d’une procédure législative. Il s’agit généralement d’actes adoptés par la Commission ou le Conseil sous la forme de règlements, de directives ou de décisions qui complètent ou modifient des éléments non essentiels d’un acte législatif ou fixent des règles uniformes pour sa mise en œuvre. Le pouvoir d’adopter un tel acte ne peut être exercé que si le droit primaire ou dérivé le permet et uniquement dans les limites qu’il fixe.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/procedure"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/procedure/035a12163599c3ecea26623ae3ae09bd"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/procedure/a319a613f64bc69276fca647601d225d"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/procedure"/>
+   </skos:Concept>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/procedure/a319a613f64bc69276fca647601d225d">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-12-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-06-16</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/EP"/>
+      <rdf:value>NLE</rdf:value>
+   </euvoc:XlNotation>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/procedure/OLP"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Обикновена законодателна процедура (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Řádný legislativní postup (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Almindelig lovgivningsprocedure (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Ordentliches Gesetzgebungsverfahren (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Συνήθης νομοθετική διαδικασία (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Ordinary legislative procedure (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Procedimiento legislativo ordinario (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Seadusandlik tavamenetlus (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Tavallinen lainsäätämisjärjestys (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Procédure législative ordinaire (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Gnáthnós imeachta reachtach (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Redovni zakonodavni postupak (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Rendes jogalkotási eljárás (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Procedura legislativa ordinaria (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Įprasta teisėkūros procedūra (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Parastā likumdošanas procedūra (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Proċedura leġiżlattiva ordinarja (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Gewone wetgevingsprocedure (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Zwykła procedura prawodawcza (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Processo legislativo ordinário (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Procedură legislativă ordinară (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Riadny legislatívny postup (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Redni zakonodajni postopek (COD)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Ordinarie lagstiftningsförfarande (COD)</skos:prefLabel>
+      <at:authority-code>OLP</at:authority-code>
+      <at:op-code>OLP</at:op-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>ATTO</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>COD</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>EP</dc:source>
+            <at:legacy-code>COD</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>EP</dc:source>
+            <at:legacy-code>COD</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>ATTO</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>COD</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>PreLex</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>(COD;1010)</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>PreLex</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>(COD;1010)</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:start.use>2009-12-01</at:start.use>
+      <atold:op-code>OLP</atold:op-code>
+      <dc:identifier>OLP</dc:identifier>
+      <skos:changeNote xml:lang="fr">Le traité de Lisbonne a généralisé la procédure de codécision de très nombreaux domaines Cf tableau COD. Seul le mécanisme de la procédure est décrit à l'art. 294. 12010E294 , 12008E294 , 12007E0294</skos:changeNote>
+      <skos:definition xml:lang="en">The ordinary legislative procedure consists in the joint adoption by the European Parliament and the Council of a regulation, directive or decision in general on a proposal from the Commission. It is defined in Article 294 of the Treaty on the Functioning of the European Union as the most common EU law making procedure. It gives the European Parliament the power to adopt EU laws jointly with the Council of the European Union. With the Lisbon Treaty, the European Parliament has become a co-legislator on an equal footing with the Council, except in the cases provided for in the Treaties where consultation or consent procedures apply.</skos:definition>
+      <skos:definition xml:lang="fr">La procédure législative ordinaire consiste en l’adoption conjointe par le Parlement européen et le Conseil d’un règlement, d’une directive ou d’une décision en général sur une proposition de la Commission. Elle est définie par l’article 294 du traité sur le fonctionnement de l’Union européenne comme la procédure législative de l’Union européenne (UE) la plus courante. Elle donne au Parlement européen le pouvoir d’arrêter des actes conjointement avec le Conseil de l’Union européenne. Avec l’entrée en vigueur du traité de Lisbonne, le Parlement européen est devenu colégislateur, à égalité avec le Conseil, sauf dans les cas, prévus par les traités, où les procédures de consultation et d’approbation s’appliquent.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/procedure"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/procedure/4ff76edc7f47893880c019dda57e2284"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/procedure/9e8e94383fc9074bb060848372c4086c"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/procedure"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/procedure/OP_DATPRO"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Неокончателни данни</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Předběžné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Midlertidige data</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Vorläufige Daten</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Προσωρινά δεδομένα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Provisional data</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Datos provisionales</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Esialgsed andmed</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Alustavat tiedot</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Données provisoires</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Sonraí sealadacha</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Privremeni podaci</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Ideiglenes adatok</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Dati provvisori</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Laikinieji duomenys</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Provizoriski dati</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Dejta provviżorja</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Voorlopige gegevens</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Dane tymczasowe</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Dados provisórios</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Date provizorii</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Predbežné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Začasni podatki</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Tillfälliga uppgifter</skos:prefLabel>
+      <at:authority-code>OP_DATPRO</at:authority-code>
+      <at:op-code>OP_DATPRO</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>OP_DATPRO</atold:op-code>
+      <dc:identifier>OP_DATPRO</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/procedure"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/procedure"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/procedure/PRT"
+                 at:deprecated="true">
+      <skos:prefLabel xml:lang="bg">Социален протокол (PRT)</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Sociální protokol (PRT)</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Protokol om social- og arbejdsmarkedspolitikken (PRT)</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Protokoll über die Sozialpolitik (PRT)</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Κοινωνικό πρωτόκολλο (PRT)</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Social protocol (PRT)</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Protocolo social (PRT)</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Sotsiaalprotokoll (PRT)</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Pöytäkirja sosiaalipolitiikasta (PRT)</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Protocole social (PRT)</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Prótacal sóisialta (PRT)</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Socijalni protokol (PRT)</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Jegyzőkönyv a szociálpolitikáról (PRT)</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Protocollo sulla politica sociale (PRT)</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Socialinis protokolas (PRT)</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Sociālais protokols (PRT)</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Protokoll soċjali (PRT)</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Sociaal protocol (PRT)</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Protokół socjalny (PRT)</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Protocolo social (PRT)</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Protocol social (PRT)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Sociálny protokol (PRT)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Socialni protokol (PRT)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Protokoll om socialpolitik (PRT)</skos:prefLabel>
+      <at:authority-code>PRT</at:authority-code>
+      <at:end.use>1999-04-30</at:end.use>
+      <at:op-code>PRT</at:op-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>PreLex</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>(PRT;1025)</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>ATTO</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>PRT</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>ATTO</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>PRT</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>PreLex</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>(PRT;1025)</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:start.use>1993-11-01</at:start.use>
+      <atold:op-code>PRT</atold:op-code>
+      <dc:identifier>PRT</dc:identifier>
+      <skos:changeNote xml:lang="en">11992M/APS/04-P2 , 11992M/APS/02-P2</skos:changeNote>
+      <skos:definition xml:lang="en">The Agreement on Social Policy of 2 February 1992 was annexed to the Protocol on Social Policy of the Treaty of Maastricht. It gave an important role to social partners in the Community legislative process, which had formerly engaged only the EU institutions. The protocol was incorporated into the text of the Treaty establishing the European Community in 1999.</skos:definition>
+      <skos:definition xml:lang="fr">L’accord sur la politique sociale du 2 février 1992 a été annexé au protocole sur la politique sociale du traité de Maastricht. Il a conféré un rôle important aux partenaires sociaux dans le processus législatif communautaire, qui ne concernait auparavant que les institutions de l’UE. Le protocole a été intégré dans le texte du traité instituant la Communauté européenne en 1999.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/procedure"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/procedure/932ad0b5cd9de5e955cd8534a63e3c08"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/procedure"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/procedure/SLP"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Специална законодателна процедура – консултация с ЕП (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Zvláštní legislativní postup – konzultace s EP (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Særlig lovgivningsprocedure – høring af Europa-Parlamentet (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Besonderes Rechtsetzungsverfahren – Konsultation des Parlaments (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Ειδική νομοθετική διαδικασία – διαβούλευση με το ΕΚ (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Special legislative procedure — EP consulted (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Procedimiento legislativo especial — Consulta al PE (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Seadusandlik erimenetlus – konsulteeritakse Euroopa Parlamendiga (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Erityinen lainsäätämisjärjestys – Euroopan parlamentin kuuleminen (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Procédure législative spéciale — consultation du PE (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Nós imeachta reachtach speisialta – chuathas i gcomhairle le PE (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Poseban zakonodavni postupak – nakon savjetovanja s EP-om (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Különleges jogalkotási eljárás – konzultáció az Európai Parlamenttel (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Procedura legislativa speciale — Consultazione del PE (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Speciali teisėkūros procedūra – konsultacija su EP (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Īpašā likumdošanas procedūra — apspriešanās ar EP (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Proċedura leġiżlattiva speċjali — konsultazzjoni tal-PE (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Bijzondere wetgevingsprocedure — raadpleging van het EP (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Szczególna procedura prawodawcza – konsultacja z PE (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Processo legislativo especial – consulta do PE (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Procedură legislativă specială – consultarea PE (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Mimoriadny legislatívny postup – porada s EP (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Posebni zakonodajni postopek – posvetovanje z EP (CNS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Särskilt lagstiftningsförfarande – samråd med parlamentet (CNS)</skos:prefLabel>
+      <at:authority-code>SLP</at:authority-code>
+      <at:op-code>SLP</at:op-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>PreLex</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>(CNS;1015)</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>PreLex</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>(CNS;1015)</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>ATTO</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>CNS</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>EP</dc:source>
+            <at:legacy-code>CNS</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>ATTO</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>CNS</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>EP</dc:source>
+            <at:legacy-code>CNS</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:start.use>2009-12-01</at:start.use>
+      <atold:op-code>SLP</atold:op-code>
+      <dc:identifier>SLP</dc:identifier>
+      <skos:changeNote xml:lang="fr">29 domaines, dénombrés à ce jour, sont soumis à la procédure de consultation telle qu'issue deu traité de Lisbonne. Il n'existe pas de référence Celex unique. Cf tableau CNS</skos:changeNote>
+      <skos:changeNote xml:lang="fr">Cf tableau</skos:changeNote>
+      <skos:definition xml:lang="en">Under Article 289 of the Treaty on the Functioning of the European Union (TFEU), consultation is a special legislative procedure, whereby Parliament is asked for its opinion on proposed legislation before the Council adopts it.</skos:definition>
+      <skos:definition xml:lang="fr">En vertu de l’article 289 du traité sur le fonctionnement de l’Union européenne (TFUE), la consultation est une procédure législative spéciale, dans le cadre de laquelle le Parlement donne son avis sur les propositions législatives avant que le Conseil ne les adopte.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/procedure"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/procedure/2de56e2c1a0462d9c020ac37ea988644"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/procedure/367b024ccf5f636bcd0cec345fb24ba9"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/procedure"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/procedure/SYN"
+                 at:deprecated="true">
+      <skos:prefLabel xml:lang="bg">Процедура на сътрудничество (SYN)</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Postup spolupráce (SYN)</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Samarbejdsprocedure (SYN)</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Verfahren der Zusammenarbeit (SYN)</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Διαδικασία συνεργασίας (SYN)</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Cooperation procedure (SYN)</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Procedimiento de cooperación (SYN)</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Koostöömenetlus (SYN)</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Yhteistoimintamenettely (SYN)</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Procédure de coopération (SYN)</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Nós imeachta comhair (SYN)</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Postupak suradnje (SYN)</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Együttműködési eljárás (SYN)</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Procedura di cooperazione (SYN)</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Bendradarbiavimo procedūra (SYN)</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Sadarbības procedūra (SYN)</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Proċedura ta' kooperazzjoni (SYN)</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Samenwerkingsprocedure (SYN)</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Procedura współpracy (SYN)</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Procedimento de cooperação (SYN)</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Procedură de cooperare (SYN)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Postup spolupráce (SYN)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Postopek sodelovanja (SYN)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Samarbetsförfarandet (SYN)</skos:prefLabel>
+      <at:authority-code>SYN</at:authority-code>
+      <at:end.use>2009-11-30</at:end.use>
+      <at:op-code>SYN</at:op-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>PreLex</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>(SYN;1005)</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>EP</dc:source>
+            <at:legacy-code>SYN</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>ATTO</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>SYN</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>PreLex</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>(SYN;1005)</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>EP</dc:source>
+            <at:legacy-code>SYN</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>ATTO</dc:source>
+            <at:affected-table>FD_609</at:affected-table>
+            <at:legacy-code>SYN</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:start.use>1987-07-01</at:start.use>
+      <atold:op-code>SYN</atold:op-code>
+      <dc:identifier>SYN</dc:identifier>
+      <skos:changeNote xml:lang="fr">Cf. Tableau excel SYN , 11957E0189_C</skos:changeNote>
+      <skos:changeNote xml:lang="fr">julia: Pas de n° Celex unique. mk: No replacement, no successor?</skos:changeNote>
+      <skos:definition xml:lang="en">The cooperation procedure (formally known as the Article 252 procedure) was one of the legislative procedures of the European Communities, used mostly in the field of economic and monetary policy. Although the opinion of the European Parliament weighed heavily, it could not block the legislative process. The procedure was finally repealed by the Treaty of Lisbon in 2009.</skos:definition>
+      <skos:definition xml:lang="fr">La procédure de coopération (connue officiellement comme la procédure de l’article 252) était l’une des procédures législatives des Communautés européennes, utilisée principalement dans le domaine de la politique économique et monétaire. Bien que l’avis du Parlement européen pesait lourdement, celui-ci ne pouvait pas bloquer le processus législatif. La procédure a finalement été abrogée par le traité de Lisbonne en 2009.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/procedure"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/procedure/3392b71d491fc3f79315c652657de4f9"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/procedure/5bf9acc6ee6a69f384fe037ab647cb5d"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/procedure"/>
+   </skos:Concept>
+</rdf:RDF>

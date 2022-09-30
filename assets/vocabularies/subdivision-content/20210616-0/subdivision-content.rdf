@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:at="http://publications.europa.eu/ontology/authority/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:atold="http://publications.europa.eu/resource/authority/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xml:base="http://publications.europa.eu/resource/authority/subdivision-content">
+   <skos:ConceptScheme rdf:about="http://publications.europa.eu/resource/authority/subdivision-content"
+                       at:table.id="subdivision-content"
+                       at:table.version.number="20210616-0">
+      <at:prefLabel xml:lang="en">Subdivision content</at:prefLabel>
+      <rdfs:label xml:lang="en">Subdivision content</rdfs:label>
+      <owl:versionInfo>20210616-0</owl:versionInfo>
+      <skos:prefLabel xml:lang="en">Subdivision content</skos:prefLabel>
+   </skos:ConceptScheme>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/subdivision-content/ART_AMEND"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Член с разпоредби за изменение</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Článek s pozměňujícími ustanoveními</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Artikel med ændringsbestemmelser</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Artikel mit Änderungsbestimmungen</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Άρθρο με τροποποιητικές διατάξεις</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Article with amending provisions</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Artículo de disposiciones modificativas</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Muudatussätteid sisaldav artikkel</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Muutossäännökset sisältävä artikla</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Article contenant des dispositions modificatives</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Airteagal a bhfuil forálacha leasuithe ag gabháil leis</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Članak s izmjenama odredaba</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Módosító rendelkezéseket tartalmazó cikk</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Articolo con disposizioni modificative</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Straipsnis su keitimo nuostatomis</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Pants, kas satur grozošos noteikumus</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Artikolu b’dispożizzjonijiet emendatorji</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Artikel met wijzigingsbepalingen</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Artykuł z przepisami zmieniającymi</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Artigo com disposições modificativas</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Articol cu dispoziții de modificare</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Článok s pozmeňujúcimi ustanoveniami</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Člen z določbami o spremembah</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Artikel med ändringsbestämmelser</skos:prefLabel>
+      <at:authority-code>ART_AMEND</at:authority-code>
+      <at:op-code>ART_AMEND</at:op-code>
+      <at:start.use>1972-12-01</at:start.use>
+      <atold:op-code>ART_AMEND</atold:op-code>
+      <dc:identifier>ART_AMEND</dc:identifier>
+      <skos:definition xml:lang="en">The concept “article with amending provisions” refers to an article which contains provisions amending earlier acts.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/subdivision-content"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/subdivision-content"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/subdivision-content/ART_DEF"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Член с определения</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Článek s definicemi</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Artikel med definitioner</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Artikel mit Begriffsbestimmungen</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Άρθρο για τους ορισμούς</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Article on definitions</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Artículo de definiciones</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Artikkel mõistete kohta</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Määritelmät sisältävä artikla</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Article relatif aux définitions</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Airteagal maidir le sainmhínithe</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Članak o definicijama</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Fogalommeghatározásokat tartalmazó cikk</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Articolo di definizioni</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Apibrėžčių straipsnis</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Pants, kas satur definīcijas</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Artikolu dwar id-definizzjonijiet</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Artikel met definities</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Artykuł z definicjami</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Artigo de definições</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Articol cu definiții</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Článok s vymedzením pojmov</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Člen o opredelitvah</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Artikel med definitioner</skos:prefLabel>
+      <at:authority-code>ART_DEF</at:authority-code>
+      <at:op-code>ART_DEF</at:op-code>
+      <at:start.use>1989-05-01</at:start.use>
+      <atold:op-code>ART_DEF</atold:op-code>
+      <dc:identifier>ART_DEF</dc:identifier>
+      <skos:definition xml:lang="en">The concept “article on definitions” refers to an article which contains definitions of terms used in an act.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/subdivision-content"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/subdivision-content"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/subdivision-content/BACKGROUND"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Контекст</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Souvislosti</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Baggrund</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Hintergrund</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Ιστορικό</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Background</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Referencias</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Taustteave</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Tausta</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Contexte</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Cúlra</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Kontekst</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Háttér</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Contesto</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Pagrindiniai faktai</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Konteksts</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Sfond</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Achtergrond</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Przebieg procedury</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Historial</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Context</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Súvislosti</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Ozadje</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Bakgrund</skos:prefLabel>
+      <at:authority-code>BACKGROUND</at:authority-code>
+      <at:op-code>BACKGROUND</at:op-code>
+      <at:start.use>2008-09-18</at:start.use>
+      <atold:op-code>BACKGROUND</atold:op-code>
+      <dc:identifier>BACKGROUND</dc:identifier>
+      <skos:definition xml:lang="en">The concept “Background” refers to a text division (point or section) in preparatory documents issued during the ordinary legislative procedure. It provides information on the procedure in question. In the Commission preparatory documents, it indicates the dates of the main events in the procedure, as well as the procedure number and the COM number of the proposal.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/subdivision-content"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/subdivision-content"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/subdivision-content/BLOCK_SFR"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Текстов блок с научна формула</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Blok s vědeckým vzorcem</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Tekstblok med videnskabelig formel</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Formelblock</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Ενότητα επιστημονικού τύπου</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Scientific formula block</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Fórmula científica (bloque)</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Teaduslik valem (plokk)</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Tieteellisen kaavan sisältävä lohko</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Bloc de formule scientifique</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Bloc na foirmle eolaíche</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Blok znanstvene formule</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Tudományosképlet-blokk</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Blocco di formula scientifica</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Mokslinės formulės blokas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Zinātniskas formulas bloks</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Block tal-formula xjentifika</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Formuleblok</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Blok wzoru naukowego</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Bloco de fórmula científica</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Bloc de formulă științifică</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Blok s vedeckým vzorcom</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Sklop znanstvenih formul</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Textblock med vetenskaplig formel</skos:prefLabel>
+      <at:authority-code>BLOCK_SFR</at:authority-code>
+      <at:op-code>BLOCK_SFR</at:op-code>
+      <at:start.use>1966-11-26</at:start.use>
+      <atold:op-code>BLOCK_SFR</atold:op-code>
+      <dc:identifier>BLOCK_SFR</dc:identifier>
+      <skos:definition xml:lang="en">Scientific formula block is a scientific formula preceded by a sentence introducing it.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/subdivision-content"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/subdivision-content"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/subdivision-content/BLOCK_TAB"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Текстов блок с таблица</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Blok s tabulkou</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Tekstblok med tabel</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Tabellenblock</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Ενότητα πίνακα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Table block</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Cuadro (bloque)</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Tabel (plokk)</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Taulukkolohko</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Bloc de tableau</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Blocthábla</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Blok tablice</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Táblázatblokk</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Blocco di tabella</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Lentelės blokas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Tabulas bloks</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Block tat-tabella</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Tabelblok</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Blok tabeli</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Bloco de quadro</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Bloc de tabel</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Blok s tabuľkou</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Sklop tabel</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Textblock med tabell</skos:prefLabel>
+      <at:authority-code>BLOCK_TAB</at:authority-code>
+      <at:op-code>BLOCK_TAB</at:op-code>
+      <at:start.use>1968-09-28</at:start.use>
+      <atold:op-code>BLOCK_TAB</atold:op-code>
+      <dc:identifier>BLOCK_TAB</dc:identifier>
+      <skos:definition xml:lang="en">Table block is a table together with its linked elements, like heading, legend etc.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/subdivision-content"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/subdivision-content"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/subdivision-content/CITATION_DASH"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Цитиране с тире</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Citace s pomlčkou</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Henvisning med tankestreg</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Zitat mit Gedankenstrich</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Αιτιολογική αναφορά με παύλα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Citation with dash</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Cita con guion</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Tsitaat taandega</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Ajatusviivallinen johdanto-osan viite</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Citation avec tiret</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Aithris le fleasc</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Pozivanje s crticom</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Gondolatjeles bevezető hivatkozás</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Citazione con trattino</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Brūkšniu prasidedanti citata</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Citāts ar domuzīmi</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Ċitazzjoni bid-dash</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Citaat met streepje</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Umocowanie rozpoczynające się myślnikiem</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Citação com travessão</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Citare cu liniuță</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Citácia so zarážkou</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Navedba s pomišljajem</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Beaktandeled med tankstreck</skos:prefLabel>
+      <at:authority-code>CITATION_DASH</at:authority-code>
+      <at:op-code>CITATION_DASH</at:op-code>
+      <at:start.use>1994-07-19</at:start.use>
+      <atold:op-code>CITATION_DASH</atold:op-code>
+      <dc:identifier>CITATION_DASH</dc:identifier>
+      <skos:definition xml:lang="en">This element marks citations in the preamble of a legislative resolution by the European Parliament starting with a dash.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/subdivision-content"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/subdivision-content"/>
+      <skos:example xml:lang="en">Example document: COV DLV20 1.31 - P9_TA(2020)0184. 
+The European Parliament,
+– having regard to the Council position at first reading (05112/1/2020 – C9-0106/2020)</skos:example>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/subdivision-content/FTN_CONTENT"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Съдържание на бележките под линия</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Obsah poznámek pod čarou</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Fodnoternes indhold</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Fußnoteninhalt</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Περιεχόμενο των υποσημειώσεων</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Content of footnotes</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Contenido de las notas a pie de página</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Allmärkuste sisu</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Alaviitteiden sisältö</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Contenu des notes de bas de page</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Inneachar na bhfonótaí</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Sadržaj bilježaka</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Lábjegyzetek tartalma</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Contenuto delle note a piè di pagina</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Išnašų turinys</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Zemsvītras piezīmju saturs</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Kontenut tan-noti f’qiegħ il-paġna</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Inhoud van voetnoten</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Treść przypisów</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Conteúdo das notas de rodapé</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Conținutul notelor de subsol</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Obsah poznámok pod čiarou</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Vsebina opomb</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Fotnotsinnehåll</skos:prefLabel>
+      <at:authority-code>FTN_CONTENT</at:authority-code>
+      <at:op-code>FTN_CONTENT</at:op-code>
+      <at:start.use>2021-06-01</at:start.use>
+      <atold:op-code>FTN_CONTENT</atold:op-code>
+      <dc:identifier>FTN_CONTENT</dc:identifier>
+      <skos:definition xml:lang="en">The concept ‘content of footnotes’ is used to identify in AKN4EU the component which groups the content of all the footnotes in a document.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/subdivision-content"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/subdivision-content"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/subdivision-content/OP_DATPRO"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">НЕОКОНЧАТЕЛНИ ДАННИ</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Předběžné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Midlertidige data</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Vorläufige Daten</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Προσωρινά δεδομένα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Provisional data</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Datos provisionales</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Esialgsed andmed</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Alustavat tiedot</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Données provisoires</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Sonraí sealadacha</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Privremeni podaci</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Ideiglenes adatok</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Dati provvisori</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Laikinieji duomenys</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Provizoriski dati</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Dejta provviżorja</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Voorlopige gegevens</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Dane tymczasowe</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Dados provisórios</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Date provizorii</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Predbežné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Začasni podatki</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Tillfälliga uppgifter</skos:prefLabel>
+      <at:authority-code>OP_DATPRO</at:authority-code>
+      <at:op-code>OP_DATPRO</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>OP_DATPRO</atold:op-code>
+      <dc:identifier>OP_DATPRO</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/subdivision-content"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/subdivision-content"/>
+   </skos:Concept>
+</rdf:RDF>

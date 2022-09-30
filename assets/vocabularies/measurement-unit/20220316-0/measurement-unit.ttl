@@ -1,0 +1,2947 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/2N> a skos:Concept ;
+    at:authority-code "2N" ;
+    at:deprecated "false" ;
+    at:op-code "2N" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "2N" ;
+    dc:identifier "2N" ;
+    skos:altLabel "dB"@bg,
+        "dB"@cs,
+        "dB"@da,
+        "dB"@de,
+        "dB"@el,
+        "dB"@en,
+        "dB"@es,
+        "dB"@et,
+        "dB"@fi,
+        "dB"@fr,
+        "dB"@ga,
+        "dB"@hr,
+        "dB"@hu,
+        "dB"@it,
+        "dB"@lt,
+        "dB"@lv,
+        "dB"@mt,
+        "dB"@nl,
+        "dB"@pl,
+        "dB"@pt,
+        "dB"@ro,
+        "dB"@sk,
+        "dB"@sl,
+        "dB"@sv ;
+    skos:definition "The decibel (dB) is a unit of sound intensity. One bel represents the logarithm of a ratio between two power quantities of 10:1, or the logarithm of a ratio between two field quantities of √10:1. One decibel is one tenth (deci-) of one bel."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "децибел"@bg,
+        "decibel"@cs,
+        "decibel"@da,
+        "Dezibel"@de,
+        "ντεσιμπέλ"@el,
+        "decibel"@en,
+        "decibelio"@es,
+        "detsibell"@et,
+        "desibeli"@fi,
+        "décibel"@fr,
+        "deicibeil"@ga,
+        "decibel"@hr,
+        "decibel"@hu,
+        "decibel"@it,
+        "decibelas"@lt,
+        "decibeli"@lv,
+        "decibel"@mt,
+        "decibel"@nl,
+        "decybel"@pl,
+        "decibel"@pt,
+        "decibel"@ro,
+        "decibel"@sk,
+        "decibel"@sl,
+        "decibel"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/3C> a skos:Concept ;
+    at:authority-code "3C" ;
+    at:deprecated "false" ;
+    at:op-code "3C" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "3C" ;
+    dc:identifier "3C" ;
+    skos:altLabel "mandemåned"@da,
+        "man-month"@en,
+        "homme-mois"@fr,
+        "mese-uomo"@it,
+        "om-lună"@ro,
+        "osobomesiac"@sk ;
+    skos:definition "The manmonth is a unit of count defining the number of months for a person or persons to perform an undertaking."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "човекомесец"@bg,
+        "člověkoměsíc"@cs,
+        "mandmåned"@da,
+        "Mannmonat"@de,
+        "ανθρωπομήνας"@el,
+        "manmonth"@en,
+        "hombre-mes"@es,
+        "inimkuu"@et,
+        "henkilötyökuukausi"@fi,
+        "mois-homme"@fr,
+        "daonmhí"@ga,
+        "čovjek-mjesec"@hr,
+        "emberhónap"@hu,
+        "uomo-mese"@it,
+        "asmens darbo mė́nuo"@lt,
+        "cilvēkmēneši"@lv,
+        "xhur ta’ xogħol"@mt,
+        "manmaand"@nl,
+        "osobomiesiąc"@pl,
+        "homem-mês"@pt,
+        "luni-om"@ro,
+        "človekomesiac"@sk,
+        "človek-mesec"@sl,
+        "manmånad"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/AD> a skos:Concept ;
+    at:authority-code "AD" ;
+    at:deprecated "false" ;
+    at:op-code "AD" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "AD" ;
+    dc:identifier "AD" ;
+    skos:altLabel "B"@bg,
+        "B"@cs,
+        "B"@da,
+        "B"@de,
+        "B"@el,
+        "B"@en,
+        "B"@es,
+        "B"@et,
+        "B"@fi,
+        "B"@fr,
+        "B"@ga,
+        "B"@hr,
+        "B"@hu,
+        "B"@it,
+        "B"@lt,
+        "B"@lv,
+        "B"@mt,
+        "B"@nl,
+        "B"@pl,
+        "B"@pt,
+        "B"@ro,
+        "B"@sk,
+        "B"@sl,
+        "B"@sv ;
+    skos:definition "The byte is a unit of information equal to 8 bits."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "байт"@bg,
+        "bajt"@cs,
+        "byte"@da,
+        "Byte"@de,
+        "μπάιτ"@el,
+        "byte"@en,
+        "byte"@es,
+        "bait"@et,
+        "tavu"@fi,
+        "byte"@fr,
+        "beart"@ga,
+        "bajt"@hr,
+        "byte"@hu,
+        "byte"@it,
+        "baitas"@lt,
+        "baiti"@lv,
+        "byte"@mt,
+        "byte"@nl,
+        "bajt"@pl,
+        "byte"@pt,
+        "byte"@ro,
+        "bajt"@sk,
+        "bajt"@sl,
+        "byte"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/AMP> a skos:Concept ;
+    at:authority-code "AMP" ;
+    at:deprecated "false" ;
+    at:op-code "AMP" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "AMP" ;
+    dc:identifier "AMP" ;
+    skos:altLabel "A"@bg,
+        "A"@cs,
+        "A"@da,
+        "A"@de,
+        "A"@el,
+        "A"@en,
+        "A"@es,
+        "A"@et,
+        "A"@fi,
+        "A"@fr,
+        "A"@ga,
+        "A"@hr,
+        "A"@hu,
+        "A"@it,
+        "A"@lt,
+        "A"@lv,
+        "A"@mt,
+        "A"@nl,
+        "A"@pl,
+        "A"@pt,
+        "A"@ro,
+        "A"@sk,
+        "A"@sl,
+        "A"@sv ;
+    skos:definition "The ampere (A) is the base unit of electric current in the International System of Units, equivalent to 6.24×1018 elementary charges, such as electrons, moving through a surface in one second."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "ампер"@bg,
+        "ampér"@cs,
+        "ampere"@da,
+        "Ampere"@de,
+        "αμπέρ"@el,
+        "ampere"@en,
+        "amperio"@es,
+        "amper"@et,
+        "ampeeri"@fi,
+        "ampère"@fr,
+        "aimpéar"@ga,
+        "amper"@hr,
+        "amper"@hu,
+        "ampère"@it,
+        "amperas"@lt,
+        "ampēri"@lv,
+        "ampere"@mt,
+        "ampère"@nl,
+        "amper"@pl,
+        "ampere"@pt,
+        "amper"@ro,
+        "ampér"@sk,
+        "amper"@sl,
+        "ampere"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/BAR> a skos:Concept ;
+    at:authority-code "BAR" ;
+    at:deprecated "false" ;
+    at:op-code "BAR" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "BAR" ;
+    dc:identifier "BAR" ;
+    skos:altLabel "bar"@bg,
+        "bar"@de,
+        "bar"@el,
+        "bar"@et,
+        "bar"@fi,
+        "bar"@lt,
+        "bar"@lv ;
+    skos:definition "The bar (bar) is a non-SI unit of pressure (i.e. outside of the International System of Units), defined as exactly equal to 100 000 Pa, 10⁵ Pa, which is slightly less than the current average atmospheric pressure on Earth at sea level."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "бар"@bg,
+        "bar"@cs,
+        "bar"@da,
+        "Bar"@de,
+        "μπαρ"@el,
+        "bar"@en,
+        "bar"@es,
+        "baar"@et,
+        "baari"@fi,
+        "bar"@fr,
+        "bar"@ga,
+        "bar"@hr,
+        "bar"@hu,
+        "bar"@it,
+        "baras"@lt,
+        "bāri"@lv,
+        "bar"@mt,
+        "bar"@nl,
+        "bar"@pl,
+        "bar"@pt,
+        "bar"@ro,
+        "bar"@sk,
+        "bar"@sl,
+        "bar"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/BIT> a skos:Concept ;
+    at:authority-code "BIT" ;
+    at:deprecated "false" ;
+    at:op-code "BIT" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "BIT" ;
+    dc:identifier "BIT" ;
+    skos:altLabel "b"@bg,
+        "b"@cs,
+        "b"@da,
+        "b"@de,
+        "b"@el,
+        "b"@en,
+        "b"@es,
+        "b"@et,
+        "b"@fi,
+        "b"@fr,
+        "b"@ga,
+        "b"@hr,
+        "b"@hu,
+        "b"@it,
+        "b"@lt,
+        "b"@lv,
+        "b"@mt,
+        "b"@nl,
+        "b"@pl,
+        "b"@pt,
+        "b"@ro,
+        "b"@sk,
+        "b"@sl,
+        "b"@sv ;
+    skos:definition "The bit (b), short for \"binary digit\", is a non-SI unit of information (i.e. outside of the International System of Units) used in computing and digital communications, defined as the minimum amount of information required to make one simple yes-or-no decision at the lowest level in a system."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "бит"@bg,
+        "bit"@cs,
+        "bit"@da,
+        "Bit"@de,
+        "μπιτ"@el,
+        "bit"@en,
+        "bit"@es,
+        "bitt"@et,
+        "bitti"@fi,
+        "bit"@fr,
+        "giotán"@ga,
+        "bit"@hr,
+        "bit"@hu,
+        "bit"@it,
+        "bitas"@lt,
+        "biti"@lv,
+        "bit"@mt,
+        "bit"@nl,
+        "bit"@pl,
+        "bit"@pt,
+        "bit"@ro,
+        "bit"@sk,
+        "bit"@sl,
+        "bit"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/BQL> a skos:Concept ;
+    at:authority-code "BQL" ;
+    at:deprecated "false" ;
+    at:op-code "BQL" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "BQL" ;
+    dc:identifier "BQL" ;
+    skos:altLabel "Bq"@bg,
+        "Bq"@cs,
+        "Bq"@da,
+        "Bq"@de,
+        "Bq"@el,
+        "Bq"@en,
+        "Bq"@es,
+        "becquerelio"@es,
+        "Bq"@et,
+        "Bq"@fi,
+        "Bq"@fr,
+        "Bq"@ga,
+        "Bq"@hr,
+        "Bq"@hu,
+        "Bq"@it,
+        "Bq"@lt,
+        "Bq"@lv,
+        "Bq"@mt,
+        "Bq"@nl,
+        "Bq"@pl,
+        "Bq"@pt,
+        "Bq"@ro,
+        "Bq"@sk,
+        "Bq"@sl,
+        "Bq"@sv ;
+    skos:definition "The becquerel (Bq) is a derived unit of radioactivity in the International System of Units, defined as the activity of a quantity of radioactive material in which one nucleus decays per second, 1 Bq = s⁻¹."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "бекерел"@bg,
+        "becquerel"@cs,
+        "becquerel"@da,
+        "Becquerel"@de,
+        "μπεκερέλ"@el,
+        "becquerel"@en,
+        "becquerel"@es,
+        "bekrell"@et,
+        "becquerel"@fi,
+        "becquerel"@fr,
+        "beicireil"@ga,
+        "bekerel"@hr,
+        "becquerel"@hu,
+        "becquerel"@it,
+        "bekerelis"@lt,
+        "bekereli"@lv,
+        "becquerel"@mt,
+        "becquerel"@nl,
+        "bekerel"@pl,
+        "becquerel"@pt,
+        "becquerel"@ro,
+        "becquerel"@sk,
+        "bekerel"@sl,
+        "becquerel"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/C34> a skos:Concept ;
+    at:authority-code "C34" ;
+    at:deprecated "false" ;
+    at:op-code "C34" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "C34" ;
+    dc:identifier "C34" ;
+    skos:altLabel "mol"@bg,
+        "mol"@de,
+        "mol"@el,
+        "γραμμομόριο"@el,
+        "mol"@en,
+        "mol"@et,
+        "mol"@fi,
+        "mol"@fr,
+        "mol"@ga,
+        "mol"@hu,
+        "mol"@it,
+        "mol"@lt,
+        "mol"@lv,
+        "mol"@pt ;
+    skos:definition "The mole (mol) is the base unit for amount of substance in the International System of Units, defined as the amount of a chemical substance that contains exactly 6.02214076 × 1023 constitutive particles, e.g. atoms, molecules, ions or electrons."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "мол"@bg,
+        "mol"@cs,
+        "mol"@da,
+        "Mol"@de,
+        "μολ"@el,
+        "mole"@en,
+        "mol"@es,
+        "mool"@et,
+        "mooli"@fi,
+        "mole"@fr,
+        "mól"@ga,
+        "mol"@hr,
+        "mól"@hu,
+        "mole"@it,
+        "molis"@lt,
+        "moli"@lv,
+        "mol"@mt,
+        "mol"@nl,
+        "mol"@pl,
+        "mole"@pt,
+        "mol"@ro,
+        "mol"@sk,
+        "mol"@sl,
+        "mol"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/C45> a skos:Concept ;
+    at:authority-code "C45" ;
+    at:deprecated "false" ;
+    at:op-code "C45" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "C45" ;
+    dc:identifier "C45" ;
+    skos:altLabel "нм"@bg,
+        "nm"@cs,
+        "nm"@da,
+        "nm"@de,
+        "nm"@el,
+        "nm"@en,
+        "nm"@es,
+        "nm"@et,
+        "nm"@fi,
+        "nm"@fr,
+        "nm"@ga,
+        "nm"@hr,
+        "nm"@hu,
+        "nm"@it,
+        "nm"@lt,
+        "nm"@lv,
+        "nm"@mt,
+        "nm"@nl,
+        "nm"@pl,
+        "nm"@pt,
+        "nm"@ro,
+        "nm"@sk,
+        "nm"@sl,
+        "nm"@sv ;
+    skos:definition "The nanometre (nm) is a unit of length in the International System of Units, equal to one billionth of a metre, 10⁻⁹ m (0.000000001 m)."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "нанометър"@bg,
+        "nanometr"@cs,
+        "nanometer"@da,
+        "Nanometer"@de,
+        "νανόμετρο"@el,
+        "nanometre"@en,
+        "nanómetro"@es,
+        "nanomeeter"@et,
+        "nanometri"@fi,
+        "nanomètre"@fr,
+        "nanaiméadar"@ga,
+        "nanometar"@hr,
+        "nanométer"@hu,
+        "nanometro"@it,
+        "nanometras"@lt,
+        "nanometri"@lv,
+        "nanometru"@mt,
+        "nanometer"@nl,
+        "nanometr"@pl,
+        "nanometro"@pt,
+        "nanometru"@ro,
+        "nanometer"@sk,
+        "nanometer"@sl,
+        "nanometer"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/CDL> a skos:Concept ;
+    at:authority-code "CDL" ;
+    at:deprecated "false" ;
+    at:op-code "CDL" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "CDL" ;
+    dc:identifier "CDL" ;
+    skos:altLabel "кд"@bg,
+        "cd"@cs,
+        "cd"@da,
+        "cd"@de,
+        "cd"@el,
+        "κηρίο"@el,
+        "cd"@en,
+        "cd"@es,
+        "cd"@et,
+        "cd"@fi,
+        "cd"@fr,
+        "cd"@ga,
+        "cd"@hr,
+        "cd"@hu,
+        "cd"@it,
+        "cd"@lt,
+        "cd"@lv,
+        "cd"@mt,
+        "cd"@nl,
+        "cd"@pl,
+        "cd"@pt,
+        "cd"@ro,
+        "cd"@sk,
+        "cd"@sl,
+        "cd"@sv ;
+    skos:definition "The candela (cd) is the base unit of luminous intensity in the International System of Units. It is defined as the luminous intensity, in a given direction, of a source that emits monochromatic radiation of frequency 540×1012 hertz and has a radiant intensity in that direction of 1/683 watt per steradian."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "кандела"@bg,
+        "kandela"@cs,
+        "candela"@da,
+        "Candela"@de,
+        "καντέλα"@el,
+        "candela"@en,
+        "candela"@es,
+        "kandela"@et,
+        "kandela"@fi,
+        "candela"@fr,
+        "caindéile"@ga,
+        "kandela"@hr,
+        "kandela"@hu,
+        "candela"@it,
+        "kandela"@lt,
+        "kandelas"@lv,
+        "candela"@mt,
+        "candela"@nl,
+        "kandela"@pl,
+        "candela"@pt,
+        "candela"@ro,
+        "kandela"@sk,
+        "kandela"@sl,
+        "candela"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/CEL> a skos:Concept ;
+    at:authority-code "CEL" ;
+    at:deprecated "false" ;
+    at:op-code "CEL" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "CEL" ;
+    dc:identifier "CEL" ;
+    skos:altLabel "°C"@bg,
+        "°C"@cs,
+        "celsiusgrad"@da,
+        "°C"@da,
+        "°C"@de,
+        "°C"@el,
+        "°C"@en,
+        "°C"@es,
+        "°C"@et,
+        "°C"@fi,
+        "°C"@fr,
+        "°C"@ga,
+        "°C"@hr,
+        "°C"@hu,
+        "°C"@it,
+        "°C"@lt,
+        "°C"@lv,
+        "°C"@mt,
+        "°C"@nl,
+        "°C"@pl,
+        "°C"@pt,
+        "°C"@ro,
+        "°C"@sk,
+        "°C"@sl,
+        "°C"@sv ;
+    skos:definition "The degree Celsius (°C) is a unit of temperature used by the International System of Units. The scale used to be based on 0 °C for the freezing point of water and 100 °C for the boiling point of water. The degree Celsius and the Celsius scale are now defined by absolute zero and the triple point of Vienna Standard Mean Ocean Water."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "градус по Целзий"@bg,
+        "stupeň Celsia"@cs,
+        "grad celsius"@da,
+        "Grad Celsius"@de,
+        "βαθμός Κελσίου"@el,
+        "degree Celsius"@en,
+        "grado Celsius"@es,
+        "Celsiuse kraad"@et,
+        "celsiusaste"@fi,
+        "degré Celsius"@fr,
+        "céim Celsius"@ga,
+        "Celzijev stupanj"@hr,
+        "Celsius-fok"@hu,
+        "grado centigrado"@it,
+        "Celsijaus laipsnis"@lt,
+        "Celsija grādi"@lv,
+        "grad Celsius"@mt,
+        "graad Celsius"@nl,
+        "stopień Celsjusza"@pl,
+        "graus centígrados"@pt,
+        "grad Celsius"@ro,
+        "stupeň Celzia"@sk,
+        "stopinja Celzija"@sl,
+        "grad Celsius"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/CMK> a skos:Concept ;
+    at:authority-code "CMK" ;
+    at:deprecated "false" ;
+    at:op-code "CMK" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "CMK" ;
+    dc:identifier "CMK" ;
+    skos:altLabel "см²"@bg,
+        "cm²"@cs,
+        "cm²"@da,
+        "cm²"@de,
+        "cm²"@el,
+        "cm²"@en,
+        "cm²"@es,
+        "cm²"@et,
+        "cm²"@fi,
+        "cm²"@fr,
+        "cm²"@ga,
+        "cm²"@hr,
+        "cm²"@hu,
+        "cm²"@it,
+        "cm²"@lt,
+        "cm²"@lv,
+        "cm²"@mt,
+        "cm²"@nl,
+        "cm²"@pl,
+        "cm²"@pt,
+        "cm²"@ro,
+        "cm²"@sk,
+        "cm²"@sl,
+        "cm²"@sv ;
+    skos:definition "The square centimetre (cm²) is a unit of area in the International System of Units, equivalent to the area formed by a square measuring 1 cm by 1 cm, 10⁻⁴ m²."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "квадратен сантиметър"@bg,
+        "centimetr čtvereční"@cs,
+        "kvadratcentimeter"@da,
+        "Quadratzentimeter"@de,
+        "τετραγωνικό εκατοστό"@el,
+        "square centimetre"@en,
+        "centímetro cuadrado"@es,
+        "ruutsentimeeter"@et,
+        "neliösenttimetri"@fi,
+        "centimètre carré"@fr,
+        "ceintiméadar cearnach"@ga,
+        "kvadratni centimetar"@hr,
+        "négyzetcentiméter"@hu,
+        "centimetro quadrato"@it,
+        "kvadratinis centimetras"@lt,
+        "kvadrātcentimetri"@lv,
+        "ċentimetru kwadru"@mt,
+        "vierkante centimeter"@nl,
+        "centymetr kwadratowy"@pl,
+        "centímetro quadrado"@pt,
+        "centimetru pătrat"@ro,
+        "centimeter štvorcový"@sk,
+        "kvadratni centimeter"@sl,
+        "kvadratcentimeter"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/CMQ> a skos:Concept ;
+    at:authority-code "CMQ" ;
+    at:deprecated "false" ;
+    at:op-code "CMQ" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "CMQ" ;
+    dc:identifier "CMQ" ;
+    skos:altLabel "см³"@bg,
+        "cm³"@cs,
+        "cm³"@da,
+        "cm³"@de,
+        "cm³"@el,
+        "cm³"@en,
+        "cm³"@es,
+        "cm³"@et,
+        "cm³"@fi,
+        "cm³"@fr,
+        "cm³"@ga,
+        "cm³"@hr,
+        "cm³"@hu,
+        "cm³"@it,
+        "cm³"@lt,
+        "cm³"@lv,
+        "cm³"@mt,
+        "cm³"@nl,
+        "cm³"@pl,
+        "cm³"@pt,
+        "cm³"@ro,
+        "cm³"@sk,
+        "cm³"@sl,
+        "cm³"@sv ;
+    skos:definition "The cubic centimetre (cm³) is a unit of volume in the International System of Units, equivalent to the volume formed by a cube measuring 1 cm by 1 cm by 1 cm, 10⁻⁶ m³."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "кубичен сантиметър"@bg,
+        "centimetr krychlový"@cs,
+        "kubikcentimeter"@da,
+        "Kubikzentimeter"@de,
+        "κυβικό εκατοστό"@el,
+        "cubic centimetre"@en,
+        "centímetro cúbico"@es,
+        "kuupsentimeeter"@et,
+        "kuutiosenttimetri"@fi,
+        "centimètre cube"@fr,
+        "ceintiméadar ciúbach"@ga,
+        "kubični centimetar"@hr,
+        "köbcentiméter"@hu,
+        "centimetro cubo"@it,
+        "kubinis centimetras"@lt,
+        "kubikcentimetri"@lv,
+        "ċentimetru kubu"@mt,
+        "kubieke centimeter"@nl,
+        "centymetr sześcienny"@pl,
+        "centímetro cúbico"@pt,
+        "centimetru cub"@ro,
+        "centimeter kubický"@sk,
+        "kubični centimeter"@sl,
+        "kubikcentimeter"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/CMT> a skos:Concept ;
+    at:authority-code "CMT" ;
+    at:deprecated "false" ;
+    at:op-code "CMT" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "CMT" ;
+    dc:identifier "CMT" ;
+    skos:altLabel "см"@bg,
+        "cm"@cs,
+        "cm"@da,
+        "cm"@de,
+        "cm"@el,
+        "cm"@en,
+        "cm"@es,
+        "cm"@et,
+        "cm"@fi,
+        "cm"@fr,
+        "cm"@ga,
+        "cm"@hr,
+        "cm"@hu,
+        "cm"@it,
+        "cm"@lt,
+        "cm"@lv,
+        "cm"@mt,
+        "cm"@nl,
+        "cm"@pl,
+        "cm"@pt,
+        "cm"@ro,
+        "cm"@sk,
+        "cm"@sl,
+        "cm"@sv ;
+    skos:definition "The centimetre (cm) is a unit of length in the International System of Units, equivalent to one hundredth of a metre, 10⁻² m (0.01 m)."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "сантиметър"@bg,
+        "centimetr"@cs,
+        "centimeter"@da,
+        "Zentimeter"@de,
+        "εκατοστόμετρο"@el,
+        "centimetre"@en,
+        "centímetro"@es,
+        "sentimeeter"@et,
+        "senttimetri"@fi,
+        "centimètre"@fr,
+        "ceintiméadar"@ga,
+        "centimetar"@hr,
+        "centiméter"@hu,
+        "centimetro"@it,
+        "centimetras"@lt,
+        "centimetri"@lv,
+        "ċentimetru"@mt,
+        "centimeter"@nl,
+        "centymetr"@pl,
+        "centímetro"@pt,
+        "centimetru"@ro,
+        "centimeter"@sk,
+        "centimeter"@sl,
+        "centimeter"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/D30> a skos:Concept ;
+    at:authority-code "D30" ;
+    at:deprecated "false" ;
+    at:op-code "D30" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "D30" ;
+    dc:identifier "D30" ;
+    skos:altLabel "TJ"@bg,
+        "TJ"@cs,
+        "TJ"@da,
+        "TJ"@de,
+        "TJ"@el,
+        "TJ"@en,
+        "TJ"@es,
+        "tJ"@et,
+        "TJ"@fi,
+        "TJ"@fr,
+        "TJ"@ga,
+        "TJ"@hr,
+        "TJ"@hu,
+        "TJ"@it,
+        "TJ"@lt,
+        "TJ"@lv,
+        "TJ"@mt,
+        "TJ"@nl,
+        "TJ"@pl,
+        "TJ"@pt,
+        "TJ"@ro,
+        "TJ"@sk,
+        "TJ"@sl,
+        "TJ"@sv ;
+    skos:definition "The terajoule (TJ) is a derived unit of energy in the International System of Units, equivalent to one trillion, 1000 000 000 000 (10¹²), joules."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "тераджаул"@bg,
+        "terajoule"@cs,
+        "terajoule"@da,
+        "Terajoule"@de,
+        "τερατζάουλ"@el,
+        "terajoule"@en,
+        "terajulio"@es,
+        "teradžaul"@et,
+        "terajoule"@fi,
+        "térajoule"@fr,
+        "teirigiúl"@ga,
+        "teradžul"@hr,
+        "terajoule"@hu,
+        "terajoule"@it,
+        "teradžaulis"@lt,
+        "teradžouli"@lv,
+        "terajoule"@mt,
+        "terajoule"@nl,
+        "teradżul"@pl,
+        "terajoule"@pt,
+        "terajoule"@ro,
+        "terajoule"@sk,
+        "terajoule"@sl,
+        "terajoule"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/E34> a skos:Concept ;
+    at:authority-code "E34" ;
+    at:deprecated "false" ;
+    at:op-code "E34" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "E34" ;
+    dc:identifier "E34" ;
+    skos:altLabel "GB"@bg,
+        "GB"@cs,
+        "GB"@da,
+        "GB"@de,
+        "GB"@el,
+        "GB"@en,
+        "GB"@es,
+        "GB"@et,
+        "GB"@fi,
+        "GB"@fr,
+        "GB"@ga,
+        "GB"@hr,
+        "GB"@hu,
+        "GB"@it,
+        "GB"@lt,
+        "GB"@lv,
+        "GB"@mt,
+        "GB"@nl,
+        "GB"@pl,
+        "GB"@pt,
+        "GB"@ro,
+        "GB"@sk,
+        "GB"@sl,
+        "GB"@sv ;
+    skos:definition "The gigabyte is a unit of information equal to 10⁹ bytes."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "гигабайт"@bg,
+        "gigabajt"@cs,
+        "gigabyte"@da,
+        "Gigabyte"@de,
+        "γιγαμπάιτ"@el,
+        "gigabyte"@en,
+        "gigabyte"@es,
+        "gigabait"@et,
+        "gigatavu"@fi,
+        "gigabyte"@fr,
+        "gigibheart"@ga,
+        "gigabajt"@hr,
+        "gigabyte"@hu,
+        "gigabyte"@it,
+        "gigabaitas"@lt,
+        "gigabaiti"@lv,
+        "gigabyte"@mt,
+        "gigabyte"@nl,
+        "gigabajt"@pl,
+        "gigabyte"@pt,
+        "gigabyte"@ro,
+        "gigabajt"@sk,
+        "gigabajt"@sl,
+        "gigabyte"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/GRM> a skos:Concept ;
+    at:authority-code "GRM" ;
+    at:deprecated "false" ;
+    at:op-code "GRM" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "GRM" ;
+    dc:identifier "GRM" ;
+    skos:altLabel "г"@bg,
+        "g"@cs,
+        "g"@da,
+        "g"@de,
+        "g"@el,
+        "g"@en,
+        "g"@es,
+        "g"@et,
+        "g"@fi,
+        "g"@fr,
+        "g"@ga,
+        "g"@hr,
+        "g"@hu,
+        "g"@it,
+        "g"@lt,
+        "g"@lv,
+        "g"@mt,
+        "g"@nl,
+        "g"@pl,
+        "g"@pt,
+        "g"@ro,
+        "g"@sk,
+        "g"@sl,
+        "g"@sv ;
+    skos:definition "The gram (g) is a unit of mass in the International System of Units (SI), equivalent to one thousandth of the SI base unit, the kilogram, 10⁻³ kg (0.001 kg)."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "грам"@bg,
+        "gram"@cs,
+        "gram"@da,
+        "Gramm"@de,
+        "γραμμάριο"@el,
+        "gram"@en,
+        "gramo"@es,
+        "gramm"@et,
+        "gramma"@fi,
+        "gramme"@fr,
+        "gram"@ga,
+        "gram"@hr,
+        "gramm"@hu,
+        "grammo"@it,
+        "gramas"@lt,
+        "grami"@lv,
+        "gramm"@mt,
+        "gram"@nl,
+        "gram"@pl,
+        "grama"@pt,
+        "gram"@ro,
+        "gram"@sk,
+        "gram"@sl,
+        "gram"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/GTE> a skos:Concept ;
+    at:authority-code "GTE" ;
+    at:deprecated "false" ;
+    at:op-code "GTE" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "GTE" ;
+    dc:identifier "GTE" ;
+    skos:altLabel "бт"@bg,
+        "BT"@cs,
+        "GT"@da,
+        "BRZ"@de,
+        "BT"@el,
+        "GT"@en,
+        "TRB"@es,
+        "GT"@et,
+        "GT"@fi,
+        "GT"@fr,
+        "GT"@ga,
+        "GT"@hr,
+        "GT"@hu,
+        "GT"@it,
+        "GT"@lt,
+        "GT"@lv,
+        "bruto tonnāža"@lv,
+        "GT"@mt,
+        "tonnellaġġ gross"@mt,
+        "GT"@nl,
+        "GT"@pl,
+        "tonażu brutto"@pl,
+        "GT"@pt,
+        "GT"@ro,
+        "GT"@sk,
+        "GT"@sl,
+        "GT"@sv ;
+    skos:definition "The gross tonnage (GT) is a nonlinear unit of measurement, equivalent to the volume of all of a ship's enclosed spaces (from keel to funnel) measured to the outside of the hull framing."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "брутна товароносимост"@bg,
+        "hrubá prostornost"@cs,
+        "bruttotonnage"@da,
+        "Bruttoraumzahl"@de,
+        "ολική χωρητικότητα"@el,
+        "gross tonnage"@en,
+        "arqueo bruto"@es,
+        "kogumahutavus"@et,
+        "bruttovetoisuus"@fi,
+        "jauge brute"@fr,
+        "olltonnáiste"@ga,
+        "bruto tonaža"@hr,
+        "bruttó űrtartalom"@hu,
+        "stazza lorda"@it,
+        "bendroji talpa"@lt,
+        "bruto tilpība"@lv,
+        "tunnellaġġ gross"@mt,
+        "brutotonnage"@nl,
+        "pojemność brutto"@pl,
+        "arqueação bruta"@pt,
+        "tonaj brut"@ro,
+        "hrubá tonáž"@sk,
+        "bruto tonaža"@sl,
+        "bruttodräktighet"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/GWH> a skos:Concept ;
+    at:authority-code "GWH" ;
+    at:deprecated "false" ;
+    at:op-code "GWH" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "GWH" ;
+    dc:identifier "GWH" ;
+    skos:altLabel "гВт/ч"@bg,
+        "GWh"@cs,
+        "GWh"@da,
+        "GWh"@de,
+        "GWh"@el,
+        "GWh"@en,
+        "GWh"@es,
+        "GWh"@et,
+        "GWh"@fi,
+        "GWh"@fr,
+        "gigawatt-heure"@fr,
+        "GWh"@ga,
+        "GWh"@hr,
+        "GWh"@hu,
+        "GWh"@it,
+        "GWh"@lt,
+        "GWh"@lv,
+        "GWh"@mt,
+        "GWh"@nl,
+        "GWh"@pl,
+        "GWh"@pt,
+        "GWh"@ro,
+        "GWh"@sk,
+        "GWh"@sl,
+        "GWh"@sv ;
+    skos:definition "The gigawatt-hour (GWh, GW⋅h) is a composite unit of energy in the International System of Units, equivalent to a million (10⁶) kilowatt-hours."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "гигаватчас"@bg,
+        "gigawatthodina"@cs,
+        "gigawatt-time"@da,
+        "Gigawattstunde"@de,
+        "γιγαβατώρα"@el,
+        "gigawatt-hour"@en,
+        "gigavatio-hora"@es,
+        "gigavatt-tund"@et,
+        "gigawattitunti"@fi,
+        "gigawattheure"@fr,
+        "gigeavatuair"@ga,
+        "gigavatsat"@hr,
+        "gigawattóra"@hu,
+        "gigawattora"@it,
+        "gigavatvalandė"@lt,
+        "gigavatstundas"@lv,
+        "gigawatt is-siegħa"@mt,
+        "gigawattuur"@nl,
+        "gigawatogodzina"@pl,
+        "gigawatt‑hora"@pt,
+        "gigawatt‑oră"@ro,
+        "gigawatthodina"@sk,
+        "gigavatna ura"@sl,
+        "gigawattimme"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/HAR> a skos:Concept ;
+    at:authority-code "HAR" ;
+    at:deprecated "false" ;
+    at:op-code "HAR" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "HAR" ;
+    dc:identifier "HAR" ;
+    skos:altLabel "ха"@bg,
+        "ha"@cs,
+        "ha"@da,
+        "ha"@de,
+        "ha"@el,
+        "ha"@en,
+        "ha"@es,
+        "ha"@et,
+        "ha"@fi,
+        "ha"@fr,
+        "ha"@ga,
+        "ha"@hr,
+        "ha"@hu,
+        "ha"@it,
+        "ha"@lt,
+        "ha"@lv,
+        "ha"@mt,
+        "ha"@nl,
+        "ha"@pl,
+        "ha"@pt,
+        "ha"@ro,
+        "ha"@sk,
+        "ha"@sl,
+        "ha"@sv ;
+    skos:definition "The hectare (ha) is a unit of area in the International System of Units, equivalent to 10 000 square meters, 10⁴ m²."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "хектар"@bg,
+        "hektar"@cs,
+        "hektar"@da,
+        "Hektar"@de,
+        "εκτάριο"@el,
+        "hectare"@en,
+        "hectárea"@es,
+        "hektar"@et,
+        "hehtaari"@fi,
+        "hectare"@fr,
+        "heicteár"@ga,
+        "hektar"@hr,
+        "hektár"@hu,
+        "ettaro"@it,
+        "hektaras"@lt,
+        "hektāri"@lv,
+        "ettaru"@mt,
+        "hectare"@nl,
+        "hektar"@pl,
+        "hectare"@pt,
+        "hectar"@ro,
+        "hektár"@sk,
+        "hektar"@sl,
+        "hektar"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/HLT> a skos:Concept ;
+    at:authority-code "HLT" ;
+    at:deprecated "false" ;
+    at:op-code "HLT" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "HLT" ;
+    dc:identifier "HLT" ;
+    skos:altLabel "хл"@bg,
+        "hl"@cs,
+        "hl"@da,
+        "hl"@de,
+        "hl"@el,
+        "hl"@en,
+        "hl"@es,
+        "hl"@et,
+        "hl"@fi,
+        "hl"@fr,
+        "hl"@ga,
+        "hl"@hr,
+        "hl"@hu,
+        "hl"@it,
+        "hl"@lt,
+        "hl"@lv,
+        "hl"@mt,
+        "hl"@nl,
+        "hl"@pl,
+        "hl"@pt,
+        "hl"@ro,
+        "hl"@sk,
+        "hl"@sl,
+        "hl"@sv ;
+    skos:definition "The hectolitre (hl) is a unit of fluid volume (or capacity), equivalent to the volume of hundred litres, 100 l, or 10⁻¹ m³ (0.1 m³)."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "хектолитър"@bg,
+        "hektolitr"@cs,
+        "hektoliter"@da,
+        "Hektoliter"@de,
+        "εκατόλιτρο"@el,
+        "hectolitre"@en,
+        "hectolitro"@es,
+        "hektoliiter"@et,
+        "hehtolitra"@fi,
+        "hectolitre"@fr,
+        "heictilítear"@ga,
+        "hektolitar"@hr,
+        "hektoliter"@hu,
+        "ettolitro"@it,
+        "hektolitras"@lt,
+        "hektolitri"@lv,
+        "ettolitru"@mt,
+        "hectoliter"@nl,
+        "hektolitr"@pl,
+        "hectolitro"@pt,
+        "hectolitru"@ro,
+        "hektoliter"@sk,
+        "hektoliter"@sl,
+        "hektoliter"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/HTZ> a skos:Concept ;
+    at:authority-code "HTZ" ;
+    at:deprecated "false" ;
+    at:op-code "HTZ" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "HTZ" ;
+    dc:identifier "HTZ" ;
+    skos:altLabel "Хц"@bg,
+        "Hz"@cs,
+        "Hz"@da,
+        "Hz"@de,
+        "Hz"@el,
+        "Hz"@en,
+        "Hz"@es,
+        "Hz"@et,
+        "Hz"@fi,
+        "Hz"@fr,
+        "Hz"@ga,
+        "Hz"@hr,
+        "Hz"@hu,
+        "Hz"@it,
+        "Hz"@lt,
+        "Hz"@lv,
+        "Hz"@mt,
+        "Hz"@nl,
+        "Hz"@pl,
+        "Hz"@pt,
+        "Hz"@ro,
+        "Hz"@sk,
+        "Hz"@sl,
+        "Hz"@sv ;
+    skos:definition "The hertz (Hz) is the derived unit of frequency in the International System of Units, defined as one cycle per second."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "херц"@bg,
+        "hertz"@cs,
+        "hertz"@da,
+        "Hertz"@de,
+        "χερτζ"@el,
+        "hertz"@en,
+        "hertzio"@es,
+        "herts"@et,
+        "hertsi"@fi,
+        "hertz"@fr,
+        "hertz"@ga,
+        "herc"@hr,
+        "hertz"@hu,
+        "hertz"@it,
+        "hercas"@lt,
+        "herci"@lv,
+        "hertz"@mt,
+        "hertz"@nl,
+        "herc"@pl,
+        "hertz"@pt,
+        "hertz"@ro,
+        "hertz"@sk,
+        "hertz"@sl,
+        "hertz"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/HUR> a skos:Concept ;
+    at:authority-code "HUR" ;
+    at:deprecated "false" ;
+    at:op-code "HUR" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "HUR" ;
+    dc:identifier "HUR" ;
+    skos:altLabel "ч"@bg,
+        "h"@cs,
+        "h"@da,
+        "h"@de,
+        "h"@el,
+        "h"@en,
+        "h"@es,
+        "h"@et,
+        "h"@fi,
+        "h"@fr,
+        "u"@ga,
+        "h"@hr,
+        "ura"@hr,
+        "h"@hu,
+        "h"@it,
+        "h"@lt,
+        "h"@lv,
+        "h"@mt,
+        "h"@nl,
+        "h"@pl,
+        "h"@pt,
+        "h"@ro,
+        "h"@sk,
+        "h"@sl,
+        "tim"@sv ;
+    skos:definition "The hour (h) is a unit of time accepted for use with the International System of Units, equivalent to 1⁄24 of a day, 3600 seconds (scientifically reckoned as 3599–3601 seconds)."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "час"@bg,
+        "hodina"@cs,
+        "time"@da,
+        "Stunde"@de,
+        "ώρα"@el,
+        "hour"@en,
+        "hora"@es,
+        "tund"@et,
+        "tunti"@fi,
+        "heure"@fr,
+        "uair"@ga,
+        "sat"@hr,
+        "óra"@hu,
+        "ora"@it,
+        "valanda"@lt,
+        "stundas"@lv,
+        "siegħa"@mt,
+        "uur"@nl,
+        "godzina"@pl,
+        "hora"@pt,
+        "oră"@ro,
+        "hodina"@sk,
+        "ura"@sl,
+        "timme"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/JOU> a skos:Concept ;
+    at:authority-code "JOU" ;
+    at:deprecated "false" ;
+    at:op-code "JOU" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "JOU" ;
+    dc:identifier "JOU" ;
+    skos:altLabel "J"@bg,
+        "J"@cs,
+        "J"@da,
+        "J"@de,
+        "J"@el,
+        "J"@en,
+        "J"@es,
+        "J"@et,
+        "J"@fi,
+        "J"@fr,
+        "J"@ga,
+        "J"@hr,
+        "J"@hu,
+        "J"@it,
+        "J"@lt,
+        "J"@lv,
+        "J"@mt,
+        "J"@nl,
+        "J"@pl,
+        "J"@pt,
+        "J"@ro,
+        "J"@sk,
+        "J"@sl,
+        "džul"@sl,
+        "J"@sv ;
+    skos:definition "The joule (J) is a derived unit of energy in the International System of Units, equivalent to the energy transferred to (or work done on) an object when a force of one newton acts on that object in the direction of its motion through a distance of one metre."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "джаул"@bg,
+        "joule"@cs,
+        "joule"@da,
+        "Joule"@de,
+        "τζάουλ"@el,
+        "joule"@en,
+        "julio"@es,
+        "džaul"@et,
+        "joule"@fi,
+        "joule"@fr,
+        "giúl"@ga,
+        "džul"@hr,
+        "joule"@hu,
+        "joule"@it,
+        "džaulis"@lt,
+        "džouli"@lv,
+        "joule"@mt,
+        "joule"@nl,
+        "dżul"@pl,
+        "joule"@pt,
+        "joule"@ro,
+        "joule"@sk,
+        "joule"@sl,
+        "joule"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/KEL> a skos:Concept ;
+    at:authority-code "KEL" ;
+    at:deprecated "false" ;
+    at:op-code "KEL" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "KEL" ;
+    dc:identifier "KEL" ;
+    skos:altLabel "K"@bg,
+        "K"@cs,
+        "K"@da,
+        "K"@de,
+        "K"@el,
+        "K"@en,
+        "K"@es,
+        "K"@et,
+        "K"@fi,
+        "K"@fr,
+        "K"@ga,
+        "K"@hr,
+        "K"@hu,
+        "K"@it,
+        "K"@lt,
+        "K"@lv,
+        "K"@mt,
+        "K"@nl,
+        "K"@pl,
+        "K"@pt,
+        "K"@ro,
+        "K"@sk,
+        "K"@sl,
+        "K"@sv ;
+    skos:definition "The Kelvin (K) is the base unit of temperature in the International System of Units. The Kelvin scale is an absolute thermodynamic temperature scale using as its null point absolute zero, the temperature at which all thermal motion ceases."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "градус Келвин"@bg,
+        "kelvin"@cs,
+        "kelvin"@da,
+        "Kelvin"@de,
+        "κέλβιν"@el,
+        "kelvin"@en,
+        "kelvin"@es,
+        "kelvin"@et,
+        "kelvin"@fi,
+        "kelvin"@fr,
+        "ceilvin"@ga,
+        "kelvin"@hr,
+        "kelvin"@hu,
+        "kelvin"@it,
+        "kelvinas"@lt,
+        "kelvini"@lv,
+        "kelvin"@mt,
+        "kelvin"@nl,
+        "kelwin"@pl,
+        "kelvin"@pt,
+        "kelvin"@ro,
+        "kelvin"@sk,
+        "kelvin"@sl,
+        "kelvin"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/KGM> a skos:Concept ;
+    at:authority-code "KGM" ;
+    at:deprecated "false" ;
+    at:op-code "KGM" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "KGM" ;
+    dc:identifier "KGM" ;
+    skos:altLabel "кг"@bg,
+        "kg"@cs,
+        "kg"@da,
+        "kg"@de,
+        "kg"@el,
+        "κιλό"@el,
+        "kg"@en,
+        "kg"@es,
+        "kg"@et,
+        "kg"@fi,
+        "kg"@fr,
+        "kg"@ga,
+        "kg"@hr,
+        "kg"@hu,
+        "kg"@it,
+        "kg"@lt,
+        "kg"@lv,
+        "kg"@mt,
+        "kg"@nl,
+        "kg"@pl,
+        "kg"@pt,
+        "kg"@ro,
+        "kg"@sk,
+        "kg"@sl,
+        "kg"@sv ;
+    skos:definition "The kilogram (kg) is the base unit of mass in the International System of Units. It remains defined by a platinum alloy cylinder, the international prototype kilogram stored in Saint-Cloud, Paris."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "килограм"@bg,
+        "kilogram"@cs,
+        "kilogram"@da,
+        "Kilogramm"@de,
+        "χιλιόγραμμο"@el,
+        "kilogram"@en,
+        "kilogramo"@es,
+        "kilogramm"@et,
+        "kilogramma"@fi,
+        "kilogramme"@fr,
+        "cileagram"@ga,
+        "kilogram"@hr,
+        "kilogramm"@hu,
+        "chilogrammo"@it,
+        "kilogramas"@lt,
+        "kilogrami"@lv,
+        "kilogramm"@mt,
+        "kilogram"@nl,
+        "kilogram"@pl,
+        "quilograma"@pt,
+        "kilogram"@ro,
+        "kilogram"@sk,
+        "kilogram"@sl,
+        "kilogram"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/KMH> a skos:Concept ;
+    at:authority-code "KMH" ;
+    at:deprecated "false" ;
+    at:op-code "KMH" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "KMH" ;
+    dc:identifier "KMH" ;
+    skos:altLabel "к/ч"@bg,
+        "km/h"@cs,
+        "km/h"@da,
+        "km/h"@de,
+        "km/h"@el,
+        "km/h"@en,
+        "km/h"@es,
+        "km/h"@et,
+        "km/h"@fi,
+        "km/h"@fr,
+        "km/h"@ga,
+        "km/h"@hr,
+        "km/h"@hu,
+        "km/h"@it,
+        "km/h"@lt,
+        "km/h"@lv,
+        "km/h"@mt,
+        "km/h"@nl,
+        "km/h"@pl,
+        "km/h"@pt,
+        "km/h"@ro,
+        "km/h"@sk,
+        "km/h"@sl,
+        "km/tim"@sv ;
+    skos:definition "The kilometre per hour (km/h) is a unit of speed in the International System of Units, equivalent to the number of kilometres covered in one hour."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "километър в час"@bg,
+        "kilometr za hodinu"@cs,
+        "kilometer pr. time"@da,
+        "Kilometer pro Stunde"@de,
+        "χιλιόμετρο ανά ώρα"@el,
+        "kilometre per hour"@en,
+        "kilómetro por hora"@es,
+        "kilomeeter tunnis"@et,
+        "kilometri tunnissa"@fi,
+        "kilomètre par heure"@fr,
+        "ciliméadar san uair"@ga,
+        "kilometar na sat"@hr,
+        "kilométer/óra"@hu,
+        "chilometro orario"@it,
+        "kilometras per valandą"@lt,
+        "kilometri stundā"@lv,
+        "kilometru fis-siegħa"@mt,
+        "kilometer per uur"@nl,
+        "kilometr na godzinę"@pl,
+        "quilómetro por hora"@pt,
+        "kilometru pe oră"@ro,
+        "kilometer za hodinu"@sk,
+        "kilometer na uro"@sl,
+        "kilometer per timme"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/KMK> a skos:Concept ;
+    at:authority-code "KMK" ;
+    at:deprecated "false" ;
+    at:op-code "KMK" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "KMK" ;
+    dc:identifier "KMK" ;
+    skos:altLabel "км²"@bg,
+        "km²"@cs,
+        "km²"@da,
+        "km²"@de,
+        "km²"@el,
+        "km²"@en,
+        "km²"@es,
+        "km²"@et,
+        "km²"@fi,
+        "km²"@fr,
+        "km²"@ga,
+        "km²"@hr,
+        "km²"@hu,
+        "km²"@it,
+        "km²"@lt,
+        "km²"@lv,
+        "km²"@mt,
+        "km²"@nl,
+        "km²"@pl,
+        "km²"@pt,
+        "km²"@ro,
+        "km²"@sk,
+        "km²"@sl,
+        "km²"@sv ;
+    skos:definition "The square kilometre (km²) is a unit of area in the International System of Units, equivalent to the area formed by a square measuring 1 km by 1 km, 10⁶ m²."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "квадратен километър"@bg,
+        "kilometr čtvereční"@cs,
+        "kvadratkilometer"@da,
+        "Quadratkilometer"@de,
+        "τετραγωνικό χιλιόμετρο"@el,
+        "square kilometre"@en,
+        "kilómetro cuadrado"@es,
+        "ruutkilomeeter"@et,
+        "neliökilometri"@fi,
+        "kilomètre carré"@fr,
+        "ciliméadar cearnach"@ga,
+        "kvadratni kilometar"@hr,
+        "négyzetkilométer"@hu,
+        "chilometro quadrato"@it,
+        "kvadratinis kilometras"@lt,
+        "kvadrātkilometri"@lv,
+        "kilometru kwadru"@mt,
+        "vierkante kilometer"@nl,
+        "kilometr kwadratowy"@pl,
+        "quilómetro quadrado"@pt,
+        "kilometru pătrat"@ro,
+        "kilometer štvorcový"@sk,
+        "kvadratni kilometer"@sl,
+        "kvadratkilometer"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/KTM> a skos:Concept ;
+    at:authority-code "KTM" ;
+    at:deprecated "false" ;
+    at:op-code "KTM" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "KTM" ;
+    dc:identifier "KTM" ;
+    skos:altLabel "км"@bg,
+        "km"@cs,
+        "km"@da,
+        "km"@de,
+        "km"@el,
+        "km"@en,
+        "km"@es,
+        "km"@et,
+        "km"@fi,
+        "km"@fr,
+        "km"@ga,
+        "km"@hr,
+        "km"@hu,
+        "km"@it,
+        "km"@lt,
+        "km"@lv,
+        "km"@mt,
+        "km"@nl,
+        "km"@pl,
+        "km"@pt,
+        "km"@ro,
+        "km"@sk,
+        "km"@sl,
+        "km"@sv ;
+    skos:definition "The kilometre (km) is a unit of length in the International System of Units, equivalent to 1000 meters, 10³ m, or about 0.621 miles."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "километър"@bg,
+        "kilometr"@cs,
+        "kilometer"@da,
+        "Kilometer"@de,
+        "χιλιόμετρο"@el,
+        "kilometre"@en,
+        "kilómetro"@es,
+        "kilomeeter"@et,
+        "kilometri"@fi,
+        "kilomètre"@fr,
+        "ciliméadar"@ga,
+        "kilometar"@hr,
+        "kilométer"@hu,
+        "chilometro"@it,
+        "kilometras"@lt,
+        "kilometri"@lv,
+        "kilometru"@mt,
+        "kilometer"@nl,
+        "kilometr"@pl,
+        "quilómetro"@pt,
+        "kilometru"@ro,
+        "kilometer"@sk,
+        "kilometer"@sl,
+        "kilometer"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/KWH> a skos:Concept ;
+    at:authority-code "KWH" ;
+    at:deprecated "false" ;
+    at:op-code "KWH" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "KWH" ;
+    dc:identifier "KWH" ;
+    skos:altLabel "кВт/ч"@bg,
+        "kWh"@cs,
+        "kWh"@da,
+        "kWh"@de,
+        "kWh"@el,
+        "χιλιοβατώριο"@el,
+        "kWh"@en,
+        "kWh"@es,
+        "kWh"@et,
+        "kWh"@fi,
+        "kWh"@fr,
+        "kilowatt-heure"@fr,
+        "kWh"@ga,
+        "kWh"@hr,
+        "kWh"@hu,
+        "kWh"@it,
+        "kWh"@lt,
+        "kWh"@lv,
+        "kWh"@mt,
+        "kWh"@nl,
+        "kWh"@pl,
+        "kWh"@pt,
+        "kWh"@ro,
+        "kWh"@sk,
+        "kWh"@sl,
+        "kWh"@sv ;
+    skos:definition "The kilowatt-hour (kWh, kW⋅h) is a composite unit of energy in the International System of Units, equivalent to the energy provided by a thousand watts in one hour."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "киловатчас"@bg,
+        "kilowatthodina"@cs,
+        "kilowatt-time"@da,
+        "Kilowattstunde"@de,
+        "κιλοβατώρα"@el,
+        "kilowatt-hour"@en,
+        "kilovatio-hora"@es,
+        "kilovatt-tund"@et,
+        "kilowattitunti"@fi,
+        "kilowattheure"@fr,
+        "cileavatuair"@ga,
+        "kilovatsat"@hr,
+        "kilowattóra"@hu,
+        "chilowattora"@it,
+        "kilovatvalandė"@lt,
+        "kilovatstundas"@lv,
+        "kilowatt is-siegħa"@mt,
+        "kilowattuur"@nl,
+        "kilowatogodzina"@pl,
+        "quilowatt-hora"@pt,
+        "kilowatt-oră"@ro,
+        "kilowatthodina"@sk,
+        "kilovatna ura"@sl,
+        "kilowattimme"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/KWT> a skos:Concept ;
+    at:authority-code "KWT" ;
+    at:deprecated "false" ;
+    at:op-code "KWT" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "KWT" ;
+    dc:identifier "KWT" ;
+    skos:altLabel "кВт"@bg,
+        "kW"@cs,
+        "kW"@da,
+        "kW"@de,
+        "kW"@el,
+        "kW"@en,
+        "kW"@es,
+        "kW"@et,
+        "kW"@fi,
+        "kW"@fr,
+        "kW"@ga,
+        "kW"@hr,
+        "kW"@hu,
+        "kW"@it,
+        "kW"@lt,
+        "kW"@lv,
+        "kW"@mt,
+        "kW"@nl,
+        "kW"@pl,
+        "kW"@pt,
+        "kW"@ro,
+        "kW"@sk,
+        "kW"@sl,
+        "kW"@sv ;
+    skos:definition "The kilowatt (kW) is a unit of power in the International System of Units, equivalent to one thousand watts, 10³ W."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "киловат"@bg,
+        "kilowatt"@cs,
+        "kilowatt"@da,
+        "Kilowatt"@de,
+        "κιλοβάτ"@el,
+        "kilowatt"@en,
+        "kilovatio"@es,
+        "kilovatt"@et,
+        "kilowatti"@fi,
+        "kilowatt"@fr,
+        "cileavata"@ga,
+        "kilovat"@hr,
+        "kilowatt"@hu,
+        "chilowatt"@it,
+        "kilovatas"@lt,
+        "kilovati"@lv,
+        "kilowatt"@mt,
+        "kilowatt"@nl,
+        "kilowat"@pl,
+        "quilowatt"@pt,
+        "kilowatt"@ro,
+        "kilowatt"@sk,
+        "kilovat"@sl,
+        "kilowatt"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/LH> a skos:Concept ;
+    at:authority-code "LH" ;
+    at:deprecated "false" ;
+    at:op-code "LH" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "LH" ;
+    dc:identifier "LH" ;
+    skos:altLabel "siegħa maħduma"@mt,
+        "odpracovana hodina"@sl,
+        "arbetad timme"@sv ;
+    skos:definition "The labour hour is a unit of time defining the number of labour hours."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "работен час"@bg,
+        "pracovní hodina"@cs,
+        "arbejdstime"@da,
+        "Arbeitsstunde"@de,
+        "εργατοώρα"@el,
+        "labour hour"@en,
+        "hora de trabajo"@es,
+        "töötund"@et,
+        "työtunti"@fi,
+        "heure de travail"@fr,
+        "uair an tsaothair"@ga,
+        "radni sat"@hr,
+        "munkaóra"@hu,
+        "ora lavorativa"@it,
+        "dirbta valanda"@lt,
+        "darba stundas"@lv,
+        "sigħat ta’ xogħol"@mt,
+        "arbeidsuur"@nl,
+        "godzina pracy"@pl,
+        "hora de trabalho"@pt,
+        "oră de muncă"@ro,
+        "hodina práce"@sk,
+        "delovna ura"@sl,
+        "arbetstimme"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/LTR> a skos:Concept ;
+    at:authority-code "LTR" ;
+    at:deprecated "false" ;
+    at:op-code "LTR" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "LTR" ;
+    dc:identifier "LTR" ;
+    skos:altLabel "л"@bg,
+        "l"@cs,
+        "l"@da,
+        "l"@de,
+        "l"@el,
+        "l"@en,
+        "l"@es,
+        "l"@et,
+        "l"@fi,
+        "l"@fr,
+        "l"@ga,
+        "l"@hr,
+        "l"@hu,
+        "l"@it,
+        "l"@lt,
+        "l"@lv,
+        "l"@mt,
+        "l"@nl,
+        "l"@pl,
+        "l"@pt,
+        "l"@ro,
+        "l"@sk,
+        "l"@sl,
+        "l"@sv ;
+    skos:definition "The litre (l) is a unit of volume accepted for use with the International System of Units, representing the volume of 10 cm × 10 cm × 10 cm, 1000 cubic centimetres (cm³) and is thus equal to one thousandth of a cubic metre, 10⁻³ m³, or 1 cubic decimetre (dm³)."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "литър"@bg,
+        "litr"@cs,
+        "liter"@da,
+        "Liter"@de,
+        "λίτρο"@el,
+        "litre"@en,
+        "litro"@es,
+        "liiter"@et,
+        "litra"@fi,
+        "litre"@fr,
+        "lítear"@ga,
+        "litra"@hr,
+        "liter"@hu,
+        "litro"@it,
+        "litras"@lt,
+        "litri"@lv,
+        "litru"@mt,
+        "liter"@nl,
+        "litr"@pl,
+        "litro"@pt,
+        "litru"@ro,
+        "liter"@sk,
+        "liter"@sl,
+        "liter"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/MAW> a skos:Concept ;
+    at:authority-code "MAW" ;
+    at:deprecated "false" ;
+    at:op-code "MAW" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "MAW" ;
+    dc:identifier "MAW" ;
+    skos:altLabel "МВт"@bg,
+        "MW"@cs,
+        "MW"@da,
+        "MW"@de,
+        "MW"@el,
+        "MW"@en,
+        "MW"@es,
+        "MW"@et,
+        "MW"@fi,
+        "MW"@fr,
+        "MW"@ga,
+        "MW"@hr,
+        "MW"@hu,
+        "MW"@it,
+        "MW"@lt,
+        "MW"@lv,
+        "MW"@mt,
+        "MW"@nl,
+        "MW"@pl,
+        "MW"@pt,
+        "MW"@ro,
+        "MW"@sk,
+        "MW"@sl,
+        "MW"@sv ;
+    skos:definition "The megawatt (MW) is a unit of power in the International System of Units, equivalent to million watts, 10⁶ W."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "мегават"@bg,
+        "megawatt"@cs,
+        "megawatt"@da,
+        "Megawatt"@de,
+        "μεγαβάτ"@el,
+        "megawatt"@en,
+        "megavatio"@es,
+        "megavatt"@et,
+        "megawatti"@fi,
+        "mégawatt"@fr,
+        "meigeavata"@ga,
+        "megavat"@hr,
+        "megawatt"@hu,
+        "megawatt"@it,
+        "megavatas"@lt,
+        "megavati"@lv,
+        "megawatt"@mt,
+        "megawatt"@nl,
+        "megawat"@pl,
+        "megawatt"@pt,
+        "megawatt"@ro,
+        "megawatt"@sk,
+        "megavat"@sl,
+        "megawatt"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/MC> a skos:Concept ;
+    at:authority-code "MC" ;
+    at:deprecated "false" ;
+    at:op-code "MC" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "MC" ;
+    dc:identifier "MC" ;
+    skos:altLabel "μg"@bg,
+        "µg"@cs,
+        "µg"@da,
+        "µg"@de,
+        "µg"@el,
+        "mcg"@en,
+        "µg"@en,
+        "µg"@es,
+        "µg"@et,
+        "µg"@fi,
+        "µg"@fr,
+        "µg"@ga,
+        "µg"@hr,
+        "µg"@hu,
+        "µg"@it,
+        "µg"@lt,
+        "µg"@lv,
+        "µg"@mt,
+        "µg"@nl,
+        "µg"@pl,
+        "µg"@pt,
+        "µg"@ro,
+        "µg"@sk,
+        "µg"@sl,
+        "µg"@sv ;
+    skos:definition "The microgram (μg) is a unit of mass in the International System of Units, equivalent to one millionth of a gram, 1×10⁻⁶ , or 10⁻⁹ kg (0.000000001 kg)."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "микрограм"@bg,
+        "mikrogram"@cs,
+        "mikrogram"@da,
+        "Mikrogramm"@de,
+        "μικρογραμμάριο"@el,
+        "microgram"@en,
+        "microgramo"@es,
+        "mikrogramm"@et,
+        "mikrogramma"@fi,
+        "microgramme"@fr,
+        "micreagram"@ga,
+        "mikrogram"@hr,
+        "mikrogramm"@hu,
+        "microgrammo"@it,
+        "mikrogramas"@lt,
+        "mikrogrami"@lv,
+        "mikrogramma"@mt,
+        "microgram"@nl,
+        "mikrogram"@pl,
+        "micrograma"@pt,
+        "microgram"@ro,
+        "mikrogram"@sk,
+        "mikrogram"@sl,
+        "mikrogram"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/MGM> a skos:Concept ;
+    at:authority-code "MGM" ;
+    at:deprecated "false" ;
+    at:op-code "MGM" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "MGM" ;
+    dc:identifier "MGM" ;
+    skos:altLabel "мг"@bg,
+        "mg"@cs,
+        "mg"@da,
+        "mg"@de,
+        "mg"@el,
+        "mg"@en,
+        "mg"@es,
+        "mg"@et,
+        "mg"@fi,
+        "mg"@fr,
+        "mg"@ga,
+        "mg"@hr,
+        "mg"@hu,
+        "mg"@it,
+        "mg"@lt,
+        "mg"@lv,
+        "mg"@mt,
+        "mg"@nl,
+        "mg"@pl,
+        "mg"@pt,
+        "mg"@ro,
+        "mg"@sk,
+        "mg"@sl,
+        "mg"@sv ;
+    skos:definition "The milligram (mg) is a unit of mass in the International System of Units, equivalent to one thousandth of a gramme, 10⁻³ g (0.001 g), or 10⁻⁶ kg (0.000001 kg)."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "милиграм"@bg,
+        "miligram"@cs,
+        "milligram"@da,
+        "Milligramm"@de,
+        "χιλιοστόγραμμο"@el,
+        "milligram"@en,
+        "miligramo"@es,
+        "milligramm"@et,
+        "milligramma"@fi,
+        "milligramme"@fr,
+        "milleagram"@ga,
+        "miligram"@hr,
+        "milligramm"@hu,
+        "milligrammo"@it,
+        "miligramas"@lt,
+        "miligrami"@lv,
+        "milligramm"@mt,
+        "milligram"@nl,
+        "miligram"@pl,
+        "miligrama"@pt,
+        "miligram"@ro,
+        "miligram"@sk,
+        "miligram"@sl,
+        "milligram"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/MIN> a skos:Concept ;
+    at:authority-code "MIN" ;
+    at:deprecated "false" ;
+    at:op-code "MIN" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "MIN" ;
+    dc:identifier "MIN" ;
+    skos:altLabel "мин"@bg,
+        "min"@cs,
+        "min"@da,
+        "min"@de,
+        "min"@el,
+        "min"@en,
+        "min"@es,
+        "min"@et,
+        "min"@fi,
+        "min"@fr,
+        "min"@ga,
+        "min"@hr,
+        "min"@hu,
+        "min"@it,
+        "min"@lt,
+        "min"@lv,
+        "min"@mt,
+        "min"@nl,
+        "min"@pl,
+        "min"@pt,
+        "min"@ro,
+        "min"@sk,
+        "min"@sl,
+        "min"@sv ;
+    skos:definition "The minute (min) is a unit of time accepted for use with the International System of Units, equivalent to 1⁄60 of an hour, or 60 seconds."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "минута"@bg,
+        "minuta"@cs,
+        "minut"@da,
+        "Minute"@de,
+        "λεπτό"@el,
+        "minute"@en,
+        "minuto"@es,
+        "minut"@et,
+        "minuutti"@fi,
+        "minute"@fr,
+        "nóiméad"@ga,
+        "minuta"@hr,
+        "perc"@hu,
+        "minuto"@it,
+        "minutė"@lt,
+        "minūtes"@lv,
+        "minuta"@mt,
+        "minuut"@nl,
+        "minuta"@pl,
+        "minuto"@pt,
+        "minut"@ro,
+        "minúta"@sk,
+        "minuta"@sl,
+        "minut"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/MLT> a skos:Concept ;
+    at:authority-code "MLT" ;
+    at:deprecated "false" ;
+    at:op-code "MLT" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "MLT" ;
+    dc:identifier "MLT" ;
+    skos:altLabel "мл"@bg,
+        "ml"@cs,
+        "ml"@da,
+        "ml"@de,
+        "ml"@el,
+        "ml"@en,
+        "ml"@es,
+        "ml"@et,
+        "ml"@fi,
+        "ml"@fr,
+        "ml"@ga,
+        "ml"@hr,
+        "ml"@hu,
+        "ml"@it,
+        "ml"@lt,
+        "ml"@lv,
+        "ml"@mt,
+        "ml"@nl,
+        "ml"@pl,
+        "ml"@pt,
+        "ml"@ro,
+        "ml"@sk,
+        "ml"@sl,
+        "ml"@sv ;
+    skos:definition "The millilitre (ml) is a unit of fluid volume (or capacity), equivalent to one thousandth of a litre (0.001 l), 10⁻⁶ m³. The millilitre is not a unit in the International System of Units (SI), but is accepted for use with SI units and prefixes by the International Committee for Weights and Measures."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "милилитър"@bg,
+        "mililitr"@cs,
+        "milliliter"@da,
+        "Milliliter"@de,
+        "χιλιοστόλιτρο"@el,
+        "millilitre"@en,
+        "mililitro"@es,
+        "milliliiter"@et,
+        "millilitra"@fi,
+        "millilitre"@fr,
+        "millilítear"@ga,
+        "mililitar"@hr,
+        "milliliter"@hu,
+        "millilitro"@it,
+        "mililitras"@lt,
+        "mililitri"@lv,
+        "millilitru"@mt,
+        "milliliter"@nl,
+        "mililitr"@pl,
+        "mililitro"@pt,
+        "mililitru"@ro,
+        "mililiter"@sk,
+        "mililiter"@sl,
+        "milliliter"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/MMT> a skos:Concept ;
+    at:authority-code "MMT" ;
+    at:deprecated "false" ;
+    at:op-code "MMT" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "MMT" ;
+    dc:identifier "MMT" ;
+    skos:altLabel "мм"@bg,
+        "mm"@cs,
+        "mm"@da,
+        "mm"@de,
+        "mm"@el,
+        "mm"@en,
+        "mm"@es,
+        "mm"@et,
+        "mm"@fi,
+        "mm"@fr,
+        "mm"@ga,
+        "mm"@hr,
+        "mm"@hu,
+        "mm"@it,
+        "mm"@lt,
+        "mm"@lv,
+        "mm"@mt,
+        "mm"@nl,
+        "mm"@pl,
+        "mm"@pt,
+        "mm"@ro,
+        "mm"@sk,
+        "mm"@sl,
+        "mm"@sv ;
+    skos:definition "The millimetre (mm) is a unit of length in the International System of Units, equivalent to one thousandth of a metre, 10⁻³ m (0.001 m)."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "милиметър"@bg,
+        "milimetr"@cs,
+        "millimeter"@da,
+        "Millimeter"@de,
+        "χιλιοστόμετρο"@el,
+        "millimetre"@en,
+        "milímetro"@es,
+        "millimeeter"@et,
+        "millimetri"@fi,
+        "millimètre"@fr,
+        "milliméadar"@ga,
+        "milimetar"@hr,
+        "milliméter"@hu,
+        "millimetro"@it,
+        "milimetras"@lt,
+        "milimetri"@lv,
+        "millimetru"@mt,
+        "millimeter"@nl,
+        "milimetr"@pl,
+        "milímetro"@pt,
+        "milimetru"@ro,
+        "milimeter"@sk,
+        "milimeter"@sl,
+        "millimeter"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/MTK> a skos:Concept ;
+    at:authority-code "MTK" ;
+    at:deprecated "false" ;
+    at:op-code "MTK" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "MTK" ;
+    dc:identifier "MTK" ;
+    skos:altLabel "м²"@bg,
+        "m²"@cs,
+        "m²"@da,
+        "m²"@de,
+        "m²"@el,
+        "m²"@en,
+        "m²"@es,
+        "m²"@et,
+        "m²"@fi,
+        "m²"@fr,
+        "m²"@ga,
+        "m²"@hr,
+        "m²"@hu,
+        "m²"@it,
+        "m²"@lt,
+        "m²"@lv,
+        "m²"@mt,
+        "m²"@nl,
+        "m²"@pl,
+        "m²"@pt,
+        "m²"@ro,
+        "m²"@sk,
+        "m²"@sl,
+        "m²"@sv ;
+    skos:definition "The square metre (m²) is a unit of area in the International System of Units, equivalent to the area formed by a square measuring 1 m by 1 m, 1 m²."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "квадратен метър"@bg,
+        "metr čtvereční"@cs,
+        "kvadratmeter"@da,
+        "Quadratmeter"@de,
+        "τετραγωνικό μέτρο"@el,
+        "square metre"@en,
+        "metro cuadrado"@es,
+        "ruutmeeter"@et,
+        "neliömetri"@fi,
+        "mètre carré"@fr,
+        "méadar cearnach"@ga,
+        "kvadratni metar"@hr,
+        "négyzetméter"@hu,
+        "metro quadrato"@it,
+        "kvadratinis metras"@lt,
+        "kvadrātmetri"@lv,
+        "metru kwadru"@mt,
+        "vierkante meter"@nl,
+        "metr kwadratowy"@pl,
+        "metro quadrado"@pt,
+        "metru pătrat"@ro,
+        "meter štvorcový"@sk,
+        "kvadratni meter"@sl,
+        "kvadratmeter"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/MTR> a skos:Concept ;
+    at:authority-code "MTR" ;
+    at:deprecated "false" ;
+    at:op-code "MTR" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "MTR" ;
+    dc:identifier "MTR" ;
+    skos:altLabel "м"@bg,
+        "m"@cs,
+        "m"@da,
+        "m"@de,
+        "m"@el,
+        "m"@en,
+        "m"@es,
+        "m"@et,
+        "m"@fi,
+        "m"@fr,
+        "m"@ga,
+        "m"@hr,
+        "m"@hu,
+        "m"@it,
+        "m"@lt,
+        "m"@lv,
+        "m"@mt,
+        "m"@nl,
+        "m"@pl,
+        "m"@pt,
+        "m"@ro,
+        "m"@sk,
+        "m"@sl,
+        "m"@sv ;
+    skos:definition "The metre (m) is the base unit of length in some metric systems, including the International System of Units. The metre is defined as the length of the path travelled by light in a vacuum in 1/299 792 458 second."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "метър"@bg,
+        "metr"@cs,
+        "meter"@da,
+        "Meter"@de,
+        "μέτρο"@el,
+        "metre"@en,
+        "metro"@es,
+        "meeter"@et,
+        "metri"@fi,
+        "mètre"@fr,
+        "méadar"@ga,
+        "metar"@hr,
+        "méter"@hu,
+        "metro"@it,
+        "metras"@lt,
+        "metri"@lv,
+        "metru"@mt,
+        "meter"@nl,
+        "metr"@pl,
+        "metro"@pt,
+        "metru"@ro,
+        "meter"@sk,
+        "meter"@sl,
+        "meter"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/MTS> a skos:Concept ;
+    at:authority-code "MTS" ;
+    at:deprecated "false" ;
+    at:op-code "MTS" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "MTS" ;
+    dc:identifier "MTS" ;
+    skos:altLabel "м/сек"@bg,
+        "m/s"@cs,
+        "m/s"@da,
+        "sekundmeter"@da,
+        "m/s"@de,
+        "m/s"@el,
+        "m/s"@en,
+        "m/s"@es,
+        "m/s"@et,
+        "m/s"@fi,
+        "m/s"@fr,
+        "m/s"@ga,
+        "m/s"@hr,
+        "m/s"@hu,
+        "m/s"@it,
+        "m/s"@lt,
+        "m/s"@lv,
+        "m/s"@mt,
+        "m/s"@nl,
+        "m/s"@pl,
+        "m/s"@pt,
+        "m/s"@ro,
+        "m/s"@sk,
+        "m/s"@sl,
+        "m/s"@sv ;
+    skos:definition "The metre per second (m/s) is a unit of speed in the International System of Units, equivalent to the number of metres covered in one second."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "метър в секунда"@bg,
+        "metr za sekundu"@cs,
+        "meter pr. sekund"@da,
+        "Meter pro Sekunde"@de,
+        "μέτρο ανά δευτερόλεπτο"@el,
+        "metre per second"@en,
+        "metro por segundo"@es,
+        "meeter sekundis"@et,
+        "metri sekunnissa"@fi,
+        "mètre par seconde"@fr,
+        "méadar sa soicind"@ga,
+        "metar u sekundi"@hr,
+        "méter/szekundum"@hu,
+        "metro al secondo"@it,
+        "metras per sekundę"@lt,
+        "metri sekundē"@lv,
+        "metru fis-sekonda"@mt,
+        "meter per seconde"@nl,
+        "metr na sekundę"@pl,
+        "metro por segundo"@pt,
+        "metru pe secundă"@ro,
+        "meter za sekundu"@sk,
+        "meter na sekundo"@sl,
+        "meter per sekund"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/NEW> a skos:Concept ;
+    at:authority-code "NEW" ;
+    at:deprecated "false" ;
+    at:op-code "NEW" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "NEW" ;
+    dc:identifier "NEW" ;
+    skos:altLabel "N"@bg,
+        "N"@cs,
+        "N"@da,
+        "N"@de,
+        "N"@el,
+        "N"@en,
+        "N"@es,
+        "N"@et,
+        "N"@fi,
+        "N"@fr,
+        "N"@ga,
+        "N"@hr,
+        "N"@hu,
+        "N"@it,
+        "N"@lt,
+        "N"@lv,
+        "N"@mt,
+        "N"@nl,
+        "N"@pl,
+        "N"@pt,
+        "N"@ro,
+        "N"@sk,
+        "N"@sl,
+        "N"@sv ;
+    skos:definition "The newton (N) is a derived unit of force in the International System of Units, representing the force needed to accelerate one kilogram of mass at the rate of one metre per second squared in the direction of the applied force, (kg × m)/s²."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "нютон"@bg,
+        "newton"@cs,
+        "newton"@da,
+        "Newton"@de,
+        "νιούτον"@el,
+        "newton"@en,
+        "newton"@es,
+        "njuuton"@et,
+        "newton"@fi,
+        "newton"@fr,
+        "niútan"@ga,
+        "njutn"@hr,
+        "newton"@hu,
+        "newton"@it,
+        "niutonas"@lt,
+        "ņūtoni"@lv,
+        "newton"@mt,
+        "newton"@nl,
+        "niuton"@pl,
+        "newton"@pt,
+        "newton"@ro,
+        "newton"@sk,
+        "newton"@sl,
+        "newton"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/OP_DATPRO> a skos:Concept ;
+    at:authority-code "OP_DATPRO" ;
+    at:deprecated "false" ;
+    at:op-code "OP_DATPRO" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "Неокончателни данни"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/PAL> a skos:Concept ;
+    at:authority-code "PAL" ;
+    at:deprecated "false" ;
+    at:op-code "PAL" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "PAL" ;
+    dc:identifier "PAL" ;
+    skos:altLabel "Pa"@bg,
+        "Pa"@cs,
+        "Pa"@da,
+        "Pa"@de,
+        "Pa"@el,
+        "Pa"@en,
+        "Pa"@es,
+        "Pa"@et,
+        "Pa"@fi,
+        "Pa"@fr,
+        "Pa"@ga,
+        "Pa"@hr,
+        "Pa"@hu,
+        "Pa"@it,
+        "Pa"@lt,
+        "Pa"@lv,
+        "Pa"@mt,
+        "Pa"@nl,
+        "Pa"@pl,
+        "Pa"@pt,
+        "Pa"@ro,
+        "Pa"@sk,
+        "Pa"@sl,
+        "Pa"@sv ;
+    skos:definition "The pascal (Pa) is a derived unit of pressure in the International System of Units, defined as one newton per square metre, 1 N/m²."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "паскал"@bg,
+        "pascal"@cs,
+        "Pascal"@da,
+        "Pascal"@de,
+        "πασκάλ"@el,
+        "pascal"@en,
+        "pascal"@es,
+        "paskal"@et,
+        "pascal"@fi,
+        "pascal"@fr,
+        "pascal"@ga,
+        "paskal"@hr,
+        "pascal"@hu,
+        "pascal"@it,
+        "paskalis"@lt,
+        "paskāli"@lv,
+        "pascal"@mt,
+        "pascal"@nl,
+        "paskal"@pl,
+        "pascal"@pt,
+        "pascal"@ro,
+        "pascal"@sk,
+        "pascal"@sl,
+        "pascal"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/SEC> a skos:Concept ;
+    at:authority-code "SEC" ;
+    at:deprecated "false" ;
+    at:op-code "SEC" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "SEC" ;
+    dc:identifier "SEC" ;
+    skos:altLabel "сек"@bg,
+        "s"@cs,
+        "s"@da,
+        "s"@de,
+        "s"@el,
+        "s"@en,
+        "s"@es,
+        "s"@et,
+        "s"@fi,
+        "s"@fr,
+        "s"@ga,
+        "s"@hr,
+        "s"@hu,
+        "s"@it,
+        "s"@lt,
+        "s"@lv,
+        "s"@mt,
+        "s"@nl,
+        "s"@pl,
+        "s"@pt,
+        "s"@ro,
+        "s"@sk,
+        "s"@sl,
+        "s"@sv ;
+    skos:definition "The second (s) is the base unit of time in the International System of Units (SI), commonly understood and historically defined as 1⁄86400 of a day. However, it is defined by the SI as the duration of 9 192 631 770 periods of the radiation corresponding to the transition between the two hyperfine levels of the ground state of the caesium-133 atom."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "секунда"@bg,
+        "sekunda"@cs,
+        "sekund"@da,
+        "Sekunde"@de,
+        "δευτερόλεπτο"@el,
+        "second"@en,
+        "segundo"@es,
+        "sekund"@et,
+        "sekunti"@fi,
+        "seconde"@fr,
+        "soicind"@ga,
+        "sekunda"@hr,
+        "másodperc"@hu,
+        "secondo"@it,
+        "sekundė"@lt,
+        "sekundes"@lv,
+        "sekonda"@mt,
+        "seconde"@nl,
+        "sekunda"@pl,
+        "segundo"@pt,
+        "secundă"@ro,
+        "sekunda"@sk,
+        "sekunda"@sl,
+        "sekund"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/TKM> a skos:Concept ;
+    at:authority-code "TKM" ;
+    at:deprecated "false" ;
+    at:op-code "TKM" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "TKM" ;
+    dc:identifier "TKM" ;
+    skos:altLabel "т-км"@bg,
+        "tkm"@cs,
+        "tkm"@da,
+        "tkm"@de,
+        "tkm"@el,
+        "tkm"@en,
+        "tkm"@es,
+        "tkm"@et,
+        "tkm"@fi,
+        "tkm"@fr,
+        "tkm"@ga,
+        "tkm"@hr,
+        "tkm"@hu,
+        "tkm"@it,
+        "tkm"@lt,
+        "tkm"@lv,
+        "tkm"@mt,
+        "tkm"@nl,
+        "tkm"@pl,
+        "tkm"@pt,
+        "tkm"@ro,
+        "tkm"@sk,
+        "tkm"@sl,
+        "tkm"@sv ;
+    skos:definition "The tonne-kilometre (tkm) is a unit of measurement used for calculating the quantity of traffic, representing the transport of one tonne of goods over a distance of one kilometre."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "тон-километър"@bg,
+        "tunokilometr"@cs,
+        "tonkilometer"@da,
+        "Tonnenkilometer"@de,
+        "τoνοχιλιόμετρο"@el,
+        "tonne-kilometre"@en,
+        "tonelada-kilómetro"@es,
+        "tonnkilomeeter"@et,
+        "tonnikilometri"@fi,
+        "tonne-kilomètre"@fr,
+        "tona-chiliméadar"@ga,
+        "tonski kilometar"@hr,
+        "tonnakilométer"@hu,
+        "tonnellata-chilometro"@it,
+        "tonkilometris"@lt,
+        "tonnkilometri"@lv,
+        "tunnellata-kilometru"@mt,
+        "tonkilometer"@nl,
+        "tonokilometr"@pl,
+        "tonelada-quilómetro"@pt,
+        "tonă-kilometru"@ro,
+        "tonokilometer"@sk,
+        "tonski kilometer"@sl,
+        "tonkilometer"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/TNE> a skos:Concept ;
+    at:authority-code "TNE" ;
+    at:deprecated "false" ;
+    at:op-code "TNE" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "TNE" ;
+    dc:identifier "TNE" ;
+    skos:altLabel "т"@bg,
+        "t"@cs,
+        "t"@da,
+        "t"@de,
+        "t"@el,
+        "t"@en,
+        "t"@es,
+        "t"@et,
+        "t"@fi,
+        "t"@fr,
+        "t"@ga,
+        "t"@hr,
+        "t"@hu,
+        "t"@it,
+        "t"@lt,
+        "t"@lv,
+        "t"@mt,
+        "t"@nl,
+        "t"@pl,
+        "t"@pt,
+        "t"@ro,
+        "t"@sk,
+        "t"@sl,
+        "t"@sv ;
+    skos:definition "The (metric) tonne (t) is a non-SI unit of mass (i.e. outside of the International System of Units), equivalent to one thousand kilograms, 10³ kg (1000 kg), or approximately the mass of one cubic meter of water at four degrees Celsius. It is accepted for use with SI units and prefixes by the International Committee for Weights and Measures."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "тон"@bg,
+        "tuna"@cs,
+        "ton"@da,
+        "Tonne"@de,
+        "τόνος"@el,
+        "tonne"@en,
+        "tonelada"@es,
+        "tonn"@et,
+        "tonni"@fi,
+        "tonne"@fr,
+        "tona"@ga,
+        "tona"@hr,
+        "tonna"@hu,
+        "tonnellata"@it,
+        "tona"@lt,
+        "tonnas"@lv,
+        "tunnellata metrika"@mt,
+        "ton"@nl,
+        "tona"@pl,
+        "tonelada"@pt,
+        "tonă"@ro,
+        "tona"@sk,
+        "tona"@sl,
+        "ton"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/TOE> a skos:Concept ;
+    at:authority-code "TOE" ;
+    at:deprecated "false" ;
+    at:op-code "TOE" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "TOE" ;
+    dc:identifier "TOE" ;
+    skos:altLabel "т н.е."@bg,
+        "toe"@cs,
+        "toe"@da,
+        "tRÖE"@de,
+        "toe"@el,
+        "toe"@en,
+        "tep"@es,
+        "toe"@et,
+        "toe"@fi,
+        "tep"@fr,
+        "cto"@ga,
+        "toe"@hr,
+        "toe"@hu,
+        "tep"@it,
+        "tne"@lt,
+        "toe"@lv,
+        "toe"@mt,
+        "toe"@nl,
+        "toe"@pl,
+        "tep"@pt,
+        "tep"@ro,
+        "toe"@sk,
+        "toe"@sl,
+        "toe"@sv ;
+    skos:definition "The tonne of oil equivalent (toe) is a unit of energy, defined as the amount of energy released by burning one tonne of crude oil. It is approximately 42 gigajoules."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "тон нефтен еквивалент"@bg,
+        "tuna ropného ekvivalentu"@cs,
+        "ton mineralolieækvivalent"@da,
+        "Tonne Rohöleinheiten"@de,
+        "τόνος ισοδύναμου πετρελαίου"@el,
+        "tonne of oil equivalent"@en,
+        "tonelada equivalente de petróleo"@es,
+        "naftaekvivalenttonn"@et,
+        "öljyekvivalenttitonni"@fi,
+        "tonne d’équivalent pétrole"@fr,
+        "coibhéis tona ola"@ga,
+        "ekvivalent tone nafte"@hr,
+        "tonnában számított olajegyenérték"@hu,
+        "tonnellata equivalente petrolio"@it,
+        "tona naftos ekvivalento"@lt,
+        "naftas ekvivalenta tonnas"@lv,
+        "tunnellata tal-ekwivalenti taż-żejt"@mt,
+        "eenheid ton olie-equivalent"@nl,
+        "tona oleju ekwiwalentnego"@pl,
+        "tonelada de equivalente de petróleo"@pt,
+        "tonă echivalent petrol"@ro,
+        "tona ropného ekvivalentu"@sk,
+        "tona ekvivalenta nafte"@sl,
+        "ton oljeekvivalenter"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/VLT> a skos:Concept ;
+    at:authority-code "VLT" ;
+    at:deprecated "false" ;
+    at:op-code "VLT" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "VLT" ;
+    dc:identifier "VLT" ;
+    skos:altLabel "В"@bg,
+        "V"@cs,
+        "V"@da,
+        "V"@de,
+        "V"@el,
+        "V"@en,
+        "V"@es,
+        "V"@et,
+        "V"@fi,
+        "V"@fr,
+        "V"@ga,
+        "V"@hr,
+        "V"@hu,
+        "V"@it,
+        "V"@lt,
+        "V"@lv,
+        "V"@mt,
+        "V"@nl,
+        "V"@pl,
+        "V"@pt,
+        "V"@ro,
+        "V"@sk,
+        "V"@sl,
+        "V"@sv ;
+    skos:definition "The volt (V) is the derived unit for electric potential, electric potential difference (voltage) and electromotive force, defined as the difference in electric potential between two points of a conducting wire when an electric current of one ampere dissipates one watt of power between those points."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "волт"@bg,
+        "volt"@cs,
+        "volt"@da,
+        "Volt"@de,
+        "βολτ"@el,
+        "volt"@en,
+        "voltio"@es,
+        "volt"@et,
+        "voltti"@fi,
+        "volt"@fr,
+        "volta"@ga,
+        "volt"@hr,
+        "volt"@hu,
+        "volt"@it,
+        "voltas"@lt,
+        "volti"@lv,
+        "volt"@mt,
+        "volt"@nl,
+        "wolt"@pl,
+        "volt"@pt,
+        "volt"@ro,
+        "volt"@sk,
+        "volt"@sl,
+        "volt"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+<http://publications.europa.eu/resource/authority/measurement-unit/WTT> a skos:Concept ;
+    at:authority-code "WTT" ;
+    at:deprecated "false" ;
+    at:op-code "WTT" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "WTT" ;
+    dc:identifier "WTT" ;
+    skos:altLabel "Вт"@bg,
+        "W"@cs,
+        "W"@da,
+        "W"@de,
+        "W"@el,
+        "W"@en,
+        "W"@es,
+        "W"@et,
+        "W"@fi,
+        "W"@fr,
+        "W"@ga,
+        "W"@hr,
+        "W"@hu,
+        "W"@it,
+        "W"@lt,
+        "W"@lv,
+        "W"@mt,
+        "W"@nl,
+        "W"@pl,
+        "W"@pt,
+        "W"@ro,
+        "W"@sk,
+        "W"@sl,
+        "W"@sv ;
+    skos:definition "The watt (W) is a unit of power in the International System of Units, defined as a derived unit of one joule per second and used to quantify the rate of energy transfer."@en ;
+    skos:inScheme atold:measurement-unit ;
+    skos:prefLabel "ват"@bg,
+        "watt"@cs,
+        "watt"@da,
+        "Watt"@de,
+        "βατ"@el,
+        "watt"@en,
+        "vatio"@es,
+        "vatt"@et,
+        "watti"@fi,
+        "watt"@fr,
+        "vata"@ga,
+        "vat"@hr,
+        "watt"@hu,
+        "watt"@it,
+        "vatas"@lt,
+        "vati"@lv,
+        "watt"@mt,
+        "watt"@nl,
+        "wat"@pl,
+        "watt"@pt,
+        "watt"@ro,
+        "watt"@sk,
+        "vat"@sl,
+        "watt"@sv ;
+    skos:topConceptOf atold:measurement-unit .
+
+atold:measurement-unit a skos:ConceptScheme ;
+    rdfs:label "Measurement unit"@en ;
+    at:prefLabel "Measurement unit"@en ;
+    at:table.id "measurement-unit" ;
+    at:table.version.number "20220316-0" ;
+    owl:versionInfo "20220316-0" ;
+    skos:prefLabel "Measurement unit"@en .
+

@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:at="http://publications.europa.eu/ontology/authority/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:atold="http://publications.europa.eu/resource/authority/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xml:base="http://publications.europa.eu/resource/authority/court-type">
+   <skos:ConceptScheme rdf:about="http://publications.europa.eu/resource/authority/court-type"
+                       at:table.id="court-type"
+                       at:table.version.number="20210317-0">
+      <at:prefLabel xml:lang="en">Court type</at:prefLabel>
+      <rdfs:label xml:lang="en">Court type</rdfs:label>
+      <owl:versionInfo>20210317-0</owl:versionInfo>
+      <skos:prefLabel xml:lang="en">Court type</skos:prefLabel>
+   </skos:ConceptScheme>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/court-type/EUR_CJ"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Съд</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Soudní dvůr</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Domstolen</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Gerichtshof</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Δικαστήριο</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Court of Justice</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Tribunal de Justicia</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Euroopa Kohus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Unionin tuomioistuin</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Cour de justice</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An Chúirt Bhreithiúnais</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Sud</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Bíróság</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Corte di giustizia</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Teisingumo Teismas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Tiesa</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Il-Qorti tal-Ġustizzja</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Hof van Justitie</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Trybunał Sprawiedliwości</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Tribunal de Justiça</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Curtea de Justiţie</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Súdny dvor</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Sodišče</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Domstolen</skos:prefLabel>
+      <at:authority-code>EUR_CJ</at:authority-code>
+      <at:op-code>EUR_CJ</at:op-code>
+      <at:start.use>1952-07-24</at:start.use>
+      <atold:op-code>EUR_CJ</atold:op-code>
+      <dc:identifier>EUR_CJ</dc:identifier>
+      <skos:definition xml:lang="en">The Court is responsible for dealing with: references for preliminary rulings from national courts on interpretation of EU law; actions brought by an EU country or the Commission against an EU country for infringing EU law; some actions brought by an EU country for annulment of a measure adopted by an EU institution; actions against an EU institution for failure to act; appeals on points of law against judgments of the General Court, and, since September 1st 2016, appeals against decisions of the General Court in civil service cases (OJ L 200, 26.7.2016, p. 137-139).</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/court-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/court-type"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/court-type/EUR_CST"
+                 at:deprecated="true">
+      <skos:prefLabel xml:lang="bg">Съд на публичната служба</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Soud pro veřejnou službu</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Personaleretten</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Gericht für den öffentlichen Dienst</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Δικαστήριο Δημόσιας Διοίκησης</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Civil Service Tribunal</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Tribunal de la Función Pública</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Avaliku Teenistuse Kohus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Virkamiestuomioistuin</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Tribunal de la fonction publique</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An Binse um Sheirbhís Shibhialta</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Službenički sud</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Közszolgálati Törvényszék</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Tribunale della funzione pubblica</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Tarnautojų teismas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Civildienesta tiesa</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Il-Tribunal għas-Servizz Pubbliku</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Gerecht voor ambtenarenzaken</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Sąd do spraw Służby Publicznej</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Tribunal da Função Pública</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Tribunalul Funcţiei Publice</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Súd pre verejnú službu</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Sodišče za uslužbence</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Personaldomstolen</skos:prefLabel>
+      <at:authority-code>EUR_CST</at:authority-code>
+      <at:op-code>EUR_CST</at:op-code>
+      <at:start.use>2004-11-09</at:start.use>
+      <atold:op-code>EUR_CST</atold:op-code>
+      <dc:identifier>EUR_CST</dc:identifier>
+      <skos:definition xml:lang="en">In 1st September 2016, first instance jurisdiction in European Union civil service cases sitting at the European Union Civil Service Tribunal (‘Civil Service Tribunal’) was transferred to the General Court (OJ L 200, 26.7.2016, p. 137-139). Under Article 270 of the Treaty on the Functioning of the European Union (TFEU), the Civil Service Tribunal had jurisdiction to determine disputes between the EU and its employees. The decisions given by the Tribunal could be subject to an appeal, limited to questions of law, to the General Court. The decisions on appeal by the General Court could in turn be re-examined before the Court of Justice, in exceptional circumstances.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/court-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/court-type"/>
+      <at:end.use>2016-08-31</at:end.use>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/court-type/EUR_GC"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Общ съд</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Tribunál</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Retten</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Gericht</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Γενικό Δικαστήριο</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">General Court</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Tribunal General</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Üldkohus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Unionin yleinen tuomioistuin</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Tribunal</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Cúirt Ghinearálta</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Opći sud</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Törvényszék</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Tribunale</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Bendrasis Teismas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Vispārējā tiesa</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Il-Qorti Ġenerali</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Gerecht</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Sąd</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Tribunal Geral</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Tribunalul</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Všeobecný súd</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Splošno sodišče</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Tribunalen</skos:prefLabel>
+      <at:authority-code>EUR_GC</at:authority-code>
+      <at:op-code>EUR_GC</at:op-code>
+      <at:start.use>2009-12-01</at:start.use>
+      <atold:op-code>EUR_GC</atold:op-code>
+      <dc:identifier>EUR_GC</dc:identifier>
+      <skos:definition xml:lang="en">The General Court is responsible for dealing with cases lodged by natural and legal persons against acts by Union institutions and bodies; cases lodged by EU countries against certain decisions of the Commission or the Council; cases relating to the Community trade mark and starting from September 1st 2016, EU civil service cases (OJ L 200, 26.7.2016, p. 137-139).</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/court-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/court-type"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/court-type/NAT_COURT_APPEAL"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Апелативен съд</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Odvolací soud</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Appeldomstol</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Berufungsgericht</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Εφετείο</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Court of appeal</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Tribunal de Apelación</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Apellatsioonikohus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Hovioikeus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Cour d'appel</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An Chúirt Achomhairc</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Žalbeni sud</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Fellebbviteli bíróság</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Corte di appello</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Apeliacinis teismas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Apelācijas tiesa</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Qorti tal-appell</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Hof van beroep</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Sąd apelacyjny</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Tribunal de Recurso</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Curte de apel</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Odvolací súd</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Pritožbeno sodišče</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Appellationsdomstol</skos:prefLabel>
+      <at:authority-code>NAT_COURT_APPEAL</at:authority-code>
+      <at:op-code>NAT_COURT_APPEAL</at:op-code>
+      <at:start.use>1952-07-24</at:start.use>
+      <atold:op-code>NAT_COURT_APPEAL</atold:op-code>
+      <dc:identifier>NAT_COURT_APPEAL</dc:identifier>
+      <skos:definition xml:lang="en">A court of appeal is the main appellate court in the judicial system of many legal jurisdictions. In general, they hear appeals against judgements of the tribunals of first instance. In the EU context, this concept refers in particular to national courts of appeal of different EU Member States in the legal proceedings and procedures for a preliminary ruling in the EU Court of Justice.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/court-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/court-type"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/court-type/NAT_COURT_FIRST_INSTANCE"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Първоинстанционен съд</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Soud prvního stupně</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Domstol i første instans</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Gericht Erster Instanz</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Πρωτοδικείο</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Court of first instance</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Tribunal de Primera Instancia</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Esimese astme kohus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Käräjäoikeus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Tribunal de première instance</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An Chúirt Chéadchéime</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Prvostupanjski sud</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Elsőfokú bíróság</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Tribunale di primo grado</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Pirmosios instancijos teismas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Pirmās instances tiesa</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Qorti tal-prim’istanza</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Gerecht van eerste aanleg</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Sąd pierwszej instancji</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Tribunal de primeira instância</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Tribunal de primă instanță</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Prvostupňový súd</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Sodišče prve stopnje</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Förstainstansdomstol</skos:prefLabel>
+      <at:authority-code>NAT_COURT_FIRST_INSTANCE</at:authority-code>
+      <at:op-code>NAT_COURT_FIRST_INSTANCE</at:op-code>
+      <at:start.use>1952-07-24</at:start.use>
+      <atold:op-code>NAT_COURT_FIRST_INSTANCE</atold:op-code>
+      <dc:identifier>NAT_COURT_FIRST_INSTANCE</dc:identifier>
+      <skos:definition xml:lang="en">A court of first instance is a trial court of original or primary jurisdiction. In the EU context, this concept refers in particular to national courts of first instance of different EU Member States in the legal proceedings and procedures for a preliminary ruling in the EU Court of Justice.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/court-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/court-type"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/court-type/NAT_COURT_SUPREME"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Върховен съд</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Nejvyšší soud</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Højesteret</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Oberster Gerichtshof</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Ανώτατο Δικαστήριο</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Supreme court</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Tribunal Supremo</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Kõrgeim kohus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Korkein oikeus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Cour suprême</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An Chúirt Uachtarach</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Vrhovni sud</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Legfelsőbb bíróság</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Corte suprema</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Aukščiausiasis teismas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Augstākā tiesa</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Qorti suprema</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Hooggerechtshof</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Sąd najwyższy</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Tribunal Supremo </skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Curte supremă</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Najvyšší súd</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Vrhovno sodišče</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Högsta domstolen</skos:prefLabel>
+      <at:authority-code>NAT_COURT_SUPREME</at:authority-code>
+      <at:op-code>NAT_COURT_SUPREME</at:op-code>
+      <at:start.use>1952-07-24</at:start.use>
+      <atold:op-code>NAT_COURT_SUPREME</atold:op-code>
+      <dc:identifier>NAT_COURT_SUPREME</dc:identifier>
+      <skos:definition xml:lang="en">A supreme court is the highest court within the hierarchy of courts in many legal jurisdictions. In general, the decisions of a supreme court are not subject to further review by any other court. In the EU context, this concept refers in particular to national supreme courts of different EU Member States in the legal proceedings and procedures for a preliminary ruling in the EU Court of Justice.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/court-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/court-type"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/court-type/OP_DATPRO"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">НЕОКОНЧАТЕЛНИ ДАННИ</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Předběžné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Midlertidige data</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Vorläufige Daten</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Προσωρινά δεδομένα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Provisional data</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Datos provisionales</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Esialgsed andmed</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Alustavat tiedot</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Données provisoires</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Sonraí sealadacha</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Privremeni podaci</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Ideiglenes adatok</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Dati provvisori</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Laikinieji duomenys</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Provizoriski dati</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Dejta provviżorja</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Voorlopige gegevens</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Dane tymczasowe</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Dados provisórios</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Date provizorii</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Predbežné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Začasni podatki</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Tillfälliga uppgifter</skos:prefLabel>
+      <at:authority-code>OP_DATPRO</at:authority-code>
+      <at:op-code>OP_DATPRO</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>OP_DATPRO</atold:op-code>
+      <dc:identifier>OP_DATPRO</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/court-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/court-type"/>
+   </skos:Concept>
+</rdf:RDF>

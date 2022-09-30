@@ -1,0 +1,144 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/eu-budget-amount-status/ADOPTED> a skos:Concept ;
+    at:authority-code "ADOPTED" ;
+    at:deprecated "false" ;
+    at:op-code "ADOPTED" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "ADOPTED" ;
+    dc:identifier "ADOPTED" ;
+    skos:inScheme atold:eu-budget-amount-status ;
+    skos:prefLabel "Приет"@bg,
+        "Přijatý"@cs,
+        "Vedtaget"@da,
+        "Angenommen"@de,
+        "Εγκρίθηκε"@el,
+        "Adopted"@en,
+        "Adoptado"@es,
+        "Vastu võetud"@et,
+        "Hyväksytty"@fi,
+        "Adopté"@fr,
+        "Glactha"@ga,
+        "Doneseno"@hr,
+        "Elfogadva"@hu,
+        "Adottato"@it,
+        "Priimta"@lt,
+        "Pieņemts"@lv,
+        "Adottat"@mt,
+        "Vastgesteld"@nl,
+        "Przyjęty"@pl,
+        "Adotado"@pt,
+        "Adoptat"@ro,
+        "Prijatý"@sk,
+        "Sprejeto"@sl,
+        "Antagen"@sv .
+
+<http://publications.europa.eu/resource/authority/eu-budget-amount-status/AMENDED> a skos:Concept ;
+    at:authority-code "AMENDED" ;
+    at:deprecated "false" ;
+    at:op-code "AMENDED" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "AMENDED" ;
+    dc:identifier "AMENDED" ;
+    skos:inScheme atold:eu-budget-amount-status ;
+    skos:prefLabel "Изменен"@bg,
+        "Pozměněný"@cs,
+        "Ændret"@da,
+        "Geändert"@de,
+        "Τροποποιήθηκε"@el,
+        "Amended"@en,
+        "Modificado"@es,
+        "Muudetud"@et,
+        "Lisätalousarvio"@fi,
+        "Modifié"@fr,
+        "Leasaithe"@ga,
+        "Izmijenjeno"@hr,
+        "Módosítva"@hu,
+        "Modificato"@it,
+        "Iš dalies pakeista"@lt,
+        "Grozīts"@lv,
+        "Emendat"@mt,
+        "Gewijzigd"@nl,
+        "Zmieniony"@pl,
+        "Alterado"@pt,
+        "Modificat"@ro,
+        "Zmenený"@sk,
+        "Spremenjeno"@sl,
+        "Ändrad"@sv .
+
+<http://publications.europa.eu/resource/authority/eu-budget-amount-status/OP_DATPRO> a skos:Concept ;
+    at:op-code "OP_DATPRO" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:eu-budget-amount-status ;
+    skos:prefLabel "НЕОКОНЧАТЕЛНИ ДАННИ"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv .
+
+<http://publications.europa.eu/resource/authority/eu-budget-amount-status/OUTTURN> a skos:Concept ;
+    at:authority-code "OUTTURN" ;
+    at:deprecated "false" ;
+    at:op-code "OUTTURN" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "OUTTURN" ;
+    dc:identifier "OUTTURN" ;
+    skos:inScheme atold:eu-budget-amount-status ;
+    skos:prefLabel "Резултат от изпълнението на бюджета"@bg,
+        "Plnění"@cs,
+        "Resultat"@da,
+        "Ausführung"@de,
+        "Εκτέλεση"@el,
+        "Outturn"@en,
+        "Ejecución"@es,
+        "Täitmine"@et,
+        "Toteutuma"@fi,
+        "Exécution"@fr,
+        "Olltoradh"@ga,
+        "Realizacija"@hr,
+        "Tény"@hu,
+        "Esecuzione"@it,
+        "Biudžeto rezultatas"@lt,
+        "Budžeta izpildes rezultāts"@lv,
+        "Eżitu"@mt,
+        "Uitvoering"@nl,
+        "Wynik budżetu"@pl,
+        "Execução"@pt,
+        "Execuție"@ro,
+        "Výsledok"@sk,
+        "Realizacija"@sl,
+        "Genomförande"@sv .
+
+atold:eu-budget-amount-status a skos:ConceptScheme ;
+    rdfs:label "EU budget amount status"@en ;
+    at:prefLabel "EU budget amount status"@en ;
+    at:table.id "eu-budget-amount-status" ;
+    at:table.version.number "20210317-0" ;
+    owl:versionInfo "20210317-0" ;
+    skos:prefLabel "EU budget amount status"@en .
+

@@ -1,0 +1,823 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/buyer-legal-type/OP_DATPRO> a skos:Concept ;
+    at:authority-code "OP_DATPRO" ;
+    at:deprecated "false" ;
+    at:op-code "OP_DATPRO" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:buyer-legal-type ;
+    skos:prefLabel "Неокончателни данни"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv ;
+    skos:topConceptOf atold:buyer-legal-type .
+
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl> a skos:Concept ;
+    at:authority-code "body-pl" ;
+    at:deprecated "false" ;
+    at:op-code "body-pl" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "body-pl" ;
+    dc:identifier "body-pl" ;
+    skos:definition "Body established for the specific purpose of meeting needs in the general interest. This body does not have an industrial or commercial character. It has legal personaility. It is generally financed or managed by the State, regional or local authorities, or by other bodies governed by public law; or is subject to management supervision by those authorities or bodies; or which has an administrative, managerial or supervisory board, more than half of whose members are appointed by the State, regional or local authorities, or by other bodies governed by public law."@en ;
+    skos:inScheme atold:buyer-legal-type ;
+    skos:prefLabel "Публичноправна организация"@bg,
+        "Veřejnoprávní subjekt"@cs,
+        "Offentligretligt organ"@da,
+        "Einrichtung des öffentlichen Rechts"@de,
+        "Οργανισμός δημοσίου δικαίου"@el,
+        "Body governed by public law"@en,
+        "Organismo de Derecho público"@es,
+        "Avalik-õiguslik isik"@et,
+        "Julkisoikeudellinen yhteisö"@fi,
+        "Organisme de droit public"@fr,
+        "Comhlacht dlí phoiblí"@ga,
+        "Tijelo koje se uređuje javnim pravom"@hr,
+        "Közjogi intézmény"@hu,
+        "Organismo di diritto pubblico"@it,
+        "Viešosios teisės reglamentuojama įstaiga"@lt,
+        "Publisko tiesību subjekts"@lv,
+        "Korp irregolat bil-liġi pubblika"@mt,
+        "Publiekrechtelijke instelling"@nl,
+        "Podmiot prawa publicznego"@pl,
+        "Organismo de direito público"@pt,
+        "Organism de drept public"@ro,
+        "Verejnoprávna inštitúcia"@sk,
+        "Oseba javnega prava"@sl,
+        "Offentligrättsligt organ"@sv ;
+    skos:topConceptOf atold:buyer-legal-type .
+
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-cga> a skos:Concept ;
+    at:authority-code "body-pl-cga" ;
+    at:deprecated "false" ;
+    at:op-code "body-pl-cga" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "body-pl-cga" ;
+    dc:identifier "body-pl-cga" ;
+    skos:definition "Body set up for a specific purpose of general interest. These bodies do not have an industrial or commercial character, but have a legal personaility. They are financed or managed by a central government authority."@en ;
+    skos:inScheme atold:buyer-legal-type ;
+    skos:prefLabel "Публичноправна организация, контролирана от орган на централната власт"@bg,
+        "Veřejnoprávní subjekt ovládaný ústředním orgánem státní správy"@cs,
+        "Offentligretligt organ, der styres af en central regeringsmyndighed"@da,
+        "Von einer zentralen Regierungsbehörde kontrollierte Einrichtung des öffentlichen Rechts"@de,
+        "Οργανισμός δημοσίου δικαίου που τελεί υπό τον έλεγχο αρχής της κεντρικής κυβέρνησης"@el,
+        "Body governed by public law, controlled by a central government authority"@en,
+        "Organismo de Derecho público bajo el control de una autoridad estatal"@es,
+        "Keskvalitsusasutuse kontrollitav avalik-õiguslik isik"@et,
+        "Julkisoikeudellinen yhteisö, joka on keskushallinnon viranomaisen määräysvallassa"@fi,
+        "Organisme de droit public, contrôlé par une autorité publique centrale"@fr,
+        "Comhlacht dlí phoiblí atá faoi rialú údaráis de chuid an rialtais láir"@ga,
+        "Tijelo koje se uređuje javnim pravom, koje nadzire središnje tijelo državne uprave"@hr,
+        "Központi kormányzati szerv által ellenőrzött közjogi intézmény"@hu,
+        "Organismo di diritto pubblico controllato da un'autorità governativa centrale"@it,
+        "Viešosios teisės reglamentuojama įstaiga, kontroliuojama centrinės valdžios institucijos"@lt,
+        "Publisko tiesību subjekts, ko kontrolē centrālās pārvaldes iestāde"@lv,
+        "Korp irregolat bil-liġi pubblika, ikkontrollat minn awtorità tal-gvern ċentrali"@mt,
+        "Publiekrechtelijke instelling onder zeggenschap van een centrale overheidsinstantie"@nl,
+        "Podmiot prawa publicznego kontrolowany przez instytucję administracji centralnej"@pl,
+        "Organismo de direito público, controlado por uma autoridade da administração central"@pt,
+        "Organism de drept public, controlat de o autoritate guvernamentală centrală"@ro,
+        "Verejnoprávna inštitúcia pod kontrolou orgánu ústrednej štátnej správy"@sk,
+        "Oseba javnega prava, ki jo obvladuje osrednji državni organ"@sl,
+        "Offentligrättsligt organ som kontrolleras av en statlig myndighet"@sv ;
+    skos:topConceptOf atold:buyer-legal-type .
+
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-la> a skos:Concept ;
+    at:authority-code "body-pl-la" ;
+    at:deprecated "false" ;
+    at:op-code "body-pl-la" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "body-pl-la" ;
+    dc:identifier "body-pl-la" ;
+    skos:definition "Body set up for a specific purpose of general interest. These bodies do not have an industrial or commercial character, but have a legal personaility. They are generally financed or managed by local authorities."@en ;
+    skos:inScheme atold:buyer-legal-type ;
+    skos:prefLabel "Публичноправна организация, контролирана от местен орган"@bg,
+        "Veřejnoprávní subjekt ovládaný místním orgánem"@cs,
+        "Offentligretligt organ, der styres af en lokal myndighed"@da,
+        "Von einer lokalen Gebietskörperschaft kontrollierte Einrichtung des öffentlichen Rechts"@de,
+        "Οργανισμός δημοσίου δικαίου που τελεί υπό τον έλεγχο τοπικής αρχής"@el,
+        "Body governed by public law, controlled by a local authority"@en,
+        "Organismo de Derecho público bajo el control de una autoridad local"@es,
+        "Kohaliku omavalitsuse kontrollitav avalik-õiguslik isik"@et,
+        "Julkisoikeudellinen yhteisö, joka on paikallisviranomaisen määräysvallassa"@fi,
+        "Organisme de droit public, contrôlé par une autorité locale"@fr,
+        "Comhlacht dlí phoiblí atá faoi rialú údaráis áitiúil"@ga,
+        "Tijelo koje se uređuje javnim pravom, koje nadzire lokalno tijelo"@hr,
+        "Helyi szerv által ellenőrzött közjogi intézmény"@hu,
+        "Organismo di diritto pubblico controllato da un'autorità locale"@it,
+        "Viešosios teisės reglamentuojama įstaiga, kontroliuojama vietos valdžios institucijos"@lt,
+        "Publisko tiesību subjekts, ko kontrolē vietējās pārvaldes iestāde"@lv,
+        "Korp irregolat bil-liġi pubblika, ikkontrollat minn awtorità lokali"@mt,
+        "Publiekrechtelijke instelling onder zeggenschap van een lokale overheid"@nl,
+        "Podmiot prawa publicznego kontrolowany przez instytucję lokalną"@pl,
+        "Organismo de direito público, controlado por uma autoridade local"@pt,
+        "Organism de drept public, controlat de o autoritate locală"@ro,
+        "Verejnoprávna inštitúcia pod kontrolou miestneho orgánu"@sk,
+        "Oseba javnega prava, ki jo obvladuje lokalni organ"@sl,
+        "Offentligrättsligt organ som kontrolleras av en lokal myndighet"@sv ;
+    skos:topConceptOf atold:buyer-legal-type .
+
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-ra> a skos:Concept ;
+    at:authority-code "body-pl-ra" ;
+    at:deprecated "false" ;
+    at:op-code "body-pl-ra" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "body-pl-ra" ;
+    dc:identifier "body-pl-ra" ;
+    skos:definition "Body set up for a specific purpose of general interest. These bodies do not have an industrial or commercial character, but have a legal personaility. They are financed or managed by regional authorities."@en ;
+    skos:inScheme atold:buyer-legal-type ;
+    skos:prefLabel "Публичноправна организация, контролирана от регионален орган"@bg,
+        "Veřejnoprávní subjekt ovládaný regionálním orgánem"@cs,
+        "Offentligretligt organ, der styres af en regional myndighed"@da,
+        "Von einer regionalen Gebietskörperschaft kontrollierte Einrichtung des öffentlichen Rechts"@de,
+        "Οργανισμός δημοσίου δικαίου που τελεί υπό τον έλεγχο περιφερειακής αρχής"@el,
+        "Body governed by public law, controlled by a regional authority"@en,
+        "Organismo de Derecho público bajo el control de una autoridad regional"@es,
+        "Piirkondliku omavalitsuse kontrollitav avalik-õiguslik isik"@et,
+        "Julkisoikeudellinen yhteisö, joka on alueviranomaisen määräysvallassa"@fi,
+        "Organisme de droit public, contrôlé par une autorité régionale"@fr,
+        "Comhlacht dlí phoiblí atá faoi rialú údaráis réigiúnaigh"@ga,
+        "Tijelo koje se uređuje javnim pravom, koje nadzire regionalno tijelo"@hr,
+        "Regionális szerv által ellenőrzött közjogi intézmény"@hu,
+        "Organismo di diritto pubblico controllato da un'autorità regionale"@it,
+        "Viešosios teisės reglamentuojama įstaiga, kontroliuojama regioninės valdžios institucijos"@lt,
+        "Publisko tiesību subjekts, ko kontrolē reģionālās pārvaldes iestāde"@lv,
+        "Korp irregolat bil-liġi pubblika, ikkontrollat minn awtorità reġjonali"@mt,
+        "Publiekrechtelijke instelling onder zeggenschap van een regionale overheid"@nl,
+        "Podmiot prawa publicznego kontrolowany przez instytucję regionalną"@pl,
+        "Organismo de direito público, controlado por uma autoridade regional"@pt,
+        "Organism de drept public, controlat de o autoritate regională"@ro,
+        "Verejnoprávna inštitúcia pod kontrolou regionálneho orgánu"@sk,
+        "Oseba javnega prava, ki jo obvladuje regionalni organ"@sl,
+        "Offentligrättsligt organ som kontrolleras av en regional myndighet"@sv ;
+    skos:topConceptOf atold:buyer-legal-type .
+
+<http://publications.europa.eu/resource/authority/buyer-legal-type/cga> a skos:Concept ;
+    at:authority-code "cga" ;
+    at:deprecated "false" ;
+    at:op-code "cga" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "cga" ;
+    dc:identifier "cga" ;
+    skos:definition "Administrative unit at State level; means the contracting authorities listed in Annex I of Directive 2014/24 and, in so far as corrections or amendments have been made at national level, their successor entities."@en ;
+    skos:inScheme atold:buyer-legal-type ;
+    skos:prefLabel "Орган на централната власт"@bg,
+        "Ústřední orgán státní správy"@cs,
+        "Central regeringsmyndighed"@da,
+        "Zentrale Regierungsbehörde"@de,
+        "Αρχή κεντρικής κυβέρνησης"@el,
+        "Central government authority"@en,
+        "Autoridad estatal"@es,
+        "Keskvalitsusasutus"@et,
+        "Keskushallinnon viranomainen"@fi,
+        "Autorité publique centrale"@fr,
+        "Údarás de chuid an rialtais láir"@ga,
+        "Središnje tijelo državne uprave"@hr,
+        "Központi kormányzati szerv"@hu,
+        "Autorità governativa centrale"@it,
+        "Centrinės valdžios institucija"@lt,
+        "Centrālās pārvaldes iestāde"@lv,
+        "Awtorità tal-gvern ċentrali"@mt,
+        "Centrale overheidsinstantie"@nl,
+        "Instytucja administracji centralnej"@pl,
+        "Autoridade da administração central"@pt,
+        "Autoritate guvernamentală centrală"@ro,
+        "Orgán ústrednej štátnej správy"@sk,
+        "Osrednji državni organ"@sl,
+        "Statlig myndighet"@sv ;
+    skos:scopeNote "Contracting authorities as listed in Directive 2014/24/EU Annex I and, in so far as corrections or amendments have been made at national level, their successor entities"@en ;
+    skos:topConceptOf atold:buyer-legal-type .
+
+<http://publications.europa.eu/resource/authority/buyer-legal-type/def-cont> a skos:Concept ;
+    at:authority-code "def-cont" ;
+    at:deprecated "false" ;
+    at:op-code "def-cont" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "def-cont" ;
+    dc:identifier "def-cont" ;
+    skos:definition "A contractor in the defence domain that subcontracts using specific procurement procedures."@en ;
+    skos:inScheme atold:buyer-legal-type ;
+    skos:prefLabel "Изпълнител от областта на отбраната"@bg,
+        "Zadavatel, zhotovitel, dodavatel nebo poskytovatel služeb v oblasti obrany"@cs,
+        "Entreprenør på forsvarsområdet"@da,
+        "Auftragnehmer im Bereich Verteidigung"@de,
+        "Ανάδοχος στον τομέα της άμυνας"@el,
+        "Defence contractor"@en,
+        "Contratista de defensa"@es,
+        "Kaitsevaldkonna töövõtja"@et,
+        "Puolustusalan toimeksisaaja"@fi,
+        "Contractant du secteur de la défense"@fr,
+        "Conraitheoir cosanta"@ga,
+        "Ugovaratelj u području obrane"@hr,
+        "Védelmi vállalkozó"@hu,
+        "Appaltatore nel settore della difesa"@it,
+        "Gynybos sektoriaus rangovas"@lt,
+        "Aizsardzības darbuzņēmējs"@lv,
+        "Kuntrattur tad-difiża"@mt,
+        "Contractant op defensiegebied"@nl,
+        "Kontrahent w sektorze obronności"@pl,
+        "Contratante do domínio da defesa"@pt,
+        "Contractant din domeniul apărării"@ro,
+        "Dodávateľ v oblasti obrany"@sk,
+        "Izvajalec na področju obrambe"@sl,
+        "Uppdragstagare på försvarsområdet"@sv ;
+    skos:topConceptOf atold:buyer-legal-type .
+
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-ins-bod-ag> a skos:Concept ;
+    at:authority-code "eu-ins-bod-ag" ;
+    at:deprecated "false" ;
+    at:op-code "eu-ins-bod-ag" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "eu-ins-bod-ag" ;
+    dc:identifier "eu-ins-bod-ag" ;
+    skos:definition "European Union institutions, bodies and agencies created by the EU treaties or other EU legislation."@en ;
+    skos:inScheme atold:buyer-legal-type ;
+    skos:prefLabel "Институция, орган или агенция на ЕС"@bg,
+        "Instituce, orgán nebo agentura EU"@cs,
+        "EU-institution, organ eller agentur"@da,
+        "EU-Institution, -Einrichtung oder -Agentur"@de,
+        "Θεσμικό όργανο, όργανο ή οργανισμός της ΕΕ"@el,
+        "EU institution, body or agency"@en,
+        "Institución, órgano o agencia de la UE"@es,
+        "ELi institutsioon, organ või amet"@et,
+        "EU:n toimielin, elin tai virasto"@fi,
+        "Institution, organe ou agence de l’UE"@fr,
+        "﻿Institiúid, comhlact nó gníomhaireacht de chuid an AE"@ga,
+        "Institucija, tijelo ili agencija EU-a"@hr,
+        "EU-intézmény, -szerv vagy -ügynökség"@hu,
+        "Istituzione, organo o agenzia dell’UE"@it,
+        "ES institucija, įstaiga ar agentūra"@lt,
+        "ES iestāde, struktūra vai aģentūra"@lv,
+        "Istituzzjoni, korp jew aġenzija tal-UE"@mt,
+        "EU-instelling, -orgaan of -agentschapp"@nl,
+        "Instytucja, organ lub agencja UE"@pl,
+        "Instituição, órgão ou agência da UE"@pt,
+        "Instituție, organ sau agenție a UE"@ro,
+        "Inštitúcia, orgán alebo agentúra EÚ"@sk,
+        "Institucija, organ ali agencija EU"@sl,
+        "EU-institution, organ eller byrå"@sv ;
+    skos:topConceptOf atold:buyer-legal-type .
+
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-int-org> a skos:Concept ;
+    at:authority-code "eu-int-org" ;
+    at:deprecated "true" ;
+    at:end.use "2019-09-17" ;
+    at:op-code "eu-int-org" ;
+    at:start.use "2019-09-16" ;
+    atold:op-code "eu-int-org" ;
+    dc:identifier "eu-int-org" ;
+    skos:definition "European Union institutions and agencies created by the EU treaties or other EU legislation or international intergovernmental organisations."@en ;
+    skos:inScheme atold:buyer-legal-type ;
+    skos:prefLabel "Европейска институция/агенция или международна организация"@bg,
+        "Evropská instituce/agentura nebo mezinárodní organizace"@cs,
+        "Europæisk institution/agentur eller international organisation"@da,
+        "Europäische Institution/Agentur oder internationale Organisation"@de,
+        "Ευρωπαϊκό θεσμικό όργανο/οργανισμός ή διεθνής οργανισμός"@el,
+        "European Institution/Agency or International Organisation"@en,
+        "Institución/organismo descentralizado europeo u organización internacional"@es,
+        "Euroopa Liidu institutsioon või rahvusvaheline organisatsioon"@et,
+        "EU:n toimielin/virasto tai kansainvälinen organisaatio"@fi,
+        "Institution/agence européenne ou organisation internationale"@fr,
+        "Institiúid/Gníomhaireacht Eorpach nó Eagraíocht Idirnáisiúnta"@ga,
+        "Europska institucija/agencija ili međunarodna organizacija"@hr,
+        "Európai intézmény/ügynökség vagy nemzetközi szervezet"@hu,
+        "Istituzione/agenzia europea o organizzazione internazionale"@it,
+        "Eiropas institūcija/aģentūra vai starptautiska organizācija"@lt,
+        "Europos institucija arba agentūra ar tarptautinė organizacija"@lv,
+        "Istituzzjoni/Aġenzija Ewropea jew Organizzazzjoni Internazzjonali"@mt,
+        "Europese instelling/Europees agentschap of internationale organisatie"@nl,
+        "Instytucja/agencja europejska lub organizacja międzynarodowa"@pl,
+        "Instituição Europeia/Agência ou organização internacional"@pt,
+        "Instituţie/agenţie europeană sau organizaţie internaţională"@ro,
+        "Európska inštitúcia/agentúra alebo medzinárodná organizácia"@sk,
+        "Evropska institucija/agencija ali mednarodna organizacija"@sl,
+        "EU-institution/organ eller internationell organisation"@sv ;
+    skos:topConceptOf atold:buyer-legal-type .
+
+<http://publications.europa.eu/resource/authority/buyer-legal-type/grp-p-aut> a skos:Concept ;
+    at:authority-code "grp-p-aut" ;
+    at:deprecated "false" ;
+    at:op-code "grp-p-aut" ;
+    at:start.use "2021-12-08" ;
+    atold:op-code "grp-p-aut" ;
+    dc:identifier "grp-p-aut" ;
+    skos:definition "Group of national, regional or local authorities."@en ;
+    skos:inScheme atold:buyer-legal-type ;
+    skos:prefLabel "Група от публични органи"@bg,
+        "Skupina orgánů veřejné moci"@cs,
+        "Gruppe af offentlige myndigheder"@da,
+        "Gruppe öffentlicher Stellen"@de,
+        "Ομάδα δημόσιων αρχών"@el,
+        "Group of public authorities"@en,
+        "Grupo de autoridades públicas"@es,
+        "Ametiasutuste rühm"@et,
+        "Viranomaisten ryhmittymä"@fi,
+        "Groupement d’autorités publiques"@fr,
+        "Grúpa údarás poiblí"@ga,
+        "Skupina javnih tijela"@hr,
+        "Hatóságok csoportja"@hu,
+        "Gruppo di autorità pubbliche"@it,
+        "Valdžios institucijų grupė"@lt,
+        "Valsts iestāžu grupa"@lv,
+        "Grupp ta’ awtoritajiet pubbliċi"@mt,
+        "Groep overheidsinstanties"@nl,
+        "Grupa organów publicznych"@pl,
+        "Grupo de autoridades públicas"@pt,
+        "Grup de autorități publice"@ro,
+        "Skupina verejných orgánov"@sk,
+        "Skupina javnih organov"@sl,
+        "Grupp av offentliga organ"@sv ;
+    skos:scopeNote "This definition refers to a group of public authorities or other bodies that have been vested by one or more Member States with the power to act as a competent authority within the meaning of Regulation (EC) No 1370/2007. The grouping can involve competent authorities from one or more Member States."@en ;
+    skos:topConceptOf atold:buyer-legal-type .
+
+<http://publications.europa.eu/resource/authority/buyer-legal-type/int-org> a skos:Concept ;
+    at:authority-code "int-org" ;
+    at:deprecated "false" ;
+    at:op-code "int-org" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "int-org" ;
+    dc:identifier "int-org" ;
+    skos:definition "International intergovernmental organisations."@en ;
+    skos:inScheme atold:buyer-legal-type ;
+    skos:prefLabel "Международна организация"@bg,
+        "Mezinárodní organizace"@cs,
+        "International organisation"@da,
+        "Internationale Organisation"@de,
+        "Διεθνής οργανισμός"@el,
+        "International organisation"@en,
+        "Organización internacional"@es,
+        "Rahvusvaheline organisatsioon"@et,
+        "Kansainvälinen järjestö"@fi,
+        "Organisation internationale"@fr,
+        "Eagraíocht idirnáisiúnta"@ga,
+        "Međunarodna organizacija"@hr,
+        "Nemzetközi szervezet"@hu,
+        "Organizzazione internazionale"@it,
+        "Tarptautinė organizacija"@lt,
+        "Starptautiska organizācija"@lv,
+        "Organizzazzjoni internazzjonali"@mt,
+        "Internationale organisatie"@nl,
+        "Organizacja międzynarodowa"@pl,
+        "Organização internacional"@pt,
+        "Organizație internațională"@ro,
+        "Medzinárodná organizácia"@sk,
+        "Mednarodna organizacija"@sl,
+        "Internationell organisation"@sv ;
+    skos:topConceptOf atold:buyer-legal-type .
+
+<http://publications.europa.eu/resource/authority/buyer-legal-type/la> a skos:Concept ;
+    at:authority-code "la" ;
+    at:deprecated "false" ;
+    at:op-code "la" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "la" ;
+    dc:identifier "la" ;
+    skos:definition "Includes all authorities of the administrative units falling under NUTS 3 and smaller administrative units as referred to in Regulation (EC) No 1059/2003 of the European Parliament and of the Council."@en ;
+    skos:inScheme atold:buyer-legal-type ;
+    skos:prefLabel "Местен орган"@bg,
+        "Místní orgán"@cs,
+        "Lokal myndighed"@da,
+        "Lokale Gebietskörperschaft"@de,
+        "Τοπική αρχή"@el,
+        "Local authority"@en,
+        "Autoridad local"@es,
+        "Kohalik omavalitsus"@et,
+        "Paikallisviranomainen"@fi,
+        "Autorité locale"@fr,
+        "Údarás áitiúil"@ga,
+        "Lokalno tijelo"@hr,
+        "Helyi hatóság"@hu,
+        "Autorità locale"@it,
+        "Vietos valdžios institucija"@lt,
+        "Vietējās pārvaldes iestāde"@lv,
+        "Awtorità lokali"@mt,
+        "Lokale overheid"@nl,
+        "Instytucja lokalna"@pl,
+        "Autoridade local"@pt,
+        "Autoritate locală"@ro,
+        "Miestny orgán"@sk,
+        "Lokalni organ"@sl,
+        "Lokal myndighet"@sv ;
+    skos:topConceptOf atold:buyer-legal-type .
+
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub> a skos:Concept ;
+    at:authority-code "org-sub" ;
+    at:deprecated "false" ;
+    at:op-code "org-sub" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "org-sub" ;
+    dc:identifier "org-sub" ;
+    skos:definition "Organisation that procures under certain conditions and is subsidised by contracting authorities."@en ;
+    skos:inScheme atold:buyer-legal-type ;
+    skos:prefLabel "Организация, която възлага поръчка, субсидирана от възлагащ орган"@bg,
+        "Organizace zadávající zakázku dotovanou veřejným zadavatelem"@cs,
+        "Organisation, der tildeler en kontrakt, som modtager subsidier fra en ordregivende myndighed"@da,
+        "Organisation, die einen durch einen öffentlichen Auftraggeber subventionierten Auftrag vergibt"@de,
+        "Οργανισμός που αναθέτει σύμβαση επιδοτούμενη από αναθέτουσα αρχή"@el,
+        "Organisation awarding a contract subsidised by a contracting authority"@en,
+        "Organización que concede un contrato subvencionado por un poder adjudicador"@es,
+        "Hankija subsideeritavat lepingut sõlmiv organisatsioon"@et,
+        "Hankintaviranomaisen subventoiman sopimuksen tekevä organisaatio"@fi,
+        "Organisation qui passe un marché subventionné par un pouvoir adjudicateur"@fr,
+        "Eagraíocht atá ag dámhachtain conradh atá fóirdheonaithe ag údarás conarthachta"@ga,
+        "Organizacija koja dodjeljuje ugovor koji subvencionira javni naručitelj"@hr,
+        "Ajánlatkérő szerv által támogatott szerződést odaítélő szervezet"@hu,
+        "Organizzazione che aggiudica un appalto sovvenzionato da un'amministrazione aggiudicatrice"@it,
+        "Organizacija, skirianti sutartį, subsidijuojamą perkančiosios organizacijos"@lt,
+        "Organizācija, kas piešķir līgumslēdzējas iestādes subsidētu līgumu"@lv,
+        "Organizzazzjoni li tagħti kuntratt issussidjat minn awtorità kontraenti"@mt,
+        "Organisatie die een door een aanbestedende dienst gesubsidieerde opdracht gunt"@nl,
+        "Organizacja udzielająca zamówienia dotowanego przez instytucję zamawiającą"@pl,
+        "Organização que adjudica um contrato subvencionado por uma autoridade adjudicante"@pt,
+        "Organizație care atribuie un contract subvenționat de o autoritate contractantă"@ro,
+        "Organizácia, ktorá zadáva zákazku subvencovanú verejným obstarávateľom"@sk,
+        "Organizacijo, ki oddaja naročilo, subvencionira javni naročnik"@sl,
+        "Organisation som tilldelar ett kontrakt som subventioneras av en upphandlande myndighet"@sv ;
+    skos:topConceptOf atold:buyer-legal-type .
+
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-cga> a skos:Concept ;
+    at:authority-code "org-sub-cga" ;
+    at:deprecated "false" ;
+    at:op-code "org-sub-cga" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "org-sub-cga" ;
+    dc:identifier "org-sub-cga" ;
+    skos:definition "Organisation that procures under certain conditions and is subsidised by central government authorities"@en ;
+    skos:inScheme atold:buyer-legal-type ;
+    skos:prefLabel "Организация, която възлага поръчка, субсидирана от орган на централната власт"@bg,
+        "Organizace zadávající zakázku dotovanou ústředním orgánem státní správy"@cs,
+        "Organisation, der tildeler en kontrakt, som modtager subsidier fra central regeringsmyndighed"@da,
+        "Organisation, die einen durch eine zentrale Regierungsbehörde subventionierten Auftrag vergibt"@de,
+        "Οργανισμός που αναθέτει σύμβαση επιδοτούμενη από αρχή της κεντρικής κυβέρνησης"@el,
+        "Organisation awarding a contract subsidised by a central government authority"@en,
+        "Organización que concede un contrato subvencionado por una autoridad estatal"@es,
+        "Keskvalitsusasutuse subsideeritavat lepingut sõlmiv organisatsioon"@et,
+        "Keskushallinnon viranomaisen subventoiman sopimuksen tekevä organisaatio"@fi,
+        "Organisation qui passe un marché subventionné par une autorité publique centrale"@fr,
+        "Eagraíocht atá ag dámhachtain conradh atá fóirdheonaithe ag údarás stáit"@ga,
+        "Organizacija koja dodjeljuje ugovor koji subvencionira središnje tijelo državne uprave"@hr,
+        "Központi kormányzati szerv által támogatott szerződést odaítélő szervezet"@hu,
+        "Organizzazione che aggiudica un appalto sovvenzionato da un'autorità governativa centrale"@it,
+        "Organizacija, skirianti sutartį, subsidijuojamą centrinės valdžios institucijos"@lt,
+        "Organizācija, kas piešķir centrālās pārvaldes iestādes subsidētu līgumu"@lv,
+        "Organizzazzjoni li tagħti kuntratt issussidjat minn awtorità tal-gvern ċentrali"@mt,
+        "Organisatie die een door een centrale overheidsinstantie gesubsidieerde opdracht gunt"@nl,
+        "Organizacja udzielająca zamówienia dotowanego przez instytucję administracji centralnej"@pl,
+        "Organização que adjudica um contrato subvencionado por uma autoridade da administração central"@pt,
+        "Organizație care atribuie un contract subvenționat de o autoritate guvernamentală centrală"@ro,
+        "Organizácia, ktorá zadáva zákazku subvencovanú orgánom ústrednej štátnej správy"@sk,
+        "Organizacijo, ki oddaja naročilo, subvencionira osrednji državni organ"@sl,
+        "Organisation som tilldelar ett kontrakt som subventioneras av en statlig myndighet"@sv ;
+    skos:topConceptOf atold:buyer-legal-type .
+
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-la> a skos:Concept ;
+    at:authority-code "org-sub-la" ;
+    at:deprecated "false" ;
+    at:op-code "org-sub-la" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "org-sub-la" ;
+    dc:identifier "org-sub-la" ;
+    skos:definition "Organisation that procures under certain conditions and is subsidised by local authorities"@en ;
+    skos:inScheme atold:buyer-legal-type ;
+    skos:prefLabel "Организация, която възлага поръчка, субсидирана от местен орган"@bg,
+        "Organizace zadávající zakázku dotovanou místním orgánem"@cs,
+        "Organisation, der tildeler en kontrakt, som modtager subsidier fra lokal regeringsmyndighed"@da,
+        "Organisation, die einen durch eine lokale Gebietskörperschaft subventionierten Auftrag vergibt"@de,
+        "Οργανισμός που αναθέτει σύμβαση επιδοτούμενη από τοπική αρχή"@el,
+        "Organisation awarding a contract subsidised by a local authority"@en,
+        "Organización que concede un contrato subvencionado por una autoridad local"@es,
+        "Kohaliku omavalitsuse subsideeritavat lepingut sõlmiv organisatsioon"@et,
+        "Paikallisviranomaisen subventoiman sopimuksen tekevä organisaatio"@fi,
+        "Organisation qui passe un marché subventionné par une autorité locale"@fr,
+        "Eagraíocht atá ag dámhachtain conradh atá fóirdheonaithe ag údarás áitiúil"@ga,
+        "Organizacija koja dodjeljuje ugovor koji subvencionira lokalno tijelo"@hr,
+        "Helyi kormányzati szerv által támogatott szerződést odaítélő szervezet"@hu,
+        "Organizzazione che aggiudica un appalto sovvenzionato da un'autorità locale"@it,
+        "Organizacija, skirianti sutartį, subsidijuojamą vietos valdžios institucijos"@lt,
+        "Organizācija, kas piešķir vietējas iestādes subsidētu līgumu"@lv,
+        "Organizzazzjoni li tagħti kuntratt issussidjat minn awtorità lokali"@mt,
+        "Organisatie die een door een lokale overheid gesubsidieerde opdracht gunt"@nl,
+        "Organizacja udzielająca zamówienia dotowanego przez instytucję administracji lokalnej"@pl,
+        "Organização que adjudica um contrato subvencionado por uma autoridade local"@pt,
+        "Organizație care atribuie un contract subvenționat de o autoritate locală"@ro,
+        "Organizácia, ktorá zadáva zákazku subvencovanú miestnym orgánom"@sk,
+        "Organizacijo, ki oddaja naročilo, subvencionira lokalni organ"@sl,
+        "Organisation som tilldelar ett kontrakt som subventioneras av en lokal myndighet"@sv ;
+    skos:topConceptOf atold:buyer-legal-type .
+
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-ra> a skos:Concept ;
+    at:authority-code "org-sub-ra" ;
+    at:deprecated "false" ;
+    at:op-code "org-sub-ra" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "org-sub-ra" ;
+    dc:identifier "org-sub-ra" ;
+    skos:definition "Organisation that procures under certain conditions and is subsidised by regional authorities"@en ;
+    skos:inScheme atold:buyer-legal-type ;
+    skos:prefLabel "Организация, която възлага поръчка, субсидирана от регионален орган"@bg,
+        "Organizace zadávající zakázku dotovanou regionálním orgánem"@cs,
+        "Organisation, der tildeler en kontrakt, som modtager subsidier fra regional regeringsmyndighed"@da,
+        "Organisation, die einen durch eine regionale Gebietskörperschaft subventionierten Auftrag vergibt"@de,
+        "Οργανισμός που αναθέτει σύμβαση επιδοτούμενη από περιφερειακή αρχή"@el,
+        "Organisation awarding a contract subsidised by a regional authority"@en,
+        "Organización que concede un contrato subvencionado por una autoridad regional"@es,
+        "Piirkondliku omavalitsuse subsideeritavat lepingut sõlmiv organisatsioon"@et,
+        "Alueviranomaisen subventoiman sopimuksen tekevä organisaatio"@fi,
+        "Organisation qui passe un marché subventionné par une autorité régionale"@fr,
+        "Eagraíocht atá ag dámhachtain conradh atá fóirdheonaithe ag údarás réigiúnach"@ga,
+        "Organizacija koja dodjeljuje ugovor koji subvencionira regionalno tijelo"@hr,
+        "Regionális kormányzati szerv által támogatott szerződést odaítélő szervezet"@hu,
+        "Organizzazione che aggiudica un appalto sovvenzionato da un'autorità regionale"@it,
+        "Organizacija, skirianti sutartį, subsidijuojamą regioninės valdžios institucijos"@lt,
+        "Organizācija, kas piešķir reģionālas iestādes subsidētu līgumu"@lv,
+        "Organizzazzjoni li tagħti kuntratt issussidjat minn awtorità reġjonali"@mt,
+        "Organisatie die een door een regionale overheid gesubsidieerde opdracht gunt"@nl,
+        "Organizacja udzielająca zamówienia dotowanego przez instytucję administracji regionalnej"@pl,
+        "Organização que adjudica um contrato subvencionado por uma autoridade regional"@pt,
+        "Organizație care atribuie un contract subvenționat de o autoritate regională"@ro,
+        "Organizácia, ktorá zadáva zákazku subvencovanú regionálnym orgánom"@sk,
+        "Organizacijo, ki oddaja naročilo, subvencionira regionalni organ"@sl,
+        "Organisation som tilldelar ett kontrakt som subventioneras av en regional myndighet"@sv ;
+    skos:topConceptOf atold:buyer-legal-type .
+
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert> a skos:Concept ;
+    at:authority-code "pub-undert" ;
+    at:deprecated "false" ;
+    at:op-code "pub-undert" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "pub-undert" ;
+    dc:identifier "pub-undert" ;
+    skos:definition "Any undertaking over which the contracting authorities may exercise directly or indirectly a dominant influence by virtue of their ownership of it, their financial participation therein, or the rules which govern it."@en ;
+    skos:inScheme atold:buyer-legal-type ;
+    skos:prefLabel "Публично предприятие"@bg,
+        "Veřejný podnik"@cs,
+        "Offentlig virksomhed"@da,
+        "Öffentliches Unternehmen"@de,
+        "Δηµόσια επιχείρηση"@el,
+        "Public undertaking"@en,
+        "Empresa pública"@es,
+        "Riigi osalusega äriühing"@et,
+        "Julkinen yritys"@fi,
+        "Entreprise publique"@fr,
+        "Gnóthas poiblí"@ga,
+        "Javno poduzeće"@hr,
+        "Közvállalkozás"@hu,
+        "Impresa pubblica"@it,
+        "Valstybinė įmonė"@lt,
+        "Publiskais uzņēmums"@lv,
+        "Impriża pubblika"@mt,
+        "Overheidsonderneming"@nl,
+        "Przedsiębiorstwo publiczne"@pl,
+        "Empresa pública"@pt,
+        "Întreprindere de stat"@ro,
+        "Verejný podnik"@sk,
+        "Javno podjetje"@sl,
+        "Offentligt företag"@sv ;
+    skos:topConceptOf atold:buyer-legal-type .
+
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-cga> a skos:Concept ;
+    at:authority-code "pub-undert-cga" ;
+    at:deprecated "false" ;
+    at:op-code "pub-undert-cga" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "pub-undert-cga" ;
+    dc:identifier "pub-undert-cga" ;
+    skos:definition "Any undertaking over which central government authorities may exercise directly or indirectly a dominant influence by virtue of their ownership of it, their financial participation therein, or the rules which govern it."@en ;
+    skos:inScheme atold:buyer-legal-type ;
+    skos:prefLabel "Публично предприятие, контролирано от орган на централната власт"@bg,
+        "Veřejný podnik ovládaný ústředním orgánem státní správy"@cs,
+        "Offentlig virksomhed, der styres af en central regeringsmyndighed"@da,
+        "Von einer zentralen Regierungsbehörde kontrolliertes öffentliches Unternehmen"@de,
+        "Δημόσια επιχείρηση που τελεί υπό τον έλεγχο αρχής της κεντρικής κυβέρνησης"@el,
+        "Public undertaking, controlled by a central government authority"@en,
+        "Empresa pública bajo el control de una autoridad estatal"@es,
+        "Keskvalitsusasutuse kontrollitav riigi osalusega äriühing"@et,
+        "Julkinen yritys, joka on keskushallinnon viranomaisen määräysvallassa"@fi,
+        "Entreprise publique, contrôlée par une autorité publique centrale"@fr,
+        "Gnóthas poiblí atá faoi rialú údaráis stáit"@ga,
+        "Javno poduzeće koje nadzire središnje tijelo državne uprave"@hr,
+        "Központi kormányzati szerv által ellenőrzött közvállalkozás"@hu,
+        "Impresa pubblica controllata da un'autorità governativa centrale"@it,
+        "Valstybinė įmonė, kontroliuojama centrinės valdžios institucijos"@lt,
+        "Publisks uzņēmums, ko kontrolē centrālās pārvaldes iestāde"@lv,
+        "Impriża pubblika, ikkontrollata minn awtorità tal-gvern ċentrali"@mt,
+        "Overheidsonderneming onder zeggenschap van een centrale overheidsinstantie"@nl,
+        "Przedsiębiorstwo publiczne kontrolowane przez instytucję administracji centralnej"@pl,
+        "Empresa pública, controlada por uma autoridade da administração central"@pt,
+        "Întreprindere de stat, controlată de o autoritate guvernamentală centrală"@ro,
+        "Verejný podnik pod kontrolou orgánu ústrednej štátnej správy"@sk,
+        "Javno podjetje, ki ga obvladuje osrednji državni organ"@sl,
+        "Offentligt företag som kontrolleras av en statlig myndighet"@sv ;
+    skos:topConceptOf atold:buyer-legal-type .
+
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-la> a skos:Concept ;
+    at:authority-code "pub-undert-la" ;
+    at:deprecated "false" ;
+    at:op-code "pub-undert-la" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "pub-undert-la" ;
+    dc:identifier "pub-undert-la" ;
+    skos:definition "Any undertaking over which local contracting authorities may exercise directly or indirectly a dominant influence by virtue of their ownership of it, their financial participation therein, or the rules which govern it."@en ;
+    skos:inScheme atold:buyer-legal-type ;
+    skos:prefLabel "Публично предприятие, контролирано от местен орган"@bg,
+        "Veřejný podnik ovládaný místním orgánem"@cs,
+        "Offentlig virksomhed, der styres af en lokal myndighed"@da,
+        "Von einer lokalen Gebietskörperschaft kontrolliertes öffentliches Unternehmen"@de,
+        "Δημόσια επιχείρηση που τελεί υπό τον έλεγχο τοπικής αρχής"@el,
+        "Public undertaking, controlled by a local authority"@en,
+        "Empresa pública bajo el control de una autoridad local"@es,
+        "Kohaliku omavalitsuse kontrollitav riigi osalusega äriühing"@et,
+        "Julkinen yritys, joka on paikallisviranomaisen määräysvallassa"@fi,
+        "Entreprise publique, contrôlée par une autorité locale"@fr,
+        "Gnóthas poiblí atá faoi rialú údaráis áitiúil"@ga,
+        "Javno poduzeće koje nadzire lokalno tijelo"@hr,
+        "Helyi szerv által ellenőrzött közvállalkozás"@hu,
+        "Impresa pubblica controllata da un'autorità locale"@it,
+        "Valstybinė įmonė, kontroliuojama vietos valdžios institucijos"@lt,
+        "Publisks uzņēmums, ko kontrolē vietējās pārvaldes iestāde"@lv,
+        "Impriża pubblika, ikkontrollata minn awtorità lokali"@mt,
+        "Overheidsonderneming onder zeggenschap van een lokale overheid"@nl,
+        "Przedsiębiorstwo publiczne kontrolowane przez instytucję lokalną"@pl,
+        "Empresa pública, controlada por uma autoridade local"@pt,
+        "Întreprindere de stat, controlată de o autoritate locală"@ro,
+        "Verejný podnik pod kontrolou miestneho orgánu"@sk,
+        "Javno podjetje, ki ga obvladuje lokalni organ"@sl,
+        "Offentligt företag som kontrolleras av en lokal myndighet"@sv ;
+    skos:topConceptOf atold:buyer-legal-type .
+
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-ra> a skos:Concept ;
+    at:authority-code "pub-undert-ra" ;
+    at:deprecated "false" ;
+    at:op-code "pub-undert-ra" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "pub-undert-ra" ;
+    dc:identifier "pub-undert-ra" ;
+    skos:definition "Any undertaking over which regional contracting authorities may exercise directly or indirectly a dominant influence by virtue of their ownership of it, their financial participation therein, or the rules which govern it."@en ;
+    skos:inScheme atold:buyer-legal-type ;
+    skos:prefLabel "Публично предприятие, контролирано от регионален орган"@bg,
+        "Veřejný podnik ovládaný regionálním orgánem"@cs,
+        "Offentlig virksomhed, der styres af en regional myndighed"@da,
+        "Von einer regionalen Gebietskörperschaft kontrolliertes öffentliches Unternehmen"@de,
+        "Δημόσια επιχείρηση που τελεί υπό τον έλεγχο περιφερειακής αρχής"@el,
+        "Public undertaking, controlled by a regional authority"@en,
+        "Empresa pública bajo el control de una autoridad regional"@es,
+        "Piirkondliku omavalitsuse kontrollitav riigi osalusega äriühing"@et,
+        "Julkinen yritys, joka on alueviranomaisen määräysvallassa"@fi,
+        "Entreprise publique, contrôlée par une autorité régionale"@fr,
+        "Gnóthas poiblí atá faoi rialú údaráis réigiúnaigh"@ga,
+        "Javno poduzeće koje nadzire regionalno tijelo"@hr,
+        "Regionális szerv által ellenőrzött közvállalkozás"@hu,
+        "Impresa pubblica controllata da un'autorità regionale"@it,
+        "Valstybinė įmonė, kontroliuojama regioninės valdžios institucijos"@lt,
+        "Publisks uzņēmums, ko kontrolē reģionālās pārvaldes iestāde"@lv,
+        "Impriża pubblika, ikkontrollata minn awtorità reġjonali"@mt,
+        "Overheidsonderneming onder zeggenschap van een regionale overheid"@nl,
+        "Przedsiębiorstwo publiczne kontrolowane przez instytucję regionalną"@pl,
+        "Empresa pública, controlada por uma autoridade regional"@pt,
+        "Întreprindere de stat, controlată de o autoritate regională"@ro,
+        "Verejný podnik pod kontrolou regionálneho orgánu"@sk,
+        "Javno podjetje, ki ga obvladuje regionalni organ"@sl,
+        "Offentligt företag som kontrolleras av en regional myndighet"@sv ;
+    skos:topConceptOf atold:buyer-legal-type .
+
+<http://publications.europa.eu/resource/authority/buyer-legal-type/ra> a skos:Concept ;
+    at:authority-code "ra" ;
+    at:deprecated "false" ;
+    at:op-code "ra" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "ra" ;
+    dc:identifier "ra" ;
+    skos:definition "Includes all authorities of the administrative units listed non-exhaustively in NUTS 1 and 2 as referred to in Regulation (EC) No 1059/2003 of the European Parliament and of the Council."@en ;
+    skos:inScheme atold:buyer-legal-type ;
+    skos:prefLabel "Регионален орган"@bg,
+        "Regionální orgán"@cs,
+        "Regional myndighed"@da,
+        "Regionale Gebietskörperschaft"@de,
+        "Περιφερειακή αρχή"@el,
+        "Regional authority"@en,
+        "Autoridad regional"@es,
+        "Piirkondlik omavalitsus"@et,
+        "Alueviranomainen"@fi,
+        "Autorité régionale"@fr,
+        "Údarás réigiúnach"@ga,
+        "Regionalno tijelo"@hr,
+        "Regionális hatóság"@hu,
+        "Autorità regionale"@it,
+        "Regioninės valdžios institucija"@lt,
+        "Reģionāla iestāde"@lv,
+        "Awtorità reġjonali"@mt,
+        "Regionale overheid"@nl,
+        "Instytucja regionalna"@pl,
+        "Autoridade regional"@pt,
+        "Autoritate regională"@ro,
+        "Regionálny orgán"@sk,
+        "Regionalni organ"@sl,
+        "Regional myndighet"@sv ;
+    skos:topConceptOf atold:buyer-legal-type .
+
+<http://publications.europa.eu/resource/authority/buyer-legal-type/rl-aut> a skos:Concept ;
+    at:authority-code "rl-aut" ;
+    at:deprecated "true" ;
+    at:end.use "2019-09-17" ;
+    at:op-code "rl-aut" ;
+    at:start.use "2019-09-16" ;
+    atold:op-code "rl-aut" ;
+    dc:identifier "rl-aut" ;
+    skos:definition "Includes all authorities of the administrative units listed non-exhaustively in NUTS 1 and 2 as referred to in Regulation (EC) No 1059/2003 of the European Parliament and of the Council.Includes all authorities of the administrative units falling under NUTS 3 and smaller administrative units as referred to in Regulation (EC) No 1059/2003 of the European Parliament and of the Council."@en ;
+    skos:inScheme atold:buyer-legal-type ;
+    skos:prefLabel "Регионален или местен орган"@bg,
+        "Regionální či místní orgán"@cs,
+        "Regional eller lokal myndighed"@da,
+        "Regional- oder Kommunalbehörde"@de,
+        "Αρχή τοπικής αυτοδιοίκησης"@el,
+        "Regional or local authority"@en,
+        "Autoridad regional o local"@es,
+        "Linna või valla ametiasutus"@et,
+        "Alue- tai paikallistason viranomainen"@fi,
+        "Autorité régionale ou locale"@fr,
+        "Údarás réigiúnach nó áitiúil"@ga,
+        "Regionalno ili lokalno tijelo"@hr,
+        "Regionális vagy helyi hatóság"@hu,
+        "Autorità regionale o locale"@it,
+        "Regiono ar vietos valdžios institucija"@lt,
+        "Reģionāla vai vietēja iestāde"@lv,
+        "Awtorità reġjonali jew lokali"@mt,
+        "Regionale of plaatselijke instantie"@nl,
+        "Organ władzy regionalnej lub lokalnej"@pl,
+        "Autoridades regionais ou locais"@pt,
+        "Autoritate regională sau locală"@ro,
+        "Regionálny alebo miestny orgán"@sk,
+        "Regionalni ali lokalni organ"@sl,
+        "Regional eller lokal myndighet"@sv ;
+    skos:topConceptOf atold:buyer-legal-type .
+
+<http://publications.europa.eu/resource/authority/buyer-legal-type/spec-rights-entity> a skos:Concept ;
+    at:authority-code "spec-rights-entity" ;
+    at:deprecated "false" ;
+    at:op-code "spec-rights-entity" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "spec-rights-entity" ;
+    dc:identifier "spec-rights-entity" ;
+    skos:definition "Entity that has been granted \"special or exclusive rights by means of legislative, regualtory, administrative procedure by a competent authority of a Member State."@en ;
+    skos:inScheme atold:buyer-legal-type ;
+    skos:prefLabel "Образувание със специални или изключителни права"@bg,
+        "Subjekt se zvláštními nebo výhradními právy"@cs,
+        "Enhed med særlige eller eksklusive rettigheder"@da,
+        "Organisation mit besonderen oder ausschließlichen Rechten"@de,
+        "Φορέας με ειδικά ή αποκλειστικά δικαιώματα"@el,
+        "Entity with special or exclusive rights"@en,
+        "Entidad con derechos especiales o exclusivos"@es,
+        "Eri- või ainuõigustega üksus"@et,
+        "Yksikkö, jolla on erityis- tai yksinoikeuksia"@fi,
+        "Entité disposant de droits spéciaux ou exclusifs"@fr,
+        "Eintiteas a bhfuil cearta speisialta nó eisiacha aige"@ga,
+        "Subjekt s posebnim ili isključivim pravima"@hr,
+        "Különleges vagy kizárólagos jogokkal rendelkező jogi személy"@hu,
+        "Ente dotato di diritti speciali o esclusivi"@it,
+        "Subjektai, turintys specialiųjų ar išskirtinių teisių"@lt,
+        "Subjekts ar īpašām vai ekskluzīvām tiesībām"@lv,
+        "Entità bi drittijiet speċjali jew esklużivi"@mt,
+        "Entiteit met bijzondere of uitsluitende rechten"@nl,
+        "Podmiot, któremu przysługują prawa specjalne lub wyłączne"@pl,
+        "Entidade com direitos especiais ou exclusivos"@pt,
+        "Entitate cu drepturi speciale sau exclusive"@ro,
+        "Subjekt s osobitnými alebo výlučnými právami"@sk,
+        "Subjekt s posebnimi ali izključnimi pravicami"@sl,
+        "Enhet med särskilda eller exklusiva rättigheter"@sv ;
+    skos:topConceptOf atold:buyer-legal-type .
+
+atold:buyer-legal-type a skos:ConceptScheme ;
+    rdfs:label "Buyer legal type"@en ;
+    at:prefLabel "Buyer legal type"@en ;
+    at:table.id "buyer-legal-type" ;
+    at:table.version.number "20220615-0" ;
+    owl:versionInfo "20220615-0" ;
+    skos:prefLabel "Buyer legal type"@en .
+

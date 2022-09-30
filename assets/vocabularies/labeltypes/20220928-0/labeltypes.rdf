@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:at="http://publications.europa.eu/ontology/authority/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:atold="http://publications.europa.eu/resource/authority/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xml:base="http://publications.europa.eu/resource/authority/label-type">
+   <skos:ConceptScheme rdf:about="http://publications.europa.eu/resource/authority/label-type"
+                       at:table.id="label-type"
+                       at:table.version.number="20220928-0">
+      <at:prefLabel xml:lang="en">Label type</at:prefLabel>
+      <rdfs:label xml:lang="en">Label type</rdfs:label>
+      <owl:versionInfo>20220928-0</owl:versionInfo>
+      <skos:prefLabel xml:lang="en">Label type</skos:prefLabel>
+   </skos:ConceptScheme>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/label-type/ABRIDGEDLABEL"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">съкратено</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">zkráceno</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">forkortet</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">abgekürzt</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">συντετμημένη</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">abridged</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">abreviada</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">lühendatud</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">lyhennetty</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">abrégé</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">giorraithe</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">skraćeni oblik</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">rövidített</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">abbreviato</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">sutrumpinta</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">saīsināts</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">imqassar</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">afkorting</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">forma skrócona</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">abreviatura</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">abreviat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">skrátené</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">okrajšan</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">förkortad</skos:prefLabel>
+      <at:authority-code>ABRIDGEDLABEL</at:authority-code>
+      <at:op-code>ABRIDGEDLABEL</at:op-code>
+      <at:start.use>2014-11-26</at:start.use>
+      <atold:op-code>ABRIDGEDLABEL</atold:op-code>
+      <dc:identifier>ABRIDGEDLABEL</dc:identifier>
+      <skos:definition xml:lang="en">Abridged is a label type used in Time period authority table to mark a label form for abbreviated label versions.</skos:definition>
+      <skos:example xml:lang="en">Example: ‘Apr’ is the abridged label for ‘April’, in English.</skos:example>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/label-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/label-type"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/label-type/ACRONYM"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">акроним</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">akronym</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">akronym</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Abkürzung</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">ακρωνύμιο</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">acronym</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">acrónimo</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">akronüüm</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">akronyymi</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">acronyme</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">acrainm</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">pokrata</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">betűszó</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">acronimo</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">akronimas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">akronīms</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">akronimu</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">acroniem</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">akronim</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">sigla</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">acronim</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">akronym</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">kratica</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">akronym</skos:prefLabel>
+      <at:authority-code>ACRONYM</at:authority-code>
+      <at:op-code>ACRONYM</at:op-code>
+      <at:start.use>2012-07-05</at:start.use>
+      <atold:op-code>ACRONYM</atold:op-code>
+      <dc:identifier>ACRONYM</dc:identifier>
+      <skos:definition xml:lang="en">Acronym is a label type used in several authority tables to mark label form composed of the initial letters of the complet form of a name or expression.</skos:definition>
+      <skos:example xml:lang="en">Example: ‘OP’ is the acronym for ‘Publications Office of the European Union’ (preferred label) in Corporate body table, in English.</skos:example>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/label-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/label-type"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/label-type/ADJECTIVE"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">прилагателно</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">adjektivní</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">adjektivisk</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">adjektivisch</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">επίθετο</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">adjectival</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">adjetivo</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">omadussõnaline vorm</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">adjektiivinen</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">adjectif</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">aidiachtúil</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">pridjev</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">melléknévi</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">aggettivo</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">požymį nusakantis</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">adjektīvs</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">aġġettivali</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">bijvoeglijk</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">forma przymiotnikowa</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">gentílico</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">adjectival</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">adjektívne</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">pridevniški</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">adjektiv</skos:prefLabel>
+      <at:authority-code>ADJECTIVE</at:authority-code>
+      <at:op-code>ADJECTIVE</at:op-code>
+      <at:start.use>2012-07-05</at:start.use>
+      <atold:op-code>ADJECTIVE</atold:op-code>
+      <dc:identifier>ADJECTIVE</dc:identifier>
+      <skos:definition xml:lang="en">Adjectival is a label type used in Country authority table to mark the adjectival form related with a country.</skos:definition>
+      <skos:example xml:lang="en">Example: ‘Luxembourgish’ is the adjectival form in relation with Luxembourg in Country authority table, in English.</skos:example>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/label-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/label-type"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/label-type/ALTERNATIVELABEL"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">алтернатива</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">alternativní</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">alternativ</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Alternative</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">εναλλακτική μορφή</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">alternative</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">alternativa</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">alternatiiv</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">vaihtoehto</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">autre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">malairt</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">alternativni oblik</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">alternatíva</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">alternativa</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">alternatyvus</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">alternatīvs</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">alternattiva</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">alternatief</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">wariant</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">alternativa</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">alternativ</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">alternatíva</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">alternativa</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">alternativ</skos:prefLabel>
+      <at:authority-code>ALTERNATIVELABEL</at:authority-code>
+      <at:op-code>ALTERNATIVELABEL</at:op-code>
+      <at:start.use>2012-07-05</at:start.use>
+      <atold:op-code>ALTERNATIVELABEL</atold:op-code>
+      <dc:identifier>ALTERNATIVELABEL</dc:identifier>
+      <skos:definition xml:lang="en">Alternative is a label type used in several authority tables to mark a label form different from the preferred label, without specifying the type of difference. It is another, lesser used form to express the same concept.</skos:definition>
+      <skos:example xml:lang="en">Example: ‘Sorani’ is an alternative label for ‘Central Kurdish’ in Language authority table, in English.</skos:example>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/label-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/label-type"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/label-type/ATTOLABEL"
+                 at:deprecated="true">
+      <skos:prefLabel xml:lang="en">ATTO</skos:prefLabel>
+      <at:authority-code>ATTOLABEL</at:authority-code>
+      <at:op-code>ATTOLABEL</at:op-code>
+      <at:start.use>2018-02-28</at:start.use>
+      <atold:op-code>ATTOLABEL</atold:op-code>
+      <dc:identifier>ATTOLABEL</dc:identifier>
+      <skos:definition xml:lang="en">ATTO was a label type in eProcurement-related authority tables to separate a label used in ATTO tables from preferred labels. ATTO is the internal translation manager application of the Publications Office of the European Union.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/label-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/label-type"/>
+      <at:end.use>2019-09-17</at:end.use>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/label-type/COUNTLABEL"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">брой</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">počítání</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">tælling</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Anzahl</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">αριθμός</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">count</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">recuento</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">arvestus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">laskenta</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">comptage</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">comhaireamh</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">brojivo</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">számolás</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">conteggio</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">skaičius</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">skaits</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">għadd</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">telbaar</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">forma liczebnikowa</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">número</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">numărare</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">počítať</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">števnik</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">räkning</skos:prefLabel>
+      <at:authority-code>COUNTLABEL</at:authority-code>
+      <at:op-code>COUNTLABEL</at:op-code>
+      <at:start.use>2014-11-26</at:start.use>
+      <atold:op-code>COUNTLABEL</atold:op-code>
+      <dc:identifier>COUNTLABEL</dc:identifier>
+      <skos:definition xml:lang="en">Count is a label type used in Number authority table to mark the label form used for counting, without alternative or gender-marked forms.</skos:definition>
+      <skos:example xml:lang="en">Example: ‘un’ to count one in French, without mentioning the feminine form ‘une’ which also means one but is not used to count (un, deux, trois...).</skos:example>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/label-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/label-type"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/label-type/CURRENCYSUBUNIT"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">подединица</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">podjednotka</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">underenhed</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Untereinheit</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">υπομονάδα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">subunit</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">subunidad</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">alaühik</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">alayksikkö</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">sous-unité</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">fo-aonad</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">podjedinica</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">váltópénz</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">sottounità</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">vieneto dalis</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">apakšvienība</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">subunità</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">onderverdeling</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">jednostka zdawkowa</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">subunidade</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">subunitate</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">podjednotka</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">podenota</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">skiljemynt</skos:prefLabel>
+      <at:authority-code>CURRENCYSUBUNIT</at:authority-code>
+      <at:op-code>CURRENCYSUBUNIT</at:op-code>
+      <at:start.use>2012-07-05</at:start.use>
+      <atold:op-code>CURRENCYSUBUNIT</atold:op-code>
+      <dc:identifier>CURRENCYSUBUNIT</dc:identifier>
+      <skos:definition xml:lang="en">Subunit is a label type used in Currency authority table to mark the fractions of the main currency unit.</skos:definition>
+      <skos:example xml:lang="en">Example: ‘cent’ (singular form), ‘cents’ (plural form) is the subunit for ‘euro’, in English.</skos:example>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/label-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/label-type"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/label-type/DEMONYM"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="pt">gentílico</skos:prefLabel>
+      <skos:prefLabel xml:lang="bg">демоним</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">demonymum</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">demonym</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Demonym</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">πατριδωνυμικό</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">demonym</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">gentilicio</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">elanik</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">demonyymi</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">démonyme</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">déamainm</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">etnik</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">népnév</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">demonimo</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">demonimas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">katoikonīms</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">demonimu</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">inwoneraanduiding</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">nazwa mieszkańca</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">demonim</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">demonym</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">demonim</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">invånarnamn</skos:prefLabel>
+      <at:authority-code>DEMONYM</at:authority-code>
+      <at:op-code>DEMONYM</at:op-code>
+      <at:start.use>2018-02-22</at:start.use>
+      <atold:op-code>DEMONYM</atold:op-code>
+      <dc:identifier>DEMONYM</dc:identifier>
+      <skos:definition xml:lang="en">Demonym is a label type to mark the citizenship and/or inhabitant form related with a country. This label type is not used yet.</skos:definition>
+      <skos:example xml:lang="en">Example: ‘Luxembourger’ is the demonym in relation with Luxembourg in Country authority table, in English.</skos:example>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/label-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/label-type"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/label-type/FORMLABEL"
+                 at:deprecated="true">
+      <skos:prefLabel xml:lang="en">form</skos:prefLabel>
+      <at:authority-code>FORMLABEL</at:authority-code>
+      <at:op-code>FORMLABEL</at:op-code>
+      <at:start.use>2018-02-28</at:start.use>
+      <atold:op-code>FORMLABEL</atold:op-code>
+      <dc:identifier>FORMLABEL</dc:identifier>
+      <skos:definition xml:lang="en">Form was a label type in eProcurement-related authority tables to separate a label used in forms from preferred labels.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/label-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/label-type"/>
+      <at:end.use>2019-09-17</at:end.use>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/label-type/GRAMMATICAL"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">граматическо</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">gramatické</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">grammatisk</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">grammatikalisch</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">γραμματικό</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">grammatical</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">gramatical</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">grammatiline</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">kieliopillinen</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">grammatical</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">gramadaí</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">gramatički</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">nyelvtani</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">grammaticale</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">gramatinis</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">gramatisks</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">grammatikali</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">grammaticaal</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">forma gramatyczna</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">gramatical</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">gramatical</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">gramatické</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">slovničen</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">grammatisk</skos:prefLabel>
+      <at:authority-code>GRAMMATICAL</at:authority-code>
+      <at:op-code>GRAMMATICAL</at:op-code>
+      <at:start.use>2021-06-16</at:start.use>
+      <atold:op-code>GRAMMATICAL</atold:op-code>
+      <dc:identifier>GRAMMATICAL</dc:identifier>
+      <skos:definition xml:lang="en">Grammatical is a special label type which can be combined with other label types. It aims to mark multiple gender markings within a term or other grammatical relations. This type is not used yet.</skos:definition>
+      <skos:example xml:lang="en">Example: the French version of ‘Assistant to the President’ in Role qualifier authority table can have four forms as both the assistant and the president can be a man or a woman:
+Assistant du président (male/male)
+Assistante du président (female/male)
+Assistant de la présidente (male/female)
+Assistante de la présidente (female/female)</skos:example>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/label-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/label-type"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/label-type/LONGLABEL"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">дълго</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">dlouhé</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">langt</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">lang</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">ασύντμητη</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">long</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">larga</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">pikk</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">pitkä</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">long</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">fada</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">dugo</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">hosszú</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">lunga</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">ilgasis</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">garš</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">twil</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">lang</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">forma długa</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">longa</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">lung</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">dlhé</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">daljše</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">långform</skos:prefLabel>
+      <at:authority-code>LONGLABEL</at:authority-code>
+      <at:op-code>LONGLABEL</at:op-code>
+      <at:start.use>2012-07-05</at:start.use>
+      <atold:op-code>LONGLABEL</atold:op-code>
+      <dc:identifier>LONGLABEL</dc:identifier>
+      <skos:definition xml:lang="en">Long is a label type used in several authority tables to mark a label form different from the preferred label. The long label is generally longer than the preferred one.</skos:definition>
+      <skos:example xml:lang="en">Example: ‘Translation Centre for the Bodies of the European Union’ is the long label for ‘Translation Centre’ (preferred label) in Corporate body table, in English.</skos:example>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/label-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/label-type"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/label-type/OFFICIALLABEL"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">официално</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">úřední název</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">officielt</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">offiziell</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">επίσημη</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">official</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">oficial</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">ametlik</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">virallinen</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">officiel</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">oifigiúil</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">službeno</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">hivatalos</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">ufficiale</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">oficialusis</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">oficiāls</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">uffiċjali</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">officieel</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">forma urzędowa</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">oficial</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">oficial</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">oficiálne</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">uradno ime</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">officiellt namn</skos:prefLabel>
+      <at:authority-code>OFFICIALLABEL</at:authority-code>
+      <at:op-code>OFFICIALLABEL</at:op-code>
+      <at:start.use>2012-07-05</at:start.use>
+      <atold:op-code>OFFICIALLABEL</atold:op-code>
+      <dc:identifier>OFFICIALLABEL</dc:identifier>
+      <skos:definition xml:lang="en">Official is a label type used in Country authority table to mark the official state name of a country. In some cases this official label is the same as the preferred label which marks the geographical country name.</skos:definition>
+      <skos:example xml:lang="en">Example: ‘Grand Duchy of Luxembourg’ is the official label for ‘Luxembourg’ (preferred label) in Country authority table, in English.</skos:example>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/label-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/label-type"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/label-type/OP_DATPRO"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">НЕОКОНЧАТЕЛНИ ДАННИ</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Předběžné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Midlertidige data</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Vorläufige Daten</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Προσωρινά δεδομένα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Provisional data</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Datos provisionales</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Esialgsed andmed</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Alustavat tiedot</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Données provisoires</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Sonraí sealadacha</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Privremeni podaci</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Ideiglenes adatok</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Dati provvisori</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Laikinieji duomenys</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Provizoriski dati</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Dejta provviżorja</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Voorlopige gegevens</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Dane tymczasowe</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Dados provisórios</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Date provizorii</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Predbežné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Začasni podatki</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Tillfälliga uppgifter</skos:prefLabel>
+      <at:authority-code>OP_DATPRO</at:authority-code>
+      <at:op-code>OP_DATPRO</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>OP_DATPRO</atold:op-code>
+      <dc:identifier>OP_DATPRO</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/label-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/label-type"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/label-type/ORIGINALLABEL"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">оригинално</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">originál</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">originalt</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">original</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">πρωτότυπη</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">original</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">original</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">originaal</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">alkuperäinen</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">original</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">bunleagan</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">izvorno</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">eredeti</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">originale</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">originalas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">oriģināls</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">oriġinali</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">origineel</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">forma w języku oryginalnym</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">original</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">original</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">originál</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">izviren</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">original</skos:prefLabel>
+      <at:authority-code>ORIGINALLABEL</at:authority-code>
+      <at:op-code>ORIGINALLABEL</at:op-code>
+      <at:start.use>2012-07-05</at:start.use>
+      <atold:op-code>ORIGINALLABEL</atold:op-code>
+      <dc:identifier>ORIGINALLABEL</dc:identifier>
+      <skos:definition xml:lang="en">Original is a label type used in several authority tables to mark a label written in the original language, eventually in more scripts used.</skos:definition>
+      <skos:example xml:lang="en">Example: ‘црногорски језик’ and ‘crnogorski jezik’ are the original Montenegrin labels for Montenegrin in Language authority table.</skos:example>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/label-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/label-type"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/label-type/ORTHOGRAPHICAL"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">ортографично</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">ortografické</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">ortografisk</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">orthografisch</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">ορθογραφικό</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">orthographical</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">ortográfica</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">ortograafiline</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">ortografinen</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">orthographique</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">ortagrafach</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">ortografsko</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">helyesírási</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">ortografica</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">ortografinis</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">ortogrāfisks</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">ortografiku</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">orthografisch</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">forma ortograficzna</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">ortográfico</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">ortografic</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">ortografické</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">ortografski</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">ortografisk</skos:prefLabel>
+      <at:authority-code>ORTHOGRAPHICAL</at:authority-code>
+      <at:op-code>ORTHOGRAPHICAL</at:op-code>
+      <at:start.use>2021-06-16</at:start.use>
+      <atold:op-code>ORTHOGRAPHICAL</atold:op-code>
+      <dc:identifier>ORTHOGRAPHICAL</dc:identifier>
+      <skos:definition xml:lang="en">Orthographical is a special label type which can be combined with other label types. It can contain HTML tags. It aims to keep italic markings which have a meaning in some languages to separate foreign language elements in a term. This type is not used yet.</skos:definition>
+      <skos:example xml:lang="en">Example: in the Latvian version of Euratom Supply Agency, ‘Euratom Apgādes aģentūra’ the first word, Euratom is written with italic to show that this word comes from another language without translation.</skos:example>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/label-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/label-type"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/label-type/SHORTLABEL"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">кратко</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">krátké</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">kort</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">kurz</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">σύντομη</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">short</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">breve</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">lühike</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">lyhyt</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">court</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">gearr</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">kratko</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">rövid</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">breve</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">trumpasis</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">īss</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">qasir</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">kort</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">forma krótka</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">curta</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">scurt</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">krátke</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">krajše</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">kortform</skos:prefLabel>
+      <at:authority-code>SHORTLABEL</at:authority-code>
+      <at:op-code>SHORTLABEL</at:op-code>
+      <at:start.use>2012-07-05</at:start.use>
+      <atold:op-code>SHORTLABEL</atold:op-code>
+      <dc:identifier>SHORTLABEL</dc:identifier>
+      <skos:definition xml:lang="en">Short is a label type used in several authority tables to mark a label form different from the preferred label. The short label is generally shorter than the preferred one.</skos:definition>
+      <skos:example xml:lang="en">Example: ‘Commission’ is the short label for ‘European Commission’ (preferred label) in Corporate body table, in English.</skos:example>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/label-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/label-type"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/label-type/STANDARDLABEL"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">предпочитано</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">preferováno</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">foretrukket</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">bevorzugt</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">προτιμώμενη</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">preferred</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">preferida</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">eelistatud</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">suositeltava</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">privilégié</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">rogha</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">preferirano</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">preferált</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">preferita</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">teikiamasis</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">vēlamais</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">preferut</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">voorkeur</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">wariant preferowany</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">preferível</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">preferat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">preferované</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">priporočen</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">rekommenderad</skos:prefLabel>
+      <at:authority-code>STANDARDLABEL</at:authority-code>
+      <at:op-code>STANDARDLABEL</at:op-code>
+      <at:start.use>2012-07-05</at:start.use>
+      <atold:op-code>STANDARDLABEL</atold:op-code>
+      <dc:identifier>STANDARDLABEL</dc:identifier>
+      <skos:definition xml:lang="en">Preferred is a label type used in all authority tables to mark the mainly used label form.</skos:definition>
+      <skos:example xml:lang="en">Example: ‘European Commission’ in Corporate body table, in English.</skos:example>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/label-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/label-type"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/label-type/SYMBOL"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">символ</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">symbol</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">symbol</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Symbol</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">σύμβολο</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">symbol</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">símbolo</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">tähis</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">symboli</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">symbole</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">siombail</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">simbol</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">jel</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">simbolo</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">simbolis</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">simbols</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">simbolu</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">symbool</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">symbol</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">símbolo</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">simbol</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">symbol</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">simbol</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">symbol</skos:prefLabel>
+      <at:authority-code>SYMBOL</at:authority-code>
+      <at:op-code>SYMBOL</at:op-code>
+      <at:start.use>2019-02-20</at:start.use>
+      <atold:op-code>SYMBOL</atold:op-code>
+      <dc:identifier>SYMBOL</dc:identifier>
+      <skos:definition xml:lang="en">Symbol is a label type used in the Measurement unit authority table for displaying the symbols of different measurement units. These symbols and abbreviations can be different from SI (International System of Units) symbols in languages that use other than Latin alphabet.</skos:definition>
+      <skos:example xml:lang="en">Example: ‘m’ is the symbol used for ‘metre’ in English.</skos:example>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/label-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/label-type"/>
+   </skos:Concept>
+</rdf:RDF>

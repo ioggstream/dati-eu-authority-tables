@@ -1,0 +1,524 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/asset-classification/OP_DATPRO> a skos:Concept ;
+    at:authority-code "OP_DATPRO" ;
+    at:deprecated "false" ;
+    at:op-code "OP_DATPRO" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:asset-classification ;
+    skos:prefLabel "НЕОКОНЧАТЕЛНИ ДАННИ"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv ;
+    skos:topConceptOf atold:asset-classification .
+
+<http://publications.europa.eu/resource/authority/asset-classification/c_1fb7be39> a skos:Concept ;
+    at:authority-code "c_1fb7be39" ;
+    at:deprecated "false" ;
+    at:op-code "c_1fb7be39" ;
+    at:start.use "2019-12-11" ;
+    atold:op-code "c_1fb7be39" ;
+    dc:identifier "c_1fb7be39" ;
+    skos:broader <http://publications.europa.eu/resource/authority/asset-classification/c_722cef3f> ;
+    skos:definition "The relational model (RM) for database management is an approach to managing data represented in terms of tuples grouped into relations."@en ;
+    skos:inScheme atold:asset-classification ;
+    skos:prefLabel "Relational model"@en .
+
+<http://publications.europa.eu/resource/authority/asset-classification/c_230aaab7> a skos:Concept ;
+    at:authority-code "c_230aaab7" ;
+    at:deprecated "false" ;
+    at:op-code "c_230aaab7" ;
+    at:start.use "2019-12-11" ;
+    atold:op-code "c_230aaab7" ;
+    dc:identifier "c_230aaab7" ;
+    skos:altLabel "CSS"@en,
+        "XSL-FO"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/asset-classification/c_722cef3f> ;
+    skos:definition "The presentation style sheet expresses the presentation of structured documents."@en ;
+    skos:example "One modern style sheet language with widespread use is Cascading Style Sheets (CSS), which is used to style documents written in HTML, XHTML, SVG, XUL and other markup languages."@en ;
+    skos:inScheme atold:asset-classification ;
+    skos:prefLabel "Presentation style sheet"@en ;
+    skos:scopeNote "One attractive feature of structured documents is that the content can be reused in many contexts and presented in various ways. Different style sheets can be attached to the logical structure to produce different presentations."@en .
+
+<http://publications.europa.eu/resource/authority/asset-classification/c_25e514f4> a skos:Concept ;
+    at:authority-code "c_25e514f4" ;
+    at:deprecated "false" ;
+    at:op-code "c_25e514f4" ;
+    at:start.use "2019-12-11" ;
+    atold:op-code "c_25e514f4" ;
+    dc:identifier "c_25e514f4" ;
+    skos:broader <http://publications.europa.eu/resource/authority/asset-classification/c_64714767> ;
+    skos:definition "The lexicon is a language's inventory of lexemes."@en ;
+    skos:inScheme atold:asset-classification ;
+    skos:prefLabel "Lexicon"@en ;
+    skos:scopeNote "Representation of dictionaries and any other linguistic resource containing lexicographic data and addressing structure and annotations commonly found in lexicography are covered by this category."@en .
+
+<http://publications.europa.eu/resource/authority/asset-classification/c_2db4690d> a skos:Concept ;
+    at:authority-code "c_2db4690d" ;
+    at:deprecated "false" ;
+    at:op-code "c_2db4690d" ;
+    at:start.use "2019-12-11" ;
+    atold:op-code "c_2db4690d" ;
+    dc:identifier "c_2db4690d" ;
+    skos:broader <http://publications.europa.eu/resource/authority/asset-classification/c_c2f98e5f> ;
+    skos:definition "A mind map is a diagram used to visually organise information in informal hierarchical structures and show relationships among pieces of the whole."@en ;
+    skos:inScheme atold:asset-classification ;
+    skos:prefLabel "Mind map"@en ;
+    skos:scopeNote "A mind map is hierarchical and shows relationships among pieces of the whole. It is often created around a single concept, drawn as an image in the center of a blank page, to which associated representations of ideas such as images, words and parts of words are added. Major ideas are connected directly to the central concept, and other ideas branch out from those major ideas."@en .
+
+<http://publications.europa.eu/resource/authority/asset-classification/c_32ffe82d> a skos:Concept ;
+    at:authority-code "c_32ffe82d" ;
+    at:deprecated "false" ;
+    at:op-code "c_32ffe82d" ;
+    at:start.use "2019-12-11" ;
+    atold:op-code "c_32ffe82d" ;
+    dc:identifier "c_32ffe82d" ;
+    skos:altLabel "BPMN"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/asset-classification/c_722cef3f> ;
+    skos:definition "Business Process Model and Notation (BPMN) is a graphical representation for specifying business processes in a business process model."@en ;
+    skos:inScheme atold:asset-classification ;
+    skos:prefLabel "Business Process Model and Notation"@en .
+
+<http://publications.europa.eu/resource/authority/asset-classification/c_35dcf03c> a skos:Concept ;
+    at:authority-code "c_35dcf03c" ;
+    at:deprecated "false" ;
+    at:op-code "c_35dcf03c" ;
+    at:start.use "2019-12-11" ;
+    atold:op-code "c_35dcf03c" ;
+    dc:identifier "c_35dcf03c" ;
+    skos:altLabel "Argument diagram"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/asset-classification/c_c2f98e5f> ;
+    skos:definition "In informal logic and philosophy, an argument map or argument diagram is a visual representation of the structure of an argument. "@en ;
+    skos:inScheme atold:asset-classification ;
+    skos:prefLabel "Argument map"@en ;
+    skos:scopeNote "An argument map typically includes the key components of the argument, traditionally called the conclusion and the premises, also called contention and reasons. Argument maps can also show co-premises, objections, counterarguments, rebuttals and lemmas. There are different styles of argument map but they are often functionally equivalent and represent an argument’s individual claims and the relationships between them."@en .
+
+<http://publications.europa.eu/resource/authority/asset-classification/c_3626c85a> a skos:Concept ;
+    at:authority-code "c_3626c85a" ;
+    at:deprecated "false" ;
+    at:op-code "c_3626c85a" ;
+    at:start.use "2019-12-11" ;
+    atold:op-code "c_3626c85a" ;
+    dc:identifier "c_3626c85a" ;
+    skos:altLabel "Subject headings are a hierarchical encoding-based classification."@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/asset-classification/c_8da81c02> ;
+    skos:definition "Subject headings represent a classification which distinguishes categories and allows employment of alphanumeric encoding schemes in order to allow organisation of knowledge."@en ;
+    skos:inScheme atold:asset-classification ;
+    skos:prefLabel "Subject headings"@en ;
+    skos:scopeNote "Subject heading are comprehensive sets of terms intended to be assigned to books, articles and other documents in order to describe the subject of the text and to group them with texts having similar subjects."@en .
+
+<http://publications.europa.eu/resource/authority/asset-classification/c_366e3b24> a skos:Concept ;
+    at:authority-code "c_366e3b24" ;
+    at:deprecated "false" ;
+    at:op-code "c_366e3b24" ;
+    at:start.use "2021-02-04" ;
+    atold:op-code "c_366e3b24" ;
+    dc:identifier "c_366e3b24" ;
+    skos:broader <http://publications.europa.eu/resource/authority/asset-classification/c_638e1719> ;
+    skos:definition "A base registry is a trusted and authoritative source of information which can and should be digitally reused by others, where one organisation is responsible and accountable for the collection, use, updating and preservation of information."@en ;
+    skos:inScheme atold:asset-classification ;
+    skos:prefLabel "Base registry"@en .
+
+<http://publications.europa.eu/resource/authority/asset-classification/c_3948c2ed> a skos:Concept ;
+    at:authority-code "c_3948c2ed" ;
+    at:deprecated "false" ;
+    at:op-code "c_3948c2ed" ;
+    at:start.use "2019-12-11" ;
+    atold:op-code "c_3948c2ed" ;
+    dc:identifier "c_3948c2ed" ;
+    skos:altLabel "Descriptive markup schema"@en,
+        "XSD schema"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/asset-classification/c_722cef3f> ;
+    skos:definition "A Markup schema is a description of a type of document typically expressed in terms of constraints on the structure and content of documents of that type, which may stretch above and beyond the basic syntactical constraints. These constraints are generally expressed using some combination of grammatical rules governing the order of elements, predicates that elements must satisfy, data types governing the content, and possibly other more specialised rules."@en ;
+    skos:example "Well-known examples include LaTeX, HTML, and XML."@en ;
+    skos:inScheme atold:asset-classification ;
+    skos:prefLabel "Markup schema"@en ;
+    skos:scopeNote "A schema is a concrete view on a system or information exchange, describing the structure, content, and semantics of data. Markup is used to label parts of the document rather than to provide specific instructions as to how they should be processed. The objective is to decouple the inherent structure of the document from any particular treatment or rendition of it. Such markups are often described as \"semantic\"."@en .
+
+<http://publications.europa.eu/resource/authority/asset-classification/c_5796a20b> a skos:Concept ;
+    at:authority-code "c_5796a20b" ;
+    at:deprecated "false" ;
+    at:op-code "c_5796a20b" ;
+    at:start.use "2019-12-11" ;
+    atold:op-code "c_5796a20b" ;
+    dc:identifier "c_5796a20b" ;
+    skos:broader <http://publications.europa.eu/resource/authority/asset-classification/c_64714767> ;
+    skos:definition "A dictionary is a list of terms and their definitions that provide variant senses for each term, where applicable."@en ;
+    skos:inScheme atold:asset-classification ;
+    skos:prefLabel "Dictionary"@en .
+
+<http://publications.europa.eu/resource/authority/asset-classification/c_5b130cc6> a skos:Concept ;
+    at:authority-code "c_5b130cc6" ;
+    at:deprecated "false" ;
+    at:op-code "c_5b130cc6" ;
+    at:start.use "2020-11-03" ;
+    atold:op-code "c_5b130cc6" ;
+    dc:identifier "c_5b130cc6" ;
+    skos:altLabel "Authority table"@en,
+        "Name authority file"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/asset-classification/c_638e1719> ;
+    skos:definition "An authority file provides authoritative data for proper entities and proper nouns like e.g. names, persons, organisations, events, places and titles. The file has preferred names, variant and/or alternative names to disambiguate different items with similar or identical headings (synonym control).   It may or may not have hierarchical relationships (broader term/narrow term) between concepts. Usually has additional attributes for each named concept."@en ;
+    skos:inScheme atold:asset-classification ;
+    skos:prefLabel "Authority file"@en .
+
+<http://publications.europa.eu/resource/authority/asset-classification/c_89b4bdb7> a skos:Concept ;
+    at:authority-code "c_89b4bdb7" ;
+    at:deprecated "false" ;
+    at:op-code "c_89b4bdb7" ;
+    at:start.use "2019-12-11" ;
+    atold:op-code "c_89b4bdb7" ;
+    dc:identifier "c_89b4bdb7" ;
+    skos:broader <http://publications.europa.eu/resource/authority/asset-classification/c_e4cf092c> ;
+    skos:definition "An ontology is a formal, explicit specification of a shared conceptualisation. In computer science and information science, an ontology encompasses a representation, formal naming and definition of the categories, properties and relations between the concepts, data and entities that substantiate one, many or all domains of discourse."@en ;
+    skos:example "Ontologies are usually expressed in formal languages such as RDFS, OWL, KIF, CycL, Common Logic, OIL, DAML, RIF, OBO and IDEF5. "@en ;
+    skos:inScheme atold:asset-classification ;
+    skos:prefLabel "Formal ontology"@en .
+
+<http://publications.europa.eu/resource/authority/asset-classification/c_a2df28a1> a skos:Concept ;
+    at:authority-code "c_a2df28a1" ;
+    at:deprecated "false" ;
+    at:op-code "c_a2df28a1" ;
+    at:start.use "2019-12-11" ;
+    atold:op-code "c_a2df28a1" ;
+    dc:identifier "c_a2df28a1" ;
+    skos:altLabel "Hierarchical relation-based classification"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/asset-classification/c_8da81c02> ;
+    skos:definition "Taxonomy is a classification which distinguishes categories and allows employment of hierarchy forming relations in order to allow organisation of knowledge. "@en ;
+    skos:inScheme atold:asset-classification ;
+    skos:prefLabel "Taxonomy"@en .
+
+<http://publications.europa.eu/resource/authority/asset-classification/c_a6822084> a skos:Concept ;
+    at:authority-code "c_a6822084" ;
+    at:deprecated "false" ;
+    at:op-code "c_a6822084" ;
+    at:start.use "2019-12-11" ;
+    atold:op-code "c_a6822084" ;
+    dc:identifier "c_a6822084" ;
+    skos:broader <http://publications.europa.eu/resource/authority/asset-classification/c_e4cf092c> ;
+    skos:definition "A system network is a theoretical tool to describe the dimension of choice at each stratum of the linguistic system to which they are applied."@en ;
+    skos:inScheme atold:asset-classification ;
+    skos:prefLabel "System network"@en ;
+    skos:scopeNote "System networks capture the dimension of choice at each stratum of the linguistic system to which they are applied. The system networks of the lexicogrammar make up systemic functional grammar. A system network is a theoretical tool to describe the sets of options available in a language variety; it represents abstract choice and does not correspond to a notion of actual choice or make psychological claims. Formally system networks correspond to type lattices in formal lattice theory, although they are occasionally erroneously mistaken for flowcharts or directed decision trees. System networks were invented by Michael Halliday in 1960s within his theory of Systemic Functional Linguistics."@en .
+
+<http://publications.europa.eu/resource/authority/asset-classification/c_a7773248> a skos:Concept ;
+    at:authority-code "c_a7773248" ;
+    at:deprecated "false" ;
+    at:op-code "c_a7773248" ;
+    at:start.use "2019-12-11" ;
+    atold:op-code "c_a7773248" ;
+    dc:identifier "c_a7773248" ;
+    skos:broader <http://publications.europa.eu/resource/authority/asset-classification/c_c2f98e5f> ;
+    skos:definition "In information science, a thesaurus (plural: \"thesauri\") is a form of controlled vocabulary that seeks to dictate semantic manifestations of  concepts. "@en ;
+    skos:inScheme atold:asset-classification ;
+    skos:prefLabel "Thesaurus"@en ;
+    skos:scopeNote "A thesaurus serves to minimise semantic ambiguity by ensuring uniformity and consistency in the storage and retrieval of the manifestations of content objects. A thesaurus is composed by at least three elements: (1) a list of words (or terms), (2) the relationship amongst the words (or terms), indicated by their hierarchical relative position (e.g. parent/broader term, child/narrower term, synonym, etc.) and (3) a set of rules on how to use the thesaurus."@en .
+
+<http://publications.europa.eu/resource/authority/asset-classification/c_b0bfba6e> a skos:Concept ;
+    at:authority-code "c_b0bfba6e" ;
+    at:deprecated "false" ;
+    at:op-code "c_b0bfba6e" ;
+    at:start.use "2019-12-11" ;
+    atold:op-code "c_b0bfba6e" ;
+    dc:identifier "c_b0bfba6e" ;
+    skos:broader <http://publications.europa.eu/resource/authority/asset-classification/c_64714767> ;
+    skos:definition "Categorisation schemes represent loosely formed grouping schemes."@en ;
+    skos:inScheme atold:asset-classification ;
+    skos:prefLabel "Categorisation"@en .
+
+<http://publications.europa.eu/resource/authority/asset-classification/c_b37963b3> a skos:Concept ;
+    at:authority-code "c_b37963b3" ;
+    at:deprecated "false" ;
+    at:op-code "c_b37963b3" ;
+    at:start.use "2019-12-11" ;
+    atold:op-code "c_b37963b3" ;
+    dc:identifier "c_b37963b3" ;
+    skos:broader <http://publications.europa.eu/resource/authority/asset-classification/c_e4cf092c> ;
+    skos:definition "An application profile is a specification that re-uses terms from one or more base standards, adding more specificity by identifying mandatory, recommended and optional elements to be used for a particular application, as well as recommendations for controlled vocabularies to be used."@en ;
+    skos:inScheme atold:asset-classification ;
+    skos:prefLabel "Application profile"@en .
+
+<http://publications.europa.eu/resource/authority/asset-classification/c_b81ceeea> a skos:Concept ;
+    at:authority-code "c_b81ceeea" ;
+    at:deprecated "false" ;
+    at:op-code "c_b81ceeea" ;
+    at:start.use "2019-12-11" ;
+    atold:op-code "c_b81ceeea" ;
+    dc:identifier "c_b81ceeea" ;
+    skos:broader <http://publications.europa.eu/resource/authority/asset-classification/c_c2f98e5f> ;
+    skos:definition "An entity-relationship model (ERM), sometimes referred to as an entity-relationship diagram (ERD), could be used to represent an abstract conceptual data model (or semantic data model or physical data model) used in software engineering to represent structured data."@en ;
+    skos:inScheme atold:asset-classification ;
+    skos:prefLabel "Entity-relationship model"@en .
+
+<http://publications.europa.eu/resource/authority/asset-classification/c_bba2bb35> a skos:Concept ;
+    at:authority-code "c_bba2bb35" ;
+    at:deprecated "false" ;
+    at:op-code "c_bba2bb35" ;
+    at:start.use "2019-12-11" ;
+    atold:op-code "c_bba2bb35" ;
+    dc:identifier "c_bba2bb35" ;
+    skos:broader <http://publications.europa.eu/resource/authority/asset-classification/c_c2f98e5f> ;
+    skos:definition "Alignment is the relationship between a concept in one vocabulary and one or more concepts in another."@en ;
+    skos:inScheme atold:asset-classification ;
+    skos:prefLabel "Alignment"@en ;
+    skos:scopeNote "An alignment is a set of correspondences established between concepts in distinct terminologies, classifications or models."@en .
+
+<http://publications.europa.eu/resource/authority/asset-classification/c_c0b5956c> a skos:Concept ;
+    at:authority-code "c_c0b5956c" ;
+    at:deprecated "false" ;
+    at:op-code "c_c0b5956c" ;
+    at:start.use "2019-12-11" ;
+    atold:op-code "c_c0b5956c" ;
+    dc:identifier "c_c0b5956c" ;
+    skos:broader <http://publications.europa.eu/resource/authority/asset-classification/c_c2f98e5f> ;
+    skos:definition "A frame-based model is a kind of knowledge representation which relates linguistic semantics to encyclopaedic knowledge."@en ;
+    skos:inScheme atold:asset-classification ;
+    skos:prefLabel "Frame-based model"@en ;
+    skos:scopeNote "The basic idea is that one cannot understand the meaning of a single word without access to all the essential knowledge that relates to that word. For example, one would not be able to understand the word \"sell\" without knowing anything about the situation of commercial transfer, which also involves, among other things, a seller, a buyer, goods, money, the relation between the money and the goods, the relations between the seller and the goods and the money, the relation between the buyer and the goods and the money and so on. This paradigm was developed in 1980s by Charles Filmore."@en .
+
+<http://publications.europa.eu/resource/authority/asset-classification/c_c2ffe197> a skos:Concept ;
+    at:authority-code "c_c2ffe197" ;
+    at:deprecated "false" ;
+    at:op-code "c_c2ffe197" ;
+    at:start.use "2019-12-11" ;
+    atold:op-code "c_c2ffe197" ;
+    dc:identifier "c_c2ffe197" ;
+    skos:broader <http://publications.europa.eu/resource/authority/asset-classification/c_c2f98e5f> ;
+    skos:definition "A semantic network, or frame network is a knowledge base that represents semantic relations between concepts in a network. It often is used as a form of knowledge representation."@en ;
+    skos:example "Examples of semantic networks are WordNet and MultiNet. "@en ;
+    skos:inScheme atold:asset-classification ;
+    skos:prefLabel "Semantic network"@en ;
+    skos:scopeNote "A semantic network is used when one has knowledge that is best understood as a set of concepts that are related to one another. Most semantic networks are cognitively based. They also consist of arcs and nodes which can be organised into a taxonomic hierarchy. Semantic networks have contributed ideas of spreading activation, inheritance and nodes as proto-objects."@en .
+
+<http://publications.europa.eu/resource/authority/asset-classification/c_cdd11291> a skos:Concept ;
+    at:authority-code "c_cdd11291" ;
+    at:deprecated "false" ;
+    at:op-code "c_cdd11291" ;
+    at:start.use "2019-12-11" ;
+    atold:op-code "c_cdd11291" ;
+    dc:identifier "c_cdd11291" ;
+    skos:altLabel "Term list"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/asset-classification/c_64714767> ;
+    skos:definition "A code list is a simple set of terms or coded data element values. "@en ;
+    skos:inScheme atold:asset-classification ;
+    skos:prefLabel "Code list"@en .
+
+<http://publications.europa.eu/resource/authority/asset-classification/c_d3bf7907> a skos:Concept ;
+    at:authority-code "c_d3bf7907" ;
+    at:deprecated "false" ;
+    at:op-code "c_d3bf7907" ;
+    at:start.use "2019-12-11" ;
+    atold:op-code "c_d3bf7907" ;
+    dc:identifier "c_d3bf7907" ;
+    skos:broader <http://publications.europa.eu/resource/authority/asset-classification/c_64714767> ;
+    skos:definition "A synonym ring is a simple set of terms that are considered equivalent for the purpose of retrieval."@en ;
+    skos:inScheme atold:asset-classification ;
+    skos:prefLabel "Synonym ring"@en .
+
+<http://publications.europa.eu/resource/authority/asset-classification/c_d5c26195> a skos:Concept ;
+    at:authority-code "c_d5c26195" ;
+    at:deprecated "false" ;
+    at:op-code "c_d5c26195" ;
+    at:start.use "2019-12-11" ;
+    atold:op-code "c_d5c26195" ;
+    dc:identifier "c_d5c26195" ;
+    skos:broader <http://publications.europa.eu/resource/authority/asset-classification/c_c2f98e5f> ;
+    skos:definition "A topic map is a standard for the representation and interchange of knowledge formalised under ISO/IEC 13250:2003 specification. "@en ;
+    skos:inScheme atold:asset-classification ;
+    skos:prefLabel "Topic map"@en ;
+    skos:scopeNote "A topic map represents information using (a) topics, representing any concept, from people, countries, and organisations to software modules, individual files, and events, (b) associations, representing hypergraph relationships between topics, and (c) occurrences, representing information resources relevant to a particular topic."@en .
+
+<http://publications.europa.eu/resource/authority/asset-classification/c_d9dd5715> a skos:Concept ;
+    at:authority-code "c_d9dd5715" ;
+    at:deprecated "false" ;
+    at:op-code "c_d9dd5715" ;
+    at:start.use "2019-12-11" ;
+    atold:op-code "c_d9dd5715" ;
+    dc:identifier "c_d9dd5715" ;
+    skos:altLabel "Formal grammar"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/asset-classification/c_722cef3f> ;
+    skos:definition "A syntax encoding scheme or a grammar (when the context is not given, often called a formal grammar for clarity) is a set of production rules for strings in a formal language. "@en ;
+    skos:inScheme atold:asset-classification ;
+    skos:prefLabel "Syntax encoding scheme"@en ;
+    skos:scopeNote "The rules describe how to form strings from the language’s alphabet that are valid according to the language’s syntax. A grammar does not describe the meaning of the strings or what can be done with them in whatever context – only their form."@en .
+
+<http://publications.europa.eu/resource/authority/asset-classification/c_ebfb658e> a skos:Concept ;
+    at:authority-code "c_ebfb658e" ;
+    at:deprecated "false" ;
+    at:op-code "c_ebfb658e" ;
+    at:start.use "2019-12-11" ;
+    atold:op-code "c_ebfb658e" ;
+    dc:identifier "c_ebfb658e" ;
+    skos:broader <http://publications.europa.eu/resource/authority/asset-classification/c_64714767> ;
+    skos:definition "A glossary is a simple list of terms and their definitions. A glossary focuses on creating a complete list of the terminology of domain-specific terms and acronyms."@en ;
+    skos:inScheme atold:asset-classification ;
+    skos:prefLabel "Glossary"@en ;
+    skos:scopeNote "A glossary is useful for creating clear and unambiguous definitions for terms and because it can be created with simple word processing tools, and few technical tools are necessary."@en .
+
+<http://publications.europa.eu/resource/authority/asset-classification/c_ecacbeba> a skos:Concept ;
+    at:authority-code "c_ecacbeba" ;
+    at:deprecated "false" ;
+    at:op-code "c_ecacbeba" ;
+    at:start.use "2019-12-11" ;
+    atold:op-code "c_ecacbeba" ;
+    dc:identifier "c_ecacbeba" ;
+    skos:altLabel "Collaborative tagging"@en,
+        "Social classification"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/asset-classification/c_64714767> ;
+    skos:definition "Folksonomy is the system in which users apply public tags to online items, typically to make those items easier for themselves or others to find later."@en ;
+    skos:inScheme atold:asset-classification ;
+    skos:prefLabel "Folksonomy"@en .
+
+<http://publications.europa.eu/resource/authority/asset-classification/c_eed252ff> a skos:Concept ;
+    at:authority-code "c_eed252ff" ;
+    at:deprecated "false" ;
+    at:op-code "c_eed252ff" ;
+    at:start.use "2019-12-11" ;
+    atold:op-code "c_eed252ff" ;
+    dc:identifier "c_eed252ff" ;
+    skos:broader <http://publications.europa.eu/resource/authority/asset-classification/c_c2f98e5f> ;
+    skos:definition "An object oriented model is a a way to represent knowledge about a well defined subject in terms of its dynamic behaviours, business processes and use cases, and in terms of its static structures, classes and components."@en ;
+    skos:inScheme atold:asset-classification ;
+    skos:prefLabel "Object-oriented model"@en ;
+    skos:scopeNote "Object-oriented modelling (OOM) typically divides into two aspects of work: the modelling of dynamic behaviors like business processes and use cases, and the modelling of static structures like classes and components. OOA and OOD are the two distinct abstract levels (i.e. the analysis level and the design level) during OOM. The Unified Modeling Language (UML) and SysML are the two popular international standard languages used for object-oriented modelling. OOM is a common approach to modeling applications, systems and business domains by using the object-oriented paradigm throughout the entire development life cycles."@en .
+
+<http://publications.europa.eu/resource/authority/asset-classification/c_638e1719> a skos:Concept ;
+    at:authority-code "c_638e1719" ;
+    at:deprecated "false" ;
+    at:op-code "c_638e1719" ;
+    at:start.use "2021-02-24" ;
+    atold:op-code "c_638e1719" ;
+    dc:identifier "c_638e1719" ;
+    skos:definition "Authoritative source means any source irrespective of its form that can be relied upon to provide accurate data, information and/or evidence that can be used to prove identity."@en ;
+    skos:inScheme atold:asset-classification ;
+    skos:narrower <http://publications.europa.eu/resource/authority/asset-classification/c_366e3b24>,
+        <http://publications.europa.eu/resource/authority/asset-classification/c_5b130cc6> ;
+    skos:prefLabel "Authoritative source "@en ;
+    skos:topConceptOf atold:asset-classification .
+
+<http://publications.europa.eu/resource/authority/asset-classification/c_8da81c02> a skos:Concept ;
+    at:authority-code "c_8da81c02" ;
+    at:deprecated "false" ;
+    at:op-code "c_8da81c02" ;
+    at:start.use "2019-12-11" ;
+    atold:op-code "c_8da81c02" ;
+    dc:identifier "c_8da81c02" ;
+    skos:definition "Classification is a system that provides distinctions of some sort between categories in the universe of discourse. It can either define an informal set of loose categories, an explicit taxonomy (explicit hierarchy) with no strict inheritance involved. Or, it can define a strict inheritance hierarchy."@en ;
+    skos:inScheme atold:asset-classification ;
+    skos:narrower <http://publications.europa.eu/resource/authority/asset-classification/c_3626c85a>,
+        <http://publications.europa.eu/resource/authority/asset-classification/c_a2df28a1> ;
+    skos:prefLabel "Classification"@en ;
+    skos:scopeNote "Classification is a process related to categorisation, the process in which ideas and objects are recognised, differentiated and understood. It allows humans to organize things, objects and ideas that exist around them and simplify their understanding of the world. Classification is grounded in the features that distinguish the category’s members from non-members. Classification is important in learning, prediction, inference, decision making, language, and many forms of organisms’ interaction with their environments."@en ;
+    skos:topConceptOf atold:asset-classification .
+
+<http://publications.europa.eu/resource/authority/asset-classification/c_e4cf092c> a skos:Concept ;
+    at:authority-code "c_e4cf092c" ;
+    at:deprecated "false" ;
+    at:op-code "c_e4cf092c" ;
+    at:start.use "2019-12-11" ;
+    atold:op-code "c_e4cf092c" ;
+    dc:identifier "c_e4cf092c" ;
+    skos:definition "A semantic model provides a representation of meaning and eventually rules of computation or logical reasoning backed by explicit formal definitions. "@en ;
+    skos:editorialNote "Semantic models follow a representation theory of meaning, including truth theories of meaning, coherence theories of meaning and correspondence theories of meaning."@en,
+        "These models are based on logics that are usually more expressive than predicate logics. They make some ontological commitments and provide, or are backed by, formal semantic definitions (like, for example, the semantic definitions of RDFS/OWL/LOOM languages). An open world assumption is the rule and, as uncertainty is taken into account, reasoning is necessary."@en ;
+    skos:inScheme atold:asset-classification ;
+    skos:narrower <http://publications.europa.eu/resource/authority/asset-classification/c_89b4bdb7>,
+        <http://publications.europa.eu/resource/authority/asset-classification/c_a6822084>,
+        <http://publications.europa.eu/resource/authority/asset-classification/c_b37963b3> ;
+    skos:prefLabel "Semantic model"@en ;
+    skos:topConceptOf atold:asset-classification .
+
+<http://publications.europa.eu/resource/authority/asset-classification/c_722cef3f> a skos:Concept ;
+    at:authority-code "c_722cef3f" ;
+    at:deprecated "false" ;
+    at:op-code "c_722cef3f" ;
+    at:start.use "2019-12-11" ;
+    atold:op-code "c_722cef3f" ;
+    dc:identifier "c_722cef3f" ;
+    skos:altLabel "Datamodel"@en ;
+    skos:definition "A data model is an abstract model that organises elements of data and standardises how they relate to one another and to the properties of real-world entities."@en ;
+    skos:editorialNote "Data model is a formal (syntactic) data structure specification having a deontological or normative nature. It is based upon a closed-world assumption, which means that no uncertainty is assumed and, hence, reasoning is not necessary because facts are simply stated."@en ;
+    skos:inScheme atold:asset-classification ;
+    skos:narrower <http://publications.europa.eu/resource/authority/asset-classification/c_1fb7be39>,
+        <http://publications.europa.eu/resource/authority/asset-classification/c_230aaab7>,
+        <http://publications.europa.eu/resource/authority/asset-classification/c_32ffe82d>,
+        <http://publications.europa.eu/resource/authority/asset-classification/c_3948c2ed>,
+        <http://publications.europa.eu/resource/authority/asset-classification/c_d9dd5715> ;
+    skos:prefLabel "Data model"@en ;
+    skos:topConceptOf atold:asset-classification .
+
+<http://publications.europa.eu/resource/authority/asset-classification/c_64714767> a skos:Concept ;
+    at:authority-code "c_64714767" ;
+    at:deprecated "false" ;
+    at:op-code "c_64714767" ;
+    at:start.use "2019-12-11" ;
+    atold:op-code "c_64714767" ;
+    dc:identifier "c_64714767" ;
+    skos:definition "Terminology is a system that typically organises in a controlled manner a set of terms, concepts or codes. Typically/in most cases it is used as reference data, i.e. to annotate other data or as restrictions on possible values for properties of some kind."@en ;
+    skos:inScheme atold:asset-classification ;
+    skos:narrower <http://publications.europa.eu/resource/authority/asset-classification/c_25e514f4>,
+        <http://publications.europa.eu/resource/authority/asset-classification/c_5796a20b>,
+        <http://publications.europa.eu/resource/authority/asset-classification/c_b0bfba6e>,
+        <http://publications.europa.eu/resource/authority/asset-classification/c_cdd11291>,
+        <http://publications.europa.eu/resource/authority/asset-classification/c_d3bf7907>,
+        <http://publications.europa.eu/resource/authority/asset-classification/c_ebfb658e>,
+        <http://publications.europa.eu/resource/authority/asset-classification/c_ecacbeba> ;
+    skos:prefLabel "Terminology"@en ;
+    skos:topConceptOf atold:asset-classification .
+
+<http://publications.europa.eu/resource/authority/asset-classification/c_c2f98e5f> a skos:Concept ;
+    at:authority-code "c_c2f98e5f" ;
+    at:deprecated "false" ;
+    at:op-code "c_c2f98e5f" ;
+    at:start.use "2019-12-11" ;
+    atold:op-code "c_c2f98e5f" ;
+    dc:identifier "c_c2f98e5f" ;
+    skos:definition "A conceptual model is a representation of a system that organises concepts and loose relations among them in a synthetic and schematic way used to organise ideas, clarify, understand, or simulate a subject. Semantics is basically about concepts, the meaning that thinking beings give to various elements of their experience."@en ;
+    skos:inScheme atold:asset-classification ;
+    skos:narrower <http://publications.europa.eu/resource/authority/asset-classification/c_2db4690d>,
+        <http://publications.europa.eu/resource/authority/asset-classification/c_35dcf03c>,
+        <http://publications.europa.eu/resource/authority/asset-classification/c_a7773248>,
+        <http://publications.europa.eu/resource/authority/asset-classification/c_b81ceeea>,
+        <http://publications.europa.eu/resource/authority/asset-classification/c_bba2bb35>,
+        <http://publications.europa.eu/resource/authority/asset-classification/c_c0b5956c>,
+        <http://publications.europa.eu/resource/authority/asset-classification/c_c2ffe197>,
+        <http://publications.europa.eu/resource/authority/asset-classification/c_d5c26195>,
+        <http://publications.europa.eu/resource/authority/asset-classification/c_eed252ff> ;
+    skos:prefLabel "Conceptual model"@en ;
+    skos:scopeNote "The term conceptual model may be used to refer to models which are formed after a conceptualisation or generalisation process. Conceptual models are often abstractions of things in the real world whether physical or social."@en ;
+    skos:topConceptOf atold:asset-classification .
+
+atold:asset-classification a skos:ConceptScheme ;
+    rdfs:label "Asset classification"@en ;
+    at:prefLabel "Asset classification"@en ;
+    at:table.id "asset-classification" ;
+    at:table.version.number "20210616-0" ;
+    owl:versionInfo "20210616-0" ;
+    skos:prefLabel "Asset classification"@en .
+

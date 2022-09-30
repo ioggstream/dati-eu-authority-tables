@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:at="http://publications.europa.eu/ontology/authority/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:atold="http://publications.europa.eu/resource/authority/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xml:base="http://publications.europa.eu/resource/authority/strategic-priority">
+   <skos:ConceptScheme rdf:about="http://publications.europa.eu/resource/authority/strategic-priority"
+                       at:table.id="strategic-priority"
+                       at:table.version.number="20220615-0">
+      <at:prefLabel xml:lang="en">Strategic priority</at:prefLabel>
+      <rdfs:label xml:lang="en">Strategic priority</rdfs:label>
+      <owl:versionInfo>20220615-0</owl:versionInfo>
+      <skos:prefLabel xml:lang="en">Strategic priority</skos:prefLabel>
+   </skos:ConceptScheme>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/strategic-priority/05c79cb9ee"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Нов тласък за европейската демокрация</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Nový impuls pro evropskou demokracii</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Nyt skub i det europæiske demokrati</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Neuer Schwung für die Demokratie in Europa</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Μια νέα ώθηση για την ευρωπαϊκή δημοκρατία</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">A new push for European democracy</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Un nuevo impulso a la democracia europea</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Uue hoo andmine Euroopa demokraatiale</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Uutta vauhtia eurooppalaiselle demokratialle</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Un nouvel élan pour la démocratie européenne</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Ugach nua do dhaonlathas na hEorpa</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Novi poticaj europskoj demokraciji</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Új lendület az európai demokrácia számára</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Un nuovo slancio per la democrazia europea</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Naujas Europos demokratijos postūmis</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Jauns impulss Eiropas demokrātijai</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Spinta ġdida għad-demokrazija Ewropea</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Een nieuwe impuls voor Europese democratie</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Nowy impuls dla demokracji europejskiej</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Um novo impulso para a democracia europeia</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Un nou elan pentru democrația europeană</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Nový impulz pre európsku demokraciu</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Nova spodbuda za evropsko demokracijo</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">En ny satsning på demokrati i Europa</skos:prefLabel>
+      <at:authority-code>05c79cb9ee</at:authority-code>
+      <at:end.use>2024-11-30</at:end.use>
+      <at:op-code>05c79cb9ee</at:op-code>
+      <at:start.use>2019-12-01</at:start.use>
+      <atold:op-code>05c79cb9ee</atold:op-code>
+      <dc:identifier>05c79cb9ee</dc:identifier>
+      <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority/c_d20941d9"/>
+      <skos:definition xml:lang="en">A new push for European democracy is one of the Commission priorities 2019–2024 encompassing nurturing, protecting and strengthening our democracy.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/strategic-priority/c_d20941d9"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Приоритети на Комисията за 2019 — 2024 г.</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Priority Komise na období 2019-2024</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Kommissionens topprioriteter for 2019-2024</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Prioritäten der Kommission für 2019-2024</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Οι προτεραιότητες της Επιτροπής για το 2019-2024</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Commission priorities for 2019–2024</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Las prioridades de la Comisión para 2019-2024</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Komisjoni prioriteedid aastateks 2019–2024</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Komission painopisteet kaudella 2019–2024</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Les priorités de la Commission pour 2019-2024</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Thosaíocht an Choimisiúin do 2019-2024</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Prioriteti Komisije za razdoblje 2019. – 2024.</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">A Bizottság prioritásai 2019–2024</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Le priorità della Commissione per il 2019-2024</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Komisijos 2019–2024 m. prioritetai</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Komisijas prioritātes 2019.–2024. g.</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Il-prijoritajiet tal-Kummissjoni 2019-2024</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Prioriteiten van de Commissie voor 2019-2024</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Priorytety Komisji na lata 2019-2024</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">As prioridades da Comissão para 2019-2024</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Prioritățile ale Comisiei pentru 2019-2024</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Priority Komisie na roky 2019 – 2024</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Prednostne naloge Komisije v obdobju 2019–2024</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Kommissionens prioriteringar för 2019–2024</skos:prefLabel>
+      <at:authority-code>c_d20941d9</at:authority-code>
+      <at:end.use>2024-11-30</at:end.use>
+      <at:op-code>c_d20941d9</at:op-code>
+      <at:start.use>2019-12-01</at:start.use>
+      <atold:op-code>c_d20941d9</atold:op-code>
+      <dc:identifier>c_d20941d9</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority"/>
+      <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority/05c79cb9ee"/>
+      <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority/33a612644a"/>
+      <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority/3c3c547b96"/>
+      <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority/3da7cd2056"/>
+      <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority/6002f017ad"/>
+      <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority/ad7bdb3bbd"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/strategic-priority/33a612644a"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Икономика в интерес на хората</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Hospodářství, které pracuje ve prospěch lidí</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">En økonomi, der tjener alle</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Eine Wirtschaft im Dienste der Menschen</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Μια οικονομία στην υπηρεσία των ανθρώπων</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">An economy that works for people</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Una economía que funcione en pro de las personas</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Inimeste teenistuses olev majandus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Ihmisten hyväksi toimiva talous</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Une économie au service des personnes</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Geilleagar a Fhóireann do Dhaoine</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Gospodarstvo u interesu građana</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Emberközpontú gazdaság</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Un'economia al servizio delle persone</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Žmonėms tarnaujanti ekonomika</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Ekonomika cilvēku labā</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Ekonomija li Taħdem għan-Nies</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Een economie die werkt voor de mensen</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Gospodarka, która służy ludziom</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Uma economia ao serviço dos cidadãos</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">O economie în serviciul cetățenilor</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Hospodárstvo, ktoré pracuje pre ľudí</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Gospodarstvo za ljudi</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">En ekonomi för människor</skos:prefLabel>
+      <at:authority-code>33a612644a</at:authority-code>
+      <at:end.use>2024-11-30</at:end.use>
+      <at:op-code>33a612644a</at:op-code>
+      <at:start.use>2019-12-01</at:start.use>
+      <atold:op-code>33a612644a</atold:op-code>
+      <dc:identifier>33a612644a</dc:identifier>
+      <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority/c_d20941d9"/>
+      <skos:definition xml:lang="en">An economy that works for people is one of the Commission priorities 2019–2024 with a focus on working for social fairness and prosperity.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/strategic-priority/3c3c547b96"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Европейски зелен пакт</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Zelená dohoda pro Evropu</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">En europæisk grøn pagt</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Ein europäischer Green Deal</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Ευρωπαϊκή Πράσινη συμφωνία</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">A European Green Deal</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Pacto Verde Europeo</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Euroopa roheline kokkulepe</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Euroopan vihreän kehityksen ohjelma</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Un Green Deal européen</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Comhaontú Glas don Eoraip</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Europski zeleni plan</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Európai zöld megállapodás</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Green Deal europeo</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Europos žaliasis kursas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Zaļais kurss Eiropai</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Il-Patt Ekoloġiku Ewropew</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Europese Green Deal</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Europejski Zielony Ład</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Pacto Ecológico Europeu</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Pactul ecologic european</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Európsky ekologický dohovor</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Evropski zeleni dogovor</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">En europeisk grön giv</skos:prefLabel>
+      <at:authority-code>3c3c547b96</at:authority-code>
+      <at:end.use>2024-11-30</at:end.use>
+      <at:op-code>3c3c547b96</at:op-code>
+      <at:start.use>2019-12-01</at:start.use>
+      <atold:op-code>3c3c547b96</atold:op-code>
+      <dc:identifier>3c3c547b96</dc:identifier>
+      <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority/c_d20941d9"/>
+      <skos:definition xml:lang="en">A European Green Deal is one of the Commission priorities 2019–2024 striving for Europe to be the first climate-neutral continent.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/strategic-priority/3da7cd2056"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">По-силна Европа на световната сцена</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Silnější Evropa ve světě</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Et stærkere Europa i verden</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Ein stärkeres Europa in der Welt</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Μια ισχυρότερη Ευρώπη στον κόσμο</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">A stronger Europe in the world</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Una Europa más fuerte en el mundo</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Euroopa positsiooni tugevdamine maailmas</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Vahvempi EU maailmannäyttämöllä</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Une Europe plus forte sur la scène internationale</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Eoraip níos láidre sa Domhan</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Snažnija Europa u svijetu</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Európa globális szerepének erősítése</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Un'Europa più forte nel mondo</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Pasaulyje stipresnė Europa</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Spēcīgāka Eiropa pasaulē</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Ewropa Iktar b’Saħħitha fid-Dinja</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Een sterker Europa in de wereld</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Silniejsza pozycja Europy na świecie</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Uma Europa mais forte na cena mundial</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">O Europă mai puternică pe plan internațional</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Silnejšia Európa vo svete</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Močnejša Evropa v svetu</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Ett starkare Europa i världen</skos:prefLabel>
+      <at:authority-code>3da7cd2056</at:authority-code>
+      <at:end.use>2024-11-30</at:end.use>
+      <at:op-code>3da7cd2056</at:op-code>
+      <at:start.use>2019-12-01</at:start.use>
+      <atold:op-code>3da7cd2056</atold:op-code>
+      <dc:identifier>3da7cd2056</dc:identifier>
+      <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority/c_d20941d9"/>
+      <skos:definition xml:lang="en">A stronger Europe in the world is one of the Commission priorities 2019–2024 positioning Europe to strive for more by strengthening our unique brand of responsible global leadership.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/strategic-priority/6002f017ad"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Европа, пригодна за цифровата ера</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Evropa připravená na digitální věk</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Et Europa klar til den digitale tidsalder</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Ein Europa für das digitale Zeitalter</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Ευρώπη έτοιμη για την ψηφιακή εποχή</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">A Europe fit for the digital age</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Una Europa adaptada a la era digital</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Digiajastule vastav Euroopa</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Euroopan digitaalinen valmius</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Une Europe adaptée à l’ère du numérique</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Eoraip atá oiriúnach don Aois Dhigiteach</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Europa spremna za digitalno doba</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">A digitális korra felkészült Európa</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Un'Europa pronta per l'era digitale</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Prie skaitmeninio amžiaus prisitaikiusi Europa</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Eiropa, kas sagatavota digitālajam laikmetam</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Ewropa Lesta għall-Era Diġitali</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Een Europa dat klaar is voor het digitale tijdperk</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Europa na miarę ery cyfrowej</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Preparar a Europa para a era digital</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">O Europă pregătită pentru era digitală</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Európa pripravená na digitálny vek</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Evropa, pripravljena na digitalno dobo</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Ett Europa rustat för den digitala tidsåldern</skos:prefLabel>
+      <at:authority-code>6002f017ad</at:authority-code>
+      <at:end.use>2024-11-30</at:end.use>
+      <at:op-code>6002f017ad</at:op-code>
+      <at:start.use>2019-12-01</at:start.use>
+      <atold:op-code>6002f017ad</atold:op-code>
+      <dc:identifier>6002f017ad</dc:identifier>
+      <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority/c_d20941d9"/>
+      <skos:definition xml:lang="en">A Europe fit for the digital age is one of the Commission priorities 2019–2024 aiming at empowering people with a new generation of technologies.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/strategic-priority/OP_DATPRO"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Неокончателни данни</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Předběžné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Midlertidige data</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Vorläufige Daten</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Προσωρινά δεδομένα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Provisional data</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Datos provisionales</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Esialgsed andmed</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Alustavat tiedot</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Données provisoires</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Sonraí sealadacha</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Privremeni podaci</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Ideiglenes adatok</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Dati provvisori</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Laikinieji duomenys</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Provizoriski dati</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Dejta provviżorja</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Voorlopige gegevens</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Dane tymczasowe</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Dados provisórios</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Date provizorii</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Predbežné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Začasni podatki</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Tillfälliga uppgifter</skos:prefLabel>
+      <at:authority-code>OP_DATPRO</at:authority-code>
+      <at:op-code>OP_DATPRO</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>OP_DATPRO</atold:op-code>
+      <dc:identifier>OP_DATPRO</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/strategic-priority/ad7bdb3bbd"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Утвърждаване на европейския начин на живот</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Podpora evropského způsobu života</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Fremme af vores europæiske levevis</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Förderung unserer europäischen Lebensweise</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Προώθηση του ευρωπαϊκού τρόπου ζωής μας</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Promoting our European way of life</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Promoción de nuestro Modo de Vida Europeo</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Euroopaliku eluviisi edendamine</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Eurooppalaisen elämäntavan edistäminen</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Promouvoir notre mode de vie européen</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Ár nDóigh Bheatha Eorpach a chur chun cinn</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Promicanje našeg europskog načina života</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Az európai életmód előmozdítása</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Promozione del nostro stile di vita europeo</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Europinės gyvensenos propagavimas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Mūsu eiropeiskā dzīvesziņa</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Promozzjoni tal-Istil ta’ Ħajja Ewropew</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Bevordering van onze Europese levenswijze</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Promowanie naszego europejskiego stylu życia</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Promoção do nosso modo de vida europeu</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Promovarea modului nostru de viață european</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Podpora európskeho spôsobu života</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Spodbujanje našega evropskega načina življenja</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Främjande av vår europeiska livsstil</skos:prefLabel>
+      <at:authority-code>ad7bdb3bbd</at:authority-code>
+      <at:end.use>2024-11-30</at:end.use>
+      <at:op-code>ad7bdb3bbd</at:op-code>
+      <at:start.use>2019-12-01</at:start.use>
+      <atold:op-code>ad7bdb3bbd</atold:op-code>
+      <dc:identifier>ad7bdb3bbd</dc:identifier>
+      <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority/c_d20941d9"/>
+      <skos:definition xml:lang="en">Promoting our European way of life is one of the Commission priorities 2019–2024 pointing toward building a Union of equality in which we all have the same access to opportunities.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/strategic-priority/c_09dc7907"
+                 at:deprecated="true">
+      <skos:prefLabel xml:lang="bg">Приоритети на Комисията за 2014 — 2019 г.</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Priority Komise na období 2014-2019</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Kommissionens topprioriteter for 2014-2019</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Prioritäten der Kommission für 2014-2019</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Οι προτεραιότητες της Επιτροπής για το 2014-2019</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Commission priorities for 2014–2019</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Las prioridades de la Comisión para 2014-2019</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Komisjoni prioriteedid aastateks 2014–2019</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Komission painopisteet kaudella 2014–2019</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Les priorités de la Commission pour 2014-2019</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Thosaíocht an Choimisiúin do 2014-2019</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Prioriteti Komisije za razdoblje 2014. – 2019.</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">A Bizottság prioritásai 2014–2019</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Le priorità della Commissione per il 2014-2019</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Komisijos 2014–2019 m. prioritetai</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Komisijas prioritātes 2014.–2019. g.</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Il-prijoritajiet tal-Kummissjoni 2014-2019</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Prioriteiten van de Commissie voor 2014-2019</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Priorytety Komisji na lata 2014-2019</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">As prioridades da Comissão para 2014-2019</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Prioritățile ale Comisiei pentru 2014-2019</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Priority Komisie na roky 2014 – 2019</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Prednostne naloge Komisije v obdobju 2014–2019</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Kommissionens prioriteringar för 2014–2019</skos:prefLabel>
+      <at:authority-code>c_09dc7907</at:authority-code>
+      <at:end.use>2019-11-30</at:end.use>
+      <at:op-code>c_09dc7907</at:op-code>
+      <at:start.use>2014-11-01</at:start.use>
+      <atold:op-code>c_09dc7907</atold:op-code>
+      <dc:identifier>c_09dc7907</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority"/>
+      <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority/c_10762e4b"/>
+      <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority/c_13d46e13"/>
+      <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority/c_35ac7bbe"/>
+      <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority/c_935b7a94"/>
+      <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority/c_b7061c2d"/>
+      <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority/c_c373ca5b"/>
+      <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority/c_ce8346b5"/>
+      <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority/c_e9d1425b"/>
+      <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority/c_f6db89aa"/>
+      <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority/c_f8bf3d64"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/strategic-priority/c_10762e4b"
+                 at:deprecated="true">
+      <skos:prefLabel xml:lang="bg">Съюз на демократична промяна</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Unie demokratické změny</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">En Union med demokratiske forandringer</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Eine Union des demokratischen Wandels</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Μια ένωση δημοκρατικής αλλαγής</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">A union of democratic change</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Una Unión de cambio democrático</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Demokraatlike muutuste liit</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Demokraattisen muutoksen unioni</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Une Union du changement démocratique</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Unija demokratskih promjena</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">A demokratikus változás Uniója</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Un’Unione di cambiamento democratico</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Demokratinių pokyčių sąjunga</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Demokrātisku pārmaiņu Savienība</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Unjoni ta’ bidla demokratika</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Een Unie van democratische verandering</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Unia demokratycznych zmian</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Uma União de mudança democrática</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">O Uniune a schimbărilor democratice</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Únia demokratickej zmeny</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Unija demokratičnih sprememb</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">En union i demokratisk förändring</skos:prefLabel>
+      <at:authority-code>c_10762e4b</at:authority-code>
+      <at:end.use>2019-11-30</at:end.use>
+      <at:op-code>c_10762e4b</at:op-code>
+      <at:start.use>2014-11-01</at:start.use>
+      <atold:op-code>c_10762e4b</atold:op-code>
+      <dc:identifier>c_10762e4b</dc:identifier>
+      <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority/c_09dc7907"/>
+      <skos:definition xml:lang="en">A union of democratic change is one of the Commission priorities 2014–2019 with a focus on making the EU more democratic, open and accountable.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/strategic-priority/c_13d46e13"
+                 at:deprecated="true">
+      <skos:prefLabel xml:lang="bg">Нови стимули за работните места, растежа и инвестициите</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Nový impuls pro zaměstnanost, růst a investice</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Et nyt skub i beskæftigelsen, væksten og investeringerne</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Neue Impulse für Arbeitsplätze, Wachstum und Investitionen</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Νέα ώθηση στην απασχόληση, την ανάπτυξη και τις επενδύσεις</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">A new boost for jobs, growth and investment</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Un nuevo impulso para el empleo, el crecimiento y la inversión</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Uus hoog töökohtade loomisele ning majanduskasvu ja investeeringute edendamisele</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Uutta pontta työllisyyteen, kasvuun ja investointeihin</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Un nouvel élan pour l’emploi, la croissance et l’investissement</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Novi poticaj za zapošljavanje, rast i ulaganja</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Új lendület a foglalkoztatásnak, a növekedésnek és a beruházásoknak</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Il rilancio dell’occupazione, della crescita e degli investimenti</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Naujas darbo vietų kūrimo, ekonomikos augimo ir investicijų postūmis</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Jauns impulss nodarbinātībai, izaugsmei un ieguldījumiem</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Spinta ġdida għall-impjiegi, għat-tkabbir u għall-investiment</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Een nieuwe impuls voor banen, groei en investeringen</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Pobudzenie zatrudnienia, wzrostu i inwestycji</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Um novo impulso para o emprego, o crescimento e o investimento</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Un nou impuls pentru crearea de locuri de muncă, creștere economică și investiții</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Nový impulz pre zamestnanosť, rast a investície</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Nova spodbuda za delovna mesta, rast in naložbe</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">En ny satsning på sysselsättning, tillväxt och investeringar</skos:prefLabel>
+      <at:authority-code>c_13d46e13</at:authority-code>
+      <at:end.use>2019-11-30</at:end.use>
+      <at:op-code>c_13d46e13</at:op-code>
+      <at:start.use>2014-11-01</at:start.use>
+      <atold:op-code>c_13d46e13</atold:op-code>
+      <dc:identifier>c_13d46e13</dc:identifier>
+      <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority/c_09dc7907"/>
+      <skos:definition xml:lang="en">A new boost for jobs, growth and investment is one of the Commission priorities 2014–2019 aiming at creating jobs and boosting growth.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/strategic-priority/c_35ac7bbe"
+                 at:deprecated="true">
+      <skos:prefLabel xml:lang="bg">По-задълбочен и по-справедлив вътрешен пазар със засилена промишлена база</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Lépe integrovaný a spravedlivější vnitřní trh se silnější průmyslovou základnou</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Et stærkere og mere retfærdigt indre marked med et styrket industrigrundlag</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Ein vertiefter und fairerer Binnenmarkt mit gestärkter industrieller Basis</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Βαθύτερη και δικαιότερη εσωτερική αγορά με ενισχυμένη βιομηχανική βάση</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">A deeper and fairer internal market with a strengthened industrial base</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Un mercado interior más justo y más profundo, con una base industrial fortalecida</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Süvendatud ja õiglasem siseturg tugevama tööstusbaasiga</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Syvemmät ja oikeudenmukaisemmat sisämarkkinat ja lujempi teollisuuspohja</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Un marché intérieur plus approfondi et plus équitable, doté d’une base industrielle renforcée</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Bolje povezano i pravednije unutarnje tržište s jačim industrijskim temeljima</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Megerősített iparon alapuló, mélyebb és méltányosabb belső piac</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Un mercato interno più profondo e più equo con una base industriale più solida</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Stipresnė, teisingesnė ir tvirtesnės pramoninės bazės vidaus rinka</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Padziļināts un taisnīgāks iekšējais tirgus ar spēcīgāku rūpniecisko pamatu</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Suq intern aktar ġust u aktar profond b’bażi industrijali msaħħa</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Een diepere en eerlijkere interne markt met een sterkere industriële basis</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Lepiej rozwinięty i bardziej sprawiedliwy rynek wewnętrzny oparty na wzmocnionej bazie przemysłowej</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Um mercado interno mais aprofundado e mais equitativo, dotado de uma base industrial reforçada</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">O piață internă mai profundă și mai echitabilă, cu o bază industrială consolidată</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Prehĺbenýa spravodlivejší vnútorný trh s posilnenou priemyselnou základňou</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Bolj povezan in pravičnejši notranji trg z okrepljeno industrijsko bazo</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">En mer integrerad och rättvis inre marknad med en stärkt industribas</skos:prefLabel>
+      <at:authority-code>c_35ac7bbe</at:authority-code>
+      <at:end.use>2019-11-30</at:end.use>
+      <at:op-code>c_35ac7bbe</at:op-code>
+      <at:start.use>2014-11-01</at:start.use>
+      <atold:op-code>c_35ac7bbe</atold:op-code>
+      <dc:identifier>c_35ac7bbe</dc:identifier>
+      <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority/c_09dc7907"/>
+      <skos:definition xml:lang="en">A deeper and fairer internal market with a strengthened industrial base is one of the Commission priorities 2014–2019 promoting stronger industry, fewer national trade barriers and stricter business ethics.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/strategic-priority/c_935b7a94"
+                 at:deprecated="true">
+      <skos:prefLabel xml:lang="bg">Пространство на правосъдие и основни права, изградено върху взаимно доверие</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Prostor spravedlnosti a základních práv založený na vzájemné důvěře</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Et område med retfærdighed og grundlæggende rettigheder baseret på gensidig tillid</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Auf gegenseitigem Vertrauen fußender Raum des Rechts und der Grundrechte</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Ένας χώρος δικαιοσύνης και θεμελιωδών δικαιωμάτων βασισμένος στην αμοιβαία εμπιστοσύνη</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">An area of justice and fundamental rights based on mutual trust</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Un espacio de justicia y derechos fundamentales, basado en la confianza mutua</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Vastastikusel usaldusel põhinev õigusruum ja põhiõigused</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Luottamukseen ja perusoikeuksien kunnioittamiseen perustuva oikeusalue</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Un espace de justice et de droits fondamentaux basé sur la confiance mutuelle</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Područje pravosuđa i temeljnih prava utemeljeno na uzajamnom povjerenju</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">A jogérvényesülés és az alapvető jogok kölcsönös bizalmon alapuló térsége</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Uno spazio di giustizia e di diritti fondamentali basato sulla reciproca fiducia</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Abipusiu pasitikėjimu grindžiama teisingumo ir pagrindinių teisių erdvė</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Tiesiskuma un pamattiesību telpa, kurā valda savstarpēja uzticēšanās</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Żona ta’ ġustizzja u ta’ drittijiet fundamentali bbażati fuq il-fiduċja reċiproka</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Een ruimte van recht en grondrechten op basis van wederzijds vertrouwen</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Obszar sprawiedliwości i przestrzegania praw podstawowych, którego podstawą jest wzajemne zaufanie</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Um espaço de justiça e de direitos fundamentais baseado na confiança mútua</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Un spațiu al justiției și al drepturilor fundamentale bazat pe încredere reciprocă</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Priestor spravodlivosti a základných práv založený na vzájomnej dôvere</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Območje pravosodja in temeljnih pravic, zasnovano na medsebojnem zaupanju</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Ett område för rättvisa och grundläggande rättigheter som bygger på ömsesidigt förtroende</skos:prefLabel>
+      <at:authority-code>c_935b7a94</at:authority-code>
+      <at:end.use>2019-11-30</at:end.use>
+      <at:op-code>c_935b7a94</at:op-code>
+      <at:start.use>2014-11-01</at:start.use>
+      <atold:op-code>c_935b7a94</atold:op-code>
+      <dc:identifier>c_935b7a94</dc:identifier>
+      <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority/c_09dc7907"/>
+      <skos:definition xml:lang="en">An area of justice and fundamental rights based on mutual trust is one of the Commission priorities 2014–2019 aiming at strengthening justice and fundamental rights across the EU as well as safeguarding the rule of law.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/strategic-priority/c_b7061c2d"
+                 at:deprecated="true">
+      <skos:prefLabel xml:lang="bg">Свързан цифров единен пазар</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Propojený jednotný digitální trh</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Et forbundet digitalt indre marked</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Ein vernetzter digitaler Binnenmarkt</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Συνδεδεμένη ψηφιακή ενιαία αγορά</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">A connected digital single market</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Un mercado único digital conectado</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Ühendatud digitaalne ühtne turg</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Yhdennetyt digitaaliset sisämarkkinat</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Un marché unique numérique connecté</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Povezano jedinstveno digitalno tržište</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Az összekapcsolt digitális egységes piac</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Un mercato unico digitale connesso</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Sujungta bendroji skaitmeninė rinka</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Savienots digitālais vienotais tirgus</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Suq uniku diġitali kollegat</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Een connectieve digitale eengemaakte markt</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Połączony jednolity rynek cyfrowy</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Um mercado único digital conectado</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">O piață unică digitală conectată</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Prepojený digitálny jednotný trh</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Povezan enotni digitalni trg</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">En sammankopplad digital inre marknad</skos:prefLabel>
+      <at:authority-code>c_b7061c2d</at:authority-code>
+      <at:end.use>2019-11-30</at:end.use>
+      <at:op-code>c_b7061c2d</at:op-code>
+      <at:start.use>2014-11-01</at:start.use>
+      <atold:op-code>c_b7061c2d</atold:op-code>
+      <dc:identifier>c_b7061c2d</dc:identifier>
+      <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority/c_09dc7907"/>
+      <skos:definition xml:lang="en">A connected digital single market is one of the Commission priorities 2014–2019 bringing down barriers to unlock online opportunities.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/strategic-priority/c_c373ca5b"
+                 at:deprecated="true">
+      <skos:prefLabel xml:lang="fr">Une Europe plus forte sur la scène internationale</skos:prefLabel>
+      <skos:prefLabel xml:lang="bg">По-силен участник на световната сцена</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Silnější pozice na mezinárodní scéně</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">En stærkere global aktør</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Mehr Gewicht auf der internationalen Bühne</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Ένας ισχυρότερος παγκόσμιος παράγοντας</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">A stronger global actor</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Un interlocutor de mayor peso en el escenario mundial</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Tugevam tegija rahvusvahelisel tasandil</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Vahvempi maailmanlaajuinen toimija</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Jači globalni čimbenik</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Erőteljesebb globális szerepvállalás</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Un ruolo più incisivo a livello mondiale</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Svarbesnis vaidmuo pasaulio arenoje</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Spēcīgāks pasaules mēroga dalībnieks</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Attur globali aktar b’saħħtu</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Een krachtiger optreden op het wereldtoneel</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Silniejsza pozycja na arenie międzynarodowej</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Um interveniente mais forte na cena mundial</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Un actor mai puternic pe plan mondial</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Silnejšia pozícia na medzinárodnej scéne</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Močnejši svetovni akter</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">En starkare global aktör</skos:prefLabel>
+      <at:authority-code>c_c373ca5b</at:authority-code>
+      <at:end.use>2019-11-30</at:end.use>
+      <at:op-code>c_c373ca5b</at:op-code>
+      <at:start.use>2014-11-01</at:start.use>
+      <atold:op-code>c_c373ca5b</atold:op-code>
+      <dc:identifier>c_c373ca5b</dc:identifier>
+      <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority/c_09dc7907"/>
+      <skos:definition xml:lang="en">Europe as a stronger global actor is one of the Commission priorities 2014–2019 aiming at boosting the EU's global presence and achieving the goals of its external action as defined by the Treaty on European Union.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/strategic-priority/c_ce8346b5"
+                 at:deprecated="true">
+      <skos:prefLabel xml:lang="bg">Към създаването на нова политика за миграцията</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Na cestě k nové migrační politice</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Mod en ny migrationspolitik</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Hin zu einer neuen Migrationspolitik</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Προς μια νέα μεταναστευτική πολιτική</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Towards a new policy on migration</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Una nueva política migratoria</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Uue rändepoliitika suunas</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Kohti uudenlaista maahanmuutto­politiikkaa</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Vers une nouvelle politique migratoire</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Put prema novoj migracijskoj politici</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Elmozdulás egy új migrációs politika felé</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Verso una nuova politica della migrazione</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Nauja migracijos politika</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Ceļā uz jaunu migrācijas politiku</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Lejn politika ġdida dwar il-migrazzjoni</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Naar een nieuw migratiebeleid</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">W kierunku nowej polityki w dziedzinie migracji</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Rumo a uma nova política em matéria de migração</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Către o nouă politică în domeniul migrației</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Smerom k novej politike v oblasti migrácie</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">V smeri nove migracijske politike</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Mot en ny migrationspolitik</skos:prefLabel>
+      <at:authority-code>c_ce8346b5</at:authority-code>
+      <at:end.use>2019-11-30</at:end.use>
+      <at:op-code>c_ce8346b5</at:op-code>
+      <at:start.use>2014-11-01</at:start.use>
+      <atold:op-code>c_ce8346b5</atold:op-code>
+      <dc:identifier>c_ce8346b5</dc:identifier>
+      <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority/c_09dc7907"/>
+      <skos:definition xml:lang="en">Towards a new policy on migration is one of the Commission priorities 2014–2019 laying the foundation towards an effective, fair and robust European agenda on migration.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/strategic-priority/c_e9d1425b"
+                 at:deprecated="true">
+      <skos:prefLabel xml:lang="bg">Разумно и балансирано споразумение за свободна търговия със Съединените щати</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Přiměřená a vyvážená dohoda o volném obchodu se Spojenými státy</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">En rimelig og afbalanceret frihandelsaftale med USA</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Ein vernünftiges und ausgewogenes Freihandelsabkommen mit den Vereinigten Staaten</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Eύλογη και ισορροπημένη συμφωνία ελεύθερων συναλλαγών με τις ΗΠΑ</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">A reasonable and balanced free trade agreement with the United States</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Un acuerdo de libre comercio razonable y equilibrado con los Estados Unidos</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Mõistlik ja tasakaalustatud vabakaubandusleping Ameerika Ühendriikidega</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Kohtuullinen ja tasapainoinen vapaakauppasopimus Yhdysvaltojen kanssa</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Un accord de libre-échange raisonnable et équilibré avec les États-Unis</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Razuman i uravnotežen sporazum o slobodnoj trgovini sa Sjedinjenim Američkim Državama</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Észszerű és kiegyensúlyozott szabadkereskedelmi megállapodás az Egyesült Államokkal</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Un accordo realistico ed equilibrato di libero scambio con gli Stati Uniti</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Apgalvotas ir subalansuotas laisvosios prekybos susitarimas su Jungtinėmis Valstijomis</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Samērīgs un līdzsvarots brīvās tirdzniecības nolīgums ar Amerikas Savienotajām Valstīm</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Ftehim ta’ kummerċ ħieles raġonevoli u bbilanċjat mal-Istati Uniti</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Een redelijke en evenwichtige vrijhandelsovereenkomst met de Verenigde Staten</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Rozsądna i wyważona umowa o wolnym handlu ze Stanami Zjednoczonymi</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Um acordo de comércio livre razoável e equilibrado com os Estados Unidos</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Un acord de liber schimb rezonabil și echilibrat cu SUA</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Primeraná a vyvážená dohoda o voľnom obchode s USA</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Razumen in uravnotežen prostotrgovinski sporazum z ZDA</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Ett rimligt och balanserat frihandelsavtal med USA</skos:prefLabel>
+      <at:authority-code>c_e9d1425b</at:authority-code>
+      <at:end.use>2019-11-30</at:end.use>
+      <at:op-code>c_e9d1425b</at:op-code>
+      <at:start.use>2014-11-01</at:start.use>
+      <atold:op-code>c_e9d1425b</atold:op-code>
+      <dc:identifier>c_e9d1425b</dc:identifier>
+      <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority/c_09dc7907"/>
+      <skos:definition xml:lang="en">A reasonable and balanced free trade agreement with the United States is one of the Commission priorities 2014–2019.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/strategic-priority/c_f6db89aa"
+                 at:deprecated="true">
+      <skos:prefLabel xml:lang="bg">Устойчив енергиен съюз с ориентирана към бъдещето политика по въпросите на изменението на климата</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Silná energetická unie s progresivní politikou v oblasti klimatu</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">En modstandsdygtig energiunion med en fremadskuende politik for klimaforandringer</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Eine robuste Energieunion mit einer zukunftsorientierten Klimaschutzpolitik</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Μια ανθεκτική ενεργειακή ένωση με μακρόπνοη πολιτική όσον αφορά την κλιματική αλλαγή</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">A resilient energy union with a forward-looking climate change policy</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Una unión de la energía resiliente, con una política en materia de cambio climático que mire hacia el futuro</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Vastupidav energialiit ja tulevikku suunatud kliimamuutuste poliitika</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Joustava energiaunioni ja tulevaisuuteen suuntautuva ilmastonmuutospolitiikka</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Une union de l’énergie résiliente, dotée d’une politique clairvoyante en matière de changement climatique</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Čvrsta energetska unija s klimatskom politikom usmjerenom na budućnost</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Stabil és alkalmazkodóképes energiaunió és jövőbe mutató éghajlat-politika</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Un’unione dell’energia resiliente con politiche lungimiranti in materia di cambiamenti climatici</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Atspari energetikos sąjunga ir perspektyvi klimato kaitos politika</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Spēcīga Enerģētikas savienība ar tālredzīgu klimata pārmaiņu politiku</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Unjoni tal-enerġija b’saħħitha u b’politika dwar it-tibdil fil-klima li tħares ’il quddiem</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Een veerkrachtige energie-unie en een toekomstgericht klimaatveranderingsbeleid</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Stabilna unia energetyczna z perspektywiczną polityką w kwestii zmiany klimatu</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Uma União da Energia resiliente, com uma política climática virada para o futuro</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">O uniune energetică rezilientă, cu o politică prospectivă în domeniul schimbărilor climatice</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Odolná energetická únia uplatňujúca výhľadovú politiku v oblasti zmeny klímy</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Trdna energetska unija s podnebno politiko, usmerjeno v prihodnost</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">En motståndskraftig energiunion och en framåtblickande klimatpolitik</skos:prefLabel>
+      <at:authority-code>c_f6db89aa</at:authority-code>
+      <at:end.use>2019-11-30</at:end.use>
+      <at:op-code>c_f6db89aa</at:op-code>
+      <at:start.use>2014-11-01</at:start.use>
+      <atold:op-code>c_f6db89aa</atold:op-code>
+      <dc:identifier>c_f6db89aa</dc:identifier>
+      <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority/c_09dc7907"/>
+      <skos:definition xml:lang="en">A resilient energy union with a forward-looking climate change policy is one of the Commission priorities 2014–2019 making energy more secure, affordable and sustainable.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/strategic-priority/c_f8bf3d64"
+                 at:deprecated="true">
+      <skos:prefLabel xml:lang="bg">По-задълбочен и по-справедлив икономически и паричен съюз</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Hlubší a spravedlivější hospodářská a měnová unie</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">En dybere og mere retfærdig økonomisk og monetær union</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Eine vertiefte und fairere Wirtschafts- und Währungsunion</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Βαθύτερη και δικαιότερη οικονομική και νομισματική ένωση</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">A deeper and fairer economic and monetary union</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Una unión económica y monetaria más profunda y justa</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Tihedam ja õiglasem majandus- ja rahaliit</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Syvempi ja oikeudenmukaisempi talous- ja rahaliitto</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Une Union économique et monétaire plus approfondie et plus équitable</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Bolje povezana i pravednija ekonomska i monetarna unija</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Mélyebb és méltányosabb gazdasági és monetáris unió</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Un’unione economica e monetaria più profonda e più equa</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Stipresnė ir teisingesnė ekonominė ir pinigų sąjunga</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Ciešāka un taisnīgāka ekonomiskā un monetārā savienība</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Unjoni ekonomika u monetarja aktar fil-fond u aktar ġusta</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Een diepere en billijkere economische en monetaire unie</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Pogłębiona i bardziej sprawiedliwa unia gospodarcza i walutowa</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Uma União Económica e Monetária mais aprofundada e mais equitativa</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">O uniune economică și monetară mai profundă și mai echitabilă</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Prepracovanejšia a spravodlivejšia hospodárska a menová únia</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Bolj poglobljena in pravičnejša ekonomska in monetarna unija</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">En djupare och mer rättvis ekonomisk och monetär union</skos:prefLabel>
+      <at:authority-code>c_f8bf3d64</at:authority-code>
+      <at:end.use>2019-11-30</at:end.use>
+      <at:op-code>c_f8bf3d64</at:op-code>
+      <at:start.use>2014-11-01</at:start.use>
+      <atold:op-code>c_f8bf3d64</atold:op-code>
+      <dc:identifier>c_f8bf3d64</dc:identifier>
+      <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority/c_09dc7907"/>
+      <skos:definition xml:lang="en">A deeper and fairer economic and monetary union (EMU) is one of the Commission priorities 2014–2019 aiming to build a stronger and more efficient European economy, prepare for the global challenges that lie ahead and provide conditions for Member States to prosper. </skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/strategic-priority"/>
+   </skos:Concept>
+</rdf:RDF>

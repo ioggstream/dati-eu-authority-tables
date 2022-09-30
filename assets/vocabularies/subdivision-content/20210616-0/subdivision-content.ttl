@@ -1,0 +1,297 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/subdivision-content/ART_AMEND> a skos:Concept ;
+    at:authority-code "ART_AMEND" ;
+    at:deprecated "false" ;
+    at:op-code "ART_AMEND" ;
+    at:start.use "1972-12-01" ;
+    atold:op-code "ART_AMEND" ;
+    dc:identifier "ART_AMEND" ;
+    skos:definition "The concept “article with amending provisions” refers to an article which contains provisions amending earlier acts."@en ;
+    skos:inScheme atold:subdivision-content ;
+    skos:prefLabel "Член с разпоредби за изменение"@bg,
+        "Článek s pozměňujícími ustanoveními"@cs,
+        "Artikel med ændringsbestemmelser"@da,
+        "Artikel mit Änderungsbestimmungen"@de,
+        "Άρθρο με τροποποιητικές διατάξεις"@el,
+        "Article with amending provisions"@en,
+        "Artículo de disposiciones modificativas"@es,
+        "Muudatussätteid sisaldav artikkel"@et,
+        "Muutossäännökset sisältävä artikla"@fi,
+        "Article contenant des dispositions modificatives"@fr,
+        "Airteagal a bhfuil forálacha leasuithe ag gabháil leis"@ga,
+        "Članak s izmjenama odredaba"@hr,
+        "Módosító rendelkezéseket tartalmazó cikk"@hu,
+        "Articolo con disposizioni modificative"@it,
+        "Straipsnis su keitimo nuostatomis"@lt,
+        "Pants, kas satur grozošos noteikumus"@lv,
+        "Artikolu b’dispożizzjonijiet emendatorji"@mt,
+        "Artikel met wijzigingsbepalingen"@nl,
+        "Artykuł z przepisami zmieniającymi"@pl,
+        "Artigo com disposições modificativas"@pt,
+        "Articol cu dispoziții de modificare"@ro,
+        "Článok s pozmeňujúcimi ustanoveniami"@sk,
+        "Člen z določbami o spremembah"@sl,
+        "Artikel med ändringsbestämmelser"@sv ;
+    skos:topConceptOf atold:subdivision-content .
+
+<http://publications.europa.eu/resource/authority/subdivision-content/ART_DEF> a skos:Concept ;
+    at:authority-code "ART_DEF" ;
+    at:deprecated "false" ;
+    at:op-code "ART_DEF" ;
+    at:start.use "1989-05-01" ;
+    atold:op-code "ART_DEF" ;
+    dc:identifier "ART_DEF" ;
+    skos:definition "The concept “article on definitions” refers to an article which contains definitions of terms used in an act."@en ;
+    skos:inScheme atold:subdivision-content ;
+    skos:prefLabel "Член с определения"@bg,
+        "Článek s definicemi"@cs,
+        "Artikel med definitioner"@da,
+        "Artikel mit Begriffsbestimmungen"@de,
+        "Άρθρο για τους ορισμούς"@el,
+        "Article on definitions"@en,
+        "Artículo de definiciones"@es,
+        "Artikkel mõistete kohta"@et,
+        "Määritelmät sisältävä artikla"@fi,
+        "Article relatif aux définitions"@fr,
+        "Airteagal maidir le sainmhínithe"@ga,
+        "Članak o definicijama"@hr,
+        "Fogalommeghatározásokat tartalmazó cikk"@hu,
+        "Articolo di definizioni"@it,
+        "Apibrėžčių straipsnis"@lt,
+        "Pants, kas satur definīcijas"@lv,
+        "Artikolu dwar id-definizzjonijiet"@mt,
+        "Artikel met definities"@nl,
+        "Artykuł z definicjami"@pl,
+        "Artigo de definições"@pt,
+        "Articol cu definiții"@ro,
+        "Článok s vymedzením pojmov"@sk,
+        "Člen o opredelitvah"@sl,
+        "Artikel med definitioner"@sv ;
+    skos:topConceptOf atold:subdivision-content .
+
+<http://publications.europa.eu/resource/authority/subdivision-content/BACKGROUND> a skos:Concept ;
+    at:authority-code "BACKGROUND" ;
+    at:deprecated "false" ;
+    at:op-code "BACKGROUND" ;
+    at:start.use "2008-09-18" ;
+    atold:op-code "BACKGROUND" ;
+    dc:identifier "BACKGROUND" ;
+    skos:definition "The concept “Background” refers to a text division (point or section) in preparatory documents issued during the ordinary legislative procedure. It provides information on the procedure in question. In the Commission preparatory documents, it indicates the dates of the main events in the procedure, as well as the procedure number and the COM number of the proposal."@en ;
+    skos:inScheme atold:subdivision-content ;
+    skos:prefLabel "Контекст"@bg,
+        "Souvislosti"@cs,
+        "Baggrund"@da,
+        "Hintergrund"@de,
+        "Ιστορικό"@el,
+        "Background"@en,
+        "Referencias"@es,
+        "Taustteave"@et,
+        "Tausta"@fi,
+        "Contexte"@fr,
+        "Cúlra"@ga,
+        "Kontekst"@hr,
+        "Háttér"@hu,
+        "Contesto"@it,
+        "Pagrindiniai faktai"@lt,
+        "Konteksts"@lv,
+        "Sfond"@mt,
+        "Achtergrond"@nl,
+        "Przebieg procedury"@pl,
+        "Historial"@pt,
+        "Context"@ro,
+        "Súvislosti"@sk,
+        "Ozadje"@sl,
+        "Bakgrund"@sv ;
+    skos:topConceptOf atold:subdivision-content .
+
+<http://publications.europa.eu/resource/authority/subdivision-content/BLOCK_SFR> a skos:Concept ;
+    at:authority-code "BLOCK_SFR" ;
+    at:deprecated "false" ;
+    at:op-code "BLOCK_SFR" ;
+    at:start.use "1966-11-26" ;
+    atold:op-code "BLOCK_SFR" ;
+    dc:identifier "BLOCK_SFR" ;
+    skos:definition "Scientific formula block is a scientific formula preceded by a sentence introducing it."@en ;
+    skos:inScheme atold:subdivision-content ;
+    skos:prefLabel "Текстов блок с научна формула"@bg,
+        "Blok s vědeckým vzorcem"@cs,
+        "Tekstblok med videnskabelig formel"@da,
+        "Formelblock"@de,
+        "Ενότητα επιστημονικού τύπου"@el,
+        "Scientific formula block"@en,
+        "Fórmula científica (bloque)"@es,
+        "Teaduslik valem (plokk)"@et,
+        "Tieteellisen kaavan sisältävä lohko"@fi,
+        "Bloc de formule scientifique"@fr,
+        "Bloc na foirmle eolaíche"@ga,
+        "Blok znanstvene formule"@hr,
+        "Tudományosképlet-blokk"@hu,
+        "Blocco di formula scientifica"@it,
+        "Mokslinės formulės blokas"@lt,
+        "Zinātniskas formulas bloks"@lv,
+        "Block tal-formula xjentifika"@mt,
+        "Formuleblok"@nl,
+        "Blok wzoru naukowego"@pl,
+        "Bloco de fórmula científica"@pt,
+        "Bloc de formulă științifică"@ro,
+        "Blok s vedeckým vzorcom"@sk,
+        "Sklop znanstvenih formul"@sl,
+        "Textblock med vetenskaplig formel"@sv ;
+    skos:topConceptOf atold:subdivision-content .
+
+<http://publications.europa.eu/resource/authority/subdivision-content/BLOCK_TAB> a skos:Concept ;
+    at:authority-code "BLOCK_TAB" ;
+    at:deprecated "false" ;
+    at:op-code "BLOCK_TAB" ;
+    at:start.use "1968-09-28" ;
+    atold:op-code "BLOCK_TAB" ;
+    dc:identifier "BLOCK_TAB" ;
+    skos:definition "Table block is a table together with its linked elements, like heading, legend etc."@en ;
+    skos:inScheme atold:subdivision-content ;
+    skos:prefLabel "Текстов блок с таблица"@bg,
+        "Blok s tabulkou"@cs,
+        "Tekstblok med tabel"@da,
+        "Tabellenblock"@de,
+        "Ενότητα πίνακα"@el,
+        "Table block"@en,
+        "Cuadro (bloque)"@es,
+        "Tabel (plokk)"@et,
+        "Taulukkolohko"@fi,
+        "Bloc de tableau"@fr,
+        "Blocthábla"@ga,
+        "Blok tablice"@hr,
+        "Táblázatblokk"@hu,
+        "Blocco di tabella"@it,
+        "Lentelės blokas"@lt,
+        "Tabulas bloks"@lv,
+        "Block tat-tabella"@mt,
+        "Tabelblok"@nl,
+        "Blok tabeli"@pl,
+        "Bloco de quadro"@pt,
+        "Bloc de tabel"@ro,
+        "Blok s tabuľkou"@sk,
+        "Sklop tabel"@sl,
+        "Textblock med tabell"@sv ;
+    skos:topConceptOf atold:subdivision-content .
+
+<http://publications.europa.eu/resource/authority/subdivision-content/CITATION_DASH> a skos:Concept ;
+    at:authority-code "CITATION_DASH" ;
+    at:deprecated "false" ;
+    at:op-code "CITATION_DASH" ;
+    at:start.use "1994-07-19" ;
+    atold:op-code "CITATION_DASH" ;
+    dc:identifier "CITATION_DASH" ;
+    skos:definition "This element marks citations in the preamble of a legislative resolution by the European Parliament starting with a dash."@en ;
+    skos:example """Example document: COV DLV20 1.31 - P9_TA(2020)0184. 
+The European Parliament,
+– having regard to the Council position at first reading (05112/1/2020 – C9-0106/2020)"""@en ;
+    skos:inScheme atold:subdivision-content ;
+    skos:prefLabel "Цитиране с тире"@bg,
+        "Citace s pomlčkou"@cs,
+        "Henvisning med tankestreg"@da,
+        "Zitat mit Gedankenstrich"@de,
+        "Αιτιολογική αναφορά με παύλα"@el,
+        "Citation with dash"@en,
+        "Cita con guion"@es,
+        "Tsitaat taandega"@et,
+        "Ajatusviivallinen johdanto-osan viite"@fi,
+        "Citation avec tiret"@fr,
+        "Aithris le fleasc"@ga,
+        "Pozivanje s crticom"@hr,
+        "Gondolatjeles bevezető hivatkozás"@hu,
+        "Citazione con trattino"@it,
+        "Brūkšniu prasidedanti citata"@lt,
+        "Citāts ar domuzīmi"@lv,
+        "Ċitazzjoni bid-dash"@mt,
+        "Citaat met streepje"@nl,
+        "Umocowanie rozpoczynające się myślnikiem"@pl,
+        "Citação com travessão"@pt,
+        "Citare cu liniuță"@ro,
+        "Citácia so zarážkou"@sk,
+        "Navedba s pomišljajem"@sl,
+        "Beaktandeled med tankstreck"@sv ;
+    skos:topConceptOf atold:subdivision-content .
+
+<http://publications.europa.eu/resource/authority/subdivision-content/FTN_CONTENT> a skos:Concept ;
+    at:authority-code "FTN_CONTENT" ;
+    at:deprecated "false" ;
+    at:op-code "FTN_CONTENT" ;
+    at:start.use "2021-06-01" ;
+    atold:op-code "FTN_CONTENT" ;
+    dc:identifier "FTN_CONTENT" ;
+    skos:definition "The concept ‘content of footnotes’ is used to identify in AKN4EU the component which groups the content of all the footnotes in a document."@en ;
+    skos:inScheme atold:subdivision-content ;
+    skos:prefLabel "Съдържание на бележките под линия"@bg,
+        "Obsah poznámek pod čarou"@cs,
+        "Fodnoternes indhold"@da,
+        "Fußnoteninhalt"@de,
+        "Περιεχόμενο των υποσημειώσεων"@el,
+        "Content of footnotes"@en,
+        "Contenido de las notas a pie de página"@es,
+        "Allmärkuste sisu"@et,
+        "Alaviitteiden sisältö"@fi,
+        "Contenu des notes de bas de page"@fr,
+        "Inneachar na bhfonótaí"@ga,
+        "Sadržaj bilježaka"@hr,
+        "Lábjegyzetek tartalma"@hu,
+        "Contenuto delle note a piè di pagina"@it,
+        "Išnašų turinys"@lt,
+        "Zemsvītras piezīmju saturs"@lv,
+        "Kontenut tan-noti f’qiegħ il-paġna"@mt,
+        "Inhoud van voetnoten"@nl,
+        "Treść przypisów"@pl,
+        "Conteúdo das notas de rodapé"@pt,
+        "Conținutul notelor de subsol"@ro,
+        "Obsah poznámok pod čiarou"@sk,
+        "Vsebina opomb"@sl,
+        "Fotnotsinnehåll"@sv ;
+    skos:topConceptOf atold:subdivision-content .
+
+<http://publications.europa.eu/resource/authority/subdivision-content/OP_DATPRO> a skos:Concept ;
+    at:authority-code "OP_DATPRO" ;
+    at:deprecated "false" ;
+    at:op-code "OP_DATPRO" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:subdivision-content ;
+    skos:prefLabel "НЕОКОНЧАТЕЛНИ ДАННИ"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv ;
+    skos:topConceptOf atold:subdivision-content .
+
+atold:subdivision-content a skos:ConceptScheme ;
+    rdfs:label "Subdivision content"@en ;
+    at:prefLabel "Subdivision content"@en ;
+    at:table.id "subdivision-content" ;
+    at:table.version.number "20210616-0" ;
+    owl:versionInfo "20210616-0" ;
+    skos:prefLabel "Subdivision content"@en .
+

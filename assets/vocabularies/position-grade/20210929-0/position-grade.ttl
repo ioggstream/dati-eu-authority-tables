@@ -1,0 +1,697 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/position-grade/AD> a skos:Concept ;
+    at:authority-code "AD" ;
+    at:deprecated "false" ;
+    at:op-code "AD" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "AD" ;
+    dc:identifier "AD" ;
+    skos:altLabel "Administrator"@en ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "AD"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/AD10> a skos:Concept ;
+    at:authority-code "AD10" ;
+    at:deprecated "false" ;
+    at:op-code "AD10" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "AD10" ;
+    dc:identifier "AD10" ;
+    skos:altLabel "Administrator 10"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG035> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "AD 10"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/AD11> a skos:Concept ;
+    at:authority-code "AD11" ;
+    at:deprecated "false" ;
+    at:op-code "AD11" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "AD11" ;
+    dc:identifier "AD11" ;
+    skos:altLabel "Administrator 11"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG035> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "AD 11"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/AD12> a skos:Concept ;
+    at:authority-code "AD12" ;
+    at:deprecated "false" ;
+    at:op-code "AD12" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "AD12" ;
+    dc:identifier "AD12" ;
+    skos:altLabel "Administrator 12"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG035> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "AD 12"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/AD13> a skos:Concept ;
+    at:authority-code "AD13" ;
+    at:deprecated "false" ;
+    at:op-code "AD13" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "AD13" ;
+    dc:identifier "AD13" ;
+    skos:altLabel "Administrator 13"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG035> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "AD 13"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/AD14> a skos:Concept ;
+    at:authority-code "AD14" ;
+    at:deprecated "false" ;
+    at:op-code "AD14" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "AD14" ;
+    dc:identifier "AD14" ;
+    skos:altLabel "Administrator 14"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG035> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "AD 14"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/AD15> a skos:Concept ;
+    at:authority-code "AD15" ;
+    at:deprecated "false" ;
+    at:op-code "AD15" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "AD15" ;
+    dc:identifier "AD15" ;
+    skos:altLabel "Administrator 15"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG035> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "AD 15"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/AD16> a skos:Concept ;
+    at:authority-code "AD16" ;
+    at:deprecated "false" ;
+    at:op-code "AD16" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "AD16" ;
+    dc:identifier "AD16" ;
+    skos:altLabel "Administrator 16"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG035> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "AD 16"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/AD5> a skos:Concept ;
+    at:authority-code "AD5" ;
+    at:deprecated "false" ;
+    at:op-code "AD5" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "AD5" ;
+    dc:identifier "AD5" ;
+    skos:altLabel "Administrator 5"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG035> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "AD 5"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/AD6> a skos:Concept ;
+    at:authority-code "AD6" ;
+    at:deprecated "false" ;
+    at:op-code "AD6" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "AD6" ;
+    dc:identifier "AD6" ;
+    skos:altLabel "Administrator 6"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG035> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "AD 6"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/AD7> a skos:Concept ;
+    at:authority-code "AD7" ;
+    at:deprecated "false" ;
+    at:op-code "AD7" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "AD7" ;
+    dc:identifier "AD7" ;
+    skos:altLabel "Administrator 7"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG035> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "AD 7"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/AD8> a skos:Concept ;
+    at:authority-code "AD8" ;
+    at:deprecated "false" ;
+    at:op-code "AD8" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "AD8" ;
+    dc:identifier "AD8" ;
+    skos:altLabel "Administrator 8"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG035> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "AD 8"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/AD9> a skos:Concept ;
+    at:authority-code "AD9" ;
+    at:deprecated "false" ;
+    at:op-code "AD9" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "AD9" ;
+    dc:identifier "AD9" ;
+    skos:altLabel "Administrator 9"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG035> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "AD 9"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/AST> a skos:Concept ;
+    at:authority-code "AST" ;
+    at:deprecated "false" ;
+    at:op-code "AST" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "AST" ;
+    dc:identifier "AST" ;
+    skos:altLabel "Assistant"@en ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "AST"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/AST1> a skos:Concept ;
+    at:authority-code "AST1" ;
+    at:deprecated "false" ;
+    at:op-code "AST1" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "AST1" ;
+    dc:identifier "AST1" ;
+    skos:altLabel "Assistant 1"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG036> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "AST 1"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/AST10> a skos:Concept ;
+    at:authority-code "AST10" ;
+    at:deprecated "false" ;
+    at:op-code "AST10" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "AST10" ;
+    dc:identifier "AST10" ;
+    skos:altLabel "Assistant 10"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG036> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "AST 10"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/AST11> a skos:Concept ;
+    at:authority-code "AST11" ;
+    at:deprecated "false" ;
+    at:op-code "AST11" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "AST11" ;
+    dc:identifier "AST11" ;
+    skos:altLabel "Assistant 11"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG036> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "AST 11"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/AST2> a skos:Concept ;
+    at:authority-code "AST2" ;
+    at:deprecated "false" ;
+    at:op-code "AST2" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "AST2" ;
+    dc:identifier "AST2" ;
+    skos:altLabel "Assistant 2"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG036> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "AST 2"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/AST3> a skos:Concept ;
+    at:authority-code "AST3" ;
+    at:deprecated "false" ;
+    at:op-code "AST3" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "AST3" ;
+    dc:identifier "AST3" ;
+    skos:altLabel "Assistant 3"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG036> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "AST 3"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/AST4> a skos:Concept ;
+    at:authority-code "AST4" ;
+    at:deprecated "false" ;
+    at:op-code "AST4" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "AST4" ;
+    dc:identifier "AST4" ;
+    skos:altLabel "Assistant 4"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG036> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "AST 4"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/AST5> a skos:Concept ;
+    at:authority-code "AST5" ;
+    at:deprecated "false" ;
+    at:op-code "AST5" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "AST5" ;
+    dc:identifier "AST5" ;
+    skos:altLabel "Assistant 5"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG036> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "AST 5"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/AST6> a skos:Concept ;
+    at:authority-code "AST6" ;
+    at:deprecated "false" ;
+    at:op-code "AST6" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "AST6" ;
+    dc:identifier "AST6" ;
+    skos:altLabel "Assistant 6"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG036> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "AST 6"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/AST7> a skos:Concept ;
+    at:authority-code "AST7" ;
+    at:deprecated "false" ;
+    at:op-code "AST7" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "AST7" ;
+    dc:identifier "AST7" ;
+    skos:altLabel "Assistant 7"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG036> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "AST 7"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/AST8> a skos:Concept ;
+    at:authority-code "AST8" ;
+    at:deprecated "false" ;
+    at:op-code "AST8" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "AST8" ;
+    dc:identifier "AST8" ;
+    skos:altLabel "Assistant 8"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG036> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "AST 8"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/AST9> a skos:Concept ;
+    at:authority-code "AST9" ;
+    at:deprecated "false" ;
+    at:op-code "AST9" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "AST9" ;
+    dc:identifier "AST9" ;
+    skos:altLabel "Assistant 9"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG036> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "AST 9"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/CONTR1> a skos:Concept ;
+    at:authority-code "CONTR1" ;
+    at:deprecated "false" ;
+    at:op-code "CONTR1" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "CONTR1" ;
+    dc:identifier "CONTR1" ;
+    skos:altLabel "Contractual agent I"@en ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "Contractual I"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/CONTR1_1> a skos:Concept ;
+    at:authority-code "CONTR1_1" ;
+    at:deprecated "false" ;
+    at:op-code "CONTR1_1" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "CONTR1_1" ;
+    dc:identifier "CONTR1_1" ;
+    skos:altLabel "Contractual agent I/1"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG030> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "Contractual I-1"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/CONTR1_2> a skos:Concept ;
+    at:authority-code "CONTR1_2" ;
+    at:deprecated "false" ;
+    at:op-code "CONTR1_2" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "CONTR1_2" ;
+    dc:identifier "CONTR1_2" ;
+    skos:altLabel "Contractual agent I/2"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG030> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "Contractual I-2"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/CONTR1_3> a skos:Concept ;
+    at:authority-code "CONTR1_3" ;
+    at:deprecated "false" ;
+    at:op-code "CONTR1_3" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "CONTR1_3" ;
+    dc:identifier "CONTR1_3" ;
+    skos:altLabel "Contractual agent I/3"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG030> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "Contractual I-3"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/CONTR2> a skos:Concept ;
+    at:authority-code "CONTR2" ;
+    at:deprecated "false" ;
+    at:op-code "CONTR2" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "CONTR2" ;
+    dc:identifier "CONTR2" ;
+    skos:altLabel "Contractual agent II"@en ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "Contractual II"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/CONTR2_4> a skos:Concept ;
+    at:authority-code "CONTR2_4" ;
+    at:deprecated "false" ;
+    at:op-code "CONTR2_4" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "CONTR2_4" ;
+    dc:identifier "CONTR2_4" ;
+    skos:altLabel "Contractual agent II/4"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG031> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "Contractual II-4"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/CONTR2_5> a skos:Concept ;
+    at:authority-code "CONTR2_5" ;
+    at:deprecated "false" ;
+    at:op-code "CONTR2_5" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "CONTR2_5" ;
+    dc:identifier "CONTR2_5" ;
+    skos:altLabel "Contractual agent II/5"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG031> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "Contractual II-5"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/CONTR2_6> a skos:Concept ;
+    at:authority-code "CONTR2_6" ;
+    at:deprecated "false" ;
+    at:op-code "CONTR2_6" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "CONTR2_6" ;
+    dc:identifier "CONTR2_6" ;
+    skos:altLabel "Contractual agent II/6"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG031> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "Contractual II-6"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/CONTR2_7> a skos:Concept ;
+    at:authority-code "CONTR2_7" ;
+    at:deprecated "false" ;
+    at:op-code "CONTR2_7" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "CONTR2_7" ;
+    dc:identifier "CONTR2_7" ;
+    skos:altLabel "Contractual agent II/7"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG031> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "Contractual II-7"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/CONTR3> a skos:Concept ;
+    at:authority-code "CONTR3" ;
+    at:deprecated "false" ;
+    at:op-code "CONTR3" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "CONTR3" ;
+    dc:identifier "CONTR3" ;
+    skos:altLabel "Contractual agent III"@en ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "Contractual III"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/CONTR3_10> a skos:Concept ;
+    at:authority-code "CONTR3_10" ;
+    at:deprecated "false" ;
+    at:op-code "CONTR3_10" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "CONTR3_10" ;
+    dc:identifier "CONTR3_10" ;
+    skos:altLabel "Contractual agent III/10"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG032> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "Contractual III-10"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/CONTR3_11> a skos:Concept ;
+    at:authority-code "CONTR3_11" ;
+    at:deprecated "false" ;
+    at:op-code "CONTR3_11" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "CONTR3_11" ;
+    dc:identifier "CONTR3_11" ;
+    skos:altLabel "Contractual agent III/11"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG032> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "Contractual III-11"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/CONTR3_12> a skos:Concept ;
+    at:authority-code "CONTR3_12" ;
+    at:deprecated "false" ;
+    at:op-code "CONTR3_12" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "CONTR3_12" ;
+    dc:identifier "CONTR3_12" ;
+    skos:altLabel "Contractual agent III/12"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG032> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "Contractual III-12"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/CONTR3_8> a skos:Concept ;
+    at:authority-code "CONTR3_8" ;
+    at:deprecated "false" ;
+    at:op-code "CONTR3_8" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "CONTR3_8" ;
+    dc:identifier "CONTR3_8" ;
+    skos:altLabel "Contractual agent III/8"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG032> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "Contractual III-8"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/CONTR3_9> a skos:Concept ;
+    at:authority-code "CONTR3_9" ;
+    at:deprecated "false" ;
+    at:op-code "CONTR3_9" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "CONTR3_9" ;
+    dc:identifier "CONTR3_9" ;
+    skos:altLabel "Contractual agent III/9"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG032> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "Contractual III-9"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/CONTR4> a skos:Concept ;
+    at:authority-code "CONTR4" ;
+    at:deprecated "false" ;
+    at:op-code "CONTR4" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "CONTR4" ;
+    dc:identifier "CONTR4" ;
+    skos:altLabel "Contractual agent IV"@en ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "Contractual IV"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/CONTR4_13> a skos:Concept ;
+    at:authority-code "CONTR4_13" ;
+    at:deprecated "false" ;
+    at:op-code "CONTR4_13" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "CONTR4_13" ;
+    dc:identifier "CONTR4_13" ;
+    skos:altLabel "Contractual agent IV/13"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG033> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "Contractual IV-13"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/CONTR4_14> a skos:Concept ;
+    at:authority-code "CONTR4_14" ;
+    at:deprecated "false" ;
+    at:op-code "CONTR4_14" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "CONTR4_14" ;
+    dc:identifier "CONTR4_14" ;
+    skos:altLabel "Contractual agent IV/14"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG033> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "Contractual IV-14"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/CONTR4_15> a skos:Concept ;
+    at:authority-code "CONTR4_15" ;
+    at:deprecated "false" ;
+    at:op-code "CONTR4_15" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "CONTR4_15" ;
+    dc:identifier "CONTR4_15" ;
+    skos:altLabel "Contractual agent IV/15"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG033> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "Contractual IV-15"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/CONTR4_16> a skos:Concept ;
+    at:authority-code "CONTR4_16" ;
+    at:deprecated "false" ;
+    at:op-code "CONTR4_16" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "CONTR4_16" ;
+    dc:identifier "CONTR4_16" ;
+    skos:altLabel "Contractual agent IV/16"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG033> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "Contractual IV-16"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/CONTR4_17> a skos:Concept ;
+    at:authority-code "CONTR4_17" ;
+    at:deprecated "false" ;
+    at:op-code "CONTR4_17" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "CONTR4_17" ;
+    dc:identifier "CONTR4_17" ;
+    skos:altLabel "Contractual agent IV/17"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG033> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "Contractual IV-17"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/CONTR4_18> a skos:Concept ;
+    at:authority-code "CONTR4_18" ;
+    at:deprecated "false" ;
+    at:op-code "CONTR4_18" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "CONTR4_18" ;
+    dc:identifier "CONTR4_18" ;
+    skos:altLabel "Contractual agent IV/18"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG033> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "Contractual IV-18"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/NAT_EXP> a skos:Concept ;
+    at:authority-code "NAT_EXP" ;
+    at:deprecated "true" ;
+    at:end.use "1958-01-01" ;
+    at:op-code "NAT_EXP" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "NAT_EXP" ;
+    dc:identifier "NAT_EXP" ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "Seconded national expert"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/OP_DATPRO> a skos:Concept ;
+    at:op-code "OP_DATPRO" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "НЕОКОНЧАТЕЛНИ ДАННИ"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv .
+
+<http://publications.europa.eu/resource/authority/position-grade/SC> a skos:Concept ;
+    at:authority-code "SC" ;
+    at:deprecated "false" ;
+    at:op-code "SC" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "SC" ;
+    dc:identifier "SC" ;
+    skos:altLabel "Assistant secretary"@en ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "AST/SC"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/SC1> a skos:Concept ;
+    at:authority-code "SC1" ;
+    at:deprecated "false" ;
+    at:op-code "SC1" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "SC1" ;
+    dc:identifier "SC1" ;
+    skos:altLabel "Assistant secretary 1"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG037> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "AST/SC 1"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/SC2> a skos:Concept ;
+    at:authority-code "SC2" ;
+    at:deprecated "false" ;
+    at:op-code "SC2" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "SC2" ;
+    dc:identifier "SC2" ;
+    skos:altLabel "Assistant secretary 2"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG037> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "AST/SC 2"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/SC3> a skos:Concept ;
+    at:authority-code "SC3" ;
+    at:deprecated "false" ;
+    at:op-code "SC3" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "SC3" ;
+    dc:identifier "SC3" ;
+    skos:altLabel "Assistant secretary 3"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG037> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "AST/SC 3"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/SC4> a skos:Concept ;
+    at:authority-code "SC4" ;
+    at:deprecated "false" ;
+    at:op-code "SC4" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "SC4" ;
+    dc:identifier "SC4" ;
+    skos:altLabel "Assistant secretary 4"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG037> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "AST/SC 4"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/SC5> a skos:Concept ;
+    at:authority-code "SC5" ;
+    at:deprecated "false" ;
+    at:op-code "SC5" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "SC5" ;
+    dc:identifier "SC5" ;
+    skos:altLabel "Assistant secretary 5"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG037> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "AST/SC 5"@en .
+
+<http://publications.europa.eu/resource/authority/position-grade/SC6> a skos:Concept ;
+    at:authority-code "SC6" ;
+    at:deprecated "false" ;
+    at:op-code "SC6" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "SC6" ;
+    dc:identifier "SC6" ;
+    skos:altLabel "Assistant secretary 6"@en ;
+    skos:broader <http://publications.europa.eu/resource/authority/position-grade/PSTG037> ;
+    skos:inScheme atold:position-grade ;
+    skos:prefLabel "AST/SC 6"@en .
+
+atold:position-grade a skos:ConceptScheme ;
+    rdfs:label "Position grade"@en ;
+    at:prefLabel "Position grade"@en ;
+    at:table.id "position-grade" ;
+    at:table.version.number "20210929-0" ;
+    owl:versionInfo "20210929-0" ;
+    skos:prefLabel "Position grade"@en .
+

@@ -1,0 +1,577 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/organisation-role/OP_DATPRO> a skos:Concept ;
+    at:authority-code "OP_DATPRO" ;
+    at:deprecated "false" ;
+    at:op-code "OP_DATPRO" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:organisation-role ;
+    skos:prefLabel "Неокончателни данни"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv ;
+    skos:topConceptOf atold:organisation-role .
+
+<http://publications.europa.eu/resource/authority/organisation-role/ben-own> a skos:Concept ;
+    at:authority-code "ben-own" ;
+    at:deprecated "false" ;
+    at:op-code "ben-own" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "ben-own" ;
+    dc:identifier "ben-own" ;
+    skos:definition "Any natural person(s) who ultimately owns or controls the customer and/or the natural person(s) on whose behalf a transaction or activity is being conducted […]"@en ;
+    skos:inScheme atold:organisation-role ;
+    skos:prefLabel "Действителен собственик"@bg,
+        "Skutečný majitel"@cs,
+        "Begunstiget ejer"@da,
+        "Wirtschaftlicher Eigentümer"@de,
+        "Πραγματικός δικαιούχος"@el,
+        "Beneficial owner"@en,
+        "Propietario beneficiario"@es,
+        "Tegelik tulusaaja"@et,
+        "Taloudellinen omistaja"@fi,
+        "Bénéficiaire effectif"@fr,
+        "Úinéir tairbhiúil"@ga,
+        "Stvarni vlasnik"@hr,
+        "Kedvezményezett"@hu,
+        "Titolare effettivo"@it,
+        "Tikrasis savininkas"@lt,
+        "Faktiskais īpašnieks"@lv,
+        "Sid benefiċjarju"@mt,
+        "Uiteindelijke begunstigde"@nl,
+        "Faktyczny właściciel"@pl,
+        "Beneficiário efetivo"@pt,
+        "Beneficiar efectiv"@ro,
+        "Oprávnený vlastník"@sk,
+        "Dejanski lastnik"@sl,
+        "Verklig ägare"@sv ;
+    skos:topConceptOf atold:organisation-role .
+
+<http://publications.europa.eu/resource/authority/organisation-role/buyer> a skos:Concept ;
+    at:authority-code "buyer" ;
+    at:deprecated "false" ;
+    at:op-code "buyer" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "buyer" ;
+    dc:identifier "buyer" ;
+    skos:definition "Contracting authority, contracting entity, a defence contractor, an international organisation, or an organisation awarding a contract subsidized by a contracting authority."@en ;
+    skos:inScheme atold:organisation-role ;
+    skos:prefLabel "Купувач"@bg,
+        "Kupující"@cs,
+        "Køber"@da,
+        "Beschaffer"@de,
+        "Αγοραστής"@el,
+        "Buyer"@en,
+        "Comprador"@es,
+        "Hankija"@et,
+        "Ostaja"@fi,
+        "Acheteur"@fr,
+        "Ceannaitheoir"@ga,
+        "Kupac"@hr,
+        "Vevő"@hu,
+        "Committente"@it,
+        "Pirkėjas"@lt,
+        "Pircējs"@lv,
+        "Xerrej"@mt,
+        "Koper"@nl,
+        "Nabywca"@pl,
+        "Adquirente"@pt,
+        "Cumpărător"@ro,
+        "Kupujúci"@sk,
+        "Kupec"@sl,
+        "Upphandlare"@sv ;
+    skos:topConceptOf atold:organisation-role .
+
+<http://publications.europa.eu/resource/authority/organisation-role/cpb-acq> a skos:Concept ;
+    at:authority-code "cpb-acq" ;
+    at:deprecated "false" ;
+    at:op-code "cpb-acq" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "cpb-acq" ;
+    dc:identifier "cpb-acq" ;
+    skos:definition "Contracting authority procuring activities conducted on a permanent basis, in one of the following forms:(a) the acquisition of supplies and/or services intended for contracting authorities."@en ;
+    skos:inScheme atold:organisation-role ;
+    skos:prefLabel "Централен орган за покупки, придобиващ доставки и/или услуги, предназначени за други купувачи"@bg,
+        "Centrální zadavatel pořizující dodávky a/nebo služby určené pro jiné kupující"@cs,
+        "Indkøbscentral, der rekvirerer vareleverancer og/eller tjenesteydelser for andre købere"@da,
+        "Zentrale Beschaffungsstelle, die für andere Beschaffer bestimmte Lieferungen und/oder Dienstleistungen erwirbt"@de,
+        "Κεντρική αρχή προμηθειών η οποία αγοράζει αγαθά και/ή υπηρεσίες που προορίζονται για άλλους αγοραστές"@el,
+        "Central purchasing body acquiring supplies and/or services intended for other buyers"@en,
+        "Organismo comprador central que adquiere suministros o servicios destinados a otros compradores"@es,
+        "Keskne hankija, kes hangib teiste hankijate jaoks ette nähtud asju ja/või teenuseid"@et,
+        "Muille ostajille tarkoitettuja tavaroita ja/tai palveluja hankkiva yhteishankintayksikkö"@fi,
+        "Centrale d’achat qui acquiert des fournitures et/ou des services destinés à d’autres acheteurs"@fr,
+        "Comhlacht lárnach ceannaigh a fhaigheann soláthairtí agus/nó seirbhísí ar son ceannaitheoirí eile"@ga,
+        "Središnje tijelo za nabavu koje nabavlja robu i/ili usluge namijenjene drugim kupcima"@hr,
+        "Más vevőknek szánt árukat és/vagy szolgáltatásokat beszerző központi beszerző szerv"@hu,
+        "Centrale di committenza per l'acquisizione di forniture e/o servizi destinati ad altri committenti"@it,
+        "Centrinė perkančioji organizacija, įsigyjanti kitiems pirkėjams skirtas prekes ir (arba) paslaugas"@lt,
+        "Centralizēto iepirkumu struktūra, kas iegādājas citiem pircējiem paredzētas preces un/vai pakalpojumus"@lv,
+        "Korp ċentrali għall-akkwisti li jakkwista provvisti u/jew servizzi maħsuba għal xerrejja oħra"@mt,
+        "Aankoopcentrale die voor andere kopers bestemde goederen en/of diensten koopt"@nl,
+        "Centralna jednostka zakupująca nabywająca dostawy i/lub usługi przeznaczone dla innych nabywców"@pl,
+        "Central de compras que adquire fornecimentos e/ou serviços destinados a outros adquirentes"@pt,
+        "Organism central de achiziție care achiziționează bunuri și/sau servicii destinate altor cumpărători"@ro,
+        "Centrálna obstarávacia organizácia, ktorá obstaráva dodávky tovaru a/alebo služby určené pre iných kupujúcich"@sk,
+        "Osrednji nabavni organ, ki nabavlja blago in/ali storitve za druge kupce"@sl,
+        "Inköpscentral som förvärvar varor och/eller tjänster som är avsedda för andra upphandlare"@sv ;
+    skos:topConceptOf atold:organisation-role .
+
+<http://publications.europa.eu/resource/authority/organisation-role/cpb-awa> a skos:Concept ;
+    at:authority-code "cpb-awa" ;
+    at:deprecated "false" ;
+    at:op-code "cpb-awa" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "cpb-awa" ;
+    dc:identifier "cpb-awa" ;
+    skos:definition "Contracting authority procuring activities conducted on a permanent basis, in one of the following forms:[...](b) the award of public contracts or the conclusion of framework agreements for works, supplies or services intended for contracting authorities."@en ;
+    skos:inScheme atold:organisation-role ;
+    skos:prefLabel "Централен орган за покупки, възлагащ обществени поръчки или сключващ рамкови споразумения за строителство, доставки или услуги, предназначени за други купувачи"@bg,
+        "Centrální zadavatel zadávající veřejné zakázky nebo uzavírající rámcové dohody na stavební práce, dodávky nebo služby určené pro jiné kupující"@cs,
+        "Indkøbscentral, der tildeler offentlige kontrakter eller indgår rammeaftaler om bygge- og anlægsarbejder, vareindkøb eller tjenesteydelser for andre købere"@da,
+        "Zentrale Beschaffungsstelle, die öffentliche Aufträge oder Rahmenvereinbarungen im Zusammenhang mit für andere Beschaffer bestimmten Bauleistungen, Lieferungen oder Dienstleistungen vergibt/abschließt"@de,
+        "Κεντρική αρχή προμηθειών η οποία αναθέτει δημόσιες συμβάσεις ή συνάπτει συμφωνίες-πλαίσια για έργα, προμήθειες ή υπηρεσίες που προορίζονται για άλλους αγοραστές"@el,
+        "Central purchasing body awarding public contracts or concluding framework agreements for works, supplies or services intended for other buyers"@en,
+        "Organismo comprador central que adjudica contratos públicos o celebra acuerdos marco de obras, suministros o servicios destinados a otros compradores"@es,
+        "Keskne hankija, kes sõlmib teiste hankijate jaoks ette nähtud ehitustööde, asjade või teenuste riigihankelepinguid või raamlepinguid"@et,
+        "Muille ostajille tarkoitettuja julkisia urakoita sekä tavara- ja palveluhankintoja koskevia sopimuksia tai puitejärjestelyjä tekevä yhteishankintayksikkö"@fi,
+        "Centrale d’achat qui passe des marchés publics ou conclut des accords-cadres de travaux, de fournitures ou de services destinés à d’autres acheteurs"@fr,
+        "Comhlacht lárnach ceannaigh a dhámhann conarthaí poiblí nó a thugann i gcrích creat-chomhaontuithe maidir le hoibreacha, soláthairtí nó seirbhísí ar son ceannaitheoirí eile"@ga,
+        "Središnje tijelo za nabavu koje dodjeljuje javne ugovore ili sklapa okvirne sporazume za radove, robu ili usluge namijenjene drugim kupcima"@hr,
+        "Egyéb vevőknek szánt építési beruházásra, árubeszerzésre vagy szolgáltatásra irányuló szerződéseket odaítélő vagy ilyen keretmegállapodásokat kötő központi beszerző szerv"@hu,
+        "Centrale di committenza per l'aggiudicazione di appalti o la conclusione di accordi quadro per lavori, forniture o servizi destinati ad altri committenti"@it,
+        "Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl kitiems pirkėjams skirtų darbų, prekių ar paslaugų"@lt,
+        "Centralizēto iepirkumu struktūra, kas piešķir publiskā iepirkuma līgumus vai slēdz pamatnolīgumus par citiem pircējiem paredzētiem būvdarbiem, piegādēm vai pakalpojumiem"@lv,
+        "Korp ċentrali għall-akkwisti li jagħti l-kuntratti pubbliċi jew li jikkonkludi ftehimiet qafas għal xogħlijiet, provvisti jew servizzi maħsuba għal xerrejja oħra"@mt,
+        "Aankoopcentrale die overheidsopdrachten gunt of raamovereenkomsten sluit voor werken, leveringen of diensten die voor andere kopers bestemd zijn"@nl,
+        "Centralna jednostka zakupująca udzielająca zamówień publicznych lub zawierająca umowy ramowe w zakresie robót budowlanych, dostaw lub usług przeznaczonych dla innych nabywców"@pl,
+        "Central de compras que adjudica contratos públicos ou celebra acordos-quadro para trabalhos de obras, fornecimentos ou serviços destinados a outros adquirentes"@pt,
+        "Organism central de achiziție care atribuie contracte de achiziții publice sau încheie acorduri-cadru pentru lucrări, bunuri sau servicii destinate altor cumpărători"@ro,
+        "Centrálna obstarávacia organizácia, ktorá zadáva verejné zákazky alebo uzatvára rámcové dohody na stavebné práce, dodávky tovaru alebo služby určené pre iných kupujúcich"@sk,
+        "Osrednji nabavni organ, ki oddaja javna naročila ali sklepa okvirne sporazume za gradnje, blago ali storitve za druge kupce"@sl,
+        "Inköpscentral som tilldelar offentliga kontrakt eller ingår ramavtal om byggentreprenader, varor eller tjänster som är avsedda för andra upphandlare"@sv ;
+    skos:topConceptOf atold:organisation-role .
+
+<http://publications.europa.eu/resource/authority/organisation-role/info-emp> a skos:Concept ;
+    at:authority-code "info-emp" ;
+    at:deprecated "false" ;
+    at:op-code "info-emp" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "info-emp" ;
+    dc:identifier "info-emp" ;
+    skos:definition "Body reponsible for providing information concerning the general regulatory framework for employment protection and working conditions."@en ;
+    skos:inScheme atold:organisation-role ;
+    skos:prefLabel "Организация, която предоставя информация за общата нормативна уредба за защитата на заетостта и условията на труд, приложима на мястото, където ще се изпълнява поръчката"@bg,
+        "Organizace poskytující informace o obecném právním rámci pro ochranu zaměstnanců a pracovní podmínky, který se použije v místě, kde má být zakázka plněna"@cs,
+        "Organisation, der leverer oplysninger om den generelle lovgivningsramme på det sted, hvor kontrakten skal udføres, hvad angår sikkerhed på arbejdspladsen og arbejdsvilkår"@da,
+        "Organisation, die Informationen über den allgemeinen, am Ort der Ausführung des Auftrags geltenden Rechtsrahmen für Arbeitsschutz und Arbeitsbedingungen bereitstellt"@de,
+        "Οργανισμός που παρέχει πληροφορίες σχετικά με το γενικό κανονιστικό πλαίσιο για την προστασία της απασχόλησης και τους όρους εργασίας το οποίο ισχύει στον τόπο εκτέλεσης της σύμβασης"@el,
+        "Organisation providing information concerning the general regulatory framework for employment protection and working conditions applicable in the place where the contract is to be performed"@en,
+        "Organización que proporciona información sobre el marco normativo general en materia de protección de los trabajadores y las condiciones de trabajo aplicable en el lugar en que deba ejecutarse el contrato"@es,
+        "Organisatsioon, mis annab teavet tööhõivekaitset ja töötingimusi käsitleva üldise õigusliku raamistiku kohta, mida kohaldatakse lepingu täitmise kohas"@et,
+        "Sopimuksen suoritus- tai toteuttamispaikassa sovellettavista työsuojelua ja työehtoja koskevista yleisistä säännöksistä tietoja antava organisaatio"@fi,
+        "Organisation qui fournit des informations sur le cadre réglementaire général qui, en matière de protection du travail et de conditions de travail, est applicable au lieu où la prestation doit être réalisée"@fr,
+        "Eagraíocht a sholáthraíonn faisnéis faoin gcreat rialála ginearálta don chosaint fostaíochta agus do dhálaí oibre is infheidhme san áit ina bhfuil an conradh le cur i gcrích"@ga,
+        "Organizacija koja pruža informacije o općem regulatornom okviru u vezi sa zaštitom radnog mjesta i radnih uvjeta primjenjivom u mjestu u kojem se ugovor treba izvršiti"@hr,
+        "A szerződés teljesítésének helye szerinti országban alkalmazandó általános munkavédelmi és foglalkoztatási feltételekkel kapcsolatos szabályozási kerettel kapcsolatban tájékoztatást nyújtó szervezet"@hu,
+        "Organizzazione presso la quale possono essere richieste informazioni sul quadro normativo generale vigente in materia di tutela dei lavoratori e condizioni di lavoro nel luogo in cui l'appalto deve essere eseguito"@it,
+        "Organizacija, teikianti informaciją apie tos vietos, kurioje bus vykdoma sutartis, bendrąją užimtumo apsaugos ir darbo sąlygų reglamentavimo sistemą"@lt,
+        "Organizācija, kas sniedz informāciju par darba aizsardzības un darba apstākļu vispārējo tiesisko regulējumu, kas piemērojams līguma izpildes vietā"@lv,
+        "Organizzazzjoni li tipprovdi informazzjoni dwar il-qafas regolatorju ġenerali għall-protezzjoni tal-impjiegi u għall-kundizzjonijiet tax-xogħol applikabbli fil-post fejn irid jitwettaq il-kuntratt"@mt,
+        "Organisatie die informatie verstrekt over de voorschriften die op de plaats van de verrichtingen gelden inzake de bescherming van de werknemers en arbeidsvoorwaarden"@nl,
+        "Organizacja udzielająca informacji na temat ogólnych ram regulujących kwestie ochrony zatrudnienia i warunków pracy, mających zastosowanie w miejscu, w którym zamówienie ma być realizowane"@pl,
+        "Organização que fornece informações sobre o quadro normativo geral em matéria de proteção do trabalho e de condições de trabalho aplicável no local em que o contrato vai ser executado"@pt,
+        "Organizația care furnizează informații referitoare la cadrul legislativ general privind protecția muncii aplicabil în locul în care urmează să fie executat contractul"@ro,
+        "Organizácia poskytujúca informácie týkajúce sa všeobecného regulačného rámca pre ochranu zamestnanosti a pracovné podmienky uplatňovaného v mieste plnenia zákazky"@sk,
+        "Organizacija, ki daje informacije o splošnem regulativnem okviru glede zaščite delovnega mesta in pogojev za delo, ki se uporablja v kraju izvajanja naročila"@sl,
+        "Organisation som tillhandahåller information om det allmänna regelverk för anställningsskydd och arbetsvillkor som ska tillämpas på den plats där kontraktet ska genomföras"@sv ;
+    skos:scopeNote "Required in Directive 2009/81/EC, see Annex IV Prior Information Notice Point 1."@en ;
+    skos:topConceptOf atold:organisation-role .
+
+<http://publications.europa.eu/resource/authority/organisation-role/info-envir> a skos:Concept ;
+    at:authority-code "info-envir" ;
+    at:deprecated "false" ;
+    at:op-code "info-envir" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "info-envir" ;
+    dc:identifier "info-envir" ;
+    skos:definition "Body responsible for providing information concerning the general regulatory framework for environmental protection."@en ;
+    skos:inScheme atold:organisation-role ;
+    skos:prefLabel "Организация, която предоставя информация за общата нормативна уредба за опазването на околната среда, приложима на мястото, където ще се изпълнява поръчката"@bg,
+        "Organizace poskytující informace o obecném právním rámci pro ochranu životního prostředí, který se použije v místě, kde má být zakázka plněna"@cs,
+        "Organisation, der leverer oplysninger om den generelle lovgivningsramme på det sted, hvor kontrakten skal udføres, hvad angår miljøbeskyttelse"@da,
+        "Organisation, die Informationen über den allgemeinen, am Ort der Ausführung des Auftrags geltenden umweltrechtlichen Rahmen bereitstellt"@de,
+        "Οργανισμός που παρέχει πληροφορίες σχετικά με το γενικό κανονιστικό πλαίσιο για την προστασία του περιβάλλοντος το οποίο ισχύει στον τόπο εκτέλεσης της σύμβασης"@el,
+        "Organisation providing information concerning the general regulatory framework for environmental protection applicable in the place where the contract is to be performed"@en,
+        "Organización que proporciona información sobre el marco normativo general por lo que se refiere a la protección del medio ambiente aplicable en el lugar en que deba ejecutarse el contrato"@es,
+        "Organisatsioon, mis annab teavet keskkonnakaitset käsitleva üldise õigusliku raamistiku kohta, mida kohaldatakse lepingu täitmise kohas"@et,
+        "Sopimuksen suoritus- tai toteuttamispaikassa sovellettavista ympäristönsuojelua koskevista yleisistä säännöksistä tietoja antava organisaatio"@fi,
+        "Organisation qui fournit des informations sur le cadre réglementaire général qui, en matière de protection de l’environnement, est applicable au lieu où la prestation doit être réalisée"@fr,
+        "Eagraíocht a sholáthraíonn faisnéis faoin gcreat rialála ginearálta do chosaint an chomhshaoil is infheidhme san áit ina bhfuil an conradh le cur i gcrích"@ga,
+        "Organizacija koja pruža informacije o općem regulatornom okviru u vezi sa zaštitom okoliša primjenjivom u mjestu u kojem se ugovor treba izvršiti"@hr,
+        "A szerződés teljesítésének helye szerinti országban alkalmazandó általános környezetvédelmi szabályozási kerettel kapcsolatban tájékoztatást nyújtó szervezet"@hu,
+        "Organizzazione presso la quale possono essere richieste informazioni sul quadro normativo generale vigente in materia di protezione dell'ambiente nel luogo in cui l'appalto deve essere eseguito"@it,
+        "Organizacija, teikianti informaciją apie tos vietos, kurioje bus vykdoma sutartis, bendrąją aplinkosaugos reglamentavimo sistemą"@lt,
+        "Organizācija, kas sniedz informāciju par vides aizsardzības jomas vispārējo tiesisko regulējumu, kas piemērojams līguma izpildes vietā"@lv,
+        "Organizzazzjoni li tipprovdi informazzjoni dwar il-qafas regolatorju ġenerali għall-protezzjoni ambjentali applikabbli fil-post fejn irid jitwettaq il-kuntratt"@mt,
+        "Organisatie die informatie verstrekt over de voorschriften die op de plaats van de verrichtingen gelden inzake milieubescherming"@nl,
+        "Organizacja udzielająca informacji na temat ogólnych ram regulujących kwestie ochrony środowiska, mających zastosowanie w miejscu, w którym zamówienie ma być realizowane"@pl,
+        "Organização que fornece informações sobre o quadro normativo geral em matéria de proteção do ambiente que vigora no local de realização da prestação"@pt,
+        "Organizația care furnizează informații referitoare la cadrul legislativ general privind protecția mediului aplicabil în locul în care urmează să fie executat contractul"@ro,
+        "Organizácia poskytujúca informácie týkajúce sa všeobecného regulačného rámca pre ochranu životného prostredia uplatňovaného v mieste plnenia zákazky"@sk,
+        "Organizacija, ki daje informacije o splošnem regulativnem okviru glede varstva okolja, ki se uporablja v kraju izvajanja naročila"@sl,
+        "Organisation som tillhandahåller information om det allmänna regelverk för miljöskydd som ska tillämpas på den plats där kontraktet ska genomföras"@sv ;
+    skos:scopeNote "Required in Directive 2009/81/EC, see Annex IV Prior Information Notice Point 1."@en ;
+    skos:topConceptOf atold:organisation-role .
+
+<http://publications.europa.eu/resource/authority/organisation-role/info-tax> a skos:Concept ;
+    at:authority-code "info-tax" ;
+    at:deprecated "false" ;
+    at:op-code "info-tax" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "info-tax" ;
+    dc:identifier "info-tax" ;
+    skos:definition "Body reponsible for providing information concerning the general regulatory framework for taxes."@en ;
+    skos:inScheme atold:organisation-role ;
+    skos:prefLabel "Организация, която предоставя информация за общата нормативна уредба за данъците, приложима на мястото, където ще се изпълнява поръчката"@bg,
+        "Organizace poskytující informace o obecném právním rámci pro daně, který se použije v místě, kde má být zakázka plněna"@cs,
+        "Organisation, der leverer oplysninger om den generelle lovgivningsramme på det sted, hvor kontrakten skal udføres, hvad angår skatter"@da,
+        "Organisation, die Informationen über den allgemeinen, am Ort der Ausführung des Auftrags geltenden steuerrechtlichen Rahmen bereitstellt"@de,
+        "Οργανισμός που παρέχει πληροφορίες σχετικά με το γενικό κανονιστικό πλαίσιο για τους φόρους το οποίο ισχύει στον τόπο εκτέλεσης της σύμβασης"@el,
+        "Organisation providing information concerning the general regulatory framework for taxes applicable in the place where the contract is to be performed"@en,
+        "Organización que proporciona información sobre el marco normativo general por lo que se refiere a la fiscalidad aplicable en el lugar en que deba ejecutarse el contrato"@es,
+        "Organisatsioon, mis annab teavet makse käsitleva üldise õigusliku raamistiku kohta, mida kohaldatakse lepingu täitmise kohas"@et,
+        "Sopimuksen suoritus- tai toteuttamispaikassa sovellettavista verotusta koskevista yleisistä säännöksistä tietoja antava organisaatio"@fi,
+        "Organisation qui fournit des informations sur le cadre réglementaire général qui, en matière de fiscalité, est applicable au lieu où la prestation doit être réalisée"@fr,
+        "Eagraíocht a sholáthraíonn faisnéis faoin gcreat rialála ginearálta do na cánacha is infheidhme san áit ina bhfuil an conradh le cur i gcrích"@ga,
+        "Organizacija koja pruža informacije o općem regulatornom okviru u vezi s porezima primjenjivom u mjestu u kojem se ugovor treba izvršiti"@hr,
+        "A szerződés teljesítésének helye szerinti országban alkalmazandó adók általános szabályozási keretével kapcsolatban tájékoztatást nyújtó szervezet"@hu,
+        "Organizzazione presso la quale possono essere richieste informazioni sul quadro normativo generale vigente in materia di fiscalità nel luogo in cui l'appalto deve essere eseguito"@it,
+        "Organizacija, teikianti informaciją apie tos vietos, kurioje bus vykdoma sutartis, bendrąją mokesčių reglamentavimo sistemą"@lt,
+        "Organizācija, kas sniedz informāciju par vispārējo tiesisko regulējumu attiecībā uz nodokļiem, kas piemērojami līguma izpildes vietā"@lv,
+        "Organizzazzjoni li tipprovdi informazzjoni dwar il-qafas regolatorju ġenerali għat-taxxi applikabbli fil-post fejn irid jitwettaq il-kuntratt"@mt,
+        "Organisatie die informatie verstrekt over de voorschriften die op de plaats van de verrichtingen gelden inzake belasting"@nl,
+        "Organizacja udzielająca informacji na temat ogólnych ram regulujących kwestie podatków, mających zastosowanie w miejscu, w którym zamówienie ma być realizowane"@pl,
+        "Organização que fornece informações sobre o quadro normativo geral em matéria de fiscalidade que vigora no local de realização da prestação"@pt,
+        "Organizația care furnizează informații referitoare la cadrul legislativ general privind impozitarea aplicabil în locul în care urmează să fie executat contractul"@ro,
+        "Organizácia poskytujúca informácie týkajúce sa všeobecného regulačného rámca pre dane uplatňovaného v mieste plnenia zákazky"@sk,
+        "Organizacija, ki daje informacije o splošnem regulativnem okviru glede davkov, ki se uporablja v kraju izvajanja naročila"@sl,
+        "Organisation som tillhandahåller information om det allmänna regelverk för skatter som ska tillämpas på den plats där kontraktet ska genomföras"@sv ;
+    skos:scopeNote "Required in Directive 2009/81/EC, see Annex IV Prior Information Notice Point 1."@en ;
+    skos:topConceptOf atold:organisation-role .
+
+<http://publications.europa.eu/resource/authority/organisation-role/mediator> a skos:Concept ;
+    at:authority-code "mediator" ;
+    at:deprecated "false" ;
+    at:op-code "mediator" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "mediator" ;
+    dc:identifier "mediator" ;
+    skos:definition "Body responsible for mediation acting as a neutral third party."@en ;
+    skos:inScheme atold:organisation-role ;
+    skos:prefLabel "Медиаторска организация"@bg,
+        "Organizace příslušná pro mediační řízení"@cs,
+        "Organisation med ansvar for mægling"@da,
+        "Schlichtungsstelle"@de,
+        "Οργανισμός διαμεσολάβησης"@el,
+        "Mediation organisation"@en,
+        "Organización de mediación"@es,
+        "Vahendusorganisatsioon"@et,
+        "Välityselin"@fi,
+        "Organisation chargée des procédures de médiation"@fr,
+        "Eagraíocht idirghabhála"@ga,
+        "Organizacija za postupke mirenja"@hr,
+        "Közvetítő szervezet"@hu,
+        "Organizzazione di mediazione"@it,
+        "Tarpininkavimo organizacija"@lt,
+        "Starpniecības jeb mediācijas organizācija"@lv,
+        "Organizzazzjoni tal-medjazzjoni"@mt,
+        "Bemiddelingsorganisatie"@nl,
+        "Organ mediacyjny"@pl,
+        "Organização de mediação"@pt,
+        "Organizație de mediere"@ro,
+        "Sprostredkovateľská organizácia"@sk,
+        "Organizacija za mediacijo"@sl,
+        "Medlingsorganisation"@sv ;
+    skos:topConceptOf atold:organisation-role .
+
+<http://publications.europa.eu/resource/authority/organisation-role/rev-req> a skos:Concept ;
+    at:authority-code "rev-req" ;
+    at:deprecated "false" ;
+    at:op-code "rev-req" ;
+    at:start.use "2020-12-16" ;
+    atold:op-code "rev-req" ;
+    dc:identifier "rev-req" ;
+    skos:definition "Any organisation (or person) having or having had an interest in obtaining a particular public supply or public works contract and who has been or risks being harmed by an alleged infringement."@en ;
+    skos:inScheme atold:organisation-role ;
+    skos:prefLabel "Организация (или лице), искаща преразглеждане (обжалване), която има или е имала интерес по отношение на поръчката и която е понесла или има опасност да понесе щети при предполагаемо нарушение"@bg,
+        "Organizace (nebo osoba) žádající o přezkum, která má nebo měla na zakázce zájem a které v důsledku domnělého protiprávního jednání vznikla nebo hrozí škoda"@cs,
+        "Klagende organisation (eller person), der har eller har haft interesse i en kontrakt, og som har lidt eller risikerer at lide skade som følge af en påstået overtrædelse"@da,
+        "Die den Antrag auf Überprüfung stellende Einrichtung (oder Person), die ein Interesse an einem Auftrag hat oder hatte und der durch einen behaupteten Verstoß ein Schaden entstanden ist bzw. zu entstehen droht"@de,
+        "Οργανισμός (ή πρόσωπο) που ασκεί προσφυγή και έχει ή είχε συμφέρον σε μια σύμβαση και που υπέστη ή κινδυνεύει να υποστεί ζημία από κατ’ ισχυρισμόν παράβαση"@el,
+        "Organisation (or person) requesting review that has or has had an interest in a contract and who has been or risks being harmed by an alleged infringement"@en,
+        "Organización (o persona) que interpone un recurso, que tiene o ha tenido un interés en un contrato y que se ha visto o corre el riesgo de verse perjudicada por una presunta infracción"@es,
+        "Läbivaatamist taotlev organisatsioon (või isik), kellel on või on olnud huvi lepingu vastu ja kes on väidetava rikkumise tõttu kahju kannatanud või võib kahju kannatada"@et,
+        "Muutoksenhakua pyytävä organisaatio (tai henkilö), joka on tai on ollut tavoittelemassa tiettyä sopimusta ja jonka etua väitetty virheellinen menettely on loukannut tai saattaa loukata"@fi,
+        "Organisation (ou personne) introduisant une demande de recours qui est ou a été intéressée par un marché et a été ou risque d’être lésée par une violation alléguée"@fr,
+        "Eagraíocht (nó duine) a iarrann athbhreithniú a bhfuil nó a raibh leas acu i gconradh agus ar ndearnadh díobháil dóibh nó a bhfuil riosca ann go ndéanfaí díobháil dóibh mar gheall ar shárú líomhnaithe"@ga,
+        "Organizacija (ili osoba) koja traži pravnu zaštitu (preispitivanje), koja ima ili je imala interes za dobivanje ugovora i koja je pretrpjela ili bi mogla pretrpjeti štetu zbog navodnog kršenja"@hr,
+        "Jogorvoslatot kérő szervezet (vagy személy), amelynek (akinek) érdeke fűződik vagy fűződött egy szerződéshez, és amelynek (akinek) az állítólagos jogsértés kárt okozhat vagy okozhatott"@hu,
+        "Organizzazione (o persona) che presenta ricorso, che abbia o abbia avuto interesse a ottenere l'aggiudicazione di un appalto e sia stata o rischi di essere lesa a causa di una presunta violazione"@it,
+        "Peržiūros prašanti organizacija (arba asmuo), turinti ar turėjusi interesą sudaryti sutartį ir dėl įtariamo pažeidimo galėjusi arba galinti patirti žalą"@lt,
+        "Pārskatīšanas pieprasītāja organizācija (vai persona), kura ir vai ir bijusi ieinteresēta kādā līgumā un kurai ir nodarīts vai draud kaitējums aizdomu par pārkāpumu dēļ"@lv,
+        "Organizzazzjoni (jew persuna) li titlob għal rieżami, li jkollha jew kellha interess f’kuntratt, u li ġarrbet jew qed tissogra li ġġarrab danni minħabba ksur allegat"@mt,
+        "Organisatie (of persoon) die beroep instelt en die belang heeft of heeft gehad bij een opdracht en door een beweerde inbreuk is of dreigt te worden geschaad"@nl,
+        "Organizacja (lub osoba) składająca odwołanie, która ma lub miała interes w uzyskaniu zamówienia i która poniósła szkodę lub może ponieść szkodę w wyniku domniemanego naruszenia"@pl,
+        "Organização (ou pessoa) que interpõe um recurso, que esteja ou tenha estado interessada num contrato e que tenha sido ou possa vir a ser lesada por uma alegada violação"@pt,
+        "Organizația (sau persoana) care depune cererea de soluționare a căilor de atac, care are sau a avut un interes în obținerea unui contract și care a fost prejudiciată sau riscă să fie prejudiciată printr-o presupusă încălcare"@ro,
+        "Organizácia (alebo osoba) požadujúca preskúmanie, ktorá má alebo mala záujem o zákazku a ktorá je alebo by mohla byť poškodená údajným porušením právnych predpisov"@sk,
+        "Organizacija (ali oseba), ki zahteva revizijo in ki ima ali je imela pogodbeni interes ter bi ji domnevna kršitev lahko škodovala"@sl,
+        "En organisation (eller person) som begär omprövning, har ett intresse i ett avtal och har blivit skadad eller kan skadas av en påstådd överträdelse"@sv ;
+    skos:topConceptOf atold:organisation-role .
+
+<http://publications.europa.eu/resource/authority/organisation-role/reviewer> a skos:Concept ;
+    at:authority-code "reviewer" ;
+    at:deprecated "false" ;
+    at:op-code "reviewer" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "reviewer" ;
+    dc:identifier "reviewer" ;
+    skos:definition "Body responsible for revision."@en ;
+    skos:inScheme atold:organisation-role ;
+    skos:prefLabel "Oрганизация, отговаряща за преразглеждането (обжалването)"@bg,
+        "Organizace příslušná pro přezkum"@cs,
+        "Organisation med ansvar for klager"@da,
+        "Überprüfungsstelle"@de,
+        "Οργανισμός προσφυγής"@el,
+        "Review organisation"@en,
+        "Organización de encargada de los procedimientos de recurso"@es,
+        "Läbivaatav organisatsioon"@et,
+        "Muutoksenhakuelin"@fi,
+        "Organisation chargée des procédures de recours"@fr,
+        "Eagraíocht athbhreithniúcháin"@ga,
+        "Organizacija za preispitivanje (pravnu zaštitu)"@hr,
+        "Felülvizsgálati szervezet"@hu,
+        "Organizzazione competente per i ricorsi"@it,
+        "Peržiūros organizacija"@lt,
+        "Pārskatīšanas organizācija"@lv,
+        "Organizzazzjoni tar-rieżami"@mt,
+        "Organisatie voor beroepsprocedures"@nl,
+        "Organ odwoławczy"@pl,
+        "Instância de recurso"@pt,
+        "Organizația responsabilă cu căile de atac"@ro,
+        "Organizácia pre preskúmanie"@sk,
+        "Organizacija za revizijo"@sl,
+        "Prövningsorganisation"@sv ;
+    skos:topConceptOf atold:organisation-role .
+
+<http://publications.europa.eu/resource/authority/organisation-role/serv-prov> a skos:Concept ;
+    at:authority-code "serv-prov" ;
+    at:deprecated "false" ;
+    at:op-code "serv-prov" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "serv-prov" ;
+    dc:identifier "serv-prov" ;
+    skos:definition "Public or private body which offers ancillary purchasing activities on the market."@en ;
+    skos:inScheme atold:organisation-role ;
+    skos:prefLabel "Доставчик на услуги в областта на обществените поръчки"@bg,
+        "Poskytovatel služeb v oblasti zadávání zakázek"@cs,
+        "Indkøbsleverandør"@da,
+        "Beschaffungsdienstleister"@de,
+        "Πάροχος υπηρεσιών προμηθειών"@el,
+        "Procurement service provider"@en,
+        "Proveedor de servicios de contratación pública"@es,
+        "Tugiteenuse osutaja"@et,
+        "Hankintapalvelujen tarjoaja"@fi,
+        "Prestataire de services de passation de marché"@fr,
+        "Soláthraí seirbhísí an tsoláthair"@ga,
+        "Pružatelj usluga javne nabave"@hr,
+        "Közbeszerzési szolgáltató"@hu,
+        "Prestatore di servizi in materia di appalti"@it,
+        "Pirkimo paslaugų teikėjas"@lt,
+        "Iepirkuma pakalpojumu sniedzējs"@lv,
+        "Fornitur ta’ servizzi tal-akkwist"@mt,
+        "Aanbieder van aanbestedingsdiensten"@nl,
+        "Podmiot świadczący usługi w zakresie zamówień"@pl,
+        "Prestador de serviços no domínio da contratação pública"@pt,
+        "Furnizor de servicii de achiziție"@ro,
+        "Poskytovateľ obstarávacích služieb"@sk,
+        "Izvajalec storitev javnega naročanja"@sl,
+        "Upphandlingstjänsteleverantör"@sv ;
+    skos:topConceptOf atold:organisation-role .
+
+<http://publications.europa.eu/resource/authority/organisation-role/subcont> a skos:Concept ;
+    at:authority-code "subcont" ;
+    at:deprecated "false" ;
+    at:op-code "subcont" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "subcont" ;
+    dc:identifier "subcont" ;
+    skos:definition "Economic operator to whom the contractor assigns a share of the contract."@en ;
+    skos:inScheme atold:organisation-role ;
+    skos:prefLabel "Подизпълнител"@bg,
+        "Subdodavatel"@cs,
+        "Underleverandør"@da,
+        "Unterauftragnehmer"@de,
+        "Υπεργολάβος"@el,
+        "Subcontractor"@en,
+        "Subcontratista"@es,
+        "Alltöövõtja"@et,
+        "Alihankkija"@fi,
+        "Sous-traitant"@fr,
+        "Fochonraitheoir"@ga,
+        "Podugovaratelj (podizvođač radova)"@hr,
+        "Alvállalkozó"@hu,
+        "Subappaltatore"@it,
+        "Subrangovas"@lt,
+        "Apakšuzņēmējs"@lv,
+        "Sottokuntrattur"@mt,
+        "Onderaannemer"@nl,
+        "Podwykonawca"@pl,
+        "Subcontratante"@pt,
+        "Subcontractant"@ro,
+        "Subdodávateľ"@sk,
+        "Podizvajalec"@sl,
+        "Underentreprenör"@sv ;
+    skos:topConceptOf atold:organisation-role .
+
+<http://publications.europa.eu/resource/authority/organisation-role/ted-esen> a skos:Concept ;
+    at:authority-code "ted-esen" ;
+    at:deprecated "false" ;
+    at:op-code "ted-esen" ;
+    at:start.use "2020-03-18" ;
+    atold:op-code "ted-esen" ;
+    dc:identifier "ted-esen" ;
+    skos:definition "TED eSenders are public or private entities that send public procurement notices in a structured XML format through a software developed in-house. eSenders can include contracting bodies, public or private bodies acting on behalf of contracting bodies as well as eProcurement software developers."@en ;
+    skos:inScheme atold:organisation-role ;
+    skos:prefLabel "Електронен подател в платформата eSender към Електронния ежедневник за поръчките (TED)"@bg,
+        "Elektronický odesílatel TED"@cs,
+        "TED eSender"@da,
+        "TED-eSender"@de,
+        "TED eSender"@el,
+        "TED eSender"@en,
+        "TED eSender"@es,
+        "TED eSender"@et,
+        "TED eSender"@fi,
+        "TED eSender"@fr,
+        "TED eSender"@ga,
+        "TED eSender"@hr,
+        "TED eKüldő"@hu,
+        "TED eSender"@it,
+        "TED e. formų siuntėjas"@lt,
+        "TED rīks eSender"@lv,
+        "TED eSender"@mt,
+        "TED eSender"@nl,
+        "TED eSender"@pl,
+        "TED eSender"@pt,
+        "Sistemul TED eSender"@ro,
+        "TED eSender"@sk,
+        "TED eSender"@sl,
+        "TED eSender"@sv ;
+    skos:topConceptOf atold:organisation-role .
+
+<http://publications.europa.eu/resource/authority/organisation-role/tenderer> a skos:Concept ;
+    at:authority-code "tenderer" ;
+    at:deprecated "false" ;
+    at:op-code "tenderer" ;
+    at:start.use "2020-03-18" ;
+    atold:op-code "tenderer" ;
+    dc:identifier "tenderer" ;
+    skos:definition "Economic operator that has submitted a tender; unless the economic operator is a group of organisations that is not an organisation in itself, in which case each individual organisation is considered a \"tenderer\"."@en ;
+    skos:inScheme atold:organisation-role ;
+    skos:prefLabel "Оферент"@bg,
+        "Uchazeč"@cs,
+        "Tilbudsgiver"@da,
+        "Bieter"@de,
+        "Προσφέρων"@el,
+        "Tenderer"@en,
+        "Licitador"@es,
+        "Pakkuja"@et,
+        "Tarjoaja"@fi,
+        "Soumissionnaire"@fr,
+        "Tairgeoir"@ga,
+        "Ponuditelj"@hr,
+        "Ajánlattevő"@hu,
+        "Offerente"@it,
+        "Dalyvis"@lt,
+        "Pretendents"@lv,
+        "Offerent"@mt,
+        "Inschrijver"@nl,
+        "Oferent"@pl,
+        "Proponente"@pt,
+        "Ofertant"@ro,
+        "Uchádzač"@sk,
+        "Ponudnik"@sl,
+        "Anbudsgivare"@sv ;
+    skos:topConceptOf atold:organisation-role .
+
+<http://publications.europa.eu/resource/authority/organisation-role/winner> a skos:Concept ;
+    at:authority-code "winner" ;
+    at:deprecated "false" ;
+    at:op-code "winner" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "winner" ;
+    dc:identifier "winner" ;
+    skos:definition "Economic operator awarded with the contract."@en ;
+    skos:inScheme atold:organisation-role ;
+    skos:prefLabel "Победител"@bg,
+        "Vítěz"@cs,
+        "Vinder"@da,
+        "Wettbewerbsgewinner"@de,
+        "Νικητής"@el,
+        "Winner"@en,
+        "Ganador"@es,
+        "Edukas pakkuja"@et,
+        "Voittaja"@fi,
+        "Lauréat"@fr,
+        "Buaiteoir"@ga,
+        "Pobjednik natječaja"@hr,
+        "Nyertes"@hu,
+        "Vincitore"@it,
+        "Laimėtojas"@lt,
+        "Uzvarētājs"@lv,
+        "Rebbieħ"@mt,
+        "Winnaar"@nl,
+        "Zwycięzca"@pl,
+        "Vencedor"@pt,
+        "Câștigător"@ro,
+        "Víťaz"@sk,
+        "Zmagovalec"@sl,
+        "Verklig ägare"@sv ;
+    skos:topConceptOf atold:organisation-role .
+
+atold:organisation-role a skos:ConceptScheme ;
+    rdfs:label "Organisation role"@en ;
+    at:prefLabel "Organisation role"@en ;
+    at:table.id "organisation-role" ;
+    at:table.version.number "20220928-0" ;
+    owl:versionInfo "20220928-0" ;
+    skos:prefLabel "Organisation role"@en .
+

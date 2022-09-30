@@ -1,0 +1,210 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/procedure-phase/CONCILIA> a skos:Concept ;
+    at:authority-code "CONCILIA" ;
+    at:deprecated "false" ;
+    at:op-code "CONCILIA" ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "CONCILIA" ;
+    dc:identifier "CONCILIA" ;
+    skos:inScheme atold:procedure-phase ;
+    skos:prefLabel "Помирение"@bg,
+        "Dohodovací"@cs,
+        "Forlig"@da,
+        "Vermittlung"@de,
+        "Συνδιαλλαγή"@el,
+        "Conciliation"@en,
+        "Conciliación"@es,
+        "Lepitus"@et,
+        "Sovittelu"@fi,
+        "Conciliation"@fr,
+        "Idir-réiteach"@ga,
+        "Mirenje"@hr,
+        "Egyeztetés"@hu,
+        "Conciliazione"@it,
+        "Taikinimas"@lt,
+        "Samierināšana"@lv,
+        "Konċiljazzjoni"@mt,
+        "Bemiddeling"@nl,
+        "Procedura pojednawcza"@pl,
+        "Conciliação"@pt,
+        "Conciliere"@ro,
+        "Zmierenie"@sk,
+        "Sprava"@sl,
+        "Förlikning"@sv .
+
+<http://publications.europa.eu/resource/authority/procedure-phase/INI_LEGIS> a skos:Concept ;
+    at:authority-code "INI_LEGIS" ;
+    at:deprecated "false" ;
+    at:op-code "INI_LEGIS" ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "INI_LEGIS" ;
+    dc:identifier "INI_LEGIS" ;
+    skos:inScheme atold:procedure-phase ;
+    skos:prefLabel "Законодателна инициатива"@bg,
+        "Legislativní podnět"@cs,
+        "Lovgivningsinitiativ"@da,
+        "Gesetzgebungsinitiative"@de,
+        "Νομοθετική πρωτοβουλία"@el,
+        "Legislative initiative"@en,
+        "Iniciativa legislativa"@es,
+        "Seadusandlik algatus"@et,
+        "Säädösaloite"@fi,
+        "Initiative législative"@fr,
+        "Tionscnamh reachtach"@ga,
+        "Zakonodavna inicijativa"@hr,
+        "Jogalkotási kezdeményezés"@hu,
+        "Iniziativa legislativa"@it,
+        "Teisėkūros iniciatyva"@lt,
+        "Likumdošanas iniciatīva"@lv,
+        "Inizjattiva leġiżlattiva"@mt,
+        "Wetgevingsinitiatief"@nl,
+        "Inicjatywa ustawodawcza"@pl,
+        "Iniciativa legislativa"@pt,
+        "Inițiativă legislativă"@ro,
+        "Legislatívna iniciatíva"@sk,
+        "Zakonodajna pobuda"@sl,
+        "Lagstiftningsinitiativ"@sv .
+
+<http://publications.europa.eu/resource/authority/procedure-phase/OP_DATPRO> a skos:Concept ;
+    at:op-code "OP_DATPRO" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:procedure-phase ;
+    skos:prefLabel "НЕОКОНЧАТЕЛНИ ДАННИ"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv .
+
+<http://publications.europa.eu/resource/authority/procedure-phase/RDG1> a skos:Concept ;
+    at:authority-code "RDG1" ;
+    at:deprecated "false" ;
+    at:op-code "RDG1" ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "RDG1" ;
+    dc:identifier "RDG1" ;
+    skos:inScheme atold:procedure-phase ;
+    skos:prefLabel "Първо четене"@bg,
+        "První čtení"@cs,
+        "Førstebehandling"@da,
+        "Erste Lesung"@de,
+        "Πρώτη ανάγνωση"@el,
+        "First reading"@en,
+        "Primera lectura"@es,
+        "Esimene lugemine"@et,
+        "Ensimmäinen käsittely"@fi,
+        "Première lecture"@fr,
+        "An chéad léamh"@ga,
+        "Prvo čitanje"@hr,
+        "Első olvasat"@hu,
+        "Prima lettura"@it,
+        "Pirmasis svarstymas"@lt,
+        "Pirmais lasījums"@lv,
+        "L-ewwel qari"@mt,
+        "Eerste lezing"@nl,
+        "Pierwsze czytanie"@pl,
+        "Primeira leitura"@pt,
+        "Prima lectură"@ro,
+        "Prvé čítanie"@sk,
+        "Prva obravnava"@sl,
+        "Första behandlingen"@sv .
+
+<http://publications.europa.eu/resource/authority/procedure-phase/RDG2> a skos:Concept ;
+    at:authority-code "RDG2" ;
+    at:deprecated "false" ;
+    at:op-code "RDG2" ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "RDG2" ;
+    dc:identifier "RDG2" ;
+    skos:inScheme atold:procedure-phase ;
+    skos:prefLabel "Второ четене"@bg,
+        "Druhé čtení"@cs,
+        "Andenbehandling"@da,
+        "Zweite Lesung"@de,
+        "Δεύτερη ανάγνωση"@el,
+        "Second reading"@en,
+        "Segunda lectura"@es,
+        "Teine lugemine"@et,
+        "Toinen käsittely"@fi,
+        "Deuxième lecture"@fr,
+        "An dara léamh"@ga,
+        "Drugo čitanje"@hr,
+        "Második olvasat"@hu,
+        "Seconda lettura"@it,
+        "Antrasis svarstymas"@lt,
+        "Otrais lasījums"@lv,
+        "It-tieni qari"@mt,
+        "Tweede lezing"@nl,
+        "Drugie czytanie"@pl,
+        "Segunda leitura"@pt,
+        "A doua lectură"@ro,
+        "Druhé čítanie"@sk,
+        "Druga obravnava"@sl,
+        "Andra behandlingen"@sv .
+
+<http://publications.europa.eu/resource/authority/procedure-phase/RDG3> a skos:Concept ;
+    at:authority-code "RDG3" ;
+    at:deprecated "false" ;
+    at:op-code "RDG3" ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "RDG3" ;
+    dc:identifier "RDG3" ;
+    skos:inScheme atold:procedure-phase ;
+    skos:prefLabel "Трето четене"@bg,
+        "Třetí čtení"@cs,
+        "Tredjebehandling"@da,
+        "Dritte Lesung"@de,
+        "Τρίτη ανάγνωση"@el,
+        "Third reading"@en,
+        "Tercera lectura"@es,
+        "Kolmas lugemine"@et,
+        "Kolmas käsittely"@fi,
+        "Troisième lecture"@fr,
+        "An tríú léamh"@ga,
+        "Treće čitanje"@hr,
+        "Harmadik olvasat"@hu,
+        "Terza lettura"@it,
+        "Trečiasis svarstymas"@lt,
+        "Trešais lasījums"@lv,
+        "It-tielet qari"@mt,
+        "Derde lezing"@nl,
+        "Trzecie czytanie"@pl,
+        "Terceira leitura"@pt,
+        "A treia lectură"@ro,
+        "Tretie čítanie"@sk,
+        "Tretja obravnava"@sl,
+        "Tredje behandlingen"@sv .
+
+atold:procedure-phase a skos:ConceptScheme ;
+    rdfs:label "Procedure phase"@en ;
+    at:prefLabel "Procedure phase"@en ;
+    at:table.id "procedure-phase" ;
+    at:table.version.number "20201216-0" ;
+    owl:versionInfo "20201216-0" ;
+    skos:prefLabel "Procedure phase"@en .
+

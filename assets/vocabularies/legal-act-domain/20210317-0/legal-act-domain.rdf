@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:at="http://publications.europa.eu/ontology/authority/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:atold="http://publications.europa.eu/resource/authority/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xml:base="http://publications.europa.eu/resource/authority/legal-act-domain">
+   <skos:ConceptScheme rdf:about="http://publications.europa.eu/resource/authority/legal-act-domain"
+                       at:table.id="legal-act-domain"
+                       at:table.version.number="20210317-0">
+      <at:prefLabel xml:lang="en">Legal act domain</at:prefLabel>
+      <rdfs:label xml:lang="en">Legal act domain</rdfs:label>
+      <owl:versionInfo>20210317-0</owl:versionInfo>
+      <skos:prefLabel xml:lang="en">Legal act domain</skos:prefLabel>
+   </skos:ConceptScheme>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/legal-act-domain/CFSP"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">ОВППС</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">SZBP</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">FUSP</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">GASP</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">ΚΕΠΠΑ</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">CFSP</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">PESC</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">ÜVJP</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">YUTP</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">PESC</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">CBES</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">ZVSP</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">KKBP</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">PESC</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">BUSP</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">KĀDP</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">PESK</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">GBVB</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">WPZiB</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">PESC</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">PESC</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">SZBP</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">SZVP</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Gusp</skos:prefLabel>
+      <at:authority-code>CFSP</at:authority-code>
+      <at:op-code>CFSP</at:op-code>
+      <at:start.use>1993-11-01</at:start.use>
+      <atold:op-code>CFSP</atold:op-code>
+      <dc:identifier>CFSP</dc:identifier>
+      <skos:altLabel xml:lang="bg">Oбща външна политика и политика на сигурност</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Společná zahraniční a bezpečnostní politika</skos:altLabel>
+      <skos:altLabel xml:lang="da">Den fælles udenrigs- og sikkerhedspolitik</skos:altLabel>
+      <skos:altLabel xml:lang="de">Gemeinsame Außen- und Sicherheitspolitik</skos:altLabel>
+      <skos:altLabel xml:lang="el">Κοινή εξωτερική πολιτική και πολιτική ασφαλείας</skos:altLabel>
+      <skos:altLabel xml:lang="en">Common foreign and security policy</skos:altLabel>
+      <skos:altLabel xml:lang="es">Política Exterior y de Seguridad Común</skos:altLabel>
+      <skos:altLabel xml:lang="et">Ühine välis- ja julgeolekupoliitika</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Yhteinen ulko- ja turvallisuuspolitiikka</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Politique étrangère et de sécurité commune</skos:altLabel>
+      <skos:altLabel xml:lang="ga">Comhbheartas eachtrach agus slándála</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Zajednička vanjska i sigurnosna politika</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Közös kül- és biztonságpolitika</skos:altLabel>
+      <skos:altLabel xml:lang="it">Politica estera e di sicurezza comune</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Bendra užsienio ir saugumo politika</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Kopējā ārpolitika un drošības politika</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Il-politika estera u ta’ sigurtà komuni</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Gemeenschappelijk buitenlands en veiligheidsbeleid</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Wspólna polityka zagraniczna i bezpieczeństwa</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Política externa e de segurança comum</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Politica externă și de securitate comună</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Spoločná zahraničná a bezpečnostná politika</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Skupna zunanja in varnostna politika</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Gemensamma utrikes- och säkerhetspolitiken</skos:altLabel>
+      <skos:definition xml:lang="en">As one of the three parts in a string identifying a legal act, the domain CFSF refers to Common foreign and security policy as set out in the Treaty on European Union signed in 1992 (Treaty of Maastricht). CFSP entails EU operational action required by the international situation by the EU using national and EU resources in order to attain specific objectives set by the Council. This domain was introduced on 1 November 1993 and is still current.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/legal-act-domain"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/legal-act-domain"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/legal-act-domain/EC"
+                 at:deprecated="true">
+      <skos:prefLabel xml:lang="bg">ЕО</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">ES</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">EF</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">EG</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">EK</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">EC</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">CE</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">EÜ</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">EY</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">CE</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">CE</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">EZ</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">EK</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">CE</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">EB</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">EK</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">KE</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">EG</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">WE</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">CE</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">CE</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">ES</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">ES</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">EG</skos:prefLabel>
+      <at:authority-code>EC</at:authority-code>
+      <at:op-code>EC</at:op-code>
+      <at:start.use>1993-11-01</at:start.use>
+      <atold:op-code>EC</atold:op-code>
+      <dc:identifier>EC</dc:identifier>
+      <skos:altLabel xml:lang="bg">Европейски общности</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Evropská společenství</skos:altLabel>
+      <skos:altLabel xml:lang="da">De Europæiske Fællesskaber</skos:altLabel>
+      <skos:altLabel xml:lang="de">Europäische Gemeinschaften</skos:altLabel>
+      <skos:altLabel xml:lang="el">Ευρωπαϊκές Κοινότητες</skos:altLabel>
+      <skos:altLabel xml:lang="en">European Communities</skos:altLabel>
+      <skos:altLabel xml:lang="es">Comunidades Europeas</skos:altLabel>
+      <skos:altLabel xml:lang="et">Euroopa ühendused</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Euroopan yhteisöt</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Communautés européennes</skos:altLabel>
+      <skos:altLabel xml:lang="ga">Na Comhphobail Eorpacha</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Europske zajednice</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Európai Közösségek</skos:altLabel>
+      <skos:altLabel xml:lang="it">Comunità europee</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Europos Bendrijos</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Eiropas Kopienas</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Komunitajiet Ewropej</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Europese Gemeenschappen</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Wspólnoty Europejskie</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Comunidades Europeias</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Comunitățile Europene</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Európske spoločenstvá</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Evropske skupnosti</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Europeiska gemenskaperna</skos:altLabel>
+      <skos:definition xml:lang="en">As one of the three parts in a string identifying a legal act, the domain EC refers to the European Communities as set out in the Treaty on European Union signed in 1992 (Treaty of Maastricht). This treaty opened a new stage in the European integration with political integration and three pillars consisting of the European Communities, common foreign and security policy and cooperation in the fields of justice and home affairs. This domain was used from 1 November 1993 until 1 December 2009 (date of entry into force of the Treaty of Lisbon) and replaced by EU.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/legal-act-domain"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/legal-act-domain"/>
+      <at:end.use>2009-11-30</at:end.use>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/legal-act-domain/ECSC"
+                 at:deprecated="true">
+      <skos:prefLabel xml:lang="bg">ЕОВС</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">ESUO</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">EKSF</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">EGKS</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">ΕΚΑΧ</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">ECSC</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">CECA</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">ESTÜ</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">EHTY</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">CECA</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">CEGC</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">EZUČ</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">ESZAK</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">CECA</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">EAPB</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">EOTK</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">KEFA</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">EGKS</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">EWWiS</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">CECA</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">CECO</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">ESUO</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">ESPJ</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">EKSG</skos:prefLabel>
+      <at:authority-code>ECSC</at:authority-code>
+      <at:op-code>ECSC</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>ECSC</atold:op-code>
+      <dc:identifier>ECSC</dc:identifier>
+      <skos:altLabel xml:lang="bg">Европейска общност за въглища и стомана</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Evropské společenství uhlí a oceli</skos:altLabel>
+      <skos:altLabel xml:lang="da">Det Europæiske Kul- og Stålfællesskab</skos:altLabel>
+      <skos:altLabel xml:lang="de">Europäische Gemeinschaft für Kohle und Stahl</skos:altLabel>
+      <skos:altLabel xml:lang="el">Ευρωπαϊκή Κοινότητα Άνθρακα και Χάλυβα</skos:altLabel>
+      <skos:altLabel xml:lang="en">European Coal and Steel Community</skos:altLabel>
+      <skos:altLabel xml:lang="es">Comunidad Europea del Carbón y del Acero</skos:altLabel>
+      <skos:altLabel xml:lang="et">Euroopa Söe- ja Teraseühendus</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Euroopan hiili- ja teräsyhteisö</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Communauté européenne du charbon et de l’acier</skos:altLabel>
+      <skos:altLabel xml:lang="ga">An Comhphobal Eorpach do Ghual agus Cruach</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Europska zajednica za ugljen i čelik</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Európai Szén- és Acélközösség</skos:altLabel>
+      <skos:altLabel xml:lang="it">Comunità europea del carbone e dell’acciaio</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Europos anglių ir plieno bendrija</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Eiropas Ogļu un tērauda kopiena</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Il-Komunità Ewropea tal-Faħam u l-Azzar</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Europese Gemeenschap voor Kolen en Staal</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Europejska Wspólnota Węgla i Stali</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Comunidade Europeia do Carvão e do Aço</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Comunitatea Europeană a Cărbunelui şi Oţelului</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Európske spoločenstvo uhlia a ocele</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Evropska skupnost za premog in jeklo</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Europeiska kol- och stålgemenskapen</skos:altLabel>
+      <skos:definition xml:lang="en">As one of the three parts in a string identifying a legal act, the domain ECSC refers to the European Coal and Steel Community as set out in the Treaty establishing the European Coal and Steel Community signed in 1957. The aim of this treaty was to organise free movement of coal and steel and free access to sources of production. This domain was used until 1 November 1993 (date of entry into force of the Treaty of Maastricht).</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/legal-act-domain"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/legal-act-domain"/>
+      <at:end.use>1993-10-31</at:end.use>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/legal-act-domain/EEC"
+                 at:deprecated="true">
+      <skos:prefLabel xml:lang="bg">ЕИО</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">EHS</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">EØF</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">EWG</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">ΕΟΚ</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">EEC</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">CEE</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">EMÜ</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">ETY</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">CEE</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">CEE</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">EEZ</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">EGK</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">CEE</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">EEB</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">EEK</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">KEE</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">EEG</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">EWG</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">CEE</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">CEE</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">EHS</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">EGS</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">EEG</skos:prefLabel>
+      <at:authority-code>EEC</at:authority-code>
+      <at:op-code>EEC</at:op-code>
+      <at:start.use>1958-01-01</at:start.use>
+      <atold:op-code>EEC</atold:op-code>
+      <dc:identifier>EEC</dc:identifier>
+      <skos:altLabel xml:lang="bg">Eвропейска икономическа общност</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Evropské hospodářské společenství</skos:altLabel>
+      <skos:altLabel xml:lang="da">Det Europæiske Økonomiske Fællesskab</skos:altLabel>
+      <skos:altLabel xml:lang="de">Europäische Wirtschaftsgemeinschaft</skos:altLabel>
+      <skos:altLabel xml:lang="el">Ευρωπαϊκή Οικονομική Κοινότητα</skos:altLabel>
+      <skos:altLabel xml:lang="en">European Economic Community</skos:altLabel>
+      <skos:altLabel xml:lang="es">Comunidad Económica Europea</skos:altLabel>
+      <skos:altLabel xml:lang="et">Euroopa Majandusühendus</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Euroopan talousyhteisö</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Communauté économique européenne</skos:altLabel>
+      <skos:altLabel xml:lang="ga">Comhphobal Eacnamaíochta na hEorpa</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Europska ekonomska zajednica</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Európai Gazdasági Közösség</skos:altLabel>
+      <skos:altLabel xml:lang="it">Comunità economica europea</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Europos ekonominė bendrija</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Eiropas Ekonomikas kopiena</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Il-Komunità Ekonomika Ewropea</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Europese Economische Gemeenschap</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Europejska Wspólnota Gospodarcza</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Comunidade Económica Europeia</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Comunitatea Economică Europeană</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Európske hospodárske spoločenstvo</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Evropska gospodarska skupnost</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Europeiska ekonomiska gemenskapen</skos:altLabel>
+      <skos:definition xml:lang="en">As one of the three parts in a string identifying a legal act, the domain EEC refers to the European Economic Community as set out in the Treaty establishing the European Economic Community signed in 1957 (Treaty of Rome). The aim of EEC was to achieve integration via trade with a view to economic expansion. This domain was used until 1 November 1993 (date of entry into force of the Treaty of Maastricht) and replaced by EC.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/legal-act-domain"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/legal-act-domain"/>
+      <at:end.use>1993-10-31</at:end.use>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/legal-act-domain/EU"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">ЕС</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">EU</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">EU</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">EU</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">ΕΕ</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">EU</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">UE</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">EL</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">EU</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">UE</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">AE</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">EU</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">EU</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">UE</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">ES</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">ES</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">UE</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">EU</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">UE</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">UE</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">UE</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">EÚ</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">EU</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">EU</skos:prefLabel>
+      <at:authority-code>EU</at:authority-code>
+      <at:op-code>EU</at:op-code>
+      <at:start.use>2009-12-01</at:start.use>
+      <atold:op-code>EU</atold:op-code>
+      <dc:identifier>EU</dc:identifier>
+      <skos:altLabel xml:lang="bg">Европейски съюз</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Evropská unie</skos:altLabel>
+      <skos:altLabel xml:lang="da">Den Europæiske Union</skos:altLabel>
+      <skos:altLabel xml:lang="de">Europäische Union</skos:altLabel>
+      <skos:altLabel xml:lang="el">Ευρωπαϊκή Ένωση</skos:altLabel>
+      <skos:altLabel xml:lang="en">European Union</skos:altLabel>
+      <skos:altLabel xml:lang="es">Unión Europea</skos:altLabel>
+      <skos:altLabel xml:lang="et">Euroopa Liit</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Euroopan unioni</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Union européenne</skos:altLabel>
+      <skos:altLabel xml:lang="ga">An tAontas Eorpach</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Europska unija</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Európai Unió</skos:altLabel>
+      <skos:altLabel xml:lang="it">Unione europea</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Europos Sąjunga</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Eiropas Savienība</skos:altLabel>
+      <skos:altLabel xml:lang="mt">L-Unjoni Ewropea</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Europese Unie</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Unia Europejska</skos:altLabel>
+      <skos:altLabel xml:lang="pt">União Europeia</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Uniunea Europeană</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Európska únia</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Evropska unija</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Europeiska unionen</skos:altLabel>
+      <skos:definition xml:lang="en">As one of the three parts in a string identifying a legal act, the domain EU refers to the European Union as set out in the Treaty of Lisbon signed in 2009. This treaty is a reform treaty amending the two treaties which form the constitutional basis of the European Union (TEU and TFEU). This domain was introduced on 1 December 2009 and is still current.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/legal-act-domain"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/legal-act-domain"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/legal-act-domain/EURATOM"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Евратом</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Euratom</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Euratom</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Euratom</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Ευρατόμ</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Euratom</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Euratom</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Euratom</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Euratom</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Euratom</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Euratom</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Euratom</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Euratom</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Euratom</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Euratomas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Euratom</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Euratom</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Euratom</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Euratom</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Euratom</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Euratom</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Euratom</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Euratom</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Euratom</skos:prefLabel>
+      <at:authority-code>EURATOM</at:authority-code>
+      <at:op-code>EURATOM</at:op-code>
+      <at:start.use>1958-01-01</at:start.use>
+      <atold:op-code>EURATOM</atold:op-code>
+      <dc:identifier>EURATOM</dc:identifier>
+      <skos:altLabel xml:lang="bg">Европейска общност за атомна енергия</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Evropské společenství pro atomovou energii</skos:altLabel>
+      <skos:altLabel xml:lang="da">Det Europæiske Atomenergifællesskab</skos:altLabel>
+      <skos:altLabel xml:lang="de">Europäische Atomgemeinschaft</skos:altLabel>
+      <skos:altLabel xml:lang="el">Ευρωπαϊκή Κοινότητα Ατομικής Ενέργειας</skos:altLabel>
+      <skos:altLabel xml:lang="en">European Atomic Energy Community</skos:altLabel>
+      <skos:altLabel xml:lang="es">Comunidad Europea de la Energía Atómica</skos:altLabel>
+      <skos:altLabel xml:lang="et">Euroopa Aatomienergiaühendus</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Euroopan atomienergiayhteisö</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Communauté européenne de l’énergie atomique</skos:altLabel>
+      <skos:altLabel xml:lang="ga">An Comhphobal Eorpach do Fhuinneamh Adamhach</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Europska zajednica za atomsku energiju</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Európai Atomenergia-közösség</skos:altLabel>
+      <skos:altLabel xml:lang="it">Comunità europea dell’energia atomica</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Europos atominės energijos bendrija</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Eiropas Atomenerģijas kopiena</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Il-Komunità Ewropea tal-Enerġija Atomika</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Europese Gemeenschap voor Atoomenergie</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Europejska Wspólnota Energii Atomowej</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Comunidade Europeia da Energia Atómica</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Comunitatea Europeană a Energiei Atomice</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Európske spoločenstvo pre atómovú energiu</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Evropska skupnost za atomsko energijo</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Europeiska atomenergigemenskapen</skos:altLabel>
+      <skos:definition xml:lang="en">As one of the three parts in a string identifying a legal act, the domain EURATOM refers to the European Atomic Energy Community as set out in the Treaty establishing the European Atomic Energy Community signed in 1957. This treaty was created to coordinate the Member States’ research programmes for the peaceful use of nuclear energy. This domain is still current.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/legal-act-domain"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/legal-act-domain"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/legal-act-domain/JHA"
+                 at:deprecated="true">
+      <skos:prefLabel xml:lang="bg">ПВР</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">SVV</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">RIA</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">JI</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">ΔΕΥ</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">JHA</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">JAI</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">JSK</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">YOS</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">JAI</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">CGB</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">PUP</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">IB</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">GAI</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">TVR</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">TI</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">ĠAI</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">JBZ</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">WSiSW</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">JAI</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">JAI</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">SVV</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">PNZ</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">RIF</skos:prefLabel>
+      <at:authority-code>JHA</at:authority-code>
+      <at:op-code>JHA</at:op-code>
+      <at:start.use>1993-11-01</at:start.use>
+      <atold:op-code>JHA</atold:op-code>
+      <dc:identifier>JHA</dc:identifier>
+      <skos:altLabel xml:lang="bg">Правосъдие и вътрешни работи</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Spravedlnost a vnitřní záležitosti</skos:altLabel>
+      <skos:altLabel xml:lang="da">Retlige og indre anliggender</skos:altLabel>
+      <skos:altLabel xml:lang="de">Justiz und Inneres</skos:altLabel>
+      <skos:altLabel xml:lang="el">Δικαιοσύνη και εσωτερικές υποθέσεις</skos:altLabel>
+      <skos:altLabel xml:lang="en">Justice and home affairs</skos:altLabel>
+      <skos:altLabel xml:lang="es">Justicia y asuntos de interior</skos:altLabel>
+      <skos:altLabel xml:lang="et">Justiits- ja siseküsimused</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Yhteistyö oikeus- ja sisäasioissa</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Justice et affaires intérieures</skos:altLabel>
+      <skos:altLabel xml:lang="ga">Ceartas agus Gnóthaí Baile</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Pravosuđe i unutarnji poslovi</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Bel- és igazságügy</skos:altLabel>
+      <skos:altLabel xml:lang="it">Giustizia e affari interni</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Teisingumo ir vidaus reikalai</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Tieslietas un iekšlietas</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Ġustizzja u affarijiet interni</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Justitie en binnenlandse zaken</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Sprawiedliwość i sprawy wewnętrzne</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Justiça e assuntos internos</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Justiţie şi afaceri interne</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Spravodlivosť a domáce veci</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Pravosodje in notranje zadeve</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Rättsliga och inrikes frågor</skos:altLabel>
+      <skos:definition xml:lang="en">As one of the three parts in a string identifying a legal act, the domain JHA refers to Justice and home affairs as set out in the Treaty on European Union signed in 1992 (Treaty of Maastricht). The Justice and Home Affairs Council develops cooperation and common policies on various cross-border issues, with the aim of building an EU-wide area of freedom, security and justice. This domain was used from 1 November 1993 until 1 December 2009 (date of entry into force of the Treaty of Lisbon).</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/legal-act-domain"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/legal-act-domain"/>
+      <at:end.use>2009-11-30</at:end.use>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/legal-act-domain/OP_DATPRO"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">НЕОКОНЧАТЕЛНИ ДАННИ</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Předběžné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Midlertidige data</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Vorläufige Daten</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Προσωρινά δεδομένα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Provisional data</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Datos provisionales</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Esialgsed andmed</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Alustavat tiedot</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Données provisoires</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Sonraí sealadacha</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Privremeni podaci</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Ideiglenes adatok</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Dati provvisori</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Laikinieji duomenys</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Provizoriski dati</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Dejta provviżorja</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Voorlopige gegevens</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Dane tymczasowe</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Dados provisórios</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Date provizorii</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Predbežné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Začasni podatki</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Tillfälliga uppgifter</skos:prefLabel>
+      <at:authority-code>OP_DATPRO</at:authority-code>
+      <at:op-code>OP_DATPRO</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>OP_DATPRO</atold:op-code>
+      <dc:identifier>OP_DATPRO</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/legal-act-domain"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/legal-act-domain"/>
+   </skos:Concept>
+</rdf:RDF>

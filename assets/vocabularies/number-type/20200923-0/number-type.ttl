@@ -1,0 +1,145 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/number-type/CARDINAL> a skos:Concept ;
+    at:authority-code "CARDINAL" ;
+    at:deprecated "false" ;
+    at:op-code "CARDINAL" ;
+    at:start.use "2014-11-26" ;
+    atold:op-code "CARDINAL" ;
+    dc:identifier "CARDINAL" ;
+    skos:altLabel "кардинално число"@bg,
+        "základní číslovka"@cs,
+        "kardinaltal"@da,
+        "απόλυτος αριθμός"@el,
+        "cardinal number"@en,
+        "número cardinal"@es,
+        "kardinaalarv"@et,
+        "nombre cardinal"@fr,
+        "tőszámnév"@hu,
+        "numero cardinale"@it,
+        "kiekinis skaitvardis"@lt,
+        "numru kardinali"@mt,
+        "numeral cardinal"@pt,
+        "numeral cardinal"@ro,
+        "základná číslovka"@sk,
+        "glavni števnik"@sl,
+        "kardinaltal"@sv ;
+    skos:inScheme atold:number-type ;
+    skos:prefLabel "кардинал"@bg,
+        "základní"@cs,
+        "kardinal"@da,
+        "Kardinalzahl"@de,
+        "απόλυτο"@el,
+        "cardinal"@en,
+        "cardinal"@es,
+        "kardinaal"@et,
+        "perusluku"@fi,
+        "cardinal"@fr,
+        "bunuimhir"@ga,
+        "glavni broj"@hr,
+        "tőszám"@hu,
+        "cardinale"@it,
+        "kiekinis"@lt,
+        "skaitlis"@lv,
+        "kardinali"@mt,
+        "hoofdtelwoord"@nl,
+        "liczebnik główny"@pl,
+        "cardinal"@pt,
+        "cardinal"@ro,
+        "základná"@sk,
+        "glavni"@sl,
+        "grundtal"@sv .
+
+<http://publications.europa.eu/resource/authority/number-type/OP_DATPRO> a skos:Concept ;
+    at:op-code "OP_DATPRO" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:number-type ;
+    skos:prefLabel "НЕОКОНЧАТЕЛНИ ДАННИ"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv .
+
+<http://publications.europa.eu/resource/authority/number-type/ORDINAL> a skos:Concept ;
+    at:authority-code "ORDINAL" ;
+    at:deprecated "false" ;
+    at:op-code "ORDINAL" ;
+    at:start.use "2014-11-26" ;
+    atold:op-code "ORDINAL" ;
+    dc:identifier "ORDINAL" ;
+    skos:altLabel "ординално число"@bg,
+        "řadová číslovka"@cs,
+        "ordenstal"@da,
+        "αύξων αριθμός"@el,
+        "ordinal number"@en,
+        "número ordinal"@es,
+        "ordinaalarv"@et,
+        "nombre ordinal"@fr,
+        "sorszámnév"@hu,
+        "numero ordinale"@it,
+        "kelintinis skaitvardis"@lt,
+        "numru ordinali"@mt,
+        "numeral ordinal"@pt,
+        "numeral ordinal"@ro,
+        "radová číslovka"@sk,
+        "vrstilni števnik"@sl,
+        "räkneord som betecknar ordningsföljd"@sv ;
+    skos:inScheme atold:number-type ;
+    skos:prefLabel "ординал"@bg,
+        "řadové"@cs,
+        "ordinal"@da,
+        "Ordinalzahl"@de,
+        "αύξων"@el,
+        "ordinal"@en,
+        "ordinal"@es,
+        "ordinaal"@et,
+        "järjestysluku"@fi,
+        "ordinal"@fr,
+        "orduimhir"@ga,
+        "redni broj"@hr,
+        "sorszám"@hu,
+        "ordinale"@it,
+        "kelintinis"@lt,
+        "kārtas skaitlis"@lv,
+        "ordinali"@mt,
+        "rangtelwoord"@nl,
+        "liczebnik porządkowy"@pl,
+        "ordinal"@pt,
+        "ordinal"@ro,
+        "radová"@sk,
+        "vrstilni"@sl,
+        "ordningstal"@sv .
+
+atold:number-type a skos:ConceptScheme ;
+    rdfs:label "Number type"@en ;
+    at:prefLabel "Number type"@en ;
+    at:table.id "number-type" ;
+    at:table.version.number "20200923-0" ;
+    owl:versionInfo "20200923-0" ;
+    skos:prefLabel "Number type"@en .
+

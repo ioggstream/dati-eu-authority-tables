@@ -1,0 +1,121 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/publication-accessibility/EASY> a skos:Concept ;
+    at:authority-code "EASY" ;
+    at:deprecated "false" ;
+    at:op-code "EASY" ;
+    at:start.use "2021-12-08" ;
+    atold:op-code "EASY" ;
+    dc:identifier "EASY" ;
+    skos:definition "Publications adapted for people with difficulties related to understanding texts, such as learning disabilities, cognitive disorders, DYS disorders, dyslexia, dysgraphia, ADD/ADHD, literacy difficulties."@en,
+        "Publications adaptées aux personnes ayant des difficultés liées à la compréhension des textes du fait de troubles de l'apprentissage, de troubles cognitifs, de troubles DYS, de dyslexie, de dysgraphie, de TDA/H, ou du manque de maîtrise de la lecture."@fr ;
+    skos:inScheme atold:publication-accessibility ;
+    skos:prefLabel "лесен за четене"@bg,
+        "snadno čitelné a srozumitelné"@cs,
+        "letlæselig"@da,
+        "einfache Sprache"@de,
+        "εύληπτη μορφή"@el,
+        "easy-to-read"@en,
+        "lectura fácil"@es,
+        "kergesti loetav"@et,
+        "selkokielinen"@fi,
+        "facile à lire"@fr,
+        "soléite"@ga,
+        "lako razumljivo"@hr,
+        "könnyen érthető"@hu,
+        "di facile lettura"@it,
+        "supaprastinta"@lt,
+        "viegli lasāms"@lv,
+        "faċli tinqara"@mt,
+        "gemakkelijk te begrijpen"@nl,
+        "łatwy do czytania i zrozumienia"@pl,
+        "de leitura fácil"@pt,
+        "ușor de citit"@ro,
+        "ľahko čitateľné"@sk,
+        "lahko berljivo"@sl,
+        "lättläst"@sv ;
+    skos:topConceptOf atold:publication-accessibility .
+
+<http://publications.europa.eu/resource/authority/publication-accessibility/OPTIM> a skos:Concept ;
+    at:authority-code "OPTIM" ;
+    at:deprecated "false" ;
+    at:op-code "OPTIM" ;
+    at:start.use "2021-12-08" ;
+    atold:op-code "OPTIM" ;
+    dc:identifier "OPTIM" ;
+    skos:definition "Publications designed for people with visual impairments and difficulties reading print. Publications that comply with the standards and recommendations of the Web Content Accessibility Guidelines (WCAG)."@en,
+        "Publications conçues pour les personnes déficientes visuelles ayant des difficultés à lire des caractères imprimés. Publications qui respectent les standards et les recommandations promus par le Web Content Accessibility Guidelines (WCAG)."@fr ;
+    skos:inScheme atold:publication-accessibility ;
+    skos:prefLabel "оптимизирано за достъпност"@bg,
+        "optimalizováno v zájmu lepší přístupnosti"@cs,
+        "lettilgængelig"@da,
+        "optimiert für Barrierefreiheit"@de,
+        "βελτιστοποίηση για λόγους προσβασιμότητας"@el,
+        "optimised for accessibility"@en,
+        "accesibilidad optimizada"@es,
+        "juurdepääsetavuse seisukohast optimeeritud"@et,
+        "saavutettavuus optimoitu"@fi,
+        "optimisé pour une meilleure accessibilité"@fr,
+        "barrfheabhsaithe ó thaobh inrochtana de"@ga,
+        "optimizirano za pristupačnost"@hr,
+        "akadálymentességre optimalizálva"@hu,
+        "ottimizzato per l’accessibilità"@it,
+        "optimalaus prieinamumo"@lt,
+        "optimizēts pieejamībai"@lv,
+        "ottimizzata għall-aċċessibbiltà"@mt,
+        "geoptimaliseerd voor toegankelijkheid"@nl,
+        "zoptymalizowany pod względem dostępności"@pl,
+        "acessibilidade melhorada"@pt,
+        "optimizată pentru accesibilitate"@ro,
+        "optimalizované pre lepší prístup"@sk,
+        "optimizirano za dostopnost"@sl,
+        "optimerad för tillgänglighet"@sv ;
+    skos:topConceptOf atold:publication-accessibility .
+
+<http://publications.europa.eu/resource/authority/publication-accessibility/OP_DATPRO> a skos:Concept ;
+    at:authority-code "OP_DATPRO" ;
+    at:deprecated "false" ;
+    at:op-code "OP_DATPRO" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:publication-accessibility ;
+    skos:prefLabel "НЕОКОНЧАТЕЛНИ ДАННИ"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv ;
+    skos:topConceptOf atold:publication-accessibility .
+
+atold:publication-accessibility a skos:ConceptScheme ;
+    rdfs:label "Publication accessibility"@en ;
+    at:prefLabel "Publication accessibility"@en ;
+    at:table.id "publication-accessibility" ;
+    at:table.version.number "20211208-0" ;
+    owl:versionInfo "20211208-0" ;
+    skos:prefLabel "Publication accessibility"@en .
+

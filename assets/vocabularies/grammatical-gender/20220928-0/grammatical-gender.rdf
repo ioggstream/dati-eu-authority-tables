@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:at="http://publications.europa.eu/ontology/authority/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:atold="http://publications.europa.eu/resource/authority/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xml:base="http://publications.europa.eu/resource/authority/grammatical-gender">
+   <skos:ConceptScheme rdf:about="http://publications.europa.eu/resource/authority/grammatical-gender"
+                       at:table.id="grammatical-gender"
+                       at:table.version.number="20220928-0">
+      <at:prefLabel xml:lang="en">Grammatical gender</at:prefLabel>
+      <rdfs:label xml:lang="en">Grammatical gender</rdfs:label>
+      <owl:versionInfo>20220928-0</owl:versionInfo>
+      <skos:prefLabel xml:lang="en">Grammatical gender</skos:prefLabel>
+   </skos:ConceptScheme>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/grammatical-gender/F"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Женски род</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Ženský rod</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Hunkøn</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Femininum</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Θηλυκό</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Feminine</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Femenino</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Naissoost</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Feminiini</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Féminin</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Baineann</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Ženski rod</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Nőnem</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Femminile</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Moteriškoji</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Sieviešu</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Femminil</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Vrouwelijk</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Rodzaj żeński</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Feminino</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Feminin</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Ženský rod</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Ženski spol</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Femininum</skos:prefLabel>
+      <at:authority-code>F</at:authority-code>
+      <at:op-code>F</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>F</atold:op-code>
+      <dc:identifier>F</dc:identifier>
+      <skos:definition xml:lang="en">Of, pertaining or belonging to the female grammatical gender, in languages that have gender distinctions.</skos:definition>
+      <skos:exactMatch rdf:resource="http://www.lexvo.org/page/term/eng/feminine"/>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/grammatical-gender"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/grammatical-gender"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/grammatical-gender/G"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Общ</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Pro všechny rody</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Generisk</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Generisch</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Γενικό</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Generic</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Genérico</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Geneeriline</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Geneerinen</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Générique</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Cineálach</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Općenito</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Általános</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Generico</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Bendra</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Vispārējs</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Ġeneriku</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Onveranderlijk</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Generyczny</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Comum de dois</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Generic</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Generické</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Generičen</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Generisk</skos:prefLabel>
+      <at:authority-code>G</at:authority-code>
+      <at:op-code>G</at:op-code>
+      <at:start.use>2021-02-18</at:start.use>
+      <atold:op-code>G</atold:op-code>
+      <dc:identifier>G</dc:identifier>
+      <skos:definition xml:lang="en">‘Generic’ is used to mark forms used for more grammatical genders in languages that make gender distinctions.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/grammatical-gender"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/grammatical-gender"/>
+      <skos:example xml:lang="en">The French adjective ‘belge’ can be masculine or feminine. The Dutch adjective ‘Belgische’ can be masculine, feminine or neuter while the form ‘Belgisch’ is neuter. The Romanian adjective ‘belgian’ can be masculine or neuter while the ‘belgiană’ form is feminine.</skos:example>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/grammatical-gender/M"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Мъжки род</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Mužský rod</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Hankøn</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Maskulinum</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Αρσενικό</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Masculine</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Masculino</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Meessoost</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Maskuliini</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Masculin</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Fireann</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Muški rod</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Hímnem</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Maschile</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Vyriškoji</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Vīriešu</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Maskil</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Mannelijk</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Rodzaj męski</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Masculino</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Masculin</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Mužský rod</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Moški spol</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Maskulinum</skos:prefLabel>
+      <at:authority-code>M</at:authority-code>
+      <at:op-code>M</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>M</atold:op-code>
+      <dc:identifier>M</dc:identifier>
+      <skos:definition xml:lang="en">Of, pertaining or belonging to the male grammatical gender, in languages that have gender distinctions.</skos:definition>
+      <skos:exactMatch rdf:resource="http://www.lexvo.org/page/term/eng/masculine"/>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/grammatical-gender"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/grammatical-gender"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/grammatical-gender/N"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Среден род</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Střední rod</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Intetkøn</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Neutrum</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Ουδέτερο</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Neuter</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Neutro</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Kesksoost</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Neutri</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Neutre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Neodrach</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Srednji rod</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Semlegesnem</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Neutro</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Bevardė</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Neitrāls</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Newtru</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Onzijdig</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Rodzaj nijaki</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Neutro</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Neutru</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Stredný rod</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Srednji spol</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Neutrum</skos:prefLabel>
+      <at:authority-code>N</at:authority-code>
+      <at:op-code>N</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>N</atold:op-code>
+      <dc:identifier>N</dc:identifier>
+      <skos:definition xml:lang="en">Having a form which is not masculine nor feminine.</skos:definition>
+      <skos:exactMatch rdf:resource="http://www.lexvo.org/page/term/eng/neuter"/>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/grammatical-gender"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/grammatical-gender"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/grammatical-gender/OP_DATPRO"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Неокончателни данни</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Předběžné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Midlertidige data</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Vorläufige Daten</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Προσωρινά δεδομένα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Provisional data</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Datos provisionales</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Esialgsed andmed</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Alustavat tiedot</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Données provisoires</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Sonraí sealadacha</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Privremeni podaci</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Ideiglenes adatok</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Dati provvisori</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Laikinieji duomenys</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Provizoriski dati</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Dejta provviżorja</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Voorlopige gegevens</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Dane tymczasowe</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Dados provisórios</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Date provizorii</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Predbežné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Začasni podatki</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Tillfälliga uppgifter</skos:prefLabel>
+      <at:authority-code>OP_DATPRO</at:authority-code>
+      <at:op-code>OP_DATPRO</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>OP_DATPRO</atold:op-code>
+      <dc:identifier>OP_DATPRO</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/grammatical-gender"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/grammatical-gender"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/grammatical-gender/U"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Utrum</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Společný rod</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Fælleskøn</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Utrum</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Utrum</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Utrum</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Común</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Ühissoost</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Utrum</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Utrum</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Utrum</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Zajednički rod</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Utrum</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Comune</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Bendroji</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Utrum</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Utrum</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Gemeenschappelijk</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Utrum</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Comum</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Comun (utrum)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Spoločný rod</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Splošni spol</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Utrum</skos:prefLabel>
+      <at:authority-code>U</at:authority-code>
+      <at:op-code>U</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>U</atold:op-code>
+      <dc:identifier>U</dc:identifier>
+      <skos:definition xml:lang="en">Noun class for a common gender, used in Danish and Swedish.</skos:definition>
+      <skos:exactMatch rdf:resource="http://www.lexvo.org/page/term/eng/utrum"/>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/grammatical-gender"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/grammatical-gender"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/grammatical-gender/Z"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Без род</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Kategorie rodu neexistuje</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Intet køn</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Kein Geschlecht</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Δεν υπάρχει φύλο</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">No gender</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Sin género</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Sooline eristamine puudub</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Ei sukua</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Sans genre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Gan inscne</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Bez roda</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Nyelvtani nem nélküli</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Nessun genere</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Nėra gramatinės giminės</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Nav dzimtes</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Ebda ġeneru</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Geen geslacht</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Bez rodzaju</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Sem marcação de género</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Fără diferență de gen</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Bez pohlavia</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Brez spola</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Inget genus</skos:prefLabel>
+      <at:authority-code>Z</at:authority-code>
+      <at:op-code>Z</at:op-code>
+      <at:start.use>2021-02-18</at:start.use>
+      <atold:op-code>Z</atold:op-code>
+      <dc:identifier>Z</dc:identifier>
+      <skos:definition xml:lang="en">‘No gender’ is used to mark labels in languages that do not have gender distinctions.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/grammatical-gender"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/grammatical-gender"/>
+   </skos:Concept>
+</rdf:RDF>

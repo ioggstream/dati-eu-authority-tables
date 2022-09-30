@@ -1,0 +1,189 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE> a skos:Concept ;
+    at:authority-code "AVAILABLE" ;
+    at:deprecated "false" ;
+    at:op-code "AVAILABLE" ;
+    at:start.use "2021-12-08" ;
+    atold:op-code "AVAILABLE" ;
+    dc:identifier "AVAILABLE" ;
+    skos:definition "Data is available for a few years, medium term planning."@en ;
+    skos:inScheme atold:planned-availability ;
+    skos:prefLabel "налични"@bg,
+        "k dispozici"@cs,
+        "til rådighed"@da,
+        "verfügbar"@de,
+        "διαθέσιμα"@el,
+        "available"@en,
+        "disponible"@es,
+        "kättesaadav"@et,
+        "saatavilla"@fi,
+        "disponible"@fr,
+        "ar fáil"@ga,
+        "dostupan"@hr,
+        "elérhető"@hu,
+        "disponibile"@it,
+        "yra"@lt,
+        "pieejams"@lv,
+        "disponibbli"@mt,
+        "beschikbaar"@nl,
+        "dostępne"@pl,
+        "disponível"@pt,
+        "disponibil"@ro,
+        "dostupné"@sk,
+        "na voljo"@sl,
+        "tillgänglig"@sv ;
+    skos:topConceptOf atold:planned-availability .
+
+<http://publications.europa.eu/resource/authority/planned-availability/EXPERIMENTAL> a skos:Concept ;
+    at:authority-code "EXPERIMENTAL" ;
+    at:deprecated "false" ;
+    at:op-code "EXPERIMENTAL" ;
+    at:start.use "2021-12-08" ;
+    atold:op-code "EXPERIMENTAL" ;
+    dc:identifier "EXPERIMENTAL" ;
+    skos:definition "Data is available on a trial basis for a short period, short term planning."@en ;
+    skos:inScheme atold:planned-availability ;
+    skos:prefLabel "експериментални"@bg,
+        "experimentální"@cs,
+        "eksperimentel"@da,
+        "experimentell"@de,
+        "πειραματικά"@el,
+        "experimental"@en,
+        "experimental"@es,
+        "eksperimentaalne"@et,
+        "kokeellinen"@fi,
+        "expérimental"@fr,
+        "turgnamhach"@ga,
+        "eksperimentalan"@hr,
+        "kísérleti"@hu,
+        "sperimentale"@it,
+        "eksperimentiniai"@lt,
+        "eksperimentāls"@lv,
+        "sperimentali"@mt,
+        "experimenteel"@nl,
+        "eksperymentalne"@pl,
+        "experimental"@pt,
+        "experimental"@ro,
+        "experimentálne"@sk,
+        "poskusno"@sl,
+        "experimentell"@sv ;
+    skos:topConceptOf atold:planned-availability .
+
+<http://publications.europa.eu/resource/authority/planned-availability/OP_DATPRO> a skos:Concept ;
+    at:authority-code "OP_DATPRO" ;
+    at:deprecated "false" ;
+    at:op-code "OP_DATPRO" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:planned-availability ;
+    skos:prefLabel "НЕОКОНЧАТЕЛНИ ДАННИ"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv ;
+    skos:topConceptOf atold:planned-availability .
+
+<http://publications.europa.eu/resource/authority/planned-availability/STABLE> a skos:Concept ;
+    at:authority-code "STABLE" ;
+    at:deprecated "false" ;
+    at:op-code "STABLE" ;
+    at:start.use "2021-12-08" ;
+    atold:op-code "STABLE" ;
+    dc:identifier "STABLE" ;
+    skos:definition "Data will remain available in the long term."@en ;
+    skos:inScheme atold:planned-availability ;
+    skos:prefLabel "стабилни"@bg,
+        "stabilní"@cs,
+        "stabil"@da,
+        "stabil"@de,
+        "σταθερά"@el,
+        "stable"@en,
+        "estable"@es,
+        "püsiv"@et,
+        "vakaa"@fi,
+        "stable"@fr,
+        "cobhsaí"@ga,
+        "stabilan"@hr,
+        "stabil"@hu,
+        "stabile"@it,
+        "stabilūs"@lt,
+        "stabils"@lv,
+        "stabbli"@mt,
+        "stabiel"@nl,
+        "stabilne"@pl,
+        "estável"@pt,
+        "stabil"@ro,
+        "stabilné"@sk,
+        "stabilen"@sl,
+        "stabil"@sv ;
+    skos:topConceptOf atold:planned-availability .
+
+<http://publications.europa.eu/resource/authority/planned-availability/TEMPORARY> a skos:Concept ;
+    at:authority-code "TEMPORARY" ;
+    at:deprecated "false" ;
+    at:op-code "TEMPORARY" ;
+    at:start.use "2021-12-08" ;
+    atold:op-code "TEMPORARY" ;
+    dc:identifier "TEMPORARY" ;
+    skos:definition "Data can disappear at any time, no planning."@en ;
+    skos:inScheme atold:planned-availability ;
+    skos:prefLabel "временни"@bg,
+        "přechodný"@cs,
+        "midlertidig"@da,
+        "temporär"@de,
+        "προσωρινά"@el,
+        "temporary"@en,
+        "temporal"@es,
+        "ajutine"@et,
+        "väliaikainen"@fi,
+        "temporaire"@fr,
+        "sealadach"@ga,
+        "privremen"@hr,
+        "ideiglenes"@hu,
+        "temporaneo"@it,
+        "laikini"@lt,
+        "pagaidu"@lv,
+        "temporanju"@mt,
+        "tijdelijk"@nl,
+        "tymczasowe"@pl,
+        "temporário"@pt,
+        "temporar"@ro,
+        "dočasné"@sk,
+        "začasno"@sl,
+        "temporär"@sv ;
+    skos:topConceptOf atold:planned-availability .
+
+atold:planned-availability a skos:ConceptScheme ;
+    rdfs:label "Planned availability"@en ;
+    at:prefLabel "Planned availability"@en ;
+    at:table.id "planned-availability" ;
+    at:table.version.number "20211208-0" ;
+    owl:versionInfo "20211208-0" ;
+    skos:prefLabel "Planned availability"@en .
+

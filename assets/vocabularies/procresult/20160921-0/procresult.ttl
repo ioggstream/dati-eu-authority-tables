@@ -1,0 +1,1077 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/procresult/ADJ> a skos:Concept ;
+    at:authority-code "ADJ" ;
+    at:deprecated "false" ;
+    at:op-code "ADJ" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "REVI=AJ" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "FONC=AJ" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "REFE=AJ" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "TIER=AJ" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "RECT=AJ" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "CONS=AJ" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "AVIS=AJ" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "INST=AJ" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "CARE=AJ" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "COMP=AJ" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "INTV=AJ" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "ANNU=AJ" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "PREJ=AJ" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "RESP=AJ" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "IMMU=AJ" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "SANC=AJ" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "INTE=AJ" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "DELI=AJ" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "PVOI=AJ" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "DPEN=AJ" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "ASSI=AJ" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "OPPO=AJ" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "ADJ" ;
+    dc:identifier "ADJ" ;
+    skos:inScheme atold:procresult ;
+    skos:prefLabel "Отлагане"@bg,
+        "Odročený"@cs,
+        "Udsat"@da,
+        "Vertagung"@de,
+        "Αναβολή"@el,
+        "Adjourned"@en,
+        "Aplazado"@es,
+        "Istung on edasi lükatud"@et,
+        "Istuntoa on siirretty"@fi,
+        "Ajourné"@fr,
+        "Ar atráth"@ga,
+        "Odgoda"@hr,
+        "Elnapolt"@hu,
+        "Aggiornato"@it,
+        "Atidėjimas"@lt,
+        "Atlikts"@lv,
+        "Differit"@mt,
+        "Verdaagd"@nl,
+        "Odroczony"@pl,
+        "Adiado"@pt,
+        "Amânare"@ro,
+        "Odročený"@sk,
+        "Preložen(a)"@sl,
+        "Senareläggning"@sv .
+
+<http://publications.europa.eu/resource/authority/procresult/APPL_GRANT> a skos:Concept ;
+    at:authority-code "APPL_GRANT" ;
+    at:deprecated "false" ;
+    at:op-code "APPL_GRANT" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "PVOI=OB" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "REEX=OB" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "INTE=OB" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "CONS=OB" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "EXEC=OB" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "OPPO=OB" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "SANC=OB" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "INTV=OB" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "TIER=OB" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "DPEN=OB" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "ASSI=OB" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "RESP=OB" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "ANNU=OB" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "INST=OB" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "IMMU=OB" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "FONC=OB" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "REFE=OB" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "REVI=OB" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "CARE=OB" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "RECT=OB" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "APPL_GRANT" ;
+    dc:identifier "APPL_GRANT" ;
+    skos:inScheme atold:procresult ;
+    skos:prefLabel "Уважаване"@bg,
+        "Pořízení"@cs,
+        "Opnåelse/indhentelse"@da,
+        "Stattgabe"@de,
+        "Αποδοχή του αιτήματος"@el,
+        "Application granted"@en,
+        "Obtención"@es,
+        "Rahuldamine"@et,
+        "Myöntäminen"@fi,
+        "Obtention"@fr,
+        "Iarratas deonaithe"@ga,
+        "Zahtjev usvojen"@hr,
+        "Helyt adás"@hu,
+        "Accoglimento"@it,
+        "Reikalavimų patenkinimas"@lt,
+        "Iegūšana"@lv,
+        "Ilqugħ"@mt,
+        "Toewijzing"@nl,
+        "Uzyskanie"@pl,
+        "Obtenção"@pt,
+        "Admitere"@ro,
+        "Získanie"@sk,
+        "Pridobitev"@sl,
+        "Bifall"@sv .
+
+<http://publications.europa.eu/resource/authority/procresult/CONFORM_NON_TREATY> a skos:Concept ;
+    at:authority-code "CONFORM_NON_TREATY" ;
+    at:deprecated "false" ;
+    at:op-code "CONFORM_NON_TREATY" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "AVIS=NC" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "DELI=NC" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "CONFORM_NON_TREATY" ;
+    dc:identifier "CONFORM_NON_TREATY" ;
+    skos:inScheme atold:procresult ;
+    skos:prefLabel "Несъотвествие с Договора (становища или решения)"@bg,
+        "Nesoulad se smlouvou (posudek nebo usnesení)"@cs,
+        "Manglende overensstemmelse med traktaten (udtalelse eller afgørelse)"@da,
+        "Unvereinbarkeit mit dem Vertrag (Gutachten oder Beschlüsse)"@de,
+        "Μη συμφωνία προς τη Συνθήκη (γνωμοδοτήσεις ή αποφάσεις-délibérations)"@el,
+        "Non-conformity with the Treaty (opinions or rulings)"@en,
+        "No conformidad con el Tratado (dictámenes o acuerdos)"@es,
+        "Asutamislepingule mittevastavus (arvamused või otsused)"@et,
+        "Perustamissopimuksen vastaisuus (lausunnot tai päätökset)"@fi,
+        "Non-conformité avec le Traité (avis ou délibérations)"@fr,
+        "Neamhchomhréireacht leis an gConradh (tuairimí nó pléití)"@ga,
+        "Nije u skladu s Ugovorom (mišljenja ili odluke)"@hr,
+        "A Szerződésnek való megfelelés hiánya (vélemények vagy határozatok)"@hu,
+        "Non conformità con il Trattato (pareri o deliberazioni)"@it,
+        "Neatitiktis Sutarčiai (nuomonės ar nutarimai)"@lt,
+        "Neatbilstība Līgumam (atzinumi vai nolēmumi)"@lv,
+        "Nuqqas ta’ konformità mat-Trattat (opinjoni jew deliberazzjonijiet)"@mt,
+        "Niet in overeenstemming met het Verdrag (adviezen of beraadslagingen)"@nl,
+        "Brak zgodności z traktatem (opinie lub obrady)"@pl,
+        "Não conformidade com o Tratado (pareceres ou deliberações)"@pt,
+        "Neconformitate cu tratatul (avize sau hotărâri)"@ro,
+        "Nesúlad so Zmluvou (stanovisko alebo porady)"@sk,
+        "Neskladnost s Pogodbo (mnenje ali posvetovanja)"@sl,
+        "Oförenlighet med fördraget (yttranden eller avgöranden)"@sv .
+
+<http://publications.europa.eu/resource/authority/procresult/CONFORM_TREATY> a skos:Concept ;
+    at:authority-code "CONFORM_TREATY" ;
+    at:deprecated "false" ;
+    at:op-code "CONFORM_TREATY" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "DELI=DC" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "AVIS=DC" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "CONFORM_TREATY" ;
+    dc:identifier "CONFORM_TREATY" ;
+    skos:inScheme atold:procresult ;
+    skos:prefLabel "Съответствие с Договора (становища или решения)"@bg,
+        "Soulad se Smlouvou (posudek nebo usnesení)"@cs,
+        "Forenelighed med traktaten (udtalelse eller afgørelse)"@da,
+        "Vereinbarkeit mit dem Vertrag (Gutachten oder Beschlüsse)"@de,
+        "Συμφωνία προς τη Συνθήκης (γνωμοδοτήσεις ή αποφάσεις-délibérations)"@el,
+        "Conformity with the Treaty (opinions or rulings)"@en,
+        "Conformidad con el Tratado (dictámenes o acuerdos)"@es,
+        "Asutamislepingule vastavus (arvamused või otsused)"@et,
+        "Perustamissopimuksen mukaisuus (lausunnot tai päätökset)"@fi,
+        "Conformité avec le Traité (avis ou délibérations)"@fr,
+        "Comhréireacht leis an gConradh (tuairimí nó pléití)"@ga,
+        "U skladu s Ugovorom (mišljenja ili odluke)"@hr,
+        "A Szerződésnek való megfelelés (vélemények vagy határozatok)"@hu,
+        "Conformità con il Trattato (pareri o deliberazioni)"@it,
+        "Atitiktis Sutarčiai (nuomonės arba nutarimai)"@lt,
+        "Atbilstība Līgumam (atzinumi vai nolēmumi)"@lv,
+        "Konformità mat-Trattat (opinjoni jew deliberazzjonijiet)"@mt,
+        "In overeenstemming met het Verdrag (adviezen of beraadslagingen)"@nl,
+        "Zgodność z traktatem (opinie lub obrady)"@pl,
+        "Conformidade com o Tratado (pareceres ou deliberações)"@pt,
+        "Conformitate cu tratatul (avize sau hotărâri)"@ro,
+        "Súlad so Zmluvou (stanovisko alebo porady)"@sk,
+        "Skladnost s Pogodbo (mnenje ali posvetovanja)"@sl,
+        "Förenlighet med fördraget (yttranden eller avgöranden)"@sv .
+
+<http://publications.europa.eu/resource/authority/procresult/DISM_GROUNDS_INADM> a skos:Concept ;
+    at:authority-code "DISM_GROUNDS_INADM" ;
+    at:deprecated "false" ;
+    at:op-code "DISM_GROUNDS_INADM" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "DPEN=RI" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "PREJ=RI" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "COMP=RI" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "ASSI=RI" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "CONS=RI" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "EXEC=RI" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "PVOI=RI" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "INTV=RI" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "DELI=RI" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "RESP=RI" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "AVIS=RI" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "FONC=RI" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "IMMU=RI" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "OPPO=RI" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "TIER=RI" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "SANC=RI" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "CARE=RI" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "ANNU=RI" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "INTE=RI" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "INST=RI" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "REFE=RI" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "RECT=RI" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "REVI=RI" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "DISM_GROUNDS_INADM" ;
+    dc:identifier "DISM_GROUNDS_INADM" ;
+    skos:inScheme atold:procresult ;
+    skos:prefLabel "Отхвърляне поради недопустимост"@bg,
+        "Odmítnutí pro nepřípustnost"@cs,
+        "Afvisning"@da,
+        "Zurückweisung wegen Unzulässigkeit"@de,
+        "Απόρριψη λόγω απαραδέκτου"@el,
+        "Dismissal on grounds of inadmissibility"@en,
+        "Declaración de inadmisibilidad"@es,
+        "Vastuvõetamatuse tõttu läbivaatamata jätmine"@et,
+        "Tutkimatta jättäminen"@fi,
+        "Rejet pour irrecevabilité"@fr,
+        "Díbhe ar fhorais shubstainteacha"@ga,
+        "Odbacivanje zbog nedopuštenosti"@hr,
+        "Elfogadhatatlanság miatti elutasítás"@hu,
+        "Rigetto per irricevibilità"@it,
+        "Atmetimas dėl nepriimtinumo"@lt,
+        "Noraidījums nepieņemamības dēļ"@lv,
+        "Ċaħda minħabba f'inammissibbiltà"@mt,
+        "Verwerping wegens niet-ontvankelijkheid"@nl,
+        "Oddalenie z powodu niedopuszczalności"@pl,
+        "Declaração de inadmissibilidade"@pt,
+        "Respingere pentru motive de inadmisibilitate"@ro,
+        "Zamietnutie pre neprípustnosť"@sk,
+        "Zavrnitev zaradi nedopustnosti"@sl,
+        "Avvisning"@sv .
+
+<http://publications.europa.eu/resource/authority/procresult/DISM_SUBST_GROUNDS> a skos:Concept ;
+    at:authority-code "DISM_SUBST_GROUNDS" ;
+    at:deprecated "false" ;
+    at:op-code "DISM_SUBST_GROUNDS" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "REVI=RF" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "SANC=RF" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "COMP=RF" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "CARE=RF" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "CONS=RF" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "INST=RF" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "OPPO=RF" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "RECT=RF" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "REFE=RF" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "DPEN=RF" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "INTE=RF" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "RESP=RF" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "TIER=RF" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "IMMU=RF" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "ASSI=RF" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "ANNU=RF" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "EXEC=RF" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "PVOI=RF" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "INTV=RF" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "FONC=RF" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "DISM_SUBST_GROUNDS" ;
+    dc:identifier "DISM_SUBST_GROUNDS" ;
+    skos:inScheme atold:procresult ;
+    skos:prefLabel "Отхвърляне на иска/жалбата по същество"@bg,
+        "Zamítnutí ve věci samé"@cs,
+        "Frifindelse"@da,
+        "Zurückweisung als unbegründet"@de,
+        "Απόρριψη επί της ουσίας"@el,
+        "Dismissal on substantive grounds"@en,
+        "Desestimación"@es,
+        "Sisuline rahuldamata jätmine"@et,
+        "Hylkääminen"@fi,
+        "Rejet sur le fond"@fr,
+        "Forais shubstainteacha"@ga,
+        "Odbijanje zbog neosnovanosti"@hr,
+        "Érdemben történő elutasítás"@hu,
+        "Rigetto nel merito"@it,
+        "Atmetimas dėl esmės"@lt,
+        "Noraidījums pēc būtības"@lv,
+        "Ċaħda fuq il-mertu"@mt,
+        "Verwerping ten gronde"@nl,
+        "Oddalenie co do istoty"@pl,
+        "Improcedência"@pt,
+        "Respingere pe fond"@ro,
+        "Zamietnutie vo veci samej"@sk,
+        "Zavrnitev po temelju"@sl,
+        "Ogillande i sak"@sv .
+
+<http://publications.europa.eu/resource/authority/procresult/JUDG_INTLC> a skos:Concept ;
+    at:authority-code "JUDG_INTLC" ;
+    at:deprecated "false" ;
+    at:op-code "JUDG_INTLC" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "INTE=IL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "CONS=IL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "REVI=IL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "INST=IL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "DELI=IL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "OPPO=IL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "DPEN=IL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "PREJ=IL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "INTV=IL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "PVOI=IL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "SANC=IL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "IMMU=IL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "COMP=IL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "ASSI=IL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "ANNU=IL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "CARE=IL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "RESP=IL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "AVIS=IL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "FONC=IL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "TIER=IL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "RECT=IL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "REFE=IL" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "JUDG_INTLC" ;
+    dc:identifier "JUDG_INTLC" ;
+    skos:inScheme atold:procresult ;
+    skos:prefLabel "Междинно решение"@bg,
+        "Mezitímní rozsudek"@cs,
+        "Mellemdom"@da,
+        "Zwischenurteil"@de,
+        "Παρεμπίπτουσα απόφαση"@el,
+        "Interlocutory judgment"@en,
+        "Sentencia interlocutoria"@es,
+        "Esialgne otsus"@et,
+        "Välituomio"@fi,
+        "Arrêt interlocutoire"@fr,
+        "Breithiúnas idirbhreitheach"@ga,
+        "Privremena presuda"@hr,
+        "Közbenső ítélet"@hu,
+        "Sentenza interlocutoria"@it,
+        "Tarpinis sprendimas"@lt,
+        "Starpspriedums"@lv,
+        "Sentenza interlokutorja"@mt,
+        "Interlocutoir arrest"@nl,
+        "Wyrok wstępny"@pl,
+        "Acórdão interlocutório"@pt,
+        "Încheiere interlocutorie"@ro,
+        "Medzitýmny rozsudok"@sk,
+        "Vmesna sodba"@sl,
+        "Mellandom"@sv .
+
+<http://publications.europa.eu/resource/authority/procresult/JUDG_NOT_PROCEED> a skos:Concept ;
+    at:authority-code "JUDG_NOT_PROCEED" ;
+    at:deprecated "false" ;
+    at:op-code "JUDG_NOT_PROCEED" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "RESP=NL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "RECT=NL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "INTE=NL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "CARE=NL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "COMP=NL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "OPPO=NL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "PVOI=NL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "IMMU=NL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "REFE=NL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "PREJ=NL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "DELI=NL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "REVI=NL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "FONC=NL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "ASSI=NL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "DPEN=NL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "INST=NL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "ANNU=NL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "INTV=NL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "SANC=NL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "AVIS=NL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "CONS=NL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "TIER=NL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "REEX=NL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "EXEC=NL" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "JUDG_NOT_PROCEED" ;
+    dc:identifier "JUDG_NOT_PROCEED" ;
+    skos:inScheme atold:procresult ;
+    skos:prefLabel "Липса на основание за произнасяне"@bg,
+        "Nevydání rozhodnutí ve věci samé"@cs,
+        "Ufornødent at træffe afgørelse"@da,
+        "Erledigung der Hauptsache"@de,
+        "Κατάργηση δίκης"@el,
+        "Case not proceeding to judgment"@en,
+        "Sobreseimiento"@es,
+        "Otsuse tegemise vajaduse äralangemine"@et,
+        "Lausunnon antaminen asiassa raukeaa"@fi,
+        "Non-lieu à statuer"@fr,
+        "Cás nach dtéann ar aghaidh chun breithiúnais"@ga,
+        "Obustava postupka"@hr,
+        "Okafogyottság"@hu,
+        "Non luogo a provvedere"@it,
+        "Nereikalingumas priimti sprendimą"@lt,
+        "Tiesvedības izbeigšana pirms sprieduma taisīšanas"@lv,
+        "Ma hemmx lok li tingħata deċiżjoni"@mt,
+        "Afdoening zonder beslissing"@nl,
+        "Umorzenie postępowania"@pl,
+        "Não conhecimento do mérito"@pt,
+        "Nepronunțare asupra fondului"@ro,
+        "Zastavenie konania"@sk,
+        "Ustavitev postopka"@sl,
+        "Anledning saknas att döma i saken"@sv .
+
+<http://publications.europa.eu/resource/authority/procresult/OP_DATPRO> a skos:Concept ;
+    at:op-code "OP_DATPRO" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:procresult ;
+    skos:prefLabel "НЕОКОНЧАТЕЛНИ ДАННИ"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv .
+
+<http://publications.europa.eu/resource/authority/procresult/RAD> a skos:Concept ;
+    at:authority-code "RAD" ;
+    at:deprecated "false" ;
+    at:op-code "RAD" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "AVIS=RD" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "DPEN=RD" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "INST=RD" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "CARE=RD" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "ANNU=RD" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "RESP=RD" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "PREF=RD" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "REVI=RD" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "IMMU=RD" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "EXEC=RD" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "ASSI=RD" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "CONS=RD" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "PREJ=RD" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "DELI=RD" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "REFE=RD" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "INTV=RD" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "INTE=RD" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "PVOI=RD" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "OPPO=RD" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "TIER=RD" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "RECT=RD" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "SANC=RD" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "COMP=RD" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "FONC=RD" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "RAD" ;
+    dc:identifier "RAD" ;
+    skos:inScheme atold:procresult ;
+    skos:prefLabel "Заличаване"@bg,
+        "Vyškrtnutí věci z rejstříku"@cs,
+        "Slettelse"@da,
+        "Streichung"@de,
+        "Διαγραφή"@el,
+        "Removal from the register"@en,
+        "Archivo"@es,
+        "Registrist kustutamine"@et,
+        "Asian poistaminen rekisteristä"@fi,
+        "Radiation"@fr,
+        "Cás a bhaint den chlár"@ga,
+        "Brisanje iz upisnika"@hr,
+        "Törlés"@hu,
+        "Cancellazione dal ruolo"@it,
+        "Išbraukimas"@lt,
+        "Lietas izslēgšana no reģistra"@lv,
+        "Tħassir tal-kawża"@mt,
+        "Doorhaling"@nl,
+        "Wykreślenie"@pl,
+        "Cancelamento"@pt,
+        "Radiere"@ro,
+        "Výmaz"@sk,
+        "Izbris"@sl,
+        "Avskrivning"@sv .
+
+<http://publications.europa.eu/resource/authority/procresult/STL_AMI_HEAR> a skos:Concept ;
+    at:authority-code "STL_AMI_HEAR" ;
+    at:deprecated "false" ;
+    at:op-code "STL_AMI_HEAR" ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "STL_AMI_HEAR" ;
+    dc:identifier "STL_AMI_HEAR" ;
+    skos:inScheme atold:procresult ;
+    skos:prefLabel "Уреждане на спора по взаимно съгласие в хода на съдебното заседание"@bg,
+        "Smírné urovnání, k němuž došlo na jednání"@cs,
+        "Forlig i et retsmøde"@da,
+        "Gütliche Beilegung in einer Sitzung"@de,
+        "Συμβιβασμός που επήλθε σε συνεδρίαση"@el,
+        "Amicable settlement made at a hearing"@en,
+        "Solución amistosa acordada en una vista"@es,
+        "Kompromiss, milleni jõuti kohtuistungil"@et,
+        "Sovintoratkaisu, johon on päästy istunnossa"@fi,
+        "Règlement à l'amiable intervenu lors d'une audience"@fr,
+        "Réiteach cairdiúil a bhaint amach ag éisteacht"@ga,
+        "Sklapanje nagodbe na raspravi"@hr,
+        "Tárgyaláson létrejött egyezség"@hu,
+        "Composizione amichevole raggiunta nel corso di un'udienza"@it,
+        "Posėdyje pasiektas draugiškas ginčo sprendimas"@lt,
+        "Tiesas sēdē panākts izlīgums"@lv,
+        "Ftehim bonarju milħuq matul seduta"@mt,
+        "Minnelijke regeling totstandgekomen tijdens een terechtzitting"@nl,
+        "Zawarcie ugody podczas rozprawy"@pl,
+        "Resolução amigável obtida numa audiência"@pt,
+        "Soluționare amiabilă intervenită cu ocazia unei ședințe"@ro,
+        "Zmier uzavretý na pojednávaní"@sk,
+        "Mirna rešitev spora na obravnavi"@sl,
+        "Förlikning som träffats vid en förhandling"@sv .
+
+<http://publications.europa.eu/resource/authority/procresult/STL_AMI_INFHEAR> a skos:Concept ;
+    at:authority-code "STL_AMI_INFHEAR" ;
+    at:deprecated "false" ;
+    at:op-code "STL_AMI_INFHEAR" ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "STL_AMI_INFHEAR" ;
+    dc:identifier "STL_AMI_INFHEAR" ;
+    skos:inScheme atold:procresult ;
+    skos:prefLabel "Уреждане на спора по взаимно съгласие на неформална среща"@bg,
+        "Smírné urovnání, k němuž došlo na neformální schůzce"@cs,
+        "Forlig i et uformelt møde"@da,
+        "Gütliche Beilegung in einer informellen Sitzung"@de,
+        "Συμβιβασμός που επήλθε στο πλαίσιο ανεπίσημης συνάντησης"@el,
+        "Amicable settlement made at an informal meeting"@en,
+        "Solución amistosa acordada en una reunión informal"@es,
+        "Kompromiss, milleni jõuti mitteametlikul koosolekul"@et,
+        "Sovintoratkaisu, johon on päästy epävirallisessa kokouksessa"@fi,
+        "Règlement à l'amiable intervenu lors d'une réunion informelle"@fr,
+        "Réiteach cairdiúil a bhaint amach ag cruinniú neamhfhoirmiúil"@ga,
+        "Sklapanje nagodbe na neformalnom sastanku"@hr,
+        "Informális találkozón létrejött egyezség"@hu,
+        "Composizione amichevole raggiunta nel corso di una riunione informale"@it,
+        "Neformaliame susitikime pasiektas draugiškas ginčo sprendimas"@lt,
+        "Neformālā sanāksmē panākts izlīgums"@lv,
+        "Ftehim bonarju milħuq matul laqgħa informali"@mt,
+        "Minnelijke regeling totstandgekomen tijdens een informele vergadering"@nl,
+        "Zawarcie ugody podczas nieformalnego spotkania"@pl,
+        "Resolução amigável acordada numa reunião informal"@pt,
+        "Soluționare amiabilă intervenită cu ocazia unei întâlniri neoficiale"@ro,
+        "Zmier uzavretý na neformálnom stretnutí"@sk,
+        "Mirna rešitev spora na neuradnem sestanku"@sl,
+        "Förlikning som träffats vid ett informellt möte"@sv .
+
+<http://publications.europa.eu/resource/authority/procresult/STL_AMI_PARTIES> a skos:Concept ;
+    at:authority-code "STL_AMI_PARTIES" ;
+    at:deprecated "false" ;
+    at:op-code "STL_AMI_PARTIES" ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "STL_AMI_PARTIES" ;
+    dc:identifier "STL_AMI_PARTIES" ;
+    skos:inScheme atold:procresult ;
+    skos:prefLabel "Уреждане на спора по взаимно съгласие на страните"@bg,
+        "Smírné urovnání mezi účastníky řízení"@cs,
+        "Forlig mellem parterne"@da,
+        "Gütliche Beilegung durch die Parteien"@de,
+        "Συμβιβασμός που συμφωνήθηκε μεταξύ των διαδίκων"@el,
+        "Amicable settlement made between the parties"@en,
+        "Solución amistosa acordada por las partes"@es,
+        "Pooltevaheline kompromiss"@et,
+        "Sovintoratkaisu, johon on päästy asianosaisten välillä"@fi,
+        "Règlement à l'amiable intervenu entre les parties"@fr,
+        "Reiteach cairdiúil a bhaint amach idir na páirtithe"@ga,
+        "Sklapanje nagodbe među strankama"@hr,
+        "A felek között létrejött egyezség"@hu,
+        "Composizione amichevole raggiunta tra le parti"@it,
+        "Draugiškas ginčo sprendimas tarp šalių"@lt,
+        "Lietas dalībnieku panākts izlīgums"@lv,
+        "Ftehim bonarju milħuq bejn il-partijiet"@mt,
+        "Minnelijke regeling totstandgekomen tussen de partijen"@nl,
+        "Zawarcie ugody przez strony"@pl,
+        "Resolução amigável obtida entre as partes"@pt,
+        "Soluționare amiabilă intervenită între părți"@ro,
+        "Zmier uzavretý medzi účastníkmi konania"@sk,
+        "Mirna rešitev spora med strankama/i"@sl,
+        "Förlikning som träffats mellan parterna"@sv .
+
+atold:procresult a skos:ConceptScheme ;
+    rdfs:label "Legal proceeding result"@en ;
+    at:prefLabel "Legal proceeding result"@en ;
+    at:table.id "procresult" ;
+    at:table.version.number "20160921-0" ;
+    owl:versionInfo "20160921-0" ;
+    skos:prefLabel "Legal proceeding result"@en .
+

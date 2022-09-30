@@ -1,0 +1,2088 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/subdivision/ACT> a skos:Concept ;
+    at:authority-code "ACT" ;
+    at:deprecated "false" ;
+    at:op-code "ACT" ;
+    at:start.use "1952-12-30" ;
+    atold:op-code "ACT" ;
+    dc:identifier "ACT" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "акт"@bg,
+        "akt"@cs,
+        "akt"@da,
+        "Akte"@de,
+        "πράξη"@el,
+        "act"@en,
+        "acta"@es,
+        "akt"@et,
+        "asiakirja"@fi,
+        "acte"@fr,
+        "ionstraim"@ga,
+        "akt"@hr,
+        "okmány"@hu,
+        "atto"@it,
+        "aktas"@lt,
+        "akts"@lv,
+        "att"@mt,
+        "akte"@nl,
+        "akt"@pl,
+        "ato"@pt,
+        "act"@ro,
+        "akt"@sk,
+        "akt"@sl,
+        "akt"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/AGR> a skos:Concept ;
+    at:authority-code "AGR" ;
+    at:deprecated "false" ;
+    at:op-code "AGR" ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "AGR" ;
+    dc:identifier "AGR" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "споразумение"@bg,
+        "dohoda"@cs,
+        "aftale"@da,
+        "Abkommen"@de,
+        "συμφωνία"@el,
+        "agreement"@en,
+        "acuerdo"@es,
+        "leping"@et,
+        "sopimus"@fi,
+        "accord"@fr,
+        "comhaontú"@ga,
+        "sporazum"@hr,
+        "megállapodás"@hu,
+        "accordo"@it,
+        "susitarimas"@lt,
+        "nolīgums"@lv,
+        "ftehim"@mt,
+        "overeenkomst"@nl,
+        "umowa"@pl,
+        "acordo"@pt,
+        "acord"@ro,
+        "dohoda"@sk,
+        "sporazum"@sl,
+        "avtal"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/ALN> a skos:Concept ;
+    at:authority-code "ALN" ;
+    at:deprecated "false" ;
+    at:op-code "ALN" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "L" ;
+            dc:source "CJ" ],
+        [ a at:MappedCode ;
+            at:legacy-code "AL" ;
+            dc:source "FORMEX" ] ;
+    at:start.use "2015-03-18" ;
+    atold:op-code "ALN" ;
+    dc:identifier "ALN" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "неномериран параграф"@bg,
+        "pododstavec"@cs,
+        "unummererede afsnit"@da,
+        "nicht nummerierter Absatz"@de,
+        "εδάφιο"@el,
+        "unnumbered paragraph"@en,
+        "párrafo"@es,
+        "lõik"@et,
+        "numeroimaton kohta"@fi,
+        "alinéa"@fr,
+        "mír neamhuimhrithe"@ga,
+        "nenumerirani podstavak"@hr,
+        "számozatlan bekezdés"@hu,
+        "comma"@it,
+        "pastraipa"@lt,
+        "nenumurēts punkts"@lv,
+        "paragrafu mhux numerat"@mt,
+        "alinea"@nl,
+        "nienumerowane akapity"@pl,
+        "parágrafo"@pt,
+        "paragraf"@ro,
+        "neočíslovaný odsek"@sk,
+        "neoštevilčeni odstavek"@sl,
+        "stycke"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/ANX> a skos:Concept ;
+    at:authority-code "ANX" ;
+    at:deprecated "false" ;
+    at:op-code "ANX" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "AX" ;
+            dc:source "FORMEX" ],
+        [ a at:MappedCode ;
+            at:legacy-code "N" ;
+            dc:source "CJ" ] ;
+    at:start.use "2015-03-18" ;
+    atold:op-code "ANX" ;
+    dc:identifier "ANX" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "приложение"@bg,
+        "příloha"@cs,
+        "bilag"@da,
+        "Anhang"@de,
+        "παράρτημα"@el,
+        "annex"@en,
+        "anexo"@es,
+        "lisa"@et,
+        "liite"@fi,
+        "annexe"@fr,
+        "iarscríbhinn"@ga,
+        "prilog"@hr,
+        "melléklet"@hu,
+        "allegato"@it,
+        "priedas"@lt,
+        "pielikums"@lv,
+        "anness"@mt,
+        "bijlage"@nl,
+        "załącznik"@pl,
+        "anexo"@pt,
+        "anexă"@ro,
+        "príloha"@sk,
+        "priloga"@sl,
+        "bilaga"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/APP> a skos:Concept ;
+    at:authority-code "APP" ;
+    at:deprecated "false" ;
+    at:op-code "APP" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "AP" ;
+            dc:source "FORMEX" ] ;
+    at:start.use "2015-03-18" ;
+    atold:op-code "APP" ;
+    dc:identifier "APP" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "допълнение"@bg,
+        "dodatek"@cs,
+        "tillæg"@da,
+        "Anlage"@de,
+        "προσάρτημα"@el,
+        "appendix"@en,
+        "apéndice"@es,
+        "liide"@et,
+        "lisäys"@fi,
+        "appendice"@fr,
+        "foscríbhinn"@ga,
+        "dodatak"@hr,
+        "függelék"@hu,
+        "appendice"@it,
+        "priedėlis"@lt,
+        "papildinājums"@lv,
+        "appendiċi"@mt,
+        "aanhangsel"@nl,
+        "dodatek"@pl,
+        "apêndice"@pt,
+        "apendice"@ro,
+        "dodatok"@sk,
+        "dodatek"@sl,
+        "tillägg"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/ART> a skos:Concept ;
+    at:authority-code "ART" ;
+    at:deprecated "false" ;
+    at:op-code "ART" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "AR" ;
+            dc:source "FORMEX" ],
+        [ a at:MappedCode ;
+            at:legacy-code "A" ;
+            dc:source "CJ" ] ;
+    at:start.use "2015-03-18" ;
+    atold:op-code "ART" ;
+    dc:identifier "ART" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "член"@bg,
+        "článek"@cs,
+        "artikel"@da,
+        "Artikel"@de,
+        "άρθρο"@el,
+        "article"@en,
+        "artículo"@es,
+        "artikkel"@et,
+        "artikla"@fi,
+        "article"@fr,
+        "airteagal"@ga,
+        "članak"@hr,
+        "cikk"@hu,
+        "articolo"@it,
+        "straipsnis"@lt,
+        "pants"@lv,
+        "artikolu"@mt,
+        "artikel"@nl,
+        "artykuł"@pl,
+        "artigo"@pt,
+        "articol"@ro,
+        "článok"@sk,
+        "člen"@sl,
+        "artikel"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/CGR> a skos:Concept ;
+    at:authority-code "CGR" ;
+    at:deprecated "false" ;
+    at:op-code "CGR" ;
+    at:start.use "2004-05-01" ;
+    atold:op-code "CGR" ;
+    dc:identifier "CGR" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "група поправки"@bg,
+        "skupina oprav"@cs,
+        "gruppe af rettelser"@da,
+        "Gruppen von Berichtigungen"@de,
+        "ομάδα διορθώσεων"@el,
+        "group of corrections"@en,
+        "grupo de correcciones"@es,
+        "paranduste rühm"@et,
+        "oikaisuryhmä"@fi,
+        "groupe de corrections"@fr,
+        "grúpa ceartuithe"@ga,
+        "skup ispravaka"@hr,
+        "korrekciócsoport"@hu,
+        "gruppo di correzioni"@it,
+        "pataisų grupė"@lt,
+        "labojumu grupa"@lv,
+        "grupp ta’ rettifiki"@mt,
+        "groep correcties"@nl,
+        "grupa sprostowań"@pl,
+        "grupo de correções"@pt,
+        "grup de modificări"@ro,
+        "skupina opráv"@sk,
+        "skupina popravkov"@sl,
+        "grupp av rättelser"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/CIT> a skos:Concept ;
+    at:authority-code "CIT" ;
+    at:deprecated "false" ;
+    at:op-code "CIT" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "VI" ;
+            dc:source "FORMEX" ] ;
+    at:start.use "2015-03-18" ;
+    atold:op-code "CIT" ;
+    dc:identifier "CIT" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "позоваване"@bg,
+        "právní východisko"@cs,
+        "henvisning"@da,
+        "Bezugsvermerk"@de,
+        "σημείο αναφοράς"@el,
+        "citation"@en,
+        "visto"@es,
+        "volitus"@et,
+        "viite"@fi,
+        "visa"@fr,
+        "lua"@ga,
+        "pozivanje"@hr,
+        "bevezető hivatkozás"@hu,
+        "visto"@it,
+        "nurodomoji dalis"@lt,
+        "pamatojums"@lv,
+        "konsiderazzjoni"@mt,
+        "aanhaling"@nl,
+        "umocowania"@pl,
+        "citação"@pt,
+        "referire"@ro,
+        "citácia"@sk,
+        "sklicevanje"@sl,
+        "beaktandeled"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/CLS> a skos:Concept ;
+    at:authority-code "CLS" ;
+    at:deprecated "false" ;
+    at:op-code "CLS" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "CL" ;
+            dc:source "CJ" ] ;
+    at:start.use "2015-03-18" ;
+    atold:op-code "CLS" ;
+    dc:identifier "CLS" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "клауза"@bg,
+        "ustanovení"@cs,
+        "klausul"@da,
+        "Klausel"@de,
+        "ρήτρα"@el,
+        "clause"@en,
+        "cláusula"@es,
+        "klausel"@et,
+        "lauseke"@fi,
+        "clause"@fr,
+        "clásal"@ga,
+        "odredba"@hr,
+        "záradék"@hu,
+        "clausola"@it,
+        "nuostata"@lt,
+        "klauzula"@lv,
+        "klawżola"@mt,
+        "clausule"@nl,
+        "klauzula"@pl,
+        "cláusula"@pt,
+        "clauză"@ro,
+        "doložka"@sk,
+        "klavzula"@sl,
+        "klausul"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/CNV> a skos:Concept ;
+    at:authority-code "CNV" ;
+    at:deprecated "false" ;
+    at:op-code "CNV" ;
+    at:start.use "1952-12-30" ;
+    atold:op-code "CNV" ;
+    dc:identifier "CNV" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "конвенция"@bg,
+        "úmluva"@cs,
+        "konvention"@da,
+        "Übereinkommen"@de,
+        "σύμβαση"@el,
+        "convention"@en,
+        "convenio"@es,
+        "konventsioon"@et,
+        "yleissopimus"@fi,
+        "convention"@fr,
+        "coinbhinsiún"@ga,
+        "konvencija"@hr,
+        "egyezmény"@hu,
+        "convenzione"@it,
+        "konvencija"@lt,
+        "konvencija"@lv,
+        "konvenzjoni"@mt,
+        "verdrag"@nl,
+        "konwencja"@pl,
+        "convenção"@pt,
+        "convenție"@ro,
+        "dohovor"@sk,
+        "konvencija"@sl,
+        "konvention"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/COL> a skos:Concept ;
+    at:authority-code "COL" ;
+    at:deprecated "false" ;
+    at:op-code "COL" ;
+    at:start.use "1952-12-30" ;
+    atold:op-code "COL" ;
+    dc:identifier "COL" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "колона на таблица"@bg,
+        "sloupec tabulky"@cs,
+        "tabelkolonne"@da,
+        "Tabellenspalte"@de,
+        "στήλη πίνακα"@el,
+        "table column"@en,
+        "columna de cuadro"@es,
+        "tabeli veerg"@et,
+        "taulukon sarake"@fi,
+        "colonne de tableau"@fr,
+        "colún tábla"@ga,
+        "stupac tablice"@hr,
+        "táblázatoszlop"@hu,
+        "colonna della tabella"@it,
+        "lentelės skiltis"@lt,
+        "tabulas sleja"@lv,
+        "kolonna tat-tabella"@mt,
+        "tabelkolom"@nl,
+        "kolumna tabeli"@pl,
+        "coluna de quadro"@pt,
+        "coloană de tabel"@ro,
+        "stĺpec tabuľky"@sk,
+        "stolpec tabele"@sl,
+        "tabellkolumn"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/COR> a skos:Concept ;
+    at:authority-code "COR" ;
+    at:deprecated "false" ;
+    at:op-code "COR" ;
+    at:start.use "2004-05-01" ;
+    atold:op-code "COR" ;
+    dc:identifier "COR" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "поправка"@bg,
+        "oprava"@cs,
+        "rettelse"@da,
+        "Berichtigung"@de,
+        "διόρθωση"@el,
+        "correction"@en,
+        "corrección"@es,
+        "parandus"@et,
+        "oikaisu"@fi,
+        "correction"@fr,
+        "ceartú"@ga,
+        "ispravak"@hr,
+        "korrekció"@hu,
+        "correzione"@it,
+        "pataisa"@lt,
+        "labojums"@lv,
+        "rettifika"@mt,
+        "correctie"@nl,
+        "sprostowanie"@pl,
+        "correção"@pt,
+        "modificare"@ro,
+        "oprava"@sk,
+        "popravek"@sl,
+        "rättelse"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/CPT> a skos:Concept ;
+    at:authority-code "CPT" ;
+    at:deprecated "false" ;
+    at:op-code "CPT" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "CH" ;
+            dc:source "CJ" ],
+        [ a at:MappedCode ;
+            at:legacy-code "CH" ;
+            dc:source "FORMEX" ] ;
+    at:start.use "2015-03-18" ;
+    atold:op-code "CPT" ;
+    dc:identifier "CPT" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "глава"@bg,
+        "kapitola"@cs,
+        "kapitel"@da,
+        "Kapitel"@de,
+        "κεφάλαιο"@el,
+        "chapter"@en,
+        "capítulo"@es,
+        "peatükk"@et,
+        "luku"@fi,
+        "chapitre"@fr,
+        "caibidil"@ga,
+        "poglavlje"@hr,
+        "fejezet"@hu,
+        "capo"@it,
+        "skyrius"@lt,
+        "nodaļa"@lv,
+        "kapitolu"@mt,
+        "hoofdstuk"@nl,
+        "rozdział"@pl,
+        "capítulo"@pt,
+        "capitol"@ro,
+        "kapitola"@sk,
+        "poglavje"@sl,
+        "kapitel"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/DCL> a skos:Concept ;
+    at:authority-code "DCL" ;
+    at:deprecated "false" ;
+    at:op-code "DCL" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "DC" ;
+            dc:source "FORMEX" ] ;
+    at:start.use "1952-12-30" ;
+    atold:op-code "DCL" ;
+    dc:identifier "DCL" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "декларация"@bg,
+        "prohlášení"@cs,
+        "erklæring"@da,
+        "Erklärung"@de,
+        "δήλωση"@el,
+        "declaration"@en,
+        "declaración"@es,
+        "deklaratsioon"@et,
+        "selitys"@fi,
+        "déclaration"@fr,
+        "dearbhú"@ga,
+        "deklaracija"@hr,
+        "nyilatkozat"@hu,
+        "dichiarazione"@it,
+        "deklaracija"@lt,
+        "deklarācija"@lv,
+        "dikjarazzjoni"@mt,
+        "verklaring"@nl,
+        "deklaracja"@pl,
+        "declaração"@pt,
+        "declarație"@ro,
+        "vyhlásenie"@sk,
+        "izjava"@sl,
+        "förklaring"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/DES> a skos:Concept ;
+    at:authority-code "DES" ;
+    at:deprecated "false" ;
+    at:op-code "DES" ;
+    at:start.use "2004-05-01" ;
+    atold:op-code "DES" ;
+    dc:identifier "DES" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "описание"@bg,
+        "popis"@cs,
+        "beskrivelse"@da,
+        "Beschreibung"@de,
+        "περιγραφή"@el,
+        "description"@en,
+        "descripción"@es,
+        "kirjeldus"@et,
+        "kuvaus"@fi,
+        "description"@fr,
+        "tuairisc"@ga,
+        "opis"@hr,
+        "leírás"@hu,
+        "descrizione"@it,
+        "aprašas"@lt,
+        "apraksts"@lv,
+        "deskrizzjoni"@mt,
+        "beschrijving"@nl,
+        "opis"@pl,
+        "descrição"@pt,
+        "descriere"@ro,
+        "opis"@sk,
+        "opis"@sl,
+        "beskrivning"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/ENC> a skos:Concept ;
+    at:authority-code "ENC" ;
+    at:deprecated "false" ;
+    at:op-code "ENC" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "DI" ;
+            dc:source "FORMEX" ] ;
+    at:start.use "1952-12-30" ;
+    atold:op-code "ENC" ;
+    dc:identifier "ENC" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "постановителна част"@bg,
+        "normativní text"@cs,
+        "dispositiv del"@da,
+        "verfügender Teil"@de,
+        "διατακτικό"@el,
+        "enacting terms"@en,
+        "parte dispositiva"@es,
+        "regulatiivosa"@et,
+        "artiklaosa"@fi,
+        "dispositif"@fr,
+        "téarmaí achtúcháin"@ga,
+        "normativni dio"@hr,
+        "rendelkező rész"@hu,
+        "articolato"@it,
+        "dėstomoji dalis"@lt,
+        "pamatdaļa"@lv,
+        "termini ta’ promulgazzjoni"@mt,
+        "dispositief"@nl,
+        "część normatywna"@pl,
+        "dispositivo"@pt,
+        "partea dispozitivă"@ro,
+        "normatívna časť"@sk,
+        "normativni del"@sl,
+        "artikeldel"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/END> a skos:Concept ;
+    at:authority-code "END" ;
+    at:deprecated "false" ;
+    at:op-code "END" ;
+    at:start.use "1952-12-30" ;
+    atold:op-code "END" ;
+    dc:identifier "END" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "бележка"@bg,
+        "poznámka"@cs,
+        "slutnote"@da,
+        "Endnote"@de,
+        "υποσημείωση"@el,
+        "endnote"@en,
+        "nota final"@es,
+        "järelmärkus"@et,
+        "loppuviite"@fi,
+        "note de fin"@fr,
+        "críochnóta"@ga,
+        "bilješka"@hr,
+        "lábjegyzet"@hu,
+        "nota"@it,
+        "išnaša"@lt,
+        "beigu piezīme"@lv,
+        "nota tat-tmiem"@mt,
+        "eindnoot"@nl,
+        "przypis"@pl,
+        "nota final"@pt,
+        "notă finală"@ro,
+        "poznámka na konci textu"@sk,
+        "končna opomba"@sl,
+        "slutnot"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/EXL> a skos:Concept ;
+    at:authority-code "EXL" ;
+    at:deprecated "false" ;
+    at:op-code "EXL" ;
+    at:start.use "1952-12-30" ;
+    atold:op-code "EXL" ;
+    dc:identifier "EXL" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "размяна на писма"@bg,
+        "výměna dopisů"@cs,
+        "brevveksling"@da,
+        "Briefwechsel"@de,
+        "ανταλλαγή επιστολών"@el,
+        "exchange of letters"@en,
+        "canje de letras"@es,
+        "kirjade vahetamine"@et,
+        "kirjeenvaihto"@fi,
+        "échange de lettres"@fr,
+        "malartú litreacha"@ga,
+        "razmjena nota"@hr,
+        "levélváltás"@hu,
+        "scambio di lettere"@it,
+        "pasikeitimas raštais"@lt,
+        "vēstuļu apmaiņa"@lv,
+        "skambju ta’ ittri"@mt,
+        "briefwisseling"@nl,
+        "wymiana listów"@pl,
+        "troca de cartas"@pt,
+        "schimb de scrisori"@ro,
+        "výmena listov"@sk,
+        "izmenjava pisem"@sl,
+        "skriftväxling"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/FGR> a skos:Concept ;
+    at:authority-code "FGR" ;
+    at:deprecated "false" ;
+    at:op-code "FGR" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "FG" ;
+            dc:source "FORMEX" ] ;
+    at:start.use "1952-12-30" ;
+    atold:op-code "FGR" ;
+    dc:identifier "FGR" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "фигура"@bg,
+        "obrázek"@cs,
+        "figur"@da,
+        "Abbildung"@de,
+        "εικόνα"@el,
+        "figure"@en,
+        "ilustración"@es,
+        "joonis"@et,
+        "kaavio"@fi,
+        "illustration"@fr,
+        "figiúr"@ga,
+        "slika"@hr,
+        "ábra"@hu,
+        "illustrazione"@it,
+        "iliustracija"@lt,
+        "attēls"@lv,
+        "illustrazzjoni"@mt,
+        "figuur"@nl,
+        "rysunek"@pl,
+        "ilustração"@pt,
+        "figură"@ro,
+        "ilustrácia"@sk,
+        "slika"@sl,
+        "figur"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/FNA> a skos:Concept ;
+    at:authority-code "FNA" ;
+    at:deprecated "false" ;
+    at:op-code "FNA" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "FA" ;
+            dc:source "FORMEX" ] ;
+    at:start.use "1952-12-30" ;
+    atold:op-code "FNA" ;
+    dc:identifier "FNA" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "заключителен акт"@bg,
+        "závěrečný akt"@cs,
+        "slutakt"@da,
+        "Schlussakte"@de,
+        "τελική πράξη"@el,
+        "final act"@en,
+        "acta final"@es,
+        "lõppakt"@et,
+        "päätösasiakirja"@fi,
+        "acte final"@fr,
+        "ionstraim chríochnaitheach"@ga,
+        "završni akt"@hr,
+        "záróokmány"@hu,
+        "atto finale"@it,
+        "baigiamasis aktas"@lt,
+        "nobeiguma akts"@lv,
+        "att finali"@mt,
+        "slotakte"@nl,
+        "akt końcowy"@pl,
+        "ato final"@pt,
+        "act final"@ro,
+        "záverečný akt"@sk,
+        "sklepna listina"@sl,
+        "slutakt"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/FNP> a skos:Concept ;
+    at:authority-code "FNP" ;
+    at:deprecated "false" ;
+    at:op-code "FNP" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "FI" ;
+            dc:source "FORMEX" ] ;
+    at:start.use "1952-12-30" ;
+    atold:op-code "FNP" ;
+    dc:identifier "FNP" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "заключителна част"@bg,
+        "závěrečná část"@cs,
+        "afsluttende del"@da,
+        "Schlussteil"@de,
+        "τελικό μέρος"@el,
+        "final part"@en,
+        "parte final"@es,
+        "lõpposa"@et,
+        "loppuosa"@fi,
+        "partie finale"@fr,
+        "cuid deiridh"@ga,
+        "završni dio"@hr,
+        "befejező rész"@hu,
+        "parte finale"@it,
+        "baigiamoji dalis"@lt,
+        "nobeiguma daļa"@lv,
+        "parti finali"@mt,
+        "afsluitend deel"@nl,
+        "część końcowa"@pl,
+        "parte final"@pt,
+        "partea finală"@ro,
+        "záverečná časť"@sk,
+        "sklepni del"@sl,
+        "avslutande del"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/FTN> a skos:Concept ;
+    at:authority-code "FTN" ;
+    at:deprecated "false" ;
+    at:op-code "FTN" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "FN" ;
+            dc:source "FORMEX" ] ;
+    at:start.use "1952-12-30" ;
+    atold:op-code "FTN" ;
+    dc:identifier "FTN" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "бележка под линия"@bg,
+        "poznámka pod čarou"@cs,
+        "fodnote"@da,
+        "Fußnote"@de,
+        "υποσημείωση"@el,
+        "footnote"@en,
+        "nota a pie de página"@es,
+        "joonealune märkus"@et,
+        "alaviite"@fi,
+        "note de bas de page"@fr,
+        "fonóta"@ga,
+        "bilješka"@hr,
+        "lábjegyzet"@hu,
+        "nota a piè di pagina"@it,
+        "išnaša"@lt,
+        "zemsvītras piezīme"@lv,
+        "nota f'qiegħ il-paġna"@mt,
+        "voetnoot"@nl,
+        "przypis"@pl,
+        "nota de rodapé"@pt,
+        "notă de subsol"@ro,
+        "poznámka pod čiarou"@sk,
+        "sprotna opomba"@sl,
+        "fotnot"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/IDT> a skos:Concept ;
+    at:authority-code "IDT" ;
+    at:deprecated "false" ;
+    at:op-code "IDT" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "DA" ;
+            dc:source "FORMEX" ],
+        [ a at:MappedCode ;
+            at:legacy-code "T" ;
+            dc:source "CJ" ] ;
+    at:start.use "2015-03-18" ;
+    atold:op-code "IDT" ;
+    dc:identifier "IDT" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "тире"@bg,
+        "odrážka"@cs,
+        "led"@da,
+        "Gedankenstrich"@de,
+        "περίπτωση"@el,
+        "indent"@en,
+        "guion"@es,
+        "taane"@et,
+        "luetelmakohta"@fi,
+        "tiret"@fr,
+        "fleasc"@ga,
+        "alineja"@hr,
+        "franciabekezdés"@hu,
+        "trattino"@it,
+        "įtrauka"@lt,
+        "ievilkums"@lv,
+        "inċiż"@mt,
+        "streepje"@nl,
+        "tiret"@pl,
+        "travessão"@pt,
+        "liniuță"@ro,
+        "zarážka"@sk,
+        "alinea"@sl,
+        "strecksats"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/IMG> a skos:Concept ;
+    at:authority-code "IMG" ;
+    at:deprecated "false" ;
+    at:op-code "IMG" ;
+    at:start.use "1952-12-30" ;
+    atold:op-code "IMG" ;
+    dc:identifier "IMG" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "изображение"@bg,
+        "vyobrazení"@cs,
+        "billede"@da,
+        "Bild"@de,
+        "εικόνα"@el,
+        "image"@en,
+        "imagen"@es,
+        "kujutis"@et,
+        "kuva"@fi,
+        "image"@fr,
+        "íomhá"@ga,
+        "prikaz"@hr,
+        "kép"@hu,
+        "immagine"@it,
+        "paveikslėlis"@lt,
+        "attēls"@lv,
+        "immaġni"@mt,
+        "afbeelding"@nl,
+        "grafika"@pl,
+        "imagem"@pt,
+        "imagine"@ro,
+        "obrázok"@sk,
+        "slika"@sl,
+        "bild"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/INP> a skos:Concept ;
+    at:authority-code "INP" ;
+    at:deprecated "false" ;
+    at:op-code "INP" ;
+    at:start.use "1952-12-30" ;
+    atold:op-code "INP" ;
+    dc:identifier "INP" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "уводна част"@bg,
+        "úvodní část"@cs,
+        "indledende del"@da,
+        "Einleitung"@de,
+        "εισαγωγικό μέρος"@el,
+        "introductory part"@en,
+        "parte introductoria"@es,
+        "sissejuhatav osa"@et,
+        "johdantokappale"@fi,
+        "partie introductive"@fr,
+        "an chuid réamhráiteach"@ga,
+        "uvodni dio"@hr,
+        "bevezető rész"@hu,
+        "parte introduttiva"@it,
+        "įžanginė dalis"@lt,
+        "ievaddaļa"@lv,
+        "parti introduttorja"@mt,
+        "inleiding"@nl,
+        "formuła wprowadzająca"@pl,
+        "parte introdutória"@pt,
+        "partea introductivă"@ro,
+        "úvodná časť"@sk,
+        "uvodni del"@sl,
+        "inledande del"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/LGD> a skos:Concept ;
+    at:authority-code "LGD" ;
+    at:deprecated "false" ;
+    at:op-code "LGD" ;
+    at:start.use "1952-12-30" ;
+    atold:op-code "LGD" ;
+    dc:identifier "LGD" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "легенда"@bg,
+        "legenda"@cs,
+        "forklaring"@da,
+        "Legende"@de,
+        "λεζάντα"@el,
+        "legend"@en,
+        "leyenda"@es,
+        "selgitus"@et,
+        "seliteteksti"@fi,
+        "légende"@fr,
+        "eochair"@ga,
+        "legenda"@hr,
+        "magyarázat"@hu,
+        "legenda"@it,
+        "legenda"@lt,
+        "apzīmējumi"@lv,
+        "leġġenda"@mt,
+        "legenda"@nl,
+        "objaśnienia"@pl,
+        "legenda"@pt,
+        "legendă"@ro,
+        "vysvetlivky"@sk,
+        "legenda"@sl,
+        "förklaring"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/LLG> a skos:Concept ;
+    at:authority-code "LLG" ;
+    at:deprecated "false" ;
+    at:op-code "LLG" ;
+    at:start.use "1952-12-30" ;
+    atold:op-code "LLG" ;
+    dc:identifier "LLG" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "ред на легенда"@bg,
+        "řádek legenda"@cs,
+        "forklaring af element"@da,
+        "Legendenzeile"@de,
+        "γραμμή λεζάντας"@el,
+        "line of legend"@en,
+        "línea de leyenda"@es,
+        "selgituse rida"@et,
+        "selitetekstin rivi"@fi,
+        "ligne de légende"@fr,
+        "líne na heochrach"@ga,
+        "red legende"@hr,
+        "magyarázatsor"@hu,
+        "riga di legenda"@it,
+        "legendos eilutė"@lt,
+        "apzīmējuma rindiņa"@lv,
+        "linja tal-leġġenda"@mt,
+        "legendaregel"@nl,
+        "wiersz objaśnień"@pl,
+        "linha de legenda"@pt,
+        "descrierea unui element din legend"@ro,
+        "riadok vysvetliviek"@sk,
+        "vrstica legend"@sl,
+        "rad i förklaring"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/LST> a skos:Concept ;
+    at:authority-code "LST" ;
+    at:deprecated "false" ;
+    at:op-code "LST" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "LI" ;
+            dc:source "FORMEX" ] ;
+    at:start.use "1952-12-30" ;
+    atold:op-code "LST" ;
+    dc:identifier "LST" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "списък"@bg,
+        "seznam"@cs,
+        "liste"@da,
+        "Liste"@de,
+        "κατάλογος"@el,
+        "list"@en,
+        "lista"@es,
+        "nimekiri"@et,
+        "luettelo"@fi,
+        "liste"@fr,
+        "liostaigh"@ga,
+        "popis"@hr,
+        "lista"@hu,
+        "elenco"@it,
+        "sąrašas"@lt,
+        "saraksts"@lv,
+        "lista"@mt,
+        "lijst"@nl,
+        "wykaz"@pl,
+        "lista"@pt,
+        "listă"@ro,
+        "zoznam"@sk,
+        "seznam"@sl,
+        "förteckning"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/LTR> a skos:Concept ;
+    at:authority-code "LTR" ;
+    at:deprecated "false" ;
+    at:op-code "LTR" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "LT" ;
+            dc:source "FORMEX" ] ;
+    at:start.use "1952-12-30" ;
+    atold:op-code "LTR" ;
+    dc:identifier "LTR" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "писмо"@bg,
+        "dopis"@cs,
+        "brev"@da,
+        "Schreiben"@de,
+        "επιστολή"@el,
+        "letter"@en,
+        "carta"@es,
+        "kiri"@et,
+        "kirje"@fi,
+        "lettre"@fr,
+        "litir"@ga,
+        "pismo"@hr,
+        "levél"@hu,
+        "lettera"@it,
+        "raštas"@lt,
+        "vēstule"@lv,
+        "ittra"@mt,
+        "brief"@nl,
+        "list"@pl,
+        "carta"@pt,
+        "scrisoare"@ro,
+        "list"@sk,
+        "pismo"@sl,
+        "skrivelse"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/MNT> a skos:Concept ;
+    at:authority-code "MNT" ;
+    at:deprecated "false" ;
+    at:op-code "MNT" ;
+    at:start.use "1952-12-30" ;
+    atold:op-code "MNT" ;
+    dc:identifier "MNT" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "протокол"@bg,
+        "zápis"@cs,
+        "protokol"@da,
+        "Protokoll"@de,
+        "συνοπτικά πρακτικά"@el,
+        "minutes"@en,
+        "acta"@es,
+        "protokoll"@et,
+        "pöytäkirja"@fi,
+        "procès-verbal"@fr,
+        "miontuairiscí"@ga,
+        "zapisnik"@hr,
+        "jegyzőkönyv"@hu,
+        "processo verbale"@it,
+        "posėdžio protokolas"@lt,
+        "protokols"@lv,
+        "minuti"@mt,
+        "notulen"@nl,
+        "protokół"@pl,
+        "ata"@pt,
+        "proces-verbal"@ro,
+        "zápisnica"@sk,
+        "zapisnik"@sl,
+        "protokoll"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/NOT> a skos:Concept ;
+    at:authority-code "NOT" ;
+    at:deprecated "false" ;
+    at:op-code "NOT" ;
+    at:start.use "1952-12-30" ;
+    atold:op-code "NOT" ;
+    dc:identifier "NOT" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "забележка"@bg,
+        "poznámka"@cs,
+        "note"@da,
+        "Anmerkung"@de,
+        "σημείωση"@el,
+        "note"@en,
+        "nota"@es,
+        "märkus"@et,
+        "huomautus"@fi,
+        "note"@fr,
+        "nóta"@ga,
+        "napomena"@hr,
+        "megjegyzés"@hu,
+        "nota"@it,
+        "pastaba"@lt,
+        "piezīme"@lv,
+        "nota"@mt,
+        "opmerking"@nl,
+        "uwaga"@pl,
+        "nota"@pt,
+        "notă"@ro,
+        "poznámka"@sk,
+        "opomba"@sl,
+        "anmärkning"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/OP_DATPRO> a skos:Concept ;
+    at:op-code "OP_DATPRO" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "НЕОКОНЧАТЕЛНИ ДАННИ"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/OTH> a skos:Concept ;
+    at:authority-code "OTH" ;
+    at:deprecated "false" ;
+    at:op-code "OTH" ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "OTH" ;
+    dc:identifier "OTH" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "друг"@bg,
+        "ostatní"@cs,
+        "andre"@da,
+        "andere"@de,
+        "άλλο"@el,
+        "other"@en,
+        "otro"@es,
+        "muu"@et,
+        "muut"@fi,
+        "autre"@fr,
+        "eile"@ga,
+        "drugi"@hr,
+        "egyéb"@hu,
+        "altro"@it,
+        "kita"@lt,
+        "citi"@lv,
+        "oħra"@mt,
+        "overige"@nl,
+        "inne"@pl,
+        "outro"@pt,
+        "altele"@ro,
+        "ostatné"@sk,
+        "drugo"@sl,
+        "andra"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/PAG> a skos:Concept ;
+    at:authority-code "PAG" ;
+    at:deprecated "false" ;
+    at:op-code "PAG" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "PG" ;
+            dc:source "FORMEX" ] ;
+    at:start.use "1952-12-30" ;
+    atold:op-code "PAG" ;
+    dc:identifier "PAG" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "страница"@bg,
+        "stránka"@cs,
+        "side"@da,
+        "Seite"@de,
+        "σελίδα"@el,
+        "page"@en,
+        "página"@es,
+        "lehekülg"@et,
+        "sivu"@fi,
+        "page"@fr,
+        "leathanach"@ga,
+        "stranica"@hr,
+        "oldal"@hu,
+        "pagina"@it,
+        "puslapis"@lt,
+        "lappuse"@lv,
+        "paġna"@mt,
+        "bladzijde"@nl,
+        "strona"@pl,
+        "página"@pt,
+        "pagină"@ro,
+        "strana"@sk,
+        "stran"@sl,
+        "sida"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/PAR> a skos:Concept ;
+    at:authority-code "PAR" ;
+    at:deprecated "false" ;
+    at:op-code "PAR" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "P" ;
+            dc:source "CJ" ],
+        [ a at:MappedCode ;
+            at:legacy-code "PA" ;
+            dc:source "FORMEX" ] ;
+    at:start.use "2015-03-18" ;
+    atold:op-code "PAR" ;
+    dc:identifier "PAR" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "параграф"@bg,
+        "odstavec"@cs,
+        "stykke"@da,
+        "Absatz"@de,
+        "παράγραφος"@el,
+        "paragraph"@en,
+        "apartado"@es,
+        "lõige"@et,
+        "kohta"@fi,
+        "paragraphe"@fr,
+        "mír"@ga,
+        "stavak"@hr,
+        "bekezdés"@hu,
+        "paragrafo"@it,
+        "dalis"@lt,
+        "punkts"@lv,
+        "paragrafu"@mt,
+        "lid"@nl,
+        "ustęp"@pl,
+        "número"@pt,
+        "alineat"@ro,
+        "očíslovaný odsek"@sk,
+        "odstavek"@sl,
+        "punkt"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/PBL> a skos:Concept ;
+    at:authority-code "PBL" ;
+    at:deprecated "false" ;
+    at:op-code "PBL" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "PB" ;
+            dc:source "FORMEX" ],
+        [ a at:MappedCode ;
+            at:legacy-code "PR" ;
+            dc:source "CJ" ] ;
+    at:start.use "2015-03-18" ;
+    atold:op-code "PBL" ;
+    dc:identifier "PBL" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "преамбюл"@bg,
+        "preambule"@cs,
+        "præambel"@da,
+        "Präambel"@de,
+        "προοίμιο"@el,
+        "preamble"@en,
+        "preámbulo"@es,
+        "preambul"@et,
+        "johdanto-osa"@fi,
+        "préambule"@fr,
+        "brollach"@ga,
+        "preambula"@hr,
+        "preambulum"@hu,
+        "preambolo"@it,
+        "preambulė"@lt,
+        "preambula"@lv,
+        "preambolu"@mt,
+        "preambule"@nl,
+        "preambuła"@pl,
+        "preâmbulo"@pt,
+        "preambul"@ro,
+        "preambula"@sk,
+        "preambula"@sl,
+        "ingress"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/PCD> a skos:Concept ;
+    at:authority-code "PCD" ;
+    at:deprecated "false" ;
+    at:op-code "PCD" ;
+    at:start.use "1952-12-30" ;
+    atold:op-code "PCD" ;
+    dc:identifier "PCD" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "процедура"@bg,
+        "postup"@cs,
+        "procedure"@da,
+        "Verfahren"@de,
+        "διαδικασία"@el,
+        "procedure"@en,
+        "procedimiento"@es,
+        "menetlus"@et,
+        "menettely"@fi,
+        "procédure"@fr,
+        "nós imeachta"@ga,
+        "postupak"@hr,
+        "eljárás"@hu,
+        "procedura"@it,
+        "procedūra"@lt,
+        "procedūra"@lv,
+        "proċedura"@mt,
+        "procedure"@nl,
+        "procedura"@pl,
+        "procedimento"@pt,
+        "procedură"@ro,
+        "postup"@sk,
+        "postopek"@sl,
+        "förfarande"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/PNT> a skos:Concept ;
+    at:authority-code "PNT" ;
+    at:deprecated "false" ;
+    at:op-code "PNT" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "PT" ;
+            dc:source "FORMEX" ],
+        [ a at:MappedCode ;
+            at:legacy-code "PT" ;
+            dc:source "CJ" ] ;
+    at:start.use "2015-03-18" ;
+    atold:op-code "PNT" ;
+    dc:identifier "PNT" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "точка"@bg,
+        "bod"@cs,
+        "nummer"@da,
+        "Nummer"@de,
+        "σημείο"@el,
+        "point"@en,
+        "punto"@es,
+        "punkt"@et,
+        "alakohta"@fi,
+        "point"@fr,
+        "pointe"@ga,
+        "točka"@hr,
+        "pont"@hu,
+        "punto"@it,
+        "punktas"@lt,
+        "punkts"@lv,
+        "punt"@mt,
+        "punt"@nl,
+        "punkt"@pl,
+        "ponto"@pt,
+        "punct"@ro,
+        "bod"@sk,
+        "točka"@sl,
+        "led"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/PRO> a skos:Concept ;
+    at:authority-code "PRO" ;
+    at:deprecated "false" ;
+    at:op-code "PRO" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "PC" ;
+            dc:source "FORMEX" ] ;
+    at:start.use "1952-12-30" ;
+    atold:op-code "PRO" ;
+    dc:identifier "PRO" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "протокол"@bg,
+        "protokol"@cs,
+        "protokol"@da,
+        "Protokoll"@de,
+        "πρωτόκολλο"@el,
+        "protocol"@en,
+        "protocolo"@es,
+        "protokoll"@et,
+        "pöytäkirja"@fi,
+        "protocole"@fr,
+        "prótacal"@ga,
+        "protokol"@hr,
+        "jegyzőkönyv"@hu,
+        "protocollo"@it,
+        "protokolas"@lt,
+        "protokols"@lv,
+        "protokoll"@mt,
+        "protocol"@nl,
+        "protokół"@pl,
+        "protocolo"@pt,
+        "protocol"@ro,
+        "protokol"@sk,
+        "protokol"@sl,
+        "protokoll"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/PRT> a skos:Concept ;
+    at:authority-code "PRT" ;
+    at:deprecated "false" ;
+    at:op-code "PRT" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "PART" ;
+            dc:source "CJ" ],
+        [ a at:MappedCode ;
+            at:legacy-code "PR" ;
+            dc:source "FORMEX" ] ;
+    at:start.use "2015-03-18" ;
+    atold:op-code "PRT" ;
+    dc:identifier "PRT" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "част"@bg,
+        "část"@cs,
+        "del"@da,
+        "Teil"@de,
+        "μέρος"@el,
+        "part"@en,
+        "parte"@es,
+        "osa"@et,
+        "osa"@fi,
+        "partie"@fr,
+        "cuid"@ga,
+        "dio"@hr,
+        "rész"@hu,
+        "parte"@it,
+        "dalis"@lt,
+        "daļa"@lv,
+        "parti"@mt,
+        "deel"@nl,
+        "część"@pl,
+        "parte"@pt,
+        "parte"@ro,
+        "časť"@sk,
+        "del"@sl,
+        "del"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/PTA> a skos:Concept ;
+    at:authority-code "PTA" ;
+    at:deprecated "false" ;
+    at:op-code "PTA" ;
+    at:start.use "1952-12-30" ;
+    atold:op-code "PTA" ;
+    dc:identifier "PTA" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "буква"@bg,
+        "písmeno"@cs,
+        "litra"@da,
+        "Buchstabe"@de,
+        "στοιχείο"@el,
+        "point"@en,
+        "letra"@es,
+        "punkt"@et,
+        "alakohta"@fi,
+        "point"@fr,
+        "pointe"@ga,
+        "točka"@hr,
+        "pont"@hu,
+        "lettera"@it,
+        "punktas"@lt,
+        "punkts"@lv,
+        "punt"@mt,
+        "punt"@nl,
+        "litera"@pl,
+        "alínea"@pt,
+        "literă"@ro,
+        "písmeno"@sk,
+        "točka"@sl,
+        "led"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/PTI> a skos:Concept ;
+    at:authority-code "PTI" ;
+    at:deprecated "false" ;
+    at:op-code "PTI" ;
+    at:start.use "1952-12-30" ;
+    atold:op-code "PTI" ;
+    dc:identifier "PTI" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "подточка"@bg,
+        "podbod"@cs,
+        "nummer"@da,
+        "Ziffer"@de,
+        "σημείο"@el,
+        "point"@en,
+        "inciso"@es,
+        "alapunkt"@et,
+        "alakohta"@fi,
+        "point"@fr,
+        "pointe"@ga,
+        "točka"@hr,
+        "alpont"@hu,
+        "punto"@it,
+        "papunktis"@lt,
+        "apakšpunkts"@lv,
+        "punt"@mt,
+        "punt"@nl,
+        "podpunkt"@pl,
+        "subalínea"@pt,
+        "subpunct"@ro,
+        "bod"@sk,
+        "točka"@sl,
+        "led"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/RCT> a skos:Concept ;
+    at:authority-code "RCT" ;
+    at:deprecated "false" ;
+    at:op-code "RCT" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "C" ;
+            dc:source "CJ" ],
+        [ a at:MappedCode ;
+            at:legacy-code "CO" ;
+            dc:source "FORMEX" ] ;
+    at:start.use "2015-03-18" ;
+    atold:op-code "RCT" ;
+    dc:identifier "RCT" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "съображение"@bg,
+        "bod odůvodnění"@cs,
+        "betragtning"@da,
+        "Erwägungsgrund"@de,
+        "αιτιολογική σκέψη"@el,
+        "recital"@en,
+        "considerando"@es,
+        "põhjendus"@et,
+        "johdanto-osan kappale"@fi,
+        "considérant"@fr,
+        "aithris"@ga,
+        "uvodna izjava"@hr,
+        "preambulumbekezdés"@hu,
+        "considerando"@it,
+        "konstatuojamoji dalis"@lt,
+        "apsvērums"@lv,
+        "premessa"@mt,
+        "overweging"@nl,
+        "motyw"@pl,
+        "considerando"@pt,
+        "considerent"@ro,
+        "odôvodnenie"@sk,
+        "uvodna izjava"@sl,
+        "skäl"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/ROW> a skos:Concept ;
+    at:authority-code "ROW" ;
+    at:deprecated "false" ;
+    at:op-code "ROW" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "RO" ;
+            dc:source "FORMEX" ] ;
+    at:start.use "1952-12-30" ;
+    atold:op-code "ROW" ;
+    dc:identifier "ROW" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "ред на таблица"@bg,
+        "řádek tabulky"@cs,
+        "tabelrække"@da,
+        "Tabellenzeile"@de,
+        "σειρά πίνακα"@el,
+        "table row"@en,
+        "línea de cuadro"@es,
+        "tabeli rida"@et,
+        "taulukon rivi"@fi,
+        "ligne de tableau"@fr,
+        "ró tábla"@ga,
+        "red tablice"@hr,
+        "táblázatsor"@hu,
+        "riga della tabella"@it,
+        "lentelės eilutė"@lt,
+        "tabulas rinda"@lv,
+        "ringiela tat-tabella"@mt,
+        "tabelrij"@nl,
+        "wiersz tabeli"@pl,
+        "linha de quadro"@pt,
+        "rând de tabel"@ro,
+        "riadok tabuľky"@sk,
+        "vrstica tabele"@sl,
+        "tabellrad"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/RUL> a skos:Concept ;
+    at:authority-code "RUL" ;
+    at:deprecated "false" ;
+    at:op-code "RUL" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "R" ;
+            dc:source "CJ" ] ;
+    at:start.use "2015-03-18" ;
+    atold:op-code "RUL" ;
+    dc:identifier "RUL" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "правило"@bg,
+        "pravidlo"@cs,
+        "regel"@da,
+        "Regel"@de,
+        "κανόνας"@el,
+        "rule"@en,
+        "regla"@es,
+        "eeskiri"@et,
+        "sääntö"@fi,
+        "règle"@fr,
+        "riail"@ga,
+        "pravilo"@hr,
+        "szabály"@hu,
+        "regola"@it,
+        "taisyklė"@lt,
+        "noteikums"@lv,
+        "regola"@mt,
+        "regel"@nl,
+        "zasada"@pl,
+        "regra"@pt,
+        "regulă"@ro,
+        "pravidlo"@sk,
+        "pravilo"@sl,
+        "regel"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/SBS> a skos:Concept ;
+    at:authority-code "SBS" ;
+    at:deprecated "false" ;
+    at:op-code "SBS" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "SD" ;
+            dc:source "FORMEX" ] ;
+    at:start.use "1952-12-30" ;
+    atold:op-code "SBS" ;
+    dc:identifier "SBS" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "подраздел"@bg,
+        "pododdíl"@cs,
+        "hovedafdeling"@da,
+        "Unterabschnitt"@de,
+        "υποτμήμα"@el,
+        "subsection"@en,
+        "subsección"@es,
+        "alajagu"@et,
+        "alajakso"@fi,
+        "sous-section"@fr,
+        "foroinn"@ga,
+        "pododjeljak"@hr,
+        "alszakasz"@hu,
+        "sottosezione"@it,
+        "poskirsnis"@lt,
+        "apakšiedaļa"@lv,
+        "sottotaqsima"@mt,
+        "onderafdeling"@nl,
+        "podsekcja"@pl,
+        "subsecção"@pt,
+        "subsecțiune"@ro,
+        "pododdiel"@sk,
+        "pododdelek"@sl,
+        "underavsnitt"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/SCT> a skos:Concept ;
+    at:authority-code "SCT" ;
+    at:deprecated "false" ;
+    at:op-code "SCT" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "SE" ;
+            dc:source "FORMEX" ],
+        [ a at:MappedCode ;
+            at:legacy-code "S" ;
+            dc:source "CJ" ] ;
+    at:start.use "2015-03-18" ;
+    atold:op-code "SCT" ;
+    dc:identifier "SCT" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "раздел"@bg,
+        "oddíl"@cs,
+        "afdeling"@da,
+        "Abschnitt"@de,
+        "τμήμα"@el,
+        "section"@en,
+        "sección"@es,
+        "jagu"@et,
+        "jakso"@fi,
+        "section"@fr,
+        "roinn"@ga,
+        "odjeljak"@hr,
+        "szakasz"@hu,
+        "sezione"@it,
+        "skirsnis"@lt,
+        "iedaļa"@lv,
+        "taqsima"@mt,
+        "afdeling"@nl,
+        "sekcja"@pl,
+        "secção"@pt,
+        "secțiune"@ro,
+        "oddiel"@sk,
+        "oddelek"@sl,
+        "avsnitt"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/SFR> a skos:Concept ;
+    at:authority-code "SFR" ;
+    at:deprecated "false" ;
+    at:op-code "SFR" ;
+    at:start.use "1952-12-30" ;
+    atold:op-code "SFR" ;
+    dc:identifier "SFR" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "научна формула"@bg,
+        "vědecký vzorec"@cs,
+        "videnskabelig formel"@da,
+        "Wissenschaftliche Formel"@de,
+        "επιστημονικός τύπος"@el,
+        "scientific formula"@en,
+        "fórmula científica"@es,
+        "teaduslik valem"@et,
+        "tieteellinen kaava"@fi,
+        "formule scientifique"@fr,
+        "foirmle eolaíoch"@ga,
+        "znanstvena formula"@hr,
+        "tudományos képlet"@hu,
+        "formula scientifica"@it,
+        "mokslinė formulė"@lt,
+        "zinātniska formula"@lv,
+        "formula xjentifika"@mt,
+        "wetenschappelijke formule"@nl,
+        "wzór naukowy"@pl,
+        "fórmula científica"@pt,
+        "formulă științifică"@ro,
+        "vedecký vzorec"@sk,
+        "znanstvena formula"@sl,
+        "vetenskaplig formel"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/SNT> a skos:Concept ;
+    at:authority-code "SNT" ;
+    at:deprecated "false" ;
+    at:op-code "SNT" ;
+    at:start.use "1952-12-30" ;
+    atold:op-code "SNT" ;
+    dc:identifier "SNT" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "изречение"@bg,
+        "věta"@cs,
+        "punktum"@da,
+        "Satz"@de,
+        "πρόταση"@el,
+        "sentence"@en,
+        "frase"@es,
+        "lause"@et,
+        "virke"@fi,
+        "phrase"@fr,
+        "abairt"@ga,
+        "rečenica"@hr,
+        "mondat"@hu,
+        "frase"@it,
+        "sakinys"@lt,
+        "teikums"@lv,
+        "sentenza"@mt,
+        "zin"@nl,
+        "zdanie"@pl,
+        "período"@pt,
+        "teză"@ro,
+        "veta"@sk,
+        "stavek"@sl,
+        "mening"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/SUB> a skos:Concept ;
+    at:authority-code "SUB" ;
+    at:deprecated "false" ;
+    at:op-code "SUB" ;
+    at:start.use "1952-12-30" ;
+    atold:op-code "SUB" ;
+    dc:identifier "SUB" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "алинея"@bg,
+        "pododstavec"@cs,
+        "afsnit"@da,
+        "Unterabsatz"@de,
+        "εδάφιο"@el,
+        "subparagraph"@en,
+        "párrafo"@es,
+        "lõik"@et,
+        "alakohta"@fi,
+        "alinéa"@fr,
+        "fomhír"@ga,
+        "podstavak"@hr,
+        "albekezdés"@hu,
+        "comma"@it,
+        "pastraipa"@lt,
+        "daļa"@lv,
+        "subparagrafu"@mt,
+        "alinea"@nl,
+        "akapit"@pl,
+        "parágrafo"@pt,
+        "paragraf"@ro,
+        "pododsek"@sk,
+        "pododstavek"@sl,
+        "stycke"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/TAB> a skos:Concept ;
+    at:authority-code "TAB" ;
+    at:deprecated "false" ;
+    at:op-code "TAB" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "TA" ;
+            dc:source "FORMEX" ] ;
+    at:start.use "1952-12-30" ;
+    atold:op-code "TAB" ;
+    dc:identifier "TAB" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "таблица"@bg,
+        "tabulka"@cs,
+        "tabel"@da,
+        "Tabelle"@de,
+        "πίνακας"@el,
+        "table"@en,
+        "cuadro"@es,
+        "tabel"@et,
+        "taulukko"@fi,
+        "tableau"@fr,
+        "tábla"@ga,
+        "tablica"@hr,
+        "táblázat"@hu,
+        "tabella"@it,
+        "lentelė"@lt,
+        "tabula"@lv,
+        "tabella"@mt,
+        "tabel"@nl,
+        "tabela"@pl,
+        "tabela"@pt,
+        "tabel"@ro,
+        "tabuľka"@sk,
+        "tabela"@sl,
+        "tabell"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/TBG> a skos:Concept ;
+    at:authority-code "TBG" ;
+    at:deprecated "false" ;
+    at:op-code "TBG" ;
+    at:start.use "2004-05-01" ;
+    atold:op-code "TBG" ;
+    dc:identifier "TBG" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "група таблици"@bg,
+        "skupina tabulek"@cs,
+        "gruppe af tabeller"@da,
+        "Gruppen von Tabellen"@de,
+        "οlμάδα πινάκων"@el,
+        "group of tables"@en,
+        "grupo de cuadros"@es,
+        "tabelite rühm"@et,
+        "taulukkoryhmä"@fi,
+        "groupe de tableaux"@fr,
+        "grúpa táblaí"@ga,
+        "skup tablica"@hr,
+        "táblázatcsoport"@hu,
+        "gruppo di tabelle"@it,
+        "lentelių grupė"@lt,
+        "tabulu grupa"@lv,
+        "grupp ta’ tabelli"@mt,
+        "groep tabellen"@nl,
+        "grupa tabel"@pl,
+        "grupo de quadros"@pt,
+        "grup de tabele"@ro,
+        "skupina tabuliek"@sk,
+        "skupina tabel"@sl,
+        "grupp av tabeller"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/TIS> a skos:Concept ;
+    at:authority-code "TIS" ;
+    at:deprecated "false" ;
+    at:op-code "TIS" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "TT" ;
+            dc:source "FORMEX" ] ;
+    at:start.use "1952-12-30" ;
+    atold:op-code "TIS" ;
+    dc:identifier "TIS" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "дял (структурен елемент)"@bg,
+        "hlava (členění textu)"@cs,
+        "afsnit (underopdeling)"@da,
+        "Titel (Gliederungsteil)"@de,
+        "τίτλος (υποδιαίρεση)"@el,
+        "title (subdivision)"@en,
+        "título (subdivisión)"@es,
+        "jaotis (alajaotis)"@et,
+        "osasto (jaottelu)"@fi,
+        "titre (sous-division)"@fr,
+        "teideal (forannán)"@ga,
+        "glava (potpodjela)"@hr,
+        "cím (szerkezeti egység)"@hu,
+        "titolo (suddivisione)"@it,
+        "antraštinė dalis (sudedamoji dalis)"@lt,
+        "sadaļa (pamatiedalījums)"@lv,
+        "titolu (suddiviżjoni)"@mt,
+        "titel (onderverdeling)"@nl,
+        "tytuł (podział)"@pl,
+        "título (subdivisão)"@pt,
+        "titlu (subdiviziune)"@ro,
+        "hlava (jednotlivý prvok)"@sk,
+        "naslov (členitev)"@sl,
+        "avdelning (del)"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/TIT> a skos:Concept ;
+    at:authority-code "TIT" ;
+    at:deprecated "false" ;
+    at:op-code "TIT" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "TIT" ;
+            dc:source "CJ" ],
+        [ a at:MappedCode ;
+            at:legacy-code "TI" ;
+            dc:source "FORMEX" ] ;
+    at:start.use "2015-03-18" ;
+    atold:op-code "TIT" ;
+    dc:identifier "TIT" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "заглавие"@bg,
+        "název"@cs,
+        "titel"@da,
+        "Titel"@de,
+        "τίτλος"@el,
+        "title"@en,
+        "título"@es,
+        "pealkiri"@et,
+        "nimi"@fi,
+        "titre"@fr,
+        "teideal"@ga,
+        "naslov"@hr,
+        "cím"@hu,
+        "titolo"@it,
+        "pavadinimas"@lt,
+        "virsraksts"@lv,
+        "titolu"@mt,
+        "titel"@nl,
+        "tytuł"@pl,
+        "título"@pt,
+        "titlu"@ro,
+        "názov"@sk,
+        "naslov"@sl,
+        "titel"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/TOC> a skos:Concept ;
+    at:authority-code "TOC" ;
+    at:deprecated "false" ;
+    at:op-code "TOC" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "SU" ;
+            dc:source "FORMEX" ] ;
+    at:start.use "1952-12-30" ;
+    atold:op-code "TOC" ;
+    dc:identifier "TOC" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "съдържание"@bg,
+        "obsah"@cs,
+        "indholdsfortegnelse"@da,
+        "Inhaltsverzeichnis"@de,
+        "πίνακας περιεχομένων"@el,
+        "table of contents"@en,
+        "índice"@es,
+        "sisukord"@et,
+        "sisällysluettelo"@fi,
+        "table des matières"@fr,
+        "clár na n-ábhar"@ga,
+        "sadržaj"@hr,
+        "tartalomjegyzék"@hu,
+        "indice"@it,
+        "turinys"@lt,
+        "satura rādītājs"@lv,
+        "werrej"@mt,
+        "inhoudsopgave"@nl,
+        "spis treści"@pl,
+        "índice"@pt,
+        "cuprins"@ro,
+        "obsah"@sk,
+        "kazalo"@sl,
+        "innehållsförteckning"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/TXN> a skos:Concept ;
+    at:authority-code "TXN" ;
+    at:deprecated "false" ;
+    at:op-code "TXN" ;
+    at:start.use "2004-05-01" ;
+    atold:op-code "TXN" ;
+    dc:identifier "TXN" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "нов текст"@bg,
+        "nové znění"@cs,
+        "ny tekst"@da,
+        "neue Fassung"@de,
+        "νέο κείμενο"@el,
+        "new text"@en,
+        "texto nuevo"@es,
+        "uus tekst"@et,
+        "uusi teksti"@fi,
+        "nouveau texte"@fr,
+        "an téacs nua"@ga,
+        "novi tekst"@hr,
+        "új szöveg"@hu,
+        "nuovo testo"@it,
+        "naujas tekstas"@lt,
+        "jaunais teksts"@lv,
+        "test ġdid"@mt,
+        "nieuwe tekst"@nl,
+        "nowy tekst"@pl,
+        "texto novo"@pt,
+        "textul nou"@ro,
+        "nové znenie"@sk,
+        "novo besedilo"@sl,
+        "ny text"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/TXO> a skos:Concept ;
+    at:authority-code "TXO" ;
+    at:deprecated "false" ;
+    at:op-code "TXO" ;
+    at:start.use "2004-05-01" ;
+    atold:op-code "TXO" ;
+    dc:identifier "TXO" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "стар текст"@bg,
+        "staré znění"@cs,
+        "gammel tekst"@da,
+        "alte Fassung"@de,
+        "παλαιό κείμενο"@el,
+        "old text"@en,
+        "texto anterior"@es,
+        "vana tekst"@et,
+        "vanha teksti"@fi,
+        "ancien texte"@fr,
+        "an sean-téacs"@ga,
+        "stari tekst"@hr,
+        "korábbi szöveg"@hu,
+        "testo precedente"@it,
+        "ankstesnis tekstas"@lt,
+        "agrākais teksts"@lv,
+        "test antik"@mt,
+        "oude tekst"@nl,
+        "poprzedni tekst"@pl,
+        "texto antigo"@pt,
+        "textul vechi"@ro,
+        "pôvodné znenie"@sk,
+        "staro besedilo"@sl,
+        "gammal text"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/UNP> a skos:Concept ;
+    at:authority-code "UNP" ;
+    at:deprecated "false" ;
+    at:op-code "UNP" ;
+    at:start.use "1952-12-30" ;
+    atold:op-code "UNP" ;
+    dc:identifier "UNP" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "неномериран параграф"@bg,
+        "pododstavec"@cs,
+        "afsnit"@da,
+        "nicht nummerierter Absatz"@de,
+        "εδάφιο"@el,
+        "unnumbered paragraph"@en,
+        "párrafo"@es,
+        "lõik"@et,
+        "numeroimaton kohta"@fi,
+        "alinéa"@fr,
+        "mír neamhuimhrithe"@ga,
+        "podstavak"@hr,
+        "számozatlan bekezdés"@hu,
+        "comma"@it,
+        "pastraipa"@lt,
+        "nenumurēts punkts"@lv,
+        "paragrafu mhux numerat"@mt,
+        "alinea"@nl,
+        "akapit"@pl,
+        "parágrafo"@pt,
+        "paragraf"@ro,
+        "neočíslovaný odsek"@sk,
+        "neoštevilčeni odstavek"@sl,
+        "stycke"@sv .
+
+<http://publications.europa.eu/resource/authority/subdivision/WRP> a skos:Concept ;
+    at:authority-code "WRP" ;
+    at:deprecated "false" ;
+    at:op-code "WRP" ;
+    at:start.use "1952-12-30" ;
+    atold:op-code "WRP" ;
+    dc:identifier "WRP" ;
+    skos:inScheme atold:subdivision ;
+    skos:prefLabel "финална част"@bg,
+        "uzavírající část"@cs,
+        "afsluttende del"@da,
+        "Abschluss"@de,
+        "τελικό μέρος"@el,
+        "closing part"@en,
+        "parte conclusiva"@es,
+        "lõpetav osa"@et,
+        "loppukappale"@fi,
+        "partie conclusive"@fr,
+        "an chuid dheireanach"@ga,
+        "zaključni dio"@hr,
+        "záró rész"@hu,
+        "parte conclusiva"@it,
+        "baigiamoji dalis"@lt,
+        "noslēguma daļa"@lv,
+        "parti tal-għeluq"@mt,
+        "slot"@nl,
+        "formuła zamykająca"@pl,
+        "último período"@pt,
+        "partea finală"@ro,
+        "záverečná časť"@sk,
+        "zaključni del"@sl,
+        "slutdel"@sv .
+
+atold:subdivision a skos:ConceptScheme ;
+    rdfs:label "Subdivision"@en ;
+    at:prefLabel "Subdivision"@en ;
+    at:table.id "subdivision" ;
+    at:table.version.number "20201216-0" ;
+    owl:versionInfo "20201216-0" ;
+    skos:prefLabel "Subdivision"@en .
+

@@ -1,0 +1,294 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/form-type/OP_DATPRO> a skos:Concept ;
+    at:authority-code "OP_DATPRO" ;
+    at:deprecated "false" ;
+    at:op-code "OP_DATPRO" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:form-type ;
+    skos:prefLabel "Неокончателни данни"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv ;
+    skos:topConceptOf atold:form-type .
+
+<http://publications.europa.eu/resource/authority/form-type/bri> a skos:Concept ;
+    at:authority-code "bri" ;
+    at:deprecated "false" ;
+    at:op-code "bri" ;
+    at:start.use "2021-09-29" ;
+    atold:op-code "bri" ;
+    dc:identifier "bri" ;
+    skos:definition "Information of the creation, transfer or deletion of a registration for the formation or liquidation of a business or an economic group."@en ;
+    skos:inScheme atold:form-type ;
+    skos:prefLabel "Информация за регистрацията на предприятие"@bg,
+        "Informace o registraci podniku"@cs,
+        "Information om virksomhedsregistrering"@da,
+        "Angaben zur Unternehmensregistrierung"@de,
+        "Στοιχεία καταχώρισης επιχειρήσεων"@el,
+        "Business registration information"@en,
+        "Información sobre el registro de empresas"@es,
+        "Ettevõtete registreerimisega seotud teave"@et,
+        "Yritysrekisteritiedot"@fi,
+        "Informations relatives à l’enregistrement des entreprises"@fr,
+        "Eolas faoi chlárú gnó"@ga,
+        "Informacije o registraciji poduzeća"@hr,
+        "Cégadatok"@hu,
+        "Informazioni sulla registrazione delle imprese"@it,
+        "Įmonės registravimo informacija"@lt,
+        "Informācija par uzņēmumu reģistrāciju"@lv,
+        "Informazzjoni dwar ir-reġistrazzjoni tan-negozju"@mt,
+        "Informatie over bedrijfsregistratie"@nl,
+        "Informacja o rejestracji działalności gospodarczej"@pl,
+        "Informações do registo comercial"@pt,
+        "Informații privind statutul în Registrul Comerțului"@ro,
+        "Informácie o registrácii podniku"@sk,
+        "Podatki o registraciji podjetja"@sl,
+        "Bolagsregistreringsinformation"@sv ;
+    skos:topConceptOf atold:form-type .
+
+<http://publications.europa.eu/resource/authority/form-type/change> a skos:Concept ;
+    at:authority-code "change" ;
+    at:deprecated "false" ;
+    at:op-code "change" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "change" ;
+    dc:identifier "change" ;
+    skos:definition "Replacement of a previous notice with different information."@en ;
+    skos:inScheme atold:form-type ;
+    skos:prefLabel "Промяна"@bg,
+        "Oprava"@cs,
+        "Meddelelse om ændring"@da,
+        "Änderung"@de,
+        "Αλλαγή"@el,
+        "Change"@en,
+        "Cambio"@es,
+        "Parandus"@et,
+        "Ilmoituksen muutos"@fi,
+        "Changement"@fr,
+        "Athrú"@ga,
+        "Promjena"@hr,
+        "Változtatás"@hu,
+        "Rettifica"@it,
+        "Pakeitimas"@lt,
+        "Izmaiņas"@lv,
+        "Bidla"@mt,
+        "Wijziging van een aankondiging"@nl,
+        "Zmiana"@pl,
+        "Alteração"@pt,
+        "Schimbare"@ro,
+        "Zmena"@sk,
+        "Sprememba obvestila"@sl,
+        "Ändring"@sv ;
+    skos:topConceptOf atold:form-type .
+
+<http://publications.europa.eu/resource/authority/form-type/competition> a skos:Concept ;
+    at:authority-code "competition" ;
+    at:deprecated "false" ;
+    at:op-code "competition" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "competition" ;
+    dc:identifier "competition" ;
+    skos:definition "The contracting authority or contracting entity may limit the number of candidates or tenderers to an appropriate level, on condition that this is done in a transparent manner and on the basis of objective criteria. The number of candidates or tenderers invited shall be sufficient to ensure genuine competition."@en ;
+    skos:inScheme atold:form-type ;
+    skos:prefLabel "Състезателна процедура"@bg,
+        "Zadávání"@cs,
+        "Konkurrencevilkår"@da,
+        "Wettbewerb"@de,
+        "Aνταγωνισμός"@el,
+        "Competition"@en,
+        "Licitación"@es,
+        "Hange"@et,
+        "Kilpailu"@fi,
+        "Mise en concurrence"@fr,
+        "Iomaíocht"@ga,
+        "Nadmetanje"@hr,
+        "Verseny"@hu,
+        "Gara"@it,
+        "Konkursas"@lt,
+        "Konkurss"@lv,
+        "Kompetizzjoni"@mt,
+        "Mededinging"@nl,
+        "Procedura konkurencyjna"@pl,
+        "Concurso"@pt,
+        "Procedură concurențială"@ro,
+        "Súťaž"@sk,
+        "Javni razpis"@sl,
+        "Konkurrensvillkor"@sv ;
+    skos:topConceptOf atold:form-type .
+
+<http://publications.europa.eu/resource/authority/form-type/cont-modif> a skos:Concept ;
+    at:authority-code "cont-modif" ;
+    at:deprecated "false" ;
+    at:op-code "cont-modif" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "cont-modif" ;
+    dc:identifier "cont-modif" ;
+    skos:definition "Any change done in the contract."@en ;
+    skos:inScheme atold:form-type ;
+    skos:prefLabel "Изменение на договор"@bg,
+        "Změna smlouvy"@cs,
+        "Kontraktændring"@da,
+        "Auftragsänderung"@de,
+        "Τροποποίηση σύμβασης"@el,
+        "Contract modification"@en,
+        "Modificación de contrato"@es,
+        "Lepingu muutmine"@et,
+        "Sopimusmuutokset"@fi,
+        "Modification du marché"@fr,
+        "Mionathrú conartha"@ga,
+        "Izmjena ugovora"@hr,
+        "Szerződésmódosítás"@hu,
+        "Modifica dell'appalto"@it,
+        "Sutarties keitimas"@lt,
+        "Līguma grozījumi"@lv,
+        "Modifika fil-kuntratt"@mt,
+        "Wijziging van een opdracht"@nl,
+        "Modyfikacja umowy"@pl,
+        "Modificação do contrato"@pt,
+        "Modificări aduse contractului"@ro,
+        "Úprava zmluvy"@sk,
+        "Sprememba naročila"@sl,
+        "Kontraktsändring"@sv ;
+    skos:topConceptOf atold:form-type .
+
+<http://publications.europa.eu/resource/authority/form-type/dir-awa-pre> a skos:Concept ;
+    at:authority-code "dir-awa-pre" ;
+    at:deprecated "false" ;
+    at:op-code "dir-awa-pre" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "dir-awa-pre" ;
+    dc:identifier "dir-awa-pre" ;
+    skos:definition "Prior notification of a direct award."@en ;
+    skos:inScheme atold:form-type ;
+    skos:prefLabel "Предварителна обява за пряко възлагане"@bg,
+        "Oznámení o záměru uzavřít smlouvu"@cs,
+        "Forudgående underretning om direkte tildeling"@da,
+        "Vorankündigung – Direktvergabe"@de,
+        "Προκοινοποίηση απευθείας ανάθεσης"@el,
+        "Direct award preannouncement"@en,
+        "Notificación previa de adjudicación directa"@es,
+        "Teavitamine kavandatavast otselepingust"@et,
+        "Ennakkoilmoitus suorahankinnasta"@fi,
+        "Notification préalable d’attribution directe"@fr,
+        "Réamhfhógra maidir le dámhachtain dhíreach"@ga,
+        "Prethodna obavijest o izravnoj dodjeli"@hr,
+        "Közvetlen odaítélés előzetes bejelentése"@hu,
+        "Preavviso di aggiudicazione diretta"@it,
+        "Išankstinis skelbimas apie tiesioginį sutarties skyrimą"@lt,
+        "Tiešas piešķiršanas priekšpaziņojums"@lv,
+        "Notifika minn qabel tal-għoti dirett"@mt,
+        "Vooraankondiging onderhandse gunning"@nl,
+        "Uprzednie zawiadomienie o bezpośrednim udzieleniu zamówienia"@pl,
+        "Pré-anúncio de adjudicação direta"@pt,
+        "Notificare prealabilă a atribuirii directe"@ro,
+        "Predbežné oznámenie o zámere uzavrieť zmluvu"@sk,
+        "Predhodno obvestilo o neposredni dodelitvi"@sl,
+        "Förhandsmeddelande om direkttilldelning"@sv ;
+    skos:topConceptOf atold:form-type .
+
+<http://publications.europa.eu/resource/authority/form-type/planning> a skos:Concept ;
+    at:authority-code "planning" ;
+    at:deprecated "false" ;
+    at:op-code "planning" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "planning" ;
+    dc:identifier "planning" ;
+    skos:definition "Procurement preparation and set-up."@en ;
+    skos:inScheme atold:form-type ;
+    skos:prefLabel "Планиране"@bg,
+        "Plánování"@cs,
+        "Planlægning"@da,
+        "Planung"@de,
+        "Σχεδιασμός"@el,
+        "Planning"@en,
+        "Planificación"@es,
+        "Kavandamine"@et,
+        "Suunnittelu"@fi,
+        "Planification"@fr,
+        "Pleanáil"@ga,
+        "Planiranje"@hr,
+        "Tervezés"@hu,
+        "Programmazione"@it,
+        "Planuojamas pirkimas"@lt,
+        "Plānošana"@lv,
+        "Ippjanar"@mt,
+        "Geplande opdracht"@nl,
+        "Plan zakupu"@pl,
+        "Planeamento"@pt,
+        "Planificare"@ro,
+        "Plánovanie obstarávania"@sk,
+        "Načrtovanje"@sl,
+        "Planering"@sv ;
+    skos:topConceptOf atold:form-type .
+
+<http://publications.europa.eu/resource/authority/form-type/result> a skos:Concept ;
+    at:authority-code "result" ;
+    at:deprecated "false" ;
+    at:op-code "result" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "result" ;
+    dc:identifier "result" ;
+    skos:definition "Outcome of the call for tender."@en ;
+    skos:inScheme atold:form-type ;
+    skos:prefLabel "Резултат"@bg,
+        "Výsledek"@cs,
+        "Resultater"@da,
+        "Ergebnis"@de,
+        "Αποτέλεσμα"@el,
+        "Result"@en,
+        "Resultados"@es,
+        "Tulemus"@et,
+        "Tulokset"@fi,
+        "Résultats"@fr,
+        "Toradh"@ga,
+        "Rezultati"@hr,
+        "Eredmény"@hu,
+        "Risultati"@it,
+        "Rezultatai"@lt,
+        "Rezultāts"@lv,
+        "Riżultat"@mt,
+        "Resultaat"@nl,
+        "Wyniki"@pl,
+        "Resultados"@pt,
+        "Rezultat"@ro,
+        "Výsledok"@sk,
+        "Rezultati"@sl,
+        "Resultat"@sv ;
+    skos:topConceptOf atold:form-type .
+
+atold:form-type a skos:ConceptScheme ;
+    rdfs:label "Form type"@en ;
+    at:prefLabel "Form type"@en ;
+    at:table.id "form-type" ;
+    at:table.version.number "20220615-0" ;
+    owl:versionInfo "20220615-0" ;
+    skos:prefLabel "Form type"@en .
+

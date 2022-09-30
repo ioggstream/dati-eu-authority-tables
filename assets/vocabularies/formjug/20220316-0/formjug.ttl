@@ -1,0 +1,2074 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix euvoc: <http://publications.europa.eu/ontology/euvoc#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://publications.europa.eu/resource/authority/formjug/CHAMB_01_C> a skos:Concept ;
+    at:authority-code "CHAMB_01_C" ;
+    at:deprecated "false" ;
+    at:op-code "CHAMB_01_C" ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "CHAMB_01_C" ;
+    dc:identifier "CHAMB_01_C" ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/5417b1ae448a4e6514eeb89beba4fb7d> ;
+    skos:prefLabel "Първи състав"@bg,
+        "První senát"@cs,
+        "Første Afdeling"@da,
+        "Erste Kammer"@de,
+        "Πρώτο τμήμα"@el,
+        "First Chamber"@en,
+        "Sala Primera"@es,
+        "Esimene koda"@et,
+        "Ensimmäinen jaosto"@fi,
+        "Première chambre"@fr,
+        "An Chéad Dlísheomra"@ga,
+        "Prvo vijeće"@hr,
+        "Első tanács"@hu,
+        "Prima Sezione"@it,
+        "Pirmoji kolegija"@lt,
+        "Pirmā palāta"@lv,
+        "L-Ewwel Awla"@mt,
+        "Eerste kamer"@nl,
+        "Pierwsza izba"@pl,
+        "Primeira Secção"@pt,
+        "Camera întâi"@ro,
+        "Prvá komora"@sk,
+        "Prvi senat"@sl,
+        "Första avdelningen"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/CHAMB_01_F> a skos:Concept ;
+    at:authority-code "CHAMB_01_F" ;
+    at:deprecated "false" ;
+    at:op-code "CHAMB_01_F" ;
+    at:start.use "2004-11-02" ;
+    atold:op-code "CHAMB_01_F" ;
+    dc:identifier "CHAMB_01_F" ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/ae1494c99e9efbfa29319c103ee98fe2> ;
+    skos:prefLabel "Първи състав"@bg,
+        "První senát"@cs,
+        "Første Afdeling"@da,
+        "Erste Kammer"@de,
+        "Πρώτο τμήμα"@el,
+        "First Chamber"@en,
+        "Sala Primera"@es,
+        "Esimene koda"@et,
+        "Ensimmäinen jaosto"@fi,
+        "Première chambre"@fr,
+        "An Chéad Dlísheomra"@ga,
+        "Prvo vijeće"@hr,
+        "Első tanács"@hu,
+        "Prima Sezione"@it,
+        "Pirmoji kolegija"@lt,
+        "Pirmā palāta"@lv,
+        "L-Ewwel Awla"@mt,
+        "Eerste kamer"@nl,
+        "Pierwsza izba"@pl,
+        "Primeira Secção"@pt,
+        "Camera întâi"@ro,
+        "Prvá komora"@sk,
+        "Prvi senat"@sl,
+        "Första avdelningen"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/CHAMB_01_T> a skos:Concept ;
+    at:authority-code "CHAMB_01_T" ;
+    at:deprecated "false" ;
+    at:op-code "CHAMB_01_T" ;
+    at:start.use "1988-01-01" ;
+    atold:op-code "CHAMB_01_T" ;
+    dc:identifier "CHAMB_01_T" ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/039d7a58c8f10d2dec6df21741af331c> ;
+    skos:prefLabel "Първи състав"@bg,
+        "První senát"@cs,
+        "Første Afdeling"@da,
+        "Erste Kammer"@de,
+        "Πρώτο τμήμα"@el,
+        "First Chamber"@en,
+        "Sala Primera"@es,
+        "Esimene koda"@et,
+        "Ensimmäinen jaosto"@fi,
+        "Première chambre"@fr,
+        "An Chéad Dlísheomra"@ga,
+        "Prvo vijeće"@hr,
+        "Első tanács"@hu,
+        "Prima Sezione"@it,
+        "Pirmoji kolegija"@lt,
+        "Pirmā palāta"@lv,
+        "L-Ewwel Awla"@mt,
+        "Eerste kamer"@nl,
+        "Pierwsza izba"@pl,
+        "Primeira Secção"@pt,
+        "Camera întâi"@ro,
+        "Prvá komora"@sk,
+        "Prvi senat"@sl,
+        "Första avdelningen"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/CHAMB_02_C> a skos:Concept ;
+    at:authority-code "CHAMB_02_C" ;
+    at:deprecated "false" ;
+    at:op-code "CHAMB_02_C" ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "CHAMB_02_C" ;
+    dc:identifier "CHAMB_02_C" ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/1196bbc15058c51227b499b178601165> ;
+    skos:prefLabel "Втори състав"@bg,
+        "Druhý senát"@cs,
+        "Anden Afdeling"@da,
+        "Zweite Kammer"@de,
+        "Δεύτερο τμήμα"@el,
+        "Second Chamber"@en,
+        "Sala Segunda"@es,
+        "Teine koda"@et,
+        "Toinen jaosto"@fi,
+        "Deuxième chambre"@fr,
+        "An Dara Dlísheomra"@ga,
+        "Drugo vijeće"@hr,
+        "Második tanács"@hu,
+        "Seconda Sezione"@it,
+        "Antroji kolegija"@lt,
+        "Otrā palāta"@lv,
+        "It-Tieni Awla"@mt,
+        "Tweede kamer"@nl,
+        "Druga izba"@pl,
+        "Segunda Secção"@pt,
+        "Camera a doua"@ro,
+        "Druhá komora"@sk,
+        "Drugi senat"@sl,
+        "Andra avdelningen"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/CHAMB_02_F> a skos:Concept ;
+    at:authority-code "CHAMB_02_F" ;
+    at:deprecated "false" ;
+    at:op-code "CHAMB_02_F" ;
+    at:start.use "2004-11-02" ;
+    atold:op-code "CHAMB_02_F" ;
+    dc:identifier "CHAMB_02_F" ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/bbfccf4857dff698bf90695ce8068ff2> ;
+    skos:prefLabel "Втори състав"@bg,
+        "Druhý senát"@cs,
+        "Anden Afdeling"@da,
+        "Zweite Kammer"@de,
+        "Δεύτερο τμήμα"@el,
+        "Second Chamber"@en,
+        "Sala Segunda"@es,
+        "Teine koda"@et,
+        "Toinen jaosto"@fi,
+        "Deuxième chambre"@fr,
+        "An Dara Dlísheomra"@ga,
+        "Drugo vijeće"@hr,
+        "Második tanács"@hu,
+        "Seconda Sezione"@it,
+        "Antroji kolegija"@lt,
+        "Otrā palāta"@lv,
+        "It-Tieni Awla"@mt,
+        "Tweede kamer"@nl,
+        "Druga izba"@pl,
+        "Segunda Secção"@pt,
+        "Camera a doua"@ro,
+        "Druhá komora"@sk,
+        "Drugi senat"@sl,
+        "Andra avdelningen"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/CHAMB_02_T> a skos:Concept ;
+    at:authority-code "CHAMB_02_T" ;
+    at:deprecated "false" ;
+    at:op-code "CHAMB_02_T" ;
+    at:start.use "1988-01-01" ;
+    atold:op-code "CHAMB_02_T" ;
+    dc:identifier "CHAMB_02_T" ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/a8789bdffe5b6999f6e7d815a6d72da8> ;
+    skos:prefLabel "Втори състав"@bg,
+        "Druhý senát"@cs,
+        "Anden Afdeling"@da,
+        "Zweite Kammer"@de,
+        "Δεύτερο τμήμα"@el,
+        "Second Chamber"@en,
+        "Sala Segunda"@es,
+        "Teine koda"@et,
+        "Toinen jaosto"@fi,
+        "Deuxième chambre"@fr,
+        "An Dara Dlísheomra"@ga,
+        "Drugo vijeće"@hr,
+        "Második tanács"@hu,
+        "Seconda Sezione"@it,
+        "Antroji kolegija"@lt,
+        "Otrā palāta"@lv,
+        "It-Tieni Awla"@mt,
+        "Tweede kamer"@nl,
+        "Druga izba"@pl,
+        "Segunda Secção"@pt,
+        "Camera a doua"@ro,
+        "Druhá komora"@sk,
+        "Drugi senat"@sl,
+        "Andra avdelningen"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/CHAMB_03_C> a skos:Concept ;
+    at:authority-code "CHAMB_03_C" ;
+    at:deprecated "false" ;
+    at:op-code "CHAMB_03_C" ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "CHAMB_03_C" ;
+    dc:identifier "CHAMB_03_C" ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/82c2e1929763a160e6ff5016b3c9bd67> ;
+    skos:prefLabel "Трети състав"@bg,
+        "Třetí senát"@cs,
+        "Tredje Afdeling"@da,
+        "Dritte Kammer"@de,
+        "Τρίτο τμήμα"@el,
+        "Third Chamber"@en,
+        "Sala Tercera"@es,
+        "Kolmas koda"@et,
+        "Kolmas jaosto"@fi,
+        "Troisième chambre"@fr,
+        "An Tríú Dlísheomra"@ga,
+        "Treće vijeće"@hr,
+        "Harmadik tanács"@hu,
+        "Terza Sezione"@it,
+        "Trečioji kolegija"@lt,
+        "Trešā palāta"@lv,
+        "It-Tielet Awla"@mt,
+        "Derde kamer"@nl,
+        "Trzecia izba"@pl,
+        "Terceira Secção"@pt,
+        "Camera a treia"@ro,
+        "Tretia komora"@sk,
+        "Tretji senat"@sl,
+        "Tredje avdelningen"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/CHAMB_03_F> a skos:Concept ;
+    at:authority-code "CHAMB_03_F" ;
+    at:deprecated "false" ;
+    at:op-code "CHAMB_03_F" ;
+    at:start.use "2004-11-02" ;
+    atold:op-code "CHAMB_03_F" ;
+    dc:identifier "CHAMB_03_F" ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/451bfe5c299093517ba1fd47a056836f> ;
+    skos:prefLabel "Трети състав"@bg,
+        "Třetí senát"@cs,
+        "Tredje Afdeling"@da,
+        "Dritte Kammer"@de,
+        "Τρίτο τμήμα"@el,
+        "Third Chamber"@en,
+        "Sala Tercera"@es,
+        "Kolmas koda"@et,
+        "Kolmas jaosto"@fi,
+        "Troisième chambre"@fr,
+        "An Tríú Dlísheomra"@ga,
+        "Treće vijeće"@hr,
+        "Harmadik tanács"@hu,
+        "Terza Sezione"@it,
+        "Trečioji kolegija"@lt,
+        "Trešā palāta"@lv,
+        "It-Tielet Awla"@mt,
+        "Derde kamer"@nl,
+        "Trzecia izba"@pl,
+        "Terceira Secção"@pt,
+        "Camera a treia"@ro,
+        "Tretia komora"@sk,
+        "Tretji senat"@sl,
+        "Tredje avdelningen"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/CHAMB_03_T> a skos:Concept ;
+    at:authority-code "CHAMB_03_T" ;
+    at:deprecated "false" ;
+    at:op-code "CHAMB_03_T" ;
+    at:start.use "1988-01-01" ;
+    atold:op-code "CHAMB_03_T" ;
+    dc:identifier "CHAMB_03_T" ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/05e461b9c9724b1b0edc6edad2df1830> ;
+    skos:prefLabel "Трети състав"@bg,
+        "Třetí senát"@cs,
+        "Tredje Afdeling"@da,
+        "Dritte Kammer"@de,
+        "Τρίτο τμήμα"@el,
+        "Third Chamber"@en,
+        "Sala Tercera"@es,
+        "Kolmas koda"@et,
+        "Kolmas jaosto"@fi,
+        "Troisième chambre"@fr,
+        "An Tríú Dlísheomra"@ga,
+        "Treće vijeće"@hr,
+        "Harmadik tanács"@hu,
+        "Terza Sezione"@it,
+        "Trečioji kolegija"@lt,
+        "Trešā palāta"@lv,
+        "It-Tielet Awla"@mt,
+        "Derde kamer"@nl,
+        "Trzecia izba"@pl,
+        "Terceira Secção"@pt,
+        "Camera a treia"@ro,
+        "Tretia komora"@sk,
+        "Tretji senat"@sl,
+        "Tredje avdelningen"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/CHAMB_04_C> a skos:Concept ;
+    at:authority-code "CHAMB_04_C" ;
+    at:deprecated "false" ;
+    at:op-code "CHAMB_04_C" ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "CHAMB_04_C" ;
+    dc:identifier "CHAMB_04_C" ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/bcca2bb1e7a01ae82b3f2a8303248dc1> ;
+    skos:prefLabel "Четвърти състав"@bg,
+        "Čtvrtý senát"@cs,
+        "Fjerde Afdeling"@da,
+        "Vierte Kammer"@de,
+        "Τέταρτο τμήμα"@el,
+        "Fourth Chamber"@en,
+        "Sala Cuarta"@es,
+        "Neljas koda"@et,
+        "Neljäs jaosto"@fi,
+        "Quatrième chambre"@fr,
+        "An Ceathrú Dlísheomra"@ga,
+        "Četvrto vijeće"@hr,
+        "Negyedik tanács"@hu,
+        "Quarta Sezione"@it,
+        "Ketvirtoji kolegija"@lt,
+        "Ceturtā palāta"@lv,
+        "Ir-Raba' Awla"@mt,
+        "Vierde kamer"@nl,
+        "Czwarta izba"@pl,
+        "Quarta Secção"@pt,
+        "Camera a patra"@ro,
+        "Štvrtá komora"@sk,
+        "Četrti senat"@sl,
+        "Fjärde avdelningen"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/CHAMB_04_T> a skos:Concept ;
+    at:authority-code "CHAMB_04_T" ;
+    at:deprecated "false" ;
+    at:op-code "CHAMB_04_T" ;
+    at:start.use "1988-01-01" ;
+    atold:op-code "CHAMB_04_T" ;
+    dc:identifier "CHAMB_04_T" ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/80c14bf5e75130f7c179f657687a73bd> ;
+    skos:prefLabel "Четвърти състав"@bg,
+        "Čtvrtý senát"@cs,
+        "Fjerde Afdeling"@da,
+        "Vierte Kammer"@de,
+        "Τέταρτο τμήμα"@el,
+        "Fourth Chamber"@en,
+        "Sala Cuarta"@es,
+        "Neljas koda"@et,
+        "Neljäs jaosto"@fi,
+        "Quatrième chambre"@fr,
+        "An Ceathrú Dlísheomra"@ga,
+        "Četvrto vijeće"@hr,
+        "Negyedik tanács"@hu,
+        "Quarta Sezione"@it,
+        "Ketvirtoji kolegija"@lt,
+        "Ceturtā palāta"@lv,
+        "Ir-Raba' Awla"@mt,
+        "Vierde kamer"@nl,
+        "Czwarta izba"@pl,
+        "Quarta Secção"@pt,
+        "Camera a patra"@ro,
+        "Štvrtá komora"@sk,
+        "Četrti senat"@sl,
+        "Fjärde avdelningen"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/CHAMB_05_C> a skos:Concept ;
+    at:authority-code "CHAMB_05_C" ;
+    at:deprecated "false" ;
+    at:op-code "CHAMB_05_C" ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "CHAMB_05_C" ;
+    dc:identifier "CHAMB_05_C" ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/338d9bbb1905d23541fbf649239bd348> ;
+    skos:prefLabel "Пети състав"@bg,
+        "Pátý senát"@cs,
+        "Femte Afdeling"@da,
+        "Fünfte Kammer"@de,
+        "Πέμπτο τμήμα"@el,
+        "Fifth Chamber"@en,
+        "Sala Quinta"@es,
+        "Viies koda"@et,
+        "Viides jaosto"@fi,
+        "Cinquième chambre"@fr,
+        "An Cúigiú Dlísheomra"@ga,
+        "Peto vijeće"@hr,
+        "Ötödik tanács"@hu,
+        "Quinta Sezione"@it,
+        "Penktoji kolegija"@lt,
+        "Piektā palāta"@lv,
+        "Il-Ħames Awla"@mt,
+        "Vijfde kamer"@nl,
+        "Piąta izba"@pl,
+        "Quinta Secção"@pt,
+        "Camera a cincea"@ro,
+        "Piata komora"@sk,
+        "Peti senat"@sl,
+        "Femte avdelningen"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/CHAMB_05_T> a skos:Concept ;
+    at:authority-code "CHAMB_05_T" ;
+    at:deprecated "false" ;
+    at:op-code "CHAMB_05_T" ;
+    at:start.use "1988-01-01" ;
+    atold:op-code "CHAMB_05_T" ;
+    dc:identifier "CHAMB_05_T" ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/2f3c2d749e16fdcf752b46580787ce9e> ;
+    skos:prefLabel "Пети състав"@bg,
+        "Pátý senát"@cs,
+        "Femte Afdeling"@da,
+        "Fünfte Kammer"@de,
+        "Πέμπτο τμήμα"@el,
+        "Fifth Chamber"@en,
+        "Sala Quinta"@es,
+        "Viies koda"@et,
+        "Viides jaosto"@fi,
+        "Cinquième chambre"@fr,
+        "An Cúigiú Dlísheomra"@ga,
+        "Peto vijeće"@hr,
+        "Ötödik tanács"@hu,
+        "Quinta Sezione"@it,
+        "Penktoji kolegija"@lt,
+        "Piektā palāta"@lv,
+        "Il-Ħames Awla"@mt,
+        "Vijfde kamer"@nl,
+        "Piąta izba"@pl,
+        "Quinta Secção"@pt,
+        "Camera a cincea"@ro,
+        "Piata komora"@sk,
+        "Peti senat"@sl,
+        "Femte avdelningen"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/CHAMB_06_C> a skos:Concept ;
+    at:authority-code "CHAMB_06_C" ;
+    at:deprecated "false" ;
+    at:op-code "CHAMB_06_C" ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "CHAMB_06_C" ;
+    dc:identifier "CHAMB_06_C" ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/3655320128b2cdeba8fcc49d95bf568e> ;
+    skos:prefLabel "Шести състав"@bg,
+        "Šestý senát"@cs,
+        "Sjette Afdeling"@da,
+        "Sechste Kammer"@de,
+        "Έκτο τμήμα"@el,
+        "Sixth Chamber"@en,
+        "Sala Sexta"@es,
+        "Kuues koda"@et,
+        "Kuudes jaosto"@fi,
+        "Sixième chambre"@fr,
+        "An Séú Dlísheomra"@ga,
+        "Šesto vijeće"@hr,
+        "Hatodik tanács"@hu,
+        "Sesta Sezione"@it,
+        "Šeštoji kolegija"@lt,
+        "Sestā palāta"@lv,
+        "Is-Sitt Awla"@mt,
+        "Zesde kamer"@nl,
+        "Szósta izba"@pl,
+        "Sexta Secção"@pt,
+        "Camera a șasea"@ro,
+        "Šiesta komora"@sk,
+        "Šesti senat"@sl,
+        "Sjätte avdelningen"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/CHAMB_06_T> a skos:Concept ;
+    at:authority-code "CHAMB_06_T" ;
+    at:deprecated "false" ;
+    at:op-code "CHAMB_06_T" ;
+    at:start.use "1988-01-01" ;
+    atold:op-code "CHAMB_06_T" ;
+    dc:identifier "CHAMB_06_T" ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/00250863805e996b05539f8e09426add> ;
+    skos:prefLabel "Шести състав"@bg,
+        "Šestý senát"@cs,
+        "Sjette Afdeling"@da,
+        "Sechste Kammer"@de,
+        "Έκτο τμήμα"@el,
+        "Sixth Chamber"@en,
+        "Sala Sexta"@es,
+        "Kuues koda"@et,
+        "Kuudes jaosto"@fi,
+        "Sixième chambre"@fr,
+        "An Séú Dlísheomra"@ga,
+        "Šesto vijeće"@hr,
+        "Hatodik tanács"@hu,
+        "Sesta Sezione"@it,
+        "Šeštoji kolegija"@lt,
+        "Sestā palāta"@lv,
+        "Is-Sitt Awla"@mt,
+        "Zesde kamer"@nl,
+        "Szósta izba"@pl,
+        "Sexta Secção"@pt,
+        "Camera a șasea"@ro,
+        "Šiesta komora"@sk,
+        "Šesti senat"@sl,
+        "Sjätte avdelningen"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/CHAMB_07_C> a skos:Concept ;
+    at:authority-code "CHAMB_07_C" ;
+    at:deprecated "false" ;
+    at:op-code "CHAMB_07_C" ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "CHAMB_07_C" ;
+    dc:identifier "CHAMB_07_C" ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/015961de2d6d3d0a279129cf91a5187a> ;
+    skos:prefLabel "Седми състав"@bg,
+        "Sedmý senát"@cs,
+        "Syvende Afdeling"@da,
+        "Siebte Kammer"@de,
+        "Έβδομο τμήμα"@el,
+        "Seventh Chamber"@en,
+        "Sala Séptima"@es,
+        "Seitsmes koda"@et,
+        "Seitsemäs jaosto"@fi,
+        "Septième chambre"@fr,
+        "An Seachtú Dlísheomra"@ga,
+        "Sedmo vijeće"@hr,
+        "Hetedik tanács"@hu,
+        "Settima Sezione"@it,
+        "Septintoji kolegija"@lt,
+        "Septītā palāta"@lv,
+        "Is-Seba' Awla"@mt,
+        "Zevende kamer"@nl,
+        "Siódma izba"@pl,
+        "Sétima Secção"@pt,
+        "Camera a șaptea"@ro,
+        "Siedma komora"@sk,
+        "Sedmi senat"@sl,
+        "Sjunde avdelningen"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/CHAMB_07_T> a skos:Concept ;
+    at:authority-code "CHAMB_07_T" ;
+    at:deprecated "false" ;
+    at:op-code "CHAMB_07_T" ;
+    at:start.use "1988-01-01" ;
+    atold:op-code "CHAMB_07_T" ;
+    dc:identifier "CHAMB_07_T" ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/072b00b082fec0a537566a71e2c5bfde> ;
+    skos:prefLabel "Седми състав"@bg,
+        "Sedmý senát"@cs,
+        "Syvende Afdeling"@da,
+        "Siebte Kammer"@de,
+        "Έβδομο τμήμα"@el,
+        "Seventh Chamber"@en,
+        "Sala Séptima"@es,
+        "Seitsmes koda"@et,
+        "Seitsemäs jaosto"@fi,
+        "Septième chambre"@fr,
+        "An Seachtú Dlísheomra"@ga,
+        "Sedmo vijeće"@hr,
+        "Hetedik tanács"@hu,
+        "Settima Sezione"@it,
+        "Septintoji kolegija"@lt,
+        "Septītā palāta"@lv,
+        "Is-Seba' Awla"@mt,
+        "Zevende kamer"@nl,
+        "Siódma izba"@pl,
+        "Sétima Secção"@pt,
+        "Camera a șaptea"@ro,
+        "Siedma komora"@sk,
+        "Sedmi senat"@sl,
+        "Sjunde avdelningen"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/CHAMB_08_C> a skos:Concept ;
+    at:authority-code "CHAMB_08_C" ;
+    at:deprecated "false" ;
+    at:op-code "CHAMB_08_C" ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "CHAMB_08_C" ;
+    dc:identifier "CHAMB_08_C" ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/de043553697e5e891fe82c2cb3859d2c> ;
+    skos:prefLabel "Осми състав"@bg,
+        "Osmý senát"@cs,
+        "Ottende Afdeling"@da,
+        "Achte Kammer"@de,
+        "Όγδοο τμήμα"@el,
+        "Eighth Chamber"@en,
+        "Sala Octava"@es,
+        "Kaheksas koda"@et,
+        "Kahdeksas jaosto"@fi,
+        "Huitième chambre"@fr,
+        "An tOchtú Dlísheomra"@ga,
+        "Osmo vijeće"@hr,
+        "Nyolcadik tanács"@hu,
+        "Ottava Sezione"@it,
+        "Aštuntoji kolegija"@lt,
+        "Astotā palāta"@lv,
+        "It-Tmien Awla"@mt,
+        "Achtste kamer"@nl,
+        "Ósma izba"@pl,
+        "Oitava Secção"@pt,
+        "Camera a opta"@ro,
+        "Ôsma komora"@sk,
+        "Osmi senat"@sl,
+        "Åttonde avdelningen"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/CHAMB_08_T> a skos:Concept ;
+    at:authority-code "CHAMB_08_T" ;
+    at:deprecated "false" ;
+    at:op-code "CHAMB_08_T" ;
+    at:start.use "1988-01-01" ;
+    atold:op-code "CHAMB_08_T" ;
+    dc:identifier "CHAMB_08_T" ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/63606b60e354a66096f44274d5b8a5d2> ;
+    skos:prefLabel "Осми състав"@bg,
+        "Osmý senát"@cs,
+        "Ottende Afdeling"@da,
+        "Achte Kammer"@de,
+        "Όγδοο τμήμα"@el,
+        "Eighth Chamber"@en,
+        "Sala Octava"@es,
+        "Kaheksas koda"@et,
+        "Kahdeksas jaosto"@fi,
+        "Huitième chambre"@fr,
+        "An tOchtú Dlísheomra"@ga,
+        "Osmo vijeće"@hr,
+        "Nyolcadik tanács"@hu,
+        "Ottava Sezione"@it,
+        "Aštuntoji kolegija"@lt,
+        "Astotā palāta"@lv,
+        "It-Tmien Awla"@mt,
+        "Achtste kamer"@nl,
+        "Ósma izba"@pl,
+        "Oitava Secção"@pt,
+        "Camera a opta"@ro,
+        "Ôsma komora"@sk,
+        "Osmi senat"@sl,
+        "Åttonde avdelningen"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/CHAMB_09_C> a skos:Concept ;
+    at:authority-code "CHAMB_09_C" ;
+    at:deprecated "false" ;
+    at:op-code "CHAMB_09_C" ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "CHAMB_09_C" ;
+    dc:identifier "CHAMB_09_C" ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/c8f3f4923db16a741280a2fe7a28d900> ;
+    skos:prefLabel "Девети състав"@bg,
+        "Devátý senát"@cs,
+        "Niende Afdeling"@da,
+        "Neunte Kammer"@de,
+        "Ένατο τμήμα"@el,
+        "Ninth Chamber"@en,
+        "Sala Novena"@es,
+        "Üheksas koda"@et,
+        "Yhdeksäs jaosto"@fi,
+        "Neuvième chambre"@fr,
+        "An Naoú Dlísheomra"@ga,
+        "Deveto vijeće"@hr,
+        "Kilencedik tanács"@hu,
+        "Nona Sezione"@it,
+        "Devintoji kolegija"@lt,
+        "Devītā palāta"@lv,
+        "Id-Disa’ Awla"@mt,
+        "Negende kamer"@nl,
+        "Dziewiąta izba"@pl,
+        "Nona Secção"@pt,
+        "Camera a noua"@ro,
+        "Deviata komora"@sk,
+        "Deveti senat"@sl,
+        "Nionde avdelningen"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/CHAMB_10_C> a skos:Concept ;
+    at:authority-code "CHAMB_10_C" ;
+    at:deprecated "false" ;
+    at:op-code "CHAMB_10_C" ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "CHAMB_10_C" ;
+    dc:identifier "CHAMB_10_C" ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/10ea038cb78d5aa46dddd8bc90b2f66c> ;
+    skos:prefLabel "Десети състав"@bg,
+        "Desátý senát"@cs,
+        "Tiende Afdeling"@da,
+        "Zehnte Kammer"@de,
+        "Δέκατο τμήμα"@el,
+        "Tenth Chamber"@en,
+        "Sala Décima"@es,
+        "Kümnes koda"@et,
+        "Kymmenes jaosto"@fi,
+        "Dixième chambre"@fr,
+        "An Deichiú Dlísheomra"@ga,
+        "Deseto vijeće"@hr,
+        "Tizedik tanács"@hu,
+        "Decima Sezione"@it,
+        "Dešimtoji kolegija"@lt,
+        "Desmitā palāta"@lv,
+        "L-Għaxar Awla"@mt,
+        "Tiende kamer"@nl,
+        "Dziesiąta izba"@pl,
+        "Décima Secção"@pt,
+        "Camera a zecea"@ro,
+        "Desiata komora"@sk,
+        "Deseti senat"@sl,
+        "Tionde avdelningen"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/CHAMB_APPEAL_T> a skos:Concept ;
+    at:authority-code "CHAMB_APPEAL_T" ;
+    at:deprecated "false" ;
+    at:op-code "CHAMB_APPEAL_T" ;
+    at:start.use "1988-01-01" ;
+    atold:op-code "CHAMB_APPEAL_T" ;
+    dc:identifier "CHAMB_APPEAL_T" ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/7e0d1e2ec282d9eb766baca0888b4580> ;
+    skos:prefLabel "Състав по жалбите"@bg,
+        "Kasační odvolací senát"@cs,
+        "Appelafdelingen"@da,
+        "Rechtsmittelkammer"@de,
+        "Τμήμα αναιρέσεων"@el,
+        "Appeals Chamber"@en,
+        "Sala de Casación"@es,
+        "Apellatsioonikoda"@et,
+        "Muutoksenhakujaosto"@fi,
+        "Chambre des pourvois"@fr,
+        "Dlísheomra Achomhairc"@ga,
+        "Žalbeno vijeće"@hr,
+        "Fellebbezési tanács"@hu,
+        "Sezione delle impugnazioni"@it,
+        "Apeliacinių skundų kolegija"@lt,
+        "Apelācijas palāta"@lv,
+        "Awla tal-Appell"@mt,
+        "Kamer voor hogere voorzieningen"@nl,
+        "Izba odwoławcza"@pl,
+        "Secção dos Recursos"@pt,
+        "Camera de recurs"@ro,
+        "Odvolací senát"@sk,
+        "Pritožbeni senat"@sl,
+        "Avdelningen för överklaganden"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_01_T> a skos:Concept ;
+    at:authority-code "CHAMB_EXTD_01_T" ;
+    at:deprecated "false" ;
+    at:op-code "CHAMB_EXTD_01_T" ;
+    at:start.use "1988-01-01" ;
+    atold:op-code "CHAMB_EXTD_01_T" ;
+    dc:identifier "CHAMB_EXTD_01_T" ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/86603371e60779a49c59ab8ce45d447e> ;
+    skos:prefLabel "Първи разширен състав"@bg,
+        "První rozšířený senát"@cs,
+        "Første Udvidede Afdeling"@da,
+        "Erste erweiterte Kammer"@de,
+        "Πρώτο πενταμελές τμήμα"@el,
+        "First Chamber, Extended Composition"@en,
+        "Sala Primera ampliada"@es,
+        "Esimene koda laiendatud koosseisus"@et,
+        "Laajennettu ensimmäinen jaosto"@fi,
+        "Première chambre élargie"@fr,
+        "An Chéad Dlísheomra, Comhdhéanamh Méadaithe"@ga,
+        "Prvo prošireno vijeće"@hr,
+        "Kibővített első tanács"@hu,
+        "Prima Sezione ampliata"@it,
+        "Pirmoji išplėstinė kolegija"@lt,
+        "Pirmā palāta paplašinātā sastāvā"@lv,
+        "L-Ewwel Awla Estiża"@mt,
+        "Eerste kamer – uitgebreid"@nl,
+        "Pierwsza izba w składzie powiększonym"@pl,
+        "Primeira Secção Alargada"@pt,
+        "Camera întâi extinsă"@ro,
+        "Prvá rozšírená komora"@sk,
+        "Prvi razširjeni senat"@sl,
+        "Första avdelningen i utökad sammansättning"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_02_T> a skos:Concept ;
+    at:authority-code "CHAMB_EXTD_02_T" ;
+    at:deprecated "false" ;
+    at:op-code "CHAMB_EXTD_02_T" ;
+    at:start.use "1988-01-01" ;
+    atold:op-code "CHAMB_EXTD_02_T" ;
+    dc:identifier "CHAMB_EXTD_02_T" ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/0782a23d282c31f8b34f9e25b1dce31e> ;
+    skos:prefLabel "Втори увеличен състав"@bg,
+        "Druhý rozšířený senát"@cs,
+        "Anden Udvidede Afdeling"@da,
+        "Zweite erweiterte Kammer"@de,
+        "Δεύτερο πενταμελές τμήμα"@el,
+        "Second Chamber, Extended Composition"@en,
+        "Sala Segunda ampliada"@es,
+        "Teine koda laiendatud koosseisus"@et,
+        "Laajennettu toinen jaosto"@fi,
+        "Deuxième chambre élargie"@fr,
+        "An Dara Dlísheomra, Comhdhéanamh Méadaithe"@ga,
+        "Drugo prošireno vijeće"@hr,
+        "Kibővített második tanács"@hu,
+        "Seconda Sezione ampliata"@it,
+        "Antroji išplėstinė kolegija"@lt,
+        "Otrā palāta paplašinātā sastāvā"@lv,
+        "It-Tieni Awla Estiża"@mt,
+        "Tweede kamer – uitgebreid"@nl,
+        "Druga izba w składzie powiększonym"@pl,
+        "Segunda Secção Alargada"@pt,
+        "Camera a doua extinsă"@ro,
+        "Druhá rozšírená komora"@sk,
+        "Drugi razširjeni senat"@sl,
+        "Andra avdelningen i utökad sammansättning"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_03_T> a skos:Concept ;
+    at:authority-code "CHAMB_EXTD_03_T" ;
+    at:deprecated "false" ;
+    at:op-code "CHAMB_EXTD_03_T" ;
+    at:start.use "1988-01-01" ;
+    atold:op-code "CHAMB_EXTD_03_T" ;
+    dc:identifier "CHAMB_EXTD_03_T" ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/b0858aa64c9069b76e2e35f6e51e9167> ;
+    skos:prefLabel "Трети разширен състав"@bg,
+        "Třetí rozšířený senát"@cs,
+        "Tredje Udvidede Afdeling"@da,
+        "Dritte erweiterte Kammer"@de,
+        "Τρίτο πενταμελές τμήμα"@el,
+        "Third Chamber, Extended Composition"@en,
+        "Sala Tercera ampliada"@es,
+        "Kolmas koda laiendatud koosseisus"@et,
+        "Laajennettu kolmas jaosto"@fi,
+        "Troisième chambre élargie"@fr,
+        "An Tríú Dlísheomra, Comhdhéanamh Méadaithe"@ga,
+        "Treće prošireno vijeće"@hr,
+        "Kibővített harmadik tanács"@hu,
+        "Terza Sezione ampliata"@it,
+        "Trečioji išplėstinė kolegija"@lt,
+        "Trešā palāta paplašinātā sastāvā"@lv,
+        "It-Tielet Awla Estiża"@mt,
+        "Derde kamer – uitgebreid"@nl,
+        "Trzecia izba w składzie powiększonym"@pl,
+        "Terceira Secção Alargada"@pt,
+        "Camera a treia extinsă"@ro,
+        "Tretia rozšírená komora"@sk,
+        "Tretji razširjeni senat"@sl,
+        "Tredje avdelningen i utökad sammansättning"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_04_T> a skos:Concept ;
+    at:authority-code "CHAMB_EXTD_04_T" ;
+    at:deprecated "false" ;
+    at:op-code "CHAMB_EXTD_04_T" ;
+    at:start.use "1988-01-01" ;
+    atold:op-code "CHAMB_EXTD_04_T" ;
+    dc:identifier "CHAMB_EXTD_04_T" ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/0655efc3b29cbfb71d8f9537cc00211d> ;
+    skos:prefLabel "Четвърти разширен състав"@bg,
+        "Čtvrtý rozšířený senát"@cs,
+        "Fjerde Udvidede Afdeling"@da,
+        "Vierte erweiterte Kammer"@de,
+        "Τέταρτο πενταμελές τμήμα"@el,
+        "Fourth Chamber, Extended Composition"@en,
+        "Sala Cuarta ampliada"@es,
+        "Neljas koda laiendatud koosseisus"@et,
+        "Laajennettu neljäs jaosto"@fi,
+        "Quatrième chambre élargie"@fr,
+        "An Ceathrú Dlísheomra, Comhdhéanamh Méadaithe"@ga,
+        "Četvrto prošireno vijeće"@hr,
+        "Kibővített negyedik tanács"@hu,
+        "Quarta Sezione ampliata"@it,
+        "Ketvirtoji išplėstinė kolegija"@lt,
+        "Ceturtā palāta paplašinātā sastāvā"@lv,
+        "Ir-Raba' Awla Estiża"@mt,
+        "Vierde kamer – uitgebreid"@nl,
+        "Czwarta izba w składzie powiększonym"@pl,
+        "Quarta Secção Alargada"@pt,
+        "Camera a patra extinsă"@ro,
+        "Štvrtá rozšírená komora"@sk,
+        "Četrti razširjeni senat"@sl,
+        "Fjärde avdelningen i utökad sammansättning"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_05_T> a skos:Concept ;
+    at:authority-code "CHAMB_EXTD_05_T" ;
+    at:deprecated "false" ;
+    at:op-code "CHAMB_EXTD_05_T" ;
+    at:start.use "1988-01-01" ;
+    atold:op-code "CHAMB_EXTD_05_T" ;
+    dc:identifier "CHAMB_EXTD_05_T" ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/17773492632a8f3a5ca555c996a5db59> ;
+    skos:prefLabel "Пети увеличен състав"@bg,
+        "Pátý rozšířený senát"@cs,
+        "Femte Udvidede Afdeling"@da,
+        "Fünfte erweiterte Kammer"@de,
+        "Πέμπτο πενταμελές τμήμα"@el,
+        "Fifth Chamber, Extended Composition"@en,
+        "Sala Quinta ampliada"@es,
+        "Viies koda laiendatud koosseisus"@et,
+        "Laajennettu viides jaosto"@fi,
+        "Cinquième chambre élargie"@fr,
+        "An Cúigiú Dlísheomra, Comhdhéanamh Méadaithe"@ga,
+        "Peto prošireno vijeće"@hr,
+        "Kibővített ötödik tanács"@hu,
+        "Quinta Sezione ampliata"@it,
+        "Penktoji išplėstinė kolegija"@lt,
+        "Piektā palāta paplašinātā sastāvā"@lv,
+        "Il-Ħames Awla Estiża"@mt,
+        "Vijfde kamer – uitgebreid"@nl,
+        "Piąta izba w składzie powiększonym"@pl,
+        "Quinta Secção Alargada"@pt,
+        "Camera a cincea extinsă"@ro,
+        "Piata rozšírená komora"@sk,
+        "Peti razširjeni senat"@sl,
+        "Femte avdelningen i utökad sammansättning"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_06_T> a skos:Concept ;
+    at:authority-code "CHAMB_EXTD_06_T" ;
+    at:deprecated "false" ;
+    at:op-code "CHAMB_EXTD_06_T" ;
+    at:start.use "1988-01-01" ;
+    atold:op-code "CHAMB_EXTD_06_T" ;
+    dc:identifier "CHAMB_EXTD_06_T" ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/c871099e28d5f9c834c4115f7bae0b5a> ;
+    skos:prefLabel "Шести разширен състав"@bg,
+        "Šestý rozšířený senát"@cs,
+        "Sjette Udvidede Afdeling"@da,
+        "Sechste erweiterte Kammer"@de,
+        "Έκτο πενταμελές τμήμα"@el,
+        "Sixth Chamber, Extended Composition"@en,
+        "Sala Sexta ampliada"@es,
+        "Kuues koda laiendatud koosseisus"@et,
+        "Laajennettu kuudes jaosto"@fi,
+        "Sixième chambre élargie"@fr,
+        "An Séú Dlísheomra, Comhdhéanamh Méadaithe"@ga,
+        "Šesto prošireno vijeće"@hr,
+        "Kibővített hatodik tanács"@hu,
+        "Sesta Sezione ampliata"@it,
+        "Šeštoji išplėstinė kolegija"@lt,
+        "Sestā palāta paplašinātā sastāvā"@lv,
+        "Is-Sitt Awla Estiża"@mt,
+        "Zesde kamer – uitgebreid"@nl,
+        "Szósta izba w składzie powiększonym"@pl,
+        "Sexta Secção Alargada"@pt,
+        "Camera a șasea extinsă"@ro,
+        "Šiesta rozšírená komora"@sk,
+        "Šesti razširjeni senat"@sl,
+        "Sjätte avdelningen i utökad sammansättning"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_07_T> a skos:Concept ;
+    at:authority-code "CHAMB_EXTD_07_T" ;
+    at:deprecated "false" ;
+    at:op-code "CHAMB_EXTD_07_T" ;
+    at:start.use "1988-01-01" ;
+    atold:op-code "CHAMB_EXTD_07_T" ;
+    dc:identifier "CHAMB_EXTD_07_T" ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/7801d7d71cfde8cb6f92aa1c2bf60f9e> ;
+    skos:prefLabel "Седми разширен състав"@bg,
+        "Sedmý rozšířený senát"@cs,
+        "Syvende Udvidede Afdeling"@da,
+        "Siebte erweiterte Kammer"@de,
+        "Έβδομο πενταμελές τμήμα"@el,
+        "Seventh Chamber, Extended Composition"@en,
+        "Sala Séptima ampliada"@es,
+        "Seitsmes koda laiendatud koosseisus"@et,
+        "Laajennettu seitsemäs jaosto"@fi,
+        "Septième chambre élargie"@fr,
+        "An Seachtú Dlísheomra, Comhdhéanamh Méadaithe"@ga,
+        "Sedmo prošireno vijeće"@hr,
+        "Kibővített hetedik tanács"@hu,
+        "Settima Sezione ampliata"@it,
+        "Septintoji išplėstinė kolegija"@lt,
+        "Septītā palāta paplašinātā sastāvā"@lv,
+        "Is-Seba' Awla Estiża"@mt,
+        "Zevende kamer –uitgebreid"@nl,
+        "Siódma izba w składzie powiększonym"@pl,
+        "Sétima Secção Alargada"@pt,
+        "Camera a șaptea extinsă"@ro,
+        "Siedma rozšírená komora"@sk,
+        "Sedmi razširjeni senat"@sl,
+        "Sjunde avdelningen i utökad sammansättning"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_08_T> a skos:Concept ;
+    at:authority-code "CHAMB_EXTD_08_T" ;
+    at:deprecated "false" ;
+    at:op-code "CHAMB_EXTD_08_T" ;
+    at:start.use "1988-01-01" ;
+    atold:op-code "CHAMB_EXTD_08_T" ;
+    dc:identifier "CHAMB_EXTD_08_T" ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/4ee0024316fe5e3679e5e96669e98be2> ;
+    skos:prefLabel "Осми разширен състав"@bg,
+        "Osmý rozšířený senát"@cs,
+        "Ottende Udvidede Afdeling"@da,
+        "Achte erweiterte Kammer"@de,
+        "Όγδοο πενταμελές τμήμα"@el,
+        "Eighth Chamber, Extended Composition"@en,
+        "Sala Octava ampliada"@es,
+        "Kaheksas koda laiendatud koosseisus"@et,
+        "Laajennettu kahdeksas jaosto"@fi,
+        "Huitième chambre élargie"@fr,
+        "An tOchtú Dlísheomra, Comhdhéanamh Méadaithe"@ga,
+        "Osmo prošireno vijeće"@hr,
+        "Kibővített nyolcadik tanács"@hu,
+        "Ottava Sezione ampliata"@it,
+        "Aštuntoji išplėstinė kolegija"@lt,
+        "Astotā palāta paplašinātā sastāvā"@lv,
+        "It-Tmien Awla Estiża"@mt,
+        "Achtste kamer – uitgebreid"@nl,
+        "Ósma izba w składzie powiększonym"@pl,
+        "Oitava Secção Alargada"@pt,
+        "Camera a opta extinsă"@ro,
+        "Ôsma rozšírená komora"@sk,
+        "Osmi razširjeni senat"@sl,
+        "Åttonde avdelningen i utökad sammansättning"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_09_T> a skos:Concept ;
+    at:authority-code "CHAMB_EXTD_09_T" ;
+    at:deprecated "false" ;
+    at:op-code "CHAMB_EXTD_09_T" ;
+    at:start.use "2013-09-16" ;
+    atold:op-code "CHAMB_EXTD_09_T" ;
+    dc:identifier "CHAMB_EXTD_09_T" ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/3ba43dbd33c646f3d49ffd915b7a7895> ;
+    skos:prefLabel "Девети разширен състав"@bg,
+        "Devátý rozšířený senát"@cs,
+        "Niende Udvidede Afdeling"@da,
+        "Neunte erweiterte Kammer"@de,
+        "Ένατο πενταμελές τμήμα"@el,
+        "Ninth Chamber, Extended Composition"@en,
+        "Sala Novena ampliada"@es,
+        "Üheksas koda laiendatud koosseisus"@et,
+        "Laajennettu yhdeksäs jaosto"@fi,
+        "Neuvième chambre élargie"@fr,
+        "An Naoú Dlísheomra, Comhdhéanamh Méadaithe"@ga,
+        "Deveto prošireno vijeće"@hr,
+        "Kibővített kilencedik tanács"@hu,
+        "Nona Sezione ampliata"@it,
+        "Devintoji išplėstinė kolegija"@lt,
+        "Devītā palāta paplašinātā sastāvā"@lv,
+        "Id-Disa' Awla Estiża"@mt,
+        "Negende kamer – uitgebreid"@nl,
+        "Dziewiąta izba w składzie powiększonym"@pl,
+        "Nona Secção alargada"@pt,
+        "Camera a noua extinsă"@ro,
+        "Deviata rozšírená komora"@sk,
+        "Deveti razširjeni senat"@sl,
+        "Nionde avdelningen i utökad sammansättning"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/CHAMB_GD_C> a skos:Concept ;
+    at:authority-code "CHAMB_GD_C" ;
+    at:deprecated "false" ;
+    at:op-code "CHAMB_GD_C" ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "CHAMB_GD_C" ;
+    dc:identifier "CHAMB_GD_C" ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/80e7039ea0ba74db8438977ee522ec23> ;
+    skos:prefLabel "Голям състав"@bg,
+        "Velký senát"@cs,
+        "Store Afdeling"@da,
+        "Große Kammer"@de,
+        "Τμήμα μείζονος συνθέσεως"@el,
+        "Grand Chamber"@en,
+        "Gran Sala"@es,
+        "Suurkoda"@et,
+        "Suuri jaosto"@fi,
+        "Grande chambre"@fr,
+        "Mór-Dhlísheomra"@ga,
+        "Veliko vijeće"@hr,
+        "Nagytanács"@hu,
+        "Grande Sezione"@it,
+        "Didžioji kolegija"@lt,
+        "Virspalāta"@lv,
+        "Awla Manja"@mt,
+        "Grote kamer"@nl,
+        "Wielka izba"@pl,
+        "Grande Secção"@pt,
+        "Marea Cameră"@ro,
+        "Veľká komora"@sk,
+        "Veliki senat"@sl,
+        "Stora avdelningen"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/CHAMB_GD_T> a skos:Concept ;
+    at:authority-code "CHAMB_GD_T" ;
+    at:deprecated "false" ;
+    at:op-code "CHAMB_GD_T" ;
+    at:start.use "1988-01-01" ;
+    atold:op-code "CHAMB_GD_T" ;
+    dc:identifier "CHAMB_GD_T" ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/c59a7fbc61faaeb0db1b6fd6e09abaf1> ;
+    skos:prefLabel "Голям състав"@bg,
+        "Velký senát"@cs,
+        "Store Afdeling"@da,
+        "Große Kammer"@de,
+        "Τμήμα μείζονος συνθέσεως"@el,
+        "Grand Chamber"@en,
+        "Gran Sala"@es,
+        "Suurkoda"@et,
+        "Suuri jaosto"@fi,
+        "Grande chambre"@fr,
+        "Mór-Dhlísheomra"@ga,
+        "Veliko vijeće"@hr,
+        "Nagytanács"@hu,
+        "Grande Sezione"@it,
+        "Didžioji kolegija"@lt,
+        "Virspalāta"@lv,
+        "Awla Manja"@mt,
+        "Grote kamer"@nl,
+        "Wielka izba"@pl,
+        "Grande Secção"@pt,
+        "Marea Cameră"@ro,
+        "Veľká komora"@sk,
+        "Veliki senat"@sl,
+        "Stora avdelningen"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/CHAMB_REVIEW_C> a skos:Concept ;
+    at:authority-code "CHAMB_REVIEW_C" ;
+    at:deprecated "false" ;
+    at:op-code "CHAMB_REVIEW_C" ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "CHAMB_REVIEW_C" ;
+    dc:identifier "CHAMB_REVIEW_C" ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/97fffda53df8ff64e07e541d7878b9cd> ;
+    skos:prefLabel "Специален състав (преразглеждане)"@bg,
+        "Zvláštní senát (přezkum)"@cs,
+        "Den særlige afdeling (fornyet prøvelse)"@da,
+        "Besondere Kammer (Überprüfung)"@de,
+        "Ειδικό τμήμα (επανεξέταση)"@el,
+        "Special Chamber (review)"@en,
+        "Sala Especial (reexamen)"@es,
+        "Erikoda (uuesti läbivaatamine)"@et,
+        "Erityisjaosto (uudelleenkäsittely)"@fi,
+        "Chambre spéciale (réexamen)"@fr,
+        "Dlísheomra speisialta (athbhreithniú)"@ga,
+        "Posebno vijeće (preispitivanje)"@hr,
+        "Különtanács (felülvizsgálat)"@hu,
+        "Sezione speciale (riesame)"@it,
+        "Specialioji kolegija (peržiūra)"@lt,
+        "Īpaša palāta (pārskatīšana)"@lv,
+        "Awla Speċjali (eżami mill-ġdid)"@mt,
+        "Speciale kamer (heroverweging)"@nl,
+        "Specjalna izba (szczególna procedura kontroli orzeczeń Sądu)"@pl,
+        "Secção especial (reapreciação)"@pt,
+        "Camera specială (reexaminare)"@ro,
+        "Osobitná komora (preskúmanie)"@sk,
+        "Poseben senat (preverjanje)"@sl,
+        "Särskild avdelning (omprövning)"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/FULL_COURT_C> a skos:Concept ;
+    at:authority-code "FULL_COURT_C" ;
+    at:deprecated "false" ;
+    at:op-code "FULL_COURT_C" ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "FULL_COURT_C" ;
+    dc:identifier "FULL_COURT_C" ;
+    skos:altLabel "Plénum"@cs,
+        "Plenum"@da,
+        "Pleno"@es,
+        "Cour plénière"@fr,
+        "Puni sastav"@hr,
+        "Seduta plenaria"@it,
+        "Plenarinė sesija"@lt,
+        "Plēnums"@lv,
+        "Qorti plenarja"@mt,
+        "Volle samenstelling"@nl,
+        "Posiedzenie w pełnym składzie"@pl,
+        "Ședință plenară"@ro,
+        "Plenárne zasadnutie"@sk,
+        "Občna seja"@sl ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/52b27b21eb395104fa1e1343812e1b14>,
+        <http://publications.europa.eu/resource/authority/formjug/e7bfb53c149b56278b73cafac76c270d> ;
+    skos:prefLabel "Пленум"@bg,
+        "Soudci a generální advokáti"@cs,
+        "Domstolens plenum"@da,
+        "Plenum"@de,
+        "Ολομέλεια"@el,
+        "Full Court"@en,
+        "Tribunal de Justicia (Pleno)"@es,
+        "Täiskogu"@et,
+        "Täysistunto"@fi,
+        "Assemblée plénière"@fr,
+        "Cúirt iomlán"@ga,
+        "Sud u punom sastavu"@hr,
+        "Teljes ülés"@hu,
+        "Plenum"@it,
+        "Teisingumo Teismo plenarinė sesija"@lt,
+        "Tiesas plēnums"@lv,
+        "Il-Qorti tal-Ġustizzja f'seduta plenarja"@mt,
+        "Voltallig Hof"@nl,
+        "Trybunał w pełnym składzie"@pl,
+        "Tribunal Pleno"@pt,
+        "Curtea în ședință plenară"@ro,
+        "Súdny dvor zasadajúci v pléne"@sk,
+        "Sodišče na občni seji"@sl,
+        "Domstolen i plenum"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/FULL_COURT_F> a skos:Concept ;
+    at:authority-code "FULL_COURT_F" ;
+    at:deprecated "false" ;
+    at:op-code "FULL_COURT_F" ;
+    at:start.use "2004-11-02" ;
+    atold:op-code "FULL_COURT_F" ;
+    dc:identifier "FULL_COURT_F" ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/6e1fb2602ca5b9eb1cb790ee3d0ffea1> ;
+    skos:prefLabel "Пленум"@bg,
+        "Plénum"@cs,
+        "Plenum"@da,
+        "Plenum"@de,
+        "Ολομέλεια"@el,
+        "Full Court"@en,
+        "Pleno"@es,
+        "Täiskogu"@et,
+        "Täysistunto"@fi,
+        "Assemblée plénière"@fr,
+        "Cúirt iomlán"@ga,
+        "Puni sastav"@hr,
+        "Teljes ülés"@hu,
+        "Seduta plenaria"@it,
+        "Plenarinė sesija"@lt,
+        "Plēnums"@lv,
+        "Qorti plenarja"@mt,
+        "Volle samenstelling"@nl,
+        "Posiedzenie w pełnym składzie"@pl,
+        "Tribunal Pleno"@pt,
+        "Ședință plenară"@ro,
+        "Plenárne zasadnutie"@sk,
+        "Občna seja"@sl,
+        "Plenum"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/FULL_COURT_T> a skos:Concept ;
+    at:authority-code "FULL_COURT_T" ;
+    at:deprecated "false" ;
+    at:op-code "FULL_COURT_T" ;
+    at:start.use "1988-01-01" ;
+    atold:op-code "FULL_COURT_T" ;
+    dc:identifier "FULL_COURT_T" ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/a09c04eb12d30260f7f3505f66f5e545> ;
+    skos:prefLabel "Пленум"@bg,
+        "Plénum"@cs,
+        "Rettens plenum"@da,
+        "Plenum"@de,
+        "Ολομέλεια"@el,
+        "Full Court"@en,
+        "Tribunal de Primera Instancia (Pleno)"@es,
+        "Täiskogu"@et,
+        "Täysistunto"@fi,
+        "Formation plénière"@fr,
+        "Cúirt iomlán"@ga,
+        "Puni sastav"@hr,
+        "Teljes ülés"@hu,
+        "Plenum"@it,
+        "Plenarinis posėdis"@lt,
+        "Tiesas plēnums"@lv,
+        "Seduta plenarja"@mt,
+        "Volle samenstelling"@nl,
+        "Pełny skład"@pl,
+        "Sessão plenária"@pt,
+        "Ședință plenară"@ro,
+        "Plénum"@sk,
+        "Občna seja"@sl,
+        "Plenum"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/JUDGE_HEAR> a skos:Concept ;
+    at:authority-code "JUDGE_HEAR" ;
+    at:deprecated "false" ;
+    at:op-code "JUDGE_HEAR" ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "JUDGE_HEAR" ;
+    dc:identifier "JUDGE_HEAR" ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/1f7621e138edfb4288ab971ebcdbef26> ;
+    skos:prefLabel "Съдия по обезпечителното производство"@bg,
+        "Soudce příslušný pro rozhodování o předběžných opatřeních"@cs,
+        "Dommer i sager om foreløbige forholdsregler"@da,
+        "Für die Gewährung vorläufigen Rechtsschutzes zuständiger Richter"@de,
+        "Δικαστής των ασφαλιστικών μέτρων"@el,
+        "Judge hearing applications for interim measures"@en,
+        "Juez de medidas provisionales"@es,
+        "Ajutisi meetmeid kohaldav kohtunik"@et,
+        "Välitoimista päättävä tuomari"@fi,
+        "Juge des référés"@fr,
+        "Breitheamh ag éisteacht le hiarratais ar bhearta eatramhacha"@ga,
+        "Ideiglenes intézkedésről határozó bíró"@hu,
+        "Giudice dei procedimenti sommari"@it,
+        "Laikinąsias apsaugos priemones taikantis teisėjas"@lt,
+        "Pagaidu noregulējuma tiesnesis"@lv,
+        "Imħallef għal miżuri provviżorji"@mt,
+        "Kortgedingrechter"@nl,
+        "Sędzia orzekający w przedmiocie środków tymczasowych"@pl,
+        "Juiz das medidas provisórias"@pt,
+        "Judecător delegat cu luarea măsurilor provizorii"@ro,
+        "Sudca rozhodujúci o nariadení predbežných opatrení"@sk,
+        "Sodnik za začasne odredbe"@sl,
+        "Domaren med behörighet att besluta om interimistiska åtgärder"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/JUDGE_SINGL> a skos:Concept ;
+    at:authority-code "JUDGE_SINGL" ;
+    at:deprecated "false" ;
+    at:op-code "JUDGE_SINGL" ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "JUDGE_SINGL" ;
+    dc:identifier "JUDGE_SINGL" ;
+    skos:definition "La procédure «à juge unique» ne comporte qu'un magistrat siégeant seul."@fr ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/f293a7440a0bca738f0d3d8307dcbd23> ;
+    skos:prefLabel "Единствен съдия"@bg,
+        "Samosoudce"@cs,
+        "Én dommer"@da,
+        "Einzelrichter"@de,
+        "Μονομελές Πρωτοδικείο"@el,
+        "Single Judge"@en,
+        "Órgano jurisdiccional unipersonal"@es,
+        "Kohtunik ainuisikuliselt"@et,
+        "Yhden tuomarin kokoonpano"@fi,
+        "Juge unique"@fr,
+        "Breitheamh aonair"@ga,
+        "Sudac pojedinac"@hr,
+        "Egyesbíró"@hu,
+        "Giudice unico"@it,
+        "Vienas teisėjas"@lt,
+        "Tiesnesis, kas lietu izskata vienpersoniski"@lv,
+        "Imħallef uniku"@mt,
+        "Alleensprekende rechter"@nl,
+        "W składzie jednego sędziego"@pl,
+        "Juiz singular"@pt,
+        "Judecător unic"@ro,
+        "Samosudca"@sk,
+        "Sodnik posameznik"@sl,
+        "Ensamdomare"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/OP_DATPRO> a skos:Concept ;
+    at:authority-code "OP_DATPRO" ;
+    at:deprecated "false" ;
+    at:op-code "OP_DATPRO" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:formjug ;
+    skos:prefLabel "Неокончателни данни"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/PLEN_SMALL_05_02_C> a skos:Concept ;
+    at:authority-code "PLEN_SMALL_05_02_C" ;
+    at:deprecated "false" ;
+    at:op-code "PLEN_SMALL_05_02_C" ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "PLEN_SMALL_05_02_C" ;
+    dc:identifier "PLEN_SMALL_05_02_C" ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/a651ab89784457f05ca05490dc31e9ce> ;
+    skos:prefLabel "Малък пленум V+II"@bg,
+        "Malé plénum V+II"@cs,
+        "Lille plenum V+II"@da,
+        "Kleines Plenum V+II"@de,
+        "Μικρή ολομέλεια V+II"@el,
+        "Small plenary V+II"@en,
+        "Pequeño Pleno V+II"@es,
+        "Väike täiskogu V+II"@et,
+        "Pieni täysistunto 5+2"@fi,
+        "Petit plenum V+II"@fr,
+        "“Petit plenum V+II”"@ga,
+        "Mali plenum V+II"@hr,
+        "Szűkített teljes ülés V+II"@hu,
+        "Piccolo plenum V+II"@it,
+        "Mažasis plenumas V+II"@lt,
+        "Mazs plēnums V+II"@lv,
+        "Seduta plenarja ridotta V+II"@mt,
+        "Klein plenum V+II"@nl,
+        "Małe plenum V+II"@pl,
+        "Pequeno pleno V+II"@pt,
+        "Plenul restrâns V+II"@ro,
+        "Malé plénum V+II"@sk,
+        "Mali plenum V+II"@sl,
+        "Litet plenum V+II"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/PLEN_SMALL_05_04_C> a skos:Concept ;
+    at:authority-code "PLEN_SMALL_05_04_C" ;
+    at:deprecated "false" ;
+    at:op-code "PLEN_SMALL_05_04_C" ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "PLEN_SMALL_05_04_C" ;
+    dc:identifier "PLEN_SMALL_05_04_C" ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/0c832b1ce5688a7ac2fc48736ddf914a> ;
+    skos:prefLabel "Малък пленум V+IV"@bg,
+        "Malé plénum V+IV"@cs,
+        "Lille plenum V+IV"@da,
+        "Kleines Plenum V+IV"@de,
+        "Μικρή ολομέλεια V+IV"@el,
+        "Small plenary V+IV"@en,
+        "Pequeño Pleno V+IV"@es,
+        "Väike täiskogu V+IV"@et,
+        "Pieni täysistunto 5+4"@fi,
+        "Petit plenum V+IV"@fr,
+        "“Petit plenum V+IV”"@ga,
+        "Mali plenum V+IV"@hr,
+        "Szűkített teljes ülés V+IV"@hu,
+        "Piccolo plenum V+IV"@it,
+        "Mažasis plenumas V+IV"@lt,
+        "Mazs plēnums V+IV"@lv,
+        "Seduta plenarja ridotta V+IV"@mt,
+        "Klein plenum V+IV"@nl,
+        "Małe plenum V+IV"@pl,
+        "Pequeno pleno V+IV"@pt,
+        "Plenul restrâns V+IV"@ro,
+        "Malé plénum V+IV"@sk,
+        "Mali plenum V+IV"@sl,
+        "Litet plenum V+IV"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/PLEN_SMALL_06_01_C> a skos:Concept ;
+    at:authority-code "PLEN_SMALL_06_01_C" ;
+    at:deprecated "false" ;
+    at:op-code "PLEN_SMALL_06_01_C" ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "PLEN_SMALL_06_01_C" ;
+    dc:identifier "PLEN_SMALL_06_01_C" ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/121130bc708268800de0b1bc627d2676> ;
+    skos:prefLabel "Малък пленум VI+I"@bg,
+        "Malé plénum VI+I"@cs,
+        "Lille plenum VI+I"@da,
+        "Kleines Plenum VI+I"@de,
+        "Μικρή ολομέλεια VI+I"@el,
+        "Small plenary VI+I"@en,
+        "Pequeño Pleno VI+I"@es,
+        "Väike täiskogu VI+I"@et,
+        "Pieni täysistunto 6+1"@fi,
+        "Petit plenum VI+I"@fr,
+        "“Petit plenum VI+I”"@ga,
+        "Mali plenum VI+I"@hr,
+        "Szűkített teljes ülés VI+I"@hu,
+        "Piccolo plenum VI+I"@it,
+        "Mažasis plenumas VI+I"@lt,
+        "Mazs plēnums VI+I"@lv,
+        "Seduta plenarja ridotta VI+I"@mt,
+        "Klein plenum VI+I"@nl,
+        "Małe plenum VI+I"@pl,
+        "Pequeno pleno VI+I"@pt,
+        "Plenul restrâns VI+I"@ro,
+        "Malé plénum VI+I"@sk,
+        "Mali plenum VI+I"@sl,
+        "Litet plenum VI+I"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/PLEN_SMALL_06_03_C> a skos:Concept ;
+    at:authority-code "PLEN_SMALL_06_03_C" ;
+    at:deprecated "false" ;
+    at:op-code "PLEN_SMALL_06_03_C" ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "PLEN_SMALL_06_03_C" ;
+    dc:identifier "PLEN_SMALL_06_03_C" ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/51c575e02eb7579f3379e3267f25b6e6> ;
+    skos:prefLabel "Малък пленум VI+III"@bg,
+        "Malé plénum VI+III"@cs,
+        "Lille plenum VI+III"@da,
+        "Kleines Plenum VI+III"@de,
+        "Μικρή ολομέλεια VI+III"@el,
+        "Small plenary VI+III"@en,
+        "Pequeño Pleno VI+III"@es,
+        "Väike täiskogu VI+III"@et,
+        "Pieni täysistunto 6+3"@fi,
+        "Petit plenum VI+III"@fr,
+        "“Petit plenum VI+III”"@ga,
+        "Mali plenum VI+III"@hr,
+        "Szűkített teljes ülés VI+III"@hu,
+        "Piccolo plenum VI+III"@it,
+        "Mažasis plenumas VI+III"@lt,
+        "Mazs plēnums VI+III"@lv,
+        "Seduta plenarja ridotta VI+III"@mt,
+        "Klein plenum VI+III"@nl,
+        "Małe plenum VI+III"@pl,
+        "Pequeno pleno VI+III"@pt,
+        "Plenul restrâns VI+III"@ro,
+        "Malé plénum VI+III"@sk,
+        "Mali plenum VI+III"@sl,
+        "Litet plenum VI+III"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/PLEN_SMALL_C> a skos:Concept ;
+    at:authority-code "PLEN_SMALL_C" ;
+    at:deprecated "false" ;
+    at:op-code "PLEN_SMALL_C" ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "PLEN_SMALL_C" ;
+    dc:identifier "PLEN_SMALL_C" ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/cd798f7964707174569e9880ee350aa7> ;
+    skos:prefLabel "Малък пленум"@bg,
+        "Malé plénum"@cs,
+        "Lille plenum"@da,
+        "Kleines Plenum"@de,
+        "Μικρή ολομέλεια"@el,
+        "Small plenary"@en,
+        "Pequeño Pleno"@es,
+        "Väike täiskogu"@et,
+        "Pieni täysistunto"@fi,
+        "Petit plenum"@fr,
+        "“Petit plenum”"@ga,
+        "Mali plenum"@hr,
+        "Szűkített teljes ülés"@hu,
+        "Piccolo plenum"@it,
+        "Mažasis plenumas"@lt,
+        "Mazs plēnums"@lv,
+        "Seduta plenarja ridotta"@mt,
+        "Klein plenum"@nl,
+        "Małe plenum"@pl,
+        "Pequeno pleno"@pt,
+        "Plenul restrâns"@ro,
+        "Malé plénum"@sk,
+        "Mali plenum"@sl,
+        "Litet plenum"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/PRESID_C> a skos:Concept ;
+    at:authority-code "PRESID_C" ;
+    at:deprecated "false" ;
+    at:op-code "PRESID_C" ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "PRESID_C" ;
+    dc:identifier "PRESID_C" ;
+    skos:altLabel "Kammerpräsidentin"@de ;
+    skos:historyNote "Email KD, 18.11.2013: “President” on the other hand is considered as formjug so there we repeat it 3 times, not matter that the translation is not influenced by this."@en ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/4a9a9b8f85df6ee404f9fe490b677ff6> ;
+    skos:prefLabel "Председател на състав"@bg,
+        "Předseda senátu"@cs,
+        "Afdelingsformanden"@da,
+        "Kammerpräsident"@de,
+        "Πρόεδρο τμήμ"@el,
+        "President of the Chamber"@en,
+        "Presidente de Sala"@es,
+        "Koja esimees"@et,
+        "Jaoston puheenjohtaja"@fi,
+        "Président de chambre"@fr,
+        "Uachtarán"@ga,
+        "Predsjednik"@hr,
+        "Tanácselnök"@hu,
+        "Presidente di sezione"@it,
+        "Kolegijos pirmininkas"@lt,
+        "Palātas priekšsēdētājs"@lv,
+        "President tal-Awla"@mt,
+        "Kamerpresident"@nl,
+        "Prezes izby"@pl,
+        "Presidente de secção"@pt,
+        "Președinte de cameră"@ro,
+        "Predseda komory"@sk,
+        "Predsednik senata"@sl,
+        "Avdelningsordföranden"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/PRESID_F> a skos:Concept ;
+    at:authority-code "PRESID_F" ;
+    at:deprecated "false" ;
+    at:op-code "PRESID_F" ;
+    at:start.use "2004-11-02" ;
+    atold:op-code "PRESID_F" ;
+    dc:identifier "PRESID_F" ;
+    skos:altLabel "Kammerpräsidentin"@de ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/762cdb11966af430f8a42e6210057c0f> ;
+    skos:prefLabel "Председател на състав"@bg,
+        "Předseda senátu"@cs,
+        "Afdelingsformanden"@da,
+        "Kammerpräsident"@de,
+        "Πρόεδρο τμήμ"@el,
+        "President of the Chamber"@en,
+        "Presidente de Sala"@es,
+        "Koja esimees"@et,
+        "Jaoston puheenjohtaja"@fi,
+        "Président de chambre"@fr,
+        "Uachtarán"@ga,
+        "Predsjednik"@hr,
+        "Tanácselnök"@hu,
+        "Presidente di sezione"@it,
+        "Kolegijos pirmininkas"@lt,
+        "Palātas priekšsēdētājs"@lv,
+        "President tal-Awla"@mt,
+        "Kamerpresident"@nl,
+        "Prezes izby"@pl,
+        "Presidente de secção"@pt,
+        "Președinte de cameră"@ro,
+        "Predseda komory"@sk,
+        "Predsednik senata"@sl,
+        "Avdelningsordföranden"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/PRESID_T> a skos:Concept ;
+    at:authority-code "PRESID_T" ;
+    at:deprecated "false" ;
+    at:op-code "PRESID_T" ;
+    at:start.use "1988-01-01" ;
+    atold:op-code "PRESID_T" ;
+    dc:identifier "PRESID_T" ;
+    skos:altLabel "Kammerpräsidentin"@de ;
+    skos:inScheme atold:formjug ;
+    skos:notation <http://publications.europa.eu/resource/authority/formjug/8fb33a4f0b2b3eb887a7c4a238148c64> ;
+    skos:prefLabel "Председател на състав"@bg,
+        "Předseda senátu"@cs,
+        "Afdelingsformanden"@da,
+        "Kammerpräsident"@de,
+        "Πρόεδρο τμήμ"@el,
+        "President of the Chamber"@en,
+        "Presidente de Sala"@es,
+        "Koja esimees"@et,
+        "Jaoston puheenjohtaja"@fi,
+        "Président de chambre"@fr,
+        "Uachtarán"@ga,
+        "Predsjednik"@hr,
+        "Tanácselnök"@hu,
+        "Presidente di sezione"@it,
+        "Kolegijos pirmininkas"@lt,
+        "Palātas priekšsēdētājs"@lv,
+        "President tal-Awla"@mt,
+        "Kamerpresident"@nl,
+        "Prezes izby"@pl,
+        "Presidente de secção"@pt,
+        "Președinte de cameră"@ro,
+        "Predseda komory"@sk,
+        "Predsednik senata"@sl,
+        "Avdelningsordföranden"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/PRESID_VICE_C> a skos:Concept ;
+    at:authority-code "PRESID_VICE_C" ;
+    at:deprecated "false" ;
+    at:op-code "PRESID_VICE_C" ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "PRESID_VICE_C" ;
+    dc:identifier "PRESID_VICE_C" ;
+    skos:inScheme atold:formjug ;
+    skos:prefLabel "Заместник-председател"@bg,
+        "Místopředseda"@cs,
+        "Næstformand"@da,
+        "Vizepräsident"@de,
+        "Αντιπρόεδρος"@el,
+        "Vice-President"@en,
+        "Vicepresidente"@es,
+        "Asepresident"@et,
+        "Varapresidentti"@fi,
+        "Vice-président"@fr,
+        "Leas-Uachtarán"@ga,
+        "Potpredsjednik"@hr,
+        "Elnökhelyettes"@hu,
+        "Vicepresidente"@it,
+        "Pirmininko pavaduotojas"@lt,
+        "Priekšsēdētāja vietnieks"@lv,
+        "Viċi President"@mt,
+        "Vicepresident"@nl,
+        "Wiceprezes"@pl,
+        "Vice-presidente"@pt,
+        "Vicepreședinte"@ro,
+        "Podpredseda"@sk,
+        "Podpredsednik"@sl,
+        "Vice ordförande"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/PRESID_VICE_T> a skos:Concept ;
+    at:authority-code "PRESID_VICE_T" ;
+    at:deprecated "false" ;
+    at:op-code "PRESID_VICE_T" ;
+    at:start.use "1988-01-01" ;
+    atold:op-code "PRESID_VICE_T" ;
+    dc:identifier "PRESID_VICE_T" ;
+    skos:inScheme atold:formjug ;
+    skos:prefLabel "Заместник-председател"@bg,
+        "Místopředseda"@cs,
+        "Næstformand"@da,
+        "Vizepräsident"@de,
+        "Αντιπρόεδρος"@el,
+        "Vice-President"@en,
+        "Vicepresidente"@es,
+        "Asepresident"@et,
+        "Varapresidentti"@fi,
+        "Vice-président"@fr,
+        "Leas-Uachtarán"@ga,
+        "Potpredsjednik"@hr,
+        "Elnökhelyettes"@hu,
+        "Vicepresidente"@it,
+        "Pirmininko pavaduotojas"@lt,
+        "Priekšsēdētāja vietnieks"@lv,
+        "Viċi President"@mt,
+        "Vicepresident"@nl,
+        "Wiceprezes"@pl,
+        "Vice-presidente"@pt,
+        "Vicepreședinte"@ro,
+        "Podpredseda"@sk,
+        "Podpredsednik"@sl,
+        "Vice ordförande"@sv ;
+    skos:topConceptOf atold:formjug .
+
+<http://publications.europa.eu/resource/authority/formjug/00250863805e996b05539f8e09426add> a euvoc:XlNotation ;
+    euvoc:startDate "1988-01-01"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "6" .
+
+<http://publications.europa.eu/resource/authority/formjug/015961de2d6d3d0a279129cf91a5187a> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "VII" .
+
+<http://publications.europa.eu/resource/authority/formjug/039d7a58c8f10d2dec6df21741af331c> a euvoc:XlNotation ;
+    euvoc:startDate "1988-01-01"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "1" .
+
+<http://publications.europa.eu/resource/authority/formjug/05e461b9c9724b1b0edc6edad2df1830> a euvoc:XlNotation ;
+    euvoc:startDate "1988-01-01"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "3" .
+
+<http://publications.europa.eu/resource/authority/formjug/0655efc3b29cbfb71d8f9537cc00211d> a euvoc:XlNotation ;
+    euvoc:startDate "1988-01-01"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "4-G" .
+
+<http://publications.europa.eu/resource/authority/formjug/072b00b082fec0a537566a71e2c5bfde> a euvoc:XlNotation ;
+    euvoc:startDate "1988-01-01"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "7" .
+
+<http://publications.europa.eu/resource/authority/formjug/0782a23d282c31f8b34f9e25b1dce31e> a euvoc:XlNotation ;
+    euvoc:startDate "1988-01-01"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "2-G" .
+
+<http://publications.europa.eu/resource/authority/formjug/0c832b1ce5688a7ac2fc48736ddf914a> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "PP V+IV" .
+
+<http://publications.europa.eu/resource/authority/formjug/10ea038cb78d5aa46dddd8bc90b2f66c> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "X" .
+
+<http://publications.europa.eu/resource/authority/formjug/1196bbc15058c51227b499b178601165> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "II" .
+
+<http://publications.europa.eu/resource/authority/formjug/121130bc708268800de0b1bc627d2676> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "PP VI+I" .
+
+<http://publications.europa.eu/resource/authority/formjug/17773492632a8f3a5ca555c996a5db59> a euvoc:XlNotation ;
+    euvoc:startDate "1988-01-01"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "5-G" .
+
+<http://publications.europa.eu/resource/authority/formjug/1f7621e138edfb4288ab971ebcdbef26> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "JDR" .
+
+<http://publications.europa.eu/resource/authority/formjug/2f3c2d749e16fdcf752b46580787ce9e> a euvoc:XlNotation ;
+    euvoc:startDate "1988-01-01"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "5" .
+
+<http://publications.europa.eu/resource/authority/formjug/338d9bbb1905d23541fbf649239bd348> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "V" .
+
+<http://publications.europa.eu/resource/authority/formjug/3655320128b2cdeba8fcc49d95bf568e> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "VI" .
+
+<http://publications.europa.eu/resource/authority/formjug/3ba43dbd33c646f3d49ffd915b7a7895> a euvoc:XlNotation ;
+    euvoc:startDate "2013-09-16"^^xsd:date ;
+    dct:created "2015-04-30"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "9-G" .
+
+<http://publications.europa.eu/resource/authority/formjug/451bfe5c299093517ba1fd47a056836f> a euvoc:XlNotation ;
+    euvoc:startDate "2004-11-02"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "3" .
+
+<http://publications.europa.eu/resource/authority/formjug/4a9a9b8f85df6ee404f9fe490b677ff6> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "P/CH" .
+
+<http://publications.europa.eu/resource/authority/formjug/4ee0024316fe5e3679e5e96669e98be2> a euvoc:XlNotation ;
+    euvoc:startDate "1988-01-01"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "8-G" .
+
+<http://publications.europa.eu/resource/authority/formjug/51c575e02eb7579f3379e3267f25b6e6> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "PP VI+III" .
+
+<http://publications.europa.eu/resource/authority/formjug/52b27b21eb395104fa1e1343812e1b14> a euvoc:XlNotation ;
+    euvoc:startDate "2003-08-01"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "AP" .
+
+<http://publications.europa.eu/resource/authority/formjug/5417b1ae448a4e6514eeb89beba4fb7d> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "I" .
+
+<http://publications.europa.eu/resource/authority/formjug/63606b60e354a66096f44274d5b8a5d2> a euvoc:XlNotation ;
+    euvoc:startDate "1988-01-01"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "8" .
+
+<http://publications.europa.eu/resource/authority/formjug/6e1fb2602ca5b9eb1cb790ee3d0ffea1> a euvoc:XlNotation ;
+    euvoc:startDate "2004-11-02"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "AP" .
+
+<http://publications.europa.eu/resource/authority/formjug/762cdb11966af430f8a42e6210057c0f> a euvoc:XlNotation ;
+    euvoc:startDate "2004-11-02"^^xsd:date ;
+    dct:created "2013-10-10"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "P" .
+
+<http://publications.europa.eu/resource/authority/formjug/7801d7d71cfde8cb6f92aa1c2bf60f9e> a euvoc:XlNotation ;
+    euvoc:startDate "1988-01-01"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "7-G" .
+
+<http://publications.europa.eu/resource/authority/formjug/7e0d1e2ec282d9eb766baca0888b4580> a euvoc:XlNotation ;
+    euvoc:startDate "1988-01-01"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "C_PV" .
+
+<http://publications.europa.eu/resource/authority/formjug/80c14bf5e75130f7c179f657687a73bd> a euvoc:XlNotation ;
+    euvoc:startDate "1988-01-01"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "4" .
+
+<http://publications.europa.eu/resource/authority/formjug/80e7039ea0ba74db8438977ee522ec23> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "GC" .
+
+<http://publications.europa.eu/resource/authority/formjug/82c2e1929763a160e6ff5016b3c9bd67> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "III" .
+
+<http://publications.europa.eu/resource/authority/formjug/86603371e60779a49c59ab8ce45d447e> a euvoc:XlNotation ;
+    euvoc:startDate "1988-01-01"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "1-G" .
+
+<http://publications.europa.eu/resource/authority/formjug/8fb33a4f0b2b3eb887a7c4a238148c64> a euvoc:XlNotation ;
+    euvoc:startDate "1988-01-01"^^xsd:date ;
+    dct:created "2013-10-10"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "P" .
+
+<http://publications.europa.eu/resource/authority/formjug/97fffda53df8ff64e07e541d7878b9cd> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "C_RX" .
+
+<http://publications.europa.eu/resource/authority/formjug/a09c04eb12d30260f7f3505f66f5e545> a euvoc:XlNotation ;
+    euvoc:startDate "1988-01-01"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "FP" .
+
+<http://publications.europa.eu/resource/authority/formjug/a651ab89784457f05ca05490dc31e9ce> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "PP V+II" .
+
+<http://publications.europa.eu/resource/authority/formjug/a8789bdffe5b6999f6e7d815a6d72da8> a euvoc:XlNotation ;
+    euvoc:startDate "1988-01-01"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "2" .
+
+<http://publications.europa.eu/resource/authority/formjug/ae1494c99e9efbfa29319c103ee98fe2> a euvoc:XlNotation ;
+    euvoc:startDate "2004-11-02"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "1" .
+
+<http://publications.europa.eu/resource/authority/formjug/b0858aa64c9069b76e2e35f6e51e9167> a euvoc:XlNotation ;
+    euvoc:startDate "1988-01-01"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "3-G" .
+
+<http://publications.europa.eu/resource/authority/formjug/bbfccf4857dff698bf90695ce8068ff2> a euvoc:XlNotation ;
+    euvoc:startDate "2004-11-02"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "2" .
+
+<http://publications.europa.eu/resource/authority/formjug/bcca2bb1e7a01ae82b3f2a8303248dc1> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "IV" .
+
+<http://publications.europa.eu/resource/authority/formjug/c59a7fbc61faaeb0db1b6fd6e09abaf1> a euvoc:XlNotation ;
+    euvoc:startDate "1988-01-01"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "GC" .
+
+<http://publications.europa.eu/resource/authority/formjug/c871099e28d5f9c834c4115f7bae0b5a> a euvoc:XlNotation ;
+    euvoc:startDate "1988-01-01"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "6-G" .
+
+<http://publications.europa.eu/resource/authority/formjug/c8f3f4923db16a741280a2fe7a28d900> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "IX" .
+
+<http://publications.europa.eu/resource/authority/formjug/cd798f7964707174569e9880ee350aa7> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "PP" .
+
+<http://publications.europa.eu/resource/authority/formjug/de043553697e5e891fe82c2cb3859d2c> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "VIII" .
+
+<http://publications.europa.eu/resource/authority/formjug/e7bfb53c149b56278b73cafac76c270d> a euvoc:XlNotation ;
+    euvoc:endDate "2003-07-31"^^xsd:date ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "CP" .
+
+<http://publications.europa.eu/resource/authority/formjug/f293a7440a0bca738f0d3d8307dcbd23> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-17"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "JU" .
+
+atold:formjug a skos:ConceptScheme ;
+    rdfs:label "Formation of the Court"@en ;
+    at:prefLabel "Formation of the Court"@en ;
+    at:table.id "formjug" ;
+    at:table.version.number "20220316-0" ;
+    owl:versionInfo "20220316-0" ;
+    skos:prefLabel "Formation of the Court"@en .
+

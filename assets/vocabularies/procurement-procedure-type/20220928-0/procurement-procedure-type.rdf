@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:at="http://publications.europa.eu/ontology/authority/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:atold="http://publications.europa.eu/resource/authority/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xml:base="http://publications.europa.eu/resource/authority/procurement-procedure-type">
+   <skos:ConceptScheme rdf:about="http://publications.europa.eu/resource/authority/procurement-procedure-type"
+                       at:table.id="procurement-procedure-type"
+                       at:table.version.number="20220928-0">
+      <at:prefLabel xml:lang="en">Procurement procedure type</at:prefLabel>
+      <rdfs:label xml:lang="en">Procurement procedure type</rdfs:label>
+      <owl:versionInfo>20220928-0</owl:versionInfo>
+      <skos:prefLabel xml:lang="en">Procurement procedure type</skos:prefLabel>
+   </skos:ConceptScheme>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/procurement-procedure-type/OP_DATPRO"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Неокончателни данни</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Předběžné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Midlertidige data</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Vorläufige Daten</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Προσωρινά δεδομένα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Provisional data</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Datos provisionales</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Esialgsed andmed</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Alustavat tiedot</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Données provisoires</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Sonraí sealadacha</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Privremeni podaci</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Ideiglenes adatok</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Dati provvisori</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Laikinieji duomenys</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Provizoriski dati</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Dejta provviżorja</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Voorlopige gegevens</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Dane tymczasowe</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Dados provisórios</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Date provizorii</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Predbežné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Začasni podatki</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Tillfälliga uppgifter</skos:prefLabel>
+      <at:authority-code>OP_DATPRO</at:authority-code>
+      <at:op-code>OP_DATPRO</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>OP_DATPRO</atold:op-code>
+      <dc:identifier>OP_DATPRO</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/procurement-procedure-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/procurement-procedure-type"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/procurement-procedure-type/comp-dial"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Състезателен диалог</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Soutěžní dialog</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Konkurrencepræget dialog</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Wettbewerblicher Dialog</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Ανταγωνιστικός διάλογος</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Competitive dialogue</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Diálogo competitivo</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Võistlev dialoog</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Kilpailullinen neuvottelumenettely</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Dialogue compétitif</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Idirphlé iomaíoch</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Natjecateljski dijalog</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Versenypárbeszéd</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Dialogo competitivo</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Konkurencinis dialogas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Konkursa dialogs</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Djalogu kompetittiv</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Concurrentiegerichte dialoog</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Dialog konkurencyjny</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Diálogo concorrencial</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Dialog competitiv</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Súťažný dialóg</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Konkurenčni dialog</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Konkurrenspräglad dialog</skos:prefLabel>
+      <at:authority-code>comp-dial</at:authority-code>
+      <at:op-code>comp-dial</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>comp-dial</atold:op-code>
+      <dc:identifier>comp-dial</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/procurement-procedure-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/procurement-procedure-type"/>
+      <skos:definition xml:lang="en">In competitive dialogues, any economic operator may submit a request to participate in response to a call for competition in accordance with points (b) and (c) of Article 44(4) by providing the information for qualitative selection that is requested by the contracting entity.</skos:definition>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/procurement-procedure-type/comp-tend"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Конкурентна тръжна</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Soutěžní nabídkové řízení</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Konkurrencepræget udbud</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Wettbewerbliches Ausschreibungverfahren</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Ανταγωνιστική διαγωνισμού</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Competitive tendering</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Licitación pública</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Konkurentsipõhine pakkumismenetlus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Tarjouskilpailu</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Appel d’offres compétitive</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Tairiscint iomaíoch</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Konkurentni nadmetanja</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Versenypályázati eljárás</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Procedura di gara</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Konkurencinė konkurso</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Konkursa procedūra</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Sejħa għall-offerti kompetittiva</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Mededingingsprocedure</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Procedura przetargowa</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Concurso competitivo</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Licitaţie competitivă</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Postup verejného obstarávania</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Konkurenčni razpisni</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Konkurrenskraftigt upphandling</skos:prefLabel>
+      <at:authority-code>comp-tend</at:authority-code>
+      <at:op-code>comp-tend</at:op-code>
+      <at:start.use>2021-06-16</at:start.use>
+      <atold:op-code>comp-tend</atold:op-code>
+      <dc:identifier>comp-tend</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/procurement-procedure-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/procurement-procedure-type"/>
+      <skos:definition xml:lang="en">A competitive tendering procedure is open to any interested economic operator, is fair and observes the principles of transparency and non-discrimination. Such a procedure does not rule out negotiations (in order to determine how best to meet specific or complex requirements) provided they comply with the same principles.</skos:definition>
+      <skos:scopeNote xml:lang="en">This is used for procurement concerning public passenger transport services.</skos:scopeNote>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/procurement-procedure-type/innovation"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Партньорство за иновации</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Inovační partnerství</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Innovationspartnerskab</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Innovationspartnerschaften</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Σύμπραξη καινοτομίας</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Innovation partnership</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Asociación para la innovación</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Innovatsioonipartnerlus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Innovaatiokumppanuus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Partenariat d’innovation</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Comhpháirtíocht nuálaíochta</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Partnerstvo za inovacije</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Innovációs partnerség</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Partenariato per l'innovazione</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Inovacijų partnerystė</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Inovācijas partnerība</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Sħubija għall-innovazzjoni</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Innovatiepartnerschap</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Partnerstwo innowacyjne</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Parcerias para a inovação</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Parteneriat pentru inovare</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Inovatívne partnerstvo</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Partnerstvo za inovacije</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Innovationspartnerskap</skos:prefLabel>
+      <at:authority-code>innovation</at:authority-code>
+      <at:op-code>innovation</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>innovation</atold:op-code>
+      <dc:identifier>innovation</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/procurement-procedure-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/procurement-procedure-type"/>
+      <skos:definition xml:lang="en">In innovation partnerships, any economic operator may submit a request to participate in response to a call for competition in accordance with points (b) and (c) of Article 44(4) by providing the information for qualitative selection that is requested by the contracting entity.</skos:definition>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/procurement-procedure-type/neg-w-call"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Договаряне с предварително публикуване на покана за участие в състезателна процедура / състезателна с договаряне</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Jednací řízení s uveřejněním / jednací řízení</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Udbud med forhandling/indkaldelse af tilbud med forudgående offentliggørelse</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Verhandlungsverfahren mit vorheriger Veröffentlichung eines Aufrufs zum Wettbewerb/Verhandlungsverfahren</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Με διαπραγμάτευση με προηγούμενη δημοσίευση προκήρυξης διαγωνισμού/ανταγωνιστική διαδικασία με διαπραγμάτευση</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Negotiated with prior publication of a call for competition / competitive with negotiation</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Negociado con publicación previa de un anuncio de licitación / licitación con negociación</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Väljakuulutamisega läbirääkimistega hankemenetlus / konkurentsipõhine läbirääkimistega hankemenetlus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Tarjouskilpailukutsun julkaisemisen jälkeinen neuvottelumenettely / tarjousperusteinen neuvottelumenettely</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Négociée avec publication préalable d’un appel à la concurrence / concurrentielle avec négociation</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Idirbheartaíocht lena mbaineann foilsiú roimh ré glao ar iomaíocht / iomaíocht lena mbaineann idirbheartaíocht</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Pregovarački s prethodnom objavom poziva na nadmetanje / natjecateljski uz pregovore</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Eljárást megindító felhívás előzetes közzétételével járó tárgyalásos / tárgyalásos</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Negoziata con previa indizione di gara / competitiva con negoziazione</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Derybos su išankstiniu kvietimu dalyvauti konkurse ir (arba) konkursas su derybomis</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Sarunu procedūra ar iepirkuma iepriekšēju izsludināšanu/konkursa procedūra ar sarunām</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Innegozjata bil-pubblikazzjoni minn qabel ta’ sejħa għall-kompetizzjoni/għall-kompetizzjoni bin-negozjar</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Onderhandelingsprocedure met voorafgaande oproep tot mededinging / mededingingsprocedure met onderhandeling</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Negocjacyjna z uprzednią publikacją zaproszenia do ubiegania się o zamówienie / konkurencyjna z negocjacjami</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Por negociação com publicação prévia de um convite à apresentação de propostas/concurso com negociação</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Negociată cu publicarea prealabilă a unei proceduri concurențiale de ofertare / competitivă cu negociere</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Rokovacie konanie so zverejnením výzvy na súťaž/súťažné obstarávanie s rokovacím konaním</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">S pogajanji, s predhodno objavo javnega razpisa / konkurenčni postopek s pogajanji</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Förhandlat förfarande med föregående meddelande om upphandling/under konkurrens</skos:prefLabel>
+      <at:authority-code>neg-w-call</at:authority-code>
+      <at:op-code>neg-w-call</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>neg-w-call</atold:op-code>
+      <dc:identifier>neg-w-call</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/procurement-procedure-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/procurement-procedure-type"/>
+      <skos:definition xml:lang="en">In negotiated procedures with prior call for competition, any economic operator may submit a request to participate in response to a call for competition by providing the information for qualitative selection that is requested by the contracting entity.</skos:definition>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/procurement-procedure-type/neg-wo-call"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Договаряне без предварително обявление</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Jednací řízení bez uveřejnění</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Udbud med forhandling uden forudgående offentliggørelse</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Verhandlungsverfahren ohne Aufruf zum Wettbewerb</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Με διαπραγμάτευση χωρίς προηγούμενη δημοσίευση προκήρυξης διαγωνισμού</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Negotiated without prior call for competition</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Negociado sin convocatoria de licitación previa</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Väljakuulutamiseta läbirääkimistega hankemenetlus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Neuvottelumenettely ilman edeltävää tarjouskilpailukutsua</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Négociée sans mise en concurrence préalable</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Idirbheartaíocht lena mbaineann glao roimh ré ar iomaíocht</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Pregovarački bez prethodnog poziva na nadmetanje</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Felhívás nélküli tárgyalásos eljárás</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Negoziata senza previa indizione di gara</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Derybos be išankstinio skelbimo apie pirkimą</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Sarunu procedūra bez iepirkuma iepriekšējas izsludināšanas</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Innegozjata mingħajr sejħa minn qabel għall-kompetizzjoni</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Onderhandelingsprocedure zonder voorafgaande oproep tot mededinging</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Negocjacyjna bez uprzedniej publikacji zaproszenia do ubiegania się o zamówienie</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Por negociação sem abertura prévia de concurso</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Negociată fără publicarea unei proceduri concurențiale de ofertare</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Rokovacie konanie bez zverejnenia výzvy na súťaž</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">S pogajanji, brez predhodnega javnega razpisa</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Förhandlat förfarande utan föregående meddelande om upphandling</skos:prefLabel>
+      <at:authority-code>neg-wo-call</at:authority-code>
+      <at:op-code>neg-wo-call</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>neg-wo-call</atold:op-code>
+      <dc:identifier>neg-wo-call</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/procurement-procedure-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/procurement-procedure-type"/>
+      <skos:definition xml:lang="en">Contracting entities may use a negotiated procedure without prior call for competition in the following cases: 
+Based on Directive 2014/25/EU, Article 50: 
+(a) where no tenders or no suitable tenders or no requests to participate or no suitable requests to participate have been submitted [...]; (b) where a contract is purely for the purpose of research, experiment, study or development, [...]; (c) where the works, supplies or services can be supplied only by a particular economic operator [...]; (d) in so far as is strictly necessary where, for reasons of extreme urgency brought about by events unforeseeable by the contracting entity [...]; (e) in the case of supply contracts for additional deliveries by the original supplier [...]; (f) for new works or services consisting in the repetition of similar works or services assigned to the contractor [...]; (g) for supplies quoted and purchased on a commodity market; (h) for bargain purchases [...]; (i) for purchases of supplies or services under particularly advantageous conditions [...]; (j) where the service contract concerned follows a design contest organised in accordance with this Directive and is to be awarded [...];
+OR
+Based on Regulation (EC) No 1370/2007, Article 5: 
+where  the contract complies with the conditions of Article 5, paragraphs (2), (3a), (3b), (4), (4a, (4b), (5) and (6) of Regulation (EC) No 1370/2007.
+</skos:definition>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/procurement-procedure-type/open"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Открита</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Otevřené</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Åben</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Offenes Verfahren</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Ανοικτή</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Open</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Abierto</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Avatud</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Avoin</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Ouverte</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Oscailte</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Otvoren</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Nyitott</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Aperta</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Atviras</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Atklāta</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Miftuħa</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Openbaar</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Otwarta</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Aberto</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Deschisă</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Verejná súťaž</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Odprti postopek</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Öppet</skos:prefLabel>
+      <at:authority-code>open</at:authority-code>
+      <at:op-code>open</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>open</atold:op-code>
+      <dc:identifier>open</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/procurement-procedure-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/procurement-procedure-type"/>
+      <skos:definition xml:lang="en">In open procedures any interested economic operator may submit a tender in response to a call for competition.</skos:definition>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/procurement-procedure-type/oth-mult"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Друга многоетапна процедура</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Jiné vícefázové řízení</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Anden procedure, der afvikles i flere faser</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Sonstiges zweistufiges Verfahren</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Άλλη διαδικασία πολλών σταδίων</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Other multiple stage procedure</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Otro procedimiento de múltiples etapas</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Muu mitmeetapiline menetlus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Muu monivaiheinen menettely</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Autre procédure en plusieurs étapes</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Nós imeachta ilchéime eile</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Ostali postupci u više faza</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Egyéb többszakaszos eljárás</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Altra procedura a più fasi</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Kita kelių etapų procedūra</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Cita daudzpakāpju procedūra</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Proċedura oħra b’diversi stadji</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Andere procedure in meerdere fasen</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Inna procedura wieloetapowa</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Outro processo em múltiplas fases</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Altă procedură cu mai multe etape</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Iný viacfázový postup</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Drugi večstopenjski postopek</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Annat förfarande i flera steg</skos:prefLabel>
+      <at:authority-code>oth-mult</at:authority-code>
+      <at:op-code>oth-mult</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>oth-mult</atold:op-code>
+      <dc:identifier>oth-mult</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/procurement-procedure-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/procurement-procedure-type"/>
+      <skos:definition xml:lang="en">Multiple stage procedure not covered by other concepts in this table.</skos:definition>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/procurement-procedure-type/oth-single"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Друга едноетапна процедура</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Jiné jednofázové řízení</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Anden procedure, der afvikles i to faser</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Sonstiges einstufiges Verfahren</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Άλλη διαδικασία ενός σταδίου</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Other single stage procedure</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Otro procedimiento de una sola etapa</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Muu üheetapiline menetlus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Muu yksivaiheinen menettely</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Autre procédure en une seule étape</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Nós imeachta aonchéime eile</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Ostali postupci od jedne faze</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Egyéb egyszakaszos eljárás</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Altra procedura a fase unica</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Kita vieno etapo procedūra</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Cita vienpakāpes procedūra</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Proċedura oħra bi stadju wieħed</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Andere procedure in één fase</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Inna procedura jednoetapowa</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Outro processo de fase única</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Altă procedură cu o singură etapă</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Iný jednofázový postup</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Drugi enostopenjski postopek</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Annat förfarande i ett steg</skos:prefLabel>
+      <at:authority-code>oth-single</at:authority-code>
+      <at:op-code>oth-single</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>oth-single</atold:op-code>
+      <dc:identifier>oth-single</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/procurement-procedure-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/procurement-procedure-type"/>
+      <skos:definition xml:lang="en">Single stage procedure not covered by the other concepts in this table.</skos:definition>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/procurement-procedure-type/restricted"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Ограничена</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Užší</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Begrænset</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Nichtoffenes Verfahren</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Κλειστή</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Restricted</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Restringido</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Piiratud</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Rajoitettu</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Restreinte</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Teoranta</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Ograničen</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Zárt</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Ristretta</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Ribotas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Slēgta</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Ristretta</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Niet-openbaar</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Ograniczona</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Limitado</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Restrânsă</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Užšia súťaž</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Omejeni postopek</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Selektivt</skos:prefLabel>
+      <at:authority-code>restricted</at:authority-code>
+      <at:op-code>restricted</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>restricted</atold:op-code>
+      <dc:identifier>restricted</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/procurement-procedure-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/procurement-procedure-type"/>
+      <skos:definition xml:lang="en">In restricted procedures, any economic operator may submit a request to participate in response to a call for competition by providing the information for qualitative selection that is requested by the contracting entity.</skos:definition>
+   </skos:Concept>
+</rdf:RDF>

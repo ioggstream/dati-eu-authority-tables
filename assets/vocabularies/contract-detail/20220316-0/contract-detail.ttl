@@ -1,0 +1,243 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/contract-detail/OP_DATPRO> a skos:Concept ;
+    at:op-code "OP_DATPRO" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:contract-detail ;
+    skos:prefLabel "НЕОКОНЧАТЕЛНИ ДАННИ"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv .
+
+<http://publications.europa.eu/resource/authority/contract-detail/all-rev-tic> a skos:Concept ;
+    at:authority-code "all-rev-tic" ;
+    at:deprecated "false" ;
+    at:op-code "all-rev-tic" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "all-rev-tic" ;
+    dc:identifier "all-rev-tic" ;
+    skos:inScheme atold:contract-detail ;
+    skos:prefLabel "Разпределяне на приходи от продажби на билети"@bg,
+        "Rozdělení výnosů z prodeje jízdenek"@cs,
+        "Fordeling af indtægter fra billetsalg"@da,
+        "Zuteilung der Erträge aus dem Verkauf von Fahrscheinen"@de,
+        "Κατανομή των εσόδων από την πώληση εισιτηρίων"@el,
+        "Allocation of revenues of sales from tickets"@en,
+        "Distribución de los ingresos derivados de la venta de los títulos de transporte"@es,
+        "Piletimüügist saadava tulu jaotamine"@et,
+        "Matkalippujen myynnistä saatavien tulojen jakaminen"@fi,
+        "Affectation des recettes provenant de la vente des titres de transport"@fr,
+        "Leithdháileadh an ioncaim ó dhíolachán ticéad"@ga,
+        "Dodjela prihoda od prodaje karata"@hr,
+        "A jegyértékesítésből származó bevételek megosztása"@hu,
+        "Ripartizione dei ricavi dalla vendita di biglietti"@it,
+        "Pajamų, gautų pardavus bilietus, paskirstymas"@lt,
+        "Biļešu pārdošanā iegūto ieņēmumu sadale"@lv,
+        "L-allokazzjoni tad-dħul mill-bejgħ tal-biljetti"@mt,
+        "Verdeelsleutel voor de ontvangsten uit de verkoop van vervoerbewijzen"@nl,
+        "Podział przychodów ze sprzedaży biletów"@pl,
+        "Repartição das receitas ligadas à venda de títulos de transporte"@pt,
+        "Alocarea veniturilor încasate din vânzarea de bilete"@ro,
+        "Vyčlenenie výnosov z predaja lístkov"@sk,
+        "Razporeditev prihodkov iz prodaje vozovnic"@sl,
+        "Tilldelning av inkomster från biljettförsäljning"@sv .
+
+<http://publications.europa.eu/resource/authority/contract-detail/cost-comp> a skos:Concept ;
+    at:authority-code "cost-comp" ;
+    at:deprecated "false" ;
+    at:op-code "cost-comp" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "cost-comp" ;
+    dc:identifier "cost-comp" ;
+    skos:inScheme atold:contract-detail ;
+    skos:prefLabel "Ценови параметри за компенсационните плащания"@bg,
+        "Parametry nákladů pro splátky kompenzace"@cs,
+        "Omkostningsparametre for kompensationsbetalinger"@da,
+        "Kostenparameter für Ausgleichszahlungen"@de,
+        "Παράμετροι κόστους για πληρωμές αποζημιώσεων"@el,
+        "Cost parameters for compensation payments"@en,
+        "Parámetros de coste para el pago de compensaciones"@es,
+        "Hüvitise maksumuse näitajad"@et,
+        "Korvausten kustannusperusteet"@fi,
+        "Paramètres de coût pour compensations"@fr,
+        "Paraiméadair costais le haghaidh íocaíochtaí cúitimh"@ga,
+        "Troškovni parametri za plaćanja naknade"@hr,
+        "Az ellentételezés költségparaméterei"@hu,
+        "Parametri di costo per le compensazioni"@it,
+        "Kompensacinėms išmokoms taikomi išlaidų parametrai"@lt,
+        "Izmaksu parametri attiecībā uz kompensāciju maksājumiem"@lv,
+        "Il-parametri tal-ispejjeż biex isiru l-ħlasijiet ta’ kumpens"@mt,
+        "Parameters voor kosten voor compensaties"@nl,
+        "Parametry kosztów w celu obliczenia rekompensaty"@pl,
+        "Parâmetros de custo para compensações"@pt,
+        "Parametri de cost pentru plata compensaţiilor"@ro,
+        "Nákladové parametre pre platby úhrady"@sk,
+        "Stroškovni parametri za nadomestila"@sl,
+        "Kostnadsparametrar för betalningar av kompensation"@sv .
+
+<http://publications.europa.eu/resource/authority/contract-detail/exc-right> a skos:Concept ;
+    at:authority-code "exc-right" ;
+    at:deprecated "false" ;
+    at:op-code "exc-right" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "exc-right" ;
+    dc:identifier "exc-right" ;
+    skos:inScheme atold:contract-detail ;
+    skos:prefLabel "Предоставени са изключителни права"@bg,
+        "Výlučná práva jsou udělena"@cs,
+        "Der ydes enerettigheder"@da,
+        "Ausschließliche Rechte werden eingeräumt"@de,
+        "Χορηγούνται αποκλειστικά δικαιώματα"@el,
+        "Exclusive rights are granted"@en,
+        "Se otorgan derechos exclusivos"@es,
+        "Antud on ainuõigused"@et,
+        "Yksinoikeudet myönnetään"@fi,
+        "Des droits exclusifs sont octroyés"@fr,
+        "Deonaítear cearta eisiacha"@ga,
+        "Isključiva prava se dodjeljuju"@hr,
+        "Kizárólagos jogok biztosítottak"@hu,
+        "Sono concessi diritti di esclusiva"@it,
+        "Suteiktos išskirtinės teisės"@lt,
+        "Piešķirtas ekskluzīvas tiesības"@lv,
+        "Qegħdin jingħataw drittijiet esklussiv"@mt,
+        "Exclusieve rechten zijn toegekend"@nl,
+        "Przyznano wyłączne prawa"@pl,
+        "São atribuídos direitos exclusivos"@pt,
+        "Drepturile exclusive sunt acordate"@ro,
+        "Výlučné práva sú udelené"@sk,
+        "Izključne pravice so dodeljene"@sl,
+        "Ensamrätt beviljas"@sv .
+
+<http://publications.europa.eu/resource/authority/contract-detail/other> a skos:Concept ;
+    at:authority-code "other" ;
+    at:deprecated "false" ;
+    at:op-code "other" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "other" ;
+    dc:identifier "other" ;
+    skos:inScheme atold:contract-detail ;
+    skos:prefLabel "Други"@bg,
+        "Jiný"@cs,
+        "Andre"@da,
+        "Sonstiges"@de,
+        "Άλλη"@el,
+        "Other"@en,
+        "Otras"@es,
+        "Muu"@et,
+        "Muut"@fi,
+        "Autres"@fr,
+        "Eile"@ga,
+        "Ostali"@hr,
+        "Egyéb"@hu,
+        "Altre"@it,
+        "Kitos"@lt,
+        "Citi"@lv,
+        "Oħrajn"@mt,
+        "Andere"@nl,
+        "Inne"@pl,
+        "Outras"@pt,
+        "Alte"@ro,
+        "Iná"@sk,
+        "Drugo"@sl,
+        "Annat"@sv .
+
+<http://publications.europa.eu/resource/authority/contract-detail/publ-ser-obl> a skos:Concept ;
+    at:authority-code "publ-ser-obl" ;
+    at:deprecated "false" ;
+    at:op-code "publ-ser-obl" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "publ-ser-obl" ;
+    dc:identifier "publ-ser-obl" ;
+    skos:inScheme atold:contract-detail ;
+    skos:prefLabel "Задължения, свързани с общесвената услуга"@bg,
+        "Závazky veřejné služby"@cs,
+        "Offentlige serviceforpligtelser"@da,
+        "Gemeinwirtschaftliche Verpflichtungen"@de,
+        "Υποχρεώσεις παροχής δημόσιας υπηρεσίας"@el,
+        "Public service obligations"@en,
+        "Obligaciones de servicio público"@es,
+        "Avaliku teenindamise kohustused"@et,
+        "Julkisia palveluja koskevat velvoitteet"@fi,
+        "Obligations de service public"@fr,
+        "Oibleagáidí Seirbhíse Poiblí"@ga,
+        "Obveze javnih usluga"@hr,
+        "Közszolgáltatási kötelezettségek"@hu,
+        "Obblighi di servizio pubblico"@it,
+        "Įsipareigojimai teikti viešąsias paslaugas"@lt,
+        "Sabiedrisko pakalpojumu sniegšanas saistības"@lv,
+        "L-Obbligi ta’ Servizz Pubbliku"@mt,
+        "Openbaredienstverplichtingen"@nl,
+        "Zobowiązania do świadczenia usług publicznych"@pl,
+        "Obrigações de Serviço Público"@pt,
+        "Obligaţii de serviciu public"@ro,
+        "Záväzky vyplývajúce zo služieb vo verejnom záujme"@sk,
+        "Obveznosti javne službe"@sl,
+        "Skyldigheter avseende offentliga tjänster"@sv .
+
+<http://publications.europa.eu/resource/authority/contract-detail/soc-stand> a skos:Concept ;
+    at:authority-code "soc-stand" ;
+    at:deprecated "false" ;
+    at:op-code "soc-stand" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "soc-stand" ;
+    dc:identifier "soc-stand" ;
+    skos:inScheme atold:contract-detail ;
+    skos:prefLabel "Социални стандарти"@bg,
+        "Sociální normy"@cs,
+        "Sociale standarder"@da,
+        "Soziale Standards"@de,
+        "Κοινωνικά πρότυπα"@el,
+        "Social standards"@en,
+        "Normas sociales"@es,
+        "Sotsiaalsed standardid"@et,
+        "Työehtoihin liittyvät vaatimukset"@fi,
+        "Normes sociales"@fr,
+        "Caighdeáin shóisialta"@ga,
+        "Socijalni standardi"@hr,
+        "Szociális normák"@hu,
+        "Standard sociali"@it,
+        "Socialiniai standartai"@lt,
+        "Sociālie standart"@lv,
+        "Standards soċjali"@mt,
+        "Sociale normen"@nl,
+        "Standardy socjalne"@pl,
+        "Padrões sociais"@pt,
+        "Standarde sociale"@ro,
+        "Sociálne normy"@sk,
+        "Socialni standardi"@sl,
+        "Sociala normer"@sv .
+
+atold:contract-detail a skos:ConceptScheme ;
+    rdfs:label "Contract detail"@en ;
+    at:prefLabel "Contract detail"@en ;
+    at:table.id "contract-detail" ;
+    at:table.version.number "20220316-0" ;
+    owl:versionInfo "20220316-0" ;
+    skos:prefLabel "Contract detail"@en .
+

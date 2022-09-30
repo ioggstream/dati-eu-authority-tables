@@ -1,0 +1,1170 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/semantic-technology/GRDDL> a skos:Concept ;
+    at:authority-code "GRDDL" ;
+    at:deprecated "false" ;
+    at:op-code "GRDDL" ;
+    at:start.use "2021-08-30" ;
+    atold:op-code "GRDDL" ;
+    dc:identifier "GRDDL" ;
+    skos:altLabel "Gleaning Resource Descriptions from Dialects of Languages"@bg,
+        "Mikroformát GRDDL"@cs,
+        "Gleaning Resource Descriptions from Dialects of Languages"@da,
+        "Gleaning Resource Descriptions from Dialects of Languages"@de,
+        "Gleaning Resource Descriptions from Dialects of Languages"@el,
+        "Gleaning Resource Descriptions from Dialects of Languages"@en,
+        "Gleaning Resource Descriptions from Dialects of Languages"@es,
+        "Gleaning Resource Descriptions from Dialects of Languages (keeledialektide kogutud ressursside kirjeldused)"@et,
+        "Gleaning Resource Descriptions from Dialects of Languages"@fi,
+        "Gleaning Resource Descriptions from Dialects of Languages"@fr,
+        "Gleaning Resource Descriptions from Dialects of Languages"@ga,
+        "Gleaning Resource Descriptions from Dialects of Languages"@hr,
+        "Gleaning Resource Descriptions from Dialects of Languages"@hu,
+        "Gleaning Resource Descriptions from Dialects of Languages (estrazione delle descrizioni delle risorse dai dialetti dei linguaggi)"@it,
+        "Gleaning Resource Descriptions from Dialects of Languages"@lt,
+        "Gleaning Resource Descriptions from Dialects of Languages"@lv,
+        "Gleaning Resource Descriptions from Dialects of Languages"@mt,
+        "Gleaning Resource Descriptions from Dialects of Languages"@nl,
+        "Gleaning Resource Descriptions from Dialects of Languages"@pl,
+        "Gleaning Resource Descriptions from Dialects of Languages (Recolha de descrições de recursos a partir de dialetos das línguas)"@pt,
+        "Gleaning Resource Descriptions from Dialects of Languages"@ro,
+        "Zber opisu zdrojov z dialektov"@sk,
+        "Gleaning Resource Descriptions from Dialects of Languages"@sl,
+        "Gleaning Resource Descriptions from Dialects of Languages"@sv ;
+    skos:definition "GRDDL is a markup format for Gleaning Resource Descriptions from Dialects of Languages. It is a W3C recommendation and enables users to obtain RDF triples out of XML documents, including XHTML."@en ;
+    skos:inScheme atold:semantic-technology ;
+    skos:prefLabel "GRDDL"@bg,
+        "GRDDL"@cs,
+        "GRDDL"@da,
+        "GRDDL"@de,
+        "GRDDL"@el,
+        "GRDDL"@en,
+        "GRDDL"@es,
+        "GRDDL"@et,
+        "GRDDL"@fi,
+        "GRDDL"@fr,
+        "GRDDL"@ga,
+        "GRDDL"@hr,
+        "GRDDL"@hu,
+        "GRDDL"@it,
+        "GRDDL"@lt,
+        "GRDDL"@lv,
+        "GRDDL"@mt,
+        "GRDDL"@nl,
+        "GRDDL"@pl,
+        "GRDDL"@pt,
+        "GRDDL"@ro,
+        "GRDDL"@sk,
+        "GRDDL"@sl,
+        "GRDDL"@sv ;
+    skos:topConceptOf atold:semantic-technology .
+
+<http://publications.europa.eu/resource/authority/semantic-technology/LDF> a skos:Concept ;
+    at:authority-code "LDF" ;
+    at:deprecated "false" ;
+    at:op-code "LDF" ;
+    at:start.use "2021-08-30" ;
+    atold:op-code "LDF" ;
+    dc:identifier "LDF" ;
+    skos:altLabel "Linked Data Fragments"@bg,
+        "Linked Data Fragments"@cs,
+        "Linked Data Fragments"@da,
+        "Linked Data Fragments"@de,
+        "Τμήματα συνδεδεμένων δεδομένων (Linked Data Fragments)"@el,
+        "Linked Data Fragments"@en,
+        "Linked Data Fragments"@es,
+        "Linked Data Fragments (lingitud andmete fragmendid)"@et,
+        "Linked Data Fragments"@fi,
+        "Linked Data Fragments"@fr,
+        "Linked Data Fragments"@ga,
+        "Linked Data Fragments"@hr,
+        "Linked Data Fragments"@hu,
+        "Linked Data Fragments (frammenti di dati collegati)"@it,
+        "Linked Data Fragments"@lt,
+        "Linked Data Fragments"@lv,
+        "Linked Data Fragments"@mt,
+        "Linked Data-fragmenten"@nl,
+        "Linked Data Fragments"@pl,
+        "Linked Data Fragments (Fragmentos de dados ligados)"@pt,
+        "Fragmente date conectate"@ro,
+        "Fragmenty prepojených údajov"@sk,
+        "Linked Data Fragments"@sl,
+        "Linked Data Fragments"@sv ;
+    skos:definition "LDF – Linked Data Fragments – is a conceptual framework that provides a uniform view on all possible interfaces to RDF, by observing that each interface partitions a dataset into its own specific kind of fragments. Specifically, a Linked Data Fragment (LDF) of a Linked Data dataset is a resource consisting of those triples of this dataset that match a specific selector, together with metadata and hypermedia controls."@en ;
+    skos:inScheme atold:semantic-technology ;
+    skos:prefLabel "LDF"@bg,
+        "LDF"@cs,
+        "LDF"@da,
+        "LDF"@de,
+        "LDF"@el,
+        "LDF"@en,
+        "LDF"@es,
+        "LDF"@et,
+        "LDF"@fi,
+        "LDF"@fr,
+        "LDF"@ga,
+        "LDF"@hr,
+        "LDF"@hu,
+        "LDF"@it,
+        "LDF"@lt,
+        "LDF"@lv,
+        "LDF"@mt,
+        "LDF"@nl,
+        "LDF"@pl,
+        "LDF"@pt,
+        "LDF"@ro,
+        "LDF"@sk,
+        "LDF"@sl,
+        "LDF"@sv ;
+    skos:topConceptOf atold:semantic-technology .
+
+<http://publications.europa.eu/resource/authority/semantic-technology/LDFLEX> a skos:Concept ;
+    at:authority-code "LDFLEX" ;
+    at:deprecated "false" ;
+    at:op-code "LDFLEX" ;
+    at:start.use "2021-08-30" ;
+    atold:op-code "LDFLEX" ;
+    dc:identifier "LDFLEX" ;
+    skos:altLabel "Linked Data flexibility"@bg,
+        "Linked Data flexibility"@cs,
+        "Linked Data flexibility"@da,
+        "Linked Data flexibility"@de,
+        "Ευελιξία συνδεδεμένων δεδομένων (Linked Data flexibility)"@el,
+        "Linked Data flexibility"@en,
+        "Linked Data flexibility"@es,
+        "Linked Data flexibility (lingitud andmete paindlikkus)"@et,
+        "Linked Data flexibility"@fi,
+        "Linked Data flexibility"@fr,
+        "Linked Data flexibility"@ga,
+        "Linked Data flexibility"@hr,
+        "Linked Data flexibility"@hu,
+        "Linked Data flexibility (flessibilità dei dati collegati)"@it,
+        "Linked Data flexibility"@lt,
+        "Linked Data flexibility"@lv,
+        "Linked Data flexibility"@mt,
+        "Linked Data-flexibiliteit"@nl,
+        "Linked Data flexibility"@pl,
+        "Linked Data flexibility (Flexibilidade de dados ligados)"@pt,
+        "Flexibilitate date conectate"@ro,
+        "Flexibilita prepojených údajov"@sk,
+        "Linked Data flexibility"@sl,
+        "Linked Data flexibility"@sv ;
+    skos:definition "LDflex is a domain-specific language for querying Linked Data on the Web as if you were browsing a local JavaScript graph."@en ;
+    skos:inScheme atold:semantic-technology ;
+    skos:prefLabel "LDFlex"@bg,
+        "LDFlex"@cs,
+        "LDFlex"@da,
+        "LDFlex"@de,
+        "LDFlex"@el,
+        "LDFlex"@en,
+        "LDFlex"@es,
+        "LDFlex"@et,
+        "LDFlex"@fi,
+        "LDFlex"@fr,
+        "LDFlex"@ga,
+        "LDFlex"@hr,
+        "LDFlex"@hu,
+        "LDFlex"@it,
+        "LDFlex"@lt,
+        "LDFlex"@lv,
+        "LDFlex"@mt,
+        "LDFlex"@nl,
+        "LDFlex"@pl,
+        "LDFlex"@pt,
+        "LDFlex"@ro,
+        "LDFlex"@sk,
+        "LDFlex"@sl,
+        "LDFlex"@sv ;
+    skos:topConceptOf atold:semantic-technology .
+
+<http://publications.europa.eu/resource/authority/semantic-technology/LDN> a skos:Concept ;
+    at:authority-code "LDN" ;
+    at:deprecated "false" ;
+    at:op-code "LDN" ;
+    at:start.use "2021-08-30" ;
+    atold:op-code "LDN" ;
+    dc:identifier "LDN" ;
+    skos:altLabel "Linked Data Notifications"@bg,
+        "Linked Data Notifications"@cs,
+        "Linked Data Notifications"@da,
+        "Linked Data Notifications"@de,
+        "Linked Data Notifications (πρωτόκολλο LDN)"@el,
+        "Linked Data Notifications"@en,
+        "Linked Data Notifications"@es,
+        "Linked Data Notifications (lingitud andmete teated)"@et,
+        "Linked Data Notifications"@fi,
+        "Linked Data Notifications"@fr,
+        "Linked Data Notifications"@ga,
+        "Linked Data Notifications"@hr,
+        "Linked Data Notifications"@hu,
+        "Linked Data Notifications (notifiche sui dati collegati)"@it,
+        "Linked Data Notifications"@lt,
+        "Linked Data Notifications"@lv,
+        "Linked Data Notifications"@mt,
+        "Linked Data-kennisgevingen"@nl,
+        "Linked Data Notifications"@pl,
+        "Linked Data Notifications (Notificações de dados ligados)"@pt,
+        "Notificări date conectate"@ro,
+        "Oznámenia o prepojených údajoch"@sk,
+        "Linked Data Notifications"@sl,
+        "Linked Data Notifications"@sv ;
+    skos:definition "LDN – Linked Data Notifications – is a protocol that describes how servers (receivers) can have messages pushed to them by applications (senders), as well as how other applications (consumers) may retrieve those messages. Any resource can advertise a receiving endpoint (Inbox) for the messages. Messages are expressed in RDF, and can contain any data. In essence, LDN supports sharing and reuse of notifications across applications, regardless of how they were generated. This allows for more modular systems, which decouple data storage from the applications which display or otherwise make use of the data."@en ;
+    skos:inScheme atold:semantic-technology ;
+    skos:prefLabel "LDN"@bg,
+        "LDN"@cs,
+        "LDN"@da,
+        "LDN"@de,
+        "LDN"@el,
+        "LDN"@en,
+        "LDN"@es,
+        "LDN"@et,
+        "LDN"@fi,
+        "LDN"@fr,
+        "LDN"@ga,
+        "LDN"@hr,
+        "LDN"@hu,
+        "LDN"@it,
+        "LDN"@lt,
+        "LDN"@lv,
+        "LDN"@mt,
+        "LDN"@nl,
+        "LDN"@pl,
+        "LDN"@pt,
+        "LDN"@ro,
+        "LDN"@sk,
+        "LDN"@sl,
+        "LDN"@sv ;
+    skos:topConceptOf atold:semantic-technology .
+
+<http://publications.europa.eu/resource/authority/semantic-technology/LDP> a skos:Concept ;
+    at:authority-code "LDP" ;
+    at:deprecated "false" ;
+    at:op-code "LDP" ;
+    at:start.use "2021-08-30" ;
+    atold:op-code "LDP" ;
+    dc:identifier "LDP" ;
+    skos:altLabel "Linked Data Platform"@bg,
+        "Linked Data Platform"@cs,
+        "Linked Data Platform"@da,
+        "Linked Data Platform"@de,
+        "Πλατφόρμα συνδεδεμένων δεδομένων (Linked Data Platform)"@el,
+        "Linked Data Platform"@en,
+        "Linked Data Platform"@es,
+        "Linked Data Platform (lingitud andmete platvorm)"@et,
+        "Linked Data Platform"@fi,
+        "Linked Data Platform"@fr,
+        "Linked Data Platform"@ga,
+        "Linked Data Platform"@hr,
+        "Linked Data Platform"@hu,
+        "Linked Data Platform (piattaforma dei dati collegati)"@it,
+        "Linked Data Platform"@lt,
+        "Linked Data Platform"@lv,
+        "Linked Data Platform"@mt,
+        "Linked Data-platform"@nl,
+        "Linked Data Platform"@pl,
+        "Linked Data Platform (Plataforma de dados ligados)"@pt,
+        "Platformă date conectate"@ro,
+        "Platforma prepojených údajov"@sk,
+        "Linked Data Platform"@sl,
+        "Linked Data Platform"@sv ;
+    skos:definition "LDP – Linked Data Platform – is a W3C recommendation that defines a set of rules for HTTP operations on web resources, to provide an architecture for read-write Linked Data on the Web."@en ;
+    skos:inScheme atold:semantic-technology ;
+    skos:prefLabel "LDP"@bg,
+        "LDP"@cs,
+        "LDP"@da,
+        "LDP"@de,
+        "LDP"@el,
+        "LDP"@en,
+        "LDP"@es,
+        "LDP"@et,
+        "LDP"@fi,
+        "LDP"@fr,
+        "LDP"@ga,
+        "LDP"@hr,
+        "LDP"@hu,
+        "LDP"@it,
+        "LDP"@lt,
+        "LDP"@lv,
+        "LDP"@mt,
+        "LDP"@nl,
+        "LDP"@pl,
+        "LDP"@pt,
+        "LDP"@ro,
+        "LDP"@sk,
+        "LDP"@sl,
+        "LDP"@sv ;
+    skos:topConceptOf atold:semantic-technology .
+
+<http://publications.europa.eu/resource/authority/semantic-technology/OP_DATPRO> a skos:Concept ;
+    at:authority-code "OP_DATPRO" ;
+    at:deprecated "false" ;
+    at:op-code "OP_DATPRO" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:semantic-technology ;
+    skos:prefLabel "НЕОКОНЧАТЕЛНИ ДАННИ"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv ;
+    skos:topConceptOf atold:semantic-technology .
+
+<http://publications.europa.eu/resource/authority/semantic-technology/OWL> a skos:Concept ;
+    at:authority-code "OWL" ;
+    at:deprecated "false" ;
+    at:op-code "OWL" ;
+    at:start.use "2021-08-30" ;
+    atold:op-code "OWL" ;
+    dc:identifier "OWL" ;
+    skos:altLabel "Ontology Web Language"@bg,
+        "Jazyk OWL"@cs,
+        "Ontology Web Language"@da,
+        "Ontology Web Language"@de,
+        "Διαδικτυακή γλώσσα οντολογίας (Ontology Web Language)"@el,
+        "Ontology Web Language"@en,
+        "Ontology Web Language"@es,
+        "Ontology Web Language (ontoloogia veebikeel)"@et,
+        "Ontology Web Language"@fi,
+        "Ontology Web Language"@fr,
+        "Ontology Web Language"@ga,
+        "Ontology Web Language"@hr,
+        "Ontology Web Language"@hu,
+        "Ontology Web Language (linguaggio per l’ontologia del web)"@it,
+        "Ontology Web Language"@lt,
+        "Tīmekļa ontoloģijas valoda"@lv,
+        "Ontology Web Language"@mt,
+        "Ontology Web Language"@nl,
+        "Ontology Web Language"@pl,
+        "Ontology Web Language (Linguagem Web para Ontologias)"@pt,
+        "Ontology Web Language"@ro,
+        "Ontológia webového jazyka"@sk,
+        "Ontology Web Language"@sl,
+        "Ontology Web Language"@sv ;
+    skos:definition "OWL is the acronym of Ontology Web Language, a semantic web standard defined by W3C, part of the semantic web technology stack, that is used to represent rich and complex knowledge about things, groups of things, and relations between things. OWL is a computational logic-based language such that knowledge expressed in OWL can be exploited by computer programs, e.g. to verify the consistency of that knowledge or to make implicit knowledge explicit."@en ;
+    skos:inScheme atold:semantic-technology ;
+    skos:prefLabel "OWL"@bg,
+        "OWL"@cs,
+        "OWL"@da,
+        "OWL"@de,
+        "OWL"@el,
+        "OWL"@en,
+        "OWL"@es,
+        "OWL"@et,
+        "OWL"@fi,
+        "OWL"@fr,
+        "OWL"@ga,
+        "OWL"@hr,
+        "OWL"@hu,
+        "OWL"@it,
+        "OWL"@lt,
+        "OWL"@lv,
+        "OWL"@mt,
+        "OWL"@nl,
+        "OWL"@pl,
+        "OWL"@pt,
+        "OWL"@ro,
+        "OWL"@sk,
+        "OWL"@sl,
+        "OWL"@sv ;
+    skos:topConceptOf atold:semantic-technology .
+
+<http://publications.europa.eu/resource/authority/semantic-technology/R2RML> a skos:Concept ;
+    at:authority-code "R2RML" ;
+    at:deprecated "false" ;
+    at:op-code "R2RML" ;
+    at:start.use "2021-08-30" ;
+    atold:op-code "R2RML" ;
+    dc:identifier "R2RML" ;
+    skos:altLabel "Relational databases to Resource Description Framework Mapping Language"@bg,
+        "Jazyk R2RML"@cs,
+        "Relational databases to Resource Description Framework Mapping Language"@da,
+        "Relational databases to Resource Description Framework Mapping Language"@de,
+        "Γλώσσα αντιστοίχισης σχεσιακών βάσεων δεδομένων προς RDF"@el,
+        "Relational databases to Resource Description Framework Mapping Language"@en,
+        "Relational databases to Resource Description Framework Mapping Language"@es,
+        "Relational databases to Resource Description Framework Mapping Language (ressursikirjeldusraamistiku vastendamiskeele relatsioonandmebaasid)"@et,
+        "Relational databases to Resource Description Framework Mapping Language"@fi,
+        "Relational databases to Resource Description Framework Mapping Language"@fr,
+        "Relational databases to Resource Description Framework Mapping Language"@ga,
+        "Relational databases to Resource Description Framework Mapping Language"@hr,
+        "Relációs adatbázisok a Resource Description Framework Mapping Language-hez"@hu,
+        "Relational databases to Resource Description Framework Mapping Language (banche dati relazionali del quadro di mappatura del linguaggio per la descrizione delle risorse)"@it,
+        "Relational databases to Resource Description Framework Mapping Language"@lt,
+        "Relational databases to Resource Description Framework Mapping Language"@lv,
+        "Relational databases to Resource Description Framework Mapping Language"@mt,
+        "Relational databases to Resource Description Framework Mapping Language"@nl,
+        "Relational databases to Resource Description Framework Mapping Language"@pl,
+        "Relational databases to Resource Description Framework Mapping Language (Bases de dados relacionais para linguagem de mapeamento RDF)"@pt,
+        "Relational databases to Resource Description Framework Mapping Language"@ro,
+        "Mapovací jazyk relačných databáz k rámcu pre opis zdroja"@sk,
+        "Relational databases to Resource Description Framework Mapping Language"@sl,
+        "Relational databases to Resource Description Framework Mapping Language"@sv ;
+    skos:definition "R2RML is the acronym of RDB to RDF Mapping Language. It is W3C recommendation language used for expressing customised mappings from relational databases to RDF datasets. Such mappings allows users to view existing relational data according to the RDF data model, expressed in a structure and target ontology vocabularies of the mapping author’s choice. R2RML mappings are themselves RDF graphs and written down in Turtle syntax."@en ;
+    skos:inScheme atold:semantic-technology ;
+    skos:prefLabel "R2RML"@bg,
+        "R2RML"@cs,
+        "R2RML"@da,
+        "R2RML"@de,
+        "R2RML"@el,
+        "R2RML"@en,
+        "R2RML"@es,
+        "R2RML"@et,
+        "R2RML"@fi,
+        "R2RML"@fr,
+        "R2RML"@ga,
+        "R2RML"@hr,
+        "R2RML"@hu,
+        "R2RML"@it,
+        "R2RML"@lt,
+        "R2RML"@lv,
+        "R2RML"@mt,
+        "R2RML"@nl,
+        "R2RML"@pl,
+        "R2RML"@pt,
+        "R2RML"@ro,
+        "R2RML"@sk,
+        "R2RML"@sl,
+        "R2RML"@sv ;
+    skos:topConceptOf atold:semantic-technology .
+
+<http://publications.europa.eu/resource/authority/semantic-technology/RDF> a skos:Concept ;
+    at:authority-code "RDF" ;
+    at:deprecated "false" ;
+    at:op-code "RDF" ;
+    at:start.use "2021-08-30" ;
+    atold:op-code "RDF" ;
+    dc:identifier "RDF" ;
+    skos:altLabel "Resource Description Framework"@bg,
+        "Systém popisu zdrojů"@cs,
+        "Resource Description Framework"@da,
+        "Resource Description Framework"@de,
+        "Πλαίσιο περιγραφής πόρων (Resource Description Framework)"@el,
+        "Resource Description Framework"@en,
+        "Resource Description Framework"@es,
+        "Resource Description Framework (ressursikirjeldamisraamistik)"@et,
+        "Resource Description Framework"@fi,
+        "Resource Description Framework"@fr,
+        "Resource Description Framework"@ga,
+        "Resource Description Framework"@hr,
+        "Resource Description Framework"@hu,
+        "Resource Description Framework (quadro di descrizione delle risorse)"@it,
+        "Išteklių aprašymo sistema"@lt,
+        "Resursu aprakstīšanas standarts"@lv,
+        "Resource Description Framework"@mt,
+        "Resource Description Framework"@nl,
+        "Resource Description Framework"@pl,
+        "Resource Description Framework (Quadro de descrição de recursos)"@pt,
+        "Resource Description Framework"@ro,
+        "Rámec pre opis zdroja"@sk,
+        "Resource Description Framework"@sl,
+        "Resource Description Framework"@sv ;
+    skos:definition "RDF – Resource Description Framework – is a W3C recommendation; it is a standard data model for data interchange on the Web. RDF supports natively data integration, even if the underlying schemes to represent the data differ, and it specifically supports the evolution of schemas over time without requiring all the data consumers to be changed. The RDF data model structures the data in the form of triples subject-predicate-object where subjects and predicates are identified univocally by a so-called URI (Uniform Resource Identifier) whereas the objects can be identified by a URI or can be a literal (a final value such as a string, a date, a number)."@en ;
+    skos:inScheme atold:semantic-technology ;
+    skos:prefLabel "RDF"@bg,
+        "RDF"@cs,
+        "RDF"@da,
+        "RDF"@de,
+        "RDF"@el,
+        "RDF"@en,
+        "RDF"@es,
+        "RDF"@et,
+        "RDF"@fi,
+        "RDF"@fr,
+        "RDF"@ga,
+        "RDF"@hr,
+        "RDF"@hu,
+        "RDF"@it,
+        "RDF"@lt,
+        "RDF"@lv,
+        "RDF"@mt,
+        "RDF"@nl,
+        "RDF"@pl,
+        "RDF"@pt,
+        "RDF"@ro,
+        "RDF"@sk,
+        "RDF"@sl,
+        "RDF"@sv ;
+    skos:topConceptOf atold:semantic-technology .
+
+<http://publications.europa.eu/resource/authority/semantic-technology/RDFA> a skos:Concept ;
+    at:authority-code "RDFA" ;
+    at:deprecated "false" ;
+    at:op-code "RDFA" ;
+    at:start.use "2021-08-30" ;
+    atold:op-code "RDFA" ;
+    dc:identifier "RDFA" ;
+    skos:altLabel "Resource Description Framework in Attributes"@bg,
+        "Systém popisu zdrojů v atributech"@cs,
+        "Resource Description Framework in Attributes"@da,
+        "Resource Description Framework in Attributes"@de,
+        "Πλαίσιο περιγραφής πόρων στα χαρακτηριστικά (Resource Description Framework in Attributes)"@el,
+        "Resource Description Framework in Attributes"@en,
+        "Resource Description Framework in Attributes"@es,
+        "Resource Description Framework in Attributes (ressursikirjeldamisraamistik atribuutidena)"@et,
+        "Resource Description Framework in Attributes"@fi,
+        "Resource Description Framework in Attributes"@fr,
+        "Resource Description Framework in Attributes"@ga,
+        "Resource Description Framework in Attributes"@hr,
+        "Resource Description Framework in Attributes"@hu,
+        "Resource Description Framework in Attributes (quadro di descrizione delle risorse negli attributi)"@it,
+        "Resource Description Framework in Attributes"@lt,
+        "Resource Description Framework in Attributes"@lv,
+        "Resource Description Framework in Attributes"@mt,
+        "Resource Description Framework in Attributes"@nl,
+        "Resource Description Framework in Attributes"@pl,
+        "Resource Description Framework in Attributes (RDF com atributos)"@pt,
+        "Resource Description Framework în Atribute"@ro,
+        "Rámec pre opis zdroja v atribútoch"@sk,
+        "Resource Description Framework in Attributes"@sl,
+        "Resource Description Framework in Attributes"@sv ;
+    skos:definition "RDFa is the acronym of Resource Description Framework in Attributes. It is a W3C recommendation that allows users to include a set of attribute-level extensions to HTML, XHTML and other XML-based document types for embedding rich metadata within Web documents. Search Engines and Web Services use the metadata to support better search listings and give better visibility on the Web."@en ;
+    skos:inScheme atold:semantic-technology ;
+    skos:prefLabel "RDFa"@bg,
+        "RDFa"@cs,
+        "RDFa"@da,
+        "RDFa"@de,
+        "RDFa"@el,
+        "RDFa"@en,
+        "RDFa"@es,
+        "RDFa"@et,
+        "RDFa"@fi,
+        "RDFa"@fr,
+        "RDFa"@ga,
+        "RDFa"@hr,
+        "RDFa"@hu,
+        "RDFa"@it,
+        "RDFa"@lt,
+        "RDFa"@lv,
+        "RDFa"@mt,
+        "RDFa"@nl,
+        "RDFa"@pl,
+        "RDFa"@pt,
+        "RDFa"@ro,
+        "RDFa"@sk,
+        "RDFa"@sl,
+        "RDFa"@sv ;
+    skos:topConceptOf atold:semantic-technology .
+
+<http://publications.europa.eu/resource/authority/semantic-technology/RDFS> a skos:Concept ;
+    at:authority-code "RDFS" ;
+    at:deprecated "false" ;
+    at:op-code "RDFS" ;
+    at:start.use "2021-08-30" ;
+    atold:op-code "RDFS" ;
+    dc:identifier "RDFS" ;
+    skos:altLabel "Resource Description Framework Schema"@bg,
+        "RDF schéma"@cs,
+        "Resource Description Framework Schema"@da,
+        "RDF-Schema"@de,
+        "Σχήμα RDF"@el,
+        "Resource Description Framework Schema"@en,
+        "Resource Description Framework Schema"@es,
+        "Resource Description Framework Schema (ressursikirjeldamisraamistiku skeem)"@et,
+        "Resource Description Framework Schema"@fi,
+        "Resource Description Framework Schema"@fr,
+        "Resource Description Framework Schema"@ga,
+        "Resource Description Framework Schema"@hr,
+        "Resource Description Framework Schema"@hu,
+        "Resource Description Framework Schema (schema del quadro di descrizione delle risorse)"@it,
+        "Resource Description Framework Schema"@lt,
+        "Resource Description Framework Schema"@lv,
+        "Resource Description Framework Schema"@mt,
+        "Resource Description Framework Schema"@nl,
+        "Resource Description Framework Schema"@pl,
+        "Resource Description Framework Schema (Esquema RDF)"@pt,
+        "Resource Description Framework Schema"@ro,
+        "Schéma rámca pre opis zdroja"@sk,
+        "Resource Description Framework Schema"@sl,
+        "Resource Description Framework Schema"@sv ;
+    skos:definition "RDFS is the acronym of RDF Schema; it is a general-purpose language for representing simple RDF vocabularies on the Web. Specifically, it is an extension of the basic RDF vocabulary. In general, it can be viewed as the most basic schema language widely used in the Semantic Web technology stack."@en ;
+    skos:inScheme atold:semantic-technology ;
+    skos:prefLabel "RDFS"@bg,
+        "RDFS"@cs,
+        "RDFS"@da,
+        "RDFS"@de,
+        "RDFS"@el,
+        "RDFS"@en,
+        "RDFS"@es,
+        "RDFS"@et,
+        "RDFS"@fi,
+        "RDFS"@fr,
+        "RDFS"@ga,
+        "RDFS"@hr,
+        "RDFS"@hu,
+        "RDFS"@it,
+        "RDFS"@lt,
+        "RDFS"@lv,
+        "RDFS"@mt,
+        "RDFS"@nl,
+        "RDFS"@pl,
+        "RDFS"@pt,
+        "RDFS"@ro,
+        "RDFS"@sk,
+        "RDFS"@sl,
+        "RDFS"@sv ;
+    skos:topConceptOf atold:semantic-technology .
+
+<http://publications.europa.eu/resource/authority/semantic-technology/RDF_STAR> a skos:Concept ;
+    at:authority-code "RDF_STAR" ;
+    at:deprecated "false" ;
+    at:op-code "RDF_STAR" ;
+    at:start.use "2021-08-30" ;
+    atold:op-code "RDF_STAR" ;
+    dc:identifier "RDF_STAR" ;
+    skos:altLabel "Resource Description Framework star"@bg,
+        "Resource Description Framework star"@cs,
+        "Resource Description Framework star"@da,
+        "Resource Description Framework star"@de,
+        "Resource Description Framework star"@el,
+        "Resource Description Framework star"@en,
+        "Resource Description Framework star"@es,
+        "Resource Description Framework star (ressursikirjeldamisraamistik)"@et,
+        "Resource Description Framework star"@fi,
+        "Resource Description Framework star"@fr,
+        "Resource Description Framework star"@ga,
+        "Resource Description Framework star"@hr,
+        "Resource Description Framework star"@hu,
+        "Resource Description Framework star (estensione dello standard RDF)"@it,
+        "Resource Description Framework star"@lt,
+        "Resource Description Framework star"@lv,
+        "Resource Description Framework star"@mt,
+        "Resource Description Framework star"@nl,
+        "Resource Description Framework star"@pl,
+        "Resource Description Framework star (RDF extendido)"@pt,
+        "Resource Description Framework star"@ro,
+        "Rámec pre opis zdroja (hviezdička)"@sk,
+        "Resource Description Framework star"@sl,
+        "Resource Description Framework star"@sv ;
+    skos:definition "RDF-star (also known as RDF*) extends RDF with a convenient way to make statements about other statements. Therefore, it provides a more compact form for reification. It is not yet a W3C recommendation."@en ;
+    skos:inScheme atold:semantic-technology ;
+    skos:prefLabel "RDF-star"@bg,
+        "RDF-star"@cs,
+        "RDF-star"@da,
+        "RDF-star"@de,
+        "RDF-star"@el,
+        "RDF-star"@en,
+        "RDF-star"@es,
+        "RDF-star"@et,
+        "RDF-star"@fi,
+        "RDF-star"@fr,
+        "RDF-star"@ga,
+        "RDF-star"@hr,
+        "RDF-star"@hu,
+        "RDF-star"@it,
+        "RDF-star"@lt,
+        "RDF-star"@lv,
+        "RDF-star"@mt,
+        "RDF-star"@nl,
+        "RDF-star"@pl,
+        "RDF-star"@pt,
+        "RDF-star"@ro,
+        "RDF-star"@sk,
+        "RDF-star"@sl,
+        "RDF-star"@sv ;
+    skos:topConceptOf atold:semantic-technology .
+
+<http://publications.europa.eu/resource/authority/semantic-technology/RIF> a skos:Concept ;
+    at:authority-code "RIF" ;
+    at:deprecated "false" ;
+    at:op-code "RIF" ;
+    at:start.use "2021-08-30" ;
+    atold:op-code "RIF" ;
+    dc:identifier "RIF" ;
+    skos:altLabel "Rule Interchange Format"@bg,
+        "Formát pro výměnu pravidel"@cs,
+        "Rule Interchange Format"@da,
+        "Rule Interchange Format"@de,
+        "Πρότυπο RIF (Rule Interchange Format)"@el,
+        "Rule Interchange Format"@en,
+        "Rule Interchange Format"@es,
+        "Rule Interchange Format (normide vahetamise vorming)"@et,
+        "Rule Interchange Format"@fi,
+        "Rule Interchange Format"@fr,
+        "Rule Interchange Format"@ga,
+        "Rule Interchange Format"@hr,
+        "Rule Interchange Format"@hu,
+        "Rule Interchange Format (formato dell’interscambio di regole)"@it,
+        "Rule Interchange Format"@lt,
+        "Rule Interchange Format"@lv,
+        "Rule Interchange Format"@mt,
+        "Rule Interchange Format"@nl,
+        "Rule Interchange Format"@pl,
+        "Rule Interchange Format (Formato de Intercâmbio de regras)"@pt,
+        "Rule Interchange Format"@ro,
+        "Formát výmeny pravidiel"@sk,
+        "Rule Interchange Format"@sl,
+        "Rule Interchange Format"@sv ;
+    skos:definition "RIF – Rule Interchange Format – is a standard, part of the Semantic Web, for defining rules among rule systems, in particular among Web rule engines. RIF is based on the observation that there exist many ‘rules languages’ and what is needed is to exchange rules between them."@en ;
+    skos:inScheme atold:semantic-technology ;
+    skos:prefLabel "RIF"@bg,
+        "RIF"@cs,
+        "RIF"@da,
+        "RIF"@de,
+        "RIF"@el,
+        "RIF"@en,
+        "RIF"@es,
+        "RIF"@et,
+        "RIF"@fi,
+        "RIF"@fr,
+        "RIF"@ga,
+        "RIF"@hr,
+        "RIF"@hu,
+        "RIF"@it,
+        "RIF"@lt,
+        "RIF"@lv,
+        "RIF"@mt,
+        "RIF"@nl,
+        "RIF"@pl,
+        "RIF"@pt,
+        "RIF"@ro,
+        "RIF"@sk,
+        "RIF"@sl,
+        "RIF"@sv ;
+    skos:topConceptOf atold:semantic-technology .
+
+<http://publications.europa.eu/resource/authority/semantic-technology/RML> a skos:Concept ;
+    at:authority-code "RML" ;
+    at:deprecated "false" ;
+    at:op-code "RML" ;
+    at:start.use "2021-08-30" ;
+    atold:op-code "RML" ;
+    dc:identifier "RML" ;
+    skos:altLabel "Resource Description Framework Mapping Language"@bg,
+        "Jazyk RML"@cs,
+        "Resource Description Framework Mapping Language"@da,
+        "Resource Description Framework Mapping Language"@de,
+        "Γλώσσα αντιστοίχισης RDF (Resource Description Framework Mapping Language)"@el,
+        "Resource Description Framework Mapping Language"@en,
+        "Resource Description Framework Mapping Language"@es,
+        "Resource Description Framework Mapping Language (ressursikirjeldamisraamistiku vastendamiskeel)"@et,
+        "Resource Description Framework Mapping Language"@fi,
+        "Resource Description Framework Mapping Language"@fr,
+        "Resource Description Framework Mapping Language"@ga,
+        "Resource Description Framework Mapping Language"@hr,
+        "Resource Description Framework Mapping Language"@hu,
+        "Resource Description Framework Mapping Language (quadro di mappatura del linguaggio per la descrizione delle risorse)"@it,
+        "Resource Description Framework Mapping Language"@lt,
+        "Resource Description Framework Mapping Language"@lv,
+        "Resource Description Framework Mapping Language"@mt,
+        "Resource Description Framework Mapping Language"@nl,
+        "Resource Description Framework Mapping Language"@pl,
+        "Resource Description Framework Mapping Language (Linguagem de mapeamento RDF)"@pt,
+        "Resource Description Framework Mapping Language"@ro,
+        "Mapovací jazyk rámca pre opis zdroja"@sk,
+        "Resource Description Framework Mapping Language"@sl,
+        "Resource Description Framework Mapping Language"@sv ;
+    skos:definition "RML – RDF Mapping Language – is a generic mapping language, based on and extending the W3C recommendation R2RML. Specifically, it is a mapping language that can be used to express, in RDF, customised mapping rules so that to transform a variety of heterogeneous data structures into the RDF data model."@en ;
+    skos:inScheme atold:semantic-technology ;
+    skos:prefLabel "RML"@bg,
+        "RML"@cs,
+        "RML"@da,
+        "RML"@de,
+        "RML"@el,
+        "RML"@en,
+        "RML"@es,
+        "RML"@et,
+        "RML"@fi,
+        "RML"@fr,
+        "RML"@ga,
+        "RML"@hr,
+        "RML"@hu,
+        "RML"@it,
+        "RML"@lt,
+        "RML"@lv,
+        "RML"@mt,
+        "RML"@nl,
+        "RML"@pl,
+        "RML"@pt,
+        "RML"@ro,
+        "RML"@sk,
+        "RML"@sl,
+        "RML"@sv ;
+    skos:topConceptOf atold:semantic-technology .
+
+<http://publications.europa.eu/resource/authority/semantic-technology/SHACL> a skos:Concept ;
+    at:authority-code "SHACL" ;
+    at:deprecated "false" ;
+    at:op-code "SHACL" ;
+    at:start.use "2021-08-30" ;
+    atold:op-code "SHACL" ;
+    dc:identifier "SHACL" ;
+    skos:altLabel "Shapes Constraint Language"@bg,
+        "Jazyk SHACL"@cs,
+        "Shapes Constraint Language"@da,
+        "Shapes Constraint Language"@de,
+        "Γλώσσα περιορισμών SHACL"@el,
+        "Shapes Constraint Language"@en,
+        "Shapes Constraint Language"@es,
+        "Shapes Constraint Language (andmekujudena väljendatud kitsenduste keel)"@et,
+        "Shapes Constraint Language"@fi,
+        "Shapes Constraint Language"@fr,
+        "Shapes Constraint Language"@ga,
+        "Shapes Constraint Language"@hr,
+        "Shapes Constraint Language"@hu,
+        "Shapes Constraint Language"@it,
+        "Shapes Constraint Language"@lt,
+        "Shapes Constraint Language"@lv,
+        "Shapes Constraint Language"@mt,
+        "Shapes Constraint Language"@nl,
+        "Shapes Constraint Language"@pl,
+        "Shapes Constraint Language (Linguagem de restrições por formas)"@pt,
+        "Shapes Constraint Language"@ro,
+        "Jazyk pre obmedzenie tvarov"@sk,
+        "Shapes Constraint Language"@sl,
+        "Shapes Constraint Language"@sv ;
+    skos:definition "SHACL – Shapes Constraint Language – is a W3C recommendation; it is a language used to validate RDF graphs against a set of conditions. These conditions are provided as shapes and other constructs expressed in the form of an RDF graph. RDF graphs that are used in this manner are called ‘shapes graphs’ in SHACL and the RDF graphs that are validated against a shapes graph are called ‘data graphs’. As SHACL shape graphs are used to validate that data graphs satisfy a set of conditions they can also be viewed as a description of the data graphs that do satisfy these conditions. Such descriptions may be used for a variety of purposes beside validation, including user interface building, code generation and data integration."@en ;
+    skos:inScheme atold:semantic-technology ;
+    skos:prefLabel "SHACL"@bg,
+        "SHACL"@cs,
+        "SHACL"@da,
+        "SHACL"@de,
+        "SHACL"@el,
+        "SHACL"@en,
+        "SHACL"@es,
+        "SHACL"@et,
+        "SHACL"@fi,
+        "SHACL"@fr,
+        "SHACL"@ga,
+        "SHACL"@hr,
+        "SHACL"@hu,
+        "SHACL"@it,
+        "SHACL"@lt,
+        "SHACL"@lv,
+        "SHACL"@mt,
+        "SHACL"@nl,
+        "SHACL"@pl,
+        "SHACL"@pt,
+        "SHACL"@ro,
+        "SHACL"@sk,
+        "SHACL"@sl,
+        "SHACL"@sv ;
+    skos:topConceptOf atold:semantic-technology .
+
+<http://publications.europa.eu/resource/authority/semantic-technology/SHEX> a skos:Concept ;
+    at:authority-code "SHEX" ;
+    at:deprecated "false" ;
+    at:op-code "SHEX" ;
+    at:start.use "2021-08-30" ;
+    atold:op-code "SHEX" ;
+    dc:identifier "SHEX" ;
+    skos:altLabel "Shape Expressions"@bg,
+        "Jazyk Shape Expressions"@cs,
+        "Shape Expressions"@da,
+        "Shape Expressions"@de,
+        "Shape Expressions"@el,
+        "Shape Expressions"@en,
+        "Shape Expressions"@es,
+        "Shape Expressions"@et,
+        "Shape Expressions"@fi,
+        "Shape Expressions"@fr,
+        "Shape Expressions"@ga,
+        "Shape Expressions"@hr,
+        "Shape Expressions"@hu,
+        "Shape Expressions"@it,
+        "Shape Expressions"@lt,
+        "Shape Expressions"@lv,
+        "Shape Expressions"@mt,
+        "Shape Expressions"@nl,
+        "Shape Expressions"@pl,
+        "Shape Expressions (Expressões de forma)"@pt,
+        "Shape Expressions"@ro,
+        "Výrazy tvarov"@sk,
+        "Shape Expressions"@sl,
+        "Shape Expressions"@sv ;
+    skos:definition "ShEx – Shape Expressions – is a language for describing RDF graph structures. A ShEx schema prescribes conditions that RDF data graphs must meet in order to be considered ‘conformant’: which subjects, predicates and objects may appear in a given graph, in what combinations and with what cardinalities and datatypes."@en ;
+    skos:inScheme atold:semantic-technology ;
+    skos:prefLabel "ShEx"@bg,
+        "ShEx"@cs,
+        "ShEx"@da,
+        "ShEx"@de,
+        "ShEx"@el,
+        "ShEx"@en,
+        "ShEx"@es,
+        "ShEx"@et,
+        "ShEx"@fi,
+        "ShEx"@fr,
+        "ShEx"@ga,
+        "ShEx"@hr,
+        "ShEx"@hu,
+        "ShEx"@it,
+        "ShEx"@lt,
+        "ShEx"@lv,
+        "ShEx"@mt,
+        "ShEx"@nl,
+        "ShEx"@pl,
+        "ShEx"@pt,
+        "ShEx"@ro,
+        "ShEx"@sk,
+        "ShEx"@sl,
+        "ShEx"@sv ;
+    skos:topConceptOf atold:semantic-technology .
+
+<http://publications.europa.eu/resource/authority/semantic-technology/SPARQL> a skos:Concept ;
+    at:authority-code "SPARQL" ;
+    at:deprecated "false" ;
+    at:op-code "SPARQL" ;
+    at:start.use "2021-08-30" ;
+    atold:op-code "SPARQL" ;
+    dc:identifier "SPARQL" ;
+    skos:altLabel "SPARQL Protocol and Resource Description Framework Query Language"@bg,
+        "Jazyk SPARQL"@cs,
+        "SPARQL Protocol and Resource Description Framework Query Language"@da,
+        "SPARQL Protocol and Resource Description Framework Query Language"@de,
+        "Γλώσσα αναζήτησης SPARQL"@el,
+        "SPARQL Protocol and Resource Description Framework Query Language"@en,
+        "SPARQL Protocol and Resource Description Framework Query Language"@es,
+        "SPARQL Protocol and Resource Description Framework Query Language (SPARQL-protokoll ja ressursikirjeldamisraamistiku päringukeel)"@et,
+        "SPARQL Protocol and Resource Description Framework Query Language"@fi,
+        "SPARQL Protocol and Resource Description Framework Query Language"@fr,
+        "SPARQL Protocol and Resource Description Framework Query Language"@ga,
+        "SPARQL Protocol and Resource Description Framework Query Language"@hr,
+        "SPARQL Protocol and Resource Description Framework Query Language"@hu,
+        "SPARQL Protocol and Resource Description Framework Query Language (protocollo SPARQL e linguaggio di interrogazione per RDF)"@it,
+        "SPARQL Protocol and Resource Description Framework Query Language"@lt,
+        "SPARQL Protocol and Resource Description Framework Query Language"@lv,
+        "SPARQL Protocol and Resource Description Framework Query Language"@mt,
+        "SPARQL Protocol and Resource Description Framework Query Language"@nl,
+        "SPARQL Protocol and Resource Description Framework Query Language"@pl,
+        "SPARQL Protocol and Resource Description Framework Query Language (Protocolo SPARQL e Linguagem de interrogação RDF)"@pt,
+        "SPARQL Protocol and Resource Description Framework Query Language"@ro,
+        "Protokol SPARQL a jazyk dotazu k rámcu pre opis zdroja"@sk,
+        "SPARQL Protocol and Resource Description Framework Query Language"@sl,
+        "SPARQL Protocol and Resource Description Framework Query Language"@sv ;
+    skos:definition "SPARQL stands for SPARQL Protocol and RDF Query Language; it is a W3C recommendation and a query language and protocol for the RDF data model."@en ;
+    skos:inScheme atold:semantic-technology ;
+    skos:prefLabel "SPARQL"@bg,
+        "SPARQL"@cs,
+        "SPARQL"@da,
+        "SPARQL"@de,
+        "SPARQL"@el,
+        "SPARQL"@en,
+        "SPARQL"@es,
+        "SPARQL"@et,
+        "SPARQL"@fi,
+        "SPARQL"@fr,
+        "SPARQL"@ga,
+        "SPARQL"@hr,
+        "SPARQL"@hu,
+        "SPARQL"@it,
+        "SPARQL"@lt,
+        "SPARQL"@lv,
+        "SPARQL"@mt,
+        "SPARQL"@nl,
+        "SPARQL"@pl,
+        "SPARQL"@pt,
+        "SPARQL"@ro,
+        "SPARQL"@sk,
+        "SPARQL"@sl,
+        "SPARQL"@sv ;
+    skos:topConceptOf atold:semantic-technology .
+
+<http://publications.europa.eu/resource/authority/semantic-technology/SPARQL_STAR> a skos:Concept ;
+    at:authority-code "SPARQL_STAR" ;
+    at:deprecated "false" ;
+    at:op-code "SPARQL_STAR" ;
+    at:start.use "2021-08-30" ;
+    atold:op-code "SPARQL_STAR" ;
+    dc:identifier "SPARQL_STAR" ;
+    skos:altLabel "SPARQL Protocol and Resource Description Framework Query Language star"@bg,
+        "Jazyk SPARQL star"@cs,
+        "SPARQL Protocol and Resource Description Framework Query Language star"@da,
+        "SPARQL Protocol and Resource Description Framework Query Language star"@de,
+        "Γλώσσα αναζήτησης SPARQL-star"@el,
+        "SPARQL Protocol and Resource Description Framework Query Language star"@en,
+        "SPARQL Protocol and Resource Description Framework Query Language star"@es,
+        "SPARQL Protocol and Resource Description Framework Query Language star (SPARQL-protokoll ja ressursikirjeldamisraamistiku päringukeel Star)"@et,
+        "SPARQL Protocol and Resource Description Framework Query Language star"@fi,
+        "SPARQL Protocol and Resource Description Framework Query Language star"@fr,
+        "SPARQL Protocol and Resource Description Framework Query Language star"@ga,
+        "SPARQL Protocol and Resource Description Framework Query Language star"@hr,
+        "SPARQL Protocol and Resource Description Framework Query Language star"@hu,
+        "SPARQL Protocol and Resource Description Framework Query Language star (protocollo SPARQL e linguaggio di interrogazione per RDF-star)"@it,
+        "SPARQL Protocol and Resource Description Framework Query Language star"@lt,
+        "SPARQL Protocol and Resource Description Framework Query Language star"@lv,
+        "SPARQL Protocol and Resource Description Framework Query Language star"@mt,
+        "SPARQL Protocol and Resource Description Framework Query Language star"@nl,
+        "SPARQL Protocol and Resource Description Framework Query Language star"@pl,
+        "SPARQL Protocol and Resource Description Framework Query Language star (Protocolo SPARQL e Linguagem de interrogação RDF-star)"@pt,
+        "SPARQL Protocol and Resource Description Framework Query Language star"@ro,
+        "Protokol SPARQL a jazyk dotazu k rámcu pre opis zdroja (hviezdička)"@sk,
+        "SPARQL Protocol and Resource Description Framework Query Language star"@sl,
+        "SPARQL Protocol and Resource Description Framework Query Language star"@sv ;
+    skos:definition "SPARQL-star is an RDF-star-aware extension of the RDF query language SPARQL. In essence, SPARQL-star is used to query RDF-star graphs."@en ;
+    skos:inScheme atold:semantic-technology ;
+    skos:prefLabel "SPARQL-star"@bg,
+        "SPARQL-star"@cs,
+        "SPARQL-star"@da,
+        "SPARQL-star"@de,
+        "SPARQL-star"@el,
+        "SPARQL-star"@en,
+        "SPARQL-star"@es,
+        "SPARQL-star"@et,
+        "SPARQL-star"@fi,
+        "SPARQL-star"@fr,
+        "SPARQL-star"@ga,
+        "SPARQL-star"@hr,
+        "SPARQL-star"@hu,
+        "SPARQL-star"@it,
+        "SPARQL-star"@lt,
+        "SPARQL-star"@lv,
+        "SPARQL-star"@mt,
+        "SPARQL-star"@nl,
+        "SPARQL-star"@pl,
+        "SPARQL-star"@pt,
+        "SPARQL-star"@ro,
+        "SPARQL-star"@sk,
+        "SPARQL-star"@sl,
+        "SPARQL-star"@sv ;
+    skos:topConceptOf atold:semantic-technology .
+
+<http://publications.europa.eu/resource/authority/semantic-technology/SPIN> a skos:Concept ;
+    at:authority-code "SPIN" ;
+    at:deprecated "false" ;
+    at:op-code "SPIN" ;
+    at:start.use "2021-08-30" ;
+    atold:op-code "SPIN" ;
+    dc:identifier "SPIN" ;
+    skos:altLabel "SPARQL Inferencing Notation"@bg,
+        "Jazyk SPIN"@cs,
+        "SPARQL Inferencing Notation"@da,
+        "SPARQL Inferencing Notation"@de,
+        "Γλώσσα SPIN (SPARQL Inferencing Notation)"@el,
+        "SPARQL Inferencing Notation"@en,
+        "SPARQL Inferencing Notation"@es,
+        "SPARQL Inferencing Notation (SPARQLi tuletatav notatsioon)"@et,
+        "SPARQL Inferencing Notation"@fi,
+        "SPARQL Inferencing Notation"@fr,
+        "SPARQL Inferencing Notation"@ga,
+        "SPARQL Inferencing Notation"@hr,
+        "SPARQL Inferencing Notation"@hu,
+        "SPARQL Inferencing Notation"@it,
+        "SPARQL Inferencing Notation"@lt,
+        "SPARQL Inferencing Notation"@lv,
+        "SPARQL Inferencing Notation"@mt,
+        "SPARQL Inferencing Notation"@nl,
+        "SPARQL Inferencing Notation"@pl,
+        "SPARQL Inferencing Notation (Notação Inferencial SPARQL)"@pt,
+        "SPARQL Inferencing Notation"@ro,
+        "Inferenčný zápis SPARQL"@sk,
+        "SPARQL Inferencing Notation"@sl,
+        "SPARQL Inferencing Notation"@sv ;
+    skos:definition "SPIN – SPARQL Inference Notation – is a SPARQL-based rule and constraint language for the Semantic Web. SPIN is also a mechanism to represent reusable SPARQL queries as templates and to define new SPARQL functions with a web-friendly syntax. In essence, SPIN combines concepts from object-oriented languages, query languages and rule-based systems to describe object behavior on the web of data."@en ;
+    skos:inScheme atold:semantic-technology ;
+    skos:prefLabel "SPIN"@bg,
+        "SPIN"@cs,
+        "SPIN"@da,
+        "SPIN"@de,
+        "SPIN"@el,
+        "SPIN"@en,
+        "SPIN"@es,
+        "SPIN"@et,
+        "SPIN"@fi,
+        "SPIN"@fr,
+        "SPIN"@ga,
+        "SPIN"@hr,
+        "SPIN"@hu,
+        "SPIN"@it,
+        "SPIN"@lt,
+        "SPIN"@lv,
+        "SPIN"@mt,
+        "SPIN"@nl,
+        "SPIN"@pl,
+        "SPIN"@pt,
+        "SPIN"@ro,
+        "SPIN"@sk,
+        "SPIN"@sl,
+        "SPIN"@sv ;
+    skos:topConceptOf atold:semantic-technology .
+
+<http://publications.europa.eu/resource/authority/semantic-technology/SWRL> a skos:Concept ;
+    at:authority-code "SWRL" ;
+    at:deprecated "false" ;
+    at:op-code "SWRL" ;
+    at:start.use "2021-08-30" ;
+    atold:op-code "SWRL" ;
+    dc:identifier "SWRL" ;
+    skos:altLabel "Semantic Web Rule Language"@bg,
+        "Jazyk SWRL"@cs,
+        "Semantic Web Rule Language"@da,
+        "Semantic Web Rule Language"@de,
+        "Γλώσσα κανόνων σημασιολογικού ιστού (Semantic Web Rule Language)"@el,
+        "Semantic Web Rule Language"@en,
+        "Semantic Web Rule Language"@es,
+        "Semantic Web Rule Language (semantilise veebinormi keel)"@et,
+        "Semantic Web Rule Language"@fi,
+        "Semantic Web Rule Language"@fr,
+        "Semantic Web Rule Language"@ga,
+        "Semantic Web Rule Language"@hr,
+        "Semantic Web Rule Language"@hu,
+        "Semantic Web Rule Language (linguaggio delle regole del web semantico)"@it,
+        "Semantic Web Rule Language"@lt,
+        "Semantic Web Rule Language"@lv,
+        "Semantic Web Rule Language"@mt,
+        "Semantic Web Rule Language"@nl,
+        "Semantic Web Rule Language"@pl,
+        "Semantic Web Rule Language (Linguagem de regras para a Web semântica)"@pt,
+        "Semantic Web Rule Language"@ro,
+        "Jazyk pravidiel sémantického webu"@sk,
+        "Semantic Web Rule Language"@sl,
+        "Semantic Web Rule Language"@sv ;
+    skos:definition "SWRL – Semantic Web Rule Language – is a proposed language that combines OWL DL and OWL Lite sub-languages of the OWL Web Ontology Language with the Unary/Binary Datalog RuleML sub-languages of the Rule Markup Language. In essence, the language allows one to specify rules as implications between an antecedent (body) and consequent (head) so that whenever the conditions specified in the antecedent hold, then the conditions specified in the consequent must also hold. "@en ;
+    skos:inScheme atold:semantic-technology ;
+    skos:prefLabel "SWRL"@bg,
+        "SWRL"@cs,
+        "SWRL"@da,
+        "SWRL"@de,
+        "SWRL"@el,
+        "SWRL"@en,
+        "SWRL"@es,
+        "SWRL"@et,
+        "SWRL"@fi,
+        "SWRL"@fr,
+        "SWRL"@ga,
+        "SWRL"@hr,
+        "SWRL"@hu,
+        "SWRL"@it,
+        "SWRL"@lt,
+        "SWRL"@lv,
+        "SWRL"@mt,
+        "SWRL"@nl,
+        "SWRL"@pl,
+        "SWRL"@pt,
+        "SWRL"@ro,
+        "SWRL"@sk,
+        "SWRL"@sl,
+        "SWRL"@sv ;
+    skos:topConceptOf atold:semantic-technology .
+
+atold:semantic-technology a skos:ConceptScheme ;
+    rdfs:label "Semantic technology"@en ;
+    at:prefLabel "Semantic technology"@en ;
+    at:table.id "semantic-technology" ;
+    at:table.version.number "20211027-0" ;
+    owl:versionInfo "20211027-0" ;
+    skos:prefLabel "Semantic technology"@en .
+

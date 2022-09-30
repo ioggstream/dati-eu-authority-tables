@@ -1,0 +1,145 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/applicability/OP_DATPRO> a skos:Concept ;
+    at:op-code "OP_DATPRO" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:applicability ;
+    skos:prefLabel "НЕОКОНЧАТЕЛНИ ДАННИ"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv .
+
+<http://publications.europa.eu/resource/authority/applicability/no> a skos:Concept ;
+    at:authority-code "no" ;
+    at:deprecated "false" ;
+    at:op-code "no" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "no" ;
+    dc:identifier "no" ;
+    skos:inScheme atold:applicability ;
+    skos:prefLabel "Не"@bg,
+        "Ne"@cs,
+        "Nej"@da,
+        "Nein"@de,
+        "Όχι"@el,
+        "No"@en,
+        "No"@es,
+        "Ei"@et,
+        "Ei"@fi,
+        "Non"@fr,
+        "Ní hea"@ga,
+        "Ne"@hr,
+        "Nem"@hu,
+        "No"@it,
+        "Ne"@lt,
+        "Nē"@lv,
+        "Le"@mt,
+        "Neen"@nl,
+        "Nie"@pl,
+        "Não"@pt,
+        "Nu"@ro,
+        "Nie"@sk,
+        "Ne"@sl,
+        "Nej"@sv .
+
+<http://publications.europa.eu/resource/authority/applicability/not-known> a skos:Concept ;
+    at:authority-code "not-known" ;
+    at:deprecated "false" ;
+    at:op-code "not-known" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "not-known" ;
+    dc:identifier "not-known" ;
+    skos:altLabel "Ännu ej känd"@sv ;
+    skos:inScheme atold:applicability ;
+    skos:prefLabel "Все още не е известно"@bg,
+        "Není známo"@cs,
+        "Endnu ikke kendte"@da,
+        "Noch nicht bekannt"@de,
+        "Δεν έχει ακόμη προσδιοριστεί"@el,
+        "Not yet known"@en,
+        "No se sabe aún"@es,
+        "Ei ole veel teada"@et,
+        "Ei vielä tiedossa"@fi,
+        "Pas encore connu"@fr,
+        "Ní fios go fóill"@ga,
+        "Još nije poznato"@hr,
+        "Jelenleg ismeretlen"@hu,
+        "Non ancora noto"@it,
+        "Dar nežinoma"@lt,
+        "Vēl nav zināms"@lv,
+        "Għadu mhux magħruf"@mt,
+        "Nog niet bekend"@nl,
+        "Jeszcze nie wiadomo"@pl,
+        "Ainda não conhecido"@pt,
+        "Nu se știe încă"@ro,
+        "Použitie zatiaľ nie je známe"@sk,
+        "Še ni znano"@sl,
+        "Ännu ej känt"@sv .
+
+<http://publications.europa.eu/resource/authority/applicability/yes> a skos:Concept ;
+    at:authority-code "yes" ;
+    at:deprecated "false" ;
+    at:op-code "yes" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "yes" ;
+    dc:identifier "yes" ;
+    skos:inScheme atold:applicability ;
+    skos:prefLabel "Да"@bg,
+        "Ano"@cs,
+        "Ja"@da,
+        "Ja"@de,
+        "Ναι"@el,
+        "Yes"@en,
+        "﻿﻿Sí"@es,
+        "Jah"@et,
+        "Kyllä"@fi,
+        "Oui"@fr,
+        "Is ea"@ga,
+        "Da"@hr,
+        "Igen"@hu,
+        "Sì"@it,
+        "Taip"@lt,
+        "Jā"@lv,
+        "Iva"@mt,
+        "Ja"@nl,
+        "Tak"@pl,
+        "Sim"@pt,
+        "Da"@ro,
+        "Áno"@sk,
+        "Da"@sl,
+        "Ja"@sv .
+
+atold:applicability a skos:ConceptScheme ;
+    rdfs:label "Applicability"@en ;
+    at:prefLabel "Applicability"@en ;
+    at:table.id "applicability" ;
+    at:table.version.number "20220316-0" ;
+    owl:versionInfo "20220316-0" ;
+    skos:prefLabel "Applicability"@en .
+

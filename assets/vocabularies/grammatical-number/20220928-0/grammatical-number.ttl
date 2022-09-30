@@ -1,0 +1,193 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/grammatical-number/D> a skos:Concept ;
+    at:authority-code "D" ;
+    at:deprecated "false" ;
+    at:op-code "D" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "D" ;
+    dc:identifier "D" ;
+    skos:definition "Grammatical number referring to two of something, used in Slovenian."@en ;
+    skos:exactMatch <http://www.lexvo.org/page/term/eng/dual> ;
+    skos:inScheme atold:grammatical-number ;
+    skos:prefLabel "Двойно число"@bg,
+        "Dvojné číslo"@cs,
+        "Dualis"@da,
+        "Dual"@de,
+        "Δυϊκός"@el,
+        "Dual"@en,
+        "Dual"@es,
+        "Kaksus"@et,
+        "Duaali"@fi,
+        "Duel"@fr,
+        "Déach"@ga,
+        "Dvojina"@hr,
+        "Kettős szám"@hu,
+        "Duale"@it,
+        "Dviskaita"@lt,
+        "Dual"@lv,
+        "Imtenni"@mt,
+        "Tweevoud"@nl,
+        "Liczba podwójna"@pl,
+        "Dual"@pt,
+        "Dual"@ro,
+        "Dvojné číslo"@sk,
+        "Dvojina"@sl,
+        "Dualis"@sv ;
+    skos:topConceptOf atold:grammatical-number .
+
+<http://publications.europa.eu/resource/authority/grammatical-number/G> a skos:Concept ;
+    at:authority-code "G" ;
+    at:deprecated "false" ;
+    at:op-code "G" ;
+    at:start.use "2021-02-18" ;
+    atold:op-code "G" ;
+    dc:identifier "G" ;
+    skos:definition "‘Generic’ is used to mark forms that do not distinguish between grammatical numbers."@en ;
+    skos:example "The French masculine adjective ‘luxembourgeois’ can be singular or plural."@en ;
+    skos:inScheme atold:grammatical-number ;
+    skos:prefLabel "Общ"@bg,
+        "J. i mn.č."@cs,
+        "Generisk"@da,
+        "Generisch"@de,
+        "Γενικό"@el,
+        "Generic"@en,
+        "Genérico"@es,
+        "Geneeriline"@et,
+        "Geneerinen"@fi,
+        "Générique"@fr,
+        "Cineálach"@ga,
+        "Općenito"@hr,
+        "Általános"@hu,
+        "Generico"@it,
+        "Bendra"@lt,
+        "Vispārējs"@lv,
+        "Ġeneriku"@mt,
+        "Onveranderlijk"@nl,
+        "Generyczny"@pl,
+        "Invariável"@pt,
+        "Generic"@ro,
+        "Generické"@sk,
+        "Generičen"@sl,
+        "Generisk"@sv ;
+    skos:topConceptOf atold:grammatical-number .
+
+<http://publications.europa.eu/resource/authority/grammatical-number/OP_DATPRO> a skos:Concept ;
+    at:authority-code "OP_DATPRO" ;
+    at:deprecated "false" ;
+    at:op-code "OP_DATPRO" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:grammatical-number ;
+    skos:prefLabel "Неокончателни данни"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv ;
+    skos:topConceptOf atold:grammatical-number .
+
+<http://publications.europa.eu/resource/authority/grammatical-number/P> a skos:Concept ;
+    at:authority-code "P" ;
+    at:deprecated "false" ;
+    at:op-code "P" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "P" ;
+    dc:identifier "P" ;
+    skos:definition "Referring to something other than one person or thing; and other than two things if the language has a dual form."@en ;
+    skos:exactMatch <http://www.lexvo.org/page/term/eng/plural> ;
+    skos:inScheme atold:grammatical-number ;
+    skos:prefLabel "Множествено число"@bg,
+        "Množné číslo"@cs,
+        "Pluralis"@da,
+        "Plural"@de,
+        "Πληθυντικός"@el,
+        "Plural"@en,
+        "Plural"@es,
+        "Mitmus"@et,
+        "Monikko"@fi,
+        "Pluriel"@fr,
+        "Iolra"@ga,
+        "Množina"@hr,
+        "Többes szám"@hu,
+        "Plurale"@it,
+        "Daugiskaita"@lt,
+        "Daudzskaitlis"@lv,
+        "Plural"@mt,
+        "Meervoud"@nl,
+        "Liczba mnoga"@pl,
+        "Plural"@pt,
+        "Plural"@ro,
+        "Množné číslo"@sk,
+        "Množina"@sl,
+        "Plural"@sv ;
+    skos:topConceptOf atold:grammatical-number .
+
+<http://publications.europa.eu/resource/authority/grammatical-number/S> a skos:Concept ;
+    at:authority-code "S" ;
+    at:deprecated "false" ;
+    at:op-code "S" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "S" ;
+    dc:identifier "S" ;
+    skos:definition "Referring to only one thing or person."@en ;
+    skos:exactMatch <http://www.lexvo.org/page/term/eng/singular> ;
+    skos:inScheme atold:grammatical-number ;
+    skos:prefLabel "Единствено число"@bg,
+        "Jednotné číslo"@cs,
+        "Singularis"@da,
+        "Singular"@de,
+        "Ενικός"@el,
+        "Singular"@en,
+        "Singular"@es,
+        "Ainsus"@et,
+        "Yksikkö"@fi,
+        "Singulier"@fr,
+        "Uatha"@ga,
+        "Jednina"@hr,
+        "Egyes szám"@hu,
+        "Singolare"@it,
+        "Vienaskaita"@lt,
+        "Vienskaitlis"@lv,
+        "Singular"@mt,
+        "Enkelvoud"@nl,
+        "Liczba pojedyncza"@pl,
+        "Singular"@pt,
+        "Singular"@ro,
+        "Jednotné číslo"@sk,
+        "Ednina"@sl,
+        "Singular"@sv ;
+    skos:topConceptOf atold:grammatical-number .
+
+atold:grammatical-number a skos:ConceptScheme ;
+    rdfs:label "Grammatical number"@en ;
+    at:prefLabel "Grammatical number"@en ;
+    at:table.id "grammatical-number" ;
+    at:table.version.number "20220928-0" ;
+    owl:versionInfo "20220928-0" ;
+    skos:prefLabel "Grammatical number"@en .
+

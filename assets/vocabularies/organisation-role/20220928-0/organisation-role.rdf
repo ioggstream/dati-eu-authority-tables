@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:at="http://publications.europa.eu/ontology/authority/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:atold="http://publications.europa.eu/resource/authority/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xml:base="http://publications.europa.eu/resource/authority/organisation-role">
+   <skos:ConceptScheme rdf:about="http://publications.europa.eu/resource/authority/organisation-role"
+                       at:table.id="organisation-role"
+                       at:table.version.number="20220928-0">
+      <at:prefLabel xml:lang="en">Organisation role</at:prefLabel>
+      <rdfs:label xml:lang="en">Organisation role</rdfs:label>
+      <owl:versionInfo>20220928-0</owl:versionInfo>
+      <skos:prefLabel xml:lang="en">Organisation role</skos:prefLabel>
+   </skos:ConceptScheme>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/organisation-role/OP_DATPRO"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Неокончателни данни</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Předběžné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Midlertidige data</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Vorläufige Daten</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Προσωρινά δεδομένα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Provisional data</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Datos provisionales</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Esialgsed andmed</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Alustavat tiedot</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Données provisoires</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Sonraí sealadacha</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Privremeni podaci</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Ideiglenes adatok</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Dati provvisori</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Laikinieji duomenys</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Provizoriski dati</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Dejta provviżorja</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Voorlopige gegevens</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Dane tymczasowe</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Dados provisórios</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Date provizorii</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Predbežné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Začasni podatki</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Tillfälliga uppgifter</skos:prefLabel>
+      <at:authority-code>OP_DATPRO</at:authority-code>
+      <at:op-code>OP_DATPRO</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>OP_DATPRO</atold:op-code>
+      <dc:identifier>OP_DATPRO</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/organisation-role"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/organisation-role"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/organisation-role/ben-own"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Действителен собственик</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Skutečný majitel</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Begunstiget ejer</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Wirtschaftlicher Eigentümer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Πραγματικός δικαιούχος</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Beneficial owner</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Propietario beneficiario</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Tegelik tulusaaja</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Taloudellinen omistaja</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Bénéficiaire effectif</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Úinéir tairbhiúil</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Stvarni vlasnik</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Kedvezményezett</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Titolare effettivo</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Tikrasis savininkas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Faktiskais īpašnieks</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Sid benefiċjarju</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Uiteindelijke begunstigde</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Faktyczny właściciel</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Beneficiário efetivo</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Beneficiar efectiv</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Oprávnený vlastník</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Dejanski lastnik</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Verklig ägare</skos:prefLabel>
+      <at:authority-code>ben-own</at:authority-code>
+      <at:op-code>ben-own</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>ben-own</atold:op-code>
+      <dc:identifier>ben-own</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/organisation-role"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/organisation-role"/>
+      <skos:definition xml:lang="en">Any natural person(s) who ultimately owns or controls the customer and/or the natural person(s) on whose behalf a transaction or activity is being conducted […]</skos:definition>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/organisation-role/buyer"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Купувач</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Kupující</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Køber</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Beschaffer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Αγοραστής</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Buyer</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Comprador</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Hankija</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Ostaja</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Acheteur</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Ceannaitheoir</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Kupac</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Vevő</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Committente</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Pirkėjas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Pircējs</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Xerrej</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Koper</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Nabywca</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Adquirente</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Cumpărător</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Kupujúci</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Kupec</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Upphandlare</skos:prefLabel>
+      <at:authority-code>buyer</at:authority-code>
+      <at:op-code>buyer</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>buyer</atold:op-code>
+      <dc:identifier>buyer</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/organisation-role"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/organisation-role"/>
+      <skos:definition xml:lang="en">Contracting authority, contracting entity, a defence contractor, an international organisation, or an organisation awarding a contract subsidized by a contracting authority.</skos:definition>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/organisation-role/cpb-acq"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Централен орган за покупки, придобиващ доставки и/или услуги, предназначени за други купувачи</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Centrální zadavatel pořizující dodávky a/nebo služby určené pro jiné kupující</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Indkøbscentral, der rekvirerer vareleverancer og/eller tjenesteydelser for andre købere</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Zentrale Beschaffungsstelle, die für andere Beschaffer bestimmte Lieferungen und/oder Dienstleistungen erwirbt</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Κεντρική αρχή προμηθειών η οποία αγοράζει αγαθά και/ή υπηρεσίες που προορίζονται για άλλους αγοραστές</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Central purchasing body acquiring supplies and/or services intended for other buyers</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Organismo comprador central que adquiere suministros o servicios destinados a otros compradores</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Keskne hankija, kes hangib teiste hankijate jaoks ette nähtud asju ja/või teenuseid</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Muille ostajille tarkoitettuja tavaroita ja/tai palveluja hankkiva yhteishankintayksikkö</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Centrale d’achat qui acquiert des fournitures et/ou des services destinés à d’autres acheteurs</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Comhlacht lárnach ceannaigh a fhaigheann soláthairtí agus/nó seirbhísí ar son ceannaitheoirí eile</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Središnje tijelo za nabavu koje nabavlja robu i/ili usluge namijenjene drugim kupcima</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Más vevőknek szánt árukat és/vagy szolgáltatásokat beszerző központi beszerző szerv</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Centrale di committenza per l'acquisizione di forniture e/o servizi destinati ad altri committenti</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Centrinė perkančioji organizacija, įsigyjanti kitiems pirkėjams skirtas prekes ir (arba) paslaugas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Centralizēto iepirkumu struktūra, kas iegādājas citiem pircējiem paredzētas preces un/vai pakalpojumus</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Korp ċentrali għall-akkwisti li jakkwista provvisti u/jew servizzi maħsuba għal xerrejja oħra</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Aankoopcentrale die voor andere kopers bestemde goederen en/of diensten koopt</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Centralna jednostka zakupująca nabywająca dostawy i/lub usługi przeznaczone dla innych nabywców</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Central de compras que adquire fornecimentos e/ou serviços destinados a outros adquirentes</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Organism central de achiziție care achiziționează bunuri și/sau servicii destinate altor cumpărători</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Centrálna obstarávacia organizácia, ktorá obstaráva dodávky tovaru a/alebo služby určené pre iných kupujúcich</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Osrednji nabavni organ, ki nabavlja blago in/ali storitve za druge kupce</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Inköpscentral som förvärvar varor och/eller tjänster som är avsedda för andra upphandlare</skos:prefLabel>
+      <at:authority-code>cpb-acq</at:authority-code>
+      <at:op-code>cpb-acq</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>cpb-acq</atold:op-code>
+      <dc:identifier>cpb-acq</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/organisation-role"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/organisation-role"/>
+      <skos:definition xml:lang="en">Contracting authority procuring activities conducted on a permanent basis, in one of the following forms:(a) the acquisition of supplies and/or services intended for contracting authorities.</skos:definition>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/organisation-role/cpb-awa"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Централен орган за покупки, възлагащ обществени поръчки или сключващ рамкови споразумения за строителство, доставки или услуги, предназначени за други купувачи</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Centrální zadavatel zadávající veřejné zakázky nebo uzavírající rámcové dohody na stavební práce, dodávky nebo služby určené pro jiné kupující</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Indkøbscentral, der tildeler offentlige kontrakter eller indgår rammeaftaler om bygge- og anlægsarbejder, vareindkøb eller tjenesteydelser for andre købere</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Zentrale Beschaffungsstelle, die öffentliche Aufträge oder Rahmenvereinbarungen im Zusammenhang mit für andere Beschaffer bestimmten Bauleistungen, Lieferungen oder Dienstleistungen vergibt/abschließt</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Κεντρική αρχή προμηθειών η οποία αναθέτει δημόσιες συμβάσεις ή συνάπτει συμφωνίες-πλαίσια για έργα, προμήθειες ή υπηρεσίες που προορίζονται για άλλους αγοραστές</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Central purchasing body awarding public contracts or concluding framework agreements for works, supplies or services intended for other buyers</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Organismo comprador central que adjudica contratos públicos o celebra acuerdos marco de obras, suministros o servicios destinados a otros compradores</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Keskne hankija, kes sõlmib teiste hankijate jaoks ette nähtud ehitustööde, asjade või teenuste riigihankelepinguid või raamlepinguid</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Muille ostajille tarkoitettuja julkisia urakoita sekä tavara- ja palveluhankintoja koskevia sopimuksia tai puitejärjestelyjä tekevä yhteishankintayksikkö</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Centrale d’achat qui passe des marchés publics ou conclut des accords-cadres de travaux, de fournitures ou de services destinés à d’autres acheteurs</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Comhlacht lárnach ceannaigh a dhámhann conarthaí poiblí nó a thugann i gcrích creat-chomhaontuithe maidir le hoibreacha, soláthairtí nó seirbhísí ar son ceannaitheoirí eile</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Središnje tijelo za nabavu koje dodjeljuje javne ugovore ili sklapa okvirne sporazume za radove, robu ili usluge namijenjene drugim kupcima</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Egyéb vevőknek szánt építési beruházásra, árubeszerzésre vagy szolgáltatásra irányuló szerződéseket odaítélő vagy ilyen keretmegállapodásokat kötő központi beszerző szerv</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Centrale di committenza per l'aggiudicazione di appalti o la conclusione di accordi quadro per lavori, forniture o servizi destinati ad altri committenti</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl kitiems pirkėjams skirtų darbų, prekių ar paslaugų</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Centralizēto iepirkumu struktūra, kas piešķir publiskā iepirkuma līgumus vai slēdz pamatnolīgumus par citiem pircējiem paredzētiem būvdarbiem, piegādēm vai pakalpojumiem</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Korp ċentrali għall-akkwisti li jagħti l-kuntratti pubbliċi jew li jikkonkludi ftehimiet qafas għal xogħlijiet, provvisti jew servizzi maħsuba għal xerrejja oħra</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Aankoopcentrale die overheidsopdrachten gunt of raamovereenkomsten sluit voor werken, leveringen of diensten die voor andere kopers bestemd zijn</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Centralna jednostka zakupująca udzielająca zamówień publicznych lub zawierająca umowy ramowe w zakresie robót budowlanych, dostaw lub usług przeznaczonych dla innych nabywców</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Central de compras que adjudica contratos públicos ou celebra acordos-quadro para trabalhos de obras, fornecimentos ou serviços destinados a outros adquirentes</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Organism central de achiziție care atribuie contracte de achiziții publice sau încheie acorduri-cadru pentru lucrări, bunuri sau servicii destinate altor cumpărători</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Centrálna obstarávacia organizácia, ktorá zadáva verejné zákazky alebo uzatvára rámcové dohody na stavebné práce, dodávky tovaru alebo služby určené pre iných kupujúcich</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Osrednji nabavni organ, ki oddaja javna naročila ali sklepa okvirne sporazume za gradnje, blago ali storitve za druge kupce</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Inköpscentral som tilldelar offentliga kontrakt eller ingår ramavtal om byggentreprenader, varor eller tjänster som är avsedda för andra upphandlare</skos:prefLabel>
+      <at:authority-code>cpb-awa</at:authority-code>
+      <at:op-code>cpb-awa</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>cpb-awa</atold:op-code>
+      <dc:identifier>cpb-awa</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/organisation-role"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/organisation-role"/>
+      <skos:definition xml:lang="en">Contracting authority procuring activities conducted on a permanent basis, in one of the following forms:[...](b) the award of public contracts or the conclusion of framework agreements for works, supplies or services intended for contracting authorities.</skos:definition>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/organisation-role/info-emp"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Организация, която предоставя информация за общата нормативна уредба за защитата на заетостта и условията на труд, приложима на мястото, където ще се изпълнява поръчката</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Organizace poskytující informace o obecném právním rámci pro ochranu zaměstnanců a pracovní podmínky, který se použije v místě, kde má být zakázka plněna</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Organisation, der leverer oplysninger om den generelle lovgivningsramme på det sted, hvor kontrakten skal udføres, hvad angår sikkerhed på arbejdspladsen og arbejdsvilkår</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Organisation, die Informationen über den allgemeinen, am Ort der Ausführung des Auftrags geltenden Rechtsrahmen für Arbeitsschutz und Arbeitsbedingungen bereitstellt</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Οργανισμός που παρέχει πληροφορίες σχετικά με το γενικό κανονιστικό πλαίσιο για την προστασία της απασχόλησης και τους όρους εργασίας το οποίο ισχύει στον τόπο εκτέλεσης της σύμβασης</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Organisation providing information concerning the general regulatory framework for employment protection and working conditions applicable in the place where the contract is to be performed</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Organización que proporciona información sobre el marco normativo general en materia de protección de los trabajadores y las condiciones de trabajo aplicable en el lugar en que deba ejecutarse el contrato</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Organisatsioon, mis annab teavet tööhõivekaitset ja töötingimusi käsitleva üldise õigusliku raamistiku kohta, mida kohaldatakse lepingu täitmise kohas</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Sopimuksen suoritus- tai toteuttamispaikassa sovellettavista työsuojelua ja työehtoja koskevista yleisistä säännöksistä tietoja antava organisaatio</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Organisation qui fournit des informations sur le cadre réglementaire général qui, en matière de protection du travail et de conditions de travail, est applicable au lieu où la prestation doit être réalisée</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Eagraíocht a sholáthraíonn faisnéis faoin gcreat rialála ginearálta don chosaint fostaíochta agus do dhálaí oibre is infheidhme san áit ina bhfuil an conradh le cur i gcrích</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Organizacija koja pruža informacije o općem regulatornom okviru u vezi sa zaštitom radnog mjesta i radnih uvjeta primjenjivom u mjestu u kojem se ugovor treba izvršiti</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">A szerződés teljesítésének helye szerinti országban alkalmazandó általános munkavédelmi és foglalkoztatási feltételekkel kapcsolatos szabályozási kerettel kapcsolatban tájékoztatást nyújtó szervezet</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Organizzazione presso la quale possono essere richieste informazioni sul quadro normativo generale vigente in materia di tutela dei lavoratori e condizioni di lavoro nel luogo in cui l'appalto deve essere eseguito</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Organizacija, teikianti informaciją apie tos vietos, kurioje bus vykdoma sutartis, bendrąją užimtumo apsaugos ir darbo sąlygų reglamentavimo sistemą</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Organizācija, kas sniedz informāciju par darba aizsardzības un darba apstākļu vispārējo tiesisko regulējumu, kas piemērojams līguma izpildes vietā</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Organizzazzjoni li tipprovdi informazzjoni dwar il-qafas regolatorju ġenerali għall-protezzjoni tal-impjiegi u għall-kundizzjonijiet tax-xogħol applikabbli fil-post fejn irid jitwettaq il-kuntratt</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Organisatie die informatie verstrekt over de voorschriften die op de plaats van de verrichtingen gelden inzake de bescherming van de werknemers en arbeidsvoorwaarden</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Organizacja udzielająca informacji na temat ogólnych ram regulujących kwestie ochrony zatrudnienia i warunków pracy, mających zastosowanie w miejscu, w którym zamówienie ma być realizowane</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Organização que fornece informações sobre o quadro normativo geral em matéria de proteção do trabalho e de condições de trabalho aplicável no local em que o contrato vai ser executado</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Organizația care furnizează informații referitoare la cadrul legislativ general privind protecția muncii aplicabil în locul în care urmează să fie executat contractul</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Organizácia poskytujúca informácie týkajúce sa všeobecného regulačného rámca pre ochranu zamestnanosti a pracovné podmienky uplatňovaného v mieste plnenia zákazky</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Organizacija, ki daje informacije o splošnem regulativnem okviru glede zaščite delovnega mesta in pogojev za delo, ki se uporablja v kraju izvajanja naročila</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Organisation som tillhandahåller information om det allmänna regelverk för anställningsskydd och arbetsvillkor som ska tillämpas på den plats där kontraktet ska genomföras</skos:prefLabel>
+      <at:authority-code>info-emp</at:authority-code>
+      <at:op-code>info-emp</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>info-emp</atold:op-code>
+      <dc:identifier>info-emp</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/organisation-role"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/organisation-role"/>
+      <skos:definition xml:lang="en">Body reponsible for providing information concerning the general regulatory framework for employment protection and working conditions.</skos:definition>
+      <skos:scopeNote xml:lang="en">Required in Directive 2009/81/EC, see Annex IV Prior Information Notice Point 1.</skos:scopeNote>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/organisation-role/info-envir"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Организация, която предоставя информация за общата нормативна уредба за опазването на околната среда, приложима на мястото, където ще се изпълнява поръчката</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Organizace poskytující informace o obecném právním rámci pro ochranu životního prostředí, který se použije v místě, kde má být zakázka plněna</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Organisation, der leverer oplysninger om den generelle lovgivningsramme på det sted, hvor kontrakten skal udføres, hvad angår miljøbeskyttelse</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Organisation, die Informationen über den allgemeinen, am Ort der Ausführung des Auftrags geltenden umweltrechtlichen Rahmen bereitstellt</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Οργανισμός που παρέχει πληροφορίες σχετικά με το γενικό κανονιστικό πλαίσιο για την προστασία του περιβάλλοντος το οποίο ισχύει στον τόπο εκτέλεσης της σύμβασης</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Organisation providing information concerning the general regulatory framework for environmental protection applicable in the place where the contract is to be performed</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Organización que proporciona información sobre el marco normativo general por lo que se refiere a la protección del medio ambiente aplicable en el lugar en que deba ejecutarse el contrato</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Organisatsioon, mis annab teavet keskkonnakaitset käsitleva üldise õigusliku raamistiku kohta, mida kohaldatakse lepingu täitmise kohas</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Sopimuksen suoritus- tai toteuttamispaikassa sovellettavista ympäristönsuojelua koskevista yleisistä säännöksistä tietoja antava organisaatio</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Organisation qui fournit des informations sur le cadre réglementaire général qui, en matière de protection de l’environnement, est applicable au lieu où la prestation doit être réalisée</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Eagraíocht a sholáthraíonn faisnéis faoin gcreat rialála ginearálta do chosaint an chomhshaoil is infheidhme san áit ina bhfuil an conradh le cur i gcrích</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Organizacija koja pruža informacije o općem regulatornom okviru u vezi sa zaštitom okoliša primjenjivom u mjestu u kojem se ugovor treba izvršiti</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">A szerződés teljesítésének helye szerinti országban alkalmazandó általános környezetvédelmi szabályozási kerettel kapcsolatban tájékoztatást nyújtó szervezet</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Organizzazione presso la quale possono essere richieste informazioni sul quadro normativo generale vigente in materia di protezione dell'ambiente nel luogo in cui l'appalto deve essere eseguito</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Organizacija, teikianti informaciją apie tos vietos, kurioje bus vykdoma sutartis, bendrąją aplinkosaugos reglamentavimo sistemą</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Organizācija, kas sniedz informāciju par vides aizsardzības jomas vispārējo tiesisko regulējumu, kas piemērojams līguma izpildes vietā</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Organizzazzjoni li tipprovdi informazzjoni dwar il-qafas regolatorju ġenerali għall-protezzjoni ambjentali applikabbli fil-post fejn irid jitwettaq il-kuntratt</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Organisatie die informatie verstrekt over de voorschriften die op de plaats van de verrichtingen gelden inzake milieubescherming</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Organizacja udzielająca informacji na temat ogólnych ram regulujących kwestie ochrony środowiska, mających zastosowanie w miejscu, w którym zamówienie ma być realizowane</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Organização que fornece informações sobre o quadro normativo geral em matéria de proteção do ambiente que vigora no local de realização da prestação</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Organizația care furnizează informații referitoare la cadrul legislativ general privind protecția mediului aplicabil în locul în care urmează să fie executat contractul</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Organizácia poskytujúca informácie týkajúce sa všeobecného regulačného rámca pre ochranu životného prostredia uplatňovaného v mieste plnenia zákazky</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Organizacija, ki daje informacije o splošnem regulativnem okviru glede varstva okolja, ki se uporablja v kraju izvajanja naročila</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Organisation som tillhandahåller information om det allmänna regelverk för miljöskydd som ska tillämpas på den plats där kontraktet ska genomföras</skos:prefLabel>
+      <at:authority-code>info-envir</at:authority-code>
+      <at:op-code>info-envir</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>info-envir</atold:op-code>
+      <dc:identifier>info-envir</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/organisation-role"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/organisation-role"/>
+      <skos:definition xml:lang="en">Body responsible for providing information concerning the general regulatory framework for environmental protection.</skos:definition>
+      <skos:scopeNote xml:lang="en">Required in Directive 2009/81/EC, see Annex IV Prior Information Notice Point 1.</skos:scopeNote>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/organisation-role/info-tax"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Организация, която предоставя информация за общата нормативна уредба за данъците, приложима на мястото, където ще се изпълнява поръчката</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Organizace poskytující informace o obecném právním rámci pro daně, který se použije v místě, kde má být zakázka plněna</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Organisation, der leverer oplysninger om den generelle lovgivningsramme på det sted, hvor kontrakten skal udføres, hvad angår skatter</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Organisation, die Informationen über den allgemeinen, am Ort der Ausführung des Auftrags geltenden steuerrechtlichen Rahmen bereitstellt</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Οργανισμός που παρέχει πληροφορίες σχετικά με το γενικό κανονιστικό πλαίσιο για τους φόρους το οποίο ισχύει στον τόπο εκτέλεσης της σύμβασης</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Organisation providing information concerning the general regulatory framework for taxes applicable in the place where the contract is to be performed</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Organización que proporciona información sobre el marco normativo general por lo que se refiere a la fiscalidad aplicable en el lugar en que deba ejecutarse el contrato</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Organisatsioon, mis annab teavet makse käsitleva üldise õigusliku raamistiku kohta, mida kohaldatakse lepingu täitmise kohas</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Sopimuksen suoritus- tai toteuttamispaikassa sovellettavista verotusta koskevista yleisistä säännöksistä tietoja antava organisaatio</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Organisation qui fournit des informations sur le cadre réglementaire général qui, en matière de fiscalité, est applicable au lieu où la prestation doit être réalisée</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Eagraíocht a sholáthraíonn faisnéis faoin gcreat rialála ginearálta do na cánacha is infheidhme san áit ina bhfuil an conradh le cur i gcrích</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Organizacija koja pruža informacije o općem regulatornom okviru u vezi s porezima primjenjivom u mjestu u kojem se ugovor treba izvršiti</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">A szerződés teljesítésének helye szerinti országban alkalmazandó adók általános szabályozási keretével kapcsolatban tájékoztatást nyújtó szervezet</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Organizzazione presso la quale possono essere richieste informazioni sul quadro normativo generale vigente in materia di fiscalità nel luogo in cui l'appalto deve essere eseguito</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Organizacija, teikianti informaciją apie tos vietos, kurioje bus vykdoma sutartis, bendrąją mokesčių reglamentavimo sistemą</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Organizācija, kas sniedz informāciju par vispārējo tiesisko regulējumu attiecībā uz nodokļiem, kas piemērojami līguma izpildes vietā</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Organizzazzjoni li tipprovdi informazzjoni dwar il-qafas regolatorju ġenerali għat-taxxi applikabbli fil-post fejn irid jitwettaq il-kuntratt</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Organisatie die informatie verstrekt over de voorschriften die op de plaats van de verrichtingen gelden inzake belasting</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Organizacja udzielająca informacji na temat ogólnych ram regulujących kwestie podatków, mających zastosowanie w miejscu, w którym zamówienie ma być realizowane</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Organização que fornece informações sobre o quadro normativo geral em matéria de fiscalidade que vigora no local de realização da prestação</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Organizația care furnizează informații referitoare la cadrul legislativ general privind impozitarea aplicabil în locul în care urmează să fie executat contractul</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Organizácia poskytujúca informácie týkajúce sa všeobecného regulačného rámca pre dane uplatňovaného v mieste plnenia zákazky</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Organizacija, ki daje informacije o splošnem regulativnem okviru glede davkov, ki se uporablja v kraju izvajanja naročila</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Organisation som tillhandahåller information om det allmänna regelverk för skatter som ska tillämpas på den plats där kontraktet ska genomföras</skos:prefLabel>
+      <at:authority-code>info-tax</at:authority-code>
+      <at:op-code>info-tax</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>info-tax</atold:op-code>
+      <dc:identifier>info-tax</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/organisation-role"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/organisation-role"/>
+      <skos:definition xml:lang="en">Body reponsible for providing information concerning the general regulatory framework for taxes.</skos:definition>
+      <skos:scopeNote xml:lang="en">Required in Directive 2009/81/EC, see Annex IV Prior Information Notice Point 1.</skos:scopeNote>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/organisation-role/mediator"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Медиаторска организация</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Organizace příslušná pro mediační řízení</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Organisation med ansvar for mægling</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Schlichtungsstelle</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Οργανισμός διαμεσολάβησης</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Mediation organisation</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Organización de mediación</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Vahendusorganisatsioon</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Välityselin</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Organisation chargée des procédures de médiation</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Eagraíocht idirghabhála</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Organizacija za postupke mirenja</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Közvetítő szervezet</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Organizzazione di mediazione</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Tarpininkavimo organizacija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Starpniecības jeb mediācijas organizācija</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Organizzazzjoni tal-medjazzjoni</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Bemiddelingsorganisatie</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Organ mediacyjny</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Organização de mediação</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Organizație de mediere</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Sprostredkovateľská organizácia</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Organizacija za mediacijo</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Medlingsorganisation</skos:prefLabel>
+      <at:authority-code>mediator</at:authority-code>
+      <at:op-code>mediator</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>mediator</atold:op-code>
+      <dc:identifier>mediator</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/organisation-role"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/organisation-role"/>
+      <skos:definition xml:lang="en">Body responsible for mediation acting as a neutral third party.</skos:definition>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/organisation-role/rev-req"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Организация (или лице), искаща преразглеждане (обжалване), която има или е имала интерес по отношение на поръчката и която е понесла или има опасност да понесе щети при предполагаемо нарушение</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Organizace (nebo osoba) žádající o přezkum, která má nebo měla na zakázce zájem a které v důsledku domnělého protiprávního jednání vznikla nebo hrozí škoda</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Klagende organisation (eller person), der har eller har haft interesse i en kontrakt, og som har lidt eller risikerer at lide skade som følge af en påstået overtrædelse</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Die den Antrag auf Überprüfung stellende Einrichtung (oder Person), die ein Interesse an einem Auftrag hat oder hatte und der durch einen behaupteten Verstoß ein Schaden entstanden ist bzw. zu entstehen droht</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Οργανισμός (ή πρόσωπο) που ασκεί προσφυγή και έχει ή είχε συμφέρον σε μια σύμβαση και που υπέστη ή κινδυνεύει να υποστεί ζημία από κατ’ ισχυρισμόν παράβαση</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Organisation (or person) requesting review that has or has had an interest in a contract and who has been or risks being harmed by an alleged infringement</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Organización (o persona) que interpone un recurso, que tiene o ha tenido un interés en un contrato y que se ha visto o corre el riesgo de verse perjudicada por una presunta infracción</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Läbivaatamist taotlev organisatsioon (või isik), kellel on või on olnud huvi lepingu vastu ja kes on väidetava rikkumise tõttu kahju kannatanud või võib kahju kannatada</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Muutoksenhakua pyytävä organisaatio (tai henkilö), joka on tai on ollut tavoittelemassa tiettyä sopimusta ja jonka etua väitetty virheellinen menettely on loukannut tai saattaa loukata</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Organisation (ou personne) introduisant une demande de recours qui est ou a été intéressée par un marché et a été ou risque d’être lésée par une violation alléguée</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Eagraíocht (nó duine) a iarrann athbhreithniú a bhfuil nó a raibh leas acu i gconradh agus ar ndearnadh díobháil dóibh nó a bhfuil riosca ann go ndéanfaí díobháil dóibh mar gheall ar shárú líomhnaithe</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Organizacija (ili osoba) koja traži pravnu zaštitu (preispitivanje), koja ima ili je imala interes za dobivanje ugovora i koja je pretrpjela ili bi mogla pretrpjeti štetu zbog navodnog kršenja</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Jogorvoslatot kérő szervezet (vagy személy), amelynek (akinek) érdeke fűződik vagy fűződött egy szerződéshez, és amelynek (akinek) az állítólagos jogsértés kárt okozhat vagy okozhatott</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Organizzazione (o persona) che presenta ricorso, che abbia o abbia avuto interesse a ottenere l'aggiudicazione di un appalto e sia stata o rischi di essere lesa a causa di una presunta violazione</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Peržiūros prašanti organizacija (arba asmuo), turinti ar turėjusi interesą sudaryti sutartį ir dėl įtariamo pažeidimo galėjusi arba galinti patirti žalą</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Pārskatīšanas pieprasītāja organizācija (vai persona), kura ir vai ir bijusi ieinteresēta kādā līgumā un kurai ir nodarīts vai draud kaitējums aizdomu par pārkāpumu dēļ</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Organizzazzjoni (jew persuna) li titlob għal rieżami, li jkollha jew kellha interess f’kuntratt, u li ġarrbet jew qed tissogra li ġġarrab danni minħabba ksur allegat</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Organisatie (of persoon) die beroep instelt en die belang heeft of heeft gehad bij een opdracht en door een beweerde inbreuk is of dreigt te worden geschaad</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Organizacja (lub osoba) składająca odwołanie, która ma lub miała interes w uzyskaniu zamówienia i która poniósła szkodę lub może ponieść szkodę w wyniku domniemanego naruszenia</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Organização (ou pessoa) que interpõe um recurso, que esteja ou tenha estado interessada num contrato e que tenha sido ou possa vir a ser lesada por uma alegada violação</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Organizația (sau persoana) care depune cererea de soluționare a căilor de atac, care are sau a avut un interes în obținerea unui contract și care a fost prejudiciată sau riscă să fie prejudiciată printr-o presupusă încălcare</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Organizácia (alebo osoba) požadujúca preskúmanie, ktorá má alebo mala záujem o zákazku a ktorá je alebo by mohla byť poškodená údajným porušením právnych predpisov</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Organizacija (ali oseba), ki zahteva revizijo in ki ima ali je imela pogodbeni interes ter bi ji domnevna kršitev lahko škodovala</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">En organisation (eller person) som begär omprövning, har ett intresse i ett avtal och har blivit skadad eller kan skadas av en påstådd överträdelse</skos:prefLabel>
+      <at:authority-code>rev-req</at:authority-code>
+      <at:op-code>rev-req</at:op-code>
+      <at:start.use>2020-12-16</at:start.use>
+      <atold:op-code>rev-req</atold:op-code>
+      <dc:identifier>rev-req</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/organisation-role"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/organisation-role"/>
+      <skos:definition xml:lang="en">Any organisation (or person) having or having had an interest in obtaining a particular public supply or public works contract and who has been or risks being harmed by an alleged infringement.</skos:definition>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/organisation-role/reviewer"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Oрганизация, отговаряща за преразглеждането (обжалването)</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Organizace příslušná pro přezkum</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Organisation med ansvar for klager</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Überprüfungsstelle</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Οργανισμός προσφυγής</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Review organisation</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Organización de encargada de los procedimientos de recurso</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Läbivaatav organisatsioon</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Muutoksenhakuelin</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Organisation chargée des procédures de recours</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Eagraíocht athbhreithniúcháin</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Organizacija za preispitivanje (pravnu zaštitu)</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Felülvizsgálati szervezet</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Organizzazione competente per i ricorsi</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Peržiūros organizacija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Pārskatīšanas organizācija</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Organizzazzjoni tar-rieżami</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Organisatie voor beroepsprocedures</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Organ odwoławczy</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Instância de recurso</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Organizația responsabilă cu căile de atac</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Organizácia pre preskúmanie</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Organizacija za revizijo</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Prövningsorganisation</skos:prefLabel>
+      <at:authority-code>reviewer</at:authority-code>
+      <at:op-code>reviewer</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>reviewer</atold:op-code>
+      <dc:identifier>reviewer</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/organisation-role"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/organisation-role"/>
+      <skos:definition xml:lang="en">Body responsible for revision.</skos:definition>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/organisation-role/serv-prov"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Доставчик на услуги в областта на обществените поръчки</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Poskytovatel služeb v oblasti zadávání zakázek</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Indkøbsleverandør</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Beschaffungsdienstleister</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Πάροχος υπηρεσιών προμηθειών</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Procurement service provider</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Proveedor de servicios de contratación pública</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Tugiteenuse osutaja</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Hankintapalvelujen tarjoaja</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Prestataire de services de passation de marché</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Soláthraí seirbhísí an tsoláthair</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Pružatelj usluga javne nabave</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Közbeszerzési szolgáltató</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Prestatore di servizi in materia di appalti</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Pirkimo paslaugų teikėjas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Iepirkuma pakalpojumu sniedzējs</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Fornitur ta’ servizzi tal-akkwist</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Aanbieder van aanbestedingsdiensten</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Podmiot świadczący usługi w zakresie zamówień</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Prestador de serviços no domínio da contratação pública</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Furnizor de servicii de achiziție</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Poskytovateľ obstarávacích služieb</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Izvajalec storitev javnega naročanja</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Upphandlingstjänsteleverantör</skos:prefLabel>
+      <at:authority-code>serv-prov</at:authority-code>
+      <at:op-code>serv-prov</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>serv-prov</atold:op-code>
+      <dc:identifier>serv-prov</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/organisation-role"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/organisation-role"/>
+      <skos:definition xml:lang="en">Public or private body which offers ancillary purchasing activities on the market.</skos:definition>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/organisation-role/subcont"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Подизпълнител</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Subdodavatel</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Underleverandør</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Unterauftragnehmer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Υπεργολάβος</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Subcontractor</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Subcontratista</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Alltöövõtja</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Alihankkija</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Sous-traitant</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Fochonraitheoir</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Podugovaratelj (podizvođač radova)</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Alvállalkozó</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Subappaltatore</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Subrangovas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Apakšuzņēmējs</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Sottokuntrattur</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Onderaannemer</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Podwykonawca</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Subcontratante</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Subcontractant</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Subdodávateľ</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Podizvajalec</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Underentreprenör</skos:prefLabel>
+      <at:authority-code>subcont</at:authority-code>
+      <at:op-code>subcont</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>subcont</atold:op-code>
+      <dc:identifier>subcont</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/organisation-role"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/organisation-role"/>
+      <skos:definition xml:lang="en">Economic operator to whom the contractor assigns a share of the contract.</skos:definition>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/organisation-role/ted-esen"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Електронен подател в платформата eSender към Електронния ежедневник за поръчките (TED)</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Elektronický odesílatel TED</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">TED eSender</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">TED-eSender</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">TED eSender</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">TED eSender</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">TED eSender</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">TED eSender</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">TED eSender</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">TED eSender</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">TED eSender</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">TED eSender</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">TED eKüldő</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">TED eSender</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">TED e. formų siuntėjas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">TED rīks eSender</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">TED eSender</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">TED eSender</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">TED eSender</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">TED eSender</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Sistemul TED eSender</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">TED eSender</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">TED eSender</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">TED eSender</skos:prefLabel>
+      <at:authority-code>ted-esen</at:authority-code>
+      <at:op-code>ted-esen</at:op-code>
+      <at:start.use>2020-03-18</at:start.use>
+      <atold:op-code>ted-esen</atold:op-code>
+      <dc:identifier>ted-esen</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/organisation-role"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/organisation-role"/>
+      <skos:definition xml:lang="en">TED eSenders are public or private entities that send public procurement notices in a structured XML format through a software developed in-house. eSenders can include contracting bodies, public or private bodies acting on behalf of contracting bodies as well as eProcurement software developers.</skos:definition>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/organisation-role/tenderer"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Оферент</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Uchazeč</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Tilbudsgiver</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Bieter</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Προσφέρων</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Tenderer</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Licitador</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Pakkuja</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Tarjoaja</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Soumissionnaire</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Tairgeoir</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Ponuditelj</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Ajánlattevő</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Offerente</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Dalyvis</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Pretendents</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Offerent</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Inschrijver</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Oferent</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Proponente</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Ofertant</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Uchádzač</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Ponudnik</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Anbudsgivare</skos:prefLabel>
+      <at:authority-code>tenderer</at:authority-code>
+      <at:op-code>tenderer</at:op-code>
+      <at:start.use>2020-03-18</at:start.use>
+      <atold:op-code>tenderer</atold:op-code>
+      <dc:identifier>tenderer</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/organisation-role"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/organisation-role"/>
+      <skos:definition xml:lang="en">Economic operator that has submitted a tender; unless the economic operator is a group of organisations that is not an organisation in itself, in which case each individual organisation is considered a "tenderer".</skos:definition>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/organisation-role/winner"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="sv">Verklig ägare</skos:prefLabel>
+      <skos:prefLabel xml:lang="bg">Победител</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Vítěz</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Vinder</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Wettbewerbsgewinner</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Νικητής</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Winner</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Ganador</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Edukas pakkuja</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Voittaja</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Lauréat</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Buaiteoir</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Pobjednik natječaja</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Nyertes</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Vincitore</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Laimėtojas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Uzvarētājs</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Rebbieħ</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Winnaar</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Zwycięzca</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Vencedor</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Câștigător</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Víťaz</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Zmagovalec</skos:prefLabel>
+      <at:authority-code>winner</at:authority-code>
+      <at:op-code>winner</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>winner</atold:op-code>
+      <dc:identifier>winner</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/organisation-role"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/organisation-role"/>
+      <skos:definition xml:lang="en">Economic operator awarded with the contract.</skos:definition>
+   </skos:Concept>
+</rdf:RDF>

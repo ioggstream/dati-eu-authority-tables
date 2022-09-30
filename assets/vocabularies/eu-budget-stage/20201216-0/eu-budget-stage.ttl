@@ -1,0 +1,276 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/eu-budget-stage/CPA> a skos:Concept ;
+    at:authority-code "CPA" ;
+    at:deprecated "false" ;
+    at:op-code "CPA" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "CPA" ;
+    dc:identifier "CPA" ;
+    skos:inScheme atold:eu-budget-stage ;
+    skos:prefLabel "Приключване на подготвителното действие"@bg,
+        "Dokončení přípravné akce"@cs,
+        "Afslutning af forberedende foranstaltning"@da,
+        "Abschluss der vorbereitenden Maßnahme"@de,
+        "Ολοκλήρωση προπαρασκευαστικής ενέργειας"@el,
+        "Completion preparatory action"@en,
+        "Finalización de la acción preparatoria"@es,
+        "Ettevalmistava tegevuse lõpuleviimine"@et,
+        "Valmistelutoimen loppuun saattaminen"@fi,
+        "Achèvement de l’action préparatoire"@fr,
+        "Gníomhaíocht ullmhúcháin a thabhairt chun críche"@ga,
+        "Završetak pripremnog djelovanja"@hr,
+        "Az előkészítő intézkedés lezárása"@hu,
+        "Completamento dell’azione preparatoria"@it,
+        "Parengiamųjų veiksmų užbaigimas"@lt,
+        "Sagatavošanas darbības pabeigšana"@lv,
+        "Tlestija tal-azzjoni preparatorja"@mt,
+        "Voltooiing van de voorbereidende actie"@nl,
+        "Zakończenie działania przygotowawczego"@pl,
+        "Conclusão da ação preparatória"@pt,
+        "Finalizarea acțiunii pregătitoare"@ro,
+        "Dokončenie prípravnej akcie"@sk,
+        "Zaključek pripravljalnega ukrepa"@sl,
+        "Slutförande av förberedande åtgärd"@sv .
+
+<http://publications.europa.eu/resource/authority/eu-budget-stage/CPP> a skos:Concept ;
+    at:authority-code "CPP" ;
+    at:deprecated "false" ;
+    at:op-code "CPP" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "CPP" ;
+    dc:identifier "CPP" ;
+    skos:inScheme atold:eu-budget-stage ;
+    skos:prefLabel "Приключване на пилотен проект"@bg,
+        "Dokončení pilotního projektu"@cs,
+        "Afslutning af pilotprojekt"@da,
+        "Abschluss des Pilotprojekts"@de,
+        "Ολοκλήρωση πιλοτικού έργου"@el,
+        "Completion pilot project"@en,
+        "Finalización del proyecto piloto"@es,
+        "Katseprojekti lõpuleviimine"@et,
+        "Pilottihankkeen loppuun saattaminen"@fi,
+        "Achèvement du projet pilote"@fr,
+        "Tionscadal píolótach a thabhairt chun críche"@ga,
+        "Završetak pilot-projekta"@hr,
+        "A kísérleti projekt lezárása"@hu,
+        "Completamento del progetto pilota"@it,
+        "Bandomojo projekto užbaigimas"@lt,
+        "Izmēģinājuma projekta pabeigšana"@lv,
+        "Tlestija tal-proġett pilota"@mt,
+        "Voltooiing van het proefproject"@nl,
+        "Zakończenie projektu pilotażowego"@pl,
+        "Conclusão do projeto-piloto"@pt,
+        "Finalizarea proiectului pilot"@ro,
+        "Dokončenie pilotného projektu"@sk,
+        "Zaključek pilotnega projekta"@sl,
+        "Slutförande av pilotprojekt"@sv .
+
+<http://publications.europa.eu/resource/authority/eu-budget-stage/OP_DATPRO> a skos:Concept ;
+    at:op-code "OP_DATPRO" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:eu-budget-stage ;
+    skos:prefLabel "НЕОКОНЧАТЕЛНИ ДАННИ"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv .
+
+<http://publications.europa.eu/resource/authority/eu-budget-stage/PA1> a skos:Concept ;
+    at:authority-code "PA1" ;
+    at:deprecated "false" ;
+    at:op-code "PA1" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "PA1" ;
+    dc:identifier "PA1" ;
+    skos:inScheme atold:eu-budget-stage ;
+    skos:prefLabel "Подготвително действие, първа година"@bg,
+        "Přípravná akce, první rok"@cs,
+        "Forberedende foranstaltning, første år"@da,
+        "Vorbereitende Maßnahme, erstes Jahr"@de,
+        "Προπαρασκευαστική ενέργεια, πρώτο έτος"@el,
+        "Preparatory action first year"@en,
+        "Acción preparatoria, primer año"@es,
+        "Ettevalmistav tegevus, esimesel aastal"@et,
+        "Valmistelutoimi, ensimmäisenä vuonna"@fi,
+        "Action préparatoire, première année"@fr,
+        "Gníomhaíocht ullmhúcháin, an chéad bhliain"@ga,
+        "Pripremno djelovanje, prva godina"@hr,
+        "Előkészítő intézkedés, első év"@hu,
+        "Azione preparatoria, primo anno"@it,
+        "Parengiamieji veiksmai, pirmi metai"@lt,
+        "Sagatavošanas darbība pirmajā gadā"@lv,
+        "Azzjoni preparatorja, l-ewwel sena"@mt,
+        "Voorbereidende actie, eerste jaar"@nl,
+        "Działanie przygotowawcze, pierwszy rok"@pl,
+        "Ação preparatória, primeiro ano"@pt,
+        "Acțiune pregătitoare, primul an"@ro,
+        "Prípravná akcia, prvý rok"@sk,
+        "Pripravljalni ukrep, prvo leto"@sl,
+        "Förberedande åtgärd, första året"@sv .
+
+<http://publications.europa.eu/resource/authority/eu-budget-stage/PA2> a skos:Concept ;
+    at:authority-code "PA2" ;
+    at:deprecated "false" ;
+    at:op-code "PA2" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "PA2" ;
+    dc:identifier "PA2" ;
+    skos:inScheme atold:eu-budget-stage ;
+    skos:prefLabel "Подготвително действие, втора година"@bg,
+        "Přípravná akce, druhý rok"@cs,
+        "Forberedende foranstaltning, andet år"@da,
+        "Vorbereitende Maßnahme, zweites Jahr"@de,
+        "Προπαρασκευαστική ενέργεια, δεύτερο έτος"@el,
+        "Preparatory action second year"@en,
+        "Acción preparatoria, segundo año"@es,
+        "Ettevalmistav tegevus, teisel aastal"@et,
+        "Valmistelutoimi, toisena vuonna"@fi,
+        "Action préparatoire, deuxième année"@fr,
+        "Gníomhaíocht ullmhúcháin, an dara bliain"@ga,
+        "Pripremno djelovanje, druga godina"@hr,
+        "Előkészítő intézkedés, második év"@hu,
+        "Azione preparatoria, secondo anno"@it,
+        "Parengiamieji veiksmai, antri metai"@lt,
+        "Sagatavošanas darbība otrajā gadā"@lv,
+        "Azzjoni preparatorja, it-tieni sena"@mt,
+        "Voorbereidende actie, tweede jaar"@nl,
+        "Działanie przygotowawcze, drugi rok"@pl,
+        "Ação preparatória, segundo ano"@pt,
+        "Acțiune pregătitoare, al doilea an"@ro,
+        "Prípravná akcia, druhý rok"@sk,
+        "Pripravljalni ukrep, drugo leto"@sl,
+        "Förberedande åtgärd, andra året"@sv .
+
+<http://publications.europa.eu/resource/authority/eu-budget-stage/PA3> a skos:Concept ;
+    at:authority-code "PA3" ;
+    at:deprecated "false" ;
+    at:op-code "PA3" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "PA3" ;
+    dc:identifier "PA3" ;
+    skos:inScheme atold:eu-budget-stage ;
+    skos:prefLabel "Подготвително действие, трета година"@bg,
+        "Přípravná akce, třetí rok"@cs,
+        "Forberedende foranstaltning, tredje år"@da,
+        "Vorbereitende Maßnahme, drittes Jahr"@de,
+        "Προπαρασκευαστική ενέργεια, τρίτο έτος"@el,
+        "Preparatory action third year"@en,
+        "Acción preparatoria, tercer año"@es,
+        "Ettevalmistav tegevus, kolmandal aastal"@et,
+        "Valmistelutoimi, kolmantena vuonna"@fi,
+        "Action préparatoire, troisième année"@fr,
+        "Gníomhaíocht ullmhúcháin, an tríú bliain"@ga,
+        "Pripremno djelovanje, treća godina"@hr,
+        "Előkészítő intézkedés, harmadik év"@hu,
+        "Azione preparatoria, terzo anno"@it,
+        "Parengiamieji veiksmai, treti metai"@lt,
+        "Sagatavošanas darbība trešajā gadā"@lv,
+        "Azzjoni preparatorja, it-tielet sena"@mt,
+        "Voorbereidende actie, derde jaar"@nl,
+        "Działanie przygotowawcze, trzeci rok"@pl,
+        "Ação preparatória, terceiro ano"@pt,
+        "Acțiune pregătitoare, al treilea an"@ro,
+        "Prípravná akcia, tretí rok"@sk,
+        "Pripravljalni ukrep, tretje leto"@sl,
+        "Förberedande åtgärd, tredje året"@sv .
+
+<http://publications.europa.eu/resource/authority/eu-budget-stage/PP1> a skos:Concept ;
+    at:authority-code "PP1" ;
+    at:deprecated "false" ;
+    at:op-code "PP1" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "PP1" ;
+    dc:identifier "PP1" ;
+    skos:inScheme atold:eu-budget-stage ;
+    skos:prefLabel "Пилотен проект, първа година"@bg,
+        "Pilotní projekt, první rok"@cs,
+        "Pilotprojekt, første år"@da,
+        "Pilotprojekt, erstes Jahr"@de,
+        "Πιλοτικό έργο, πρώτο έτος"@el,
+        "Pilot project first year"@en,
+        "Proyecto piloto, primer año"@es,
+        "Katseprojekt, esimesel aastal"@et,
+        "Pilottihanke, ensimmäisenä vuonna"@fi,
+        "Projet pilote, première année"@fr,
+        "Tionscadal píolótach, an chéad bhliain"@ga,
+        "Pilot-projekt, prva godina"@hr,
+        "Kísérleti projekt, első év"@hu,
+        "Progetto pilota, primo anno"@it,
+        "Bandomasis projektas, pirmi metai"@lt,
+        "Izmēģinājuma projekts pirmajā gadā"@lv,
+        "Proġett pilota, l-ewwel sena"@mt,
+        "Proefproject, eerste jaar"@nl,
+        "Projekt pilotażowy, pierwszy rok"@pl,
+        "Projeto-piloto, primeiro ano"@pt,
+        "Proiect-pilot, primul an"@ro,
+        "Pilotný projekt, prvý rok"@sk,
+        "Pilotni projekt, prvo leto"@sl,
+        "Pilotprojekt, första året"@sv .
+
+<http://publications.europa.eu/resource/authority/eu-budget-stage/PP2> a skos:Concept ;
+    at:authority-code "PP2" ;
+    at:deprecated "false" ;
+    at:op-code "PP2" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "PP2" ;
+    dc:identifier "PP2" ;
+    skos:inScheme atold:eu-budget-stage ;
+    skos:prefLabel "Пилотен проект, втора година"@bg,
+        "Pilotní projekt, druhý rok"@cs,
+        "Pilotprojekt, andet år"@da,
+        "Pilotprojekt, zweites Jahr"@de,
+        "Πιλοτικό έργο, δεύτερο έτος"@el,
+        "Pilot project second year"@en,
+        "Proyecto piloto, segundo año"@es,
+        "Katseprojekt, teisel aastal"@et,
+        "Pilottihanke, toinen vuosi"@fi,
+        "Projet pilote, deuxième année"@fr,
+        "Tionscadal píolótach, an dara bliain"@ga,
+        "Pilot-projekt, druga godina"@hr,
+        "Kísérleti projekt, második év"@hu,
+        "Progetto pilota, secondo anno"@it,
+        "Bandomasis projektas, antri metai"@lt,
+        "Izmēģinājuma projekts otrajā gadā"@lv,
+        "Proġett pilota, t-tieni sena"@mt,
+        "Proefproject, tweede jaar"@nl,
+        "Projekt pilotażowy, drugi rok"@pl,
+        "Projeto-piloto, segundo ano"@pt,
+        "Proiect pilot, al doilea an"@ro,
+        "Pilotný projek, druhý rok"@sk,
+        "Pilotni projekt, drugo leto"@sl,
+        "Pilotprojekt, andra året"@sv .
+
+atold:eu-budget-stage a skos:ConceptScheme ;
+    rdfs:label "EU budget stage"@en ;
+    at:prefLabel "EU budget stage"@en ;
+    at:table.id "eu-budget-stage" ;
+    at:table.version.number "20201216-0" ;
+    owl:versionInfo "20201216-0" ;
+    skos:prefLabel "EU budget stage"@en .
+

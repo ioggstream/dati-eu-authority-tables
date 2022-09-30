@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:at="http://publications.europa.eu/ontology/authority/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:atold="http://publications.europa.eu/resource/authority/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xml:base="http://publications.europa.eu/resource/authority/publication-accessibility">
+   <skos:ConceptScheme rdf:about="http://publications.europa.eu/resource/authority/publication-accessibility"
+                       at:table.id="publication-accessibility"
+                       at:table.version.number="20211208-0">
+      <at:prefLabel xml:lang="en">Publication accessibility</at:prefLabel>
+      <rdfs:label xml:lang="en">Publication accessibility</rdfs:label>
+      <owl:versionInfo>20211208-0</owl:versionInfo>
+      <skos:prefLabel xml:lang="en">Publication accessibility</skos:prefLabel>
+   </skos:ConceptScheme>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/publication-accessibility/EASY"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">лесен за четене</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">snadno čitelné a srozumitelné</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">letlæselig</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">einfache Sprache</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">εύληπτη μορφή</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">easy-to-read</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">lectura fácil</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">kergesti loetav</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">selkokielinen</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">facile à lire</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">soléite</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">lako razumljivo</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">könnyen érthető</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">di facile lettura</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">supaprastinta</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">viegli lasāms</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">faċli tinqara</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">gemakkelijk te begrijpen</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">łatwy do czytania i zrozumienia</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">de leitura fácil</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">ușor de citit</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">ľahko čitateľné</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">lahko berljivo</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">lättläst</skos:prefLabel>
+      <at:authority-code>EASY</at:authority-code>
+      <at:op-code>EASY</at:op-code>
+      <at:start.use>2021-12-08</at:start.use>
+      <atold:op-code>EASY</atold:op-code>
+      <dc:identifier>EASY</dc:identifier>
+      <skos:definition xml:lang="en">Publications adapted for people with difficulties related to understanding texts, such as learning disabilities, cognitive disorders, DYS disorders, dyslexia, dysgraphia, ADD/ADHD, literacy difficulties.</skos:definition>
+      <skos:definition xml:lang="fr">Publications adaptées aux personnes ayant des difficultés liées à la compréhension des textes du fait de troubles de l'apprentissage, de troubles cognitifs, de troubles DYS, de dyslexie, de dysgraphie, de TDA/H, ou du manque de maîtrise de la lecture.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/publication-accessibility"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/publication-accessibility"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/publication-accessibility/OPTIM"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">оптимизирано за достъпност</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">optimalizováno v zájmu lepší přístupnosti</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">lettilgængelig</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">optimiert für Barrierefreiheit</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">βελτιστοποίηση για λόγους προσβασιμότητας</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">optimised for accessibility</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">accesibilidad optimizada</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">juurdepääsetavuse seisukohast optimeeritud</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">saavutettavuus optimoitu</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">optimisé pour une meilleure accessibilité</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">barrfheabhsaithe ó thaobh inrochtana de</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">optimizirano za pristupačnost</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">akadálymentességre optimalizálva</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">ottimizzato per l’accessibilità</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">optimalaus prieinamumo</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">optimizēts pieejamībai</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">ottimizzata għall-aċċessibbiltà</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">geoptimaliseerd voor toegankelijkheid</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">zoptymalizowany pod względem dostępności</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">acessibilidade melhorada</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">optimizată pentru accesibilitate</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">optimalizované pre lepší prístup</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">optimizirano za dostopnost</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">optimerad för tillgänglighet</skos:prefLabel>
+      <at:authority-code>OPTIM</at:authority-code>
+      <at:op-code>OPTIM</at:op-code>
+      <at:start.use>2021-12-08</at:start.use>
+      <atold:op-code>OPTIM</atold:op-code>
+      <dc:identifier>OPTIM</dc:identifier>
+      <skos:definition xml:lang="en">Publications designed for people with visual impairments and difficulties reading print. Publications that comply with the standards and recommendations of the Web Content Accessibility Guidelines (WCAG).</skos:definition>
+      <skos:definition xml:lang="fr">Publications conçues pour les personnes déficientes visuelles ayant des difficultés à lire des caractères imprimés. Publications qui respectent les standards et les recommandations promus par le Web Content Accessibility Guidelines (WCAG).</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/publication-accessibility"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/publication-accessibility"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/publication-accessibility/OP_DATPRO"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">НЕОКОНЧАТЕЛНИ ДАННИ</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Předběžné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Midlertidige data</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Vorläufige Daten</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Προσωρινά δεδομένα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Provisional data</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Datos provisionales</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Esialgsed andmed</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Alustavat tiedot</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Données provisoires</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Sonraí sealadacha</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Privremeni podaci</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Ideiglenes adatok</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Dati provvisori</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Laikinieji duomenys</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Provizoriski dati</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Dejta provviżorja</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Voorlopige gegevens</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Dane tymczasowe</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Dados provisórios</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Date provizorii</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Predbežné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Začasni podatki</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Tillfälliga uppgifter</skos:prefLabel>
+      <at:authority-code>OP_DATPRO</at:authority-code>
+      <at:op-code>OP_DATPRO</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>OP_DATPRO</atold:op-code>
+      <dc:identifier>OP_DATPRO</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/publication-accessibility"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/publication-accessibility"/>
+   </skos:Concept>
+</rdf:RDF>

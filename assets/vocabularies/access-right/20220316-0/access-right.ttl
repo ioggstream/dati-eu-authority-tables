@@ -1,0 +1,261 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/access-right/CONFIDENTIAL> a skos:Concept ;
+    at:authority-code "CONFIDENTIAL" ;
+    at:deprecated "false" ;
+    at:op-code "CONFIDENTIAL" ;
+    at:start.use "2021-03-17" ;
+    atold:op-code "CONFIDENTIAL" ;
+    dc:identifier "CONFIDENTIAL" ;
+    skos:definition "Information that is not disclosed. Usage note: Disclosure of this data could cause damage to interested parties such as public administrations and businesses. It may refer to personal and professional information as well as to information in the context of business, commerce or trade."@en ;
+    skos:inScheme atold:access-right ;
+    skos:prefLabel "поверителен"@bg,
+        "důvěrné"@cs,
+        "fortrolig"@da,
+        "vertraulich"@de,
+        "εμπιστευτικό"@el,
+        "confidential"@en,
+        "confidencial"@es,
+        "konfidentsiaalne"@et,
+        "luottamuksellinen"@fi,
+        "confidentiel"@fr,
+        "rúnda"@ga,
+        "povjerljivo"@hr,
+        "bizalmas"@hu,
+        "riservato"@it,
+        "konfidencialus"@lt,
+        "konfidenciāls"@lv,
+        "kunfidenzjali"@mt,
+        "vertrouwelijk"@nl,
+        "poufny"@pl,
+        "confidencial"@pt,
+        "confidențial"@ro,
+        "dôverné"@sk,
+        "zaupno"@sl,
+        "konfidentiellt"@sv ;
+    skos:topConceptOf atold:access-right .
+
+<http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC> a skos:Concept ;
+    at:authority-code "NON_PUBLIC" ;
+    at:deprecated "false" ;
+    at:op-code "NON_PUBLIC" ;
+    at:start.use "2013-01-01" ;
+    atold:op-code "NON_PUBLIC" ;
+    dc:identifier "NON_PUBLIC" ;
+    skos:definition "Not publicly accessible for privacy, security or other reasons. Usage note: This category may include resources that contain sensitive or personal information."@en ;
+    skos:inScheme atold:access-right ;
+    skos:prefLabel "непубличен"@bg,
+        "neveřejné"@cs,
+        "ikke-offentlig"@da,
+        "nicht öffentlich"@de,
+        "μη δημόσιο"@el,
+        "non-public"@en,
+        "no público"@es,
+        "mitteavalik"@et,
+        "ei-julkinen"@fi,
+        "non public"@fr,
+        "neamhphoiblí"@ga,
+        "nije za javnu objavu"@hr,
+        "nem nyilvános"@hu,
+        "non pubblico"@it,
+        "neviešas"@lt,
+        "nav publisks"@lv,
+        "mhux pubbliku"@mt,
+        "niet-openbaar"@nl,
+        "niepubliczny"@pl,
+        "não público"@pt,
+        "neaccesibil publicului"@ro,
+        "neverejné"@sk,
+        "nejavno"@sl,
+        "icke-offentligt"@sv ;
+    skos:topConceptOf atold:access-right .
+
+<http://publications.europa.eu/resource/authority/access-right/NORMAL> a skos:Concept ;
+    at:authority-code "NORMAL" ;
+    at:deprecated "true" ;
+    at:end.use "2022-03-16" ;
+    at:op-code "NORMAL" ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "NORMAL" ;
+    dc:identifier "NORMAL" ;
+    skos:definition "Publicly accessible. This concept has been used in the schemas of IMMC, the Interinstitutional Metadata Maintenance Committee, as the predecessor of the current concept ‘public’."@en ;
+    skos:inScheme atold:access-right ;
+    skos:prefLabel "нормален"@bg,
+        "obvyklé"@cs,
+        "normal"@da,
+        "normal"@de,
+        "κανονικό"@el,
+        "normal"@en,
+        "normal"@es,
+        "tavaline"@et,
+        "tavanomainen"@fi,
+        "normal"@fr,
+        "normálta"@ga,
+        "tipično"@hr,
+        "normál"@hu,
+        "normale"@it,
+        "normalus"@lt,
+        "parasts"@lv,
+        "normali"@mt,
+        "normaal"@nl,
+        "zwykły"@pl,
+        "normal"@pt,
+        "normal"@ro,
+        "normálne"@sk,
+        "običajno"@sl,
+        "normal åtkomst"@sv ;
+    skos:topConceptOf atold:access-right .
+
+<http://publications.europa.eu/resource/authority/access-right/OP_DATPRO> a skos:Concept ;
+    at:authority-code "OP_DATPRO" ;
+    at:deprecated "false" ;
+    at:op-code "OP_DATPRO" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:access-right ;
+    skos:prefLabel "Неокончателни данни"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv ;
+    skos:topConceptOf atold:access-right .
+
+<http://publications.europa.eu/resource/authority/access-right/PUBLIC> a skos:Concept ;
+    at:authority-code "PUBLIC" ;
+    at:deprecated "false" ;
+    at:op-code "PUBLIC" ;
+    at:start.use "2013-01-01" ;
+    atold:op-code "PUBLIC" ;
+    dc:identifier "PUBLIC" ;
+    skos:definition "Publicly accessible by everyone. Usage note: Permissible obstacles include registration and request for API keys, as long as anyone can request such registration and/or API keys."@en ;
+    skos:inScheme atold:access-right ;
+    skos:prefLabel "публичен"@bg,
+        "veřejné"@cs,
+        "offentlig"@da,
+        "öffentlich"@de,
+        "δημόσιο"@el,
+        "public"@en,
+        "público"@es,
+        "avalik"@et,
+        "julkinen"@fi,
+        "public"@fr,
+        "poiblí"@ga,
+        "za javnu objavu"@hr,
+        "nyilvános"@hu,
+        "pubblico"@it,
+        "viešas"@lt,
+        "publiski pieejams"@lv,
+        "pubbliku"@mt,
+        "openbaar"@nl,
+        "publiczny"@pl,
+        "público"@pt,
+        "public"@ro,
+        "verejné"@sk,
+        "javno"@sl,
+        "offentligt"@sv ;
+    skos:topConceptOf atold:access-right .
+
+<http://publications.europa.eu/resource/authority/access-right/RESTRICTED> a skos:Concept ;
+    at:authority-code "RESTRICTED" ;
+    at:deprecated "false" ;
+    at:op-code "RESTRICTED" ;
+    at:start.use "2013-01-01" ;
+    atold:op-code "RESTRICTED" ;
+    dc:identifier "RESTRICTED" ;
+    skos:definition "Only available under certain conditions. Usage note: This category may include resources that require payment, resources shared under non-disclosure agreements, resources for which the publisher or owner has not yet decided if they can be publicly released."@en ;
+    skos:inScheme atold:access-right ;
+    skos:prefLabel "с ограничен достъп"@bg,
+        "vyhrazeno"@cs,
+        "til tjenestebrug"@da,
+        "eingeschränkt"@de,
+        "περιορισμένης χρήσης"@el,
+        "restricted"@en,
+        "restringido"@es,
+        "piiratud"@et,
+        "rajoitettu"@fi,
+        "restreint"@fr,
+        "teoranta"@ga,
+        "ograničen pristup"@hr,
+        "korlátozott terjesztésű"@hu,
+        "limitato"@it,
+        "taikomi ribojimai"@lt,
+        "ierobežotas pieejamības"@lv,
+        "ristrett"@mt,
+        "beperkt"@nl,
+        "zastrzeżony"@pl,
+        "restrito"@pt,
+        "cu acces restricționat"@ro,
+        "vyhradené"@sk,
+        "interno"@sl,
+        "begränsad åtkomst"@sv ;
+    skos:topConceptOf atold:access-right .
+
+<http://publications.europa.eu/resource/authority/access-right/SENSITIVE> a skos:Concept ;
+    at:authority-code "SENSITIVE" ;
+    at:deprecated "false" ;
+    at:op-code "SENSITIVE" ;
+    at:start.use "2020-03-18" ;
+    atold:op-code "SENSITIVE" ;
+    dc:identifier "SENSITIVE" ;
+    skos:definition "Sensitive non-classified (SNC) information, information whose unauthorised disclosure could cause damage to the Commission or other interested parties such as businesses, companies, intellectual property or personal data but which is not EU classified information."@en,
+        "Informations «sensibles non classifiées» (SNC), informations dont la divulgation non autorisée pourrait causer un préjudice à la Commission ou à d’autres parties intéressées telles que les entreprises, les sociétés, la propriété intellectuelle ou les données à caractère personnel, mais qui ne sont pas des informations classifiées de l’UE."@fr ;
+    skos:inScheme atold:access-right ;
+    skos:prefLabel "чувствителен"@bg,
+        "citlivé"@cs,
+        "følsom"@da,
+        "sensibel"@de,
+        "ευαίσθητο"@el,
+        "sensitive"@en,
+        "sensible"@es,
+        "tundlik"@et,
+        "arkaluonteinen"@fi,
+        "sensible"@fr,
+        "íogair"@ga,
+        "osjetljivo"@hr,
+        "érzékeny"@hu,
+        "sensibile"@it,
+        "neskelbtinas"@lt,
+        "sensitīvs"@lv,
+        "sensittiv"@mt,
+        "gevoelig"@nl,
+        "sensytywny"@pl,
+        "sensível"@pt,
+        "sensibil"@ro,
+        "citlivé"@sk,
+        "občutljivo"@sl,
+        "känsligt"@sv ;
+    skos:topConceptOf atold:access-right .
+
+atold:access-right a skos:ConceptScheme ;
+    rdfs:label "Access right"@en ;
+    at:prefLabel "Access right"@en ;
+    at:table.id "access-right" ;
+    at:table.version.number "20220316-0" ;
+    owl:versionInfo "20220316-0" ;
+    skos:prefLabel "Access right"@en .
+

@@ -1,0 +1,229 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix euvoc: <http://publications.europa.eu/ontology/euvoc#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://publications.europa.eu/resource/authority/case-status/CLOSED> a skos:Concept ;
+    at:authority-code "CLOSED" ;
+    at:deprecated "false" ;
+    at:op-code "CLOSED" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "CLOT" ;
+            dc:source "LITIGE" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "CLOSED" ;
+    dc:identifier "CLOSED" ;
+    skos:inScheme atold:case-status ;
+    skos:notation <http://publications.europa.eu/resource/authority/case-status/da49c4516948890573e9b3d087ec6b64> ;
+    skos:prefLabel "Приключено дело"@bg,
+        "Ukončená věc"@cs,
+        "Afsluttet sag"@da,
+        "Erledigte Rechtssache"@de,
+        "Περατωθείσα υπόθεση"@el,
+        "Case closed"@en,
+        "Asunto concluido"@es,
+        "Lõpetatud kohtuasi"@et,
+        "Ratkaistu asia"@fi,
+        "Affaire clôturée"@fr,
+        "Cás a bhfuil clabhsúr leis"@ga,
+        "Predmet riješen"@hr,
+        "Befejezett ügy"@hu,
+        "Causa conclusa"@it,
+        "Baigta byla"@lt,
+        "Lieta, kurā ir pabeigta tiesvedība"@lv,
+        "Kawża magħluqa"@mt,
+        "Afgesloten zaak"@nl,
+        "Sprawa zakończona"@pl,
+        "Processo concluído"@pt,
+        "Cauză finalizată"@ro,
+        "Ukončená vec"@sk,
+        "Končana zadeva"@sl,
+        "Målet är avslutat"@sv ;
+    skos:topConceptOf atold:case-status .
+
+<http://publications.europa.eu/resource/authority/case-status/OP_DATPRO> a skos:Concept ;
+    at:authority-code "OP_DATPRO" ;
+    at:deprecated "false" ;
+    at:op-code "OP_DATPRO" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:case-status ;
+    skos:prefLabel "Неокончателни данни"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv ;
+    skos:topConceptOf atold:case-status .
+
+<http://publications.europa.eu/resource/authority/case-status/PROGRESS> a skos:Concept ;
+    at:authority-code "PROGRESS" ;
+    at:deprecated "false" ;
+    at:op-code "PROGRESS" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "ENC" ;
+            dc:source "LITIGE" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "PROGRESS" ;
+    dc:identifier "PROGRESS" ;
+    skos:inScheme atold:case-status ;
+    skos:notation <http://publications.europa.eu/resource/authority/case-status/0ab9613ef9dc885e1e453c5b0c778bcf> ;
+    skos:prefLabel "Висящо дело"@bg,
+        "Projednávaná věc"@cs,
+        "Verserende sag"@da,
+        "Laufende Rechtssache"@de,
+        "Υπόθεση εν εξελίξει"@el,
+        "Case in progress"@en,
+        "Asunto pendiente"@es,
+        "Menetluses olev kohtuasi"@et,
+        "Vireillä oleva asia"@fi,
+        "Affaire en cours"@fr,
+        "Cás ar siúl"@ga,
+        "Postupak u tijeku"@hr,
+        "Folyamatban lévő ügy"@hu,
+        "Causa pendente"@it,
+        "Nagrinėjama byla"@lt,
+        "Lieta iztiesāšanas stadijā"@lv,
+        "Kawża pendenti"@mt,
+        "Aanhangige zaak"@nl,
+        "Sprawa w toku"@pl,
+        "Processo pendente"@pt,
+        "Cauză pendinte"@ro,
+        "Prejednávaná vec"@sk,
+        "Tekoča zadeva"@sl,
+        "Målet pågår"@sv ;
+    skos:topConceptOf atold:case-status .
+
+<http://publications.europa.eu/resource/authority/case-status/STAY> a skos:Concept ;
+    at:authority-code "STAY" ;
+    at:deprecated "false" ;
+    at:op-code "STAY" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "SUSP" ;
+            dc:source "LITIGE" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "STAY" ;
+    dc:identifier "STAY" ;
+    skos:inScheme atold:case-status ;
+    skos:notation <http://publications.europa.eu/resource/authority/case-status/218595b836a76e0f2b5814aa65036024> ;
+    skos:prefLabel "Спряно дело"@bg,
+        "Přerušení řízení"@cs,
+        "Udsættelse af sagen"@da,
+        "Ausgesetztes Verfahren"@de,
+        "Αναστολή της διαδικασίας"@el,
+        "Case stayed"@en,
+        "Suspensión del procedimiento"@es,
+        "Menetluse peatamine"@et,
+        "Lykätty asia"@fi,
+        "Affaire suspendue"@fr,
+        "Cás a bhfuil bac air"@ga,
+        "Prekid postupka"@hr,
+        "Felfüggesztett ügy"@hu,
+        "Causa sospesa"@it,
+        "Bylos nagrinėjimas sustabdytas"@lt,
+        "Tiesvedība apturēta"@lv,
+        "Waqfien tal-proċedimenti"@mt,
+        "Schorsing van de behandeling"@nl,
+        "Zawieszenie postępowania"@pl,
+        "Instância suspensa"@pt,
+        "Cauză suspendată"@ro,
+        "Prerušenie konania"@sk,
+        "Prekinitev postopka"@sl,
+        "Vilandeförklaring"@sv ;
+    skos:topConceptOf atold:case-status .
+
+<http://publications.europa.eu/resource/authority/case-status/WITHDRAW> a skos:Concept ;
+    at:authority-code "WITHDRAW" ;
+    at:deprecated "false" ;
+    at:op-code "WITHDRAW" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "DESIST" ;
+            dc:source "LITIGE" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "WITHDRAW" ;
+    dc:identifier "WITHDRAW" ;
+    skos:inScheme atold:case-status ;
+    skos:notation <http://publications.europa.eu/resource/authority/case-status/74ec512dc9068e596331c4359710eb19> ;
+    skos:prefLabel "Отказ от иск и оттегляне на иск или жалба"@bg,
+        "Zpětvzetí"@cs,
+        "Frafald af sagen"@da,
+        "Rücknahme"@de,
+        "Παραίτηση"@el,
+        "Discontinuance"@en,
+        "Desistimiento"@es,
+        "Hagist loobumine"@et,
+        "Kanteen peruuttaminen"@fi,
+        "Désistement"@fr,
+        "Scor"@ga,
+        "Povlačenje tužbe"@hr,
+        "Elállás"@hu,
+        "Rinuncia agli atti"@it,
+        "Ieškinio atsisakymas"@lt,
+        "Atteikšanās no prasības"@lv,
+        "Rinunzja għall-atti"@mt,
+        "Afstand van instantie"@nl,
+        "Cofnięcie skargi"@pl,
+        "Desistência"@pt,
+        "Desistare"@ro,
+        "Späťvzatie žaloby"@sk,
+        "Umik tožbe"@sl,
+        "Återkallelse av talan"@sv ;
+    skos:topConceptOf atold:case-status .
+
+<http://publications.europa.eu/resource/authority/case-status/0ab9613ef9dc885e1e453c5b0c778bcf> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2014-12-02"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "ENC" .
+
+<http://publications.europa.eu/resource/authority/case-status/218595b836a76e0f2b5814aa65036024> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2014-12-02"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "SUSP" .
+
+<http://publications.europa.eu/resource/authority/case-status/74ec512dc9068e596331c4359710eb19> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2014-12-02"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "DESIST" .
+
+<http://publications.europa.eu/resource/authority/case-status/da49c4516948890573e9b3d087ec6b64> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2014-12-02"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "CLOT" .
+
+atold:case-status a skos:ConceptScheme ;
+    rdfs:label "Case status"@en ;
+    at:prefLabel "Case status"@en ;
+    at:table.id "case-status" ;
+    at:table.version.number "20220615-0" ;
+    owl:versionInfo "20220615-0" ;
+    skos:prefLabel "Case status"@en .
+

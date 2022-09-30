@@ -1,0 +1,299 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/membership-classification/EEA> a skos:Concept ;
+    at:authority-code "EEA" ;
+    at:deprecated "false" ;
+    at:op-code "EEA" ;
+    at:start.use "1994-01-01" ;
+    atold:op-code "EEA" ;
+    dc:identifier "EEA" ;
+    skos:definition "The European Economic Area (EEA) brings together the EU Member States and three of the EFTA States. It was established by the EEA Agreement, an international agreement which enables these three EFTA States to participate fully in the Single Market. It covers the four freedoms, i.e. the free movement of goods, capital, services and persons, plus competition and state aid rules and horizontal areas related to the four freedoms."@en ;
+    skos:exactMatch <http://publications.europa.eu/resource/authority/corporate-body/EEAREA> ;
+    skos:inScheme atold:membership-classification ;
+    skos:prefLabel "Европейско икономическо пространство"@bg,
+        "Evropský hospodářský prostor"@cs,
+        "Det Europæiske Økonomiske Samarbejdsområde"@da,
+        "Europäischer Wirtschaftsraum"@de,
+        "Ευρωπαϊκός Οικονομικός Χώρος"@el,
+        "European Economic Area"@en,
+        "Espacio Económico Europeo"@es,
+        "Euroopa majanduspiirkond"@et,
+        "Euroopan talousalue"@fi,
+        "Espace économique européen"@fr,
+        "An Limistéar Eorpach Eacnamaíoch"@ga,
+        "Europski gospodarski prostor"@hr,
+        "Európai Gazdasági Térség"@hu,
+        "Spazio economico europeo"@it,
+        "Europos ekonominė erdvė"@lt,
+        "Eiropas Ekonomikas zona"@lv,
+        "Iż-żona Ekonomika Ewropea"@mt,
+        "Europese Economische Ruimte"@nl,
+        "Europejski obszar gospodarczy"@pl,
+        "Espaço Económico Europeu"@pt,
+        "Spațiul Economic European"@ro,
+        "Európsky hospodársky priestor"@sk,
+        "Evropski gospodarski prostor"@sl,
+        "Europeiska ekonomiska samarbetsområdet"@sv ;
+    skos:topConceptOf atold:membership-classification .
+
+<http://publications.europa.eu/resource/authority/membership-classification/EFTA> a skos:Concept ;
+    at:authority-code "EFTA" ;
+    at:deprecated "false" ;
+    at:op-code "EFTA" ;
+    at:start.use "1960-01-04" ;
+    atold:op-code "EFTA" ;
+    dc:identifier "EFTA" ;
+    skos:definition "The European Free Trade Association (EFTA) is an intergovernmental organisation set up for the promotion of free trade and economic integration to the benefit of its Member States. The Association manages the EFTA Convention; EFTA’s worldwide network of free trade and partnership agreements, and the European Economic Area Agreement."@en ;
+    skos:exactMatch <http://publications.europa.eu/resource/authority/corporate-body/EFTA> ;
+    skos:inScheme atold:membership-classification ;
+    skos:prefLabel "Европейска асоциация за свободна търговия"@bg,
+        "Evropské sdružení volného obchodu"@cs,
+        "Den Europæiske Frihandelssammenslutning"@da,
+        "Europäische Freihandelsassoziation"@de,
+        "Ευρωπαϊκή Ζώνη Ελεύθερων Συναλλαγών"@el,
+        "European Free Trade Association"@en,
+        "Asociación Europea de Libre Comercio"@es,
+        "Euroopa Vabakaubanduse Assotsiatsioon"@et,
+        "Euroopan vapaakauppajärjestö"@fi,
+        "Association européenne de libre-échange"@fr,
+        "Comhlachas Saorthrádála na hEorpa"@ga,
+        "Europsko udruženje slobodne trgovine"@hr,
+        "Európai Szabadkereskedelmi Társulás"@hu,
+        "Associazione europea di libero scambio"@it,
+        "Europos laisvosios prekybos asociacija"@lt,
+        "Eiropas Brīvās tirdzniecības asociācija"@lv,
+        "L-Assoċjazzjoni Ewropea tal-Kummerċ Ħieles"@mt,
+        "Europese Vrijhandelsassociatie"@nl,
+        "Europejskie Stowarzyszenie Wolnego Handlu"@pl,
+        "Associação Europeia de Comércio Livre"@pt,
+        "Asociația Europeană a Liberului Schimb"@ro,
+        "Európske združenie voľného obchodu"@sk,
+        "Evropsko združenje za prosto trgovino"@sl,
+        "Europeiska frihandelssammanslutningen"@sv ;
+    skos:topConceptOf atold:membership-classification .
+
+<http://publications.europa.eu/resource/authority/membership-classification/EU> a skos:Concept ;
+    at:authority-code "EU" ;
+    at:deprecated "false" ;
+    at:op-code "EU" ;
+    at:start.use "1951-01-01" ;
+    atold:op-code "EU" ;
+    dc:identifier "EU" ;
+    skos:definition "The European Union (EU) is both a political project and a legal organisation. It takes action in many areas affecting the daily lives of European citizens. Its policies are implemented in accordance with the rules and procedures set out in a series of Treaties."@en ;
+    skos:exactMatch <http://publications.europa.eu/resource/authority/corporate-body/EURUN> ;
+    skos:inScheme atold:membership-classification ;
+    skos:prefLabel "Европейски съюз"@bg,
+        "Evropská unie"@cs,
+        "Den Europæiske Union"@da,
+        "Europäische Union"@de,
+        "Ευρωπαϊκή Ένωση"@el,
+        "European Union"@en,
+        "Unión Europea"@es,
+        "Euroopa Liit"@et,
+        "Euroopan unioni"@fi,
+        "Union européenne"@fr,
+        "An tAontas Eorpach"@ga,
+        "Europska unija"@hr,
+        "Európai Unió"@hu,
+        "Unione europea"@it,
+        "Europos Sąjunga"@lt,
+        "Eiropas Savienība"@lv,
+        "L-Unjoni Ewropea"@mt,
+        "Europese Unie"@nl,
+        "Unia Europejska"@pl,
+        "União Europeia"@pt,
+        "Uniunea Europeană"@ro,
+        "Európska únia"@sk,
+        "Evropska unija"@sl,
+        "Europeiska unionen"@sv ;
+    skos:topConceptOf atold:membership-classification .
+
+<http://publications.europa.eu/resource/authority/membership-classification/EURO> a skos:Concept ;
+    at:authority-code "EURO" ;
+    at:deprecated "false" ;
+    at:op-code "EURO" ;
+    at:start.use "1999-01-01" ;
+    atold:op-code "EURO" ;
+    dc:identifier "EURO" ;
+    skos:definition "The euro area (or eurozone) is the monetary union of EU Member States which have adopted euro as common currency."@en ;
+    skos:inScheme atold:membership-classification ;
+    skos:prefLabel "Еврозона"@bg,
+        "Eurozóna"@cs,
+        "Euroområdet"@da,
+        "Euro-Raum"@de,
+        "Ζώνη του ευρώ"@el,
+        "Euro area"@en,
+        "Zona del euro"@es,
+        "Euroala"@et,
+        "Euroalue"@fi,
+        "Zone euro"@fr,
+        "An limistéar euro"@ga,
+        "Europodručje"@hr,
+        "Euróövezet"@hu,
+        "Zona euro"@it,
+        "Euro zona"@lt,
+        "Eurozona"@lv,
+        "Iż-żona tal-euro"@mt,
+        "Eurozone"@nl,
+        "Strefa euro"@pl,
+        "Área do euro"@pt,
+        "Zona euro"@ro,
+        "Eurozóna"@sk,
+        "Euroobmočje"@sl,
+        "Euroområdet"@sv ;
+    skos:topConceptOf atold:membership-classification .
+
+<http://publications.europa.eu/resource/authority/membership-classification/NATO> a skos:Concept ;
+    at:authority-code "NATO" ;
+    at:deprecated "false" ;
+    at:op-code "NATO" ;
+    at:start.use "1949-04-04" ;
+    atold:op-code "NATO" ;
+    dc:identifier "NATO" ;
+    skos:definition "The North Atlantic Treaty Organization (NATO) is an intergovernmental political and military alliance. NATO’s purpose is to guarantee the freedom and security of its members through political and military means."@en ;
+    skos:exactMatch <http://publications.europa.eu/resource/authority/corporate-body/NATO> ;
+    skos:inScheme atold:membership-classification ;
+    skos:prefLabel "Организация на Северноатлантическия договор"@bg,
+        "Organizace Severoatlantické smlouvy"@cs,
+        "Den Nordatlantiske Traktats Organisation"@da,
+        "Nordatlantikvertrag-Organisation"@de,
+        "Οργανισμός Βορειοατλαντικού Συμφώνου"@el,
+        "North Atlantic Treaty Organization"@en,
+        "Organización del Tratado del Atlántico Norte"@es,
+        "Põhja-Atlandi Lepingu Organisatsioon"@et,
+        "Pohjois-Atlantin liitto"@fi,
+        "Organisation du traité de l’Atlantique Nord"@fr,
+        "Eagraíocht Chonradh an Atlantaigh Thuaidh"@ga,
+        "Organizacija Sjevernoatlantskog ugovora"@hr,
+        "Észak-atlanti Szerződés Szervezete"@hu,
+        "Organizzazione del trattato del Nord Atlantico"@it,
+        "Šiaurės Atlanto sutarties organizacija"@lt,
+        "Ziemeļatlantijas Līguma organizācija"@lv,
+        "L-Organizzazzjoni tat-Trattat tal-Atlantiku tat-Tramuntana"@mt,
+        "Noord-Atlantische Verdragsorganisatie"@nl,
+        "Organizacja Paktu Północnoatlantyckiego"@pl,
+        "Organização do Tratado do Atlântico Norte"@pt,
+        "Organizaţia Tratatului Atlanticului de Nord"@ro,
+        "Severoatlantický pakt"@sk,
+        "Organizacija severnoatlantskega sporazuma"@sl,
+        "Nordatlantiska fördragsorganisationen"@sv ;
+    skos:topConceptOf atold:membership-classification .
+
+<http://publications.europa.eu/resource/authority/membership-classification/OP_DATPRO> a skos:Concept ;
+    at:authority-code "OP_DATPRO" ;
+    at:deprecated "false" ;
+    at:op-code "OP_DATPRO" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:membership-classification ;
+    skos:prefLabel "Неокончателни данни"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv ;
+    skos:topConceptOf atold:membership-classification .
+
+<http://publications.europa.eu/resource/authority/membership-classification/OTHER> a skos:Concept ;
+    at:authority-code "OTHER" ;
+    at:deprecated "false" ;
+    at:op-code "OTHER" ;
+    at:start.use "1951-01-01" ;
+    atold:op-code "OTHER" ;
+    dc:identifier "OTHER" ;
+    skos:altLabel "Annat"@sv ;
+    skos:definition "Code to be assigned when a concept cannot be specifically identified by any of the other types of membership."@en ;
+    skos:inScheme atold:membership-classification ;
+    skos:prefLabel "Друго"@bg,
+        "Jiný"@cs,
+        "Anden"@da,
+        "Andere"@de,
+        "Άλλο"@el,
+        "Other"@en,
+        "Otro"@es,
+        "Muu"@et,
+        "Muu"@fi,
+        "Autre"@fr,
+        "Eile"@ga,
+        "Drugo"@hr,
+        "Egyéb"@hu,
+        "Altro"@it,
+        "Kitas"@lt,
+        "Cits"@lv,
+        "Ieħor"@mt,
+        "Ander"@nl,
+        "Inny"@pl,
+        "Outro"@pt,
+        "Altele"@ro,
+        "Iný"@sk,
+        "Drugo"@sl,
+        "Annan"@sv ;
+    skos:topConceptOf atold:membership-classification .
+
+<http://publications.europa.eu/resource/authority/membership-classification/SCHENGEN> a skos:Concept ;
+    at:authority-code "SCHENGEN" ;
+    at:deprecated "false" ;
+    at:op-code "SCHENGEN" ;
+    at:start.use "1995-03-26" ;
+    atold:op-code "SCHENGEN" ;
+    dc:identifier "SCHENGEN" ;
+    skos:definition "The Schengen area is an area comprising European countries which have acknowledged the abolishment of their internal borders with other member countries and outside, for the free and unrestricted movement of people, goods, services, and capital, in harmony with common rules for controlling external borders and fighting criminality by strengthening common judicial system and police cooperation."@en ;
+    skos:inScheme atold:membership-classification ;
+    skos:prefLabel "Шенгенско пространство"@bg,
+        "Schengenský prostor"@cs,
+        "Schengenområdet"@da,
+        "Schengen-Raum"@de,
+        "Χώρος Σένγκεν"@el,
+        "Schengen area"@en,
+        "Espacio Schengen"@es,
+        "Schengeni ala"@et,
+        "Schengen-alue"@fi,
+        "Espace Schengen"@fr,
+        "Limistéar Schengen"@ga,
+        "Schengensko područje"@hr,
+        "Schengeni térség"@hu,
+        "Spazio Schengen"@it,
+        "Šengeno erdvė"@lt,
+        "Šengenas zona"@lv,
+        "Iż-żona Schengen"@mt,
+        "Schengengebied"@nl,
+        "Strefa Schengen"@pl,
+        "Espaço Schengen"@pt,
+        "Spațiul Schengen"@ro,
+        "Schengenský priestor"@sk,
+        "Schengensko območje"@sl,
+        "Schengenområdet"@sv ;
+    skos:topConceptOf atold:membership-classification .
+
+atold:membership-classification a skos:ConceptScheme ;
+    rdfs:label "Membership classification"@en ;
+    at:prefLabel "Membership classification"@en ;
+    at:table.id "membership-classification" ;
+    at:table.version.number "20220615-0" ;
+    owl:versionInfo "20220615-0" ;
+    skos:prefLabel "Membership classification"@en .
+

@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:at="http://publications.europa.eu/ontology/authority/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:atold="http://publications.europa.eu/resource/authority/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xml:base="http://publications.europa.eu/resource/authority/product-status">
+   <skos:ConceptScheme rdf:about="http://publications.europa.eu/resource/authority/product-status"
+                       at:table.id="product-status"
+                       at:table.version.number="20211027-0">
+      <at:prefLabel xml:lang="en">Product status</at:prefLabel>
+      <rdfs:label xml:lang="en">Product status</rdfs:label>
+      <owl:versionInfo>20211027-0</owl:versionInfo>
+      <skos:prefLabel xml:lang="en">Product status</skos:prefLabel>
+   </skos:ConceptScheme>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/product-status/DEVELOPMENT"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">в процес на разработване</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">ve fázi příprav</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">under udvikling</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">in Entwicklung</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">σε στάδιο ανάπτυξης</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">in development</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">en fase de desarrollo</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">arendamisel</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">kehitteillä</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">en cours d’élaboration</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">á fhorbairt</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">u razvoju</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">fejlesztés alatt</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">in fase di sviluppo</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">kuriama</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">izstrādes fāzē</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">f’fażi ta’ żvilupp</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">in ontwikkeling</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">na etapie opracowywania</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">em desenvolvimento</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">în dezvoltare</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">vyvíja sa</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">v razvoju</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">under utveckling</skos:prefLabel>
+      <at:authority-code>DEVELOPMENT</at:authority-code>
+      <at:op-code>DEVELOPMENT</at:op-code>
+      <at:start.use>2021-08-30</at:start.use>
+      <atold:op-code>DEVELOPMENT</atold:op-code>
+      <dc:identifier>DEVELOPMENT</dc:identifier>
+      <skos:definition xml:lang="en">The product is in the process of being developed. Its creation is still ongoing.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/product-status"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/product-status"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/product-status/MVP"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">минимален жизнеспособен продукт</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">minimální životaschopný produkt</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">minimalt levedygtigt produkt</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Minimalprodukt</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">ελάχιστο βιώσιμο προϊόν</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">minimum viable product</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">producto mínimo viable</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">minimaalne elujõuline toode</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">pienin toimiva tuote</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">produit minimum viable</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">táirge inmharthana íosta</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">minimalno održivi proizvod</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">minimálisan életképes termék</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">prodotto minimo funzionante</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">pradinis perspektyvus produktas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">minimālais dzīvotspējīgais produkts</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">prodott minimu vijabbli</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">minimaal levensvatbaar product</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">produkt o minimalnej funkcjonalności</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">produto viável mínimo</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">produs viabil minim</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">minimálny životaschopný produkt</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">minimalni proizvod</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">minsta gångbara produkt</skos:prefLabel>
+      <at:authority-code>MVP</at:authority-code>
+      <at:op-code>MVP</at:op-code>
+      <at:start.use>2021-08-30</at:start.use>
+      <atold:op-code>MVP</atold:op-code>
+      <dc:identifier>MVP</dc:identifier>
+      <skos:definition xml:lang="en">The product is in the process of providing a minimum set of features to be usable by early adopters who can then give feedback for future developments.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/product-status"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/product-status"/>
+      <skos:altLabel xml:lang="en">MVP</skos:altLabel>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/product-status/OP_DATPRO"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">НЕОКОНЧАТЕЛНИ ДАННИ</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Předběžné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Midlertidige data</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Vorläufige Daten</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Προσωρινά δεδομένα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Provisional data</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Datos provisionales</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Esialgsed andmed</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Alustavat tiedot</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Données provisoires</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Sonraí sealadacha</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Privremeni podaci</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Ideiglenes adatok</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Dati provvisori</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Laikinieji duomenys</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Provizoriski dati</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Dejta provviżorja</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Voorlopige gegevens</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Dane tymczasowe</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Dados provisórios</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Date provizorii</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Predbežné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Začasni podatki</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Tillfälliga uppgifter</skos:prefLabel>
+      <at:authority-code>OP_DATPRO</at:authority-code>
+      <at:op-code>OP_DATPRO</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>OP_DATPRO</atold:op-code>
+      <dc:identifier>OP_DATPRO</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/product-status"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/product-status"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/product-status/PHASED_OUT"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">постепенно преустановяване</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">postupně vyřazováno</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">udfaset</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Ausgelaufen</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">σε σταδιακή κατάργηση</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">phased out</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">en proceso de eliminación</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">järkjärguliselt kasutuselt kõrvaldamisel</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">poistumassa</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">supprimé progressivement</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">deireadh curtha leis de réir a chéile</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">postupno ukidanje</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">fokozatosan kivezetve</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">non più in uso</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">palaipsnis atsisakymas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">pakāpeniska pārtraukšana</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">eliminat gradwalment</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">uitgefaseerd</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">stopniowe wycofywanie</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">descontinuado</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">eliminat treptat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">postupné ukončovanie</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">opuščen</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">utfasad</skos:prefLabel>
+      <at:authority-code>PHASED_OUT</at:authority-code>
+      <at:op-code>PHASED_OUT</at:op-code>
+      <at:start.use>2021-08-30</at:start.use>
+      <atold:op-code>PHASED_OUT</atold:op-code>
+      <dc:identifier>PHASED_OUT</dc:identifier>
+      <skos:definition xml:lang="en">The product is in the process of being gradually stopped from an operational or maintenance perspectives.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/product-status"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/product-status"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/product-status/PRODUCTION"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">в процес на производство</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">ve fázi produkce</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">i produktion</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">in Produktion</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">σε στάδιο παραγωγής</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">in production</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">en fase de producción</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">tootmises</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">tuotannossa</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">en cours de production</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">á tháirgeadh</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">u proizvodnji</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">gyártás alatt</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">in fase di produzione</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">rengiama</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">ražošanas fāzē</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">f'fażi ta’ produzzjoni</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">in productie</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">na etapie produkcji</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">em produção</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">în producție</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">vyrába sa</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">v proizvodnji</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">i produktion</skos:prefLabel>
+      <at:authority-code>PRODUCTION</at:authority-code>
+      <at:op-code>PRODUCTION</at:op-code>
+      <at:start.use>2021-08-30</at:start.use>
+      <atold:op-code>PRODUCTION</atold:op-code>
+      <dc:identifier>PRODUCTION</dc:identifier>
+      <skos:definition xml:lang="en">The product is deployed in a production environment for the use by anyone.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/product-status"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/product-status"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/product-status/PRODUCT_CONCEPT"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">продуктова концепция</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">koncepce produktu</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">produktkoncept</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Produktkonzept</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">έννοια προϊόντος</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">product concept</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">concepto de producto</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">toote kontseptsioon</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">tuotteen konsepti</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">concept de produit</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">coincheap táirge</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">koncept proizvoda</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">termékkoncepció</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">concetto del prodotto</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">produkto koncepcija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">produkta koncepcija</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">kunċett tal-prodott</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">productconcept</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">koncepcja produktu</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">prova de conceito</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">concept produs</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">koncepcia produktu</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">koncept proizvoda</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">produktkoncept</skos:prefLabel>
+      <at:authority-code>PRODUCT_CONCEPT</at:authority-code>
+      <at:op-code>PRODUCT_CONCEPT</at:op-code>
+      <at:start.use>2021-08-30</at:start.use>
+      <atold:op-code>PRODUCT_CONCEPT</atold:op-code>
+      <dc:identifier>PRODUCT_CONCEPT</dc:identifier>
+      <skos:definition xml:lang="en">It is a detailed idea or representation of the product that shows the benefits the product can provide to all possible users.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/product-status"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/product-status"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/product-status/PROTOTYPE"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">прототип</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">prototyp</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">prototype</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Prototyp</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">πρωτότυπο</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">prototype</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">prototipo</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">prototüüp</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">prototyyppi</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">prototype</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">fréamhshamhail</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">prototip</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">prototípus</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">prototipo</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">prototipas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">prototips</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">prototip</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">prototype</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">prototyp</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">protótipo</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">prototip</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">prototyp</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">prototip</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">prototyp</skos:prefLabel>
+      <at:authority-code>PROTOTYPE</at:authority-code>
+      <at:op-code>PROTOTYPE</at:op-code>
+      <at:start.use>2021-08-30</at:start.use>
+      <atold:op-code>PROTOTYPE</atold:op-code>
+      <dc:identifier>PROTOTYPE</dc:identifier>
+      <skos:definition xml:lang="en">The product is developed in its first version, which can be further extended in later forms before the product is ready to be deployed in production.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/product-status"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/product-status"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/product-status/TESTING"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">в процес на тестване</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">ve fázi testování</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">gennemgår test</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">im Test</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">σε στάδιο δοκιμών</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">in test</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">en fase de pruebas</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">testimisel</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">testattavana</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">en cours de test</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">á thástáil</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">u ispitivanju</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">tesztelés alatt</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">in fase di test</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">išbandoma</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">testa fāzē</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">f'fażi tal-ittestjar</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">in testfase</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">na etapie testowania</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">em testes</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">în teste</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">testuje sa</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">v preizkušanju</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">i test</skos:prefLabel>
+      <at:authority-code>TESTING</at:authority-code>
+      <at:op-code>TESTING</at:op-code>
+      <at:start.use>2021-08-30</at:start.use>
+      <atold:op-code>TESTING</atold:op-code>
+      <dc:identifier>TESTING</dc:identifier>
+      <skos:definition xml:lang="en">The product is in the process of testing in order to validate whether it meets its business and technical requirements.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/product-status"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/product-status"/>
+   </skos:Concept>
+</rdf:RDF>

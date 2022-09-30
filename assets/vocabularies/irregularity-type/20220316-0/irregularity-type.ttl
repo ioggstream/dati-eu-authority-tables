@@ -1,0 +1,1134 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/irregularity-type/OP_DATPRO> a skos:Concept ;
+    at:op-code "OP_DATPRO" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:irregularity-type ;
+    skos:prefLabel "НЕОКОНЧАТЕЛНИ ДАННИ"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv .
+
+<http://publications.europa.eu/resource/authority/irregularity-type/ab-low> a skos:Concept ;
+    at:authority-code "ab-low" ;
+    at:deprecated "false" ;
+    at:op-code "ab-low" ;
+    at:start.use "2020-06-24" ;
+    atold:op-code "ab-low" ;
+    dc:identifier "ab-low" ;
+    skos:inScheme atold:irregularity-type ;
+    skos:prefLabel "Необосновано отхвърляне на необичайно ниските оферти"@bg,
+        "Neoprávněné odmítnutí mimořádně nízkých nabídek"@cs,
+        "Ubegrundet afvisning af unormalt lave tilbud"@da,
+        "Ungerechtfertigte Ablehnung ungewöhnlich niedriger Angebote"@de,
+        "Μη αιτιολογημένη απόρριψη ασυνήθιστα χαμηλών προσφορών"@el,
+        "Unjustified rejection of abnormally low tenders"@en,
+        "Rechazo injustificado de ofertas anormalmente bajas"@es,
+        "Ebaharilikult madala hinnaga pakkumuste põhjendamatu tagasilükkamine"@et,
+        "Poikkeuksellisen alhaisten tarjousten perusteeton hylkääminen"@fi,
+        "Rejet injustifié d’offres anormalement basses"@fr,
+        "Diúltaíodh gan bonn cirt do thairiscintí a bhí mínormálta íseal"@ga,
+        "Neopravdano odbijanje neobično niskih ponuda"@hr,
+        "Kirívóan alacsony összegű ajánlatok indokolatlan elutasítása"@hu,
+        "Rigetto ingiustificato di offerte anormalmente basse"@it,
+        "Nepagrįstas neįprastai mažos kainos pasiūlymų atmetimas"@lt,
+        "Nepamatoti lētu piedāvājumu nepamatota noraidīšana"@lv,
+        "Rifjut mhux ġustifikat ta’ offerti baxxi b’mod abnormali"@mt,
+        "Ongerechtvaardigde afwijzing van abnormaal lage inschrijvingen"@nl,
+        "Nieuzasadnione odrzucenie rażąco niskich ofert"@pl,
+        "Rejeição injustificada de propostas anormalmente baixas"@pt,
+        "Respingere nejustificată a ofertelor anormal de scăzute"@ro,
+        "Neodôvodnené zamietnutie ponúk s neobvykle nízkou cenou"@sk,
+        "Neupravičena zavrnitev neobičajno nizkih ponudb"@sl,
+        "Omotiverat avvisande av onormalt låga anbud"@sv .
+
+<http://publications.europa.eu/resource/authority/irregularity-type/ar-split> a skos:Concept ;
+    at:authority-code "ar-split" ;
+    at:deprecated "false" ;
+    at:op-code "ar-split" ;
+    at:start.use "2020-06-24" ;
+    atold:op-code "ar-split" ;
+    dc:identifier "ar-split" ;
+    skos:inScheme atold:irregularity-type ;
+    skos:prefLabel "Изкуствено разделяне на поръчките"@bg,
+        "Umělé rozdělení veřejných zakázek"@cs,
+        "Kunstig opdeling af kontrakter"@da,
+        "Künstliche Aufteilung von Verträgen"@de,
+        "Τεχνητή κατάτμηση των συμβάσεων"@el,
+        "Artificial splitting of contracts"@en,
+        "Fraccionamiento artificial de contratos"@es,
+        "Lepingute kunstlik osadeks jagamine"@et,
+        "Sopimusten keinotekoinen osittaminen"@fi,
+        "Partage artificiel des marchés"@fr,
+        "Conarthaí á roinnt go saorga"@ga,
+        "Umjetna podjela ugovora"@hr,
+        "Szerződések mesterséges felosztása"@hu,
+        "Frazionamento artificioso degli appalti"@it,
+        "Dirbtinis sutarties suskaidymas"@lt,
+        "Līgumu mākslīga sadalīšana"@lv,
+        "Qsim artifiċjali ta’ kuntratti"@mt,
+        "Kunstmatige opsplitsing van opdrachten"@nl,
+        "Sztuczne dzielenie zamówień"@pl,
+        "Fracionamento artificial dos contratos"@pt,
+        "Divizarea artificială a contractelor"@ro,
+        "Umelé rozdelenie zákaziek"@sk,
+        "Umetna delitev pogodb"@sl,
+        "Artificiell uppdelning av kontrakt"@sv .
+
+<http://publications.europa.eu/resource/authority/irregularity-type/bid-rigging> a skos:Concept ;
+    at:authority-code "bid-rigging" ;
+    at:deprecated "false" ;
+    at:op-code "bid-rigging" ;
+    at:start.use "2020-06-24" ;
+    atold:op-code "bid-rigging" ;
+    dc:identifier "bid-rigging" ;
+    skos:inScheme atold:irregularity-type ;
+    skos:prefLabel "Съглашателство при офериране (установено от служба за защита на конкуренцията / противодействие на картелите, съд или друг компетентен орган)"@bg,
+        "Kartelové dohody mezi uchazeči o veřejnou zakázku (zjištěné úřadem pro hospodářskou soutěž / protikartelovým úřadem, soudem či jiným příslušným orgánem)"@cs,
+        "Samordning af tilbudsgivning (fastslået af en konkurrence-/antikartelmyndighed, en domstol eller et andet kompetent organ)"@da,
+        "Angebotsabprache (festgestellt von einer Wettbewerbs-/Kartellbehörde, einem Gericht oder einer anderen zuständigen Stelle)"@de,
+        "Νόθευση διαγωνισμού (διαπιστωμένη από υπηρεσία ανταγωνισμού / καταπολέμησης των συμπράξεων, δικαστήριο ή άλλο αρμόδιο φορέα)"@el,
+        "Bid-rigging (established by a competition / anti-cartel office, a court or other competent body)"@en,
+        "Licitación fraudulenta (detectada por una oficina de competencia o anticártel, u otro organismo competente)"@es,
+        "Kokkumängitud pakkumine (selle tuvastab konkurentsiamet, kohus või muu pädev asutus)"@et,
+        "Tarjouskeinottelu (kilpailuviranomaisen/kartelliviraston, tuomioistuimen tai muun toimivaltaisen elimen vahvistama)"@fi,
+        "Manipulation de la procédure d'appel d'offres (établie par un office de la concurrence/anticartellisation, un tribunal ou tout autre organisme compétent)"@fr,
+        "Camastaíl tairiscintí (de réir cinneadh ó oifig iomaíochta/frithchairtéil, ó chúirt nó ó chomhlacht inniúil eile)"@ga,
+        "Namještanje ponuda (koje je utvrdio ured za zaštitu tržišnog natjecanja/borbu protiv kartela, sud ili drugo nadležno tijelo)"@hr,
+        "Ajánlattételi összejátszás (versenyhivatal/kartellellenes iroda, bíróság vagy más illetékes szerv által megállapítva)"@hu,
+        "Turbativa d'asta (accertata da un'autorità anticartello o garante della concorrenza, da un organo giurisdizionale o da un altro organismo competente)"@it,
+        "Viešojo pirkimo klastojimas (kurį nustatė konkurencijos / kovos su karteliais tarnyba, teismas arba kita kompetentinga įstaiga)"@lt,
+        "Aizliegta vienošanās (ko konstatējusi konkurences iestāde vai karteļu apkarošanas birojs, tiesa vai cita kompetentā struktūra)"@lv,
+        "Immanuvrar tal-offerti (stabbilit minn uffiċċju tal-kompetizzjoni / ta’ kontra l-kartelli, qorti jew korp kompetenti ieħor)"@mt,
+        "Offertevervalsing (vastgesteld door een mededingingsautoriteit, antikartelbureau, rechtbank of andere bevoegde instantie)"@nl,
+        "Zmowa przetargowa (stwierdzona przez urząd ochrony konkurencji / urząd antykartelowy, sąd lub inny właściwy organ)"@pl,
+        "Manipulação fraudulenta de concursos (estabelecida por um organismo responsável por concursos, por um órgão de luta contra a cartelização, por um tribunal ou por outro órgão competente)"@pt,
+        "Manipularea procedurilor de cereri de oferte (identificată de un oficiu pentru concurență/un oficiu anticartel, de o instanță sau de un alt organism competent)"@ro,
+        "Kolúzia vo verejnom obstarávaní (zistená úradom pre hospodársku súťaž/protimonopolným úradom, súdom alebo iným príslušným orgánom)"@sk,
+        "Dogovorjeno oddajanje ponudb (ki ga ugotovi urrd za varstvo konkurence, sodišče ali drug pristojni organ)"@sl,
+        "Uppgjord anbudsgivning (som konstaterats av en konkurrensmyndighet/kartellmyndighet, en domstol eller ett annat behörigt organ)"@sv .
+
+<http://publications.europa.eu/resource/authority/irregularity-type/change-eval> a skos:Concept ;
+    at:authority-code "change-eval" ;
+    at:deprecated "false" ;
+    at:op-code "change-eval" ;
+    at:start.use "2020-06-24" ;
+    atold:op-code "change-eval" ;
+    dc:identifier "change-eval" ;
+    skos:inScheme atold:irregularity-type ;
+    skos:prefLabel "Договаряне по време на процедурата за възлагане, включващо изменение на спечелилата оферта по време на оценяването"@bg,
+        "Jednání během zadávacího řízení včetně změny vítězné nabídky během hodnocení"@cs,
+        "Forhandling under tildelingsproceduren, herunder ændring af det vindende tilbud under evalueringen"@da,
+        "Verhandlungen während des Vergabeverfahrens, einschließlich Änderung des den Zuschlag erhaltenden Angebots während der Bewertung"@de,
+        "Διαπραγμάτευση κατά τη διάρκεια της διαδικασίας ανάθεσης, συμπεριλαμβανομένης της τροποποίησης της επιλεγείσας προσφοράς κατά την αξιολόγηση"@el,
+        "Negotiation during the award procedure, including modification of the winning tender during evaluation"@en,
+        "Negociación durante el procedimiento de adjudicación, con modificación de la oferta ganadora durante la evaluación"@es,
+        "Läbirääkimised hankemenetluse ajal, sealhulgas edukaks tunnistatud pakkumuse muutmine hindamise ajal"@et,
+        "Neuvottelu myöntämismenettelyn aikana, esim. valitun tarjouksen muuttaminen arvioinnin aikana"@fi,
+        "Négociation pendant la procédure d’attribution, et modification de l’offre retenue au cours de l’évaluation"@fr,
+        "Caibidlíocht le linn an nós imeachta dámhachtana, athrú ar an tairiscint bhuaiteach le linn na meastóireachta san áireamh"@ga,
+        "Pregovori tijekom postupka dodjele, uključujući izmjenu uspješne ponude tijekom ocjenjivanja"@hr,
+        "Tárgyalás az odaítélési eljárás során, beleértve a nyertes ajánlatnak az értékelés során történő módosítását"@hu,
+        "Negoziazione nel corso della procedura di aggiudicazione, comprese modifiche dell'offerta vincitrice durante la valutazione"@it,
+        "Derybos per skyrimo procedūrą, įskaitant laimėjusio pasiūlymo keitimą vertinimo metu"@lt,
+        "Piešķiršanas procedūras laikā notikušas sarunas, vērtēšanas laikā grozīts uzvarējušais piedāvājums"@lv,
+        "Negozjar waqt il-proċedura tal-għoti, inkluż modifika tal-offerta rebbieħa waqt l-evalwazzjoni"@mt,
+        "Onderhandelingen tijdens de gunningsprocedure, met inbegrip van wijziging van de winnende inschrijving tijdens de beoordeling"@nl,
+        "Negocjacje w toku postępowania o udzielenie zamówienia, w tym modyfikacja zwycięskiej oferty podczas oceny"@pl,
+        "Negociação durante o processo de adjudicação, incluindo modificação da proposta vencedora durante a avaliação"@pt,
+        "Negocierea pe durata procedurii de atribuire, inclusiv modificarea ofertei câștigătoare pe parcursul evaluării"@ro,
+        "Rokovanie počas postupu zadávania zákazky vrátane zmien víťaznej ponuky počas hodnotenia"@sk,
+        "Pogajanja med postopkom oddaje, vključno s spremembo zmagovalne ponudbe med oceno"@sl,
+        "Förhandling under tilldelningsförfarandet, inklusive ändring av det vinnande anbudet under utvärderingen"@sv .
+
+<http://publications.europa.eu/resource/authority/irregularity-type/conf-int> a skos:Concept ;
+    at:authority-code "conf-int" ;
+    at:deprecated "false" ;
+    at:op-code "conf-int" ;
+    at:start.use "2020-06-24" ;
+    atold:op-code "conf-int" ;
+    dc:identifier "conf-int" ;
+    skos:inScheme atold:irregularity-type ;
+    skos:prefLabel "Конфликт на интереси, който влияе върху резултата от процедурата за възлагане"@bg,
+        "Střet zájmů s dopadem na výsledek zadávacího řízení"@cs,
+        "Interessekonflikt med indvirkning på udfaldet af udbudsproceduren"@da,
+        "Interessenkonflikt mit Auswirkungen auf das Ergebnis des Vergabeverfahrens"@de,
+        "Σύγκρουση συμφερόντων με αντίκτυπο στο αποτέλεσμα της διαδικασίας σύναψης της δημόσιας σύμβασης"@el,
+        "Conflict of interest with impact on the outcome of the procurement procedure"@en,
+        "Conflicto de intereses que afecta al resultado del procedimiento de contratación"@es,
+        "Huvide konflikt, mis mõjutab hankemenetluse tulemust"@et,
+        "Hankintamenettelyn tulokseen vaikuttava eturistiriita"@fi,
+        "Conflit d'intérêts influençant l’issue de la procédure de passation de marché"@fr,
+        "Coinbhleacht leasa a bhfuil tionchar aige ar thoradh an nós imeachta soláthair"@ga,
+        "Sukob interesa koji utječe na ishod postupka javne nabave"@hr,
+        "A közbeszerzési eljárás eredményére hatást gyakorló összeférhetetlenség"@hu,
+        "Conflitto di interessi con incidenza sul risultato della procedura di appalto"@it,
+        "Interesų konfliktas, turintis poveikį pirkimo procedūros rezultatui"@lt,
+        "Iepirkuma procedūras iznākumu ietekmē interešu konflikts"@lv,
+        "Kunflitt tal-interessi b’impatt fuq l-eżitu tal-proċedura tal-akkwist"@mt,
+        "Belangenconflict met invloed op de uitkomst van de aanbestedingsprocedure"@nl,
+        "Konflikt interesów wpływający na wynik postępowania o udzielenie zamówienia"@pl,
+        "Conflito de interesses com impacto no resultado do processo de adjudicação"@pt,
+        "Conflict de interese cu impact asupra rezultatului procedurii de achiziții publice"@ro,
+        "Konflikt záujmov s vplyvom na výsledok verejného obstarávania"@sk,
+        "Nasprotje interesov vpliva na rezultate postopka za oddajo javnega naročila"@sl,
+        "Intressekonflikt som påverkar resultatet av upphandlingsförfarandet"@sv .
+
+<http://publications.europa.eu/resource/authority/irregularity-type/cp-mod-cond> a skos:Concept ;
+    at:authority-code "cp-mod-cond" ;
+    at:deprecated "false" ;
+    at:op-code "cp-mod-cond" ;
+    at:start.use "2020-06-24" ;
+    atold:op-code "cp-mod-cond" ;
+    dc:identifier "cp-mod-cond" ;
+    skos:inScheme atold:irregularity-type ;
+    skos:prefLabel "Състезателна процедура с договаряне, със съществено изменение на условията, представени в обявлението за поръчката или тръжните спецификации"@bg,
+        "Jednací řízení s významnou změnou podmínek stanovených v oznámení o zahájení zadávacího řízení nebo ve specifikacích pro nabídky"@cs,
+        "Udbudsprocedure med forhandling med væsentlig ændring af betingelserne fastsat i udbudsbekendtgørelsen eller tilbuddets specifikationer"@da,
+        "Vergabeverfahren mit Verhandlung mit wesentlichen Änderungen der in der Bekanntmachung oder den Spezifikationen der Ausschreibung genannten Bedingungen"@de,
+        "Ανταγωνιστική διαδικασία με διαπραγμάτευση, με ουσιαστική τροποποίηση των όρων που καθορίζονται στην προκήρυξη του διαγωνισμού ή στη συγγραφή υποχρεώσεων"@el,
+        "Competitive procedure with negotiation, with substantial modification of the conditions set out in the contract notice or tender specifications"@en,
+        "Procedimiento de licitación con negociación, con modificación sustancial de las condiciones que figuran en el anuncio de contrato o en el pliego de condiciones"@es,
+        "Konkurentsipõhine läbirääkimistega hankemenetlus, mille käigus muudetakse oluliselt hanketeates või tehnilises kirjelduses sätestatud tingimusi"@et,
+        "Huomattavasti muutettu tarjousperusteinen neuvottelumenettely ehdoista hankintailmoituksessa tai tarjouseritelmissä esitettyjä"@fi,
+        "Procédure concurrentielle avec négociation, avec modification substantielle des conditions fixées dans l’avis de marché ou le cahier des charges de l’offre"@fr,
+        "Nós imeachta iomaíoch maille le caibidlíocht, dar lean athrú mór ar na coinníollacha a bhí leagtha amach san fhógra conartha nó sna sonraíochtaí tairisceana"@ga,
+        "Postupak nadmetanja uz pregovore, sa znatnim izmjenama uvjeta navedenih u obavijesti o nadmetanju ili natječajnim specifikacijama"@hr,
+        "Tárgyalásos eljárás, jelentős módosítással"@hu,
+        "Procedura competitiva con negoziazione, con modifica sostanziale delle condizioni fissate nel bando di gara o nel capitolato d'oneri"@it,
+        "Konkurso procedūra su derybomis, kai daromi esminiai pakeitimai sutarties sąlygų, nustatytų skelbime apie pirkimą arba konkurso specifikacijose"@lt,
+        "Konkursa procedūrā ar sarunām būtiski izmainīti nosacījumi, kas izklāstīti paziņojumā par līgumu vai iepirkuma specifikācijās"@lv,
+        "Proċedura kompetittiva fin-negozjar, b’modifika sostanzjali tal-kundizzjonijiet stabbiliti fl-avviż tal-kuntratt jew fl-ispeċifikazzjonijiet tal-offerta"@mt,
+        "Mededingingsprocedure met onderhandeling, met wezenlijke wijziging van de in de aankondiging van de opdracht of het bestek vermelde voorwaarden"@nl,
+        "Procedura konkurencyjna z negocjacjami przy istotnej zmianie warunków przedstawionych w ogłoszeniu o zamówieniu lub specyfikacji istotnych warunków zamówienia"@pl,
+        "Procedimento concorrencial com negociação, com alteração substancial das condições definidas no anúncio de concurso ou no caderno de encargos"@pt,
+        "Procedura competitivă cu negociere, cu modificări substanțiale ale condițiilor stabilite în anunțul de participare sau în caietul de sarcini"@ro,
+        "Súťažné konanie s rokovaním s podstatnou zmenou podmienok stanovených v oznámení o vyhlásení verejného obstarávania alebo v špecifikáciách obstarávania"@sk,
+        "Konkurečni postopek s pogajanji z znatno spremembo"@sl,
+        "Förhandlat förfarande under konkurrens, med väsentliga ändringar av villkoren i meddelandet om upphandling eller kravspecifikationen"@sv .
+
+<http://publications.europa.eu/resource/authority/irregularity-type/elem-mod> a skos:Concept ;
+    at:authority-code "elem-mod" ;
+    at:deprecated "false" ;
+    at:op-code "elem-mod" ;
+    at:start.use "2020-06-24" ;
+    atold:op-code "elem-mod" ;
+    dc:identifier "elem-mod" ;
+    skos:inScheme atold:irregularity-type ;
+    skos:prefLabel "Изменения на елементите от поръчката, представени в обявлението за поръчката или тръжните спецификации, които изменения не са в съответствие с относимите разпоредби"@bg,
+        "Změny prvků veřejné zakázky uvedených v oznámení o zahájení zadávacího řízení nebo ve specifikacích pro nabídky, v nesouladu s příslušnými pravidly"@cs,
+        "Ændringer af de elementer i kontrakten, der er fastsat i udbudsbekendtgørelsen eller tilbuddets specifikationer, og som ikke er i overensstemmelse med de relevante regler"@da,
+        "Die Änderungen der in der Auftragsbekanntmachung oder den Spezifikationen festgelegten Bedingungen nicht mit den geltenden Vorschriften vereinbar"@de,
+        "Τροποποίηση των στοιχείων της σύμβασης που αναφέρονται στην προκήρυξη της σύμβασης ή στη συγγραφή υποχρεώσεων, κατά παράβαση των σχετικών κανόνων"@el,
+        "Modifications of the contract elements set out in the contract notice or tender specifications, not in compliance with the relevant rules"@en,
+        "Modificaciones de los elementos del contrato establecidos en el anuncio de contrato o en el pliego de condiciones incumpliendo las normas pertinentes"@es,
+        "Selliste hanketeates või tehnilises kirjelduses esitatud lepinguelementide muutmine, mis ei ole asjaomaste õigusnormidega kooskõlas"@et,
+        "Hankintailmoituksessa tai tarjouseritelmissä esitettyjä sopimuksen osia on muutettu asiaa koskevien sääntöjen vastaisesti"@fi,
+        "Modifications des éléments du marché énoncés dans l'avis de marché ou dans le cahier des charges de l’offre, en violation des règles applicables"@fr,
+        "Modhnuithe ar ghnéithe an chonartha a leagtar amach san fhógra conartha nó sna sonraíochtaí tairisceana, gan na rialacha ábhartha a chomhlíonadh"@ga,
+        "Izmjene elemenata ugovora utvrđenih u obavijesti o nadmetanju ili specifikacijama za dostavljanje ponuda neusklađene s relevantnim pravilima"@hr,
+        "Az eljárást megindító hirdetményben vagy az ajánlattételhez szükséges dokumentációban meghatározott szerződési elemeknek a vonatkozó szabályokat figyelmen kívül hagyó módosítása"@hu,
+        "Modifica degli elementi dell'appalto stabiliti nel bando di gara o nel capitolato d'oneri in maniera non conforme alle norme pertinenti"@it,
+        "Sutarties elementų, nustatytų skelbime apie pirkimą arba konkurso specifikacijose, pakeitimai neatitinka galiojančių taisyklių"@lt,
+        "Paziņojumā par līgumu vai piedāvājuma specifikācijās noteikto līguma elementu pārveidojumi, kas neatbilst attiecīgajiem noteikumiem"@lv,
+        "Modifika tal-elementi tal-kuntratt stabbiliti fl-avviż tal-kuntratt jew fl-ispeċifikazzjonijiet tekniċi, li mhumiex konformi mar-regoli rilevanti"@mt,
+        "Wijziging van elementen van de opdracht zoals beschreven in de aankondiging van de opdracht of het bestek, niet conform de toepasselijke voorschriften"@nl,
+        "Modyfikacje elementów zamówienia określonych w ogłoszeniu o zamówieniu lub w specyfikacji istotnych warunków zamówienia niezgodne z odpowiednimi przepisami"@pl,
+        "Modificação dos elementos do contrato estabelecidos no anúncio de concurso ou no caderno de encargos, em desrespeito das regras vigentes"@pt,
+        "Modificări ale elementelor contractuale prevăzute în anunțul de participare sau în caietul de sarcini, efectuate fără respectarea normelor relevante"@ro,
+        "Zmeny prvkov zákazky stanovených v oznámení o vyhlásení verejného obstarávania alebo v špecifikáciách obstarávania, ktoré nie sú v súlade s príslušnými pravidlami"@sk,
+        "Spremembe elementov naročila, navedenih v obvestilu o javnem naročilu ali razpisnih zahtevah, ki niso v skladu z ustreznimi pravili"@sl,
+        "Ändringar av delar i ett kontrakt som anges i meddelandet om upphandling eller förfrågningsunderlaget, i strid med reglerna"@sv .
+
+<http://publications.europa.eu/resource/authority/irregularity-type/eva-add-crit> a skos:Concept ;
+    at:authority-code "eva-add-crit" ;
+    at:deprecated "false" ;
+    at:op-code "eva-add-crit" ;
+    at:start.use "2020-06-24" ;
+    atold:op-code "eva-add-crit" ;
+    dc:identifier "eva-add-crit" ;
+    skos:inScheme atold:irregularity-type ;
+    skos:prefLabel "Оценяване с използване на допълнителни критерии за възлагане, които не са били публикувани"@bg,
+        "Hodnocení s použitím dodatečných kritérií pro zadání, která nebyla uveřejněna"@cs,
+        "Evaluering ved hjælp af yderligere tildelingskriterier, der ikke blev offentliggjort"@da,
+        "Bewertung unter Rückgriff auf zusätzliche Zuschlagskriterien, die nicht veröffentlicht worden waren"@de,
+        "Αξιολόγηση βάσει πρόσθετων κριτηρίων ανάθεσης τα οποία δεν είχαν δημοσιευτεί"@el,
+        "Evaluation using additional award criteria that were not published"@en,
+        "Evaluación utilizando criterios de adjudicación adicionales que no han sido publicados"@es,
+        "Pakkumuste hindamine täiendavate hindamiskriteeriumide alusel, mida ei avaldatud"@et,
+        "Julkaisemattomien lisäperusteiden käyttö arvioinnissa sopimuksen myöntämiseksi"@fi,
+        "Évaluation des offres au moyen de critères d’attribution supplémentaires non publiés"@fr,
+        "Meastóireacht de réir critéir dhámhachtana bhreise nár foilsíodh"@ga,
+        "Ocjenjivanje primjenom dodatnih kriterija za odabir koji nisu objavljeni"@hr,
+        "További, nem közzétett értékelési szempontok alapján történő értékelés"@hu,
+        "Valutazione secondo ulteriori criteri di aggiudicazione che non sono stati pubblicati"@it,
+        "Vertinimas taikant papildomus nepaskelbtus sutarties sudarymo kriterijus"@lt,
+        "Vērtēšanā izmantoti papildu piešķiršanas kritēriji, kas nebija publicēti"@lv,
+        "Evalwazzjoni bl-użu ta’ kriterji tal-għoti addizzjonali li ma kinux ġew ippubblikati"@mt,
+        "Beoordeling aan de hand van aanvullende gunningscriteria die niet zijn bekendgemaakt"@nl,
+        "Ocena na podstawie dodatkowych kryteriów udzielenia zamówienia, których nie opublikowano"@pl,
+        "Avaliação efetuada com critérios de adjudicação adicionais que não foram publicados"@pt,
+        "Evaluarea în baza unor criterii de atribuire suplimentare care nu au fost publicate"@ro,
+        "Hodnotenie s použitím dodatočných kritérií na vyhodnotenie ponúk, ktoré neboli uverejnené"@sk,
+        "Ocena z uporabo dodatnih meril za oddajo, ki niso bila objavljena"@sl,
+        "Utvärdering med användning av ytterligare tilldelningskriterier som inte offentliggjorts"@sv .
+
+<http://publications.europa.eu/resource/authority/irregularity-type/eva-diff-crit> a skos:Concept ;
+    at:authority-code "eva-diff-crit" ;
+    at:deprecated "false" ;
+    at:op-code "eva-diff-crit" ;
+    at:start.use "2020-06-24" ;
+    atold:op-code "eva-diff-crit" ;
+    dc:identifier "eva-diff-crit" ;
+    skos:inScheme atold:irregularity-type ;
+    skos:prefLabel "Оценяване на офертите по критерии за възлагане, които са различни от посочените в обявлението за поръчката или в тръжните спецификации"@bg,
+        "Hodnocení nabídek s použitím kritérií pro zadání, jež se liší od kritérií uvedených v oznámení o zahájení zadávacího řízení nebo ve specifikacích pro nabídky"@cs,
+        "Evaluering af tilbud ved anvendelse af tildelingskriterier, der adskiller sig fra dem, der er angivet i udbudsbekendtgørelsen eller udbudsbetingelserne"@da,
+        "Bewertung der Angebote mit anderen Zuschlagskriterien als in der Vergabebekanntmachung oder den Verdingungsunterlagen ausgeführt"@de,
+        "Αξιολόγηση των προσφορών βάσει κριτηρίων ανάθεσης διαφορετικών από εκείνα που αναφέρονται στην προκήρυξη της σύμβασης ή στη συγγραφή υποχρεώσεων"@el,
+        "Evaluation of tenders using award criteria that are different from the ones stated in the contract notice or tender specifications"@en,
+        "Evaluación de las ofertas utilizando criterios de adjudicación diferentes de los que figuran en el anuncio de contrato o en el pliego de condiciones"@es,
+        "Pakkumuste hindamine hindamiskriteeriumide alusel, mis erinevad hanketeates või tehnilises kirjelduses avaldatud kriteeriumidest"@et,
+        "Tarjousten arvioiminen hankinta-ilmoituksesta tai tarjouseritelmästä poikkeavilla sopimuksen myöntämisperusteilla"@fi,
+        "Évaluation des offres au moyen de critères d’attribution différents de ceux figurant dans l’avis de marché ou le cahier des charges de l’offre"@fr,
+        "Meastóireacht ar thairiscintí de réir critéir nach ionann iad agus na critéir atá sonraithe san fhógra conartha nó sna sonraíochtaí tairisceana"@ga,
+        "Ocjenjivanje ponuda primjenom kriterija za odabir koji se razlikuju od kriterija navedenih u obavijesti o nadmetanju ili natječajnim specifikacijama"@hr,
+        "Az ajánlatoknak a szerződésről szóló hirdetményben vagy az ajánlattételhez szükséges dokumentációban foglaltaktól eltérő értékelési szempontok alapján való értékelése"@hu,
+        "Valutazione delle offerte in base a criteri di aggiudicazione differenti da quelli pubblicati nel bando di gara o nel capitolato d'oneri"@it,
+        "Pasiūlymų vertinimas taikant kitus, nei nurodyti skelbime apie pirkimą arba pirkimo specifikacijose, sutarties sudarymo kriterijus"@lt,
+        "Piedāvājumu vērtēšanā izmantoti piešķiršanas kritēriji, kas ir atšķirīgi no līguma paziņojumā vai iepirkuma specifikācijās norādītajiem"@lv,
+        "Evalwazzjoni tal-offerti bl-użu ta’ kriterji tal-għoti li jkunu differenti minn dawk iddikjarati fl-avviż tal-kuntratt jew fl-ispeċifikazzjonijiet tal-offerti"@mt,
+        "Beoordeling van inschrijvingen aan de hand van gunningscriteria die verschillen van de criteria in de aankondiging van de opdracht of het bestek"@nl,
+        "Ocena ofert na podstawie kryteriów udzielenia zamówienia różniących się od kryteriów określonych w ogłoszeniu o zamówieniu lub specyfikacji istotnych warunków zamówienia"@pl,
+        "Avaliação das propostas com critérios de adjudicação diferentes dos indicados no anúncio de concurso ou no caderno de encargos"@pt,
+        "Evaluarea ofertelor în baza unor criterii de atribuire diferite de cele indicate în anunțul de participare sau în caietul de sarcini"@ro,
+        "Hodnotenie ponúk s použitím kritérií na vyhodnotenie ponúk, ktoré sa líšia od tých, ktoré sa uvádzajú v oznámení o vyhlásení verejného obstarávania alebo v špecifikáciách obstarávania"@sk,
+        "Ocena ponudb z merili za oddajo, ki se razlikujejo od meril v obvestilu o javnem naročilu ali razpisnih specifikacijah"@sl,
+        "Utvärdering av anbud med användning av tilldelningskriterier som skiljer sig från de tilldelningskriterier som anges i meddelandet om upphandling eller i förfrågningsunderlaget"@sv .
+
+<http://publications.europa.eu/resource/authority/irregularity-type/formal> a skos:Concept ;
+    at:authority-code "formal" ;
+    at:deprecated "false" ;
+    at:op-code "formal" ;
+    at:start.use "2020-06-24" ;
+    atold:op-code "formal" ;
+    dc:identifier "formal" ;
+    skos:inScheme atold:irregularity-type ;
+    skos:prefLabel "Формална"@bg,
+        "Formání"@cs,
+        "Formel"@da,
+        "Formale Gründe"@de,
+        "Τυπική"@el,
+        "Formal"@en,
+        "Formal"@es,
+        "Ametlik"@et,
+        "Muodollinen"@fi,
+        "Forme"@fr,
+        "Foirmiúil"@ga,
+        "Formalni razlozi"@hr,
+        "Formai"@hu,
+        "Formale"@it,
+        "Formalus"@lt,
+        "Formāls pārkāpums"@lv,
+        "Formali"@mt,
+        "Formeel"@nl,
+        "Błąd formalny"@pl,
+        "Formal"@pt,
+        "Formală"@ro,
+        "Formálna"@sk,
+        "Formalno"@sl,
+        "Formfel"@sv .
+
+<http://publications.europa.eu/resource/authority/irregularity-type/ins-audit> a skos:Concept ;
+    at:authority-code "ins-audit" ;
+    at:deprecated "false" ;
+    at:op-code "ins-audit" ;
+    at:start.use "2020-06-24" ;
+    atold:op-code "ins-audit" ;
+    dc:identifier "ins-audit" ;
+    skos:inScheme atold:irregularity-type ;
+    skos:prefLabel "Недостатъчна одитна следа за възлагането на поръчката"@bg,
+        "Nedostatečná auditní stopa pro zadání veřejné zakázky"@cs,
+        "Utilstrækkeligt kontrolspor for tildeling af kontrakten"@da,
+        "Unzureichender Prüfpfad für die Auftragsvergabe"@de,
+        "Ανεπαρκής διαδρομή ελέγχου για την ανάθεση της σύμβασης"@el,
+        "Insufficient audit trail for the award of the contract"@en,
+        "Pista de auditoria insuficiente para la adjudicación del contrato"@es,
+        "Ebapiisav kontrolljälg lepingu sõlmimise kohta"@et,
+        "Sopimuksen myöntämiseen liittyvä jäljitysketju on riittämätön"@fi,
+        "Piste d’audit insuffisante pour l’attribution du marché"@fr,
+        "Rian iniúchóireachta neamhleor chun an conradh a dhámhachtain"@ga,
+        "Nedostatan revizijski trag za dodjelu ugovora"@hr,
+        "A szerződés odaítélésének nem megfelelő ellenőrzési nyomvonala"@hu,
+        "Pista di controllo insufficiente in relazione all'aggiudicazione dell'appalto"@it,
+        "Nepakankama sutarties sudarymo audito seka"@lt,
+        "Revīzijas liecības nav pietiekamas līgumslēgšanas tiesību piešķiršanai"@lv,
+        "Rekord tal-awditjar insuffiċjenti għall-għoti tal-kuntratt"@mt,
+        "Ontoereikend auditspoor voor de gunning van de opdracht"@nl,
+        "Niewystarczająca ścieżka audytu na potrzeby udzielenia zamówienia"@pl,
+        "Pista de auditoria insuficiente para a adjudicação do contrato"@pt,
+        "Pistă de audit insuficientă pentru atribuirea contractului"@ro,
+        "Nedostatočný audítorský záznam týkajúci sa zadania zákazky"@sk,
+        "Nezadostna revizijska sled za oddajo javnega naročila"@sl,
+        "Otillräcklig verifieringskedja för kontraktstilldelning"@sv .
+
+<http://publications.europa.eu/resource/authority/irregularity-type/insuf-timl> a skos:Concept ;
+    at:authority-code "insuf-timl" ;
+    at:deprecated "false" ;
+    at:op-code "insuf-timl" ;
+    at:start.use "2020-06-24" ;
+    atold:op-code "insuf-timl" ;
+    dc:identifier "insuf-timl" ;
+    skos:inScheme atold:irregularity-type ;
+    skos:prefLabel "Недостатъчно време, предоставено на потенциалните оференти/кандидати за получаване на документацията за поръчката"@bg,
+        "Nedostatečná lhůta poskytnutá potenciálním uchazečům/zájemcům pro získání zadávací dokumentace"@cs,
+        "Ikke nok tid for potentielle tilbudsgivere/ansøgere til at indhente udbudsdokumenterne"@da,
+        "Nicht genug Zeit für potenzielle Bieter/Bewerber, um die Auftragsunterlagen zu erhalten"@de,
+        "Ανεπαρκής χρόνος για την παραλαβή των εγγράφων της δημόσιας σύμβασης από τους δυνητικούς προσφέροντες/υποψήφιους"@el,
+        "Insufficient time for potential tenderers/candidates to obtain the procurement documents"@en,
+        "Tiempo insuficiente para que los posibles licitadores/candidatos obtengan los documentos de contratación"@es,
+        "Ebapiisav aeg potentsiaalsetele pakkujatele/taotlejatele hankedokumentide omandamiseks"@et,
+        "Mahdollisilla tarjoajilla/ehdokkailla ei ole riittävästi aikaa hankinta-asiakirjojen hankkimiseen"@fi,
+        "Délai d’obtention des documents de marché insuffisant pour les soumissionnaires/candidats éventuels"@fr,
+        "Gan go leor ama ag tairgeoirí/iarrthóirí ionchasacha chun na doiciméid soláthair a fháil"@ga,
+        "Nedovoljno vremena koje potencijalni ponuditelji/natjecatelji imaju za dobivanje dokumentacije o nabavi"@hr,
+        "A potenciális ajánlattevőknek/részvételre jelentkezőknek nem áll rendelkezésre elegendő idő a közbeszerzési dokumentumok beszerzésére"@hu,
+        "Tempo insufficiente affinché i potenziali offerenti o candidati ottengano la documentazione di gara"@it,
+        "Galimi konkurso dalyviai ir (arba) kandidatai neturėjo pakankamai laiko gauti pirkimo dokumentus"@lt,
+        "Nepietiekams laiks potenciālajiem pretendentiem/kandidātiem iepirkuma procedūras dokumentu saņemšanai"@lv,
+        "Żmien insuffiċjenti biex l-offerenti/il-kandidati jiksbu d-dokumenti tal-akkwist"@mt,
+        "Onvoldoende tijd voor potentiële inschrijvers/kandidaten om de aanbestedingsstukken te verkrijgen"@nl,
+        "Niezapewnienie potencjalnym oferentom/kandydatom wystarczającego czasu na uzyskanie dokumentów zamówienia"@pl,
+        "Tempo insuficiente para os potenciais proponentes/candidatos obterem os documentos do concurso"@pt,
+        "Potențialii ofertanți/candidați nu dispun de suficient timp pentru a obține documentele de achiziție"@ro,
+        "Nedostatočný čas pre potenciálnych uchádzačov/záujemcov na získanie súťažných podkladov"@sk,
+        "Premalo časa, da bi možni ponudniki/kandidati pridobili dokumentacijo v zvezi z oddajo javnega naročila"@sl,
+        "Otillräckligt med tid för potentiella anbudsgivare/anbudssökande att erhålla upphandlingsdokumenten"@sv .
+
+<http://publications.europa.eu/resource/authority/irregularity-type/irr-involv> a skos:Concept ;
+    at:authority-code "irr-involv" ;
+    at:deprecated "false" ;
+    at:op-code "irr-involv" ;
+    at:start.use "2020-06-24" ;
+    atold:op-code "irr-involv" ;
+    dc:identifier "irr-involv" ;
+    skos:inScheme atold:irregularity-type ;
+    skos:prefLabel "Нередно предварително участие на кандидати или оференти в отношения с купувача"@bg,
+        "Neoprávněná předchozí účast zájemců nebo uchazečů ve vztahu ke kupujícímu"@cs,
+        "Uregelmæssig forudgående involvering af kandidater eller tilbudsgivere i forhold til køberen"@da,
+        "Unregelmäßige vorherige Einbeziehung der Bewerber oder Bieter seitens des Beschaffers"@de,
+        "Παράτυπη προηγούμενη εμπλοκή υποψηφίων ή προσφερόντων με τον αγοραστή"@el,
+        "Irregular prior involvement of candidates or tenderers with the buyer"@en,
+        "Vinculación previa irregular de candidatos o licitadores con el comprador"@es,
+        "Kandidaatide või pakkujate varasemad ebaseaduslikud suhted hankijaga"@et,
+        "Ehdokkaiden tai tarjoajien sääntöjenvastaiset yhteydet ostajaan"@fi,
+        "Participation préalable irrégulière de candidats ou de soumissionnaires auprès de l’acheteur"@fr,
+        "Baint neamhrialta ag iarrthóirí nó ag tairgeoirí leis an gceannaitheoir roimh ré"@ga,
+        "Nepravilna prethodna suradnja natjecatelja ili ponuditelja s kupcem"@hr,
+        "A részvételre jelentkezők vagy ajánlattevők szabálytalan előzetes részvétele az ajánlatkérőnél"@hu,
+        "Precedenti relazioni irregolari di candidati o offerenti con il committente"@it,
+        "Neteisėtas išankstinis kandidatų ir arba konkurso dalyvių dalyvavimas pirkėjo veikloje"@lt,
+        "Kandidātu vai pretendentu nelikumīga iepriekšēja iesaiste"@lv,
+        "Involviment irregolari minn qabel tal-kandidati jew tal-offerenti max-xerrej"@mt,
+        "Onregelmatige voorafgaande betrokkenheid van gegadigden of inschrijvers met de koper"@nl,
+        "Niezgodne z przepisami wcześniejsze związki kandydatów lub oferentów z nabywcą"@pl,
+        "Envolvimento prévio irregular dos candidatos ou proponentes com o adquirente"@pt,
+        "Interacțiunea prealabilă ilegală a candidaților sau a ofertanților cu cumpărătorul"@ro,
+        "Neregulárne predchádzajúce vzťahy medzi záujemcami alebo uchádzačmi a kupujúcim"@sk,
+        "Neregularno predhodno sodelovanje kandidatov ali ponudnikov s kupcem"@sl,
+        "Oriktigt tidigare involvering av anbudssökande eller anbudsgivare med köparen"@sv .
+
+<http://publications.europa.eu/resource/authority/irregularity-type/mod-inco> a skos:Concept ;
+    at:authority-code "mod-inco" ;
+    at:deprecated "false" ;
+    at:op-code "mod-inco" ;
+    at:start.use "2020-06-24" ;
+    atold:op-code "mod-inco" ;
+    dc:identifier "mod-inco" ;
+    skos:inScheme atold:irregularity-type ;
+    skos:prefLabel "Критериите за подбор или техническите спецификации са били изменени след отварянето на офертите или са били неправилно приложени"@bg,
+        "Kritéria pro výběr nebo technické specifikace byly ve fázi výběru pozměněny nebo byly během fáze výběru uplatněny nesprávně"@cs,
+        "Udvælgelseskriterier eller tekniske specifikationer blev modificeret efter åbning af tilbud eller blev anvendt forkert"@da,
+        "Die Eignungskriterien oder technischen Spezifikationen wurden nach Öffnung der Angebote geändert oder nicht korrekt angewendet"@de,
+        "Τα κριτήρια επιλογής ή οι τεχνικές προδιαγραφές τροποποιήθηκαν μετά την αποσφράγιση των προσφορών ή εφαρμόστηκαν εσφαλμένα"@el,
+        "Selection criteria or technical specifications were modified after opening of tenders or were incorrectly applied"@en,
+        "Criterios de selección o especificaciones técnicas modificados después de la apertura de las ofertas o aplicados incorrectamente"@es,
+        "Kvalifitseerimistingimusi (või tehnilist kirjeldust) on pärast pakkumuste avamist muudetud või valesti kohaldatud"@et,
+        "Valintaperusteiden tai teknisten eritelmien muuttaminen tarjousten avaamisen jälkeen tai niiden virheellinen soveltaminen"@fi,
+        "Critères de sélection ou spécifications techniques modifiés après l’ouverture des offres ou appliqués de manière incorrecte"@fr,
+        "Rinneadh na critéir roghnúcháin nó na sonraíochtaí teicniúla a athrú tar éis oscailt na tréimhse tairisceana nó cuireadh i bhfeidhm go mícheart iad"@ga,
+        "Kriteriji za odabir ili tehničke specifikacije izmijenjeni su nakon otvaranja ponuda ili su nepravilno primijenjeni"@hr,
+        "Az alkalmassági követelményeket vagy a műszaki leírásokat az ajánlatok felbontása után módosították, vagy azokat nem megfelelően alkalmazták"@hu,
+        "Criteri di selezione o specifiche tecniche sottoposti a modifica dopo l'apertura delle offerte oppure applicati in modo scorretto"@it,
+        "Atrankos kriterijų arba techninių specifikacijų pakeitimas atplėšus vokus su pasiūlymais arba netinkamas taikymas"@lt,
+        "Atlases kritēriji vai tehniskās specifikācijas tikušas grozītas pēc piedāvājumu atvēršanas vai tikušas piemērotas nepareizi"@lv,
+        "Il-kriterji tal-għażla jew l-ispeċifikazzjonijiet tekniċi ġew modifikati wara l-ftuħ tas-sejħa għall-offerti jew ma ġewx applikati b’mod korrett"@mt,
+        "De selectiecriteria of de technische specificaties zijn na de opening van de inschrijvingen gewijzigd of zijn onjuist toegepast"@nl,
+        "Kryteria kwalifikacji lub specyfikacje techniczne zostały zmienione po otwarciu ofert lub były nieprawidłowo stosowane"@pl,
+        "Os critérios de seleção ou as especificações técnicas foram modificados após a abertura das propostas ou foram incorretamente aplicados"@pt,
+        "Criteriile de selecție sau specificațiile tehnice au fost modificate după deschiderea ofertelor sau au fost aplicate incorect"@ro,
+        "Podmienky účasti alebo technické špecifikácie boli zmenené po otvorení ponúk alebo sa nesprávne uplatnili"@sk,
+        "Pogoj za sodelovanje ali tehnične specifikacije so bili odpiranju ponudb ali so bili nepravilni uporabljeni"@sl,
+        "Urvalskriterierna eller de tekniska specifikationerna ändrades efter att anbuden öppnades eller tillämpades felaktigt"@sv .
+
+<http://publications.europa.eu/resource/authority/irregularity-type/nc-proc-eap> a skos:Concept ;
+    at:authority-code "nc-proc-eap" ;
+    at:deprecated "false" ;
+    at:op-code "nc-proc-eap" ;
+    at:start.use "2020-06-24" ;
+    atold:op-code "nc-proc-eap" ;
+    dc:identifier "nc-proc-eap" ;
+    skos:inScheme atold:irregularity-type ;
+    skos:prefLabel "Неспазване на процедурата за електронните и комбинираните поръчки, установена в Директивата"@bg,
+        "Nedodržení postupu stanoveného ve směrnici pro elektronické a souhrnné zadávání veřejných zakázek"@cs,
+        "Manglende overholdelse af proceduren i direktivet om elektronisk og aggregeret indkøb"@da,
+        "Verstoß gegen das Vefahren, das in der Richtlinie für die elektronische Auftragsvergabe und für Sammelbeschaffungen vorgesehen ist"@de,
+        "Μη συμμόρφωση με τη διαδικασία που προβλέπει η οδηγία για τις ηλεκτρονικές και συγκεντρωτικές διαδικασίες σύναψης συμβάσεων"@el,
+        "Non-compliance with the procedure established in the Directive for electronic and aggregated procurement"@en,
+        "No conformidad con el procedimiento establecido en la Directiva para la contratación electrónica y agregada"@es,
+        "Direktiiviga kehtestatud elektroonilise või koondhankemenetluse rikkumine"@et,
+        "Sähköisiä ja yhdistettyjä hankintoja koskevassa direktiivissä vahvistetun menettelyn noudattamatta jättäminen"@fi,
+        "Non-respect de la procédure établie dans la directive pour les marchés électroniques et aggrégés"@fr,
+        "Neamhchomhlíonadh an nós imeachta a leagtar síos sa Treoir maidir leis an soláthar leictreonach agus comhiomlánaithe"@ga,
+        "Nesukladnost s postupkom utvrđenim u Direktivi za elektroničku i zbirnu nabavu"@hr,
+        "Az elektronikus és az összetett beszerzésre vonatkozóan az irányelvben meghatározott eljárás be nem tartása"@hu,
+        "Inosservanza della procedura stabilita nella direttiva per gli appalti elettronici e aggregati"@it,
+        "Direktyvoje nustatytos elektroninių ir grupinių pirkimų procedūros nesilaikymas"@lt,
+        "Neatbilstība procedūrai, kas direktīvā noteikta attiecībā uz elektronisko un apvienoto iepirkumu"@lv,
+        "Nuqqas ta’ konformità mal-proċedura stabbilita fid-Direttiva dwar l-akkwist elettroniku u aggregat"@mt,
+        "Niet-naleving van de in de richtlijn vastgestelde procedure voor elektronische en samengestelde aanbesteding"@nl,
+        "Nieprzestrzeganie procedury ustanowionej w dyrektywie w odniesieniu do zamówień elektronicznych i zagregowanych"@pl,
+        "Não cumprimento do procedimento estabelecido na diretiva sobre a contratação pública eletrónica e agregada"@pt,
+        "Nerespectarea procedurii stabilite în Directiva privind achizițiile electronice și agregate"@ro,
+        "Nedodržanie postupu stanoveného v smernici o elektronickom a hromadnom obstarávaní"@sk,
+        "Neupoštevanje postopka, določenega v direktivi za elektronska in skupna javna naročila"@sl,
+        "Förfarandet i direktivet för elektronisk och gemensam upphandling har inte följts"@sv .
+
+<http://publications.europa.eu/resource/authority/irregularity-type/nc-timl> a skos:Concept ;
+    at:authority-code "nc-timl" ;
+    at:deprecated "false" ;
+    at:op-code "nc-timl" ;
+    at:start.use "2020-06-24" ;
+    atold:op-code "nc-timl" ;
+    dc:identifier "nc-timl" ;
+    skos:inScheme atold:irregularity-type ;
+    skos:prefLabel "Неспазване на сроковете за получаване на офертите или заявленията за участие"@bg,
+        "Nedodržení lhůt pro podání nabídek nebo lhůt pro podání žádostí o účast"@cs,
+        "Manglende overholdelse af frister for modtagelse af tilbud eller frister for modtagelse af anmodninger om deltagelse"@da,
+        "Nichteinhaltung der Fristen für den Eingang der Angebote oder der Fristeen für den Eingang der Anträge auf Teilnahme"@de,
+        "Μη συμμόρφωση με τις προθεσμίες παραλαβής των προσφορών ή με τις προσθεσμίες για την παραλαβή των αιτήσεων συμμετοχής"@el,
+        "Non-compliance with time limits for receipt of tenders or time limits for receipt of requests to participate"@en,
+        "Incumplimiento de los plazos para la recepción de ofertas o de solicitudes de participación"@es,
+        "Pakkumuste või osalemistaotluste laekumise tähtaja rikkumine"@et,
+        "Tarjousten tai osallistumishakemusten jättämismääräaikojen noudattamatta jättäminen"@fi,
+        "Non-respect des délais de réception des offres ou des demandes de participation"@fr,
+        "Neamhchomhlíonadh na dteorainneacha ama chun tairiscintí a fháil nó na dteorainneacha ama chun hiarratais ar rannpháirtíocht a fháil"@ga,
+        "Nesukladnost s rokovima za zaprimanje ponuda ili rokovima za zaprimanje zahtjeva za sudjelovanje"@hr,
+        "Az ajánlatok beérkezésére vonatkozó határidő vagy a részvételi jelentkezések beérkezésére vonatkozó határidő megsértése"@hu,
+        "Inosservanza dei termini per la ricezione delle offerte o dei termini per la ricezione delle domande di partecipazione"@it,
+        "Pasiūlymų arba prašymų leisti dalyvauti priėmimo terminų nesilaikymas"@lt,
+        "Neatbilstība piedāvājumu vai dalības pieprasījumu saņemšanas termiņiem"@lv,
+        "Nuqqas ta’ konformità mal-limiti ta’ żmien għall-wasla tal-offerti jew mal-limiti ta’ żmien għall-wasla tat-talbiet għall-parteċipazzjoni"@mt,
+        "Niet-naleving van de termijnen voor de ontvangst van inschrijvingen of termijnen voor de ontvangst van verzoeken tot deelname"@nl,
+        "Nieprzestrzeganie terminów składania ofert lub terminów składania wniosków o dopuszczenie do udziału"@pl,
+        "Não cumprimento dos prazos para a receção das propostas ou para a receção dos pedidos de participação"@pt,
+        "Nerespectarea termenelor pentru primirea ofertelor sau a termenelor pentru primirea cererilor de participare"@ro,
+        "Nedodržanie lehôt na predkladanie ponúk alebo žiadostí o účasť"@sk,
+        "Neupoštevanje rokov za prejem ponudb ali prijav za sodelovanje"@sl,
+        "Överträdelse av tidsfrister för mottagande av anbudsansökningar eller tidsfrister för mottagande av anbudsansökningar"@sv .
+
+<http://publications.europa.eu/resource/authority/irregularity-type/ncompl-awcrit> a skos:Concept ;
+    at:authority-code "ncompl-awcrit" ;
+    at:deprecated "false" ;
+    at:op-code "ncompl-awcrit" ;
+    at:start.use "2020-06-24" ;
+    atold:op-code "ncompl-awcrit" ;
+    dc:identifier "ncompl-awcrit" ;
+    skos:inScheme atold:irregularity-type ;
+    skos:prefLabel "Липса на достатъчно подробно описание на критериите за възлагане и техните тегла"@bg,
+        "Neuvedení dostatečně podrobného popisu kritérií pro zadání a jejich váhy"@cs,
+        "Manglende beskrivelse af tildelingskriterierne og deres vægtning"@da,
+        "Keine ausreichend detaillierte Beschreibung der Zuschlagskriterien und ihrer Gewichtung"@de,
+        "Μη παροχή επαρκώς αναλυτικής περιγραφής των κριτηρίων ανάθεσης και της αντίστοιχης στάθμισης"@el,
+        "Failure to describe in sufficient detail the award criteria and their weighting"@en,
+        "Ausencia de descripción suficientemente detallada de los criterios de adjudicación y su ponderación"@es,
+        "Lepingu sõlmimise kriteeriumide ja nende osakaalu kirjeldamata jätmine"@et,
+        "Sopimuksen myöntämisperusteita ja niiden painotusta ei ole täsmennetty riittävästi"@fi,
+        "Énoncé insuffisamment détaillé des critères d’attribution et de leur pondération"@fr,
+        "Easpa grinnis sa tuairisc ar na critéir dhámhachtana agus ar an ualú a ghabhann leo"@ga,
+        "Kriteriji za dodjelu ugovora i njihovi ponderi nisu dovoljno detaljno opisani"@hr,
+        "Az értékelési szempontok és azok súlyozásának megfelelő részletességgel történő ismertetésének elmulasztása"@hu,
+        "Descrizione non sufficientemente dettagliata dei criteri di aggiudicazione e della relativa ponderazione"@it,
+        "Nepakankamai išsamus skyrimo kriterijų ir jų lyginamųjų svorių aprašymas"@lt,
+        "Piešķiršanas kritēriji un to svērums nav aprakstīti pietiekami detalizēti"@lv,
+        "Nuqqas ta’ deskrizzjoni tal-kriterji tal-għoti u tal-ponderazzjoni tagħhom b’dettall suffiċjenti"@mt,
+        "Niet voldoende gedetailleerd beschrijven van de gunningscriteria en de weging ervan"@nl,
+        "Brak przedstawienia wystarczająco szczegółowego opisu kryteriów udzielenia zamówienia i ich wagi"@pl,
+        "Não descrição, com nível de pormenor suficiente, dos critérios de adjudicação e respetiva ponderação"@pt,
+        "Lipsa unei descrieri suficient de detaliate a criteriilor de atribuire și a ponderii acestora"@ro,
+        "Nedostatočne podrobný opis kritérií na vyhodnotenie ponúk a ich váhy"@sk,
+        "Nezadostno podroben opis meril za oddajo naročila in njihovih ponderjev"@sl,
+        "Underlåtenhet att beskriva tilldelningskriterierna och viktningen av dem tillräckligt detaljerat"@sv .
+
+<http://publications.europa.eu/resource/authority/irregularity-type/ncompl-cn> a skos:Concept ;
+    at:authority-code "ncompl-cn" ;
+    at:deprecated "false" ;
+    at:op-code "ncompl-cn" ;
+    at:start.use "2020-06-24" ;
+    atold:op-code "ncompl-cn" ;
+    dc:identifier "ncompl-cn" ;
+    skos:inScheme atold:irregularity-type ;
+    skos:prefLabel "Непубликуване в обявлението за поръчка на техническите спецификации, критериите за подбор, критериите за възлагане (и техните тегла) или условията за изпълнение на поръчката"@bg,
+        "Neuveřejnění technických specifikací, kvalifikačních kritérií pro výběr, kritérií pro zadání (a jejich vah) nebo podmínek plnění veřejné zakázky v oznámení o zahájení zadávacího řízení"@cs,
+        "Manglende offentliggørelse i udbudsbekendtgørelsen af de tekniske specifikationer, udvælgelseskriterierne, tildelingskriterierne (og vægtningen heraf) eller bestemmelserne om kontraktens opfyldelse"@da,
+        "Nichtveröffentlichung der technischen Spezifikationen, der Eignungs- und/oder Zuschlagskriterien (und ihrer Gewichtung) oder der Bedingungen für die Auftragsausführung in der Auftragsbekanntmachung"@de,
+        "Μη δημοσίευση στην προκήρυξη διαγωνισμού των τεχνικών προδιαγραφών, των κριτηρίων επιλογής, των κριτηρίων ανάθεσης (και της στάθμισής τους) ή των όρων εκτέλεσης της σύμβασης"@el,
+        "Failure to publish in the contract notice the technical specifications, selection criteria, award criteria (and their weighing), or contract performance conditions"@en,
+        "No publicación en el anuncio de contrato de las especificaciones técnicas, los criterios de selección, los criterios de adjudicación (y su ponderación) o las condiciones de ejecución del contrato"@es,
+        "Tehniliste kirjelduste, kvalifitseerimistingimuste, pakkumuste hindamise kriteeriumide (ja nende osakaalude) või lepingu täitmise tingimuste hanketeates avaldamata jätmine"@et,
+        "Hankintailmoituksessa ei ole julkistettu teknisiä eritelmiä, valintaperusteita, sopimuksen myöntämisperusteita (ja niiden painotusta) tai sopimuksen täytäntöönpanoehtoja"@fi,
+        "Non-publication dans l’avis de marché des spécifications techniques, des critères de sélection, des critères d’attribution (et de leur pondération) ou des conditions d’exécution du marché"@fr,
+        "Gan na sonraíochtaí teicniúla, na critéir roghnúcháin, na critéir dhámhachtana (agus an t-ualú a ghabhann leo), nó coinníollacha feidhmíochta an chonartha a fhoilsiú san fhógra conartha"@ga,
+        "Tehničke specifikacije, kriteriji za odabir, kriteriji za dodjelu (i njihovi ponderi) ili uvjeti za izvršenje ugovora nisu objavljeni u obavijesti o nadmetanju"@hr,
+        "A műszaki leírásoknak, az alkalmassági követelményeknek, az értékelési szempontoknak (és azok súlyának) illetve a szerződésteljesítés feltételeinek a szerződésről szóló hirdetményben való közzétételének elmaradása"@hu,
+        "Mancata pubblicazione nel bando di gara delle specifiche tecniche, dei criteri di selezione, dei criteri di aggiudicazione (e della relativa ponderazione) o delle condizioni di esecuzione dell'appalto"@it,
+        "Techninių specifikacijų, atrankos kriterijų, skyrimo kriterijų (ir jų lygynamųjų svorių) arba sutarties vykdymo sąlygų nepaskelbimas skelbime apie pirkimą"@lt,
+        "Paziņojumā par līgumu nav publicētas tehniskās specifikācijas, atlases kritēriji, piešķiršanas kritēriji (un to svērums ) vai līguma izpildes nosacījumi"@lv,
+        "Nuqqas ta’ pubblikazzjoni tal-ispeċifikazzjonijiet tekniċi, tal-kriterji tal-għażla, tal-kriterji tal-għoti (u tal-ponderazzjoni tagħhom), jew tal-kundizzjonijiet tat-twettiq tal-kuntratt, fl-avviż tal-kuntratt"@mt,
+        "Het niet in de aankondiging van de opdracht bekendmaken van de technische specificaties, de selectiecriteria, de gunningscriteria (en de weging ervan) of de uitvoeringsvoorwaarden van de opdracht"@nl,
+        "Nieopublikowanie w ogłoszeniu o zamówieniu specyfikacji technicznych, kryteriów kwalifikacji, kryteriów udzielenia zamówienia (i ich wagi) lub warunków realizacji zamówienia"@pl,
+        "Não publicação, no anúncio de concurso, das especificações técnicas, dos critérios de seleção, dos critérios de adjudicação (e respetiva ponderação) e das condições de execução do contrato"@pt,
+        "Nepublicarea în anunțul de participare a specificațiilor tehnice, a criteriilor de selecție, a criteriilor de atribuire (și a ponderării acestora) sau a condițiilor de executare a contractului"@ro,
+        "Neuverejnenie technických špecifikácií, podmienok účasti, kritérií na vyhodnotenie ponúk (a ich váhy) alebo podmienok plnenia zmluvy v oznámení o vyhlásení verejného obstarávania"@sk,
+        "Neobjava tehničnih specifikacij, meril za izbor, meril za oddajo naročila (in njihovih ponderjev) ali pogojev za izvedbo naročila v obvestilu o javnem naročilu"@sl,
+        "Underlåtenhet att i meddelandet om upphandling offentliggöra de tekniska specifikationerna, selekteringskriterierna, tilldelningskriterierna (och deras vägning) eller villkoren för fullgörande av kontraktet"@sv .
+
+<http://publications.europa.eu/resource/authority/irregularity-type/ncompl-com> a skos:Concept ;
+    at:authority-code "ncompl-com" ;
+    at:deprecated "false" ;
+    at:op-code "ncompl-com" ;
+    at:start.use "2020-06-24" ;
+    atold:op-code "ncompl-com" ;
+    dc:identifier "ncompl-com" ;
+    skos:inScheme atold:irregularity-type ;
+    skos:prefLabel "Несъобщаване и/или непубликуване на разяснения и/или допълнителна информация"@bg,
+        "Nesdělení a/nebo neuveřejnění objasnění a/nebo dodatečných informací"@cs,
+        "Manglende meddelelse og/eller offentliggørelse af præciseringer og/eller supplerende oplysninger"@da,
+        "Fehlende Mitteilung/Bekanntgabe von Klarstellungen und/oder zusätzlichen Informationen"@de,
+        "Μη κοινοποίηση και/ή μη δημοσίευση διευκρινίσεων και/ή πρόσθετων πληροφοριών"@el,
+        "Failure to communicate and/or publish clarifications and/or additional information"@en,
+        "No comunicación o no publicación de aclaraciones o información adicional"@es,
+        "Selgituste ja/või lisateabe edastamata ja/või avaldamata jätmine"@et,
+        "Täsmennyksistä ja/tai lisätiedoista ei ole tiedotettu ja/tai niitä ei ole julkaistu"@fi,
+        "Non-communication et/ou non-publication de clarifications et/ou d'informations complémentaires"@fr,
+        "Gan soiléirithe agus/nó faisnéis bhreise a chur in iúl nó a fhoilsiú"@ga,
+        "Nisu dostavljena i/ili objavljena pojašnjenja i/ili dodatne informacije"@hr,
+        "Pontosításokra és/vagy további információkra vonatkozó tájékoztatás és/vagy közzététel elmaradása"@hu,
+        "Mancata comunicazione e/o pubblicazione di chiarimenti e/o informazioni supplementari"@it,
+        "Nepranešimas apie paaiškinimus ir (arba) papildomą informaciją ir (arba) jų nepaskelbimas"@lt,
+        "Nav paziņoti un/vai publicēti skaidrojumi un/vai papildu informācija"@lv,
+        "Nuqqas ta’ komunikazzjoni u/jew ta’ pubblikazzjoni ta’ kjarifiki u/jew ta’ informazzjoni addizzjonali"@mt,
+        "Niet meedelen en/of bekendmaken van verduidelijkingen en/of aanvullende informatie"@nl,
+        "Brak przekazania i/lub publikacji wyjaśnień i/lub dodatkowych informacji"@pl,
+        "Não comunicação e/ou não publicação de esclarecimentos e/ou informações adicionais"@pt,
+        "Necomunicarea și/sau nepublicarea de clarificări și/sau informații suplimentare"@ro,
+        "Neoznámenie a/alebo neuverejnenie vysvetlení a/alebo dodatočných informácií"@sk,
+        "Nesporočanje in/ali neobjava pojasnil in/ali dodatnih informacij"@sl,
+        "Underlåtenhet att meddela eller offentliggöra klargöranden eller ytterligare information"@sv .
+
+<http://publications.europa.eu/resource/authority/irregularity-type/ncompl-sub> a skos:Concept ;
+    at:authority-code "ncompl-sub" ;
+    at:deprecated "false" ;
+    at:op-code "ncompl-sub" ;
+    at:start.use "2020-06-24" ;
+    atold:op-code "ncompl-sub" ;
+    dc:identifier "ncompl-sub" ;
+    skos:inScheme atold:irregularity-type ;
+    skos:prefLabel "Недостатъчно или неточно определение на предмета на поръчката"@bg,
+        "Nedostatečné či nepřesné vymezení předmětu veřejné zakázky"@cs,
+        "Utilstrækkelig eller upræcis afgrænsning af kontraktens genstand"@da,
+        "Unzureichende oder ungenaue Definition des Auftragsgegenstands"@de,
+        "Ανεπαρκής ή ανακριβής ορισμός του αντικειμένου της σύμβασης"@el,
+        "Insufficient or imprecise definition of the subject matter of the contract"@en,
+        "Definición insuficiente o imprecisa del objeto del contrato"@es,
+        "Lepingu eseme ebapiisav või ebatäpne määratlemine"@et,
+        "Sopimuksen kohteen määrittäminen on riittämätöntä tai epätarkkaa"@fi,
+        "Définition insuffisante ou imprécise de l’objet du marché"@fr,
+        "Easpa grinnis nó cruinnis maidir le sainiú ábhar an chonartha"@ga,
+        "Nedostatna ili neprecizna definicija predmeta ugovora"@hr,
+        "A szerződés tárgyának nem megfelelő vagy pontatlan meghatározása"@hu,
+        "Definizione insufficiente o imprecisa dell'oggetto dell'appalto"@it,
+        "Nepakankamas arba netikslus sutarties dalyko apibrėžimas"@lt,
+        "Līguma priekšmets nav pietiekami vai precīzi definēts"@lv,
+        "Definizzjoni insuffiċjenti jew mhux preċiża tas-suġġett tal-kuntratt"@mt,
+        "Onvoldoende of onduidelijke omschrijving van het voorwerp van de opdracht"@nl,
+        "Niewystarczająca lub nieprecyzyjna definicja przedmiotu zamówienia"@pl,
+        "Definição insuficiente ou imprecisa do objeto do contrato"@pt,
+        "Definirea insuficientă sau imprecisă a obiectului contractului"@ro,
+        "Nedostatočné alebo nepresné vymedzenie predmetu zákazky"@sk,
+        "Nezadostna ali nenatančna opredelitev predmeta naročila"@sl,
+        "Otillräcklig eller otydlig definition av kontraktsföremålet"@sv .
+
+<http://publications.europa.eu/resource/authority/irregularity-type/no-notice> a skos:Concept ;
+    at:authority-code "no-notice" ;
+    at:deprecated "false" ;
+    at:op-code "no-notice" ;
+    at:start.use "2020-06-24" ;
+    atold:op-code "no-notice" ;
+    dc:identifier "no-notice" ;
+    skos:inScheme atold:irregularity-type ;
+    skos:prefLabel "Непубликуване на обявление за поръчка или необосновано пряко възлагане"@bg,
+        "Nezveřejnění oznámení o zahájení zadávacího řízení nebo neoprávněné přímé zadání veřejné zakázky"@cs,
+        "Manglende offentliggørelse af udbudsbekendtgørelse eller uberettiget direkte tildeling"@da,
+        "Auftragsbekanntmachung nicht veröffentlicht oder ungerechtfertigte direkte Auftragsvergabe"@de,
+        "Μη δημοσίευση προκήρυξης διαγωνισμού ή αδικαιολόγητη απευθείας ανάθεση"@el,
+        "Lack of publication of contract notice or unjustified direct award"@en,
+        "No publicación de anuncio de contrato o adjudicación directa injustificada"@es,
+        "Hanketeate avaldamata jätmine või põhjendamatu lepingu sõlmimine pakkumismenetlust korraldamata"@et,
+        "Hankintailmoituksen julkaisematta jättäminen tai perusteeton suorahankinta"@fi,
+        "Non-publication de l’avis de marché ou attribution directe injustifiée"@fr,
+        "Gan fógra conartha a bheith foilsithe nó dámhachtain dhíreach gan bonn cirt"@ga,
+        "Neobjavljivanje obavijesti o nadmetanju ili neopravdana izravna dodjela"@hr,
+        "Az eljárást megindító hirdetmény közzétételének elmulasztása vagy indokolatlan közvetlen odaítélés"@hu,
+        "Mancata pubblicazione del bando di gara o assegnazione diretta ingiustificata"@it,
+        "Apie pirkimą nebuvo paskelbta arba sutartis nepagrįstai sudaryta tiesiogiai"@lt,
+        "Paziņojuma par līgumu nepublicēšana vai nepamatota tieša līgumslēgšanas tiesību piešķiršana"@lv,
+        "Nuqqas ta’ pubblikazzjoni ta’ avviż ta’ kuntratt jew ta' għoti dirett mhux ġustifikat"@mt,
+        "Niet-bekendmaking aankondiging van opdracht of ongerechtvaardigde onderhandse gunning"@nl,
+        "Brak publikacji ogłoszenia o zamówieniu lub nieuzasadnione bezpośrednie udzielenie zamówienia"@pl,
+        "Não publicação do anúncio de concurso ou adjudicação direta injustificada"@pt,
+        "Lipsa publicării anunțului de participare sau atribuire directă nejustificată"@ro,
+        "Neuverejnenie oznámenia o vyhlásení verejného obstarávania alebo neodôvodnené uzavretie zmluvy"@sk,
+        "Neobjava obvestila o javnem naročilu ali neupravičena neposredna dodelitev"@sl,
+        "Avsaknad av offentliggörande av meddelande om upphandling eller omotiverad direkt tilldelning"@sv .
+
+<http://publications.europa.eu/resource/authority/irregularity-type/noex-addinfo> a skos:Concept ;
+    at:authority-code "noex-addinfo" ;
+    at:deprecated "false" ;
+    at:op-code "noex-addinfo" ;
+    at:start.use "2020-06-24" ;
+    atold:op-code "noex-addinfo" ;
+    dc:identifier "noex-addinfo" ;
+    skos:inScheme atold:irregularity-type ;
+    skos:prefLabel "Неудължаване на сроковете за получаване на офертите или исканията за участие, когато допълнителната информация – макар че е поискана своевременно от икономическия оператор – не е предоставена най-късно шест дни преди крайния срок"@bg,
+        "Neprodloužení lhůt pro podání nabídek nebo žádostí o informace, nejsou-li poskytnuty dodatečné informace, ačkoliv si je hospodářský subjekt včas vyžádal, nejpozději šest dnů před uplynutím lhůty"@cs,
+        "Manglende forlængelse af frister for modtagelse af tilbud eller ansøgninger om deltagelse, hvis der ikke foreligger supplerende oplysninger mindst seks dage før fristen, skønt den økonomiske operatør i god tid har annmodet herom"@da,
+        "Nichtverlängerung der Fristen für den Eingang der Angebote oder der Teilnahmeanträge, wenn vom Wirtschaftsteilnehmer rechtzeitig angeforderte Zusatzinformationen nicht spätestens sechs Tage vor der festgesetzten Frist zur Verfügung gestellt werden"@de,
+        "Μη παράταση των προθεσμιών παραλαβής των προσφορών ή των αιτήσεων συμμετοχής όταν οι πρόσθετες πληροφορίες, αν και ζητήθηκαν από τον οικονομικό φορέα σε εύθετο χρόνο, δεν έχουν παρασχεθεί το αργότερο έξι ημέρες πριν από την προθεσμία"@el,
+        "Failure to extend time limits for receipt of tenders or requests to participate where additional information, although requested by the economic operator in good time, is not supplied at the latest six days before the time limit"@en,
+        "No ampliación de los plazos para la recepción de ofertas o de solicitudes de participación en caso de que no se haya proporcionado información adicional al menos seis meses antes de la fecha límite, a pesar de haber sido solicitada por el operador económico a su debido tiempo"@es,
+        "Pakkumuste või osalemistaotluste laekumise tähtaja pikendamata jätmine juhul, kui ei edastatud lisateavet hiljemalt kuus päeva enne pakkumuste laekumiseks kehtestatud tähtaega, kuigi ettevõtjad taotlesid lisateavet õigeaegselt"@et,
+        "Tarjousten tai osallistumishakemusten määräaikojen jatkamatta jättäminen lisätietoja varten, kun lisätietoja ei anneta viimeistään kuusi päivää ennen määräaikaa, vaikka talouden toimija on pyytänyt niitä hyvissä ajoin"@fi,
+        "Non-prolongation des délais de réception des offres ou des demandes d'information, alors que les informations complémentaires, demandées à temps par l’opérateur économique, n’ont pas été fournies au moins six jours avant l'expiration du délai"@fr,
+        "Gan síneadh a chur leis na teorainneacha ama chun tairiscintí nó iarratais ar rannpháirtíocht a fháil i gcás nár soláthraíodh faisnéis bhreise sé lá ar a dhéanaí roimh an teorainn ama, d’ainneoin í a bheith iarrtha in am trátha ag an oibreoir eacnamaíoch"@ga,
+        "Neproduljenje rokova za zaprimanje ponuda ili zahtjeva za sudjelovanje ako dodatne informacije, iako ih je gospodarski subjekt pravodobno zatražio, nisu dostavljene najkasnije šest dana prije roka"@hr,
+        "Az ajánlatok vagy a részvételi jelenkezések beérkezésére vonatkozó határidő meghosszabbításának elmulasztása, ha a gazdasági szereplő által időben kért további információt a határidő előtt legkésőbb hat nappal nem biztosítják"@hu,
+        "Mancata proroga dei termini per la ricezione delle offerte o delle domande di partecipazione nel caso in cui le informazioni supplementari, seppur richieste in tempo utile dall'operatore economico, non sono fornite al più tardi sei giorni prima del termine stabilito"@it,
+        "Pasiūlymų arba informacijos prašymų priėmimo termino nepratęsimas, kai likus ne daugiau kaip šešioms dienoms iki termino ekonominės veiklos vykdytojui nepateikta jo laiku paprašyta papildoma informacija"@lt,
+        "Nav pagarināts piedāvājumu vai dalības pieprasījumu saņemšanas termiņš, lai gan papildu informācija, ko ekonomikas dalībnieks pieprasījis laikus, nav sniegta, vēlākais, 6 dienas pirms saņemšanas termiņa"@lv,
+        "Nuqqas ta’ estensjoni tal-limiti ta’ żmien għall-wasla tal-offerti jew tat-talbiet għall-parteċipazzjoni, fejn l-informazzjoni addizzjonali, minkejja li tkun intalbet minn ferm qabel mill-operatur ekonomiku, ma tiġix ipprovduta sa mhux iktar tard minn sitt ijiem qabel il-limitu ta’ żmien"@mt,
+        "Het niet verlengen van de termijnen voor de ontvangst van inschrijvingen of verzoeken tot deelname in gevallen waarin aanvullende informatie, hoewel tijdig aangevraagd door de ondernemer, niet uiterlijk zes dagen voor het verstrijken van de termijn is verstrekt"@nl,
+        "Nieprzedłużenie terminów składania ofert lub wniosków o dopuszczenie do udziału, w przypadku gdy nie dostarczono dodatkowych informacji najpóźniej sześć dni przed terminem, pomimo że wykonawca zwrócił się o nie w odpowiednim czasie"@pl,
+        "Não alargamento dos prazos para a receção das propostas ou dos pedidos de participação nos casos em que informações adicionais, embora pedidas a tempo pelo operador económico, não foram fornecidas no máximo 6 dias antes do prazo"@pt,
+        "Neprelungirea termenelor pentru primirea ofertelor sau a cererilor de participare în cazul în care informațiile suplimentare, cu toate că au fost solicitate de operatorul economic în timp util, nu au fost furnizate cu cel puțin șase zile înaintea termenului"@ro,
+        "Nepredĺženie lehôt na predkladanie ponúk alebo žiadostí o účasť, ak došlo k tomu, že hoci hospodársky subjekt požiadal o dodatočné informácie včas, tieto informácie neboli poskytnuté najneskôr šesť dní pred uplynutím lehoty"@sk,
+        "Nepodaljšanje roka za prejem ponudb ali prijav za sodelovanje, kadar dodatne informacije, ki jih je gospodarski subjekt sicer pravočasno zahteval, niso predložene najpozneje šest dni pred rokom"@sl,
+        "Tidsfristerna för mottagande av anbud eller anbudsansökningar förlängdes inte, när kompletterande information som av den ekonomiska aktören begärts i god tid av något skäl inte lämnas senast sex dagar före tidsfristen"@sv .
+
+<http://publications.europa.eu/resource/authority/irregularity-type/noex-timl> a skos:Concept ;
+    at:authority-code "noex-timl" ;
+    at:deprecated "false" ;
+    at:op-code "noex-timl" ;
+    at:start.use "2020-06-24" ;
+    atold:op-code "noex-timl" ;
+    dc:identifier "noex-timl" ;
+    skos:inScheme atold:irregularity-type ;
+    skos:prefLabel "Неудължаване на сроковете за получаване на офертите или заявленията за участие, когато в документацията за поръчката са направени значителни промени"@bg,
+        "Neprodloužení lhůt pro podání nabídek nebo lhůt pro podání žádostí o účast, pokud byly v zadávací dokumentaci provedeny významné změny"@cs,
+        "Manglende forlængelse af frister for modtagelse af tilbud eller ansøgninger om deltagelse, hvor der foretages væsentlige ændringer i udbudsdokumenterne"@da,
+        "Nichtverlängerung der Fristen für den Eingang der Angebote, wenn an den Auftragsunterlagen wesentliche Änderungen vorgenommen werden"@de,
+        "Μη παράταση των προθεσμιών παραλαβής των προσφορών ή των αιτήσεων συμμετοχής σε περίπτωση σημαντικών αλλαγών στα έγγραφα της δημόσιας σύμβασης"@el,
+        "Failure to extend time limits for receipt of tenders or requests to participate where significant changes are made to the procurement documents"@en,
+        "No ampliación de los plazos para la recepción de ofertas o de solicitudes de participación en caso de cambios importantes en los documentos de contratación"@es,
+        "Pakkumuste või osalemistaotluste laekumise tähtaja pikendamata jätmine hankedokumentides oluliste muudatuste tegemisel"@et,
+        "Tarjousten tai osallistumishakemusten määräaikojen jatkamatta jättäminen, kun hankinta-asiakirjoihin on tehty suuria muutoksia"@fi,
+        "Non-prolongation des délais de réception des offres ou des demandes de participation, alors que des changements importants sont apportés aux documents de marché"@fr,
+        "Gan síneadh a chur leis na teorainneacha ama chun tairiscintí nó iarratais ar rannpháirtíocht a fháil i gcás athruithe móra ar na doiciméid soláthair"@ga,
+        "Neproduljenje rokova za zaprimanje ponuda ili zahtjeva za sudjelovanje ako je dokumentacija o nabavi znatno promijenjena"@hr,
+        "Az ajánlatok vagy a részvételi jelentkezések beérkezésére vonatkozó határidők meghosszabbításának elmulasztása a közbeszerzési dokumentumok jelentős változtatása esetén"@hu,
+        "Mancata proroga dei termini per la ricezione delle offerte o delle domande di partecipazione qualora siano state apportate modifiche significative alla documentazione di gara"@it,
+        "Pasiūlymų arba dalyvavimo prašymų priėmimo termino nepratęsimas, kai pirkimo dokumentuose padaroma esminių pakeitimų"@lt,
+        "Nav pagarināts piedāvājumu vai dalības pieprasījumu saņemšanas termiņš, lai gan iepirkuma dokumentos veiktas būtiskas izmaiņas"@lv,
+        "Nuqqas ta’ estensjoni tal-limiti ta’ żmien għall-wasla tal-offerti jew tal-limiti ta’ żmien għall-wasla tat-talbiet għall-parteċipazzjoni fejn ikunu saru bidliet sinifikanti fid-dokumenti tal-akkwist"@mt,
+        "Het niet verlengen van de termijnen voor de ontvangst van inschrijvingen of verzoeken tot deelname wanneer aanzienlijke wijzigingen in de aanbestedingsstukken zijn aangebracht"@nl,
+        "Nieprzedłużenie terminów składania ofert lub wniosków o dopuszczenie do udziału w przypadku dokonania istotnych zmian w dokumentach zamówienia"@pl,
+        "Não alargamento dos prazos para a receção das propostas ou dos pedidos de participação nos casos em que foram introduzidas alterações significativas nos documentos do concurso"@pt,
+        "Neprelungirea termenelor pentru primirea ofertelor sau a cererilor de participare în cazul unor modificări semnificative aduse documentelor achiziției"@ro,
+        "Nepredĺženie lehôt na predkladanie ponúk alebo žiadostí o účasť, ak sa vykonali významné zmeny v súťažných podkladoch"@sk,
+        "Nepodaljšanje roka za prejem ponudb ali prijav za sodelovanje v primeru večjih sprememb javnega naročila"@sl,
+        "Underlåtenhet att förlänga tidsfristerna för mottagande av anbud eller anbudsansökningar när betydande ändringar görs i upphandlingsdokumenten"@sv .
+
+<http://publications.europa.eu/resource/authority/irregularity-type/nojust-nolots> a skos:Concept ;
+    at:authority-code "nojust-nolots" ;
+    at:deprecated "false" ;
+    at:op-code "nojust-nolots" ;
+    at:start.use "2020-06-24" ;
+    atold:op-code "nojust-nolots" ;
+    dc:identifier "nojust-nolots" ;
+    skos:inScheme atold:irregularity-type ;
+    skos:prefLabel "Липса на обосновка за неразделяне на поръчката на обособени позиции"@bg,
+        "Nedostatečné odůvodnění nerozdělení veřejné zakázky na části"@cs,
+        "Manglende begrundelse for ikke at opdele en kontrakt i delkontrakter"@da,
+        "Fehlende Begründung der Entscheidung, keine Unterteilung in Lose vorzunehmen"@de,
+        "Έλλειψη αιτιολόγησης για τη μη διαίρεση σύμβασης σε τμήματα"@el,
+        "Lack of justification for not subdividing contract into lots"@en,
+        "Ausencia de justificación por no subdividir un contrato en lotes"@es,
+        "Hankelepingu osadeks jagamata jätmise põhjendamatus"@et,
+        "Ei perusteita sopimuksen eriin jakamatta jättämiselle"@fi,
+        "Absence de justification de la non-subdivision du marché en lots"@fr,
+        "Easpa boinn cirt maidir le gan conradh a fhoroinnt ina luchtóga"@ga,
+        "Nepostojanje opravdanja za to što ugovor nije razdijeljen u grupe"@hr,
+        "A szerződés részekre bontásának elmaradására vonatkozó indoklás hiánya"@hu,
+        "Mancanza di giustificazione dell'omessa suddivisione di un appalto in lotti"@it,
+        "Sutarties nesuskirstymo į dalis nepagrindimas"@lt,
+        "Trūkst pamatojuma tam, kāpēc līgums nav sadalīts daļās"@lv,
+        "Nuqqas ta’ ġustifikazzjoni għan-nuqqas ta’ sottodiviżjoni tal-kuntratt f’lottijiet"@mt,
+        "Ontbreken van motivering voor het niet in percelen verdelen van een opdracht"@nl,
+        "Brak uzasadnienia powodu, dla którego zamówienia nie podzielono na części"@pl,
+        "Falta de justificação para a não subdivisão do contrato em lotes"@pt,
+        "Lipsa unei justificări pentru neîmpărțirea unui contract în loturi"@ro,
+        "Nedostatočné odôvodnenie nerozdelenia zákazky na časti"@sk,
+        "Manjka utemeljitev za razdelitev naročila na sklope"@sl,
+        "Avsaknad av skäl att inte dela in ett kontrakt i delar"@sv .
+
+<http://publications.europa.eu/resource/authority/irregularity-type/npub-limit> a skos:Concept ;
+    at:authority-code "npub-limit" ;
+    at:deprecated "false" ;
+    at:op-code "npub-limit" ;
+    at:start.use "2020-06-24" ;
+    atold:op-code "npub-limit" ;
+    dc:identifier "npub-limit" ;
+    skos:inScheme atold:irregularity-type ;
+    skos:prefLabel "Непубликуване на сведения за удължените срокове за получаване на офертите или заявленията за участие"@bg,
+        "Neuveřejnění prodloužených lhůt pro podání nabídek nebo žádostí o účast"@cs,
+        "Manglende offentliggørelse af forlænge frister for modtagelse af tilbud eller ansøgninger om deltagelse"@da,
+        "Nichtveröffentlichung der verlängerten Fristen für den Eingang der Angebote oder der Anträge auf Teilnahme"@de,
+        "Μη δημοσίευση της παράτασης προθεσμιών για την παραλαβή των προσφορών ή των αιτήσεων συμμετοχής"@el,
+        "Lack of publication of extended time limits for receipt of tenders or requests to participate"@en,
+        "No publicación de plazos ampliados para la recepción de ofertas o de solicitudes de participación"@es,
+        "Pakkumuste või osalemistaotluste laekumise pikendatud tähtaja avaldamata jätmine"@et,
+        "Tarjousten tai osallistumishakemusten määräaikojen jatkamisen julkaisematta jättäminen"@fi,
+        "Non-publication de la prolongation des délais de réception des offres ou demandes de participation"@fr,
+        "Gan na teorainneacha ama sínithe chun tairiscintí nó iarratais ar rannpháirtíocht a fháil a fhoilsiú"@ga,
+        "Neobjavljivanje produljenih rokova za zaprimanje ponuda ili zahtjeva za sudjelovanje"@hr,
+        "Az ajánlatok vagy részvételi jelentkezések beérkezésére vonatkozó meghosszabbított határidő közzétételének elmulasztása"@hu,
+        "Mancata pubblicazione della proroga dei termini per la ricezione delle offerte o delle domande di partecipazione"@it,
+        "Nepaskelbimas apie pratęstą pasiūlymų arba dalyvavimo prašymų priėmimo terminą"@lt,
+        "Nav publicēts piedāvājumu vai dalības pieprasījumu saņemšanas termiņa pagarinājums"@lv,
+        "Nuqqas ta’ pubblikazzjoni tal-limiti ta’ żmien estiżi għall-wasla tal-offerti jew tat-talbiet għall-parteċipazzjoni"@mt,
+        "Niet-bekendmaking van verlengde termijnen voor de ontvangst van inschrijvingen of verzoeken tot deelname"@nl,
+        "Brak publikacji przedłużonych terminów składania ofert lub wniosków o dopuszczenie do udziału"@pl,
+        "Não publicação dos prazos alargados para a receção das propostas e dos pedidos de participação"@pt,
+        "Nepublicarea termelor prelungite pentru primirea ofertelor sau a cererilor de participare"@ro,
+        "Neuverejnenie informácií o predĺžených lehotách na predkladanie ponúk alebo žiadostí o účasť"@sk,
+        "Manjka objava podaljšanih rokov za prejem ponudb ali prijav za sodelovanje"@sl,
+        "Inget offentliggörande av förlängda tidsfrister för mottagande av anbud eller anbudsansökningar"@sv .
+
+<http://publications.europa.eu/resource/authority/irregularity-type/other> a skos:Concept ;
+    at:authority-code "other" ;
+    at:deprecated "false" ;
+    at:op-code "other" ;
+    at:start.use "2020-06-24" ;
+    atold:op-code "other" ;
+    dc:identifier "other" ;
+    skos:inScheme atold:irregularity-type ;
+    skos:prefLabel "Друго"@bg,
+        "Jiný"@cs,
+        "Andet"@da,
+        "Sonstiges"@de,
+        "Άλλη"@el,
+        "Other"@en,
+        "Otros"@es,
+        "Muu"@et,
+        "Muu"@fi,
+        "Autre"@fr,
+        "Eile"@ga,
+        "Ostalo"@hr,
+        "Egyéb"@hu,
+        "Altra"@it,
+        "Kita"@lt,
+        "Cits"@lv,
+        "Oħrajn"@mt,
+        "Andere"@nl,
+        "Inne"@pl,
+        "Outros"@pt,
+        "Altele"@ro,
+        "Iná"@sk,
+        "Drugo"@sl,
+        "Annat"@sv .
+
+<http://publications.europa.eu/resource/authority/irregularity-type/restr-not-tlim> a skos:Concept ;
+    at:authority-code "restr-not-tlim" ;
+    at:deprecated "false" ;
+    at:op-code "restr-not-tlim" ;
+    at:start.use "2020-06-24" ;
+    atold:op-code "restr-not-tlim" ;
+    dc:identifier "restr-not-tlim" ;
+    skos:inScheme atold:irregularity-type ;
+    skos:prefLabel "Ограничения за получаването на документацията за поръчката, различни от недостатъчното време"@bg,
+        "Omezení týkající se získání zadávací dokumentace, jiné než nedostatečná lhůta"@cs,
+        "Andre hindringer for at tilvejebringe udbudsdokumenterne end utilstrækkelig tid"@da,
+        "Andere Beschränkungen bei der Einholung von Ausschreibungsunterlagen als unzureichende Zeit"@de,
+        "Περιορισμοί για την παραλαβή των εγγράφων της δημόσιας σύμβασης, άλλοι από τον ανεπαρκή χρόνο"@el,
+        "Restrictions to obtaining the procurement documents, other than insufficient time"@en,
+        "Restricciones para obtener los documentos de contratación distintas del tiempo insuficiente"@es,
+        "Hankedokumentide saamise piirangud muul põhjusel kui ebapiisav aeg"@et,
+        "Muita kuin liian lyhyeen aikaan liittyviä rajoituksia hankinta-asiakirjojen hankkimisessa"@fi,
+        "Entraves à l'obtention des documents de marché autres que le délai insuffisant"@fr,
+        "Srianta ar an rochtain ar na doiciméid soláthair, seachas easpa ama"@ga,
+        "Ograničenja za dobivanja dokumentacije o nabavi koja nisu povezana s nedovoljno vremena"@hr,
+        "A közbeszerzési dokumentumok beszerzésére vonatkozó korlátozások, a nem elegendő időn kívül"@hu,
+        "Restrizioni all'accesso alla documentazione di gara diverse dal tempo insufficiente"@it,
+        "Kiti, nei nepakankamas laikotarpis, pirkimo dokumentų gavimo apribojimai"@lt,
+        "Ierobežojumi iepirkuma dokumentu saņemšanai, kas nav nepietiekams laikposms"@lv,
+        "Restrizzjonijiet għall-ksib tad-dokumenti tal-akkwist, għajr żmien insuffiċjenti"@mt,
+        "Beperkingen voor het verkrijgen van de aanbestedingsstukken, anders dan onvoldoende tijd"@nl,
+        "Ograniczenia w zakresie uzyskania dokumentów zamówienia, inne niż niewystarczający czas"@pl,
+        "Restrições à obtenção dos documentos do concurso, para além de tempo insuficiente"@pt,
+        "Restricții la obținerea documentelor achiziției, în afară de timpul insuficient"@ro,
+        "Obmedzenia pri získavaní súťažných podkladov iné než nedostatok času"@sk,
+        "Omejitve pri pridobivanju razpisne dokumentacije, razen nezadostnega časa"@sl,
+        "Begränsningar av erhållandet av upphandlingsdokumenten, andra än otillräcklig tid"@sv .
+
+<http://publications.europa.eu/resource/authority/irregularity-type/unj-comp-pro> a skos:Concept ;
+    at:authority-code "unj-comp-pro" ;
+    at:deprecated "false" ;
+    at:op-code "unj-comp-pro" ;
+    at:start.use "2020-06-24" ;
+    atold:op-code "unj-comp-pro" ;
+    dc:identifier "unj-comp-pro" ;
+    skos:inScheme atold:irregularity-type ;
+    skos:prefLabel "Необосновано използване на състезателната процедура с договаряне, състезателния диалог или партньорството за иновации"@bg,
+        "Neodůvodněné použití jednacího řízení, soutěžního dialogu nebo inovačního partnerství"@cs,
+        "Uberettiget brug af udbud med forhandling, konkurrencepræget dialog eller innovationspartnerskab"@da,
+        "Fälle, in denen die Anwendung des Vergabeverfahrens mit Verhandlung, des wettbewerblichen Dialogs oder einer innovativen Partnerschaft nicht gerechtfertigt ist"@de,
+        "Αδικαιολόγητη χρήση ανταγωνιστικής διαδικασίας με διαπραγμάτευση, ανταγωνιστικού διαλόγου ή σύμπραξης καινοτομίας"@el,
+        "Unjustified use of competitive procedure with negotiation, competitive dialogue or innovative partnership"@en,
+        "Uso injustificado de un procedimiento de licitación con negociación, un diálogo competitivo o una asociación para la innovación"@es,
+        "Konkurentsipõhise läbirääkimistega hankemenetluse, võistleva dialoogi või innovatsioonipartnerluse põhjendamata kasutamine"@et,
+        "Tarjousperusteisen neuvottelumenettelyn, kilpailullisen neuvottelumenettelyn tai innovatiivisen kumppanuuden perusteeton käyttö"@fi,
+        "Recours injustifié à une procédure concurrentielle avec négociation, dialogue compétitif ou partenariat innovant"@fr,
+        "Úsáideadh gan bonn cirt nós imeachta iomaíoch maille le caibidlíocht, idirphlé iomaíoch nó comhpháirtíocht nuálach"@ga,
+        "Neopravdana uporaba postupka nadmetanja uz pregovore, natjecateljskog dijaloga ili partnerstva za inovacije"@hr,
+        "A tárgyalásos eljárás, a versenypárbeszéd vagy az innovációs partnerség indokolatlan alkalmazása"@hu,
+        "Ricorso senza giustificazione a una procedura competitiva con negoziazione, a un dialogo competitivo o a un partenariato per l'innovazione"@it,
+        "Nepagrįsta konkurso procedūra su derybomis, konkurencinis dialogas arba inovacijų partnerystė"@lt,
+        "Konkursa procedūra ar sarunām, konkursa dialogs vai inovācijas partnerība izmantota nepamatoti"@lv,
+        "Użu mhux ġustifikat tal-proċedura kompetittiva fin-negozjar, fid-djalogu kompetittiv jew fi sħubija innovattiva"@mt,
+        "Ongerechtvaardigd gebruik van mededingingsprocedure met onderhandeling, concurrentiegerichte dialoog of innovatiepartnerschap"@nl,
+        "Nieuzasadnione zastosowanie procedury konkurencyjnej z negocjacjami, dialogu konkurencyjnego lub partnerstwa innowacyjnego"@pl,
+        "Utilização injustificada de procedimento concorrencial com negociação, diálogo concorrencial ou parceria para a inovação"@pt,
+        "Utilizarea nejustificată a procedurii competitive cu negociere, a dialogului competitiv sau a parteneriatului pentru inovare"@ro,
+        "Neodôvodnené použitie súťažného konania s rokovaním, súťažného dialógu alebo inovatívneho partnerstva"@sk,
+        "Neupravičena uporaba konkurenčnega postopka s pogajanji, konkurenčnega dialoga ali inovativnega partnerstva"@sl,
+        "Omotiverad användning av förhandlade förfaranden under konkurrens, konkurrenspräglad dialog eller innovativt partnerskap"@sv .
+
+<http://publications.europa.eu/resource/authority/irregularity-type/unj-excl> a skos:Concept ;
+    at:authority-code "unj-excl" ;
+    at:deprecated "false" ;
+    at:op-code "unj-excl" ;
+    at:start.use "2020-06-24" ;
+    atold:op-code "unj-excl" ;
+    dc:identifier "unj-excl" ;
+    skos:inScheme atold:irregularity-type ;
+    skos:prefLabel "Необосновано изключване на оференти или кандидати"@bg,
+        "Neoprávněné vyloučení uchazečů nebo zájemců"@cs,
+        "Uberettiget udelukkelse af tilbudsgivere eller kandidater"@da,
+        "Ungerechtfertigte Ausgrenzung von Bietern oder Bewerbern"@de,
+        "Αδικαιολόγητος αποκλεισμός προσφερόντων ή υποψηφίων"@el,
+        "Unjustified exclusion of tenderers or candidates"@en,
+        "Exclusión injustificada de licitadores o candidatos"@es,
+        "Pakkujate või kandidaatide põhjendamatu kõrvaldamine"@et,
+        "Tarjoajien tai ehdokkaiden perusteeton poissulkeminen"@fi,
+        "Exclusion injustifiée de soumissionnaires ou candidats"@fr,
+        "Eisiamh tairgeoirí nó iarrthóirí, gan bonn cirt"@ga,
+        "Neopravdano isključenje ponuditelja ili natjecatelja"@hr,
+        "Ajánlattevők vagy pályázók indokolatlan kizárása"@hu,
+        "Esclusione ingiustificata di offerenti o candidati"@it,
+        "Nepagrįstas dalyvių arba kandidatų pašalinimas"@lt,
+        "Pretendentu vai kandidātu nepamatota izslēgšana"@lv,
+        "Esklużjoni mhux ġustifikata ta’ offerenti jew ta’ kandidati"@mt,
+        "Ongerechtvaardigde uitsluiting van inschrijvers of gegadigden"@nl,
+        "Nieuzasadnione wykluczenie oferentów lub kandydatów"@pl,
+        "Exclusão injustificada de proponentes ou candidatos"@pt,
+        "Excluderea nejustificată a ofertanților sau a candidaților"@ro,
+        "Neodôvodnené vylúčenie uchádzačov alebo záujemcov"@sk,
+        "Neupravičena izključitev ponudnikov ali kandidatov"@sl,
+        "Omotiverad uteslutning av anbudsgivare eller anbudssökande"@sv .
+
+<http://publications.europa.eu/resource/authority/irregularity-type/unj-lim-subc> a skos:Concept ;
+    at:authority-code "unj-lim-subc" ;
+    at:deprecated "false" ;
+    at:op-code "unj-lim-subc" ;
+    at:start.use "2020-06-24" ;
+    atold:op-code "unj-lim-subc" ;
+    dc:identifier "unj-lim-subc" ;
+    skos:inScheme atold:irregularity-type ;
+    skos:prefLabel "Необосновано ограничение на използването на подизпълнители"@bg,
+        "Neodůvodněné omezení subdodávek"@cs,
+        "Uberettiget begrænsning af underentreprise"@da,
+        "Ungerechtfertigte Beschränkung der Unterbeauftragung"@de,
+        "Αδικαιολόγητος περιορισμός της υπεργολαβίας"@el,
+        "Unjustified limitation of subcontracting"@en,
+        "Limitación injustificada de la subcontratación"@es,
+        "Allhanke põhjendamatu piiramine"@et,
+        "Alihankinnan perusteeton rajoittaminen"@fi,
+        "Limitation injustifiée de la sous-traitance"@fr,
+        "Teorannú an fhochonraithe, gan bonn cirt"@ga,
+        "Neopravdano ograničenje podugovaranja"@hr,
+        "Az alvállalkozók igénybevételének indokolatlan korlátozása"@hu,
+        "Limitazione ingiustificata dei subappalti"@it,
+        "Nepagrįstas subrangos ribojimas"@lt,
+        "Apakšuzņēmuma līgumu izmantošana nepamatoti ierobežota"@lv,
+        "Limitazzjoni mhux ġustifikata tas-sottokuntrattar"@mt,
+        "Ongerechtvaardigde beperking van onderaanneming"@nl,
+        "Nieuzasadnione ograniczenie podwykonawstwa"@pl,
+        "Limitação injustificada da subcontratação"@pt,
+        "Limitarea nejustificată a subcontractării"@ro,
+        "Neodôvodnené obmedzenie subdodávok"@sk,
+        "Neupravičena omejitev oddaje naročil podizvajalcem"@sl,
+        "Omotiverad begränsning av underentreprenad"@sv .
+
+<http://publications.europa.eu/resource/authority/irregularity-type/unj-na-ppr> a skos:Concept ;
+    at:authority-code "unj-na-ppr" ;
+    at:deprecated "false" ;
+    at:op-code "unj-na-ppr" ;
+    at:start.use "2020-06-24" ;
+    atold:op-code "unj-na-ppr" ;
+    dc:identifier "unj-na-ppr" ;
+    skos:inScheme atold:irregularity-type ;
+    skos:prefLabel "Необосновано неприлагане на разпоредбите за обществените поръчки"@bg,
+        "Neoprávněné neuplatnění pravidel týkajících se veřejných zakázek"@cs,
+        "Uberettiget manglende anvendelse af reglerne om offentlige udbud"@da,
+        "Ungerechtfertigte Nichtanwendung geltender Vorschriften zur öffentlichen Auftragsvergabe"@de,
+        "Αδικαιολόγητη μη εφαρμογή των κανόνων για τις δημόσιες συμβάσεις"@el,
+        "Unjustified non-application of public procurement rules"@en,
+        "Inaplicación injustificada de las normas de contratación pública"@es,
+        "Riigihanke-eeskirjade põhjendamatu kohaldamata jätmine"@et,
+        "Julkisia hankintoja koskevien sääntöjen perusteeton soveltamatta jättäminen"@fi,
+        "Non-application injustifiée des règles de passation des marchés publics"@fr,
+        "Gan rialacha soláthair phoiblí a chur i bhfeidhm gan bonn cirt"@ga,
+        "Neopravdano neprimjenjivanje pravila o javnoj nabavi"@hr,
+        "A közbeszerzési szabályok alkalmazásának indokolatlan elmulasztása"@hu,
+        "Mancato rispetto ingiustificato delle norme in materia di appalti pubblici"@it,
+        "Nepagrįstas viešųjų pirkimų taisyklių netaikymas"@lt,
+        "Publiskā iepirkuma noteikumu nepamatota nepiemērošana"@lv,
+        "Nuqqas ta' applikazzjoni mhux ġustifikata tar-regoli dwar l-akkwist pubbliku"@mt,
+        "Ongerechtvaardigde niet-toepassing van voorschriften inzake overheidsopdrachten"@nl,
+        "Nieuzasadnione niestosowanie przepisów dotyczących zamówień publicznych"@pl,
+        "Não aplicação injustificada das regras em matéria de contratação pública"@pt,
+        "Neaplicarea, în mod nejustificat, a regulilor privind achizițiile publice"@ro,
+        "Neodôvodnené neuplatňovanie pravidiel verejného obstarávania"@sk,
+        "Neupravičena neuporaba pravil o javnih naročilih"@sl,
+        "Omotiverad underlåtenhet att tillämpa reglerna för offentlig upphandling"@sv .
+
+<http://publications.europa.eu/resource/authority/irregularity-type/unj-nrl> a skos:Concept ;
+    at:authority-code "unj-nrl" ;
+    at:deprecated "false" ;
+    at:op-code "unj-nrl" ;
+    at:start.use "2020-06-24" ;
+    atold:op-code "unj-nrl" ;
+    dc:identifier "unj-nrl" ;
+    skos:inScheme atold:irregularity-type ;
+    skos:prefLabel "Използване на техническа спецификация, критерий за подбор, критерий за възлагане, критерий за изключване или условие за изпълнение на поръчката, които са дискриминационни поради необосновани национални, регионални или местни предпочитания"@bg,
+        "Použití technických specifikací, kritérií pro výběr, kritérií pro zadání, kritérií pro vyloučení nebo podmínek plnění, jež jsou diskriminační na základě neodůvodněných celostátních, regionálních nebo místních preferencí"@cs,
+        "Anvendelse af tekniske specifikationer, udvælgelseskriterier, tildelingskriterier, udelukkelseskriterier eller bestemmelser om kontraktens opfyldelse, der er diskriminerende på grund af uberettigede nationale, regionale eller lokale præferencer"@da,
+        "Anwendung von technischen Spezifikationen, Auswahl-, Zuschlags-, Ausschlusskriterien oder Bedingungen für die Auftragsausführung, die wegen ungerechtfertigter nationaler, regionaler oder lokaler Präferenzen diskriminierend sind"@de,
+        "Χρησιμοποίηση τεχνικής προδιαγραφής, κριτηρίου επιλογής, κριτηρίου ανάθεσης, κριτηρίου αποκλεισμού ή όρου εκτέλεσης της σύμβασης που εισάγουν διακρίσεις λόγω αδικαιολόγητων εθνικών, περιφερειακών ή τοπικών προτιμήσεων"@el,
+        "Use of technical specification, selection criterion, award criterion, exclusion criterion, or contract performance condition that are discriminatory because of unjustified national, regional or local preferences"@en,
+        "Uso de especificaciones técnicas, criterios de selección, criterios de adjudicación o condiciones de ejecución del contrato que son discriminatorios debido a preferencias nacionales, regionales o locales injustificadas"@es,
+        "Sellise tehnilise kirjelduse, valikukriteeriumi, pakkumuste hindamise kriteeriumi, menetlusest kõrvalejätmise kriteeriumi või lepingu täitmise tingimuse kasutamine, mis on põhjendamatute siseriiklike, piirkondlike või kohalike eelistuste tõttu diskrimineeriv"@et,
+        "Sellaisen teknisen eritelmän, valintaperusteen, sopimuksentekoperusteen, poissulkemisperusteen tai hankintasopimuksen täytäntöönpanoehdon käyttö, joka on syrjivä perusteettomien kansallisten, alueellisten tai paikallisten preferenssien vuoksi"@fi,
+        "Recours à des spécifications techniques, critères de sélection, critères d’attribution, critères d'exclusion ou conditions d’exécution du marché discriminatoires à cause de préférences nationales, régionales ou locales injustifiées"@fr,
+        "Úsáid bainte as sonraíocht theicniúil, critéar roghnúcháin, critéar dámhachtana, critéir eisiaimh nó coinníoll comhlíonta conartha atá idirdhealaitheach de dheasca tosaíochtaí náisiúnta, réigiúnacha nó áitiúla nach bhfuil bonn cirt leo"@ga,
+        "Diskriminirajuće tehničke specifikacije, kriterij za odabir, kriterij za dodjelu, kriterij za isključenje ili uvjet za izvršenje ugovora zbog neopravdanih nacionalnih, regionalnih ili lokalnih povlastica"@hr,
+        "Olyan műszaki leírás, alkalmassági követelmény, értékelési szempont, kizárási kritérium vagy szerződésteljesítési feltétel alkalmazása, amely indokolatlan nemzeti, regionális vagy helyi preferenciákból fakadóan nem megkülönböztetésmentes"@hu,
+        "Applicazione di specifiche tecniche, criterio di selezione, criterio di aggiudicazione, criterio di esclusione o condizione di esecuzione dell'appalto che sono discriminatori in ragione di ingiustificate preferenze nazionali, regionali o locali"@it,
+        "Naudojamos techninės specifikacijos, atrankos kriterijai, sutarties skyrimo kriterijai, pašalinimo iš konkurso kriterijai arba sutarties vykdymo sąlygos yra diskriminaciniai dėl nepagrįstų nacionalinių, regioninių ar vietos prioritetų"@lt,
+        "Tādas tehniskās specifikācijas, atlases kritērija, līgumslēgšanas tiesību piešķiršanas kritērija, izslēgšanas kritērija vai līguma izpildes nosacījuma izmantošana, kas ir diskriminatīvs tāpēc, ka priekšroka nepamatoti tiek dota piedāvājumiem no noteiktas valsts, reģiona vai pašvaldības"@lv,
+        "Użu ta’ speċifikazzjonijiet tekniċi, kriterji tal-għażla, kriterji tal-għoti, kriterji tal-esklużjoni, jew kundizzjonijiet tat-twettiq tal-kuntratt li jkunu diskriminatorji minħabba preferenzi nazzjonali, reġjonali jew lokali mhux ġustifikati"@mt,
+        "Gebruik van technische specificaties, selectiecriteria, gunningscriteria, uitsluitingscriteria of uitvoeringsvoorwaarden die discriminerend zijn als gevolg van ongerechtvaardigde nationale, regionale of lokale voorkeuren"@nl,
+        "Zastosowanie specyfikacji technicznej, kryterium kwalifikacji, kryterium udzielenia zamówienia, kryterium wykluczenia lub warunku realizacji zamówienia, które są dyskryminujące ze względu na nieuzasadnione preferencje krajowe, regionalne lub lokalne"@pl,
+        "Utilização de especificações técnicas, critérios de seleção, critérios de adjudicação, critérios de exclusão ou condições de execução do contrato que são discriminatórios devido a preferências nacionais, regionais ou locais injustificadas"@pt,
+        "Utilizarea unei specificații tehnice, a unui criteriu de selecție, a unui criteriu de atribuire, a unui criteriu de excludere sau a unei condiții de executare a contractului care sunt discriminatorii din cauza unor preferințe nejustificate la nivel național, regional sau local"@ro,
+        "Uplatnenie technickej špecifikácie, podmienky účasti, kritéria na vyhodnotenie ponúk, vylučovacieho kritéria alebo podmienky plnenia zmluvy, ktoré sú diskriminačné z dôvodu neodôvodnených vnútroštátnych, regionálnych alebo miestnych preferencií"@sk,
+        "Uporaba tehničnih specifikacij, pogoja za sodelovanje, merila za oddajo naročila, merila za izključitev ali pogoja za izvedbo naročila, ki so diskriminatorni, ker dajejo prednost na nacionalni, regionalni ali lokalni podlagi"@sl,
+        "Användning av tekniska specifikationer, selekteringskriterium, tilldelningskriterium eller villkor för fullgörande av kontraktet som är diskriminerande på grund av omotiverade nationella, regionala eller lokala preferenser"@sv .
+
+<http://publications.europa.eu/resource/authority/irregularity-type/unj-nrl-other> a skos:Concept ;
+    at:authority-code "unj-nrl-other" ;
+    at:deprecated "false" ;
+    at:op-code "unj-nrl-other" ;
+    at:start.use "2020-06-24" ;
+    atold:op-code "unj-nrl-other" ;
+    dc:identifier "unj-nrl-other" ;
+    skos:inScheme atold:irregularity-type ;
+    skos:prefLabel "Използване на технически спецификации, критерии за подбор, критерии за възлагане, критерии за изключване или условия за изпълнение на поръчката, които са дискриминационни (т.е. ограничават достъпа на икономически оператори) по причини, различни от необосновани национални, регионални или местни предпочитания"@bg,
+        "Použití technických specifikací, kritérií pro výběr, kritérií pro zadání, kritérií pro vyloučení nebo podmínek plnění, jež jsou diskriminační (tj. omezují přístup hospodářských subjektů) z jiných důvodů než na základě neodůvodněných celostátních, regionálních nebo místních preferencí"@cs,
+        "Anvendelse af tekniske specifikationer, udvælgelseskriterier, tildelingskriterier, udelukkelseskriterier eller bestemmelser om kontraktens opfyldelse, der er diskriminerende (f.eks. begrænset adgang for økonomiske operatører) af andre grunde end uberettigede nationale, regionale eller lokale præferencer"@da,
+        "Anwendung von technischen Spezifikationen, Auswahl-, Zuschlags-, Ausschlusskriterien oder Bedingungen für die Auftragsausführung, die aus anderen Gründen als ungerechtfertigte nationale, regionale oder lokale Präferenzen diskriminierend sind (d. h. den Zugang von Wirtschaftsteilnehmern beschränken)"@de,
+        "Χρησιμοποίηση τεχνικών προδιαγραφών, κριτηρίων επιλογής, κριτηρίων ανάθεσης, κριτηρίων αποκλεισμού ή όρων εκτέλεσης της σύμβασης που εισάγουν διακρίσεις (δηλαδή περιορίζουν την πρόσβαση των οικονομικών φορέων) για άλλους λόγους πέραν των αδικαιολόγητων εθνικών, περιφερειακών ή τοπικών προτιμήσεων"@el,
+        "Use of technical specifications, selection criteria, award criteria, exclusion criteria, or contract performance conditions that are discriminatory (i.e. restrict access for economic operators) for other reasons than unjustified national, regional or local preferences"@en,
+        "Uso de especificaciones técnicas, criterios de selección, criterios de adjudicación o condiciones de ejecución del contrato que son discriminatorios (es decir, que restringen el acceso de los operadores económicos) por motivos distintos de las preferencias nacionales, regionales o locales injustificadas"@es,
+        "Selliste tehniliste kirjelduste, valikukriteeriumide, pakkumuste hindamise kriteeriumide, menetlusest kõrvalejätmise kriteeriumide või lepingu täitmise tingimuste kasutamine, mis on diskrimineerivad (st ettevõtjate juurdepääsu piiravad) muudel põhjustel kui põhjendamatute siseriiklike, piirkondlike või kohalike eelistuste tõttu"@et,
+        "Sellaisten teknisten eritelmien, valintaperusteiden, sopimuksentekoperusteiden, poissulkemisperusteiden tai hankintasopimuksen täytäntöönpanoehtojen käyttö, jotka ovat syrjiviä (eli rajoittavat talouden toimijoiden osallistumista) muiden kuin perusteettomien kansallisten, alueellisten tai paikallisten preferenssien vuoksi"@fi,
+        "Recours à des spécifications techniques, critères de sélection, critères d’attribution, critères d'exclusion ou conditions d’exécution du marché discriminatoires (restriction d’accès pour certains opérateurs économiques) pour des raisons autres que des préférences nationales, régionales ou locales injustifiées"@fr,
+        "Úsáid bainte as sonraíochtaí teicniúla, critéir roghnúcháin, critéir dhámhachtana, critéir eisiaimh nó coinníollacha comhlíonta conartha atá idirdhealaitheach (i.e. cuirtear srian leis an rochtain atá ag oibreoirí eacnamaíocha) ar chúiseanna eile seachas tosaíochtaí náisiúnta, réigiúnacha nó áitiúla nach bhfuil bonn cirt leo"@ga,
+        "Diskriminirajuće tehničke specifikacije, kriteriji za odabir, kriteriji za dodjelu, kriteriji za isključenje ili uvjeti za izvršenje ugovora (npr. ograničen pristup za gospodarske subjekte) iz razloga koji nisu neopravdane nacionalne, regionalne ili lokalne povlastice"@hr,
+        "Olyan műszaki leírások, alkalmassági követelmények, értékelési szempontok, kizárási kritériumok vagy szerződésteljesítési feltételek alkalmazása, amelyek indokolatlan nemzeti, regionális vagy helyi preferenciáktól eltérő okokból (pl. a gazdasági szereplők hozzáférésének korlátozása) nem megkülönböztetésmentesek"@hu,
+        "Applicazione di specifiche tecniche, criteri di selezione, criteri di aggiudicazione, criteri di esclusione o condizioni di esecuzione dell'appalto che sono discriminatori (vale a dire limitano l'accesso di operatori economici) per motivi diversi da ingiustificate preferenze nazionali, regionali o locali"@it,
+        "Naudojamos techninės specifikacijos, atrankos kriterijai, sutarties skyrimo kriterijai, pašalinimo iš konkurso kriterijai arba sutarties vykdymo sąlygos yra diskriminaciniai (t. y. apribojantys ekonominės veiklos vykdytojų galimybes dalyvauti) dėl kitų, nei nepagrįsti nacionaliniai, regioniniai ar vietos prioritetai, priežasčių"@lt,
+        "Tādu tehnisko specifikāciju, atlases kritēriju, līgumslēgšanas tiesību piešķiršanas kritēriju, izslēgšanas kritēriju vai līguma izpildes nosacījumu izmantošana, kas ir diskriminatīvi (t. i., ierobežo ekonomikas dalībnieku piekļuvi) tādu iemeslu dēļ, kuri nav nepamatota priekšroka piedāvājumiem no noteiktas valsts, reģiona vai pašvaldības"@lv,
+        "Użu ta’ speċifikazzjonijiet tekniċi, kriterji tal-għażla, kriterji tal-għoti, kriterji tal-esklużjoni, jew kundizzjonijiet tat-twettiq tal-kuntratt li jkunu diskriminatorji (jiġifieri jirrestrinġu l-aċċess għall-operaturi ekonomiċi) għal raġunijiet oħra li mhumiex il-preferenzi nazzjonali, reġjonali jew lokali mhux ġustifikati"@mt,
+        "Gebruik van technische specificaties, selectiecriteria, gunningscriteria, uitsluitingscriteria of uitvoeringsvoorwaarden die discriminerend zijn (d.w.z. de toegang voor ondernemers beperken) om andere redenen dan ongerechtvaardigde nationale, regionale of lokale voorkeuren"@nl,
+        "Zastosowanie specyfikacji technicznych, kryteriów kwalifikacji, kryteriów udzielenia zamówienia, kryteriów wykluczenia lub warunków realizacji zamówienia, które są dyskryminujące (tj. ograniczają dostęp podmiotów gospodarczych) z powodów innych niż nieuzasadnione preferencje krajowe, regionalne lub lokalne"@pl,
+        "Utilização de especificações técnicas, critérios de seleção, critérios de adjudicação, critérios de exclusão ou condições de execução do contrato que são discriminatórios (de acesso restrito para os operadores económicos) por outras razões que não preferências nacionais, regionais ou locais injustificadas"@pt,
+        "Utilizarea unei specificații tehnice, a unui criteriu de selecție, a unui criteriu de atribuire sau de excludere sau a unei condiții de executare a contractului care sunt discriminatorii (de exemplu, restricţie de acces pentru operatorii economici) din alte motive decât preferințele naționale, regionale sau locale nejustificate"@ro,
+        "Uplatnenie technických špecifikácií, podmienky účasti, kritéria na vyhodnotenie ponúk, vylučovacieho kritéria alebo podmienok plnenia zmluvy, ktoré sú diskriminačné (t. j. obmedzujú prístup hospodárskych subjektov) z iných dôvodov než sú vnútroštátne, regionálne alebo miestne preferencie"@sk,
+        "Uporaba tehničnih specifikacij, pogoja za sodelovanje, merila za oddajo naročila, merila za izključitev ali pogoja za izvedbo naročila, ki so diskriminatorni (tj. omejujejo dostop gospodarskim subjektom) iz razlogov, pri katerih ne gre za nacionalno, regionalno ali lokalno podlago"@sl,
+        "Användning av tekniska specifikationer, selekteringskriterier, tilldelningskriterier eller villkor för fullgörande av kontraktet som är diskriminerande (dvs. begränsar tillträdet för ekonomiska aktörer) av andra skäl än omotiverade nationella, regionala eller lokala preferenser"@sv .
+
+atold:irregularity-type a skos:ConceptScheme ;
+    rdfs:label "Irregularity type"@en ;
+    at:prefLabel "Irregularity type"@en ;
+    at:table.id "irregularity-type" ;
+    at:table.version.number "20220316-0" ;
+    owl:versionInfo "20220316-0" ;
+    skos:prefLabel "Irregularity type"@en .
+

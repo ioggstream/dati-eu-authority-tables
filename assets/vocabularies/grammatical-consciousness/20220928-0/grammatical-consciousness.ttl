@@ -1,0 +1,119 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/grammatical-consciousness/H> a skos:Concept ;
+    at:authority-code "H" ;
+    at:deprecated "false" ;
+    at:op-code "H" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "H" ;
+    dc:identifier "H" ;
+    skos:definition "Number form used to enumerate human beings in Irish."@en ;
+    skos:inScheme atold:grammatical-consciousness ;
+    skos:prefLabel "Човешко същество"@bg,
+        "Člověk"@cs,
+        "Menneske"@da,
+        "Mensch"@de,
+        "Ανθρώπινο ον"@el,
+        "Human being"@en,
+        "Ser humano"@es,
+        "Inimolend"@et,
+        "Ihminen"@fi,
+        "Être humain"@fr,
+        "Duine daonna"@ga,
+        "Čovjek"@hr,
+        "Ember"@hu,
+        "Essere umano"@it,
+        "Žmogus"@lt,
+        "Cilvēks"@lv,
+        "Bniedem"@mt,
+        "Mens"@nl,
+        "Odnoszący się do ludzi"@pl,
+        "Coletivo pessoal"@pt,
+        "Ființă umană"@ro,
+        "Ľudská bytosť"@sk,
+        "Človek"@sl,
+        "Mänsklig varelse"@sv ;
+    skos:topConceptOf atold:grammatical-consciousness .
+
+<http://publications.europa.eu/resource/authority/grammatical-consciousness/OP_DATPRO> a skos:Concept ;
+    at:authority-code "OP_DATPRO" ;
+    at:deprecated "false" ;
+    at:op-code "OP_DATPRO" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:grammatical-consciousness ;
+    skos:prefLabel "Неокончателни данни"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv ;
+    skos:topConceptOf atold:grammatical-consciousness .
+
+<http://publications.europa.eu/resource/authority/grammatical-consciousness/T> a skos:Concept ;
+    at:authority-code "T" ;
+    at:deprecated "false" ;
+    at:op-code "T" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "T" ;
+    dc:identifier "T" ;
+    skos:definition "Number form used to enumerate things and animals in Irish."@en ;
+    skos:inScheme atold:grammatical-consciousness ;
+    skos:prefLabel "Предмет"@bg,
+        "Věc"@cs,
+        "Ting"@da,
+        "Ding"@de,
+        "Πράγμα"@el,
+        "Thing"@en,
+        "Cosa"@es,
+        "Ese"@et,
+        "Asia"@fi,
+        "Chose"@fr,
+        "Rud"@ga,
+        "Stvar"@hr,
+        "Tárgy"@hu,
+        "Cosa"@it,
+        "Daiktas"@lt,
+        "Lieta"@lv,
+        "Ħaġa"@mt,
+        "Ding"@nl,
+        "Odnoszący się do rzeczy"@pl,
+        "Coletivo não pessoal"@pt,
+        "Obiect"@ro,
+        "Vec"@sk,
+        "Stvar"@sl,
+        "Föremål"@sv ;
+    skos:topConceptOf atold:grammatical-consciousness .
+
+atold:grammatical-consciousness a skos:ConceptScheme ;
+    rdfs:label "Grammatical consciousness"@en ;
+    at:prefLabel "Grammatical consciousness"@en ;
+    at:table.id "grammatical-consciousness" ;
+    at:table.version.number "20220928-0" ;
+    owl:versionInfo "20220928-0" ;
+    skos:prefLabel "Grammatical consciousness"@en .
+

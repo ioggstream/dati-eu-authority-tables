@@ -1,0 +1,371 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/procurement-procedure-type/OP_DATPRO> a skos:Concept ;
+    at:authority-code "OP_DATPRO" ;
+    at:deprecated "false" ;
+    at:op-code "OP_DATPRO" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:procurement-procedure-type ;
+    skos:prefLabel "Неокончателни данни"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv ;
+    skos:topConceptOf atold:procurement-procedure-type .
+
+<http://publications.europa.eu/resource/authority/procurement-procedure-type/comp-dial> a skos:Concept ;
+    at:authority-code "comp-dial" ;
+    at:deprecated "false" ;
+    at:op-code "comp-dial" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "comp-dial" ;
+    dc:identifier "comp-dial" ;
+    skos:definition "In competitive dialogues, any economic operator may submit a request to participate in response to a call for competition in accordance with points (b) and (c) of Article 44(4) by providing the information for qualitative selection that is requested by the contracting entity."@en ;
+    skos:inScheme atold:procurement-procedure-type ;
+    skos:prefLabel "Състезателен диалог"@bg,
+        "Soutěžní dialog"@cs,
+        "Konkurrencepræget dialog"@da,
+        "Wettbewerblicher Dialog"@de,
+        "Ανταγωνιστικός διάλογος"@el,
+        "Competitive dialogue"@en,
+        "Diálogo competitivo"@es,
+        "Võistlev dialoog"@et,
+        "Kilpailullinen neuvottelumenettely"@fi,
+        "Dialogue compétitif"@fr,
+        "Idirphlé iomaíoch"@ga,
+        "Natjecateljski dijalog"@hr,
+        "Versenypárbeszéd"@hu,
+        "Dialogo competitivo"@it,
+        "Konkurencinis dialogas"@lt,
+        "Konkursa dialogs"@lv,
+        "Djalogu kompetittiv"@mt,
+        "Concurrentiegerichte dialoog"@nl,
+        "Dialog konkurencyjny"@pl,
+        "Diálogo concorrencial"@pt,
+        "Dialog competitiv"@ro,
+        "Súťažný dialóg"@sk,
+        "Konkurenčni dialog"@sl,
+        "Konkurrenspräglad dialog"@sv ;
+    skos:topConceptOf atold:procurement-procedure-type .
+
+<http://publications.europa.eu/resource/authority/procurement-procedure-type/comp-tend> a skos:Concept ;
+    at:authority-code "comp-tend" ;
+    at:deprecated "false" ;
+    at:op-code "comp-tend" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "comp-tend" ;
+    dc:identifier "comp-tend" ;
+    skos:definition "A competitive tendering procedure is open to any interested economic operator, is fair and observes the principles of transparency and non-discrimination. Such a procedure does not rule out negotiations (in order to determine how best to meet specific or complex requirements) provided they comply with the same principles."@en ;
+    skos:inScheme atold:procurement-procedure-type ;
+    skos:prefLabel "Конкурентна тръжна"@bg,
+        "Soutěžní nabídkové řízení"@cs,
+        "Konkurrencepræget udbud"@da,
+        "Wettbewerbliches Ausschreibungverfahren"@de,
+        "Ανταγωνιστική διαγωνισμού"@el,
+        "Competitive tendering"@en,
+        "Licitación pública"@es,
+        "Konkurentsipõhine pakkumismenetlus"@et,
+        "Tarjouskilpailu"@fi,
+        "Appel d’offres compétitive"@fr,
+        "Tairiscint iomaíoch"@ga,
+        "Konkurentni nadmetanja"@hr,
+        "Versenypályázati eljárás"@hu,
+        "Procedura di gara"@it,
+        "Konkurencinė konkurso"@lt,
+        "Konkursa procedūra"@lv,
+        "Sejħa għall-offerti kompetittiva"@mt,
+        "Mededingingsprocedure"@nl,
+        "Procedura przetargowa"@pl,
+        "Concurso competitivo"@pt,
+        "Licitaţie competitivă"@ro,
+        "Postup verejného obstarávania"@sk,
+        "Konkurenčni razpisni"@sl,
+        "Konkurrenskraftigt upphandling"@sv ;
+    skos:scopeNote "This is used for procurement concerning public passenger transport services."@en ;
+    skos:topConceptOf atold:procurement-procedure-type .
+
+<http://publications.europa.eu/resource/authority/procurement-procedure-type/innovation> a skos:Concept ;
+    at:authority-code "innovation" ;
+    at:deprecated "false" ;
+    at:op-code "innovation" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "innovation" ;
+    dc:identifier "innovation" ;
+    skos:definition "In innovation partnerships, any economic operator may submit a request to participate in response to a call for competition in accordance with points (b) and (c) of Article 44(4) by providing the information for qualitative selection that is requested by the contracting entity."@en ;
+    skos:inScheme atold:procurement-procedure-type ;
+    skos:prefLabel "Партньорство за иновации"@bg,
+        "Inovační partnerství"@cs,
+        "Innovationspartnerskab"@da,
+        "Innovationspartnerschaften"@de,
+        "Σύμπραξη καινοτομίας"@el,
+        "Innovation partnership"@en,
+        "Asociación para la innovación"@es,
+        "Innovatsioonipartnerlus"@et,
+        "Innovaatiokumppanuus"@fi,
+        "Partenariat d’innovation"@fr,
+        "Comhpháirtíocht nuálaíochta"@ga,
+        "Partnerstvo za inovacije"@hr,
+        "Innovációs partnerség"@hu,
+        "Partenariato per l'innovazione"@it,
+        "Inovacijų partnerystė"@lt,
+        "Inovācijas partnerība"@lv,
+        "Sħubija għall-innovazzjoni"@mt,
+        "Innovatiepartnerschap"@nl,
+        "Partnerstwo innowacyjne"@pl,
+        "Parcerias para a inovação"@pt,
+        "Parteneriat pentru inovare"@ro,
+        "Inovatívne partnerstvo"@sk,
+        "Partnerstvo za inovacije"@sl,
+        "Innovationspartnerskap"@sv ;
+    skos:topConceptOf atold:procurement-procedure-type .
+
+<http://publications.europa.eu/resource/authority/procurement-procedure-type/neg-w-call> a skos:Concept ;
+    at:authority-code "neg-w-call" ;
+    at:deprecated "false" ;
+    at:op-code "neg-w-call" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "neg-w-call" ;
+    dc:identifier "neg-w-call" ;
+    skos:definition "In negotiated procedures with prior call for competition, any economic operator may submit a request to participate in response to a call for competition by providing the information for qualitative selection that is requested by the contracting entity."@en ;
+    skos:inScheme atold:procurement-procedure-type ;
+    skos:prefLabel "Договаряне с предварително публикуване на покана за участие в състезателна процедура / състезателна с договаряне"@bg,
+        "Jednací řízení s uveřejněním / jednací řízení"@cs,
+        "Udbud med forhandling/indkaldelse af tilbud med forudgående offentliggørelse"@da,
+        "Verhandlungsverfahren mit vorheriger Veröffentlichung eines Aufrufs zum Wettbewerb/Verhandlungsverfahren"@de,
+        "Με διαπραγμάτευση με προηγούμενη δημοσίευση προκήρυξης διαγωνισμού/ανταγωνιστική διαδικασία με διαπραγμάτευση"@el,
+        "Negotiated with prior publication of a call for competition / competitive with negotiation"@en,
+        "Negociado con publicación previa de un anuncio de licitación / licitación con negociación"@es,
+        "Väljakuulutamisega läbirääkimistega hankemenetlus / konkurentsipõhine läbirääkimistega hankemenetlus"@et,
+        "Tarjouskilpailukutsun julkaisemisen jälkeinen neuvottelumenettely / tarjousperusteinen neuvottelumenettely"@fi,
+        "Négociée avec publication préalable d’un appel à la concurrence / concurrentielle avec négociation"@fr,
+        "Idirbheartaíocht lena mbaineann foilsiú roimh ré glao ar iomaíocht / iomaíocht lena mbaineann idirbheartaíocht"@ga,
+        "Pregovarački s prethodnom objavom poziva na nadmetanje / natjecateljski uz pregovore"@hr,
+        "Eljárást megindító felhívás előzetes közzétételével járó tárgyalásos / tárgyalásos"@hu,
+        "Negoziata con previa indizione di gara / competitiva con negoziazione"@it,
+        "Derybos su išankstiniu kvietimu dalyvauti konkurse ir (arba) konkursas su derybomis"@lt,
+        "Sarunu procedūra ar iepirkuma iepriekšēju izsludināšanu/konkursa procedūra ar sarunām"@lv,
+        "Innegozjata bil-pubblikazzjoni minn qabel ta’ sejħa għall-kompetizzjoni/għall-kompetizzjoni bin-negozjar"@mt,
+        "Onderhandelingsprocedure met voorafgaande oproep tot mededinging / mededingingsprocedure met onderhandeling"@nl,
+        "Negocjacyjna z uprzednią publikacją zaproszenia do ubiegania się o zamówienie / konkurencyjna z negocjacjami"@pl,
+        "Por negociação com publicação prévia de um convite à apresentação de propostas/concurso com negociação"@pt,
+        "Negociată cu publicarea prealabilă a unei proceduri concurențiale de ofertare / competitivă cu negociere"@ro,
+        "Rokovacie konanie so zverejnením výzvy na súťaž/súťažné obstarávanie s rokovacím konaním"@sk,
+        "S pogajanji, s predhodno objavo javnega razpisa / konkurenčni postopek s pogajanji"@sl,
+        "Förhandlat förfarande med föregående meddelande om upphandling/under konkurrens"@sv ;
+    skos:topConceptOf atold:procurement-procedure-type .
+
+<http://publications.europa.eu/resource/authority/procurement-procedure-type/neg-wo-call> a skos:Concept ;
+    at:authority-code "neg-wo-call" ;
+    at:deprecated "false" ;
+    at:op-code "neg-wo-call" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "neg-wo-call" ;
+    dc:identifier "neg-wo-call" ;
+    skos:definition """Contracting entities may use a negotiated procedure without prior call for competition in the following cases: 
+Based on Directive 2014/25/EU, Article 50: 
+(a) where no tenders or no suitable tenders or no requests to participate or no suitable requests to participate have been submitted [...]; (b) where a contract is purely for the purpose of research, experiment, study or development, [...]; (c) where the works, supplies or services can be supplied only by a particular economic operator [...]; (d) in so far as is strictly necessary where, for reasons of extreme urgency brought about by events unforeseeable by the contracting entity [...]; (e) in the case of supply contracts for additional deliveries by the original supplier [...]; (f) for new works or services consisting in the repetition of similar works or services assigned to the contractor [...]; (g) for supplies quoted and purchased on a commodity market; (h) for bargain purchases [...]; (i) for purchases of supplies or services under particularly advantageous conditions [...]; (j) where the service contract concerned follows a design contest organised in accordance with this Directive and is to be awarded [...];
+OR
+Based on Regulation (EC) No 1370/2007, Article 5: 
+where  the contract complies with the conditions of Article 5, paragraphs (2), (3a), (3b), (4), (4a, (4b), (5) and (6) of Regulation (EC) No 1370/2007.
+"""@en ;
+    skos:inScheme atold:procurement-procedure-type ;
+    skos:prefLabel "Договаряне без предварително обявление"@bg,
+        "Jednací řízení bez uveřejnění"@cs,
+        "Udbud med forhandling uden forudgående offentliggørelse"@da,
+        "Verhandlungsverfahren ohne Aufruf zum Wettbewerb"@de,
+        "Με διαπραγμάτευση χωρίς προηγούμενη δημοσίευση προκήρυξης διαγωνισμού"@el,
+        "Negotiated without prior call for competition"@en,
+        "Negociado sin convocatoria de licitación previa"@es,
+        "Väljakuulutamiseta läbirääkimistega hankemenetlus"@et,
+        "Neuvottelumenettely ilman edeltävää tarjouskilpailukutsua"@fi,
+        "Négociée sans mise en concurrence préalable"@fr,
+        "Idirbheartaíocht lena mbaineann glao roimh ré ar iomaíocht"@ga,
+        "Pregovarački bez prethodnog poziva na nadmetanje"@hr,
+        "Felhívás nélküli tárgyalásos eljárás"@hu,
+        "Negoziata senza previa indizione di gara"@it,
+        "Derybos be išankstinio skelbimo apie pirkimą"@lt,
+        "Sarunu procedūra bez iepirkuma iepriekšējas izsludināšanas"@lv,
+        "Innegozjata mingħajr sejħa minn qabel għall-kompetizzjoni"@mt,
+        "Onderhandelingsprocedure zonder voorafgaande oproep tot mededinging"@nl,
+        "Negocjacyjna bez uprzedniej publikacji zaproszenia do ubiegania się o zamówienie"@pl,
+        "Por negociação sem abertura prévia de concurso"@pt,
+        "Negociată fără publicarea unei proceduri concurențiale de ofertare"@ro,
+        "Rokovacie konanie bez zverejnenia výzvy na súťaž"@sk,
+        "S pogajanji, brez predhodnega javnega razpisa"@sl,
+        "Förhandlat förfarande utan föregående meddelande om upphandling"@sv ;
+    skos:topConceptOf atold:procurement-procedure-type .
+
+<http://publications.europa.eu/resource/authority/procurement-procedure-type/open> a skos:Concept ;
+    at:authority-code "open" ;
+    at:deprecated "false" ;
+    at:op-code "open" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "open" ;
+    dc:identifier "open" ;
+    skos:definition "In open procedures any interested economic operator may submit a tender in response to a call for competition."@en ;
+    skos:inScheme atold:procurement-procedure-type ;
+    skos:prefLabel "Открита"@bg,
+        "Otevřené"@cs,
+        "Åben"@da,
+        "Offenes Verfahren"@de,
+        "Ανοικτή"@el,
+        "Open"@en,
+        "Abierto"@es,
+        "Avatud"@et,
+        "Avoin"@fi,
+        "Ouverte"@fr,
+        "Oscailte"@ga,
+        "Otvoren"@hr,
+        "Nyitott"@hu,
+        "Aperta"@it,
+        "Atviras"@lt,
+        "Atklāta"@lv,
+        "Miftuħa"@mt,
+        "Openbaar"@nl,
+        "Otwarta"@pl,
+        "Aberto"@pt,
+        "Deschisă"@ro,
+        "Verejná súťaž"@sk,
+        "Odprti postopek"@sl,
+        "Öppet"@sv ;
+    skos:topConceptOf atold:procurement-procedure-type .
+
+<http://publications.europa.eu/resource/authority/procurement-procedure-type/oth-mult> a skos:Concept ;
+    at:authority-code "oth-mult" ;
+    at:deprecated "false" ;
+    at:op-code "oth-mult" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "oth-mult" ;
+    dc:identifier "oth-mult" ;
+    skos:definition "Multiple stage procedure not covered by other concepts in this table."@en ;
+    skos:inScheme atold:procurement-procedure-type ;
+    skos:prefLabel "Друга многоетапна процедура"@bg,
+        "Jiné vícefázové řízení"@cs,
+        "Anden procedure, der afvikles i flere faser"@da,
+        "Sonstiges zweistufiges Verfahren"@de,
+        "Άλλη διαδικασία πολλών σταδίων"@el,
+        "Other multiple stage procedure"@en,
+        "Otro procedimiento de múltiples etapas"@es,
+        "Muu mitmeetapiline menetlus"@et,
+        "Muu monivaiheinen menettely"@fi,
+        "Autre procédure en plusieurs étapes"@fr,
+        "Nós imeachta ilchéime eile"@ga,
+        "Ostali postupci u više faza"@hr,
+        "Egyéb többszakaszos eljárás"@hu,
+        "Altra procedura a più fasi"@it,
+        "Kita kelių etapų procedūra"@lt,
+        "Cita daudzpakāpju procedūra"@lv,
+        "Proċedura oħra b’diversi stadji"@mt,
+        "Andere procedure in meerdere fasen"@nl,
+        "Inna procedura wieloetapowa"@pl,
+        "Outro processo em múltiplas fases"@pt,
+        "Altă procedură cu mai multe etape"@ro,
+        "Iný viacfázový postup"@sk,
+        "Drugi večstopenjski postopek"@sl,
+        "Annat förfarande i flera steg"@sv ;
+    skos:topConceptOf atold:procurement-procedure-type .
+
+<http://publications.europa.eu/resource/authority/procurement-procedure-type/oth-single> a skos:Concept ;
+    at:authority-code "oth-single" ;
+    at:deprecated "false" ;
+    at:op-code "oth-single" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "oth-single" ;
+    dc:identifier "oth-single" ;
+    skos:definition "Single stage procedure not covered by the other concepts in this table."@en ;
+    skos:inScheme atold:procurement-procedure-type ;
+    skos:prefLabel "Друга едноетапна процедура"@bg,
+        "Jiné jednofázové řízení"@cs,
+        "Anden procedure, der afvikles i to faser"@da,
+        "Sonstiges einstufiges Verfahren"@de,
+        "Άλλη διαδικασία ενός σταδίου"@el,
+        "Other single stage procedure"@en,
+        "Otro procedimiento de una sola etapa"@es,
+        "Muu üheetapiline menetlus"@et,
+        "Muu yksivaiheinen menettely"@fi,
+        "Autre procédure en une seule étape"@fr,
+        "Nós imeachta aonchéime eile"@ga,
+        "Ostali postupci od jedne faze"@hr,
+        "Egyéb egyszakaszos eljárás"@hu,
+        "Altra procedura a fase unica"@it,
+        "Kita vieno etapo procedūra"@lt,
+        "Cita vienpakāpes procedūra"@lv,
+        "Proċedura oħra bi stadju wieħed"@mt,
+        "Andere procedure in één fase"@nl,
+        "Inna procedura jednoetapowa"@pl,
+        "Outro processo de fase única"@pt,
+        "Altă procedură cu o singură etapă"@ro,
+        "Iný jednofázový postup"@sk,
+        "Drugi enostopenjski postopek"@sl,
+        "Annat förfarande i ett steg"@sv ;
+    skos:topConceptOf atold:procurement-procedure-type .
+
+<http://publications.europa.eu/resource/authority/procurement-procedure-type/restricted> a skos:Concept ;
+    at:authority-code "restricted" ;
+    at:deprecated "false" ;
+    at:op-code "restricted" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "restricted" ;
+    dc:identifier "restricted" ;
+    skos:definition "In restricted procedures, any economic operator may submit a request to participate in response to a call for competition by providing the information for qualitative selection that is requested by the contracting entity."@en ;
+    skos:inScheme atold:procurement-procedure-type ;
+    skos:prefLabel "Ограничена"@bg,
+        "Užší"@cs,
+        "Begrænset"@da,
+        "Nichtoffenes Verfahren"@de,
+        "Κλειστή"@el,
+        "Restricted"@en,
+        "Restringido"@es,
+        "Piiratud"@et,
+        "Rajoitettu"@fi,
+        "Restreinte"@fr,
+        "Teoranta"@ga,
+        "Ograničen"@hr,
+        "Zárt"@hu,
+        "Ristretta"@it,
+        "Ribotas"@lt,
+        "Slēgta"@lv,
+        "Ristretta"@mt,
+        "Niet-openbaar"@nl,
+        "Ograniczona"@pl,
+        "Limitado"@pt,
+        "Restrânsă"@ro,
+        "Užšia súťaž"@sk,
+        "Omejeni postopek"@sl,
+        "Selektivt"@sv ;
+    skos:topConceptOf atold:procurement-procedure-type .
+
+atold:procurement-procedure-type a skos:ConceptScheme ;
+    rdfs:label "Procurement procedure type"@en ;
+    at:prefLabel "Procurement procedure type"@en ;
+    at:table.id "procurement-procedure-type" ;
+    at:table.version.number "20220928-0" ;
+    owl:versionInfo "20220928-0" ;
+    skos:prefLabel "Procurement procedure type"@en .
+

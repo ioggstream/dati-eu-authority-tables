@@ -1,0 +1,246 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/position-type/CONTR> a skos:Concept ;
+    at:authority-code "CONTR" ;
+    at:deprecated "false" ;
+    at:op-code "CONTR" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "CONTR" ;
+    dc:identifier "CONTR" ;
+    skos:inScheme atold:position-type ;
+    skos:prefLabel "договорно нает"@bg,
+        "smluvní"@cs,
+        "kontraktlig"@da,
+        "vertragsbedienstet"@de,
+        "συμβατική"@el,
+        "contractual"@en,
+        "contractual"@es,
+        "lepinguline"@et,
+        "sopimussuhteinen"@fi,
+        "contractuel"@fr,
+        "conarthach"@ga,
+        "ugovorno osoblje"@hr,
+        "szerződéses"@hu,
+        "contrattuale"@it,
+        "sutartininkas"@lt,
+        "līgumdarbinieks"@lv,
+        "kuntrattwali"@mt,
+        "arbeidscontractant"@nl,
+        "kontraktowy"@pl,
+        "contratual"@pt,
+        "contractual"@ro,
+        "zmluvný"@sk,
+        "pogodbeni uslužbenci"@sl,
+        "kontraktsanställd"@sv .
+
+<http://publications.europa.eu/resource/authority/position-type/OP_DATPRO> a skos:Concept ;
+    at:op-code "OP_DATPRO" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:position-type ;
+    skos:prefLabel "НЕОКОНЧАТЕЛНИ ДАННИ"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv .
+
+<http://publications.europa.eu/resource/authority/position-type/OTHER> a skos:Concept ;
+    at:authority-code "OTHER" ;
+    at:deprecated "false" ;
+    at:op-code "OTHER" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "OTHER" ;
+    dc:identifier "OTHER" ;
+    skos:inScheme atold:position-type ;
+    skos:prefLabel "друго"@bg,
+        "jiný"@cs,
+        "anden"@da,
+        "andere"@de,
+        "άλλο"@el,
+        "other"@en,
+        "otro"@es,
+        "muu"@et,
+        "muu"@fi,
+        "autre"@fr,
+        "eile"@ga,
+        "drugo"@hr,
+        "egyéb"@hu,
+        "altro"@it,
+        "kitas"@lt,
+        "cits"@lv,
+        "ieħor"@mt,
+        "ander"@nl,
+        "inny"@pl,
+        "outro"@pt,
+        "altele"@ro,
+        "iný"@sk,
+        "drugo"@sl,
+        "annan"@sv .
+
+<http://publications.europa.eu/resource/authority/position-type/PERM> a skos:Concept ;
+    at:authority-code "PERM" ;
+    at:deprecated "false" ;
+    at:op-code "PERM" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "PERM" ;
+    dc:identifier "PERM" ;
+    skos:inScheme atold:position-type ;
+    skos:prefLabel "постоянна"@bg,
+        "stálé"@cs,
+        "fast"@da,
+        "beamtet"@de,
+        "αορίστου χρόνου"@el,
+        "permanent"@en,
+        "permanente"@es,
+        "alaline"@et,
+        "vakinainen"@fi,
+        "permanent"@fr,
+        "buan"@ga,
+        "stalno osoblje"@hr,
+        "állandó"@hu,
+        "permanente"@it,
+        "nuolatinis"@lt,
+        "pastāvīgs"@lv,
+        "permanenti"@mt,
+        "in vaste dienst"@nl,
+        "stały"@pl,
+        "permanente"@pt,
+        "permanent"@ro,
+        "stály"@sk,
+        "stalno osebje"@sl,
+        "fast"@sv .
+
+<http://publications.europa.eu/resource/authority/position-type/SNE> a skos:Concept ;
+    at:authority-code "SNE" ;
+    at:deprecated "false" ;
+    at:op-code "SNE" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "SNE" ;
+    dc:identifier "SNE" ;
+    skos:altLabel "deleguotoji nacionalinė ekspertė"@lt ;
+    skos:inScheme atold:position-type ;
+    skos:prefLabel "командирован национален експерт"@bg,
+        "vyslaný národní odborník"@cs,
+        "udstationeret national ekspert"@da,
+        "abgeordneter nationaler Experte"@de,
+        "αποσπασμένος εθνικός εμπειρογνώμονας"@el,
+        "seconded national expert"@en,
+        "experto nacional en comisión de servicio"@es,
+        "lähetatud riiklik ekspert"@et,
+        "kansallinen asiantuntija"@fi,
+        "expert national détaché"@fr,
+        "saineolaí náisiúnta ar Iasacht"@ga,
+        "upućeni nacionalni stručnjak"@hr,
+        "kirendelt nemzeti szakértő"@hu,
+        "esperto nazionale distaccato"@it,
+        "deleguotasis nacionalinis ekspertas"@lt,
+        "valsts norīkotais eksperts"@lv,
+        "espert nazzjonali sekondat"@mt,
+        "gedetacheerd nationaal deskundige"@nl,
+        "oddelegowany ekspert krajowy"@pl,
+        "perito nacional destacado"@pt,
+        "expert național detașat"@ro,
+        "vyslaný národný expert"@sk,
+        "napoteni nacionalni strokovnjak"@sl,
+        "utstationerad nationell expert"@sv .
+
+<http://publications.europa.eu/resource/authority/position-type/TEMP> a skos:Concept ;
+    at:authority-code "TEMP" ;
+    at:deprecated "false" ;
+    at:op-code "TEMP" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "TEMP" ;
+    dc:identifier "TEMP" ;
+    skos:altLabel "temporária"@pt ;
+    skos:inScheme atold:position-type ;
+    skos:prefLabel "срочна"@bg,
+        "dočasné"@cs,
+        "midlertidig"@da,
+        "bedienstet auf Zeit"@de,
+        "προσωρινή"@el,
+        "temporary"@en,
+        "temporal"@es,
+        "ajutine"@et,
+        "väliaikainen"@fi,
+        "temporaire"@fr,
+        "sealadach"@ga,
+        "privremeno osoblje"@hr,
+        "ideiglenes"@hu,
+        "temporaneo"@it,
+        "laikinas"@lt,
+        "pagaidu"@lv,
+        "temporanju"@mt,
+        "in tijdelijke dienst"@nl,
+        "zatrudniony na czas określony"@pl,
+        "temporário"@pt,
+        "temporar"@ro,
+        "dočasný"@sk,
+        "začasno osebje"@sl,
+        "tillfällig"@sv .
+
+<http://publications.europa.eu/resource/authority/position-type/TRAINEE> a skos:Concept ;
+    at:authority-code "TRAINEE" ;
+    at:deprecated "false" ;
+    at:op-code "TRAINEE" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "TRAINEE" ;
+    dc:identifier "TRAINEE" ;
+    skos:altLabel "stažuotoja"@lt ;
+    skos:inScheme atold:position-type ;
+    skos:prefLabel "стажант"@bg,
+        "stážista"@cs,
+        "praktikant"@da,
+        "Praktikant"@de,
+        "ασκούμενος"@el,
+        "trainee"@en,
+        "becario"@es,
+        "praktikant"@et,
+        "harjoittelija"@fi,
+        "stagiaire"@fr,
+        "oiliúnaí"@ga,
+        "pripravnik"@hr,
+        "gyakornok"@hu,
+        "tirocinante"@it,
+        "stažuotojas"@lt,
+        "stažieris"@lv,
+        "trainee"@mt,
+        "stagiair"@nl,
+        "stażysta"@pl,
+        "estagiário"@pt,
+        "stagiar"@ro,
+        "stážista"@sk,
+        "pripravnik"@sl,
+        "praktikant"@sv .
+
+atold:position-type a skos:ConceptScheme ;
+    rdfs:label "Position type"@en ;
+    at:prefLabel "Position type"@en ;
+    at:table.id "position-type" ;
+    at:table.version.number "20210929-0" ;
+    owl:versionInfo "20210929-0" ;
+    skos:prefLabel "Position type"@en .
+

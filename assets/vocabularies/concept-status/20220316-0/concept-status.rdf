@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:at="http://publications.europa.eu/ontology/authority/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:atold="http://publications.europa.eu/resource/authority/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xml:base="http://publications.europa.eu/resource/authority/concept-status">
+   <skos:ConceptScheme rdf:about="http://publications.europa.eu/resource/authority/concept-status"
+                       at:table.id="concept-status"
+                       at:table.version.number="20220316-0">
+      <at:prefLabel xml:lang="en">Concept status</at:prefLabel>
+      <rdfs:label xml:lang="en">Concept status</rdfs:label>
+      <owl:versionInfo>20220316-0</owl:versionInfo>
+      <skos:prefLabel xml:lang="en">Concept status</skos:prefLabel>
+   </skos:ConceptScheme>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/concept-status/CANDIDATE"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="en">candidate</skos:prefLabel>
+      <at:authority-code>CANDIDATE</at:authority-code>
+      <at:op-code>CANDIDATE</at:op-code>
+      <at:start.use>2009-12-01</at:start.use>
+      <atold:op-code>CANDIDATE</atold:op-code>
+      <dc:identifier>CANDIDATE</dc:identifier>
+      <skos:definition xml:lang="en">The "CANDIDATE" status indicates that the code/concept has been proposed for approval or sent for information to the IMMC. Once the code/concept is approved its status will become "CURRENT". It is only used for internal management purposes and will not be published.</skos:definition>
+      <skos:definition xml:lang="fr">Le statut "CANDIDATE" indique que le code/concept a été soumis pour approbation ou envoyé pour information à l'IMMC. Une fois le code/concept approuvé, son statut devient "CURRENT".</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/concept-status"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/concept-status"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/concept-status/CANDIDATE_DEPRECATED"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="en">candidate.deprecated</skos:prefLabel>
+      <at:authority-code>CANDIDATE_DEPRECATED</at:authority-code>
+      <at:op-code>CANDIDATE_DEPRECATED</at:op-code>
+      <at:start.use>2009-12-01</at:start.use>
+      <atold:op-code>CANDIDATE_DEPRECATED</atold:op-code>
+      <dc:identifier>CANDIDATE_DEPRECATED</dc:identifier>
+      <skos:definition xml:lang="en">The "CANDIDATE_DEPRECATED" status indicates that the code/concept has been proposed for approval or sent for information to the IMMC and will become "DEPRECATED" after approval. It is only used for internal management purposes and will not be published.</skos:definition>
+      <skos:definition xml:lang="fr">Le statut "CANDIDATE_ DEPRECATED" indique que le code/concept a été soumis pour approbation ou envoyé pour information à l'IMMC. Une fois le code/concept approuvé, son statut devient "DEPRECATED".</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/concept-status"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/concept-status"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/concept-status/CURRENT"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">актуално</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">stávájící</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">gældende</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">aktuell</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">ισχύει</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">current</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">actual</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">praegune</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">nykyinen</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">en vigueur</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">i bhfeidhm</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">trenutačni</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">aktuális</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">attuale</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">dabartinis</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">pašreizējs</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">attwali</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">actueel</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">obecny</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">comum</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">actual</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">súčasný</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">sedanje</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">gällande</skos:prefLabel>
+      <at:authority-code>CURRENT</at:authority-code>
+      <at:op-code>CURRENT</at:op-code>
+      <at:start.use>2009-12-01</at:start.use>
+      <atold:op-code>CURRENT</atold:op-code>
+      <dc:identifier>CURRENT</dc:identifier>
+      <skos:definition xml:lang="en">The "CURRENT" status indicates that the code/concept is in force and has been approved by the IMMC. This is the version of the code/concept to be used in the present timespan.</skos:definition>
+      <skos:definition xml:lang="fr">Le statut "CURRENT" indique que le code/concept est en vigueur et a été approuvé par l'IMMC. C'est la version du code à utiliser dans la période de temps présente.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/concept-status"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/concept-status"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/concept-status/DEPRECATED"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">неактуално</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">zastaralé</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">frarådet</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">veraltet</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">δεν ισχύει πλέον</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">deprecated</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">desaconsejado</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">vananenud</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">hylätty</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">obsolète</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">dímholta</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">smijenjeni</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">elavult</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">sconsigliato</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">nerekomenduojamas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">novecojis</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">deprekat</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">verouderd</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">nieaktualny</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">utilização desaconselhada</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">nerecomandat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">zastaraný</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">zastarano</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">föråldrad</skos:prefLabel>
+      <at:authority-code>DEPRECATED</at:authority-code>
+      <at:op-code>DEPRECATED</at:op-code>
+      <at:start.use>2009-12-01</at:start.use>
+      <atold:op-code>DEPRECATED</atold:op-code>
+      <dc:identifier>DEPRECATED</dc:identifier>
+      <skos:definition xml:lang="en">The "DEPRECATED" status indicates that the code/concept is no longer in force and should not be used outside the given timespan.</skos:definition>
+      <skos:definition xml:lang="fr">Le statut "DEPRECATED" indique que le code/concept n'est plus en vigueur et ne doit être utilisé que dans la période de temps indiquée.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/concept-status"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/concept-status"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/concept-status/DRAFT"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="en">draft</skos:prefLabel>
+      <at:authority-code>DRAFT</at:authority-code>
+      <at:op-code>DRAFT</at:op-code>
+      <at:start.use>2009-12-01</at:start.use>
+      <atold:op-code>DRAFT</atold:op-code>
+      <dc:identifier>DRAFT</dc:identifier>
+      <skos:definition xml:lang="en">The "DRAFT" status is used for the preparation of the code/concept that will become "CANDIDATE". It is only used for internal management purposes and will not be published.</skos:definition>
+      <skos:definition xml:lang="fr">Le statut "DRAFT" est utilisé lors de la préparation du code/concept qui deviendra "CANDIDATE". Il est utilisé uniquement à des fins de gestion interne et ne sera pas publié.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/concept-status"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/concept-status"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/concept-status/DRAFT_DEPRECATED"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="en">draft.deprecated</skos:prefLabel>
+      <at:authority-code>DRAFT_DEPRECATED</at:authority-code>
+      <at:op-code>DRAFT_DEPRECATED</at:op-code>
+      <at:start.use>2009-12-01</at:start.use>
+      <atold:op-code>DRAFT_DEPRECATED</atold:op-code>
+      <dc:identifier>DRAFT_DEPRECATED</dc:identifier>
+      <skos:definition xml:lang="en">The "DRAFT_DEPRECATED" status is used for the preparation of the code/concept that will become "CANDIDATE_DEPRECATED". It is only used for internal management purposes and will not be published.</skos:definition>
+      <skos:definition xml:lang="fr">Le statut "DRAFT_DEPRECATED" est utilisé lors de la préparation du code/concept qui deviendra "CANDIDATE_DEPRECATED". Il est utilisé uniquement à des fins de gestion interne et ne sera pas publié.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/concept-status"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/concept-status"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/concept-status/OP_DATPRO"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">НЕОКОНЧАТЕЛНИ ДАННИ</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Předběžné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Midlertidige data</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Vorläufige Daten</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Προσωρινά δεδομένα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Provisional data</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Datos provisionales</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Esialgsed andmed</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Alustavat tiedot</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Données provisoires</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Sonraí sealadacha</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Privremeni podaci</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Ideiglenes adatok</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Dati provvisori</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Laikinieji duomenys</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Provizoriski dati</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Dejta provviżorja</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Voorlopige gegevens</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Dane tymczasowe</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Dados provisórios</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Date provizorii</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Predbežné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Začasni podatki</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Tillfälliga uppgifter</skos:prefLabel>
+      <at:authority-code>OP_DATPRO</at:authority-code>
+      <at:op-code>OP_DATPRO</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>OP_DATPRO</atold:op-code>
+      <dc:identifier>OP_DATPRO</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/concept-status"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/concept-status"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/concept-status/PLANNED"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="en">planned</skos:prefLabel>
+      <at:authority-code>PLANNED</at:authority-code>
+      <at:op-code>PLANNED</at:op-code>
+      <at:start.use>2021-12-20</at:start.use>
+      <atold:op-code>PLANNED</atold:op-code>
+      <dc:identifier>PLANNED</dc:identifier>
+      <skos:definition xml:lang="en">The "PLANNED" status indicates that the code/concept does not exist yet, it is only a future plan and may become current one day. The start date of such concepts is the date of the proposal, e.g. of a preparatory document, not the supposed future date of the realisation.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/concept-status"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/concept-status"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/concept-status/RETIRED"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">отменено</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">již nepoužívané</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">forældet</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">nicht mehr in Gebrauch</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">έχει καταργηθεί</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">retired</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">retirado</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">kehtetu</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">poistettu käytöstä</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">supprimé</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">as feidhm</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">umirovljeni</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">visszavonva</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">ritirato</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">panaikintas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">atcelts</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">irtirat</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">niet meer in gebruik</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">wycofany</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">reformado</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">retras</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">nepoužíva sa</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">umaknjeno</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">borttagen</skos:prefLabel>
+      <at:authority-code>RETIRED</at:authority-code>
+      <at:op-code>RETIRED</at:op-code>
+      <at:start.use>2009-12-01</at:start.use>
+      <atold:op-code>RETIRED</atold:op-code>
+      <dc:identifier>RETIRED</dc:identifier>
+      <skos:definition xml:lang="en">The "RETIRED" status indicates that the code/concept has been withdrawn and should no longer be used. If a successor is indicated use this code/concept instead.</skos:definition>
+      <skos:definition xml:lang="fr">Le statut "RETIRED" indique que le code/concep t a été retiré et ne doit plus être utilisé. Si un code/concept successeur est indiqué, il devra être utilisé en remplacement.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/concept-status"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/concept-status"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/concept-status/REVISED"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="en">revised</skos:prefLabel>
+      <at:authority-code>REVISED</at:authority-code>
+      <at:op-code>REVISED</at:op-code>
+      <at:start.use>2018-02-20</at:start.use>
+      <atold:op-code>REVISED</atold:op-code>
+      <dc:identifier>REVISED</dc:identifier>
+      <skos:definition xml:lang="en">The "REVISED" status indicates that a new record with updated labels for an existing code was created. As the code was already checked by the IMMC, there is no need to inform or submit it again for approval by the committee. The status will become "CURRENT" before publication. It is only used for internal management purposes and will not be published.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/concept-status"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/concept-status"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/concept-status/REVISED_DEPRECATED"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="en">revised.deprecated</skos:prefLabel>
+      <at:authority-code>REVISED_DEPRECATED</at:authority-code>
+      <at:op-code>REVISED_DEPRECATED</at:op-code>
+      <at:start.use>2018-02-20</at:start.use>
+      <atold:op-code>REVISED_DEPRECATED</atold:op-code>
+      <dc:identifier>REVISED_DEPRECATED</dc:identifier>
+      <skos:definition xml:lang="en">The "REVISED_DEPRECATED" status indicates that a new record with labels which are no longer valid for an existing code was created. As the code was already checked by the IMMC, there is no need to inform or submit it again for approval by the committee. The status will become "DEPRECATED" before publication. It is only used for internal management purposes and will not be published.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/concept-status"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/concept-status"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/concept-status/WAITING"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="en">waiting</skos:prefLabel>
+      <at:authority-code>WAITING</at:authority-code>
+      <at:op-code>WAITING</at:op-code>
+      <at:start.use>2015-07-01</at:start.use>
+      <atold:op-code>WAITING</atold:op-code>
+      <dc:identifier>WAITING</dc:identifier>
+      <skos:definition xml:lang="en">The "WAITING" status indicates that the "CANDIDATE" code/concept has been sent for approval to the IMMC and remains at this stage as long as that approval has not been given. It is only used for internal management purposes and will not be published.</skos:definition>
+      <skos:definition xml:lang="fr">Le statut "WAITING" indique que le code/concept "CANDIDATE" a été envoyé à l'IMMC pour approbation et reste à ce niveau aussi longtemps que l'approbation n'a pas été donnée. Il est utilisé uniquement à des fins de gestion interne et ne sera pas publié.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/concept-status"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/concept-status"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/concept-status/WAITING_DEPRECATED"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="en">waiting.deprecated</skos:prefLabel>
+      <at:authority-code>WAITING_DEPRECATED</at:authority-code>
+      <at:op-code>WAITING_DEPRECATED</at:op-code>
+      <at:start.use>2015-07-03</at:start.use>
+      <atold:op-code>WAITING_DEPRECATED</atold:op-code>
+      <dc:identifier>WAITING_DEPRECATED</dc:identifier>
+      <skos:definition xml:lang="en">The "WAITING_DEPRECATED" status indicates that the "CANDIDATE_DEPRECATED" code/concept has been sent for approval to the IMMC and remains at this stage as long as that approval has not been given. It is only used for internal management purposes and will not be published.</skos:definition>
+      <skos:definition xml:lang="fr">Le statut "WAITING_DEPRECATED" indique que le code/concept "CANDIDATE_DEPRECATED" a été envoyé à l'IMMC pour approbation et reste à ce niveau aussi longtemps que l'approbation n'a pas été donnée. Il est utilisé uniquement à des fins de gestion interne et ne sera pas publié.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/concept-status"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/concept-status"/>
+   </skos:Concept>
+</rdf:RDF>

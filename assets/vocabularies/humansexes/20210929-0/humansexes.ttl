@@ -1,0 +1,245 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/human-sex/FEMALE> a skos:Concept ;
+    at:authority-code "FEMALE" ;
+    at:deprecated "false" ;
+    at:op-code "FEMALE" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "2" ;
+            dc:source "ISO_5218_2" ] ;
+    at:start.use "2015-05-06" ;
+    atold:op-code "FEMALE" ;
+    dc:identifier "FEMALE" ;
+    skos:definition "The concept FEMALE is used for representing the human sexes in the context of interchange of information in the social sciences domain."@en,
+        "Le concept FÉMININ est utilisé pour représenter les sexes humains dans le contexte d'échange d'information appliqué au domaine des sciences sociales."@fr ;
+    skos:inScheme atold:human-sex ;
+    skos:prefLabel "женски"@bg,
+        "ženské"@cs,
+        "kvinde"@da,
+        "weiblich"@de,
+        "γυναίκα"@el,
+        "female"@en,
+        "femenino"@es,
+        "naissoost"@et,
+        "naiset"@fi,
+        "féminin"@fr,
+        "baineann"@ga,
+        "ženski"@hr,
+        "nő"@hu,
+        "femminile"@it,
+        "moteris"@lt,
+        "sievietes"@lv,
+        "femminili"@mt,
+        "vrouwelijk"@nl,
+        "żeńska"@pl,
+        "feminino"@pt,
+        "feminin"@ro,
+        "ženské"@sk,
+        "ženski"@sl,
+        "kvinna"@sv ;
+    skos:topConceptOf atold:human-sex .
+
+<http://publications.europa.eu/resource/authority/human-sex/MALE> a skos:Concept ;
+    at:authority-code "MALE" ;
+    at:deprecated "false" ;
+    at:op-code "MALE" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "1" ;
+            dc:source "ISO_5218_2" ] ;
+    at:start.use "2015-05-06" ;
+    atold:op-code "MALE" ;
+    dc:identifier "MALE" ;
+    skos:definition "The concept MALE is used for representing the human sexes in the context of interchange of information in the social sciences domain."@en,
+        "Le concept MASCULIN est utilisé pour représenter les sexes humains dans le contexte d'échange d'information appliqué au domaine des sciences sociales."@fr ;
+    skos:inScheme atold:human-sex ;
+    skos:prefLabel "мъжки"@bg,
+        "mužské"@cs,
+        "mand"@da,
+        "männlich"@de,
+        "άνδρας"@el,
+        "male"@en,
+        "masculino"@es,
+        "meessoost"@et,
+        "miehet"@fi,
+        "masculin"@fr,
+        "fireann"@ga,
+        "muški"@hr,
+        "férfi"@hu,
+        "maschile"@it,
+        "vyras"@lt,
+        "vīrieši"@lv,
+        "maskili"@mt,
+        "mannelijk"@nl,
+        "męska"@pl,
+        "masculino"@pt,
+        "masculin"@ro,
+        "mužské"@sk,
+        "moški"@sl,
+        "man"@sv ;
+    skos:topConceptOf atold:human-sex .
+
+<http://publications.europa.eu/resource/authority/human-sex/NAP> a skos:Concept ;
+    at:authority-code "NAP" ;
+    at:deprecated "false" ;
+    at:op-code "NAP" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "9" ;
+            dc:source "ISO_5218_2" ] ;
+    at:start.use "2015-05-06" ;
+    atold:op-code "NAP" ;
+    dc:identifier "NAP" ;
+    skos:definition "The concept NOT APPLICABLE is used in the context of interchange of information in the social sciences domain when none of the sexes can be represented."@en,
+        "Le concept SANS OBJET est utilisé dans le contexte d'échange d'information appliqué au domaine des sciences sociales lorsqu'aucun des sexes ne peut être représenté."@fr ;
+    skos:inScheme atold:human-sex ;
+    skos:prefLabel "не е приложимо"@bg,
+        "není"@cs,
+        "ikke relevant"@da,
+        "nicht zutreffend"@de,
+        "δεν ισχύει"@el,
+        "not applicable"@en,
+        "no procede"@es,
+        "ei kohaldata"@et,
+        "ei sovellettavissa"@fi,
+        "sans objet"@fr,
+        "ní bhaineann le hábhar"@ga,
+        "ne primjenjuje se"@hr,
+        "nem alkalmazandó"@hu,
+        "non pertinente"@it,
+        "netaikoma"@lt,
+        "neattiecas"@lv,
+        "mhux applikabbli"@mt,
+        "niet van toepassing"@nl,
+        "nie ma zastosowania"@pl,
+        "não aplicável"@pt,
+        "nu se aplică"@ro,
+        "neuplatňuje sa"@sk,
+        "ni relevantno"@sl,
+        "ej tillämpligt"@sv ;
+    skos:topConceptOf atold:human-sex .
+
+<http://publications.europa.eu/resource/authority/humansexes/OP_DATPRO> a skos:Concept ;
+    at:authority-code "OP_DATPRO" ;
+    at:deprecated "false" ;
+    at:op-code "OP_DATPRO" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:human-sex ;
+    skos:prefLabel "НЕОКОНЧАТЕЛНИ ДАННИ"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv ;
+    skos:topConceptOf atold:human-sex .
+
+<http://publications.europa.eu/resource/authority/human-sex/NKN> a skos:Concept ;
+    at:authority-code "NKN" ;
+    at:deprecated "false" ;
+    at:op-code "NKN" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "0" ;
+            dc:source "ISO_5218_2" ] ;
+    at:start.use "2015-05-06" ;
+    atold:op-code "NKN" ;
+    dc:identifier "NKN" ;
+    skos:definition "The concept NOT KNOWN is used in the context of interchange of information in the social sciences domain when the human sex is unkown."@en,
+        "Le concept INCONNU est utilisé dans le contexte d'échange d'information appliqué au domaine des sciences sociales lorsque le sexe humain est inconnu."@fr ;
+    skos:inScheme atold:human-sex ;
+    skos:narrower <http://publications.europa.eu/resource/authority/human-sex/NST> ;
+    skos:prefLabel "не е известен"@bg,
+        "není známo"@cs,
+        "ikke kendt"@da,
+        "nicht bekannt"@de,
+        "άγνωστο"@el,
+        "not known"@en,
+        "se desconoce"@es,
+        "ei ole teada"@et,
+        "ei tiedossa"@fi,
+        "inconnu"@fr,
+        "ní fios"@ga,
+        "nije poznato"@hr,
+        "nem ismert"@hu,
+        "ignoto"@it,
+        "nežinoma"@lt,
+        "nav zināms"@lv,
+        "mhux magħruf"@mt,
+        "onbekend"@nl,
+        "nieznana"@pl,
+        "desconhecido"@pt,
+        "nu se cunoaște"@ro,
+        "neznáme"@sk,
+        "ni znano"@sl,
+        "ej känt"@sv ;
+    skos:topConceptOf atold:human-sex .
+
+<http://publications.europa.eu/resource/authority/human-sex/NST> a skos:Concept ;
+    at:authority-code "NST" ;
+    at:deprecated "false" ;
+    at:op-code "NST" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "0" ;
+            dc:source "ISO_5218_2" ] ;
+    at:start.use "2020-11-26" ;
+    atold:op-code "NST" ;
+    dc:identifier "NST" ;
+    skos:broader <http://publications.europa.eu/resource/authority/human-sex/NKN> ;
+    skos:definition "The concept NOT STATED is used in the context of interchange of information in the social sciences domain when the human sex is not stated."@en,
+        "Le concept NON INDIQUÉ est utilisé dans le contexte d'échange d'information appliqué au domaine des sciences sociales lorsque le sexe humain est non indiqué."@fr ;
+    skos:inScheme atold:human-sex ;
+    skos:prefLabel "не е посочен"@bg,
+        "neuvedeno"@cs,
+        "ikke oplyst"@da,
+        "nicht angegeben"@de,
+        "δεν αναφέρεται"@el,
+        "not stated"@en,
+        "no consta"@es,
+        "täpsustamata"@et,
+        "ei mainittu"@fi,
+        "non précisé"@fr,
+        "ní luaitear"@ga,
+        "nije navedeno"@hr,
+        "nincs adat"@hu,
+        "non dichiarato"@it,
+        "nenurodyta"@lt,
+        "nav norādīts"@lv,
+        "mhux iddikjarat"@mt,
+        "niet vermeld"@nl,
+        "nie określono"@pl,
+        "não indicado"@pt,
+        "nedeclarat"@ro,
+        "neuvedené"@sk,
+        "ni navedeno"@sl,
+        "ej uppgivet"@sv .
+
+atold:human-sex a skos:ConceptScheme ;
+    rdfs:label "Human sex"@en ;
+    at:prefLabel "Human sex"@en ;
+    at:table.id "human-sex" ;
+    at:table.version.number "20210929-0" ;
+    owl:versionInfo "20210929-0" ;
+    skos:prefLabel "Human sex"@en .
+

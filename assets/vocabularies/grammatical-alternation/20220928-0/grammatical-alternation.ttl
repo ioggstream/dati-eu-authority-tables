@@ -1,0 +1,119 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/grammatical-alternation/C> a skos:Concept ;
+    at:authority-code "C" ;
+    at:deprecated "false" ;
+    at:op-code "C" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "C" ;
+    dc:identifier "C" ;
+    skos:definition "Number form used in Maltese before words of more than one syllable beginning with a consonant and before words of more than two syllables beginning with two consonants."@en ;
+    skos:inScheme atold:grammatical-alternation ;
+    skos:prefLabel "Съгласна"@bg,
+        "V případě souhlásky"@cs,
+        "Konsonant"@da,
+        "Konsonant"@de,
+        "Σύμφωνο"@el,
+        "Consonant"@en,
+        "Consonante"@es,
+        "Konsonant"@et,
+        "Konsonantti"@fi,
+        "Consonne"@fr,
+        "Consain"@ga,
+        "Suglasnik"@hr,
+        "Mássalhangzó"@hu,
+        "Consonante"@it,
+        "Priebalsė"@lt,
+        "Līdzskanis"@lv,
+        "Konsonanti"@mt,
+        "Medeklinker"@nl,
+        "Spółgłoskowy"@pl,
+        "Consoante"@pt,
+        "Consoană"@ro,
+        "Spoluhláska"@sk,
+        "Soglasnik"@sl,
+        "Konsonant"@sv ;
+    skos:topConceptOf atold:grammatical-alternation .
+
+<http://publications.europa.eu/resource/authority/grammatical-alternation/OP_DATPRO> a skos:Concept ;
+    at:authority-code "OP_DATPRO" ;
+    at:deprecated "false" ;
+    at:op-code "OP_DATPRO" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:grammatical-alternation ;
+    skos:prefLabel "Неокончателни данни"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv ;
+    skos:topConceptOf atold:grammatical-alternation .
+
+<http://publications.europa.eu/resource/authority/grammatical-alternation/V> a skos:Concept ;
+    at:authority-code "V" ;
+    at:deprecated "false" ;
+    at:op-code "V" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "V" ;
+    dc:identifier "V" ;
+    skos:definition "Number form used in Maltese before words beginning with a vowel, before one-syllable words beginning with one consonant and before two-syllable words beginning with two consonants to which the euphonic vowel i- is added."@en ;
+    skos:inScheme atold:grammatical-alternation ;
+    skos:prefLabel "Гласна"@bg,
+        "V případě samohlásky"@cs,
+        "Vokal"@da,
+        "Vokal"@de,
+        "Φωνήεν"@el,
+        "Vowel"@en,
+        "Vocal"@es,
+        "Täishäälik"@et,
+        "Vokaali"@fi,
+        "Voyelle"@fr,
+        "Guta"@ga,
+        "Samoglasnik"@hr,
+        "Magánhangzó"@hu,
+        "Vocale"@it,
+        "Balsė"@lt,
+        "Patskanis"@lv,
+        "Vokali"@mt,
+        "Klinker"@nl,
+        "Samogłoskowy"@pl,
+        "Vogal"@pt,
+        "Vocală"@ro,
+        "Samohláska"@sk,
+        "Samoglasnik"@sl,
+        "Vokal"@sv ;
+    skos:topConceptOf atold:grammatical-alternation .
+
+atold:grammatical-alternation a skos:ConceptScheme ;
+    rdfs:label "Grammatical alternation"@en ;
+    at:prefLabel "Grammatical alternation"@en ;
+    at:table.id "grammatical-alternation" ;
+    at:table.version.number "20220928-0" ;
+    owl:versionInfo "20220928-0" ;
+    skos:prefLabel "Grammatical alternation"@en .
+

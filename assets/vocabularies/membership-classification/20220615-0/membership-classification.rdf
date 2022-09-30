@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:at="http://publications.europa.eu/ontology/authority/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:atold="http://publications.europa.eu/resource/authority/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xml:base="http://publications.europa.eu/resource/authority/membership-classification">
+   <skos:ConceptScheme rdf:about="http://publications.europa.eu/resource/authority/membership-classification"
+                       at:table.id="membership-classification"
+                       at:table.version.number="20220615-0">
+      <at:prefLabel xml:lang="en">Membership classification</at:prefLabel>
+      <rdfs:label xml:lang="en">Membership classification</rdfs:label>
+      <owl:versionInfo>20220615-0</owl:versionInfo>
+      <skos:prefLabel xml:lang="en">Membership classification</skos:prefLabel>
+   </skos:ConceptScheme>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/membership-classification/EEA"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Европейско икономическо пространство</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Evropský hospodářský prostor</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Det Europæiske Økonomiske Samarbejdsområde</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Europäischer Wirtschaftsraum</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Ευρωπαϊκός Οικονομικός Χώρος</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">European Economic Area</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Espacio Económico Europeo</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Euroopa majanduspiirkond</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Euroopan talousalue</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Espace économique européen</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An Limistéar Eorpach Eacnamaíoch</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Europski gospodarski prostor</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Európai Gazdasági Térség</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Spazio economico europeo</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Europos ekonominė erdvė</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Eiropas Ekonomikas zona</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Iż-żona Ekonomika Ewropea</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Europese Economische Ruimte</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Europejski obszar gospodarczy</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Espaço Económico Europeu</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Spațiul Economic European</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Európsky hospodársky priestor</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Evropski gospodarski prostor</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Europeiska ekonomiska samarbetsområdet</skos:prefLabel>
+      <at:authority-code>EEA</at:authority-code>
+      <at:op-code>EEA</at:op-code>
+      <at:start.use>1994-01-01</at:start.use>
+      <atold:op-code>EEA</atold:op-code>
+      <dc:identifier>EEA</dc:identifier>
+      <skos:definition xml:lang="en">The European Economic Area (EEA) brings together the EU Member States and three of the EFTA States. It was established by the EEA Agreement, an international agreement which enables these three EFTA States to participate fully in the Single Market. It covers the four freedoms, i.e. the free movement of goods, capital, services and persons, plus competition and state aid rules and horizontal areas related to the four freedoms.</skos:definition>
+      <skos:exactMatch rdf:resource="http://publications.europa.eu/resource/authority/corporate-body/EEAREA"/>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/membership-classification"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/membership-classification"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/membership-classification/EFTA"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Европейска асоциация за свободна търговия</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Evropské sdružení volného obchodu</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Den Europæiske Frihandelssammenslutning</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Europäische Freihandelsassoziation</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Ευρωπαϊκή Ζώνη Ελεύθερων Συναλλαγών</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">European Free Trade Association</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Asociación Europea de Libre Comercio</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Euroopa Vabakaubanduse Assotsiatsioon</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Euroopan vapaakauppajärjestö</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Association européenne de libre-échange</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Comhlachas Saorthrádála na hEorpa</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Europsko udruženje slobodne trgovine</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Európai Szabadkereskedelmi Társulás</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Associazione europea di libero scambio</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Europos laisvosios prekybos asociacija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Eiropas Brīvās tirdzniecības asociācija</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">L-Assoċjazzjoni Ewropea tal-Kummerċ Ħieles</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Europese Vrijhandelsassociatie</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Europejskie Stowarzyszenie Wolnego Handlu</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Associação Europeia de Comércio Livre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Asociația Europeană a Liberului Schimb</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Európske združenie voľného obchodu</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Evropsko združenje za prosto trgovino</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Europeiska frihandelssammanslutningen</skos:prefLabel>
+      <at:authority-code>EFTA</at:authority-code>
+      <at:op-code>EFTA</at:op-code>
+      <at:start.use>1960-01-04</at:start.use>
+      <atold:op-code>EFTA</atold:op-code>
+      <dc:identifier>EFTA</dc:identifier>
+      <skos:definition xml:lang="en">The European Free Trade Association (EFTA) is an intergovernmental organisation set up for the promotion of free trade and economic integration to the benefit of its Member States. The Association manages the EFTA Convention; EFTA’s worldwide network of free trade and partnership agreements, and the European Economic Area Agreement.</skos:definition>
+      <skos:exactMatch rdf:resource="http://publications.europa.eu/resource/authority/corporate-body/EFTA"/>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/membership-classification"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/membership-classification"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/membership-classification/EU"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Европейски съюз</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Evropská unie</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Den Europæiske Union</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Europäische Union</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Ευρωπαϊκή Ένωση</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">European Union</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Unión Europea</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Euroopa Liit</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Euroopan unioni</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Union européenne</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An tAontas Eorpach</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Europska unija</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Európai Unió</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Unione europea</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Europos Sąjunga</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Eiropas Savienība</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">L-Unjoni Ewropea</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Europese Unie</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Unia Europejska</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">União Europeia</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Uniunea Europeană</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Európska únia</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Evropska unija</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Europeiska unionen</skos:prefLabel>
+      <at:authority-code>EU</at:authority-code>
+      <at:op-code>EU</at:op-code>
+      <at:start.use>1951-01-01</at:start.use>
+      <atold:op-code>EU</atold:op-code>
+      <dc:identifier>EU</dc:identifier>
+      <skos:definition xml:lang="en">The European Union (EU) is both a political project and a legal organisation. It takes action in many areas affecting the daily lives of European citizens. Its policies are implemented in accordance with the rules and procedures set out in a series of Treaties.</skos:definition>
+      <skos:exactMatch rdf:resource="http://publications.europa.eu/resource/authority/corporate-body/EURUN"/>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/membership-classification"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/membership-classification"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/membership-classification/EURO"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Еврозона</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Eurozóna</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Euroområdet</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Euro-Raum</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Ζώνη του ευρώ</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Euro area</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Zona del euro</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Euroala</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Euroalue</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Zone euro</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An limistéar euro</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Europodručje</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Euróövezet</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Zona euro</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Euro zona</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Eurozona</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Iż-żona tal-euro</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Eurozone</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Strefa euro</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Área do euro</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Zona euro</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Eurozóna</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Euroobmočje</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Euroområdet</skos:prefLabel>
+      <at:authority-code>EURO</at:authority-code>
+      <at:op-code>EURO</at:op-code>
+      <at:start.use>1999-01-01</at:start.use>
+      <atold:op-code>EURO</atold:op-code>
+      <dc:identifier>EURO</dc:identifier>
+      <skos:definition xml:lang="en">The euro area (or eurozone) is the monetary union of EU Member States which have adopted euro as common currency.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/membership-classification"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/membership-classification"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/membership-classification/NATO"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Организация на Северноатлантическия договор</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Organizace Severoatlantické smlouvy</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Den Nordatlantiske Traktats Organisation</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Nordatlantikvertrag-Organisation</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Οργανισμός Βορειοατλαντικού Συμφώνου</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">North Atlantic Treaty Organization</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Organización del Tratado del Atlántico Norte</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Põhja-Atlandi Lepingu Organisatsioon</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Pohjois-Atlantin liitto</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Organisation du traité de l’Atlantique Nord</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Eagraíocht Chonradh an Atlantaigh Thuaidh</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Organizacija Sjevernoatlantskog ugovora</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Észak-atlanti Szerződés Szervezete</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Organizzazione del trattato del Nord Atlantico</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Šiaurės Atlanto sutarties organizacija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Ziemeļatlantijas Līguma organizācija</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">L-Organizzazzjoni tat-Trattat tal-Atlantiku tat-Tramuntana</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Noord-Atlantische Verdragsorganisatie</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Organizacja Paktu Północnoatlantyckiego</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Organização do Tratado do Atlântico Norte</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Organizaţia Tratatului Atlanticului de Nord</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Severoatlantický pakt</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Organizacija severnoatlantskega sporazuma</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Nordatlantiska fördragsorganisationen</skos:prefLabel>
+      <at:authority-code>NATO</at:authority-code>
+      <at:op-code>NATO</at:op-code>
+      <at:start.use>1949-04-04</at:start.use>
+      <atold:op-code>NATO</atold:op-code>
+      <dc:identifier>NATO</dc:identifier>
+      <skos:definition xml:lang="en">The North Atlantic Treaty Organization (NATO) is an intergovernmental political and military alliance. NATO’s purpose is to guarantee the freedom and security of its members through political and military means.</skos:definition>
+      <skos:exactMatch rdf:resource="http://publications.europa.eu/resource/authority/corporate-body/NATO"/>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/membership-classification"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/membership-classification"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/membership-classification/OP_DATPRO"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Неокончателни данни</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Předběžné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Midlertidige data</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Vorläufige Daten</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Προσωρινά δεδομένα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Provisional data</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Datos provisionales</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Esialgsed andmed</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Alustavat tiedot</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Données provisoires</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Sonraí sealadacha</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Privremeni podaci</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Ideiglenes adatok</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Dati provvisori</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Laikinieji duomenys</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Provizoriski dati</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Dejta provviżorja</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Voorlopige gegevens</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Dane tymczasowe</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Dados provisórios</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Date provizorii</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Predbežné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Začasni podatki</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Tillfälliga uppgifter</skos:prefLabel>
+      <at:authority-code>OP_DATPRO</at:authority-code>
+      <at:op-code>OP_DATPRO</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>OP_DATPRO</atold:op-code>
+      <dc:identifier>OP_DATPRO</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/membership-classification"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/membership-classification"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/membership-classification/OTHER"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Друго</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Jiný</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Anden</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Andere</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Άλλο</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Other</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Otro</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Muu</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Muu</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Autre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Eile</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Drugo</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Egyéb</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Altro</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Kitas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Cits</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Ieħor</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Ander</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Inny</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Outro</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Altele</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Iný</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Drugo</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Annan</skos:prefLabel>
+      <at:authority-code>OTHER</at:authority-code>
+      <at:op-code>OTHER</at:op-code>
+      <at:start.use>1951-01-01</at:start.use>
+      <atold:op-code>OTHER</atold:op-code>
+      <dc:identifier>OTHER</dc:identifier>
+      <skos:definition xml:lang="en">Code to be assigned when a concept cannot be specifically identified by any of the other types of membership.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/membership-classification"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/membership-classification"/>
+      <skos:altLabel xml:lang="sv">Annat</skos:altLabel>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/membership-classification/SCHENGEN"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Шенгенско пространство</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Schengenský prostor</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Schengenområdet</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Schengen-Raum</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Χώρος Σένγκεν</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Schengen area</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Espacio Schengen</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Schengeni ala</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Schengen-alue</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Espace Schengen</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Limistéar Schengen</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Schengensko područje</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Schengeni térség</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Spazio Schengen</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Šengeno erdvė</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Šengenas zona</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Iż-żona Schengen</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Schengengebied</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Strefa Schengen</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Espaço Schengen</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Spațiul Schengen</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Schengenský priestor</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Schengensko območje</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Schengenområdet</skos:prefLabel>
+      <at:authority-code>SCHENGEN</at:authority-code>
+      <at:op-code>SCHENGEN</at:op-code>
+      <at:start.use>1995-03-26</at:start.use>
+      <atold:op-code>SCHENGEN</atold:op-code>
+      <dc:identifier>SCHENGEN</dc:identifier>
+      <skos:definition xml:lang="en">The Schengen area is an area comprising European countries which have acknowledged the abolishment of their internal borders with other member countries and outside, for the free and unrestricted movement of people, goods, services, and capital, in harmony with common rules for controlling external borders and fighting criminality by strengthening common judicial system and police cooperation.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/membership-classification"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/membership-classification"/>
+   </skos:Concept>
+</rdf:RDF>

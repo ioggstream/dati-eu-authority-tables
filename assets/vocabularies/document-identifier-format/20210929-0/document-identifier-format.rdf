@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:at="http://publications.europa.eu/ontology/authority/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:atold="http://publications.europa.eu/resource/authority/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xml:base="http://publications.europa.eu/resource/authority/document-identifier-format">
+   <skos:ConceptScheme rdf:about="http://publications.europa.eu/resource/authority/document-identifier-format"
+                       at:table.id="document-identifier-format"
+                       at:table.version.number="20210929-0">
+      <at:prefLabel xml:lang="en">Document identifier format</at:prefLabel>
+      <rdfs:label xml:lang="en">Document identifier format</rdfs:label>
+      <owl:versionInfo>20210929-0</owl:versionInfo>
+      <skos:prefLabel xml:lang="en">Document identifier format</skos:prefLabel>
+   </skos:ConceptScheme>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/document-identifier-format/COM_NUMBER"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">COM номер</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Číslo COM</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">COM-nummer</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">COM-Nummer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Αριθμός COM</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">COM number</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Número COM</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">COMi number</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">COM-numero</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Numéro COM</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Uimhir COM</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Broj COM</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">COM-szám</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Numero COM</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">COM numeris</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">COM numurs</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Numru COM</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">COM-nummer</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Numer COM</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Número COM</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Număr COM</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Číslo COM</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Številka COM</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">COM-nummer</skos:prefLabel>
+      <at:authority-code>COM_NUMBER</at:authority-code>
+      <at:op-code>COM_NUMBER</at:op-code>
+      <at:start.use>2021-05-11</at:start.use>
+      <atold:op-code>COM_NUMBER</atold:op-code>
+      <dc:identifier>COM_NUMBER</dc:identifier>
+      <skos:definition xml:lang="en">COM number is a document identifier of the European Commission comprising the following elements: "COM" &lt;year&gt; &lt;sequential number&gt; (e.g. COM(2019) 370). In AKN4EU, it is used to identify the components of a document identifier that follows the COM documents syntax.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/document-identifier-format"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/document-identifier-format"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/document-identifier-format/CSL_NUMBER"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">CSL номер</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Número CSL</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">CSL-nummer</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">CSL-Nummer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Αριθμός CSL</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">CSL number</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Número CSL</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">CSLi number</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">CSL-numero</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Numéro CSL</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Uimhir CSL</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Broj CSL</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">CSL-szám</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Numero CSL</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">CSL numeris</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">CSL numurs</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Numru CSL</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">CSL-nummer</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Numer CSL</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Número CSL</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Număr CSL</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Číslo CSL</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Številka CSL</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">CSL-nummer</skos:prefLabel>
+      <at:authority-code>CSL_NUMBER</at:authority-code>
+      <at:op-code>CSL_NUMBER</at:op-code>
+      <at:start.use>2021-05-11</at:start.use>
+      <atold:op-code>CSL_NUMBER</atold:op-code>
+      <dc:identifier>CSL_NUMBER</dc:identifier>
+      <skos:definition xml:lang="en">CSL number is a document identifier of the European Council comprising the following elements: &lt;sequential number&gt; &lt;suffix&gt; &lt;year&gt; (e.g. 05112/1/2020). In AKN4EU, it is used to identify the components of the identifier used by the Council for its internal documents.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/document-identifier-format"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/document-identifier-format"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/document-identifier-format/OP_DATPRO"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">НЕОКОНЧАТЕЛНИ ДАННИ</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Předběžné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Midlertidige data</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Vorläufige Daten</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Προσωρινά δεδομένα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Provisional data</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Datos provisionales</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Esialgsed andmed</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Alustavat tiedot</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Données provisoires</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Sonraí sealadacha</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Privremeni podaci</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Ideiglenes adatok</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Dati provvisori</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Laikinieji duomenys</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Provizoriski dati</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Dejta provviżorja</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Voorlopige gegevens</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Dane tymczasowe</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Dados provisórios</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Date provizorii</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Predbežné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Začasni podatki</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Tillfälliga uppgifter</skos:prefLabel>
+      <at:authority-code>OP_DATPRO</at:authority-code>
+      <at:op-code>OP_DATPRO</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>OP_DATPRO</atold:op-code>
+      <dc:identifier>OP_DATPRO</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/document-identifier-format"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/document-identifier-format"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/document-identifier-format/SESSION_NUMBER"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Номер на заседание</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Číslo zasedání</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Mødenummer</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Sitzungsnummer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Αριθμός συνεδρίας</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Session number</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Número de sesión</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Istungi number</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Istunnon numero</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Numéro de session</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Uimhir sheisiúin</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Broj sjednice</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Ülés száma</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Numero sessione</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Sesijos numeris</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Sēdes numurs</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Numru tas-sessjoni</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Zittingsnummer</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Numer sesji</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Número da sessão</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Numărul sesiunii</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Číslo zasadnutia</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Številka seje</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Sessionsnummer</skos:prefLabel>
+      <at:authority-code>SESSION_NUMBER</at:authority-code>
+      <at:op-code>SESSION_NUMBER</at:op-code>
+      <at:start.use>2021-05-11</at:start.use>
+      <atold:op-code>SESSION_NUMBER</atold:op-code>
+      <dc:identifier>SESSION_NUMBER</dc:identifier>
+      <skos:definition xml:lang="en">Session number is a document identifier of the European Parliament comprising the following elements: &lt;type of document&gt; &lt;number of legislature&gt; &lt;sequential number&gt; &lt;year&gt; (e.g. B9-0078/2020). In AKN4EU, it is used to identify the components of the identifier used by the European Parliament for the session identifier of all documents presented at a plenary session.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/document-identifier-format"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/document-identifier-format"/>
+   </skos:Concept>
+</rdf:RDF>

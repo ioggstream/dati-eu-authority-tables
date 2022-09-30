@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:at="http://publications.europa.eu/ontology/authority/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:atold="http://publications.europa.eu/resource/authority/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xml:base="http://publications.europa.eu/resource/authority/file-status">
+   <skos:ConceptScheme rdf:about="http://publications.europa.eu/resource/authority/file-status"
+                       at:table.id="file-status"
+                       at:table.version.number="20220928-0">
+      <at:prefLabel xml:lang="en">File status</at:prefLabel>
+      <rdfs:label xml:lang="en">File status</rdfs:label>
+      <owl:versionInfo>20220928-0</owl:versionInfo>
+      <skos:prefLabel xml:lang="en">File status</skos:prefLabel>
+   </skos:ConceptScheme>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/file-status/ADOPTED"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="en">Adopted</skos:prefLabel>
+      <at:authority-code>ADOPTED</at:authority-code>
+      <at:op-code>ADOPTED</at:op-code>
+      <at:start.use>2022-09-28</at:start.use>
+      <atold:op-code>ADOPTED</atold:op-code>
+      <dc:identifier>ADOPTED</dc:identifier>
+      <skos:definition xml:lang="en">Adopted means a file that has been voted or approved.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/file-status"/>
+      <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/file-status/PROP_ADOPTED"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/file-status"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/file-status/PROP_ADOPTED"
+                 at:deprecated="true">
+      <skos:prefLabel xml:lang="bg">Прието предложение</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Přijatý návrh</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Vedtaget forslag</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Angenommener Vorschlag</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Εγκριθείσα πρόταση</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Vastuvõetud ettepanek</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Hyväksytty ehdotus</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Elfogadott javaslat</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Priimtas pasiūlymas</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Prijatý návrh</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Sprejet predlog</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Adopted proposal</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Propuesta adoptada</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Proposition adoptée</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Togra glactha</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Doneseni prijedlog</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Proposta adottata</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Pieņemts priekšlikums</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Proposta adottata</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Aangenomen voorstel</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Wniosek przyjęty</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Proposta adotada</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Propunerea adoptată</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Antaget förslag</skos:prefLabel>
+      <at:authority-code>PROP_ADOPTED</at:authority-code>
+      <at:op-code>PROP_ADOPTED</at:op-code>
+      <at:start.use>2018-12-12</at:start.use>
+      <atold:op-code>PROP_ADOPTED</atold:op-code>
+      <dc:identifier>PROP_ADOPTED</dc:identifier>
+      <skos:definition xml:lang="en">Adopted proposal (or draft) means that the proposed legal act was adopted. The adopted legal act has to be published in the Official Journal in order to enter into force.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/file-status"/>
+      <at:end.use>2021-03-16</at:end.use>
+      <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/file-status/ADOPTED"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/file-status/FINAL"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="en">Final</skos:prefLabel>
+      <at:authority-code>FINAL</at:authority-code>
+      <at:op-code>FINAL</at:op-code>
+      <at:start.use>2022-09-28</at:start.use>
+      <atold:op-code>FINAL</atold:op-code>
+      <dc:identifier>FINAL</dc:identifier>
+      <skos:definition xml:lang="en">Final means a file that has been decided and stands in a stable version.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/file-status"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/file-status"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/file-status/OP_DATPRO"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Неокончателни данни</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Předběžné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Midlertidige data</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Vorläufige Daten</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Προσωρινά δεδομένα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Provisional data</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Datos provisionales</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Esialgsed andmed</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Alustavat tiedot</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Données provisoires</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Sonraí sealadacha</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Privremeni podaci</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Ideiglenes adatok</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Dati provvisori</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Laikinieji duomenys</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Provizoriski dati</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Dejta provviżorja</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Voorlopige gegevens</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Dane tymczasowe</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Dados provisórios</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Date provizorii</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Predbežné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Začasni podatki</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Tillfälliga uppgifter</skos:prefLabel>
+      <at:authority-code>OP_DATPRO</at:authority-code>
+      <at:op-code>OP_DATPRO</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>OP_DATPRO</atold:op-code>
+      <dc:identifier>OP_DATPRO</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/file-status"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/file-status"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/file-status/PROC_COMPLETED"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Приключила процедура</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Dokončený postup</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Afsluttet procedure</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Abgeschlossenes Verfahren</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Ολοκληρωθείσα διαδικασία</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Completed procedure</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Procedimiento concluido</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Lõpetatud menetlus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Päätökseen saatettu menettely</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Procédure achevée</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Nós imeachta i gcrích</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Završeni postupak</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Befejezett eljárás</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Procedura completata</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Baigta procedūra</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Pabeigta procedūra</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Proċedura lesta</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Voltooide procedure</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Procedura zakończona</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Procedimento concluído</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Procedură finalizată</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Dokončený postup</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Zaključen postopek</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Avslutat förfarande</skos:prefLabel>
+      <at:authority-code>PROC_COMPLETED</at:authority-code>
+      <at:op-code>PROC_COMPLETED</at:op-code>
+      <at:start.use>2018-12-12</at:start.use>
+      <atold:op-code>PROC_COMPLETED</atold:op-code>
+      <dc:identifier>PROC_COMPLETED</dc:identifier>
+      <skos:definition xml:lang="en">Completed procedure means that the proposed legal act was adopted and the law-making procedure was closed.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/file-status"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/file-status"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/file-status/PROC_PENDING"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Висяща процедура</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Probíhající postup</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Igangværende procedure</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Laufendes Verfahren</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Εκκρεμής διαδικασία</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Pending procedure</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Procedimiento pendiente</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Pooleliolev menetlus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Vireillä oleva menettely</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Procédure en cours</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Nós imeachta ar feitheamh</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Postupak u tijeku</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Folyamatban levő eljárás</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Procedura in sospeso</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Nebaigta procedūra</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Notiekoša procedūra</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Proċedura pendenti</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Lopende procedure</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Procedura w toku</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Procedimento pendente</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Procedură în curs</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Prebiehajúci postup</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Postopek v teku</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Pågående förfarande</skos:prefLabel>
+      <at:authority-code>PROC_PENDING</at:authority-code>
+      <at:op-code>PROC_PENDING</at:op-code>
+      <at:start.use>2018-12-12</at:start.use>
+      <atold:op-code>PROC_PENDING</atold:op-code>
+      <dc:identifier>PROC_PENDING</dc:identifier>
+      <skos:definition xml:lang="en">Pending procedure means that there is an ongoing lawmaking procedure initiated by a proposal (or draft) but the proposed act has not yet been adopted.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/file-status"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/file-status"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/file-status/PROC_WITHDRAWN"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Оттеглена процедура</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Zastavený postup</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Tilbagetrukket procedure</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Zurückgezogenes Verfahren</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Ανακληθείσα διαδικασία</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Withdrawn procedure</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Procedimiento retirado</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Tagasivõetud menetlus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Keskeytetty menettely</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Procédure retirée</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Nós imeachta aistarraingthe</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Povučeni postupak</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Visszavont eljárás</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Procedura ritirata</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Atšaukta procedūra</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Atsaukta procedūra</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Proċedura rtirata</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Ingetrokken procedure</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Procedura wycofana</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Procedimento retirado</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Procedură retrasă</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Zastavený postup</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Umaknjen postopek</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Tillbakadraget förfarande</skos:prefLabel>
+      <at:authority-code>PROC_WITHDRAWN</at:authority-code>
+      <at:op-code>PROC_WITHDRAWN</at:op-code>
+      <at:start.use>2018-12-12</at:start.use>
+      <atold:op-code>PROC_WITHDRAWN</atold:op-code>
+      <dc:identifier>PROC_WITHDRAWN</dc:identifier>
+      <skos:definition xml:lang="en">Withdrawn procedure means that a procedure was launched but no agreement was reached between the EU institutions on a proposed act, and therefore, the procedure was stopped.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/file-status"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/file-status"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/file-status/PROP_ACCEPTED"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Прието предложение</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Přijatý návrh</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Vedtaget forslag</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Angenommener Vorschlag</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Εγκριθείσα πρόταση</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Accepted proposal</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Propuesta aceptada</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Vastuvõetud ettepanek</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Hyväksytty ehdotus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Proposition acceptée</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Togra ar glacadh leis</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Prihvaćeni prijedlog</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Elfogadott javaslat</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Proposta accettata</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Priimtas pasiūlymas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Akceptēts priekšlikums</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Proposta aċċettata</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Aanvaard voorstel</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Wniosek zaakceptowany</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Proposta aceite</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Propunere acceptată</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Prijatý návrh</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Sprejet predlog</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Godtaget förslag</skos:prefLabel>
+      <at:authority-code>PROP_ACCEPTED</at:authority-code>
+      <at:op-code>PROP_ACCEPTED</at:op-code>
+      <at:start.use>2021-03-17</at:start.use>
+      <atold:op-code>PROP_ACCEPTED</atold:op-code>
+      <dc:identifier>PROP_ACCEPTED</dc:identifier>
+      <skos:definition xml:lang="en">Accepted proposal (or draft) means that the proposed legal act was adopted. The adopted legal act has to be published in the Official Journal in order to enter into force.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/file-status"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/file-status"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/file-status/PROP_ACCEPTED_PART"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Частично прието предложение</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Částečně přijatý návrh</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Delvist vedtaget forslag</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Teilweise angenommener Vorschlag</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Μερικώς εγκριθείσα πρόταση</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Partially accepted proposal</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Propuesta parcialmente aceptada</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Osaliselt vastuvõetud ettepanek</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Osittain hyväksytty ehdotus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Proposition partiellement acceptée</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Togra ar glacadh go páirteach leis</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Djelomično prihvaćeni prijedlog</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Részben elfogadott javaslat</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Proposta parzialmente accettata</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Iš dalies priimtas pasiūlymas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Daļēji akceptēts priekšlikums</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Proposta parzjalment aċċettata</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Gedeeltelijk aanvaard voorstel</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Wniosek częściowo zaakceptowany</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Proposta parcialmente aceite</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Propunere parțial acceptată</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Čiastočne prijatý návrh</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Delno sprejet predlog</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Partiellt godtaget förslag</skos:prefLabel>
+      <at:authority-code>PROP_ACCEPTED_PART</at:authority-code>
+      <at:op-code>PROP_ACCEPTED_PART</at:op-code>
+      <at:start.use>2021-03-17</at:start.use>
+      <atold:op-code>PROP_ACCEPTED_PART</atold:op-code>
+      <dc:identifier>PROP_ACCEPTED_PART</dc:identifier>
+      <skos:definition xml:lang="en">Partially accepted proposal means that a part of the proposed act was adopted but the final legal act does not contain all the provisions present in the proposal initially submitted because no agreement was reached on the entire act.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/file-status"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/file-status"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/file-status/PROP_ADOPTED_PART"
+                 at:deprecated="true">
+      <skos:prefLabel xml:lang="bg">Частично прието предложение</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Částečně přijatý návrh</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Delvist vedtaget forslag</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Teilweise angenommener Vorschlag</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Μερικώς εγκριθείσα πρόταση</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Osittain hyväksytty ehdotus</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Részben elfogadott javaslat</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Iš dalies priimtas pasiūlymas</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Čiastočne prijatý návrh</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Delno sprejet predlog</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Partially adopted proposal</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Propuesta parcialmente adoptada</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Osaliselt vastu võetud ettepanek</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Proposition partiellement adoptée</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Togra glactha go páirteach</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Djelomično doneseni prijedlog</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Proposta parzialmente adottata</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Daļēji pieņemts priekšlikums</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Proposta parzjalment adottata</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Gedeeltelijk aangenomen voorstel</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Wniosek częściowo przyjęty</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Proposta parcialmente adotada</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Propunere parțial adoptată</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Delvis antaget förslag</skos:prefLabel>
+      <at:authority-code>PROP_ADOPTED_PART</at:authority-code>
+      <at:op-code>PROP_ADOPTED_PART</at:op-code>
+      <at:start.use>2018-12-12</at:start.use>
+      <atold:op-code>PROP_ADOPTED_PART</atold:op-code>
+      <dc:identifier>PROP_ADOPTED_PART</dc:identifier>
+      <skos:definition xml:lang="en">Partially adopted proposal means that a part of the proposed act was adopted but the final legal act does not contain all the provisions present in the proposal initially submitted because no agreement was reached on the entire act.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/file-status"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/file-status"/>
+      <at:end.use>2021-03-16</at:end.use>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/file-status/PROP_PENDING"
+                 at:deprecated="true">
+      <skos:prefLabel xml:lang="bg">Предложение в процес на разглеждане</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Projednávaný návrh</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Eksisterende forslag</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Anhängiger Vorschlag</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Εκκρεμής πρόταση</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Pending proposal</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Propuesta pendiente</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Menetluses olev ettepanek</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Vireillä oleva ehdotus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Proposition en cours d’examen</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Togra ar feitheamh</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Prijedlog u tijeku</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Folyamatban lévő javaslat</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Proposta in sospeso</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Dar nepriimtas pasiūlymas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Izskatāms priekšlikums</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Proposta pendenti</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Hangend voorstel</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Wniosek w toku</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Proposta pendente</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Propunere în curs</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Prerokúvaný návrh</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Predlog v obravnavi</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Pågående förslag</skos:prefLabel>
+      <at:authority-code>PROP_PENDING</at:authority-code>
+      <at:op-code>PROP_PENDING</at:op-code>
+      <at:start.use>2018-12-12</at:start.use>
+      <atold:op-code>PROP_PENDING</atold:op-code>
+      <dc:identifier>PROP_PENDING</dc:identifier>
+      <skos:definition xml:lang="en">Pending proposal (or draft) means that there is a proposal (or draft) adopted by the Commission which is currently subject to a law-making procedure but the proposed act has not yet been adopted.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/file-status"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/file-status"/>
+      <at:end.use>2021-03-16</at:end.use>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/file-status/PROP_REJECTED"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Отхвърлено предложение</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Zamítnutý návrh</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Forkastet forslag</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Abgelehnter Vorschlag</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Απορριφθείσα πρόταση</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Rejected proposal</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Propuesta rechazada</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Tagasilükatud ettepanek</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Hylätty ehdotus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Proposition rejetée</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Togra diúltaithe</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Odbijeni prijedlog</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Elutasított javaslat</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Proposta respinta</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Atmestas pasiūlymas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Noraidīts priekšlikums</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Proposta miċħuda</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Verworpen voorstel</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Wniosek odrzucony</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Proposta rejeitada</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Propunere respinsă</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Zamietnutý návrh</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Zavrnjen predlog</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Avvisat förslag</skos:prefLabel>
+      <at:authority-code>PROP_REJECTED</at:authority-code>
+      <at:op-code>PROP_REJECTED</at:op-code>
+      <at:start.use>2021-03-17</at:start.use>
+      <atold:op-code>PROP_REJECTED</atold:op-code>
+      <dc:identifier>PROP_REJECTED</dc:identifier>
+      <skos:definition xml:lang="en">If a legislative proposal is rejected at any stage of the procedure, or the Parliament and the Council cannot reach a compromise, the proposal is not adopted and the procedure is ended. A new procedure can start only with a new proposal from the Commission.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/file-status"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/file-status"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/file-status/PROP_SUBMITTED"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Внесено предложение</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Předložený návrh</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Fremsat forslag</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Eingereichter Vorschlag</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Υποβληθείσα πρόταση</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Submitted proposal</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Propuesta presentada</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Esitatud ettepanek</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Annettu ehdotus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Proposition présentée</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Togra tíolactha</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Podneseni prijedlog</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Benyújtott javaslat</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Proposta presentata</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Pateiktas pasiūlymas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Iesniegts priekšlikums</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Proposti sottomessi</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Ingediend voorstel</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Wniosek złożony</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Proposta apresentada</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Propunere prezentată</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Predložený návrh</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Predložen predlog</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Inlämnat förslag</skos:prefLabel>
+      <at:authority-code>PROP_SUBMITTED</at:authority-code>
+      <at:op-code>PROP_SUBMITTED</at:op-code>
+      <at:start.use>2021-03-17</at:start.use>
+      <atold:op-code>PROP_SUBMITTED</atold:op-code>
+      <dc:identifier>PROP_SUBMITTED</dc:identifier>
+      <skos:definition xml:lang="en">Submitted proposal (or draft) means that there is a proposal (or draft) adopted by the Commission which is currently subject to a law-making procedure but the proposed act has not yet been adopted.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/file-status"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/file-status"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/file-status/PROP_WITHDRAWN"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Оттеглено предложение</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Stažený návrh</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Tilbagetrukket forslag</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Zurückgezogener Vorschlag</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Αποσυρθείσα πρόταση</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Withdrawn proposal</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Propuesta retirada</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Tagasivõetud ettepanek</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Peruutettu ehdotus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Proposition retirée</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Togra aistarraingthe</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Povučeni prijedlog</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Visszavont javaslat</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Proposta ritirata</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Atsiimtas pasiūlymas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Atsaukts priekšlikums</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Proposta rtirata</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Ingetrokken voorstel</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Wniosek wycofany</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Proposta retirada</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Propunere retrasă</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Stiahnutý návrh</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Umaknjen predlog</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Tillbakadraget förslag</skos:prefLabel>
+      <at:authority-code>PROP_WITHDRAWN</at:authority-code>
+      <at:op-code>PROP_WITHDRAWN</at:op-code>
+      <at:start.use>2018-12-12</at:start.use>
+      <atold:op-code>PROP_WITHDRAWN</atold:op-code>
+      <dc:identifier>PROP_WITHDRAWN</dc:identifier>
+      <skos:definition xml:lang="en">Withdrawn proposal (or draft) means that no agreement was reached between the EU institutions on a proposed act, and therefore, the proposal was taken back by the Commission and the proposed act is deemed not to have been adopted.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/file-status"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/file-status"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/file-status/PROP_WITHDRAWN_PART"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Частично оттеглено предложение</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Částečně stažený návrh</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Delvist tilbagetrukket forslag</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Teilweise zurückgezogener Vorschlag</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Μερικώς αποσυρθείσα πρόταση</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Partially withdrawn proposal</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Propuesta parcialmente retirada</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Osaliselt tagasi võetud ettepanek</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Osittain peruutettu ehdotus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Proposition partiellement retirée</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Togra aistarraingthe go páirteach</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Djelomično povučeni prijedlog</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Részben visszavont javaslat</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Proposta parzialmente ritirata</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Iš dalies atsiimtas pasiūlymas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Daļēji atsaukts priekšlikums</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Proposta parzjalment irtirata</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Gedeeltelijk ingetrokken voorstel</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Wniosek częściowo wycofany</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Proposta parcialmente retirada</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Propunere parțial retrasă</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Čiastočne stiahnutý návrh</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Delno umaknjen predlog</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Delvis tillbakadraget förslag</skos:prefLabel>
+      <at:authority-code>PROP_WITHDRAWN_PART</at:authority-code>
+      <at:op-code>PROP_WITHDRAWN_PART</at:op-code>
+      <at:start.use>2018-12-12</at:start.use>
+      <atold:op-code>PROP_WITHDRAWN_PART</atold:op-code>
+      <dc:identifier>PROP_WITHDRAWN_PART</dc:identifier>
+      <skos:definition xml:lang="en">Partially withdrawn proposal means that a part of the proposal as it was initially submitted was withdrawn by the Commission during the law-making procedure.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/file-status"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/file-status"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/file-status/PROVISIONAL"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="en">Provisional</skos:prefLabel>
+      <at:authority-code>PROVISIONAL</at:authority-code>
+      <at:op-code>PROVISIONAL</at:op-code>
+      <at:start.use>2022-09-28</at:start.use>
+      <atold:op-code>PROVISIONAL</atold:op-code>
+      <dc:identifier>PROVISIONAL</dc:identifier>
+      <skos:definition xml:lang="en">Provisional means a file that is given for the present time but is likely to change.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/file-status"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/file-status"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/file-status/REVISED"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="en">Revised</skos:prefLabel>
+      <at:authority-code>REVISED</at:authority-code>
+      <at:op-code>REVISED</at:op-code>
+      <at:start.use>2022-09-28</at:start.use>
+      <atold:op-code>REVISED</atold:op-code>
+      <dc:identifier>REVISED</dc:identifier>
+      <skos:definition xml:lang="en">Revised means a file that has been changed in order to improve it.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/file-status"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/file-status"/>
+   </skos:Concept>
+</rdf:RDF>

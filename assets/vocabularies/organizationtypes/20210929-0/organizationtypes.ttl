@@ -1,0 +1,954 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/organization-type/CAB> a skos:Concept ;
+    at:authority-code "CAB" ;
+    at:deprecated "false" ;
+    at:op-code "CAB" ;
+    at:start.use "1957-03-25" ;
+    atold:op-code "CAB" ;
+    dc:identifier "CAB" ;
+    skos:inScheme atold:organization-type ;
+    skos:prefLabel "Кабинет"@bg,
+        "Kabinet"@cs,
+        "Kabinet"@da,
+        "Kabinett"@de,
+        "Γραφείο"@el,
+        "Cabinet"@en,
+        "Gabinete"@es,
+        "Kabinet"@et,
+        "Kabinetti"@fi,
+        "Cabinet"@fr,
+        "Cabinet"@ga,
+        "Kabinet"@hr,
+        "Kabinet"@hu,
+        "Gabinetto"@it,
+        "Kabinetas"@lt,
+        "Kabinets"@lv,
+        "Kabinett"@mt,
+        "Kabinet"@nl,
+        "Gabinet"@pl,
+        "Gabinete"@pt,
+        "Cabinet"@ro,
+        "Kabinet"@sk,
+        "Kabinet"@sl,
+        "Kabinett"@sv .
+
+<http://publications.europa.eu/resource/authority/organization-type/COMPANY> a skos:Concept ;
+    at:authority-code "COMPANY" ;
+    at:deprecated "false" ;
+    at:op-code "COMPANY" ;
+    at:start.use "1900-01-01" ;
+    atold:op-code "COMPANY" ;
+    dc:identifier "COMPANY" ;
+    skos:inScheme atold:organization-type ;
+    skos:prefLabel "Дружество"@bg,
+        "Společnost"@cs,
+        "Selskab"@da,
+        "Gesellschaft"@de,
+        "Εταιρεία"@el,
+        "Company"@en,
+        "Sociedad"@es,
+        "Äriühing"@et,
+        "Yhtiö"@fi,
+        "Société"@fr,
+        "Cuideachta"@ga,
+        "Društvo"@hr,
+        "Társaság"@hu,
+        "Società"@it,
+        "Bendrovė"@lt,
+        "Sabiedrība"@lv,
+        "Kumpanija"@mt,
+        "Vennootschap"@nl,
+        "Spółka"@pl,
+        "Sociedade"@pt,
+        "Societate"@ro,
+        "Spoločnosť"@sk,
+        "Družba"@sl,
+        "Bolag"@sv .
+
+<http://publications.europa.eu/resource/authority/organization-type/DEL> a skos:Concept ;
+    at:authority-code "DEL" ;
+    at:deprecated "false" ;
+    at:op-code "DEL" ;
+    at:start.use "1960-01-01" ;
+    atold:op-code "DEL" ;
+    dc:identifier "DEL" ;
+    skos:inScheme atold:organization-type ;
+    skos:prefLabel "Делегация"@bg,
+        "Delegace"@cs,
+        "Delegationen"@da,
+        "Delegation"@de,
+        "Αντιπροσωπεία"@el,
+        "Delegation"@en,
+        "Delegación"@es,
+        "Delegatsioon"@et,
+        "Edustusto"@fi,
+        "Délégation"@fr,
+        "An Toscaireacht"@ga,
+        "Izaslanstvo"@hr,
+        "Küldöttség"@hu,
+        "Delegazione"@it,
+        "Delegacija"@lt,
+        "Delegācija"@lv,
+        "Id-Delegazzjoni"@mt,
+        "Delegatie"@nl,
+        "Delegacja"@pl,
+        "Delegação"@pt,
+        "Delegație"@ro,
+        "Delegácia"@sk,
+        "Delegacija"@sl,
+        "Delegationen"@sv .
+
+<http://publications.europa.eu/resource/authority/organization-type/DEP> a skos:Concept ;
+    at:authority-code "DEP" ;
+    at:deprecated "false" ;
+    at:op-code "DEP" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "DEP" ;
+    dc:identifier "DEP" ;
+    skos:inScheme atold:organization-type ;
+    skos:prefLabel "Департамент"@bg,
+        "Odbor"@cs,
+        "Afdeling"@da,
+        "Abteilung"@de,
+        "Τμήμα"@el,
+        "Department"@en,
+        "Departamento"@es,
+        "Osakond"@et,
+        "Osasto"@fi,
+        "Département"@fr,
+        "Roinn"@ga,
+        "Odjel"@hr,
+        "Osztály"@hu,
+        "Dipartimento"@it,
+        "Departamentas"@lt,
+        "Departaments"@lv,
+        "Dipartiment"@mt,
+        "Afdeling"@nl,
+        "Departament"@pl,
+        "Departamento"@pt,
+        "Departamentul"@ro,
+        "Oddelenie"@sk,
+        "Oddelek"@sl,
+        "Avdelning"@sv .
+
+<http://publications.europa.eu/resource/authority/organization-type/DIR> a skos:Concept ;
+    at:authority-code "DIR" ;
+    at:deprecated "false" ;
+    at:op-code "DIR" ;
+    at:start.use "1952-09-09" ;
+    atold:op-code "DIR" ;
+    dc:identifier "DIR" ;
+    skos:inScheme atold:organization-type ;
+    skos:prefLabel "Дирекция"@bg,
+        "Ředitelství"@cs,
+        "Direktorat"@da,
+        "Direktion"@de,
+        "Διεύθυνση"@el,
+        "Directorate"@en,
+        "Dirección"@es,
+        "Direktoraat"@et,
+        "Osasto"@fi,
+        "Direction"@fr,
+        "Stiúrthóireacht"@ga,
+        "Uprava"@hr,
+        "Igazgatóság"@hu,
+        "Direzione"@it,
+        "Direktoratas"@lt,
+        "Direktorāts"@lv,
+        "Direttorat"@mt,
+        "Directoraat"@nl,
+        "Dyrekcja"@pl,
+        "Direção"@pt,
+        "Direcție"@ro,
+        "Riaditeľstvo"@sk,
+        "Direktorat"@sl,
+        "Direktorat"@sv .
+
+<http://publications.europa.eu/resource/authority/organization-type/DIR_ATT> a skos:Concept ;
+    at:authority-code "DIR_ATT" ;
+    at:deprecated "false" ;
+    at:op-code "DIR_ATT" ;
+    at:start.use "1952-09-09" ;
+    atold:op-code "DIR_ATT" ;
+    dc:identifier "DIR_ATT" ;
+    skos:altLabel "Rattachée à une direction"@fr,
+        "Przyłączona do dyrekcji"@pl ;
+    skos:inScheme atold:organization-type ;
+    skos:prefLabel "Прикрепена към дирекция"@bg,
+        "Přičleněno k ředitelství"@cs,
+        "Tilknyttet et direktorat"@da,
+        "Einer Direktion angeschlossen"@de,
+        "Υπαγόμενο σε Διεύθυνση"@el,
+        "Attached to a Directorate"@en,
+        "Dependiente de una Dirección"@es,
+        "Direktoraadi alluvuses"@et,
+        "Linjan alaisena toimiva"@fi,
+        "Rattaché à une direction"@fr,
+        "Ceangailte le Stiúrthóireacht"@ga,
+        "Pridružen Upravi"@hr,
+        "Igazgatósághoz kapcsolódó szervezeti egység"@hu,
+        "Che dipende da una direzione"@it,
+        "Priskirta direktoratui"@lt,
+        "Piesaistīts direktorātam"@lv,
+        "Konness ma’ Direttorat"@mt,
+        "Verbonden aan een directoraat"@nl,
+        "Przyłączony do dyrekcji"@pl,
+        "Na dependência de uma Direção"@pt,
+        "Pe lângă o Direcție"@ro,
+        "Pripojené k riaditeľstvu"@sk,
+        "Neposredno povezan z direktoratom"@sl,
+        "Knuten till ett direktorat"@sv .
+
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN> a skos:Concept ;
+    at:authority-code "DIR_GEN" ;
+    at:deprecated "false" ;
+    at:op-code "DIR_GEN" ;
+    at:start.use "1952-09-09" ;
+    atold:op-code "DIR_GEN" ;
+    dc:identifier "DIR_GEN" ;
+    skos:inScheme atold:organization-type ;
+    skos:prefLabel "Генерална дирекция"@bg,
+        "Generální ředitelství"@cs,
+        "Generaldirektorat"@da,
+        "Generaldirektion"@de,
+        "Γενική Διεύθυνση"@el,
+        "Directorate-General"@en,
+        "Dirección general"@es,
+        "Peadirektoraat"@et,
+        "Pääosasto"@fi,
+        "Direction générale"@fr,
+        "Ard-Stiúrthóireacht"@ga,
+        "Glavna uprava"@hr,
+        "Főigazgatóság"@hu,
+        "Direzione generale"@it,
+        "Generalinis direktoratas"@lt,
+        "Ģenerāldirektorāts"@lv,
+        "Direttorat Ġenerali"@mt,
+        "Directoraat-generaal"@nl,
+        "Dyrekcja generalna"@pl,
+        "Direção-Geral"@pt,
+        "Direcție generală"@ro,
+        "Generálne riaditeľstvo"@sk,
+        "Generalni direktorat"@sl,
+        "Generaldirektorat"@sv .
+
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_ATT> a skos:Concept ;
+    at:authority-code "DIR_GEN_ATT" ;
+    at:deprecated "false" ;
+    at:op-code "DIR_GEN_ATT" ;
+    at:start.use "1952-09-09" ;
+    atold:op-code "DIR_GEN_ATT" ;
+    dc:identifier "DIR_GEN_ATT" ;
+    skos:altLabel "Rattachée à une direction générale"@fr,
+        "Przyłączona do dyrekcji generalnej"@pl ;
+    skos:inScheme atold:organization-type ;
+    skos:prefLabel "Прикрепена към генерална дирекция"@bg,
+        "Přičleněno ke generálnímu ředitelství"@cs,
+        "Tilknyttet et generaldirektorat"@da,
+        "Einer Generaldirektion angeschlossen"@de,
+        "Υπαγόμενο σε Γενική Διεύθυνση"@el,
+        "Attached to a Directorate-General"@en,
+        "Dependiente de una Dirección General"@es,
+        "Peadirektoraadi alluvuses"@et,
+        "Pääosaston alaisena toimiva"@fi,
+        "Rattaché à une direction générale"@fr,
+        "Ceangailte le hArd-Stiúrthóireacht"@ga,
+        "Pridružen Glavnoj upravi"@hr,
+        "Főigazgatósághoz kapcsolódó szervezeti egység"@hu,
+        "Che dipende da una direzione generale"@it,
+        "Priskirta generaliniam direktoratui"@lt,
+        "Piesaistīts ģenerāldirektorātam"@lv,
+        "Konness ma’ Direttorat-Ġenerali"@mt,
+        "Verbonden aan een directoraat-generaal"@nl,
+        "Przyłączony do dyrekcji generalnej"@pl,
+        "Na dependência de uma Direção-Geral"@pt,
+        "Pe lângă o Direcție Generală"@ro,
+        "Pripojené ku generálnemu riaditeľstvu"@sk,
+        "Neposredno povezan z generalnim direktoratom"@sl,
+        "Knuten till ett generaldirektorat"@sv .
+
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_DPT> a skos:Concept ;
+    at:authority-code "DIR_GEN_DPT" ;
+    at:deprecated "false" ;
+    at:op-code "DIR_GEN_DPT" ;
+    at:start.use "1952-09-09" ;
+    atold:op-code "DIR_GEN_DPT" ;
+    dc:identifier "DIR_GEN_DPT" ;
+    skos:altLabel "Dienst der stellvertretenden Generaldirektorin"@de,
+        "Service de la directrice générale adjointe"@fr ;
+    skos:inScheme atold:organization-type ;
+    skos:prefLabel "Служба на заместник генерален директор"@bg,
+        "Útvar zástupce generálního ředitele"@cs,
+        "Tjeneste tilknyttet vicegeneraldirektøren"@da,
+        "Dienst des stellvertretenden Generaldirektors"@de,
+        "Υπηρεσία του Αναπληρωτή Γενικού Διευθυντή"@el,
+        "Service of deputy director-general"@en,
+        "Servicio del director general adjunto"@es,
+        "Peadirektori asetäitja talitus"@et,
+        "Varapääjohtajan alainen yksikkö"@fi,
+        "Service du directeur général adjoint"@fr,
+        "Seirbhís an Leas-Ardstiúrthóra"@ga,
+        "Služba zamjenika glavnog direktora"@hr,
+        "A főigazgató-helyettes munkáját segítő szolgálat"@hu,
+        "Servizio del direttore generale aggiunto"@it,
+        "Generalinio direktoriaus pavaduotojo tarnyba"@lt,
+        "Dienests, kas pakļauts ģenerāldirektora vietniekam"@lv,
+        "Servizz ta’ deputat direttur ġenerali"@mt,
+        "Dienst van een adjunct-directeur-generaal"@nl,
+        "Biuro zastępcy dyrektora generalnego"@pl,
+        "Serviços do Diretor-Geral adjunto"@pt,
+        "Serviciu pe lângă Directorul general adjunct"@ro,
+        "Útvar zástupcu generálneho riaditeľa"@sk,
+        "Služba namestnika generalnega direktorja"@sl,
+        "Tjänst knuten till biträdande generaldirektör"@sv .
+
+<http://publications.europa.eu/resource/authority/organization-type/DIR_MAN> a skos:Concept ;
+    at:authority-code "DIR_MAN" ;
+    at:deprecated "false" ;
+    at:op-code "DIR_MAN" ;
+    at:start.use "1952-09-09" ;
+    atold:op-code "DIR_MAN" ;
+    dc:identifier "DIR_MAN" ;
+    skos:inScheme atold:organization-type ;
+    skos:prefLabel "Управляваща дирекция"@bg,
+        "Výkonné ředitelství"@cs,
+        "Forvaltningsdirektorat"@da,
+        "EAD-Direktion"@de,
+        "Διεύθυνση Διαχείρισης"@el,
+        "Managing directorate"@en,
+        "Dirección ejecutiva"@es,
+        "Haldav direktoraat"@et,
+        "Hallinto-osasto"@fi,
+        "Direction générale"@fr,
+        "Stiúrthóireacht a bhainistiú"@ga,
+        "Rukovodeća uprava"@hr,
+        "Ügyvezető igazgatóság"@hu,
+        "Direzione gestionale"@it,
+        "Valdymo direktoratas"@lt,
+        "Pārvaldes direktorāts"@lv,
+        "Direttorat Maniġerjali"@mt,
+        "Beherend directoraat"@nl,
+        "Dyrekcja zarządzająca"@pl,
+        "Direção de Gestão"@pt,
+        "Direcția executivă"@ro,
+        "Generálne riaditeľstvo"@sk,
+        "Upravni direktorat"@sl,
+        "Förvaltande direktorat"@sv .
+
+<http://publications.europa.eu/resource/authority/organization-type/DIVISION> a skos:Concept ;
+    at:authority-code "DIVISION" ;
+    at:deprecated "false" ;
+    at:op-code "DIVISION" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "DIVISION" ;
+    dc:identifier "DIVISION" ;
+    skos:inScheme atold:organization-type ;
+    skos:prefLabel "Отдел"@bg,
+        "Oddělení"@cs,
+        "Afdeling"@da,
+        "Abteilung"@de,
+        "Τμήμα"@el,
+        "Division"@en,
+        "División"@es,
+        "Osakond"@et,
+        "Osasto"@fi,
+        "Division"@fr,
+        "Rannóg"@ga,
+        "Odsjek"@hr,
+        "Részleg"@hu,
+        "Divisione"@it,
+        "Skyrius"@lt,
+        "Nodaļa"@lv,
+        "Diviżjoni"@mt,
+        "Afdeling"@nl,
+        "Dział"@pl,
+        "Divisão"@pt,
+        "Divizia"@ro,
+        "Oddelenie"@sk,
+        "Oddelek"@sl,
+        "Avdelning"@sv .
+
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT> a skos:Concept ;
+    at:authority-code "INSTIT" ;
+    at:deprecated "false" ;
+    at:op-code "INSTIT" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "INSTIT" ;
+    dc:identifier "INSTIT" ;
+    skos:inScheme atold:organization-type ;
+    skos:prefLabel "Иституция"@bg,
+        "Orgán"@cs,
+        "Institution"@da,
+        "Organ"@de,
+        "Όργανο"@el,
+        "Institution"@en,
+        "Institución"@es,
+        "Institutioon"@et,
+        "Toimielin"@fi,
+        "Institution"@fr,
+        "Institiúid"@ga,
+        "Institucija"@hr,
+        "Intézmény"@hu,
+        "Istituzione"@it,
+        "Institucija"@lt,
+        "Iestāde"@lv,
+        "Istituzzjoni"@mt,
+        "Instelling"@nl,
+        "Instytucja"@pl,
+        "Instituição"@pt,
+        "Instituție"@ro,
+        "Inštitúcia"@sk,
+        "Institucija"@sl,
+        "Institution"@sv .
+
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT_ATT> a skos:Concept ;
+    at:authority-code "INSTIT_ATT" ;
+    at:deprecated "false" ;
+    at:op-code "INSTIT_ATT" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "INSTIT_ATT" ;
+    dc:identifier "INSTIT_ATT" ;
+    skos:altLabel "Rattachée à l’institution"@fr,
+        "Przyłączona do instytucji"@pl ;
+    skos:inScheme atold:organization-type ;
+    skos:prefLabel "Прикрепена към институцията"@bg,
+        "Přičleněno k orgánu"@cs,
+        "Tilknyttet institutionen"@da,
+        "Der Institution angeschlossen"@de,
+        "Υπαγόμενο στο θεσμικό όργανο"@el,
+        "Attached to the institution"@en,
+        "Dependiente de la institución"@es,
+        "Institutsiooni alluvuses"@et,
+        "Toimielimen alaisena toimiva"@fi,
+        "Rattaché à l’institution"@fr,
+        "Ceangailte leis an institiúid"@ga,
+        "Pridružen instituciji"@hr,
+        "Intézményhez kapcsolódó szervezeti egység"@hu,
+        "Che dipende dall'istituzione"@it,
+        "Priskirta institucijai"@lt,
+        "Piesaistīts iestādei"@lv,
+        "Konness mal-istituzzjoni"@mt,
+        "Verbonden aan de instelling"@nl,
+        "Przyłączony do instytucji"@pl,
+        "Na dependência da instituição"@pt,
+        "Pe lângă instituție"@ro,
+        "Pripojené k inštitúcii"@sk,
+        "Neposredno povezan z institucijo"@sl,
+        "Knuten till institutionen"@sv .
+
+<http://publications.europa.eu/resource/authority/organization-type/OFFICE> a skos:Concept ;
+    at:authority-code "OFFICE" ;
+    at:deprecated "false" ;
+    at:op-code "OFFICE" ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "OFFICE" ;
+    dc:identifier "OFFICE" ;
+    skos:inScheme atold:organization-type ;
+    skos:prefLabel "Служба"@bg,
+        "Úřad"@cs,
+        "Kontoret"@da,
+        "Amt"@de,
+        "Υπηρεσία"@el,
+        "Office"@en,
+        "Oficina"@es,
+        "Amet"@et,
+        "Toimisto"@fi,
+        "Office"@fr,
+        "An Oifig"@ga,
+        "Ured"@hr,
+        "Hivatal"@hu,
+        "Ufficio"@it,
+        "Biuras"@lt,
+        "Birojs"@lv,
+        "L-Uffiċċju"@mt,
+        "Bureau"@nl,
+        "Urząd"@pl,
+        "Serviço"@pt,
+        "Oficiu"@ro,
+        "Úrad"@sk,
+        "Urad"@sl,
+        "Byrån"@sv .
+
+<http://publications.europa.eu/resource/authority/organization-type/OP_DATPRO> a skos:Concept ;
+    at:op-code "OP_DATPRO" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:organization-type ;
+    skos:prefLabel "НЕОКОНЧАТЕЛНИ ДАННИ"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv .
+
+<http://publications.europa.eu/resource/authority/organization-type/REPRES> a skos:Concept ;
+    at:authority-code "REPRES" ;
+    at:deprecated "false" ;
+    at:op-code "REPRES" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "REPRES" ;
+    dc:identifier "REPRES" ;
+    skos:inScheme atold:organization-type ;
+    skos:prefLabel "Представителство"@bg,
+        "Zastoupení"@cs,
+        "Repræsentationen"@da,
+        "Representation"@de,
+        "Εκπροσώπηση"@el,
+        "Representation"@en,
+        "Representación"@es,
+        "Esindus"@et,
+        "Edustusto"@fi,
+        "Représentation"@fr,
+        "An Ionadaíocht"@ga,
+        "Zastupništvo"@hr,
+        "Képviselet"@hu,
+        "Rappresentanza"@it,
+        "Atstovybė"@lt,
+        "Pārstāvniecība"@lv,
+        "Ir-Rappreżentazzjoni"@mt,
+        "Vertegenwoordiging"@nl,
+        "Przedstawicielstwo"@pl,
+        "Representações"@pt,
+        "Reprezentanță"@ro,
+        "Zastúpenie"@sk,
+        "Predstavništvo"@sl,
+        "Representationen"@sv .
+
+<http://publications.europa.eu/resource/authority/organization-type/SECTOR> a skos:Concept ;
+    at:authority-code "SECTOR" ;
+    at:deprecated "false" ;
+    at:op-code "SECTOR" ;
+    at:start.use "1952-09-09" ;
+    atold:op-code "SECTOR" ;
+    dc:identifier "SECTOR" ;
+    skos:inScheme atold:organization-type ;
+    skos:prefLabel "Сектор"@bg,
+        "Úsek"@cs,
+        "Sektion"@da,
+        "Abteilung"@de,
+        "Τμήμα"@el,
+        "Sector"@en,
+        "Sector"@es,
+        "Sektor"@et,
+        "Jaos"@fi,
+        "Secteur"@fr,
+        "Earnáil"@ga,
+        "Sektor"@hr,
+        "Részleg"@hu,
+        "Settore"@it,
+        "Sektorius"@lt,
+        "Sektors"@lv,
+        "Settur"@mt,
+        "Sector"@nl,
+        "Sektor"@pl,
+        "Setor"@pt,
+        "Sector"@ro,
+        "Úsek"@sk,
+        "Sektor"@sl,
+        "Sektor"@sv .
+
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN> a skos:Concept ;
+    at:authority-code "SEC_GEN" ;
+    at:deprecated "false" ;
+    at:op-code "SEC_GEN" ;
+    at:start.use "1952-09-09" ;
+    atold:op-code "SEC_GEN" ;
+    dc:identifier "SEC_GEN" ;
+    skos:inScheme atold:organization-type ;
+    skos:prefLabel "Генерален секретариат"@bg,
+        "Generální sekretariát"@cs,
+        "Generalsekretariatet"@da,
+        "Generalsekretariat"@de,
+        "Γενική Γραμματεία"@el,
+        "General Secretariat"@en,
+        "Secretaría general"@es,
+        "Peasekretariaat"@et,
+        "Pääsihteeristö"@fi,
+        "Secrétariat général"@fr,
+        "Ardrúnaíocht"@ga,
+        "Glavno tajništvo"@hr,
+        "Főtitkárság"@hu,
+        "Segretariato generale"@it,
+        "Generalinis sekretoriatas"@lt,
+        "Ģenerālsekretariāts"@lv,
+        "Segretarjat Ġenerali"@mt,
+        "Secretariaat-generaal"@nl,
+        "Sekretariat generalny"@pl,
+        "Secretariado-Geral"@pt,
+        "Secretariat general"@ro,
+        "Generálny sekretariát"@sk,
+        "Generalni sekretariat"@sl,
+        "Generalsekretariat"@sv .
+
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN_DPT> a skos:Concept ;
+    at:authority-code "SEC_GEN_DPT" ;
+    at:deprecated "false" ;
+    at:op-code "SEC_GEN_DPT" ;
+    at:start.use "1952-09-09" ;
+    atold:op-code "SEC_GEN_DPT" ;
+    dc:identifier "SEC_GEN_DPT" ;
+    skos:altLabel "Dienst der stellvertretenden Generalsekretärin"@de,
+        "Service de la secrétaire générale adjointe"@fr ;
+    skos:inScheme atold:organization-type ;
+    skos:prefLabel "Служба на заместник генерален секретар"@bg,
+        "Útvar zástupce generálního tajemníka"@cs,
+        "Tjeneste tilknyttet vicegeneralsekretæren"@da,
+        "Dienst des stellvertretenden Generalsekretärs"@de,
+        "Υπηρεσία του Αναπληρωτή Γενικού Γραμματέα"@el,
+        "Service of deputy secretary general"@en,
+        "Servicio del secretario general adjunto"@es,
+        "Asepeasekretäri talitus"@et,
+        "Apulaispääsihteerin alainen yksikkö"@fi,
+        "Service du secrétaire général adjoint"@fr,
+        "Seirbhís an Leas-Ardrúnaí"@ga,
+        "Služba zamjenika glavnog tajnika"@hr,
+        "A főtitkárhelyettes munkáját segítő szolgálat"@hu,
+        "Servizio del Segretario generale aggiunto"@it,
+        "Generalinio sekretoriaus pavaduotojo tarnyba"@lt,
+        "Dienests, kas pakļauts ģenerālsekretāra vietniekam"@lv,
+        "Servizz ta’ deputat segretarju ġenerali"@mt,
+        "Dienst van een adjunct-secretaris-generaal"@nl,
+        "Biuro zastępcy sekretarza generalnego"@pl,
+        "Serviços do Secretário-Geral adjunto"@pt,
+        "Serviciu pe lângă Secretarul general adjunct"@ro,
+        "Útvar zástupcu generálneho tajomníka"@sk,
+        "Služba namestnika generalnega sekretarja"@sl,
+        "Tjänst knuten till biträdande generalsekreterare"@sv .
+
+<http://publications.europa.eu/resource/authority/organization-type/SERV> a skos:Concept ;
+    at:authority-code "SERV" ;
+    at:deprecated "false" ;
+    at:op-code "SERV" ;
+    at:start.use "1951-04-18" ;
+    atold:op-code "SERV" ;
+    dc:identifier "SERV" ;
+    skos:inScheme atold:organization-type ;
+    skos:prefLabel "Служба"@bg,
+        "Služba"@cs,
+        "Tjeneste"@da,
+        "Dienst"@de,
+        "Υπηρεσία"@el,
+        "Service"@en,
+        "Servicio"@es,
+        "Talitus"@et,
+        "Osasto"@fi,
+        "Service"@fr,
+        "An tSeirbhís"@ga,
+        "Služba"@hr,
+        "Szolgálat"@hu,
+        "Servizio"@it,
+        "Tarnyba"@lt,
+        "Dienests"@lv,
+        "Servizz"@mt,
+        "Dienst"@nl,
+        "Służba"@pl,
+        "Serviço"@pt,
+        "Serviciu"@ro,
+        "Služba"@sk,
+        "Služba"@sl,
+        "Tjänsten"@sv .
+
+<http://publications.europa.eu/resource/authority/organization-type/TEAM> a skos:Concept ;
+    at:authority-code "TEAM" ;
+    at:deprecated "false" ;
+    at:op-code "TEAM" ;
+    at:start.use "1952-09-09" ;
+    atold:op-code "TEAM" ;
+    dc:identifier "TEAM" ;
+    skos:inScheme atold:organization-type ;
+    skos:prefLabel "Екип"@bg,
+        "Tým"@cs,
+        "Hold"@da,
+        "Team"@de,
+        "Ομάδα"@el,
+        "Team"@en,
+        "Equipo"@es,
+        "Meeskond"@et,
+        "Ryhmä"@fi,
+        "Équipe"@fr,
+        "Foireann"@ga,
+        "Tim"@hr,
+        "Csoport"@hu,
+        "Equipe"@it,
+        "Grupė"@lt,
+        "Grupa"@lv,
+        "Tim"@mt,
+        "Team"@nl,
+        "Zespół"@pl,
+        "Equipa"@pt,
+        "Echipă"@ro,
+        "Skupina"@sk,
+        "Ekipa"@sl,
+        "Grupp"@sv .
+
+<http://publications.europa.eu/resource/authority/organization-type/TSK_FRC> a skos:Concept ;
+    at:authority-code "TSK_FRC" ;
+    at:deprecated "false" ;
+    at:op-code "TSK_FRC" ;
+    at:start.use "1998-01-21" ;
+    atold:op-code "TSK_FRC" ;
+    dc:identifier "TSK_FRC" ;
+    skos:inScheme atold:organization-type ;
+    skos:prefLabel "Оперативна група"@bg,
+        "Pracovní skupina"@cs,
+        "Taskforce"@da,
+        "Taskforce"@de,
+        "Ειδική ομάδα"@el,
+        "Task Force"@en,
+        "Grupo de trabajo"@es,
+        "Rakkerühm"@et,
+        "Työryhmä"@fi,
+        "Groupe d’experts"@fr,
+        "Tascfhórsa"@ga,
+        "Radna skupina"@hr,
+        "Munkacsoport"@hu,
+        "Task force"@it,
+        "Darbo grupė"@lt,
+        "Darba grupa"@lv,
+        "Task Force"@mt,
+        "Taskforce"@nl,
+        "Grupa zadaniowa"@pl,
+        "Grupo de Trabalho"@pt,
+        "Grup operativ"@ro,
+        "Pracovná skupina"@sk,
+        "Projektna skupina"@sl,
+        "Arbetsgrupp"@sv .
+
+<http://publications.europa.eu/resource/authority/organization-type/UNIT> a skos:Concept ;
+    at:authority-code "UNIT" ;
+    at:deprecated "false" ;
+    at:op-code "UNIT" ;
+    at:start.use "1952-09-09" ;
+    atold:op-code "UNIT" ;
+    dc:identifier "UNIT" ;
+    skos:inScheme atold:organization-type ;
+    skos:prefLabel "Отдел"@bg,
+        "Oddělení"@cs,
+        "Kontor"@da,
+        "Referat"@de,
+        "Μονάδα"@el,
+        "Unit"@en,
+        "Unidad"@es,
+        "Üksus"@et,
+        "Yksikkö"@fi,
+        "Unité"@fr,
+        "Aonad"@ga,
+        "Odjel"@hr,
+        "Egység"@hu,
+        "Unità"@it,
+        "Skyrius"@lt,
+        "Nodaļa"@lv,
+        "Unità"@mt,
+        "Eenheid"@nl,
+        "Dział"@pl,
+        "Unidade"@pt,
+        "Unitate"@ro,
+        "Oddelenie"@sk,
+        "Enota"@sl,
+        "Enhet"@sv .
+
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_CFSP> a skos:Concept ;
+    at:authority-code "AGENCY_CFSP" ;
+    at:deprecated "false" ;
+    at:op-code "AGENCY_CFSP" ;
+    at:start.use "2002-01-01" ;
+    atold:op-code "AGENCY_CFSP" ;
+    dc:identifier "AGENCY_CFSP" ;
+    skos:broader <http://publications.europa.eu/resource/authority/organization-type/AGENCY> ;
+    skos:inScheme atold:organization-type ;
+    skos:prefLabel "Агенция по външна политика и обща сигурност"@bg,
+        "Agentura společné zahraniční a bezpečnostní politiky"@cs,
+        "Agentur i tilknytning til den fælles udenrigs- og sikkerhedspolitik"@da,
+        "Agentur für die Gemeinsame Außen- und Sicherheitspolitik"@de,
+        "Οργανισμός της κοινής εξωτερικής πολιτικής και πολιτικής ασφάλειας"@el,
+        "Common foreign and security policy agency"@en,
+        "Agencia de política exterior y de seguridad común"@es,
+        "Ühise välis- ja julgeolekupoliitika agentuur"@et,
+        "Yhteiseen ulko- ja turvallisuuspolitiikkaan liittyvä virasto"@fi,
+        "Agence de la politique étrangère et de sécurité commune"@fr,
+        "Gníomhaireacht um chomhbheartas seachtrach agus slándála"@ga,
+        "Agencija za zajedničku vanjsku i sigurnosnu politiku"@hr,
+        "Közös kül- és biztonságpolitikai ügynökség"@hu,
+        "Agenzia per la politica estera e di sicurezza comune"@it,
+        "Bendra užsienio ir saugumo politikos agentūra"@lt,
+        "Kopējās ārpolitikas un drošības politikas aģentūra"@lv,
+        "Aġenzija tal-politika barranija u tas-sigurtà komuni"@mt,
+        "Agentschap voor gemeenschappelijk buitenlands en veiligheidsbeleid"@nl,
+        "Agencja w ramach wspólnej polityki zagranicznej i bezpieczeństwa"@pl,
+        "Agência da Política Externa e de Segurança Comum"@pt,
+        "Agenţia de politică externă şi de securitate comună"@ro,
+        "Agentúra pre spoločnú zahraničnú a bezpečnostnú politiku"@sk,
+        "Agencija za skupno zunanjo in varnostno politiko"@sl,
+        "Byrån för gemensam utrikes- och säkerhetspolitik"@sv .
+
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_DEC> a skos:Concept ;
+    at:authority-code "AGENCY_DEC" ;
+    at:deprecated "false" ;
+    at:op-code "AGENCY_DEC" ;
+    at:start.use "1975-02-10" ;
+    atold:op-code "AGENCY_DEC" ;
+    dc:identifier "AGENCY_DEC" ;
+    skos:broader <http://publications.europa.eu/resource/authority/organization-type/AGENCY> ;
+    skos:inScheme atold:organization-type ;
+    skos:prefLabel "Децентрализирана агенция"@bg,
+        "Decentralizovaná agentura"@cs,
+        "Decentralt agentur"@da,
+        "Dezentrale Agentur"@de,
+        "Αποκεντρωμένος οργανισμός"@el,
+        "Decentralised agency"@en,
+        "Agencia descentralizada"@es,
+        "Detsentraliseeritud asutus"@et,
+        "Hajautettu virasto"@fi,
+        "Agence décentralisée"@fr,
+        "Gníomhaireacht dhíláraithe"@ga,
+        "Decentralizirana agencija"@hr,
+        "Decentralizált ügynökség"@hu,
+        "Agenzia decentrata"@it,
+        "Decentralizuota agentūra"@lt,
+        "Decentralizēta aģentūra"@lv,
+        "Aġenzija deċentralizzata"@mt,
+        "Gedecentraliseerd agentschap"@nl,
+        "Agencja zdecentralizowana"@pl,
+        "Agência descentralizada"@pt,
+        "Agenție descentralizată"@ro,
+        "Decentralizovaná agentúra"@sk,
+        "Decentralizirana agencija"@sl,
+        "Decentraliserad byrå"@sv .
+
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EURATOM> a skos:Concept ;
+    at:authority-code "AGENCY_EURATOM" ;
+    at:deprecated "false" ;
+    at:op-code "AGENCY_EURATOM" ;
+    at:start.use "1958-12-06" ;
+    atold:op-code "AGENCY_EURATOM" ;
+    dc:identifier "AGENCY_EURATOM" ;
+    skos:broader <http://publications.europa.eu/resource/authority/organization-type/AGENCY> ;
+    skos:inScheme atold:organization-type ;
+    skos:prefLabel "Агенция или орган на Евратом"@bg,
+        "Orgán nebo agentura Euratomu"@cs,
+        "Euratomagentur eller -organ"@da,
+        "Euratom-Agentur oder -Einrichtung"@de,
+        "Οργανισμός ή όργανο της Ευρατόμ"@el,
+        "Euratom agency or body"@en,
+        "Agencia u organismo de Euratom"@es,
+        "Euratomi amet või asutus"@et,
+        "Euratomin virasto tai elin"@fi,
+        "Agence ou organe d’Euratom"@fr,
+        "Gníomhaireacht nó comhlacht de chuid Euratom"@ga,
+        "Agencija ili tijelo Euratoma"@hr,
+        "Euratom-ügynökség vagy -szerv"@hu,
+        "Agenzia o organo Euratom"@it,
+        "Euratomo agentūra ar organas"@lt,
+        "Euratom aģentūra vai struktūra"@lv,
+        "Aġenzija jew Korp tal-Euratom"@mt,
+        "Euratom-agentschap of -orgaan"@nl,
+        "Agencja lub organ Euratomu"@pl,
+        "Agência ou órgão Euratom"@pt,
+        "Agenția sau organismul a Euratom"@ro,
+        "Agentúra alebo orgán Euratomu"@sk,
+        "Agencija ali organ Euratom"@sl,
+        "Euratoms byrå eller organ"@sv .
+
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EXE> a skos:Concept ;
+    at:authority-code "AGENCY_EXE" ;
+    at:deprecated "false" ;
+    at:op-code "AGENCY_EXE" ;
+    at:start.use "2003-12-23" ;
+    atold:op-code "AGENCY_EXE" ;
+    dc:identifier "AGENCY_EXE" ;
+    skos:broader <http://publications.europa.eu/resource/authority/organization-type/AGENCY> ;
+    skos:inScheme atold:organization-type ;
+    skos:prefLabel "Изпълнителна агенция"@bg,
+        "Výkonná agentura"@cs,
+        "Forvaltningsorganet"@da,
+        "Exekutivagentur"@de,
+        "Εκτελεστικός Οργανισμός"@el,
+        "Executive Agency"@en,
+        "Agencia ejecutiva"@es,
+        "Rakendusamet"@et,
+        "Toimeenpanovirasto"@fi,
+        "Agence exécutive"@fr,
+        "An Ghníomhaireacht Feidhmiúcháin"@ga,
+        "Izvršna agencija"@hr,
+        "Végrehajtó ügynökség"@hu,
+        "Agenzia esecutiva"@it,
+        "Vykdomoji įstaiga"@lt,
+        "Izpildaģentūra"@lv,
+        "L-Aġenzija Eżekuttiva"@mt,
+        "Uitvoerend Agentschap"@nl,
+        "Agencja Wykonawcza"@pl,
+        "Agência Executiva"@pt,
+        "Agenție Executivă"@ro,
+        "Výkonná agentúra"@sk,
+        "Izvajalska agencija"@sl,
+        "Genomförandeorganet"@sv .
+
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY> a skos:Concept ;
+    at:authority-code "AGENCY" ;
+    at:deprecated "false" ;
+    at:op-code "AGENCY" ;
+    at:start.use "1975-02-10" ;
+    atold:op-code "AGENCY" ;
+    dc:identifier "AGENCY" ;
+    skos:inScheme atold:organization-type ;
+    skos:narrower <http://publications.europa.eu/resource/authority/organization-type/AGENCY_CFSP>,
+        <http://publications.europa.eu/resource/authority/organization-type/AGENCY_DEC>,
+        <http://publications.europa.eu/resource/authority/organization-type/AGENCY_EURATOM>,
+        <http://publications.europa.eu/resource/authority/organization-type/AGENCY_EXE> ;
+    skos:prefLabel "Агенция"@bg,
+        "Agentura"@cs,
+        "Agenturet"@da,
+        "Agentur"@de,
+        "Οργανισμός"@el,
+        "Agency"@en,
+        "Agencia"@es,
+        "Amet"@et,
+        "Virasto"@fi,
+        "Agence"@fr,
+        "Gníomhaireacht"@ga,
+        "Agencija"@hr,
+        "Ügynökség"@hu,
+        "Agenzia"@it,
+        "Agentūra"@lt,
+        "Aģentūra"@lv,
+        "Aġenzija"@mt,
+        "Agentschap"@nl,
+        "Agencja"@pl,
+        "Agência"@pt,
+        "Agenție"@ro,
+        "Agentúra"@sk,
+        "Agencija"@sl,
+        "Byrå"@sv .
+
+atold:organization-type a skos:ConceptScheme ;
+    rdfs:label "Organization type"@en ;
+    at:prefLabel "Organization type"@en ;
+    at:table.id "organization-type" ;
+    at:table.version.number "20210929-0" ;
+    owl:versionInfo "20210929-0" ;
+    skos:prefLabel "Organization type"@en .
+

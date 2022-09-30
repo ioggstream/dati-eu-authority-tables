@@ -1,0 +1,1076 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix euvoc: <http://publications.europa.eu/ontology/euvoc#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://publications.europa.eu/resource/authority/procedure/ACC> a skos:Concept ;
+    at:authority-code "ACC" ;
+    at:deprecated "true" ;
+    at:end.use "2009-11-30" ;
+    at:op-code "ACC" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "(ACC;10000)" ;
+            dc:source "PreLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "ACC" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "(ACC;10000)" ;
+            dc:source "PreLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "ACC" ;
+            dc:source "ATTO" ] ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "ACC" ;
+    dc:identifier "ACC" ;
+    skos:changeNote "1957E228 , 1992E228 , 1997E300 , 12002E300 , 12006E300 , 12008E218 , 12010E218"@en ;
+    skos:definition "The procedure was used before the entry into force of the Lisbon Treaty on 1 December 2009 for some types of legal acts related to the Communities’ competence to conclude international agreements in the area of common commercial policy and the economic, financial and technical cooperation with third countries."@en,
+        "La procédure a été utilisée avant l’entrée en vigueur du traité de Lisbonne, le 1er décembre 2009, pour certains types d’actes juridiques liés à la compétence des Communautés pour conclure des accords internationaux dans le domaine de la politique commerciale commune et de la coopération économique, financière et technique avec les pays tiers."@fr ;
+    skos:inScheme atold:procedure ;
+    skos:notation <http://publications.europa.eu/resource/authority/procedure/f8567f06d374e17cf979be57cb3e424f> ;
+    skos:prefLabel "Споразумение (ACC)"@bg,
+        "Dohoda (ACC)"@cs,
+        "Enighed (ACC)"@da,
+        "Abkommen (ACC)"@de,
+        "Συμφωνία (ACC)"@el,
+        "Agreement (ACC)"@en,
+        "Acuerdo (ACC)"@es,
+        "Kokkulepe (ACC)"@et,
+        "Sopimus (ACC)"@fi,
+        "Accord (ACC)"@fr,
+        "Comhaontú (ACC)"@ga,
+        "Sporazum (ACC)"@hr,
+        "Megállapodás (ACC)"@hu,
+        "Accordo (ACC)"@it,
+        "Susitarimas (ACC)"@lt,
+        "Nolīgums (ACC)"@lv,
+        "Ftehim (ACC)"@mt,
+        "Akkoord (ACC)"@nl,
+        "Zgoda (ACC)"@pl,
+        "Acordo (ACC)"@pt,
+        "Acord (ACC)"@ro,
+        "Dohoda (ACC)"@sk,
+        "Sporazum (ACC)"@sl,
+        "Samtycke (ACC)"@sv ;
+    skos:topConceptOf atold:procedure .
+
+<http://publications.europa.eu/resource/authority/procedure/APP> a skos:Concept ;
+    at:authority-code "APP" ;
+    at:deprecated "false" ;
+    at:op-code "APP" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "APP" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "APP" ;
+            dc:source "EP" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "APP" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "APP" ;
+            dc:source "EP" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "(APP;1030)" ;
+            dc:source "PreLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "(APP;1030)" ;
+            dc:source "PreLex" ] ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "APP" ;
+    dc:identifier "APP" ;
+    skos:changeNote "16 domaines différents sont soumis a cette procédure depuis l'entrée en vigueur du trait de lisbonne. Il ne peut donc pas exister une seule référence Celex. Cf tableau APP /AVC"@fr ;
+    skos:definition "In certain legislative areas, the European Parliament is requested to give its consent, as a special legislative procedure under Article 289(2) of the Treaty on the Functioning of the European Union (TFEU). The consent procedure gives Parliament the right of veto. Parliament's role is thus to approve or reject the legislative proposal without further amendments and the Council cannot overrule Parliament's opinion. Consent is also required as a non-legislative procedure when the Council is adopting certain international agreements."@en,
+        "Dans certains domaines législatifs, le Parlement européen est invité à donner son approbation, dans le cadre d’une procédure législative spéciale au sens de l’article 289, paragraphe 2, du traité sur le fonctionnement de l’Union européenne. Cette procédure d’approbation attribue un droit de veto au Parlement. Le rôle de ce dernier consiste donc à approuver ou rejeter la proposition législative sans amendements, et le Conseil ne peut passer outre à l’avis du Parlement. L’approbation est également requise dans le cadre d’une procédure non législative, lorsque le Conseil adopte certains accords internationaux."@fr ;
+    skos:inScheme atold:procedure ;
+    skos:notation <http://publications.europa.eu/resource/authority/procedure/40a303dd1cffa3d04ce3cd6160fcdfa0>,
+        <http://publications.europa.eu/resource/authority/procedure/ab4ffea5319f14968e8aa9177ba8f8d9> ;
+    skos:prefLabel "Специална законодателна процедура – одобряване от ЕП (APP)"@bg,
+        "Zvláštní legislativní postup – souhlas EP (APP)"@cs,
+        "Særlig lovgivningsprocedure – godkendelse fra Europa-Parlamentet (APP)"@da,
+        "Besonderes Rechtsetzungsverfahren — Zustimmung des Parlaments (APP)"@de,
+        "Ειδική νομοθετική διαδικασία – έγκριση από το ΕΚ (APP)"@el,
+        "Special legislative procedure — EP consent required (APP)"@en,
+        "Procedimiento legislativo especial — Aprobación del PE (APP)"@es,
+        "Seadusandlik erimenetlus – Euroopa Parlamendi nõusolek vajalik (APP)"@et,
+        "Erityinen lainsäätämisjärjestys – Euroopan parlamentin hyväksyntä (APP)"@fi,
+        "Procédure législative spéciale — approbation du PE (APP)"@fr,
+        "Nós imeachta reachtach speisialta – toiliú PE de dhíth (APP)"@ga,
+        "Poseban zakonodavni postupak – obvezna suglasnost EP-a (APP)"@hr,
+        "Különleges jogalkotási eljárás – az Európai Parlament jóváhagyásával (APP)"@hu,
+        "Procedura legislativa speciale — Approvazione del PE (APP)"@it,
+        "Speciali teisėkūros procedūra – EP pritarimas (APP)"@lt,
+        "Īpašā likumdošanas procedūra — EP piekrišana (APP)"@lv,
+        "Proċedura leġiżlattiva speċjali – approvazzjoni tal-PE (APP)"@mt,
+        "Bijzondere wetgevingsprocedure — goedkeuring van het EP (APP)"@nl,
+        "Szczególna procedura prawodawcza – zgoda PE (APP)"@pl,
+        "Processo legislativo especial – aprovação do PE (APP)"@pt,
+        "Procedură legislativă specială – aprobarea PE (APP)"@ro,
+        "Mimoriadny legislatívny postup – súhlas EP (APP)"@sk,
+        "Posebni zakonodajni postopek – odobritev EP (APP)"@sl,
+        "Särskilt lagstiftningsförfarande – godkännande av parlamentet (APP)"@sv ;
+    skos:topConceptOf atold:procedure .
+
+<http://publications.europa.eu/resource/authority/procedure/AVC> a skos:Concept ;
+    at:authority-code "AVC" ;
+    at:deprecated "true" ;
+    at:end.use "2009-11-30" ;
+    at:op-code "AVC" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "AVC" ;
+            dc:source "EP" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "(AVC;1020)" ;
+            dc:source "PreLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "(AVC;1020)" ;
+            dc:source "PreLex" ],
+        [ a at:MappedCode ;
+            at:legacy-code "AVC" ;
+            dc:source "EP" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "AVC" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "AVC" ;
+            dc:source "ATTO" ] ;
+    at:start.use "1987-07-01" ;
+    atold:op-code "AVC" ;
+    dc:identifier "AVC" ;
+    skos:changeNote "9 domaines diffférents étaient soumis à la procédure de l'avis conforme introduite par l'acte Unique européen. Il ne peut donc pas exister une seule référence Celex. CF tableau APP/AVC ; 12007E0218_6"@fr,
+        "julia: Introduction de la procédure de l'avis conforme dans l'Acte unique européen {11986U008 modifiant 11957E237 sur les accords d'adhésion , 11986U009 modifiant 11957E238-P2 sur les accords d'association"@fr ;
+    skos:definition "The assent procedure, which was introduced by the Single European Act, gives Parliament the possibility of expressing its approval or disapproval of certain Council instruments. There are certain matters on which the Council cannot legislate unless Parliament gives its consent by an absolute majority of its members. The assent procedure, which represents as it were a right of veto for Parliament, was originally intended to apply only to the conclusion of association agreements and the examination of applications to join the European Community."@en,
+        "La procédure de l’avis conforme a été introduite par l’Acte unique européen et donne au Parlement la possibilité d’exprimer son accord ou son désaccord sur l’approbation de certains actes du Conseil. Le Conseil ne peut pas légiférer dans certaines matières si le Parlement, à la majorité absolue de ses membres, ne donne pas son accord. La procédure de l’avis conforme, qui représente quasiment un droit de veto du Parlement, était prévue à l’origine seulement pour la conclusion des accords d’association et pour l’examen des demandes d’adhésion à la Communauté européenne."@fr ;
+    skos:inScheme atold:procedure ;
+    skos:notation <http://publications.europa.eu/resource/authority/procedure/1f4080f0d9759acec9117a56e573cd4b>,
+        <http://publications.europa.eu/resource/authority/procedure/6717917e091c65ce0c63da1ec50b7d28> ;
+    skos:prefLabel "Процедура на одобрение (AVC)"@bg,
+        "Postup souhlasu EP (AVC)"@cs,
+        "Procedure med EP’s samstemmende udtalelse (AVC)"@da,
+        "Zustimmungsverfahren (AVC)"@de,
+        "Διαδικασία σύμφωνης γνώμης (AVC)"@el,
+        "Assent procedure (AVC)"@en,
+        "Procedimiento de dictamen conforme (AVC)"@es,
+        "Nõusolekumenetlus (AVC)"@et,
+        "EP:n hyväksyntämenettely (AVC)"@fi,
+        "Procédure d’avis conforme du PE (AVC)"@fr,
+        "Nós imeachta an aontaithe (AVC)"@ga,
+        "Postupak pristanka (AVC)"@hr,
+        "Hozzájárulási eljárás (AVC)"@hu,
+        "Procedura di parere conforme (AVC)"@it,
+        "EP pritarimo procedūra (AVC)"@lt,
+        "EP piekrišanas procedūra (AVC)"@lv,
+        "Proċedura ta' kunsens (AVC)"@mt,
+        "Instemmingsprocedure van het EP (AVC)"@nl,
+        "Procedura zgody (AVC)"@pl,
+        "Procedimento de parecer favorável PE (AVC)"@pt,
+        "Procedura avizului conform (AVC)"@ro,
+        "Postup súhlasu EP (AVC)"@sk,
+        "Postopek privolitve EP (AVC)"@sl,
+        "Samtyckesförfarandet (AVC)"@sv ;
+    skos:topConceptOf atold:procedure .
+
+<http://publications.europa.eu/resource/authority/procedure/BUD> a skos:Concept ;
+    at:authority-code "BUD" ;
+    at:deprecated "false" ;
+    at:op-code "BUD" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "BUD" ;
+            dc:source "EP" ],
+        [ a at:MappedCode ;
+            at:legacy-code "BUD" ;
+            dc:source "EP" ] ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "BUD" ;
+    dc:identifier "BUD" ;
+    skos:definition "The general principles of the Union's annual budget are set in Article 310 of the Treaty on the Functioning of the European Union. This provision also mentioned the decision-making process to be followed for drafting and adopting the EU’s annual budget (formerly the European Economic Community): ‘The Union’s annual budget shall be established by the European Parliament and the Council in accordance with Article 314.’ This latter article provides that in this context the European Parliament and the Council act in accordance with a special legislative procedure and the various stages of this procedure are described in the rest of the text (from the submission of the draft budget by the Commission to the definitive adoption of the Budget)."@en,
+        "Les principes généraux du budget annuel de l’Union sont énoncés à l’article 310 du traité sur le fonctionnement de l’Union européenne. Cette disposition mentionnait également le processus décisionnel à suivre pour l’élaboration et l’adoption du budget annuel de l’UE (anciennement la Communauté économique européenne): «Le budget annuel de l’Union est établi par le Parlement européen et le Conseil conformément à l’article 314.» Cet article dispose que, dans ce contexte, le Parlement européen et le Conseil agissent conformément à une procédure législative spéciale, dont les différentes étapes sont décrites dans le reste du texte (du dépôt du projet de budget par la Commission jusqu’à l’adoption définitive du budget)."@fr ;
+    skos:historyNote "On 14 August 2020, (BUD) was added to the end of the label in order to align the label of this concept with other labels in this scheme."@en ;
+    skos:inScheme atold:procedure ;
+    skos:notation <http://publications.europa.eu/resource/authority/procedure/ef44666125fbc3309a8ae9b3a70627d2> ;
+    skos:prefLabel "Бюджетна процедура (BUD)"@bg,
+        "Rozpočtový proces (BUD)"@cs,
+        "Budgetbehandling (BUD)"@da,
+        "Verfahren zur Feststellung des Haushaltsplans (BUD)"@de,
+        "Διαδικασία του προϋπολογισμού (BUD)"@el,
+        "Budgetary procedure (BUD)"@en,
+        "Procedimiento presupuestario (BUD)"@es,
+        "Eelarvemenetlus (BUD)"@et,
+        "Talousarviomenettely (BUD)"@fi,
+        "Procédure budgétaire (BUD)"@fr,
+        "Nós imeachta buiséadach (BUD)"@ga,
+        "Proračunski postupak (BUD)"@hr,
+        "Költségvetési eljárás (BUD)"@hu,
+        "Procedura di bilancio (BUD)"@it,
+        "Biudžeto procedūra (BUD)"@lt,
+        "Budžeta procedūra (BUD)"@lv,
+        "Proċedura baġitarja (BUD)"@mt,
+        "Procedure tot vaststelling van de begroting (BUD)"@nl,
+        "Procedura budżetowa (BUD)"@pl,
+        "Processo orçamental (BUD)"@pt,
+        "Procedură bugetară (BUD)"@ro,
+        "Rozpočtový postup (BUD)"@sk,
+        "Proračunski postopek (BUD)"@sl,
+        "Budgetförfarande (BUD)"@sv ;
+    skos:topConceptOf atold:procedure .
+
+<http://publications.europa.eu/resource/authority/procedure/CNB> a skos:Concept ;
+    at:authority-code "CNB" ;
+    at:deprecated "true" ;
+    at:end.use "2009-11-30" ;
+    at:op-code "CNB" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "(CNB;100000)" ;
+            dc:source "PreLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "CNB" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "CNB" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "(CNB;100000)" ;
+            dc:source "PreLex" ] ;
+    at:start.use "1993-11-01" ;
+    atold:op-code "CNB" ;
+    dc:identifier "CNB" ;
+    skos:changeNote "Doc. identifier is \"CON\""@en,
+        "*politique économique et monétaire : 12010E126 , 12008E126 , 12006E104,12002E104, 11997E104 , 11992E104C , 12010E127, 12008E127, 12006E105, 12002E105, 11997E105, 11992E105 * accords internationaux :12010E219 {ex-art 111P1à 3et5 TCE} ET 12010E138 {ex-art111P4TCE}, 12008E219 {idem}, 12006E111, 12002E111, 11997E111, 11992E109 12007E0115"@fr ;
+    skos:definition "The European Central Bank is consulted on the position to be taken by the EU regarding the negotiation and renegotiation of the monetary agreements and the introduction of the euro in Member States. The procedure was applied before the entry into force of the Lisbon Treaty on 1 December 2009."@en,
+        "La Banque centrale européenne est consultée sur la position à adopter par l’UE en ce qui concerne la négociation et la renégociation des accords monétaires et l’introduction de l’euro dans les États membres. La procédure a été appliquée avant l’entrée en vigueur du traité de Lisbonne, le 1er décembre 2009."@fr ;
+    skos:inScheme atold:procedure ;
+    skos:notation <http://publications.europa.eu/resource/authority/procedure/f1790523d855d7b988d4c7a8cc85119d> ;
+    skos:prefLabel "Консултация с Европейската централна банка (CNB)"@bg,
+        "Konzultace Evropské centrální banky (CNB)"@cs,
+        "Høring af Den Europæiske Centralbank (CNB)"@da,
+        "Anhörung Europäische Zentralbank (CNB)"@de,
+        "Διαβούλευση της Ευρωπαϊκής Κεντρικής Τράπεζας (CNB)"@el,
+        "Consultation of the European Central Bank (CNB)"@en,
+        "Consulta del Banco Central Europeo (CNB)"@es,
+        "Konsulteerimine Euroopa Keskpangaga (CNB)"@et,
+        "Euroopan keskuspankin kuuleminen (CNB)"@fi,
+        "Consultation de la Banque centrale européenne (CNB)"@fr,
+        "Comhairliúchán an Bhainc Cheannais Eorpaigh (CNB)"@ga,
+        "Savjetovanje s Europskom središnjom bankom (CNB)"@hr,
+        "Konzultáció az Európai Központi Bankkal (CNB)"@hu,
+        "Consultazione della Banca centrale europea (CNB)"@it,
+        "Konsultavimasis su Europos centriniu banku (CNB)"@lt,
+        "Apspriešanās ar Eiropas Centrālo banku (CNB)"@lv,
+        "Konsultazzjoni tal-Bank Ċentrali Ewropew (CNB)"@mt,
+        "Raadpleging van de Europese Centrale Bank (CNB)"@nl,
+        "Konsultacja Europejskiego Banku Centralnego (CNB)"@pl,
+        "Consulta do Banco Central Europeu (CNB)"@pt,
+        "Consultarea Băncii Centrale Europene (CNB)"@ro,
+        "Konzultácia s Európskou centrálnou bankou (CNB)"@sk,
+        "Posvetovanje z Evropsko centralno banko (CNB)"@sl,
+        "Samråd med Europeiska centralbanken (CNB)"@sv ;
+    skos:topConceptOf atold:procedure .
+
+<http://publications.europa.eu/resource/authority/procedure/CNC> a skos:Concept ;
+    at:authority-code "CNC" ;
+    at:deprecated "true" ;
+    at:end.use "2009-11-30" ;
+    at:op-code "CNC" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "(CNC;100060)" ;
+            dc:source "PreLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "CNC" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "CNC" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "(CNC;100060)" ;
+            dc:source "PreLex" ] ;
+    at:start.use "1993-11-01" ;
+    atold:op-code "CNC" ;
+    dc:identifier "CNC" ;
+    skos:changeNote "12006E279 , 12002E279 , 1997E279 , 1992E209 11992E0187"@fr,
+        "depuis TFUE consultation CNC intégrée dans COD"@fr ;
+    skos:definition "Until the entry into force of the Treaty of Lisbon, the procedure of consultation of the Court of Auditors was used for a few specific legal acts related to the financial regulations applicable to the European Development Fund (EDF)."@en,
+        "Jusqu’à l’entrée en vigueur du traité de Lisbonne, la procédure de consultation de la Cour des comptes était utilisée pour quelques actes juridiques spécifiques liés aux règlements financiers applicables au Fonds européen de développement (FED)."@fr ;
+    skos:inScheme atold:procedure ;
+    skos:notation <http://publications.europa.eu/resource/authority/procedure/5852ea5db28d58e180465658c388bdf1> ;
+    skos:prefLabel "Консултация със Сметната палата (CNC)"@bg,
+        "Konzultace Účetního dvora (CNC)"@cs,
+        "Høring af Revisionsretten (CNC)"@da,
+        "Anhörung des Rechnungshofes (CNC)"@de,
+        "Διαβούλευση του Ελεγκτικού Συνεδρίου (CNC)"@el,
+        "Consultation of the Court of Auditors (CNC)"@en,
+        "Consulta del Tribunal de Cuentas (CNC)"@es,
+        "Konsulteerimine kontrollikojaga (CNC)"@et,
+        "Tilintarkastustuomioistuimen kuuleminen (CNC)"@fi,
+        "Consultation de la Cour des Comptes (CNC)"@fr,
+        "Dul i gcomhairle leis an gCúirt Iniúchóirí (CNC)"@ga,
+        "Savjetovanje s Revizorskim sudom (CNC)"@hr,
+        "Konzultáció a Számvevőszékkel (CNC)"@hu,
+        "Consultazione della Corte dei conti (CNC)"@it,
+        "Konsultavimasis su Audito Rūmais (CNC)"@lt,
+        "Apspriešanās ar Revīzijas palātu (CNC)"@lv,
+        "Konsultazzjoni tal-Qorti tal-Awdituri (CNC)"@mt,
+        "Raadpleging Rekenkamer (CNC)"@nl,
+        "Konsultacja Trybunału Obrachunkowego (CNC)"@pl,
+        "Consulta do Tribunal de Contas (CNC)"@pt,
+        "Consultarea Curţii de Conturi (CNC)"@ro,
+        "Konzultácia s Dvorom audítorov (CNC)"@sk,
+        "Posvetovanje z Računskim sodiščem (CNC)"@sl,
+        "Samråd med revisionsrätten (CNC)"@sv ;
+    skos:topConceptOf atold:procedure .
+
+<http://publications.europa.eu/resource/authority/procedure/CNS> a skos:Concept ;
+    at:authority-code "CNS" ;
+    at:deprecated "true" ;
+    at:end.use "2009-11-30" ;
+    at:op-code "CNS" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "(CNS_OLD;1016)" ;
+            dc:source "PreLex" ],
+        [ a at:MappedCode ;
+            at:legacy-code "CNS" ;
+            dc:source "EP" ],
+        [ a at:MappedCode ;
+            at:legacy-code "CNS" ;
+            dc:source "EP" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "CNS_OLD" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "CNS_OLD" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "(CNS_OLD;1016)" ;
+            dc:source "PreLex" ] ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "CNS" ;
+    dc:identifier "CNS" ;
+    skos:changeNote "La procédure de consultation était à l'origine la seule possibilité dont disposait le PE dans l'élaboration des actes normatifs de la Communauté. Elle était donc mentionnée dans les articles qui la prévoyaient. Il n'y avait pas d'article générique unique. { 12006M , 12002M , 11997M , 1992M , 12006E , 12002E , 1997E , 11992E , 11957E }"@fr,
+        "julia:s'agit il de l'initiative prévue à l'art.289P4 ou bien de celle prévue à l'art. 225 qui consiste plus pour le PE à suggérer à la Comm° une proposition d'acte législatif ?"@fr ;
+    skos:definition "Under Article 289 of the Treaty on the Functioning of the European Union (TFEU), consultation is a special legislative procedure, whereby Parliament is asked for its opinion on proposed legislation before the Council adopts it."@en,
+        "En vertu de l’article 289 du traité sur le fonctionnement de l’Union européenne (TFUE), la consultation est une procédure législative spéciale, dans le cadre de laquelle le Parlement donne son avis sur les propositions législatives avant que le Conseil ne les adopte."@fr ;
+    skos:inScheme atold:procedure ;
+    skos:notation <http://publications.europa.eu/resource/authority/procedure/af2f645a1c39ec98637679e77cc3a43c>,
+        <http://publications.europa.eu/resource/authority/procedure/dd71d72072a9941da387a4191360a47b> ;
+    skos:prefLabel "Процедура на консултация (CNS)"@bg,
+        "Postup konzultace (CNS)"@cs,
+        "Høringsprocedure (CNS)"@da,
+        "Konsultationsverfahren (CNS)"@de,
+        "Διαδικασία διαβούλευσης (CNS)"@el,
+        "Consultation procedure (CNS)"@en,
+        "Procedimiento de consulta (CNS)"@es,
+        "Nõuandemenetlus (CNS)"@et,
+        "Kuulemismenettely (CNS)"@fi,
+        "Procédure de consultation (CNS)"@fr,
+        "Nós imeachta comhairliúcháin (CNS)"@ga,
+        "Postupak savjetovanja (CNS)"@hr,
+        "Konzultációs eljárás (CNS)"@hu,
+        "Procedura di consultazione (CNS)"@it,
+        "Konsultavimosi procedūra (CNS)"@lt,
+        "Apspriešanās procedūra (CNS)"@lv,
+        "Proċedura ta' konsultazzjoni (CNS)"@mt,
+        "Raadplegingsprocedure (CNS)"@nl,
+        "Procedura konsultacji (CNS)"@pl,
+        "Procedimento de consulta (CNS)"@pt,
+        "Procedură de consultare (CNS)"@ro,
+        "Postup konzultácie (CNS)"@sk,
+        "Postopek posvetovanja (CNS)"@sl,
+        "Samrådsförfarandet (CNS)"@sv ;
+    skos:topConceptOf atold:procedure .
+
+<http://publications.europa.eu/resource/authority/procedure/COD> a skos:Concept ;
+    at:authority-code "COD" ;
+    at:deprecated "true" ;
+    at:end.use "2009-11-30" ;
+    at:op-code "COD" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "COD_OLD" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "COD_OLD" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "(COD_OLD;1011)" ;
+            dc:source "PreLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "(COD_OLD;1011)" ;
+            dc:source "PreLex" ] ;
+    at:start.use "1993-11-01" ;
+    atold:op-code "COD" ;
+    dc:identifier "COD" ;
+    skos:changeNote "11992E189B , 11997E251 , 12002E251 , 12006E251 , 11957E0251"@en ;
+    skos:definition "The codecision procedure was first introduced with the Maastricht Treaty in 1992. Its purpose was the joint adoption of legislation on an equal footing by the European Parliament and the Council. In 1999, the Treaty of Amsterdam greatly extended the use case of this procedure into new policy areas. With the Treaty of Lisbon in 2009, the procedure was renamed the Ordinary Legislative Procedure, becoming the main decision making procedure covering the vast majority of areas of today’s Union’s action. "@en,
+        "La procédure de codécision a été introduite pour la première fois avec le traité de Maastricht en 1992. Son objectif était l’adoption conjointe de la législation, sur un pied d’égalité, par le Parlement européen et le Conseil. En 1999, le traité d’Amsterdam a considérablement étendu le recours à cette procédure à de nouveaux domaines d’action. Avec le traité de Lisbonne en 2009, la procédure a été rebaptisée «procédure législative ordinaire», devenant la principale procédure décisionnelle, qui couvre la plupart des domaines d’action actuels de l’Union."@fr ;
+    skos:inScheme atold:procedure ;
+    skos:notation <http://publications.europa.eu/resource/authority/procedure/f0dcf03cd683d0eafec10021376e4c4c> ;
+    skos:prefLabel "Процедура за съвместно вземане на решение (COD)"@bg,
+        "Postup spolurozhodování (COD)"@cs,
+        "Fælles beslutningsprocedure (COD)"@da,
+        "Mitentscheidungsverfahren (COD)"@de,
+        "Διαδικασία συναπόφασης (COD)"@el,
+        "Co-decision procedure (COD)"@en,
+        "Procedimiento de codecisión (COD)"@es,
+        "Kaasotsustamismenetlus (COD)"@et,
+        "Yhteispäätösmenettely (COD)"@fi,
+        "Procédure de codécision (COD)"@fr,
+        "Nós imeachta na comhchinnteoireachta (COD)"@ga,
+        "Postupak suodlučivanja (COD)"@hr,
+        "Együttdöntési eljárás (COD)"@hu,
+        "Procedura di codecisione (COD)"@it,
+        "Bendro sprendimo procedūra (COD)"@lt,
+        "Koplēmuma procedūra (COD)"@lv,
+        "Proċedura ta' Deċiżjoni konġunta (COD)"@mt,
+        "Medebeslissingsprocedure (COD)"@nl,
+        "Procedura współdecyzji (COD)"@pl,
+        "Procedimento de co-decisão (COD)"@pt,
+        "Procedură de codecizie (COD)"@ro,
+        "Postup spolurozhodovania (COD)"@sk,
+        "Postopek soodločanja (COD)"@sl,
+        "Medbeslutandeförfarandet (COD)"@sv ;
+    skos:topConceptOf atold:procedure .
+
+<http://publications.europa.eu/resource/authority/procedure/DEA> a skos:Concept ;
+    at:authority-code "DEA" ;
+    at:deprecated "true" ;
+    at:end.use "2009-12-02" ;
+    at:op-code "DEA" ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "DEA" ;
+    dc:identifier "DEA" ;
+    skos:changeNote "Article 290 TFEU"@en ;
+    skos:historyNote "This concept was erroneously created and is withdrawn."@en ;
+    skos:inScheme atold:procedure ;
+    skos:notation <http://publications.europa.eu/resource/authority/procedure/035f169b78d5b04c77ab76b71779af96> ;
+    skos:prefLabel "Процедурата за делегираните актове (DEA)"@bg,
+        "Postup pro přijímání aktů v přenesené pravomoci (DEA)"@cs,
+        "Procedure for delegerede retsakter (DEA)"@da,
+        "Verfahren zu delegierten Rechtsakten (DEA)"@de,
+        "Διαδικασία των πράξεων κατ' εξουσιοδότηση (DEA)"@el,
+        "Delegated acts procedure (DEA)"@en,
+        "Procedimiento de actos delegados (DEA)"@es,
+        "Delegeeritud õigusaktide menetlus (DEA)"@et,
+        "Delegoituja säädöksiä koskeva menettely (DEA)"@fi,
+        "Procédure d’acte délégué (DEA)"@fr,
+        "Nós imeachta um ghníomhartha tarmligthe (DEA)"@ga,
+        "Procedura delegiranih pravnih akata (DEA)"@hr,
+        "Felhatalmazáson alapuló jogi aktusokra vonatkozó eljárás (DEA)"@hu,
+        "Procedura degli atti delegati (DEA)"@it,
+        "Deleguotųjų aktų procedūra (DEA)"@lt,
+        "Deleģēto aktu procedūra (DEA)"@lv,
+        "Proċedura tal-atti ddelegati (DEA)"@mt,
+        "Procedure voor gedelegeerde handelingen (DEA)"@nl,
+        "Procedura aktów delegowanych (DEA)"@pl,
+        "Processo de atos delegados (DEA)"@pt,
+        "Procedura privind actele delegate (DEA)"@ro,
+        "Postup delegovaných aktov (DEA)"@sk,
+        "Postopek delegiranih aktov (DEA)"@sl,
+        "Förfarandet med delegerade akter (DEA)"@sv ;
+    skos:topConceptOf atold:procedure .
+
+<http://publications.europa.eu/resource/authority/procedure/DEC> a skos:Concept ;
+    at:authority-code "DEC" ;
+    at:deprecated "false" ;
+    at:op-code "DEC" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "DEC" ;
+            dc:source "EP" ],
+        [ a at:MappedCode ;
+            at:legacy-code "DEC" ;
+            dc:source "EP" ] ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "DEC" ;
+    dc:identifier "DEC" ;
+    skos:definition "Article 319 of the Treaty on the Functioning of the European Union establishes that the European Parliament, acting on a recommendation of the Council, decides on whether to grant discharge to the European Commission as regards the implementation of the annual budget of the European Union."@en,
+        "L’article 319 du Traité sur le fonctionnement de l’Union européenne dispose que le Parlement européen, sur recommandation du Conseil, décide s’il y a lieu de donner décharge à la Commission européenne pour l’exécution du budget annuel de l’Union européenne."@fr ;
+    skos:historyNote "On 14 August 2020, (DEC) was added to the end of the label in order to align the label of this concept with other labels in this scheme."@en ;
+    skos:inScheme atold:procedure ;
+    skos:notation <http://publications.europa.eu/resource/authority/procedure/ef296283a2a8e4354ed6b9c77a08bb1c> ;
+    skos:prefLabel "Процедура по освобождаване от отговорност във връзка с изпълнението на бюджета (DEC)"@bg,
+        "Postup pro udělování absolutoria (DEC)"@cs,
+        "Budgetdechargeprocedure (DEC)"@da,
+        "Entlastungsverfahren (DEC)"@de,
+        "Διαδικασία απαλλαγής για τον προϋπολογισμό (DEC)"@el,
+        "Budgetary discharge procedure (DEC)"@en,
+        "Procedimiento de aprobación de la gestión presupuestaria (DEC)"@es,
+        "Eelarve täitmisele heakskiidu andmise menetlus (DEC)"@et,
+        "Talousarviota koskeva vastuusvapausmenettely (DEC)"@fi,
+        "Procédure de décharge budgétaire (DEC)"@fr,
+        "Nós imeachta um urscaoileadh buiséadach (DEC)"@ga,
+        "Postupak davanja razrješnice (DEC)"@hr,
+        "Költségvetési mentesítési eljárás (DEC)"@hu,
+        "Procedura di discarico del bilancio (DEC)"@it,
+        "Biudžeto įvykdymo patvirtinimo procedūra (DEC)"@lt,
+        "Budžeta izpildes apstiprinājuma procedūra (DEC)"@lv,
+        "Proċedura ta' kwittanza baġitarja (DEC)"@mt,
+        "Procedure tot kwijting van de begroting (DEC)"@nl,
+        "Procedura udzielania absolutorium z wykonania budżetu (DEC)"@pl,
+        "Processo de quitação orçamental (DEC)"@pt,
+        "Procedura de descărcare de gestiune (DEC)"@ro,
+        "Postup udelenia rozpočtového absolutória (DEC)"@sk,
+        "Postopek proračunske razrešnice (DEC)"@sl,
+        "Beviljande av ansvarsfrihet för budgeten (DEC)"@sv ;
+    skos:topConceptOf atold:procedure .
+
+<http://publications.europa.eu/resource/authority/procedure/INL> a skos:Concept ;
+    at:authority-code "INL" ;
+    at:deprecated "true" ;
+    at:end.use "2013-10-26" ;
+    at:op-code "INL" ;
+    at:start.use "2013-10-25" ;
+    atold:op-code "INL" ;
+    dc:identifier "INL" ;
+    skos:changeNote "Article 225 TFEU"@en ;
+    skos:historyNote "This concept was erroneously created and is withdrawn."@en ;
+    skos:inScheme atold:procedure ;
+    skos:notation <http://publications.europa.eu/resource/authority/procedure/ca6dbda1f71a3e4f067c542accd20654> ;
+    skos:prefLabel "Законодателна инициатива (INL)"@bg,
+        "Legislativní podnět (INL)"@cs,
+        "Lovgivningsinitiativ (INL)"@da,
+        "Gesetzgebungsinitiative (INL)"@de,
+        "Νομοθετική πρωτοβουλία (INL)"@el,
+        "Legislative initiative (INL)"@en,
+        "Iniciativa legislativa (INL)"@es,
+        "Seadusandlik algatus (INL)"@et,
+        "Säädösaloite (INL)"@fi,
+        "Initiative législative (INL)"@fr,
+        "Tionscnamh reachtach (INL)"@ga,
+        "Zakonodavna inicijativa (INL)"@hr,
+        "Jogalkotási kezdeményezés (INL)"@hu,
+        "Iniziativa legislativa (INL)"@it,
+        "Teisėkūros iniciatyva (INL)"@lt,
+        "Likumdošanas iniciatīva (INL)"@lv,
+        "Inizjattiva leġiżlattiva (INL)"@mt,
+        "Wetgevingsinitiatief (INL)"@nl,
+        "Inicjatywa ustawodawcza (INL)"@pl,
+        "Iniciativa legislativa (INL)"@pt,
+        "Iniţiativă legislativă (INL)"@ro,
+        "Legislatívna iniciatíva (INL)"@sk,
+        "Zakonodajna pobuda (INL)"@sl,
+        "Lagstiftningsinitiativ (INL)"@sv ;
+    skos:topConceptOf atold:procedure .
+
+<http://publications.europa.eu/resource/authority/procedure/NLE> a skos:Concept ;
+    at:authority-code "NLE" ;
+    at:deprecated "false" ;
+    at:op-code "NLE" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "NLE" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "(NLE;1035)" ;
+            dc:source "PreLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "NLE" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "NLE" ;
+            dc:source "EP" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "(NLE;1035)" ;
+            dc:source "PreLex" ],
+        [ a at:MappedCode ;
+            at:legacy-code "NLE" ;
+            dc:source "EP" ] ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "NLE" ;
+    dc:identifier "NLE" ;
+    skos:changeNote "12010E290 12010E291 , 12010E290 , 12008E291"@en ;
+    skos:definition "A non-legislative procedure is the law-making process for legal acts of the Union that were not adopted through a legislative procedure. Typically, these are acts adopted by the Commission or the Council in the form of regulations, directives or decisions that supplement or amend non-essential elements of a legislative act or set uniform rules for its implementation. The power to adopt such an act can be exercised only if primary or secondary legislation allows for it and only within the boundaries set by them."@en,
+        "La procédure non législative est le processus législatif relatif aux actes juridiques de l’Union qui n’ont pas été adoptés dans le cadre d’une procédure législative. Il s’agit généralement d’actes adoptés par la Commission ou le Conseil sous la forme de règlements, de directives ou de décisions qui complètent ou modifient des éléments non essentiels d’un acte législatif ou fixent des règles uniformes pour sa mise en œuvre. Le pouvoir d’adopter un tel acte ne peut être exercé que si le droit primaire ou dérivé le permet et uniquement dans les limites qu’il fixe."@fr ;
+    skos:inScheme atold:procedure ;
+    skos:notation <http://publications.europa.eu/resource/authority/procedure/035a12163599c3ecea26623ae3ae09bd>,
+        <http://publications.europa.eu/resource/authority/procedure/a319a613f64bc69276fca647601d225d> ;
+    skos:prefLabel "Незаконодателна процедура (NLE)"@bg,
+        "Nelegislativní postup (NLE)"@cs,
+        "Ikkelovgivningsprocedure (NLE)"@da,
+        "Rechtsetzungsverfahren ohne Gesetzescharakter (NLE)"@de,
+        "Μη νομοθετική διαδικασία (NLE)"@el,
+        "Non-legislative procedure (NLE)"@en,
+        "Procedimiento no legislativo (NLE)"@es,
+        "Muu kui seadusandlik menetlus (NLE)"@et,
+        "Muu kuin lainsäädäntömenettely (NLE)"@fi,
+        "Procédure non législative (NLE)"@fr,
+        "Nós imeachta neamhreachtach (NLE)"@ga,
+        "Nezakonodavni postupak (NLE)"@hr,
+        "Nem jogalkotási eljárás (NLE)"@hu,
+        "Procedura non legislativa (NLE)"@it,
+        "Ne teisėkūros procedūra (NLE)"@lt,
+        "Ar likumdošanu nesaistīta procedūra (NLE)"@lv,
+        "Proċedura mhux leġiżlattiva (NLE)"@mt,
+        "Niet-wetgevingsprocedure (NLE)"@nl,
+        "Procedura o charakterze nieprawodawczym (NLE)"@pl,
+        "Processo não legislativo (NLE)"@pt,
+        "Procedură nelegislativă (NLE)"@ro,
+        "Nelegislatívny postup (NLE)"@sk,
+        "Nezakonodajni postopek (NLE)"@sl,
+        "Icke-lagstiftningsförfarande (NLE)"@sv ;
+    skos:topConceptOf atold:procedure .
+
+<http://publications.europa.eu/resource/authority/procedure/OLP> a skos:Concept ;
+    at:authority-code "OLP" ;
+    at:deprecated "false" ;
+    at:op-code "OLP" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "COD" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "(COD;1010)" ;
+            dc:source "PreLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "(COD;1010)" ;
+            dc:source "PreLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "COD" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "COD" ;
+            dc:source "EP" ],
+        [ a at:MappedCode ;
+            at:legacy-code "COD" ;
+            dc:source "EP" ] ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "OLP" ;
+    dc:identifier "OLP" ;
+    skos:changeNote "Le traité de Lisbonne a généralisé la procédure de codécision de très nombreaux domaines Cf tableau COD. Seul le mécanisme de la procédure est décrit à l'art. 294. 12010E294 , 12008E294 , 12007E0294"@fr ;
+    skos:definition "The ordinary legislative procedure consists in the joint adoption by the European Parliament and the Council of a regulation, directive or decision in general on a proposal from the Commission. It is defined in Article 294 of the Treaty on the Functioning of the European Union as the most common EU law making procedure. It gives the European Parliament the power to adopt EU laws jointly with the Council of the European Union. With the Lisbon Treaty, the European Parliament has become a co-legislator on an equal footing with the Council, except in the cases provided for in the Treaties where consultation or consent procedures apply."@en,
+        "La procédure législative ordinaire consiste en l’adoption conjointe par le Parlement européen et le Conseil d’un règlement, d’une directive ou d’une décision en général sur une proposition de la Commission. Elle est définie par l’article 294 du traité sur le fonctionnement de l’Union européenne comme la procédure législative de l’Union européenne (UE) la plus courante. Elle donne au Parlement européen le pouvoir d’arrêter des actes conjointement avec le Conseil de l’Union européenne. Avec l’entrée en vigueur du traité de Lisbonne, le Parlement européen est devenu colégislateur, à égalité avec le Conseil, sauf dans les cas, prévus par les traités, où les procédures de consultation et d’approbation s’appliquent."@fr ;
+    skos:inScheme atold:procedure ;
+    skos:notation <http://publications.europa.eu/resource/authority/procedure/4ff76edc7f47893880c019dda57e2284>,
+        <http://publications.europa.eu/resource/authority/procedure/9e8e94383fc9074bb060848372c4086c> ;
+    skos:prefLabel "Обикновена законодателна процедура (COD)"@bg,
+        "Řádný legislativní postup (COD)"@cs,
+        "Almindelig lovgivningsprocedure (COD)"@da,
+        "Ordentliches Gesetzgebungsverfahren (COD)"@de,
+        "Συνήθης νομοθετική διαδικασία (COD)"@el,
+        "Ordinary legislative procedure (COD)"@en,
+        "Procedimiento legislativo ordinario (COD)"@es,
+        "Seadusandlik tavamenetlus (COD)"@et,
+        "Tavallinen lainsäätämisjärjestys (COD)"@fi,
+        "Procédure législative ordinaire (COD)"@fr,
+        "Gnáthnós imeachta reachtach (COD)"@ga,
+        "Redovni zakonodavni postupak (COD)"@hr,
+        "Rendes jogalkotási eljárás (COD)"@hu,
+        "Procedura legislativa ordinaria (COD)"@it,
+        "Įprasta teisėkūros procedūra (COD)"@lt,
+        "Parastā likumdošanas procedūra (COD)"@lv,
+        "Proċedura leġiżlattiva ordinarja (COD)"@mt,
+        "Gewone wetgevingsprocedure (COD)"@nl,
+        "Zwykła procedura prawodawcza (COD)"@pl,
+        "Processo legislativo ordinário (COD)"@pt,
+        "Procedură legislativă ordinară (COD)"@ro,
+        "Riadny legislatívny postup (COD)"@sk,
+        "Redni zakonodajni postopek (COD)"@sl,
+        "Ordinarie lagstiftningsförfarande (COD)"@sv ;
+    skos:topConceptOf atold:procedure .
+
+<http://publications.europa.eu/resource/authority/procedure/OP_DATPRO> a skos:Concept ;
+    at:authority-code "OP_DATPRO" ;
+    at:deprecated "false" ;
+    at:op-code "OP_DATPRO" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:procedure ;
+    skos:prefLabel "Неокончателни данни"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv ;
+    skos:topConceptOf atold:procedure .
+
+<http://publications.europa.eu/resource/authority/procedure/PRT> a skos:Concept ;
+    at:authority-code "PRT" ;
+    at:deprecated "true" ;
+    at:end.use "1999-04-30" ;
+    at:op-code "PRT" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "(PRT;1025)" ;
+            dc:source "PreLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "(PRT;1025)" ;
+            dc:source "PreLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "PRT" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "PRT" ;
+            dc:source "ATTO" ] ;
+    at:start.use "1993-11-01" ;
+    atold:op-code "PRT" ;
+    dc:identifier "PRT" ;
+    skos:changeNote "11992M/APS/04-P2 , 11992M/APS/02-P2"@en ;
+    skos:definition "The Agreement on Social Policy of 2 February 1992 was annexed to the Protocol on Social Policy of the Treaty of Maastricht. It gave an important role to social partners in the Community legislative process, which had formerly engaged only the EU institutions. The protocol was incorporated into the text of the Treaty establishing the European Community in 1999."@en,
+        "L’accord sur la politique sociale du 2 février 1992 a été annexé au protocole sur la politique sociale du traité de Maastricht. Il a conféré un rôle important aux partenaires sociaux dans le processus législatif communautaire, qui ne concernait auparavant que les institutions de l’UE. Le protocole a été intégré dans le texte du traité instituant la Communauté européenne en 1999."@fr ;
+    skos:inScheme atold:procedure ;
+    skos:notation <http://publications.europa.eu/resource/authority/procedure/932ad0b5cd9de5e955cd8534a63e3c08> ;
+    skos:prefLabel "Социален протокол (PRT)"@bg,
+        "Sociální protokol (PRT)"@cs,
+        "Protokol om social- og arbejdsmarkedspolitikken (PRT)"@da,
+        "Protokoll über die Sozialpolitik (PRT)"@de,
+        "Κοινωνικό πρωτόκολλο (PRT)"@el,
+        "Social protocol (PRT)"@en,
+        "Protocolo social (PRT)"@es,
+        "Sotsiaalprotokoll (PRT)"@et,
+        "Pöytäkirja sosiaalipolitiikasta (PRT)"@fi,
+        "Protocole social (PRT)"@fr,
+        "Prótacal sóisialta (PRT)"@ga,
+        "Socijalni protokol (PRT)"@hr,
+        "Jegyzőkönyv a szociálpolitikáról (PRT)"@hu,
+        "Protocollo sulla politica sociale (PRT)"@it,
+        "Socialinis protokolas (PRT)"@lt,
+        "Sociālais protokols (PRT)"@lv,
+        "Protokoll soċjali (PRT)"@mt,
+        "Sociaal protocol (PRT)"@nl,
+        "Protokół socjalny (PRT)"@pl,
+        "Protocolo social (PRT)"@pt,
+        "Protocol social (PRT)"@ro,
+        "Sociálny protokol (PRT)"@sk,
+        "Socialni protokol (PRT)"@sl,
+        "Protokoll om socialpolitik (PRT)"@sv ;
+    skos:topConceptOf atold:procedure .
+
+<http://publications.europa.eu/resource/authority/procedure/SLP> a skos:Concept ;
+    at:authority-code "SLP" ;
+    at:deprecated "false" ;
+    at:op-code "SLP" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "(CNS;1015)" ;
+            dc:source "PreLex" ],
+        [ a at:MappedCode ;
+            at:legacy-code "CNS" ;
+            dc:source "EP" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "(CNS;1015)" ;
+            dc:source "PreLex" ],
+        [ a at:MappedCode ;
+            at:legacy-code "CNS" ;
+            dc:source "EP" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "CNS" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "CNS" ;
+            dc:source "ATTO" ] ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "SLP" ;
+    dc:identifier "SLP" ;
+    skos:changeNote "29 domaines, dénombrés à ce jour, sont soumis à la procédure de consultation telle qu'issue deu traité de Lisbonne. Il n'existe pas de référence Celex unique. Cf tableau CNS"@fr,
+        "Cf tableau"@fr ;
+    skos:definition "Under Article 289 of the Treaty on the Functioning of the European Union (TFEU), consultation is a special legislative procedure, whereby Parliament is asked for its opinion on proposed legislation before the Council adopts it."@en,
+        "En vertu de l’article 289 du traité sur le fonctionnement de l’Union européenne (TFUE), la consultation est une procédure législative spéciale, dans le cadre de laquelle le Parlement donne son avis sur les propositions législatives avant que le Conseil ne les adopte."@fr ;
+    skos:inScheme atold:procedure ;
+    skos:notation <http://publications.europa.eu/resource/authority/procedure/2de56e2c1a0462d9c020ac37ea988644>,
+        <http://publications.europa.eu/resource/authority/procedure/367b024ccf5f636bcd0cec345fb24ba9> ;
+    skos:prefLabel "Специална законодателна процедура – консултация с ЕП (CNS)"@bg,
+        "Zvláštní legislativní postup – konzultace s EP (CNS)"@cs,
+        "Særlig lovgivningsprocedure – høring af Europa-Parlamentet (CNS)"@da,
+        "Besonderes Rechtsetzungsverfahren – Konsultation des Parlaments (CNS)"@de,
+        "Ειδική νομοθετική διαδικασία – διαβούλευση με το ΕΚ (CNS)"@el,
+        "Special legislative procedure — EP consulted (CNS)"@en,
+        "Procedimiento legislativo especial — Consulta al PE (CNS)"@es,
+        "Seadusandlik erimenetlus – konsulteeritakse Euroopa Parlamendiga (CNS)"@et,
+        "Erityinen lainsäätämisjärjestys – Euroopan parlamentin kuuleminen (CNS)"@fi,
+        "Procédure législative spéciale — consultation du PE (CNS)"@fr,
+        "Nós imeachta reachtach speisialta – chuathas i gcomhairle le PE (CNS)"@ga,
+        "Poseban zakonodavni postupak – nakon savjetovanja s EP-om (CNS)"@hr,
+        "Különleges jogalkotási eljárás – konzultáció az Európai Parlamenttel (CNS)"@hu,
+        "Procedura legislativa speciale — Consultazione del PE (CNS)"@it,
+        "Speciali teisėkūros procedūra – konsultacija su EP (CNS)"@lt,
+        "Īpašā likumdošanas procedūra — apspriešanās ar EP (CNS)"@lv,
+        "Proċedura leġiżlattiva speċjali — konsultazzjoni tal-PE (CNS)"@mt,
+        "Bijzondere wetgevingsprocedure — raadpleging van het EP (CNS)"@nl,
+        "Szczególna procedura prawodawcza – konsultacja z PE (CNS)"@pl,
+        "Processo legislativo especial – consulta do PE (CNS)"@pt,
+        "Procedură legislativă specială – consultarea PE (CNS)"@ro,
+        "Mimoriadny legislatívny postup – porada s EP (CNS)"@sk,
+        "Posebni zakonodajni postopek – posvetovanje z EP (CNS)"@sl,
+        "Särskilt lagstiftningsförfarande – samråd med parlamentet (CNS)"@sv ;
+    skos:topConceptOf atold:procedure .
+
+<http://publications.europa.eu/resource/authority/procedure/SYN> a skos:Concept ;
+    at:authority-code "SYN" ;
+    at:deprecated "true" ;
+    at:end.use "2009-11-30" ;
+    at:op-code "SYN" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "SYN" ;
+            dc:source "EP" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "SYN" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "SYN" ;
+            dc:source "EP" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "(SYN;1005)" ;
+            dc:source "PreLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "SYN" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "(SYN;1005)" ;
+            dc:source "PreLex" ] ;
+    at:start.use "1987-07-01" ;
+    atold:op-code "SYN" ;
+    dc:identifier "SYN" ;
+    skos:changeNote "Cf. Tableau excel SYN , 11957E0189_C"@fr,
+        "julia: Pas de n° Celex unique. mk: No replacement, no successor?"@fr ;
+    skos:definition "The cooperation procedure (formally known as the Article 252 procedure) was one of the legislative procedures of the European Communities, used mostly in the field of economic and monetary policy. Although the opinion of the European Parliament weighed heavily, it could not block the legislative process. The procedure was finally repealed by the Treaty of Lisbon in 2009."@en,
+        "La procédure de coopération (connue officiellement comme la procédure de l’article 252) était l’une des procédures législatives des Communautés européennes, utilisée principalement dans le domaine de la politique économique et monétaire. Bien que l’avis du Parlement européen pesait lourdement, celui-ci ne pouvait pas bloquer le processus législatif. La procédure a finalement été abrogée par le traité de Lisbonne en 2009."@fr ;
+    skos:inScheme atold:procedure ;
+    skos:notation <http://publications.europa.eu/resource/authority/procedure/3392b71d491fc3f79315c652657de4f9>,
+        <http://publications.europa.eu/resource/authority/procedure/5bf9acc6ee6a69f384fe037ab647cb5d> ;
+    skos:prefLabel "Процедура на сътрудничество (SYN)"@bg,
+        "Postup spolupráce (SYN)"@cs,
+        "Samarbejdsprocedure (SYN)"@da,
+        "Verfahren der Zusammenarbeit (SYN)"@de,
+        "Διαδικασία συνεργασίας (SYN)"@el,
+        "Cooperation procedure (SYN)"@en,
+        "Procedimiento de cooperación (SYN)"@es,
+        "Koostöömenetlus (SYN)"@et,
+        "Yhteistoimintamenettely (SYN)"@fi,
+        "Procédure de coopération (SYN)"@fr,
+        "Nós imeachta comhair (SYN)"@ga,
+        "Postupak suradnje (SYN)"@hr,
+        "Együttműködési eljárás (SYN)"@hu,
+        "Procedura di cooperazione (SYN)"@it,
+        "Bendradarbiavimo procedūra (SYN)"@lt,
+        "Sadarbības procedūra (SYN)"@lv,
+        "Proċedura ta' kooperazzjoni (SYN)"@mt,
+        "Samenwerkingsprocedure (SYN)"@nl,
+        "Procedura współpracy (SYN)"@pl,
+        "Procedimento de cooperação (SYN)"@pt,
+        "Procedură de cooperare (SYN)"@ro,
+        "Postup spolupráce (SYN)"@sk,
+        "Postopek sodelovanja (SYN)"@sl,
+        "Samarbetsförfarandet (SYN)"@sv ;
+    skos:topConceptOf atold:procedure .
+
+<http://publications.europa.eu/resource/authority/procedure/035a12163599c3ecea26623ae3ae09bd> a euvoc:XlNotation ;
+    euvoc:startDate "2009-12-01"^^xsd:date ;
+    dct:created "2011-06-16"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_609> ;
+    rdf:value "(NLE;1035)" .
+
+<http://publications.europa.eu/resource/authority/procedure/035f169b78d5b04c77ab76b71779af96> a euvoc:XlNotation ;
+    euvoc:endDate "2009-12-02"^^xsd:date ;
+    euvoc:startDate "2009-12-01"^^xsd:date ;
+    dct:created "2013-11-07"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "DEA" .
+
+<http://publications.europa.eu/resource/authority/procedure/1f4080f0d9759acec9117a56e573cd4b> a euvoc:XlNotation ;
+    euvoc:endDate "2009-11-30"^^xsd:date ;
+    euvoc:startDate "1987-07-01"^^xsd:date ;
+    dct:created "2011-06-16"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_609> ;
+    rdf:value "(AVC;1020)" .
+
+<http://publications.europa.eu/resource/authority/procedure/2de56e2c1a0462d9c020ac37ea988644> a euvoc:XlNotation ;
+    euvoc:startDate "2009-12-01"^^xsd:date ;
+    dct:created "2011-06-16"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_609> ;
+    rdf:value "(CNS;1015)" .
+
+<http://publications.europa.eu/resource/authority/procedure/3392b71d491fc3f79315c652657de4f9> a euvoc:XlNotation ;
+    euvoc:endDate "2009-11-30"^^xsd:date ;
+    euvoc:startDate "1987-07-01"^^xsd:date ;
+    dct:created "2011-06-16"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "SYN" .
+
+<http://publications.europa.eu/resource/authority/procedure/367b024ccf5f636bcd0cec345fb24ba9> a euvoc:XlNotation ;
+    euvoc:startDate "2009-12-01"^^xsd:date ;
+    dct:created "2011-06-16"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "CNS" .
+
+<http://publications.europa.eu/resource/authority/procedure/40a303dd1cffa3d04ce3cd6160fcdfa0> a euvoc:XlNotation ;
+    euvoc:startDate "2009-12-01"^^xsd:date ;
+    dct:created "2011-06-16"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_609> ;
+    rdf:value "(APP;1030)" .
+
+<http://publications.europa.eu/resource/authority/procedure/4ff76edc7f47893880c019dda57e2284> a euvoc:XlNotation ;
+    euvoc:startDate "2009-12-01"^^xsd:date ;
+    dct:created "2011-06-16"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_609> ;
+    rdf:value "(COD;1010)" .
+
+<http://publications.europa.eu/resource/authority/procedure/5852ea5db28d58e180465658c388bdf1> a euvoc:XlNotation ;
+    euvoc:endDate "2009-11-30"^^xsd:date ;
+    euvoc:startDate "1993-11-01"^^xsd:date ;
+    dct:created "2011-06-16"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_609> ;
+    rdf:value "(CNC;100060)" .
+
+<http://publications.europa.eu/resource/authority/procedure/5bf9acc6ee6a69f384fe037ab647cb5d> a euvoc:XlNotation ;
+    euvoc:endDate "2009-11-30"^^xsd:date ;
+    euvoc:startDate "1987-07-01"^^xsd:date ;
+    dct:created "2011-06-16"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_609> ;
+    rdf:value "(SYN;1005)" .
+
+<http://publications.europa.eu/resource/authority/procedure/6717917e091c65ce0c63da1ec50b7d28> a euvoc:XlNotation ;
+    euvoc:endDate "2009-11-30"^^xsd:date ;
+    euvoc:startDate "1987-07-01"^^xsd:date ;
+    dct:created "2011-06-16"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "AVC" .
+
+<http://publications.europa.eu/resource/authority/procedure/932ad0b5cd9de5e955cd8534a63e3c08> a euvoc:XlNotation ;
+    euvoc:startDate "1993-11-01"^^xsd:date ;
+    dct:created "2011-06-16"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_609> ;
+    rdf:value "(PRT;1025)" .
+
+<http://publications.europa.eu/resource/authority/procedure/9e8e94383fc9074bb060848372c4086c> a euvoc:XlNotation ;
+    euvoc:startDate "2009-12-01"^^xsd:date ;
+    dct:created "2011-06-16"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "COD" .
+
+<http://publications.europa.eu/resource/authority/procedure/a319a613f64bc69276fca647601d225d> a euvoc:XlNotation ;
+    euvoc:startDate "2009-12-01"^^xsd:date ;
+    dct:created "2011-06-16"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "NLE" .
+
+<http://publications.europa.eu/resource/authority/procedure/ab4ffea5319f14968e8aa9177ba8f8d9> a euvoc:XlNotation ;
+    euvoc:startDate "2009-12-01"^^xsd:date ;
+    dct:created "2011-06-16"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "APP" .
+
+<http://publications.europa.eu/resource/authority/procedure/af2f645a1c39ec98637679e77cc3a43c> a euvoc:XlNotation ;
+    euvoc:endDate "2009-11-30"^^xsd:date ;
+    euvoc:startDate "1958-01-01"^^xsd:date ;
+    dct:created "2011-06-16"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "CNS" .
+
+<http://publications.europa.eu/resource/authority/procedure/ca6dbda1f71a3e4f067c542accd20654> a euvoc:XlNotation ;
+    euvoc:endDate "2013-10-26"^^xsd:date ;
+    euvoc:startDate "2013-10-25"^^xsd:date ;
+    dct:created "2013-10-30"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "INL" .
+
+<http://publications.europa.eu/resource/authority/procedure/dd71d72072a9941da387a4191360a47b> a euvoc:XlNotation ;
+    euvoc:endDate "2009-11-30"^^xsd:date ;
+    euvoc:startDate "1958-01-01"^^xsd:date ;
+    dct:created "2011-06-16"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_609> ;
+    rdf:value "(CNS_OLD;1016)" .
+
+<http://publications.europa.eu/resource/authority/procedure/ef296283a2a8e4354ed6b9c77a08bb1c> a euvoc:XlNotation ;
+    euvoc:startDate "1958-01-01"^^xsd:date ;
+    dct:created "2019-03-20"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "DEC" .
+
+<http://publications.europa.eu/resource/authority/procedure/ef44666125fbc3309a8ae9b3a70627d2> a euvoc:XlNotation ;
+    euvoc:startDate "1958-01-01"^^xsd:date ;
+    dct:created "2017-04-28"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "BUD" .
+
+<http://publications.europa.eu/resource/authority/procedure/f0dcf03cd683d0eafec10021376e4c4c> a euvoc:XlNotation ;
+    euvoc:endDate "2009-11-30"^^xsd:date ;
+    euvoc:startDate "1993-11-01"^^xsd:date ;
+    dct:created "2011-06-16"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_609> ;
+    rdf:value "(COD_OLD;1011)" .
+
+<http://publications.europa.eu/resource/authority/procedure/f1790523d855d7b988d4c7a8cc85119d> a euvoc:XlNotation ;
+    euvoc:startDate "1993-11-01"^^xsd:date ;
+    dct:created "2011-06-16"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_609> ;
+    rdf:value "(CNB;100000)" .
+
+<http://publications.europa.eu/resource/authority/procedure/f8567f06d374e17cf979be57cb3e424f> a euvoc:XlNotation ;
+    euvoc:startDate "1958-01-01"^^xsd:date ;
+    dct:created "2011-06-16"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_609> ;
+    rdf:value "(ACC;10000)" .
+
+atold:procedure a skos:ConceptScheme ;
+    rdfs:label "Interinstitutional procedure"@en ;
+    at:prefLabel "Interinstitutional procedure"@en ;
+    at:table.id "procedure" ;
+    at:table.version.number "20220928-0" ;
+    owl:versionInfo "20220928-0" ;
+    skos:prefLabel "Interinstitutional procedure"@en .
+

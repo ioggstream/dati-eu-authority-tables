@@ -1,0 +1,295 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/product-status/DEVELOPMENT> a skos:Concept ;
+    at:authority-code "DEVELOPMENT" ;
+    at:deprecated "false" ;
+    at:op-code "DEVELOPMENT" ;
+    at:start.use "2021-08-30" ;
+    atold:op-code "DEVELOPMENT" ;
+    dc:identifier "DEVELOPMENT" ;
+    skos:definition "The product is in the process of being developed. Its creation is still ongoing."@en ;
+    skos:inScheme atold:product-status ;
+    skos:prefLabel "в процес на разработване"@bg,
+        "ve fázi příprav"@cs,
+        "under udvikling"@da,
+        "in Entwicklung"@de,
+        "σε στάδιο ανάπτυξης"@el,
+        "in development"@en,
+        "en fase de desarrollo"@es,
+        "arendamisel"@et,
+        "kehitteillä"@fi,
+        "en cours d’élaboration"@fr,
+        "á fhorbairt"@ga,
+        "u razvoju"@hr,
+        "fejlesztés alatt"@hu,
+        "in fase di sviluppo"@it,
+        "kuriama"@lt,
+        "izstrādes fāzē"@lv,
+        "f’fażi ta’ żvilupp"@mt,
+        "in ontwikkeling"@nl,
+        "na etapie opracowywania"@pl,
+        "em desenvolvimento"@pt,
+        "în dezvoltare"@ro,
+        "vyvíja sa"@sk,
+        "v razvoju"@sl,
+        "under utveckling"@sv ;
+    skos:topConceptOf atold:product-status .
+
+<http://publications.europa.eu/resource/authority/product-status/MVP> a skos:Concept ;
+    at:authority-code "MVP" ;
+    at:deprecated "false" ;
+    at:op-code "MVP" ;
+    at:start.use "2021-08-30" ;
+    atold:op-code "MVP" ;
+    dc:identifier "MVP" ;
+    skos:altLabel "MVP"@en ;
+    skos:definition "The product is in the process of providing a minimum set of features to be usable by early adopters who can then give feedback for future developments."@en ;
+    skos:inScheme atold:product-status ;
+    skos:prefLabel "минимален жизнеспособен продукт"@bg,
+        "minimální životaschopný produkt"@cs,
+        "minimalt levedygtigt produkt"@da,
+        "Minimalprodukt"@de,
+        "ελάχιστο βιώσιμο προϊόν"@el,
+        "minimum viable product"@en,
+        "producto mínimo viable"@es,
+        "minimaalne elujõuline toode"@et,
+        "pienin toimiva tuote"@fi,
+        "produit minimum viable"@fr,
+        "táirge inmharthana íosta"@ga,
+        "minimalno održivi proizvod"@hr,
+        "minimálisan életképes termék"@hu,
+        "prodotto minimo funzionante"@it,
+        "pradinis perspektyvus produktas"@lt,
+        "minimālais dzīvotspējīgais produkts"@lv,
+        "prodott minimu vijabbli"@mt,
+        "minimaal levensvatbaar product"@nl,
+        "produkt o minimalnej funkcjonalności"@pl,
+        "produto viável mínimo"@pt,
+        "produs viabil minim"@ro,
+        "minimálny životaschopný produkt"@sk,
+        "minimalni proizvod"@sl,
+        "minsta gångbara produkt"@sv ;
+    skos:topConceptOf atold:product-status .
+
+<http://publications.europa.eu/resource/authority/product-status/OP_DATPRO> a skos:Concept ;
+    at:authority-code "OP_DATPRO" ;
+    at:deprecated "false" ;
+    at:op-code "OP_DATPRO" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:product-status ;
+    skos:prefLabel "НЕОКОНЧАТЕЛНИ ДАННИ"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv ;
+    skos:topConceptOf atold:product-status .
+
+<http://publications.europa.eu/resource/authority/product-status/PHASED_OUT> a skos:Concept ;
+    at:authority-code "PHASED_OUT" ;
+    at:deprecated "false" ;
+    at:op-code "PHASED_OUT" ;
+    at:start.use "2021-08-30" ;
+    atold:op-code "PHASED_OUT" ;
+    dc:identifier "PHASED_OUT" ;
+    skos:definition "The product is in the process of being gradually stopped from an operational or maintenance perspectives."@en ;
+    skos:inScheme atold:product-status ;
+    skos:prefLabel "постепенно преустановяване"@bg,
+        "postupně vyřazováno"@cs,
+        "udfaset"@da,
+        "Ausgelaufen"@de,
+        "σε σταδιακή κατάργηση"@el,
+        "phased out"@en,
+        "en proceso de eliminación"@es,
+        "järkjärguliselt kasutuselt kõrvaldamisel"@et,
+        "poistumassa"@fi,
+        "supprimé progressivement"@fr,
+        "deireadh curtha leis de réir a chéile"@ga,
+        "postupno ukidanje"@hr,
+        "fokozatosan kivezetve"@hu,
+        "non più in uso"@it,
+        "palaipsnis atsisakymas"@lt,
+        "pakāpeniska pārtraukšana"@lv,
+        "eliminat gradwalment"@mt,
+        "uitgefaseerd"@nl,
+        "stopniowe wycofywanie"@pl,
+        "descontinuado"@pt,
+        "eliminat treptat"@ro,
+        "postupné ukončovanie"@sk,
+        "opuščen"@sl,
+        "utfasad"@sv ;
+    skos:topConceptOf atold:product-status .
+
+<http://publications.europa.eu/resource/authority/product-status/PRODUCTION> a skos:Concept ;
+    at:authority-code "PRODUCTION" ;
+    at:deprecated "false" ;
+    at:op-code "PRODUCTION" ;
+    at:start.use "2021-08-30" ;
+    atold:op-code "PRODUCTION" ;
+    dc:identifier "PRODUCTION" ;
+    skos:definition "The product is deployed in a production environment for the use by anyone."@en ;
+    skos:inScheme atold:product-status ;
+    skos:prefLabel "в процес на производство"@bg,
+        "ve fázi produkce"@cs,
+        "i produktion"@da,
+        "in Produktion"@de,
+        "σε στάδιο παραγωγής"@el,
+        "in production"@en,
+        "en fase de producción"@es,
+        "tootmises"@et,
+        "tuotannossa"@fi,
+        "en cours de production"@fr,
+        "á tháirgeadh"@ga,
+        "u proizvodnji"@hr,
+        "gyártás alatt"@hu,
+        "in fase di produzione"@it,
+        "rengiama"@lt,
+        "ražošanas fāzē"@lv,
+        "f'fażi ta’ produzzjoni"@mt,
+        "in productie"@nl,
+        "na etapie produkcji"@pl,
+        "em produção"@pt,
+        "în producție"@ro,
+        "vyrába sa"@sk,
+        "v proizvodnji"@sl,
+        "i produktion"@sv ;
+    skos:topConceptOf atold:product-status .
+
+<http://publications.europa.eu/resource/authority/product-status/PRODUCT_CONCEPT> a skos:Concept ;
+    at:authority-code "PRODUCT_CONCEPT" ;
+    at:deprecated "false" ;
+    at:op-code "PRODUCT_CONCEPT" ;
+    at:start.use "2021-08-30" ;
+    atold:op-code "PRODUCT_CONCEPT" ;
+    dc:identifier "PRODUCT_CONCEPT" ;
+    skos:definition "It is a detailed idea or representation of the product that shows the benefits the product can provide to all possible users."@en ;
+    skos:inScheme atold:product-status ;
+    skos:prefLabel "продуктова концепция"@bg,
+        "koncepce produktu"@cs,
+        "produktkoncept"@da,
+        "Produktkonzept"@de,
+        "έννοια προϊόντος"@el,
+        "product concept"@en,
+        "concepto de producto"@es,
+        "toote kontseptsioon"@et,
+        "tuotteen konsepti"@fi,
+        "concept de produit"@fr,
+        "coincheap táirge"@ga,
+        "koncept proizvoda"@hr,
+        "termékkoncepció"@hu,
+        "concetto del prodotto"@it,
+        "produkto koncepcija"@lt,
+        "produkta koncepcija"@lv,
+        "kunċett tal-prodott"@mt,
+        "productconcept"@nl,
+        "koncepcja produktu"@pl,
+        "prova de conceito"@pt,
+        "concept produs"@ro,
+        "koncepcia produktu"@sk,
+        "koncept proizvoda"@sl,
+        "produktkoncept"@sv ;
+    skos:topConceptOf atold:product-status .
+
+<http://publications.europa.eu/resource/authority/product-status/PROTOTYPE> a skos:Concept ;
+    at:authority-code "PROTOTYPE" ;
+    at:deprecated "false" ;
+    at:op-code "PROTOTYPE" ;
+    at:start.use "2021-08-30" ;
+    atold:op-code "PROTOTYPE" ;
+    dc:identifier "PROTOTYPE" ;
+    skos:definition "The product is developed in its first version, which can be further extended in later forms before the product is ready to be deployed in production."@en ;
+    skos:inScheme atold:product-status ;
+    skos:prefLabel "прототип"@bg,
+        "prototyp"@cs,
+        "prototype"@da,
+        "Prototyp"@de,
+        "πρωτότυπο"@el,
+        "prototype"@en,
+        "prototipo"@es,
+        "prototüüp"@et,
+        "prototyyppi"@fi,
+        "prototype"@fr,
+        "fréamhshamhail"@ga,
+        "prototip"@hr,
+        "prototípus"@hu,
+        "prototipo"@it,
+        "prototipas"@lt,
+        "prototips"@lv,
+        "prototip"@mt,
+        "prototype"@nl,
+        "prototyp"@pl,
+        "protótipo"@pt,
+        "prototip"@ro,
+        "prototyp"@sk,
+        "prototip"@sl,
+        "prototyp"@sv ;
+    skos:topConceptOf atold:product-status .
+
+<http://publications.europa.eu/resource/authority/product-status/TESTING> a skos:Concept ;
+    at:authority-code "TESTING" ;
+    at:deprecated "false" ;
+    at:op-code "TESTING" ;
+    at:start.use "2021-08-30" ;
+    atold:op-code "TESTING" ;
+    dc:identifier "TESTING" ;
+    skos:definition "The product is in the process of testing in order to validate whether it meets its business and technical requirements."@en ;
+    skos:inScheme atold:product-status ;
+    skos:prefLabel "в процес на тестване"@bg,
+        "ve fázi testování"@cs,
+        "gennemgår test"@da,
+        "im Test"@de,
+        "σε στάδιο δοκιμών"@el,
+        "in test"@en,
+        "en fase de pruebas"@es,
+        "testimisel"@et,
+        "testattavana"@fi,
+        "en cours de test"@fr,
+        "á thástáil"@ga,
+        "u ispitivanju"@hr,
+        "tesztelés alatt"@hu,
+        "in fase di test"@it,
+        "išbandoma"@lt,
+        "testa fāzē"@lv,
+        "f'fażi tal-ittestjar"@mt,
+        "in testfase"@nl,
+        "na etapie testowania"@pl,
+        "em testes"@pt,
+        "în teste"@ro,
+        "testuje sa"@sk,
+        "v preizkušanju"@sl,
+        "i test"@sv ;
+    skos:topConceptOf atold:product-status .
+
+atold:product-status a skos:ConceptScheme ;
+    rdfs:label "Product status"@en ;
+    at:prefLabel "Product status"@en ;
+    at:table.id "product-status" ;
+    at:table.version.number "20211027-0" ;
+    owl:versionInfo "20211027-0" ;
+    skos:prefLabel "Product status"@en .
+

@@ -1,0 +1,759 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/notice-type/OP_DATPRO> a skos:Concept ;
+    at:authority-code "OP_DATPRO" ;
+    at:deprecated "false" ;
+    at:op-code "OP_DATPRO" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:notice-type ;
+    skos:prefLabel "Неокончателни данни"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv ;
+    skos:topConceptOf atold:notice-type .
+
+<http://publications.europa.eu/resource/authority/notice-type/brin-ecs> a skos:Concept ;
+    at:authority-code "brin-ecs" ;
+    at:deprecated "false" ;
+    at:op-code "brin-ecs" ;
+    at:start.use "2021-09-29" ;
+    atold:op-code "brin-ecs" ;
+    dc:identifier "brin-ecs" ;
+    skos:definition "Business registration information notice for European Company / European Cooperative Society."@en ;
+    skos:inScheme atold:notice-type ;
+    skos:prefLabel "Обявление за европейско дружество / европейско кооперативно дружество"@bg,
+        "Evropská společnost / evropská družstevní společnost – oznámení"@cs,
+        "Meddelelse om et europæisk selskab/et europæisk andelsselskab"@da,
+        "Bekanntmachung – Europäische Gesellschaft/Europäische Genossenschaft"@de,
+        "Ανακοίνωση ευρωπαϊκής εταιρείας / ευρωπαϊκής συνεταιριστικής εταιρείας"@el,
+        "European Company / European Cooperative Society notice"@en,
+        "Anuncio de una Sociedad Anónima Europea / Sociedad Cooperativa Europea"@es,
+        "Teade Euroopa äriühingu / Euroopa ühistu kohta"@et,
+        "Ilmoitus eurooppayhtiöstä / eurooppaosuuskunnasta"@fi,
+        "Avis relatif à une société européenne/société coopérative européenne"@fr,
+        "Fógra maidir le Cuideachta Eorpach / Comharchumann Eorpach"@ga,
+        "Obavijest o europskom trgovačkom društvu / europskoj zadruzi"@hr,
+        "Európai részvénytársasággal/európai szövetkezettel kapcsolatos értesítés"@hu,
+        "Avviso società europea/società cooperativa europea"@it,
+        "Europos bendrovės / Europos kooperatinės bendrovės skelbimas"@lt,
+        "Paziņojums par Eiropas uzņēmējsabiedrību / Eiropas kooperatīvo sabiedrību"@lv,
+        "Avviż tal-Kumpanija Ewropea / Soċjetà Kooperattiva Ewropea"@mt,
+        "Aankondiging inzake een Europese vennootschap / Europese coöperatieve vennootschap"@nl,
+        "Ogłoszenie dotyczące spółki europejskiej / spółdzielni europejskiej"@pl,
+        "Anúncio — Sociedade Europeia / Sociedade Cooperativa Europeia"@pt,
+        "Anunț privind o societate europeană/societate cooperativă europeană"@ro,
+        "Európska spoločnosť/európske družstvo – oznámenie"@sk,
+        "Obvestilo evropske družbe/evropske zadruge"@sl,
+        "Meddelande om europabolag/europeisk kooperativ förening"@sv ;
+    skos:topConceptOf atold:notice-type .
+
+<http://publications.europa.eu/resource/authority/notice-type/brin-eeig> a skos:Concept ;
+    at:authority-code "brin-eeig" ;
+    at:deprecated "false" ;
+    at:op-code "brin-eeig" ;
+    at:start.use "2021-09-29" ;
+    atold:op-code "brin-eeig" ;
+    dc:identifier "brin-eeig" ;
+    skos:definition "Business registration information notice for European Economic Interest Grouping."@en ;
+    skos:inScheme atold:notice-type ;
+    skos:prefLabel "Обявление за европейско обединение по икономически интереси"@bg,
+        "Evropské hospodářské zájmové sdružení – oznámení"@cs,
+        "Meddelelse om en europæisk økonomisk firmagruppe"@da,
+        "Bekanntmachung – Europäische Wirtschaftliche Interessenvereinigung"@de,
+        "Ανακοίνωση Ευρωπαϊκού Ομίλου Οικονομικού Σκοπού"@el,
+        "European Economic Interest Grouping notice"@en,
+        "Anuncio de una Agrupación Europea de Interés Económico"@es,
+        "Teade Euroopa majandushuviühingu kohta"@et,
+        "Ilmoitus eurooppalaisesta taloudellisesta etuyhtymästä"@fi,
+        "Avis relatif à un groupement européen d'intérêt économique"@fr,
+        "Fógra maidir le Grúpáil Eorpach um Leas Eacnamaíoch"@ga,
+        "Obavijest o europskom gospodarskom interesnom udruženju"@hr,
+        "Európai gazdasági egyesüléssel kapcsolatos értesítés"@hu,
+        "Avviso gruppo europeo di interesse economico"@it,
+        "Europos ekonominių interesų grupės skelbimas"@lt,
+        "Paziņojums par Eiropas ekonomisko interešu grupu"@lv,
+        "Avviż tal-Grupp Ewropew ta' Interess Ekonomiku"@mt,
+        "Aankondiging inzake een Europees economisch samenwerkingsverband"@nl,
+        "Ogłoszenie dotyczące europejskiego ugrupowania interesów gospodarczych"@pl,
+        "Anúncio — Agrupamento Europeu de Interesse Económico"@pt,
+        "Anunț privind un Grup european de interes economic"@ro,
+        "Európske zoskupenie hospodárskych záujmov – oznámenie"@sk,
+        "Obvestilo evropskega gospodarskega interesnega združenja"@sl,
+        "Meddelande om europeisk ekonomisk intressegruppering"@sv ;
+    skos:topConceptOf atold:notice-type .
+
+<http://publications.europa.eu/resource/authority/notice-type/can-desg> a skos:Concept ;
+    at:authority-code "can-desg" ;
+    at:deprecated "false" ;
+    at:op-code "can-desg" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "can-desg" ;
+    dc:identifier "can-desg" ;
+    skos:definition "Announcement of the results of a call for competition concerning the acquisition, mainly in the fields of town and country planning, architecture and engineering or data processing, of a plan or design selected by a jury.Contracting authorities that have held a design contest shall send a notice of the results of the contest in accordance with Article 51 and shall be able to prove the date of dispatch."@en ;
+    skos:inScheme atold:notice-type ;
+    skos:prefLabel "Обявление за резултата от конкурс за проект"@bg,
+        "Oznámení o výsledku soutěže o návrh"@cs,
+        "Bekendtgørelse om resultater af projektkonkurrence"@da,
+        "Bekanntmachung der Wettbewerbsergebnisse"@de,
+        "Γνωστοποίηση αποτελεσμάτων διαγωνισμού μελετών"@el,
+        "Design contest result notice"@en,
+        "Anuncio de concurso de proyectos"@es,
+        "Ideekonkursi tulemuse teade"@et,
+        "Ilmoitus suunnittelukilpailun tuloksista"@fi,
+        "Avis de résultats de concours"@fr,
+        "Fógra faoi thorthaí an chomórtais dearaidh"@ga,
+        "Obavijest o rezultatima projektnog natječaja"@hr,
+        "Tervpályázat eredményéről szóló hirdetmény"@hu,
+        "Comunicazione dei risultati di un concorso di progettazione"@it,
+        "Skelbimas apie projekto konkurso rezultatus"@lt,
+        "Paziņojums par metu konkursa rezultātiem"@lv,
+        "Avviż tal-konkors tad-disinn"@mt,
+        "Aankondiging van de uitslag van een prijsvraag voor ontwerpen"@nl,
+        "Ogłoszenie o wynikach konkursu"@pl,
+        "Anúncio dos resultados do concurso de conceção"@pt,
+        "Anunț privind rezultatul concursului de proiecte"@ro,
+        "Oznámenie o výsledku súťaže návrhov"@sk,
+        "Obvestilo o rezultatih projektnega natečaja"@sl,
+        "Meddelande om resultat av projekttävling"@sv ;
+    skos:topConceptOf atold:notice-type .
+
+<http://publications.europa.eu/resource/authority/notice-type/can-modif> a skos:Concept ;
+    at:authority-code "can-modif" ;
+    at:deprecated "false" ;
+    at:op-code "can-modif" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "can-modif" ;
+    dc:identifier "can-modif" ;
+    skos:definition """Announcement of modifications to a contract during its term.
+Contracts and framework agreements may be modified without a new procurement procedure in accordance with Directive 2014/24/EU."""@en ;
+    skos:inScheme atold:notice-type ;
+    skos:prefLabel "Обявление за изменение на договор"@bg,
+        "Oznámení o změně smlouvy"@cs,
+        "Bekendtgørelse om kontraktændring"@da,
+        "Bekanntmachung der Auftragsänderungen"@de,
+        "Γνωστοποίηση τροποποίησης σύμβασης"@el,
+        "Contract modification notice"@en,
+        "Anuncio de modificación de contrato"@es,
+        "Lepingu muutmise teade"@et,
+        "Hankintasopimuksen muuttamista koskeva ilmoitus"@fi,
+        "Avis de modification de marché"@fr,
+        "Fógra maidir le mionathrú conartha"@ga,
+        "Obavijest o izmjeni ugovora"@hr,
+        "Szerződésmódosításról szóló hirdetmény"@hu,
+        "Avviso di modifica di un appalto"@it,
+        "Skelbimas apie sutarties keitimą"@lt,
+        "Paziņojums par līguma grozījumiem"@lv,
+        "Avviż tal-modifika fil-kuntratt"@mt,
+        "Aankondiging van wijziging contract"@nl,
+        "Ogłoszenie o modyfikacji umowy"@pl,
+        "Anúncio de modificação do contrato"@pt,
+        "Anunț de modificare a contractului"@ro,
+        "Oznámenie o úprave zmluvy"@sk,
+        "Obvestilo o spremembi naročila"@sl,
+        "Meddelande om ändring av kontrakt"@sv ;
+    skos:topConceptOf atold:notice-type .
+
+<http://publications.europa.eu/resource/authority/notice-type/can-social> a skos:Concept ;
+    at:authority-code "can-social" ;
+    at:deprecated "false" ;
+    at:op-code "can-social" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "can-social" ;
+    dc:identifier "can-social" ;
+    skos:definition "Announcement of the results of a call for competition concerning contracts or concessions for social and other specific services."@en ;
+    skos:inScheme atold:notice-type ;
+    skos:prefLabel "Обявление за възложена поръчка или концесия – облекчен режим"@bg,
+        "Oznámení o výsledku zadávacího nebo koncesního řízení – zjednodušený režim"@cs,
+        "Bekendtgørelse om indgåede kontrakter eller koncessionstildeling – den lempelige ordning"@da,
+        "Bekanntmachung vergebener Aufträge oder Zuschlagsbekanntmachung – Sonderregelung"@de,
+        "Γνωστοποίηση συναφθείσας σύμβασης ή σύμβασης παραχώρησης — απλουστευμένο καθεστώς"@el,
+        "Contract or concession award notice – light regime"@en,
+        "Anuncio de adjudicación de contrato o concesión. Régimen simplificado"@es,
+        "Lepingu sõlmimise või kontsessiooni andmise teade – lihtsustatud kord"@et,
+        "Hankintailmoitus tai käyttöoikeussopimusta koskeva ilmoitus – kevennetty järjestely"@fi,
+        "Avis d’attribution de marché ou de concession – régime assoupli"@fr,
+        "Fógra maidir le dámhachtain conartha nó lamháltais — an córas éadrom"@ga,
+        "Obavijest o dodjeli ugovora ili koncesije – blagi režim"@hr,
+        "Tájékoztató az eljárás eredményéről vagy koncesszió odaítéléséről – enyhébb szabályozás"@hu,
+        "Avviso di aggiudicazione di un appalto o di una concessione – regime alleggerito"@it,
+        "Skelbimas apie sutarties arba koncesijos skyrimą. Paprastesnis režimas"@lt,
+        "Paziņojums par līguma slēgšanas tiesību vai koncesijas piešķiršanu — atvieglotais režīms"@lv,
+        "Avviż tal-għoti tal-kuntratt jew tal-konċessjoni – reġim ħafif"@mt,
+        "Aankondiging van een gegunde opdracht of concessie – lichte regeling"@nl,
+        "Ogłoszenie o udzieleniu zamówienia lub ogłoszenie o udzieleniu koncesji – tryb uproszczony"@pl,
+        "Anúncio de adjudicação de contrato ou de concessão — regime simplificado"@pt,
+        "Anunț de atribuire a contractului sau a concesiunii - regim simplificat"@ro,
+        "Oznámenie o výsledku verejného obstarávania alebo oznámenie o udelení koncesie – zjednodušený režim"@sk,
+        "Obvestilo o podelitvi koncesije ali oddaji naročila – enostavnejša ureditev"@sl,
+        "Meddelande om upphandlings- eller koncessionstilldelning – förenklat system"@sv ;
+    skos:topConceptOf atold:notice-type .
+
+<http://publications.europa.eu/resource/authority/notice-type/can-standard> a skos:Concept ;
+    at:authority-code "can-standard" ;
+    at:deprecated "false" ;
+    at:op-code "can-standard" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "can-standard" ;
+    dc:identifier "can-standard" ;
+    skos:definition """Announcement of the results of a call for competition concerning contracts or concessions.
+Not later than 30 days after the conclusion of a contract or of a framework agreement, following the decision to award or conclude it, contracting authorities shall send a contract award notice on the results of the procurement procedure. Such notices shall contain the information set out in Annex V part D and shall be published in accordance with Article 51."""@en ;
+    skos:inScheme atold:notice-type ;
+    skos:prefLabel "Обявление за възложена поръчка или концесия – стандартен режим"@bg,
+        "Oznámení o výsledku zadávacího nebo koncesního řízení – standardní režim"@cs,
+        "Bekendtgørelse om indgåede kontrakter eller koncessionstildeling – standardordningen"@da,
+        "Bekanntmachung vergebener Aufträge oder Zuschlagsbekanntmachung – Standardregelung"@de,
+        "Γνωστοποίηση ανάθεσης σύμβασης ή ανάθεσης σύμβασης παραχώρησης — τυποποιημένο καθεστώς"@el,
+        "Contract or concession award notice – standard regime"@en,
+        "Anuncio de adjudicación de contrato o concesión. Régimen normal"@es,
+        "Lepingu sõlmimise või kontsessiooni andmise teade – üldkord"@et,
+        "Jälki-ilmoitus tai käyttöoikeussopimusta koskeva jälki-ilmoitus – vakiojärjestelmä"@fi,
+        "Avis d’attribution de marché ou de concession – régime ordinaire"@fr,
+        "Fógra maidir le dámhachtain conartha nó lamháltais — an gnáthchóras"@ga,
+        "Obavijest o dodjeli ugovora ili koncesije – standardni režim"@hr,
+        "Tájékoztató az eljárás eredményéről vagy koncesszió odaítéléséről – klasszikus ajánlatkérőkre vonatkozó szabályok"@hu,
+        "Avviso di aggiudicazione di un appalto o di una concessione – regime ordinario"@it,
+        "Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka"@lt,
+        "Paziņojums par līguma slēgšanas tiesību vai koncesijas piešķiršanu — standarta režīms"@lv,
+        "Avviż tal-għoti tal-kuntratt jew tal-konċessjoni – reġim standard"@mt,
+        "Aankondiging van een gegunde opdracht of concessie – standaardregeling"@nl,
+        "Ogłoszenie o udzieleniu zamówienia lub ogłoszenie o udzieleniu koncesji – tryb standardowy"@pl,
+        "Anúncio de adjudicação de contrato ou de concessão — regime normal"@pt,
+        "Anunț de atribuire a contractului sau a concesiunii - regim standard"@ro,
+        "Oznámenie o výsledku verejného obstarávania alebo oznámenie o udelení koncesie – štandardný režim"@sk,
+        "Obvestilo o podelitvi koncesije ali oddaji naročila – standardna ureditev"@sl,
+        "Meddelande om upphandlings- eller koncessionstilldelning – standardsystem"@sv ;
+    skos:topConceptOf atold:notice-type .
+
+<http://publications.europa.eu/resource/authority/notice-type/can-tran> a skos:Concept ;
+    at:authority-code "can-tran" ;
+    at:deprecated "false" ;
+    at:op-code "can-tran" ;
+    at:start.use "2021-09-29" ;
+    atold:op-code "can-tran" ;
+    dc:identifier "can-tran" ;
+    skos:definition "Announcement that a public service contract for public passenger transport services has been directly awarded."@en ;
+    skos:inScheme atold:notice-type ;
+    skos:prefLabel "Обявление за възлагане на поръчка за обществени услуги за пътнически превоз"@bg,
+        "Oznámení o výsledku zadávacího řízení pro veřejné služby v přepravě cestujících"@cs,
+        "Meddelelse om tildelt kontrakt vedrørende offentlig personbefordring"@da,
+        "Bekanntmachung vergebener Aufträge für öffentliche Personenverkehrsdienste"@de,
+        "Ανακοίνωση ανάθεσης σύμβασης για δημόσιες επιβατικές μεταφορές"@el,
+        "Contract award notice for public passenger transport services"@en,
+        "Anuncio de adjudicación de contrato de servicios públicos de transporte de viajeros"@es,
+        "Hankelepingu sõlmimise teade reisijateveoteenuse osutamiseks"@et,
+        "Jälki-ilmoitus julkisista henkilöliikennepalveluista"@fi,
+        "Avis d'attribution de marché relatif à des services publics de transport de voyageurs"@fr,
+        "Fógra faoi dhámhachtain conartha le haghaidh seirbhísí poiblí iompair do phaisinéirí"@ga,
+        "Obavijest o dodjeli ugovora za usluge javnog prijevoza putnika"@hr,
+        "Személyszállítási közszolgáltatási szerződés odaítélésére vonatkozó tájékoztató"@hu,
+        " Avviso di aggiudicazione per i servizi di trasporto pubblico di passeggeri"@it,
+        "Skelbimas apie viešojo keleivinio transporto paslaugų sutarties skyrimą"@lt,
+        "Paziņojums par līguma slēgšanas tiesību piešķiršanu attiecībā uz sabiedriskā transporta pakalpojumiem"@lv,
+        "Avviż ta’ għoti ta’ kuntratt għas-servizzi pubbliċi tat-trasport tal-passiġġieri"@mt,
+        "Aankondiging gegunde opdracht voor openbaar personenvervoer"@nl,
+        "Ogłoszenie o udzieleniu zamówienia dotyczące usług publicznych w zakresie transportu pasażerskiego"@pl,
+        "Anúncio de adjudicação de contrato — serviços públicos de transporte de passageiros"@pt,
+        "Anunț de atribuire a contractului pentru servicii publice de transport de călători"@ro,
+        "Oznámenie o zadaní zmlúv o službách vo verejnom záujme v osobnej doprave"@sk,
+        "Obvestilo o oddaji naročila za storitve javnega potniškega prevoza"@sl,
+        "Meddelande om tilldelning av kontrakt för kollektivtrafik"@sv ;
+    skos:topConceptOf atold:notice-type .
+
+<http://publications.europa.eu/resource/authority/notice-type/cn-desg> a skos:Concept ;
+    at:authority-code "cn-desg" ;
+    at:deprecated "false" ;
+    at:op-code "cn-desg" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "cn-desg" ;
+    dc:identifier "cn-desg" ;
+    skos:definition """Announcement of a call for competition concerning the aquisition, mainly in the fields of town and country planning, architecture and engineering or data processing, of a plan or design selected by a jury.
+Contracting authorities that intend to carry out a design contest shall make known their intention by means of a contest notice. Where they intend to award a subsequent service contract pursuant to Article 32(4), this shall be indicated in the contest notice. [Directive 2014/24/EU]."""@en ;
+    skos:inScheme atold:notice-type ;
+    skos:prefLabel "Обявление за конкурс за проект"@bg,
+        "Oznámení o soutěži o návrh"@cs,
+        "Bekendtgørelse om projektkonkurrence"@da,
+        "Wettbewerbsbekanntmachung"@de,
+        "Προκήρυξη διαγωνισμού μελετών"@el,
+        "Design contest notice"@en,
+        "Anuncio de concurso de proyectos"@es,
+        "Ideekonkursi kutse"@et,
+        "Suunnittelukilpailua koskeva ilmoitus"@fi,
+        "Avis de concours"@fr,
+        "Fógra faoi chomórtas dearaidh"@ga,
+        "Obavijest o projektnom natječaju"@hr,
+        "Tervpályázati hirdetmény"@hu,
+        "Avviso o bando di concorso di progettazione"@it,
+        "Skelbimas apie projekto konkursą"@lt,
+        "Paziņojums par metu konkursu"@lv,
+        "Avviż tal-konkors tad-disinn"@mt,
+        "Aankondiging van een prijsvraag voor ontwerpen"@nl,
+        "Ogłoszenie o konkursie"@pl,
+        "Anúncio de concurso para trabalhos de conceção"@pt,
+        "Anunț de concurs de proiecte"@ro,
+        "Oznámenie o vyhlásení súťaže návrhov"@sk,
+        "Obvestilo o projektnem natečaju"@sl,
+        "Meddelande om projekttävling"@sv ;
+    skos:topConceptOf atold:notice-type .
+
+<http://publications.europa.eu/resource/authority/notice-type/cn-social> a skos:Concept ;
+    at:authority-code "cn-social" ;
+    at:deprecated "false" ;
+    at:op-code "cn-social" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "cn-social" ;
+    dc:identifier "cn-social" ;
+    skos:definition "Announcement of a call for competition concerning contracts for social and other specific services."@en ;
+    skos:inScheme atold:notice-type ;
+    skos:prefLabel "Обявление за поръчка – облекчен режим"@bg,
+        "Oznámení o zahájení zadávacího řízení – zjednodušený režim"@cs,
+        "Udbudsbekendtgørelse – den lempelige ordning"@da,
+        "Auftragsbekanntmachung – Sonderregelung"@de,
+        "Προκήρυξη σύμβασης — απλουστευμένο καθεστώς"@el,
+        "Contract notice – light regime"@en,
+        "Anuncio de contrato. Régimen simplificado"@es,
+        "Hanketeade – lihtsustatud kord"@et,
+        "Hankintailmoitus – kevennetty järjestely"@fi,
+        "Avis de marché – régime assoupli"@fr,
+        "Fógra conartha – an córas éadrom"@ga,
+        "Obavijest o nadmetanju – blagi režim"@hr,
+        "Eljárást megindító hirdetmény – enyhébb szabályozás"@hu,
+        "Bando di gara – regime alleggerito"@it,
+        "Skelbimas apie pirkimą. Paprastesnis režimas"@lt,
+        "Paziņojums par līgumu — atvieglotais režīms"@lv,
+        "Avviż tal-kuntratt – reġim ħafif"@mt,
+        "Aankondiging van een opdracht – lichte regeling"@nl,
+        "Ogłoszenie o zamówieniu – tryb uproszczony"@pl,
+        "Anúncio de concurso — regime simplificado"@pt,
+        "Anunț de participare - regim simplificat"@ro,
+        "Oznámenie o vyhlásení verejného obstarávania – zjednodušený režim"@sk,
+        "Obvestilo o naročilu – enostavnejša ureditev"@sl,
+        "Meddelande om upphandling – förenklat system"@sv ;
+    skos:topConceptOf atold:notice-type .
+
+<http://publications.europa.eu/resource/authority/notice-type/cn-standard> a skos:Concept ;
+    at:authority-code "cn-standard" ;
+    at:deprecated "false" ;
+    at:op-code "cn-standard" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "cn-standard" ;
+    dc:identifier "cn-standard" ;
+    skos:definition """Announcement of a call for competition concerning contracts or concessions.
+Contract notices shall be used as a means of calling for competition in respect of all procedures, without prejudice to the second subparagraph of Article 26(5) and Article 32. Contract notices shall contain the information set out in Annex V part C and shall be published in accordance with Article 51. [Directive 2014/24/EU]."""@en ;
+    skos:inScheme atold:notice-type ;
+    skos:prefLabel "Обявление за поръчка или концесия – стандартен режим"@bg,
+        "Oznámení o zahájení zadávacího nebo koncesního řízení – standardní režim"@cs,
+        "Udbuds- eller koncessionsbekendtgørelse – standardordningen"@da,
+        "Auftrags- oder Konzessionsbekanntmachung – Standardregelung"@de,
+        "Προκήρυξη σύμβασης ή σύμβασης παραχώρησης — τυποποιημένο καθεστώς"@el,
+        "Contract or concession notice – standard regime"@en,
+        "Anuncio de contrato o de concesión. Régimen normal"@es,
+        "Hanketeade või kontsessiooniteade – üldkord"@et,
+        "Hankintailmoitus tai käyttöoikeussopimusta koskeva ilmoitus – vakiojärjestelmä"@fi,
+        "Avis de marché ou de concession – régime ordinaire"@fr,
+        "Fógra maidir le conradh nó lamháltas — an gnáthchóras"@ga,
+        "Obavijest o nadmetanju ili koncesiji – standardni režim"@hr,
+        "Eljárást megindító vagy koncessziós hirdetmény – klasszikus ajánlatkérőkre vonatkozó szabályok"@hu,
+        "Bando di gara o di concessione – regime ordinario"@it,
+        "Skelbimas apie pirkimą arba koncesiją. Įprasta tvarka"@lt,
+        "Paziņojums par līgumu vai paziņojums par koncesiju — standarta režīms"@lv,
+        "Avviż tal-kuntratt jew tal-konċessjoni – reġim standard"@mt,
+        "Aankondiging van een opdracht of concessie – standaardregeling"@nl,
+        "Ogłoszenie o zamówieniu lub ogłoszenie o koncesji – tryb standardowy"@pl,
+        "Anúncio de adjudicação de contrato ou de concessão — regime normal"@pt,
+        "Anunț de participare sau de concesionare - regim standard"@ro,
+        "Oznámenie o vyhlásení verejného obstarávania alebo oznámenie o koncesii – štandardný režim"@sk,
+        "Obvestilo o koncesiji ali naročilu – standardna ureditev"@sl,
+        "Meddelande om upphandling eller koncession – standardsystem"@sv ;
+    skos:topConceptOf atold:notice-type .
+
+<http://publications.europa.eu/resource/authority/notice-type/corr> a skos:Concept ;
+    at:authority-code "corr" ;
+    at:deprecated "false" ;
+    at:op-code "corr" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "corr" ;
+    dc:identifier "corr" ;
+    skos:definition "Information about changes to the notice. This information may differ per section of the previous notice."@en ;
+    skos:inScheme atold:notice-type ;
+    skos:prefLabel "Обявление за промяна"@bg,
+        "Oznámení oprav"@cs,
+        "Meddelelse om ændring"@da,
+        "Änderungsbekanntmachung"@de,
+        "Γνωστοποίηση αλλαγών"@el,
+        "Change notice"@en,
+        "Anuncio de cambios"@es,
+        "Paranduse teade"@et,
+        "Ilmoituksen muutos"@fi,
+        "Avis de changement"@fr,
+        "Fógra maidir le hathrú"@ga,
+        "Obavijest o promjeni"@hr,
+        "Változtatásról szóló hirdetmény"@hu,
+        "Avviso di rettifica"@it,
+        "Skelbimas apie pakeitimą"@lt,
+        "Izmaiņu paziņojums"@lv,
+        "Avviż tal-bidla"@mt,
+        "Bericht van wijziging van een aankondiging"@nl,
+        "Ogłoszenie o zmianie"@pl,
+        "Anúncio de alteração"@pt,
+        "Anunț de schimbare"@ro,
+        "Oznámenie o zmene"@sk,
+        "Obvestilo o spremembi obvestila"@sl,
+        "Meddelande om ändring"@sv ;
+    skos:scopeNote "Used to change any of the notices listed in this authority table."@en ;
+    skos:topConceptOf atold:notice-type .
+
+<http://publications.europa.eu/resource/authority/notice-type/pin-buyer> a skos:Concept ;
+    at:authority-code "pin-buyer" ;
+    at:deprecated "false" ;
+    at:op-code "pin-buyer" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "pin-buyer" ;
+    dc:identifier "pin-buyer" ;
+    skos:definition """Announcement of intentions of planned procurements.
+Contracting authorities may make known their intentions of planned procurements through the publication of a prior information notice. Those notices shall contain the information set out in Annex V part B section I. They shall be published either by the Publications Office of the European Union or by the contracting authorities on their buyer profiles in accordance with point 2(b) of Annex VIII . Where the prior information notice is published by the contracting authorities on their buyer profile, they shall send a notice of the publication on their buyer profile to the Publications Office of the European Union in accordance with Annex VIII. Those notices shall contain the information set out in Annex V part A. [Directive 2014/24/EU]."""@en ;
+    skos:inScheme atold:notice-type ;
+    skos:prefLabel "Обявление за публикуването на обявление за предварителна информация или периодично индикативно обявление в профил на купувача"@bg,
+        "Oznámení o uveřejnění předběžného oznámení nebo pravidelného předběžného oznámení na profilu kupujícího"@cs,
+        "Bekendtgørelse om offentliggørelse af en forhåndsmeddelelse eller en vejledende periodisk bekendtgørelse i en køberprofil"@da,
+        "Bekanntmachung der Veröffentlichung einer Vorinformation oder einer regelmäßigen nicht verbindlichen Bekanntmachung in einem Beschafferprofil"@de,
+        "Γνωστοποίηση της δημοσίευσης προκαταρκτικής προκήρυξης ή περιοδικής ενημερωτικής προκήρυξης για προφίλ αγοραστή"@el,
+        "Notice of the publication of a prior information notice or a periodic information notice on a buyer profile"@en,
+        "Anuncio de la publicación de un anuncio de información previa o de un anuncio periódico indicativo en un perfil de comprador"@es,
+        "Teade eelteate või perioodilise eelteate avaldamise kohta hankija profiilis"@et,
+        "Ilmoitus ennakkoilmoituksen tai ohjeellisen kausi-ilmoituksen julkaisemisesta hankkijaprofiilissa"@fi,
+        "Avis annonçant la publication d’un avis de préinformation ou d’un avis périodique indicatif sur un profil d’acheteur"@fr,
+        "Fógra maidir le foilsiú fógra faisnéise roimh ré nó fógra faisnéise tréimhsiúil i dtaobh próifíl cheannaitheora"@ga,
+        "Obavijest o objavi prethodne informacijske obavijesti ili periodične informativne obavijesti na profilu kupca"@hr,
+        "Előzetes tájékoztató vagy időszakos előzetes tájékoztató felhasználói oldalon történő közzétételéről szóló hirdetmény"@hu,
+        "Avviso di pubblicazione di un avviso di preinformazione o di un avviso periodico indicativo relativo al profilo di committente"@it,
+        "Pranešimas apie skelbiamą išankstinį informacinį skelbimą arba reguliarų orientacinį skelbimą pirkėjo profilyje"@lt,
+        "Paziņojums par iepriekšējā informatīvā paziņojuma vai periodiskā informatīvā paziņojuma publicēšanu pircēja profilā"@lv,
+        "Avviż tal-pubblikazzjoni ta’ avviż informattiv minn qabel jew ta’ avviż informattiv perjodiku fuq profil ta’ xerrej"@mt,
+        "Aankondiging van de bekendmaking van een vooraankondiging of een periodieke indicatieve aankondiging via een kopersprofiel"@nl,
+        "Ogłoszenie o publikacji wstępnego ogłoszenia informacyjnego lub okresowego ogłoszenia informacyjnego na profilu nabywcy"@pl,
+        "Anúncio de publicação de um anúncio de pré-informação ou de um anúncio periódico indicativo sobre um perfil de adquirente"@pt,
+        "Anunț privind publicarea unui anunț de intenție sau a unui anunț periodic de informare privind profilul unui cumpărător"@ro,
+        "Oznámenie o uverejnení predbežného oznámenia a pravidelného informatívneho oznámenia v profile kupujúceho"@sk,
+        "Obvestilo o objavi predhodnega informativnega obvestila ali periodičnega informativnega obvestila v profilu kupca"@sl,
+        "Meddelande om offentliggörande av ett förhandsmeddelande på upphandlarprofil"@sv ;
+    skos:topConceptOf atold:notice-type .
+
+<http://publications.europa.eu/resource/authority/notice-type/pin-cfc-social> a skos:Concept ;
+    at:authority-code "pin-cfc-social" ;
+    at:deprecated "false" ;
+    at:op-code "pin-cfc-social" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "pin-cfc-social" ;
+    dc:identifier "pin-cfc-social" ;
+    skos:definition "Announcement of intentions of planned procurements used as a call for competion concerning contracts for social and other specific services."@en ;
+    skos:inScheme atold:notice-type ;
+    skos:prefLabel "Обявление за предварителна информация или периодично индикативно обявление, използвани като покана за участие в състезателна процедура – облекчен режим"@bg,
+        "Předběžné oznámení nebo pravidelné předběžné oznámení použité jako výzva k účasti v soutěži – zjednodušený režim"@cs,
+        "Forhåndsmeddelelse eller vejledende periodisk bekendtgørelse, der er anvendt som indkaldelser af tilbud – den lempelige ordning"@da,
+        "Vorinformation oder eine regelmäßige nicht verbindliche Bekanntmachung als Aufruf zum Wettbewerb – Sonderregelung"@de,
+        "Προκαταρκτική προκήρυξη ή περιοδική ενδεικτική προκήρυξη που χρησιμοποιείται μόνο για προκήρυξη διαγωνισμού – απλουστευμένο καθεστώς"@el,
+        "Prior information notice or a periodic indicative notice used as a call for competition – light regime"@en,
+        "Anuncio de información previa o anuncio periódico indicativo usado como convocatoria de licitación. Régimen simplificado"@es,
+        "Hanke väljakuulutamiseks kasutatav eelteade või perioodiline eelteade – lihtsustatud kord"@et,
+        "Tarjouskilpailukutsuna käytettävä ennakkoilmoitus tai ohjeellinen kausi-ilmoitus – kevennetty järjestely"@fi,
+        "Avis de préinformation ou avis périodique indicatif utilisé comme appel à la concurrence – régime assoupli"@fr,
+        "Fógra réamhfhaisnéise nó fógra táscach tréimhsiúil lena ndéantar glao ar iomaíocht – an córas éadrom"@ga,
+        "Prethodna informacijska obavijest ili periodična indikativna obavijest upotrijebljena kao poziv na nadmetanje – blagi režim"@hr,
+        "Ajánlati/részvételi felhívásként használt előzetes tájékoztató vagy időszakos előzetes tájékoztató – enyhébb szabályozás"@hu,
+        "Avviso di preinformazione o avviso periodico indicativo utilizzato come avviso di indizione di gara – regime alleggerito"@it,
+        "Išankstinis informacinis skelbimas arba reguliarus orientacinis skelbimas, naudojamas kaip kvietimas dalyvauti konkurse. Paprastesnis režimas"@lt,
+        "Iepriekšējs informatīvs paziņojums vai periodisks informatīvs paziņojums, ko izmanto iepirkuma izsludināšanai — atvieglotais režīms"@lv,
+        "Avviż informattiv minn qabel jew avviż indikattiv perjodiku użat għal sejħa għall-kompetizzjoni – reġim ħafif"@mt,
+        "Vooraankondiging of periodieke indicatieve aankondiging gebruikt als oproep tot mededinging – lichte regeling"@nl,
+        "Wstępne ogłoszenie informacyjne lub okresowe ogłoszenie informacyjne wykorzystywane jako zaproszenie do ubiegania się o zamówienie – tryb uproszczony"@pl,
+        "Anúncio de pré-informação ou anúncio periódico indicativo utilizado como anúncio de concurso — regime simplificado"@pt,
+        "Anunț de intenție sau anunț orientativ periodic utilizat ca procedură concurențială de ofertare - regim simplificat"@ro,
+        "Predbežné oznámenie alebo pravidelné informatívne oznámenie použité ako výzva na súťaž – zjednodušený režim"@sk,
+        "Predhodno informativno obvestilo ali periodično informativno obvestilo, ki se uporablja kot javni razpis – enostavnejša ureditev"@sl,
+        "Förhandsmeddelande som används som anbudsinfordran – förenklat system"@sv ;
+    skos:topConceptOf atold:notice-type .
+
+<http://publications.europa.eu/resource/authority/notice-type/pin-cfc-standard> a skos:Concept ;
+    at:authority-code "pin-cfc-standard" ;
+    at:deprecated "false" ;
+    at:op-code "pin-cfc-standard" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "pin-cfc-standard" ;
+    dc:identifier "pin-cfc-standard" ;
+    skos:definition """Announcement of intentions of planned procurements used as a call for competion.
+For restricted procedures and competitive procedures with negotiation, sub-central contracting authorities may use a prior information notice as a call for competition pursuant to Article 26(5), [...]. [Directive 2014/24/EU]."""@en ;
+    skos:inScheme atold:notice-type ;
+    skos:prefLabel "Обявление за предварителна информация или периодично индикативно обявление, използвани като покана за участие в състезателна процедура – стандартен режим"@bg,
+        "Předběžné oznámení nebo pravidelné předběžné oznámení použité jako výzva k účasti v soutěži – standardní režim"@cs,
+        "Forhåndsmeddelelse eller vejledende periodisk bekendtgørelse, der er anvendt som indkaldelser af tilbud – standardordningen"@da,
+        "Vorinformation oder eine regelmäßige nicht verbindliche Bekanntmachung als Aufruf zum Wettbewerb – Standardregelung"@de,
+        "Προκαταρκτική προκήρυξη ή περιοδική ενδεικτική προκήρυξη που χρησιμοποιείται μόνο για προκήρυξη διαγωνισμού – τυποποιημένο καθεστώς"@el,
+        "Prior information notice or a periodic indicative notice used as a call for competition – standard regime"@en,
+        "Anuncio de información previa o anuncio periódico indicativo usado como convocatoria de licitación. Régimen normal"@es,
+        "Hanke väljakuulutamiseks kasutatav eelteade või perioodiline eelteade – üldkord"@et,
+        "Tarjouskilpailukutsuna käytettävä ennakkoilmoitus tai ohjeellinen kausi-ilmoitus – vakiojärjestelmä"@fi,
+        "Avis de préinformation ou avis périodique indicatif utilisé comme appel à la concurrence – régime ordinaire"@fr,
+        "Fógra faisnéise roimh ré nó fógra táscach tréimhsiúil lena ndéantar glao ar iomaíocht – an gnáthchóras"@ga,
+        "Prethodna informacijska obavijest ili periodična indikativna obavijest upotrijebljena kao poziv na nadmetanje – standardni režim"@hr,
+        "Ajánlati/részvételi felhívásként használt előzetes tájékoztató vagy időszakos előzetes tájékoztató – klasszikus ajánlatkérőkre vonatkozó szabályok"@hu,
+        "Avviso di preinformazione o avviso periodico indicativo utilizzato come avviso di indizione di gara – regime ordinario"@it,
+        "Išankstinis informacinis skelbimas arba reguliarus orientacinis skelbimas, naudojamas kaip kvietimas dalyvauti konkurse. Įprasta tvarka"@lt,
+        "Iepriekšējs informatīvs paziņojums vai periodisks informatīvs paziņojums, ko izmanto iepirkuma izsludināšanai — standarta režīms"@lv,
+        "Avviż informattiv minn qabel jew avviż indikattiv perjodiku użat għal sejħa għall-kompetizzjoni – reġim standard"@mt,
+        "Vooraankondiging of periodieke indicatieve aankondiging gebruikt als oproep tot mededinging – standaardregeling"@nl,
+        "Wstępne ogłoszenie informacyjne lub okresowe ogłoszenie informacyjne wykorzystywane jako zaproszenie do ubiegania się o zamówienie – tryb standardowy"@pl,
+        "Anúncio de pré-informação ou anúncio periódico indicativo utilizado como anúncio de concurso — regime normal"@pt,
+        "Anunț de intenție sau anunț orientativ periodic utilizat ca procedură concurențială de ofertare - regim standard"@ro,
+        "Predbežné oznámenie a pravidelné informatívne oznámenie použité ako výzva na súťaž – štandardný režim"@sk,
+        "Predhodno informativno obvestilo ali periodično informativno obvestilo, ki se uporablja kot javni razpis – standardna ureditev"@sl,
+        "Förhandsmeddelande som används som anbudsinfordran – standardsystem"@sv ;
+    skos:topConceptOf atold:notice-type .
+
+<http://publications.europa.eu/resource/authority/notice-type/pin-only> a skos:Concept ;
+    at:authority-code "pin-only" ;
+    at:deprecated "false" ;
+    at:op-code "pin-only" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "pin-only" ;
+    dc:identifier "pin-only" ;
+    skos:definition """Announcement of intentions of planned procurements for information purposes.
+Contracting authorities may make known their intentions of planned procurements through the publication of a prior information notice. Those notices shall contain the information set out in Annex V part B section I. They shall be published either by the Publications Office of the European Union or by the contracting authorities on their buyer profiles in accordance with point 2(b) of Annex VIII . Where the prior information notice is published by the contracting authorities on their buyer profile, they shall send a notice of the publication on their buyer profile to the Publications Office of the European Union in accordance with Annex VIII. Those notices shall contain the information set out in Annex V part A. [Directive 2014/24/EU]."""@en ;
+    skos:inScheme atold:notice-type ;
+    skos:prefLabel "Обявление за предварителна информация или периодично индикативно обявление, използвани само за информация"@bg,
+        "Předběžné oznámení nebo pravidelné předběžné oznámení použité pouze pro informační účely"@cs,
+        "Forhåndsmeddelelse eller vejledende periodisk bekendtgørelse, der kun er anvendt til informationsformål"@da,
+        "Vorinformation oder eine regelmäßige nicht verbindliche Bekanntmachung nur zu Informationszwecken"@de,
+        "Προκαταρκτική προκήρυξη ή περιοδική ενδεικτική προκήρυξη που χρησιμοποιείται μόνο για ενημέρωση"@el,
+        "Prior information notice or a periodic indicative notice used only for information"@en,
+        "Anuncio de información previa o anuncio periódico indicativo usado únicamente para información"@es,
+        "Ainult teavitamise eesmärgil kasutatav eelteade või perioodiline eelteade"@et,
+        "Ennakkoilmoitus tai ohjeellinen kausi-ilmoitus vain tietotarkoituksiin"@fi,
+        "Avis de préinformation ou avis périodique indicatif utilisé uniquement à titre d’information"@fr,
+        "Fógra faisnéise roimh ré nó fógra táscach tréimhsiúil ar mhaithe le faisnéis amháin"@ga,
+        "Prethodna informacijska obavijest ili periodična indikativna obavijest upotrijebljena samo u informativne svrhe"@hr,
+        "Kizárólag tájékoztatás céljából használt előzetes tájékoztató vagy időszakos előzetes tájékoztató"@hu,
+        "Avviso di preinformazione o avviso periodico indicativo a fini unicamente informativi"@it,
+        "Išankstinis informacinis skelbimas arba reguliarus orientacinis skelbimas, skirtas tik informavimui"@lt,
+        "Iepriekšējs informatīvs paziņojums vai periodisks informatīvs paziņojums, ko izmanto tikai informācijai"@lv,
+        "Avviż informattiv minn qabel jew avviż indikattiv perjodiku użat biss għall-informazzjoni"@mt,
+        "Vooraankondiging of periodieke indicatieve aankondiging die alleen ter informatie wordt gebruikt"@nl,
+        "Wstępne ogłoszenie informacyjne lub okresowe ogłoszenie informacyjne wykorzystywane wyłącznie do celów informacyjnych"@pl,
+        "Anúncio de pré-informação ou anúncio periódico indicativo utilizado apenas a título informativo"@pt,
+        "Anunț de intenție sau anunț orientativ periodic utilizat numai pentru informare"@ro,
+        "Predbežné oznámenie a pravidelné informatívne oznámenie použité len na informačné účely"@sk,
+        "Predhodno informativno obvestilo ali periodično informativno obvestilo, ki se uporablja samo za obveščanje"@sl,
+        "Förhandsmeddelande som endast används i informationssyfte"@sv ;
+    skos:topConceptOf atold:notice-type .
+
+<http://publications.europa.eu/resource/authority/notice-type/pin-rtl> a skos:Concept ;
+    at:authority-code "pin-rtl" ;
+    at:deprecated "false" ;
+    at:op-code "pin-rtl" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "pin-rtl" ;
+    dc:identifier "pin-rtl" ;
+    skos:definition """Announcement of intentions of planned procurements in view of shortening time limits for reception of tenders.
+Where contracting authorities have published a prior information notice which was not itself used as a means of calling for competition, the minimum time limit for the receipt of tenders, as laid down in the second subparagraph of paragraph 1 of this Article, may be shortened to 15 days, [...]."""@en ;
+    skos:inScheme atold:notice-type ;
+    skos:prefLabel "Обявление за предварителна информация или периодично индикативно обявление, използвани за съкращаване на сроковете за получаване на офертите"@bg,
+        "Předběžné oznámení nebo pravidelné předběžné oznámení použité za účelem zkrácení lhůty pro podání nabídek"@cs,
+        "Forhåndsmeddelelse eller vejledende periodisk bekendtgørelse, der er anvendt til at afkorte tidsfrister for modtagelse af tilbud"@da,
+        "Vorinformation oder eine regelmäßige nicht verbindliche Bekanntmachung zum Zweck der Verkürzung der Frist für den Eingang der Angebote"@de,
+        "Προκαταρκτική προκήρυξη ή περιοδική ενδεικτική διακήρυξη που χρησιμοποιείται για τη συντόμευση των προθεσμιών παραλαβής των προσφορών"@el,
+        "Prior information notice or a periodic indicative notice used to shorten time limits for receipt of tenders"@en,
+        "Anuncio de información previa o anuncio periódico indicativo usado para reducir los plazos de recepción de las ofertas"@es,
+        "Eelteade või perioodiline eelteade pakkumuste vastuvõtmise tähtaegade lühendamiseks"@et,
+        "Ennakkoilmoitus tai ohjeellinen kausi-ilmoitus tarjousaikojen lyhentämistä varten"@fi,
+        "Avis de préinformation ou avis périodique indicatif utilisé pour raccourcir les délais de réception des offres"@fr,
+        "Fógra faisnéise roimh ré nó fógra táscach tréimhsiúil lena ngearrtar na teorainneacha ama le tairiscintí a fháil"@ga,
+        "Prethodna informacijska obavijest ili periodična indikativna obavijest upotrijebljena za skraćivanje rokova za zaprimanje ponuda"@hr,
+        "Ajánlatok beérkezésére megszabott határidő rövidítésére szolgáló előzetes tájékoztató vagy időszakos előzetes tájékoztató"@hu,
+        "Avviso di preinformazione o avviso periodico indicativo utilizzato per abbreviare i termini per la ricezione delle offerte"@it,
+        "Išankstinis informacinis skelbimas arba reguliarus orientacinis skelbimas, naudojamas siekiant sutrumpinti pasiūlymų priėmimo terminą"@lt,
+        "Iepriekšējs informatīvs paziņojums vai periodisks informatīvs paziņojums, ko izmanto, lai saīsinātu piedāvājumu saņemšanas termiņus"@lv,
+        "Avviż informattiv minn qabel jew avviż indikattiv perjodiku użat biex jitqassru l-limiti ta’ żmien għall-wasla tal-offerti"@mt,
+        "Vooraankondiging of periodieke indicatieve aankondiging gebruikt om termijnen voor de ontvangst van inschrijvingen in te korten"@nl,
+        "Wstępne ogłoszenie informacyjne lub okresowe ogłoszenie informacyjne wykorzystywane do skrócenia terminu składania ofert"@pl,
+        "Anúncio de pré-informação ou anúncio periódico indicativo utilizado para encurtar os prazos de receção das propostas"@pt,
+        "Anunț de intenție sau anunț orientativ periodic utilizat pentru scurtarea termenelor de primire a ofertelor"@ro,
+        "Predbežné oznámenie a pravidelné informatívne oznámenie použité na skrátenie lehôt na prijímanie ponúk"@sk,
+        "Predhodno informativno obvestilo ali periodično informativno obvestilo, predhodno informativno obvestilo kot sredstvo za skrajšanje rokov za prejem ponudb"@sl,
+        "Förhandsmeddelande som används för att minska tidsfristerna för mottagande av anbud"@sv ;
+    skos:topConceptOf atold:notice-type .
+
+<http://publications.europa.eu/resource/authority/notice-type/pin-tran> a skos:Concept ;
+    at:authority-code "pin-tran" ;
+    at:deprecated "false" ;
+    at:op-code "pin-tran" ;
+    at:start.use "2021-09-29" ;
+    atold:op-code "pin-tran" ;
+    dc:identifier "pin-tran" ;
+    skos:definition "Announcement of the intention to award a public service contract for public passenger transport services."@en ;
+    skos:inScheme atold:notice-type ;
+    skos:prefLabel "Обявление за предварителна информация за обществени услуги за пътнически превоз"@bg,
+        "Předběžné oznámení pro veřejné služby v přepravě cestujících"@cs,
+        "Forhåndsmeddelelse vedrørende offentlig personbefordring"@da,
+        "Vorinformation zu öffentlichen Personenverkehrsdiensten"@de,
+        "Προκαταρκτική προκήρυξη για δημόσιες επιβατικές μεταφορές"@el,
+        "Prior information notice for public passenger transport services"@en,
+        "Anuncio de información previa de servicios públicos de transporte de viajeros"@es,
+        "Eelteade avaliku reisijateveoteenuse kohta"@et,
+        "Ennakkoilmoitus julkisista henkilöliikennepalveluista"@fi,
+        "Avis de préinformation relatif à des services publics de transport de voyageurs"@fr,
+        "Fógra réamhfhaisnéise le haghaidh seirbhísí poiblí iompair do phaisinéirí"@ga,
+        "Prethodna informacijska obavijest za usluge javnog prijevoza putnika"@hr,
+        "Személyszállítási közszolgáltatásra vonatkozó előzetes tájékoztató"@hu,
+        "Avviso di preinformazione per i servizi di trasporto pubblico di passeggeri"@it,
+        "Išankstinis informacinis skelbimas apie viešojo keleivinio transporto paslaugas"@lt,
+        "Iepriekšējs informatīvs paziņojums attiecībā uz sabiedriskā transporta pakalpojumiem"@lv,
+        "Avviż informattiv minn qabel għas-servizzi pubbliċi tat-trasport tal-passiġġieri"@mt,
+        "Vooraankondiging voor openbaar personenvervoer"@nl,
+        "Wstępne ogłoszenie informacyjne dotyczące usług publicznych w zakresie transportu pasażerskiego"@pl,
+        "Anúncio de pré-informação — serviços públicos de transporte de passageiros"@pt,
+        "Anunț de intenție pentru servicii publice de transport de călători"@ro,
+        "Predbežné oznámenie o službách vo verejnom záujme v osobnej doprave"@sk,
+        "Predhodno informativno obvestilo za storitve javnega potniškega prevoza"@sl,
+        "Förhandsmeddelande om kollektivtrafik"@sv ;
+    skos:topConceptOf atold:notice-type .
+
+<http://publications.europa.eu/resource/authority/notice-type/qu-sy> a skos:Concept ;
+    at:authority-code "qu-sy" ;
+    at:deprecated "false" ;
+    at:op-code "qu-sy" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "qu-sy" ;
+    dc:identifier "qu-sy" ;
+    skos:definition """Announcement of a system of qualification of economic operators on the basis of exclusion and selection criteria. The announcement can be used as a call for competition.
+When a call for competition is made by means of a notice on the existence of a qualification system, specific contracts for the works, supplies or services covered by the qualification system shall be awarded by restricted procedures or negotiated procedures, in which all tenderers and participants are selected among the candidates already qualified in accordance with such a system."""@en ;
+    skos:inScheme atold:notice-type ;
+    skos:prefLabel "Обявление за съществуването на квалификационна система"@bg,
+        "Oznámení o zavedení systému kvalifikace"@cs,
+        "Bekendtgørelse om anvendelse af en kvalifikationsordning"@da,
+        "Bekanntmachung über das Bestehen eines Prüfungssystems"@de,
+        "Γνωστοποίηση για την ύπαρξη συστήματος προεπιλογής"@el,
+        "Notice on the existence of a qualification system"@en,
+        "Anuncio de la existencia de un sistema de calificación"@es,
+        "Kvalifitseerimissüsteemi teade"@et,
+        "Kelpuuttamisjärjestelmää koskeva ilmoitus"@fi,
+        "Avis sur l’existence d’un système de qualification"@fr,
+        "Fógra maidir le córas cáiliúcháin a bheith ann"@ga,
+        "Obavijest o postojanju kvalifikacijskog sustava"@hr,
+        "Előminősítési rendszer meglétéről szóló hirdetmény"@hu,
+        "Avviso sull'esistenza di un sistema di qualificazione"@it,
+        "Skelbimas apie kvalifikacijos vertinimo sistemą"@lt,
+        "Paziņojums par kvalifikācijas sistēmu"@lv,
+        "Avviż dwar l-eżistenza ta’ sistema ta’ kwalifika"@mt,
+        "Aankondiging inzake het bestaan van een erkenningsregeling"@nl,
+        "Ogłoszenie o istnieniu systemu kwalifikowania"@pl,
+        "Anúncio relativo à existência de um sistema de qualificação"@pt,
+        "Anunț privind existența unui sistem de calificare"@ro,
+        "Oznámenie o existencii kvalifikačného systému"@sk,
+        "Obvestilo o vzpostavitvi kvalifikacijskega sistema"@sl,
+        "Meddelande om att det finns ett kvalificeringssystem"@sv ;
+    skos:topConceptOf atold:notice-type .
+
+<http://publications.europa.eu/resource/authority/notice-type/subco> a skos:Concept ;
+    at:authority-code "subco" ;
+    at:deprecated "false" ;
+    at:op-code "subco" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "subco" ;
+    dc:identifier "subco" ;
+    skos:definition "Announcement of a call for competition by successful tenderers which are not contracting authorities/entities concerning contracts for social and other specific services."@en ;
+    skos:inScheme atold:notice-type ;
+    skos:prefLabel "Обявление за поръчка за подизпълнение"@bg,
+        "Oznámení o subdodávkách"@cs,
+        "Bekendtgørelse om underentreprise"@da,
+        "Bekanntmachung der Vergabe von Unteraufträgen"@de,
+        "Προκήρυξη υπεργολαβίας"@el,
+        "Subcontracting notice"@en,
+        "Anuncio de subcontratación"@es,
+        "Allhanke teade"@et,
+        "Alihankintaa koskeva ilmoitus"@fi,
+        "Avis de sous-traitance"@fr,
+        "Fógra maidir le fochonrú"@ga,
+        "Poziv na podugovaranje"@hr,
+        "Alvállalkozói hirdetmény"@hu,
+        "Avviso di subappalto"@it,
+        "Skelbimas apie subrangą"@lt,
+        "Paziņojums par apakšuzņēmuma līgumu"@lv,
+        "Avviż tas-sottokuntrattar"@mt,
+        "Aankondiging van een opdracht in onderaanneming"@nl,
+        "Ogłoszenie o podwykonawstwie"@pl,
+        "Anúncio de subcontratação"@pt,
+        "Anunț de subcontractare"@ro,
+        "Oznámenie o zadaní subdodávok"@sk,
+        "Obvestilo o oddaji naročil podizvajalcem"@sl,
+        "Meddelande om underentreprenad"@sv ;
+    skos:topConceptOf atold:notice-type .
+
+<http://publications.europa.eu/resource/authority/notice-type/veat> a skos:Concept ;
+    at:authority-code "veat" ;
+    at:deprecated "false" ;
+    at:op-code "veat" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "veat" ;
+    dc:identifier "veat" ;
+    skos:definition "Announcement of the intention to award of a contract without prior publication of a contract notice in the Official Journal of the European Union."@en ;
+    skos:inScheme atold:notice-type ;
+    skos:prefLabel "Обявление за доброволна прозрачност ex ante"@bg,
+        "Oznámení o dobrovolné průhlednosti ex ante"@cs,
+        "Bekendtgørelse med henblik på frivillig forudgående gennemsigtighed"@da,
+        "Freiwillige Ex-ante-Transparenzbekanntmachung"@de,
+        "Προκήρυξη για εκούσια εκ των προτέρων διαφάνεια"@el,
+        "Voluntary ex-ante transparency notice"@en,
+        "Anuncio de transparencia previa voluntaria"@es,
+        "Vabatahtlik eelnev avalikustamisteade"@et,
+        "Vapaaehtoista ex ante -avoimuutta koskeva ilmoitus"@fi,
+        "Avis en cas de transparence ex ante volontaire"@fr,
+        "Fógra trédhearcachta ex ante deonach"@ga,
+        "Obavijest za dobrovoljnu ex ante transparentnost"@hr,
+        "Önkéntes, előzetes, átláthatóságra vonatkozó hirdetmény"@hu,
+        "Avviso volontario per la trasparenza ex ante"@it,
+        "Savanoriškas ex-ante skelbimas skaidrumo sumetimais"@lt,
+        "Brīvprātīgas ex ante pārskatāmības paziņojums"@lv,
+        "Avviż tat-trasparenza ex ante volontarju"@mt,
+        "Aankondiging in geval van vrijwillige transparantie vooraf"@nl,
+        "Ogłoszenie o dobrowolnej przejrzystości ex ante"@pl,
+        "Anúncio voluntário de transparência ex ante"@pt,
+        "Anunț de transparență ex ante voluntară"@ro,
+        "Oznámenie pre dobrovoľnú transparentnosť ex-ante"@sk,
+        "Prostovoljno obvestilo za predhodno transparentnost"@sl,
+        "Meddelande om frivillig förhandsinsyn"@sv ;
+    skos:topConceptOf atold:notice-type .
+
+atold:notice-type a skos:ConceptScheme ;
+    rdfs:label "Notice type"@en ;
+    at:prefLabel "Notice type"@en ;
+    at:table.id "notice-type" ;
+    at:table.version.number "20220615-0" ;
+    owl:versionInfo "20220615-0" ;
+    skos:prefLabel "Notice type"@en .
+

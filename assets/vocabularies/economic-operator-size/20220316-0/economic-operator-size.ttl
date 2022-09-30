@@ -1,0 +1,210 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/economic-operator-size/OP_DATPRO> a skos:Concept ;
+    at:op-code "OP_DATPRO" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:economic-operator-size ;
+    skos:prefLabel "НЕОКОНЧАТЕЛНИ ДАННИ"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv .
+
+<http://publications.europa.eu/resource/authority/economic-operator-size/large> a skos:Concept ;
+    at:authority-code "large" ;
+    at:deprecated "false" ;
+    at:op-code "large" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "large" ;
+    dc:identifier "large" ;
+    skos:inScheme atold:economic-operator-size ;
+    skos:prefLabel "Голямо предприятие"@bg,
+        "Velký podnik"@cs,
+        "Stor virksomhed"@da,
+        "Großunternehmen"@de,
+        "Μεγάλος"@el,
+        "Large"@en,
+        "Gran empresa"@es,
+        "Suurettevõtja"@et,
+        "Suuri"@fi,
+        "Grande"@fr,
+        "Fiontar mór"@ga,
+        "Veliko"@hr,
+        "Nagyvállalkozás"@hu,
+        "Grande impresa"@it,
+        "Didelis"@lt,
+        "Lielais uzņēmums"@lv,
+        "Rebbieħ kbir"@mt,
+        "Groot"@nl,
+        "Duże"@pl,
+        "Grande"@pt,
+        "Mare"@ro,
+        "Veľký podnik"@sk,
+        "Veliko"@sl,
+        "Stort företag"@sv .
+
+<http://publications.europa.eu/resource/authority/economic-operator-size/medium> a skos:Concept ;
+    at:authority-code "medium" ;
+    at:deprecated "false" ;
+    at:op-code "medium" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "medium" ;
+    dc:identifier "medium" ;
+    skos:inScheme atold:economic-operator-size ;
+    skos:prefLabel "Средно предприятие"@bg,
+        "Střední podnik"@cs,
+        "Mellemstor virksomhed"@da,
+        "Mittleres Unternehmen"@de,
+        "Μεσαίος"@el,
+        "Medium"@en,
+        "Mediana empresa"@es,
+        "Keskmise suurusega ettevõtja"@et,
+        "Keskisuuri"@fi,
+        "Moyenne"@fr,
+        "Fiontar meánmhéide"@ga,
+        "Srednje"@hr,
+        "Középvállalkozás"@hu,
+        "Media impresa"@it,
+        "Vidutinis"@lt,
+        "Vidējais uzņēmums"@lv,
+        "Rebbieħ medju"@mt,
+        "Middelgroot"@nl,
+        "Średnie"@pl,
+        "Média"@pt,
+        "Medie"@ro,
+        "Stredný podnik"@sk,
+        "Srednje"@sl,
+        "Medelstort företag"@sv .
+
+<http://publications.europa.eu/resource/authority/economic-operator-size/micro> a skos:Concept ;
+    at:authority-code "micro" ;
+    at:deprecated "false" ;
+    at:op-code "micro" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "micro" ;
+    dc:identifier "micro" ;
+    skos:inScheme atold:economic-operator-size ;
+    skos:prefLabel "Микропредприятие"@bg,
+        "Mikropodnik"@cs,
+        "Mikrovirksomhed"@da,
+        "Kleinstunternehmen"@de,
+        "Πολύ μικρός"@el,
+        "Micro"@en,
+        "Microempresa"@es,
+        "Mikroettevõtja"@et,
+        "Mikro"@fi,
+        "Micro"@fr,
+        "Micrifhiontar"@ga,
+        "Mikro"@hr,
+        "Mikrovállalkozás"@hu,
+        "Microimpresa"@it,
+        "Labai mažas"@lt,
+        "Mikrouzņēmums"@lv,
+        "Rebbieħ mikro"@mt,
+        "Micro"@nl,
+        "Mikro-"@pl,
+        "Micro"@pt,
+        "Micro"@ro,
+        "Mikropodnik"@sk,
+        "Mikro"@sl,
+        "Mikroföretag"@sv .
+
+<http://publications.europa.eu/resource/authority/economic-operator-size/small> a skos:Concept ;
+    at:authority-code "small" ;
+    at:deprecated "false" ;
+    at:op-code "small" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "small" ;
+    dc:identifier "small" ;
+    skos:inScheme atold:economic-operator-size ;
+    skos:prefLabel "Малко предприятие"@bg,
+        "Malý podnik"@cs,
+        "Lille virksomhed"@da,
+        "Kleines Unternehmen"@de,
+        "Μικρός"@el,
+        "Small"@en,
+        "Pequeña empresa"@es,
+        "Väikeettevõtja"@et,
+        "Pieni"@fi,
+        "Petite"@fr,
+        "Fiontar beag"@ga,
+        "Malo"@hr,
+        "Kisvállalkozás"@hu,
+        "Piccola impresa"@it,
+        "Mažasis"@lt,
+        "Mazais uzņēmums"@lv,
+        "Rebbieħ żgħir"@mt,
+        "Klein"@nl,
+        "Małe"@pl,
+        "Pequena"@pt,
+        "Mică"@ro,
+        "Malý podnik"@sk,
+        "Malo"@sl,
+        "Litet företag"@sv .
+
+<http://publications.europa.eu/resource/authority/economic-operator-size/sme> a skos:Concept ;
+    at:authority-code "sme" ;
+    at:deprecated "false" ;
+    at:op-code "sme" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "sme" ;
+    dc:identifier "sme" ;
+    skos:inScheme atold:economic-operator-size ;
+    skos:prefLabel "Микро-, малко или средно предприятие"@bg,
+        "Mikropodnik, malý podnik nebo střední podnik"@cs,
+        "Mikrovirksomhed, lille eller mellemstor virksomhed"@da,
+        "Kleinst-, kleines oder mittleres Unternehmen"@de,
+        "Πολύ μικρός, μικρός ή μεσαίος"@el,
+        "Micro, small, or medium"@en,
+        "Microempresa, pequeña empresa o mediana empresa"@es,
+        "Mikro-, väike või keskmine ettevõtja"@et,
+        "Mikro, pieni tai keskisuuri"@fi,
+        "Micro, petite ou moyenne"@fr,
+        "Micrifhiontar, fiontar beag, nó fiontar meánmhéide"@ga,
+        "Mikro, malo ili srednje poduzeće"@hr,
+        "Mikro-, kis- vagy középvállalkozás"@hu,
+        "Microimpresa, piccola o media impresa"@it,
+        "Labai mažas, mažasis ar vidutinis"@lt,
+        "Mikrouzņēmums, mazais vai vidējais uzņēmums"@lv,
+        "Rebbieħ mikro, żgħir jew medju"@mt,
+        "Micro, klein of middelgroot"@nl,
+        "Mikro-, małe lub średnie przedsiębiorstwo"@pl,
+        "Micro, pequena ou média"@pt,
+        "Micro, mică sau medie"@ro,
+        "Mikropodnik, malý alebo stredný podnik"@sk,
+        "Mikro-, malo ali srednje podjetje"@sl,
+        "Mikroföretag eller litet eller medelstort företag"@sv .
+
+atold:economic-operator-size a skos:ConceptScheme ;
+    rdfs:label "Economic operator size"@en ;
+    at:prefLabel "Economic operator size"@en ;
+    at:table.id "economic-operator-size" ;
+    at:table.version.number "20220316-0" ;
+    owl:versionInfo "20220316-0" ;
+    skos:prefLabel "Economic operator size"@en .
+

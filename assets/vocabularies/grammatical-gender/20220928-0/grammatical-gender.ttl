@@ -1,0 +1,264 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/grammatical-gender/F> a skos:Concept ;
+    at:authority-code "F" ;
+    at:deprecated "false" ;
+    at:op-code "F" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "F" ;
+    dc:identifier "F" ;
+    skos:definition "Of, pertaining or belonging to the female grammatical gender, in languages that have gender distinctions."@en ;
+    skos:exactMatch <http://www.lexvo.org/page/term/eng/feminine> ;
+    skos:inScheme atold:grammatical-gender ;
+    skos:prefLabel "Женски род"@bg,
+        "Ženský rod"@cs,
+        "Hunkøn"@da,
+        "Femininum"@de,
+        "Θηλυκό"@el,
+        "Feminine"@en,
+        "Femenino"@es,
+        "Naissoost"@et,
+        "Feminiini"@fi,
+        "Féminin"@fr,
+        "Baineann"@ga,
+        "Ženski rod"@hr,
+        "Nőnem"@hu,
+        "Femminile"@it,
+        "Moteriškoji"@lt,
+        "Sieviešu"@lv,
+        "Femminil"@mt,
+        "Vrouwelijk"@nl,
+        "Rodzaj żeński"@pl,
+        "Feminino"@pt,
+        "Feminin"@ro,
+        "Ženský rod"@sk,
+        "Ženski spol"@sl,
+        "Femininum"@sv ;
+    skos:topConceptOf atold:grammatical-gender .
+
+<http://publications.europa.eu/resource/authority/grammatical-gender/G> a skos:Concept ;
+    at:authority-code "G" ;
+    at:deprecated "false" ;
+    at:op-code "G" ;
+    at:start.use "2021-02-18" ;
+    atold:op-code "G" ;
+    dc:identifier "G" ;
+    skos:definition "‘Generic’ is used to mark forms used for more grammatical genders in languages that make gender distinctions."@en ;
+    skos:example "The French adjective ‘belge’ can be masculine or feminine. The Dutch adjective ‘Belgische’ can be masculine, feminine or neuter while the form ‘Belgisch’ is neuter. The Romanian adjective ‘belgian’ can be masculine or neuter while the ‘belgiană’ form is feminine."@en ;
+    skos:inScheme atold:grammatical-gender ;
+    skos:prefLabel "Общ"@bg,
+        "Pro všechny rody"@cs,
+        "Generisk"@da,
+        "Generisch"@de,
+        "Γενικό"@el,
+        "Generic"@en,
+        "Genérico"@es,
+        "Geneeriline"@et,
+        "Geneerinen"@fi,
+        "Générique"@fr,
+        "Cineálach"@ga,
+        "Općenito"@hr,
+        "Általános"@hu,
+        "Generico"@it,
+        "Bendra"@lt,
+        "Vispārējs"@lv,
+        "Ġeneriku"@mt,
+        "Onveranderlijk"@nl,
+        "Generyczny"@pl,
+        "Comum de dois"@pt,
+        "Generic"@ro,
+        "Generické"@sk,
+        "Generičen"@sl,
+        "Generisk"@sv ;
+    skos:topConceptOf atold:grammatical-gender .
+
+<http://publications.europa.eu/resource/authority/grammatical-gender/M> a skos:Concept ;
+    at:authority-code "M" ;
+    at:deprecated "false" ;
+    at:op-code "M" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "M" ;
+    dc:identifier "M" ;
+    skos:definition "Of, pertaining or belonging to the male grammatical gender, in languages that have gender distinctions."@en ;
+    skos:exactMatch <http://www.lexvo.org/page/term/eng/masculine> ;
+    skos:inScheme atold:grammatical-gender ;
+    skos:prefLabel "Мъжки род"@bg,
+        "Mužský rod"@cs,
+        "Hankøn"@da,
+        "Maskulinum"@de,
+        "Αρσενικό"@el,
+        "Masculine"@en,
+        "Masculino"@es,
+        "Meessoost"@et,
+        "Maskuliini"@fi,
+        "Masculin"@fr,
+        "Fireann"@ga,
+        "Muški rod"@hr,
+        "Hímnem"@hu,
+        "Maschile"@it,
+        "Vyriškoji"@lt,
+        "Vīriešu"@lv,
+        "Maskil"@mt,
+        "Mannelijk"@nl,
+        "Rodzaj męski"@pl,
+        "Masculino"@pt,
+        "Masculin"@ro,
+        "Mužský rod"@sk,
+        "Moški spol"@sl,
+        "Maskulinum"@sv ;
+    skos:topConceptOf atold:grammatical-gender .
+
+<http://publications.europa.eu/resource/authority/grammatical-gender/N> a skos:Concept ;
+    at:authority-code "N" ;
+    at:deprecated "false" ;
+    at:op-code "N" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "N" ;
+    dc:identifier "N" ;
+    skos:definition "Having a form which is not masculine nor feminine."@en ;
+    skos:exactMatch <http://www.lexvo.org/page/term/eng/neuter> ;
+    skos:inScheme atold:grammatical-gender ;
+    skos:prefLabel "Среден род"@bg,
+        "Střední rod"@cs,
+        "Intetkøn"@da,
+        "Neutrum"@de,
+        "Ουδέτερο"@el,
+        "Neuter"@en,
+        "Neutro"@es,
+        "Kesksoost"@et,
+        "Neutri"@fi,
+        "Neutre"@fr,
+        "Neodrach"@ga,
+        "Srednji rod"@hr,
+        "Semlegesnem"@hu,
+        "Neutro"@it,
+        "Bevardė"@lt,
+        "Neitrāls"@lv,
+        "Newtru"@mt,
+        "Onzijdig"@nl,
+        "Rodzaj nijaki"@pl,
+        "Neutro"@pt,
+        "Neutru"@ro,
+        "Stredný rod"@sk,
+        "Srednji spol"@sl,
+        "Neutrum"@sv ;
+    skos:topConceptOf atold:grammatical-gender .
+
+<http://publications.europa.eu/resource/authority/grammatical-gender/OP_DATPRO> a skos:Concept ;
+    at:authority-code "OP_DATPRO" ;
+    at:deprecated "false" ;
+    at:op-code "OP_DATPRO" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:grammatical-gender ;
+    skos:prefLabel "Неокончателни данни"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv ;
+    skos:topConceptOf atold:grammatical-gender .
+
+<http://publications.europa.eu/resource/authority/grammatical-gender/U> a skos:Concept ;
+    at:authority-code "U" ;
+    at:deprecated "false" ;
+    at:op-code "U" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "U" ;
+    dc:identifier "U" ;
+    skos:definition "Noun class for a common gender, used in Danish and Swedish."@en ;
+    skos:exactMatch <http://www.lexvo.org/page/term/eng/utrum> ;
+    skos:inScheme atold:grammatical-gender ;
+    skos:prefLabel "Utrum"@bg,
+        "Společný rod"@cs,
+        "Fælleskøn"@da,
+        "Utrum"@de,
+        "Utrum"@el,
+        "Utrum"@en,
+        "Común"@es,
+        "Ühissoost"@et,
+        "Utrum"@fi,
+        "Utrum"@fr,
+        "Utrum"@ga,
+        "Zajednički rod"@hr,
+        "Utrum"@hu,
+        "Comune"@it,
+        "Bendroji"@lt,
+        "Utrum"@lv,
+        "Utrum"@mt,
+        "Gemeenschappelijk"@nl,
+        "Utrum"@pl,
+        "Comum"@pt,
+        "Comun (utrum)"@ro,
+        "Spoločný rod"@sk,
+        "Splošni spol"@sl,
+        "Utrum"@sv ;
+    skos:topConceptOf atold:grammatical-gender .
+
+<http://publications.europa.eu/resource/authority/grammatical-gender/Z> a skos:Concept ;
+    at:authority-code "Z" ;
+    at:deprecated "false" ;
+    at:op-code "Z" ;
+    at:start.use "2021-02-18" ;
+    atold:op-code "Z" ;
+    dc:identifier "Z" ;
+    skos:definition "‘No gender’ is used to mark labels in languages that do not have gender distinctions."@en ;
+    skos:inScheme atold:grammatical-gender ;
+    skos:prefLabel "Без род"@bg,
+        "Kategorie rodu neexistuje"@cs,
+        "Intet køn"@da,
+        "Kein Geschlecht"@de,
+        "Δεν υπάρχει φύλο"@el,
+        "No gender"@en,
+        "Sin género"@es,
+        "Sooline eristamine puudub"@et,
+        "Ei sukua"@fi,
+        "Sans genre"@fr,
+        "Gan inscne"@ga,
+        "Bez roda"@hr,
+        "Nyelvtani nem nélküli"@hu,
+        "Nessun genere"@it,
+        "Nėra gramatinės giminės"@lt,
+        "Nav dzimtes"@lv,
+        "Ebda ġeneru"@mt,
+        "Geen geslacht"@nl,
+        "Bez rodzaju"@pl,
+        "Sem marcação de género"@pt,
+        "Fără diferență de gen"@ro,
+        "Bez pohlavia"@sk,
+        "Brez spola"@sl,
+        "Inget genus"@sv ;
+    skos:topConceptOf atold:grammatical-gender .
+
+atold:grammatical-gender a skos:ConceptScheme ;
+    rdfs:label "Grammatical gender"@en ;
+    at:prefLabel "Grammatical gender"@en ;
+    at:table.id "grammatical-gender" ;
+    at:table.version.number "20220928-0" ;
+    owl:versionInfo "20220928-0" ;
+    skos:prefLabel "Grammatical gender"@en .
+

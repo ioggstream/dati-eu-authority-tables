@@ -1,0 +1,185 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix euvoc: <http://publications.europa.eu/ontology/euvoc#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://publications.europa.eu/resource/authority/case-report/REPORT_CASE_1> a skos:Concept ;
+    at:authority-code "REPORT_CASE_1" ;
+    at:deprecated "false" ;
+    at:op-code "REPORT_CASE_1" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "RG1" ;
+            dc:source "CJ" ] ;
+    at:start.use "2015-01-01" ;
+    atold:op-code "REPORT_CASE_1" ;
+    dc:identifier "REPORT_CASE_1" ;
+    skos:inScheme atold:case-report ;
+    skos:notation <http://publications.europa.eu/resource/authority/case-report/0e2f9f0be7a18b67760ee3288bb1c9ae> ;
+    skos:prefLabel "Общ сборник – Съд"@bg,
+        "Sbírka rozhodnutí – Soudní dvůr"@cs,
+        "Den Almindelige Samling – Domstolen"@da,
+        "Allgemeine Sammlung – Gerichtshof"@de,
+        "Γενική Συλλογή – Δικαστήριο"@el,
+        "General Reports – Court of Justice"@en,
+        "Recopilación general – Tribunal de Justicia"@es,
+        "Üldine kohtulahendite kogumik – Euroopa Kohus"@et,
+        "Oikeustapauskokoelma – Unionin tuomioistuin"@fi,
+        "Recueil général – Cour de justice"@fr,
+        "Tuarascálacha Ginearálta – an Chúirt Bhreithiúnais"@ga,
+        "Opći zbornik – Sud"@hr,
+        "Határozatok Tára általános rész – Bíróság"@hu,
+        "Raccolta generale – Corte di giustizia"@it,
+        "Bendrasis Rinkinys – Teisingumo Teismas"@lt,
+        "Vispārējais Krājums – Tiesa"@lv,
+        "Ġabra ġenerali – Il-Qorti tal-Ġustizzja"@mt,
+        "Algemene Jurisprudentie – Hof van Justitie"@nl,
+        "Ogólny Zbiór Orzeczeń – Trybunał Sprawiedliwości"@pl,
+        "Coletânea geral – Tribunal de Justiça"@pt,
+        "Repertoriul general – Curtea de Justiție"@ro,
+        "Všeobecná zbierka – Súdny dvor"@sk,
+        "Splošna zbirka odločb – Sodišče"@sl,
+        "Rättsfallssamlingens allmänna del – Domstolen"@sv ;
+    skos:topConceptOf atold:case-report .
+
+<http://publications.europa.eu/resource/authority/case-report/REPORT_CASE_2> a skos:Concept ;
+    at:authority-code "REPORT_CASE_2" ;
+    at:deprecated "false" ;
+    at:op-code "REPORT_CASE_2" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "RG2" ;
+            dc:source "CJ" ] ;
+    at:start.use "2015-01-01" ;
+    atold:op-code "REPORT_CASE_2" ;
+    dc:identifier "REPORT_CASE_2" ;
+    skos:inScheme atold:case-report ;
+    skos:notation <http://publications.europa.eu/resource/authority/case-report/53fcd57fbc69b4d4747161cc8885d6bf> ;
+    skos:prefLabel "Общ сборник – Общ съд"@bg,
+        "Sbírka rozhodnutí – Tribunál"@cs,
+        "Den Almindelige Samling – Retten"@da,
+        "Allgemeine Sammlung – Gericht"@de,
+        "Γενική Συλλογή – Γενικό Δικαστήριο"@el,
+        "General Reports – General Court"@en,
+        "Recopilación general – Tribunal General"@es,
+        "Üldine kohtulahendite kogumik – Üldkohus"@et,
+        "Oikeustapauskokoelma – Unionin yleinen tuomioistuin"@fi,
+        "Recueil général – Tribunal"@fr,
+        "Tuarascálacha Ginearálta – an Chúirt Ghinearálta"@ga,
+        "Opći zbornik – Opći sud"@hr,
+        "Határozatok Tára általános rész – Törvényszék"@hu,
+        "Raccolta generale – Tribunale"@it,
+        "Bendrasis Rinkinys – Bendrasis Teismas"@lt,
+        "Vispārīgais Krājums – Vispārējā tiesa"@lv,
+        "Ġabra ġenerali – Il-Qorti Ġenerali"@mt,
+        "Algemene Jurisprudentie – Gerecht"@nl,
+        "Ogólny Zbiór Orzeczeń – Sąd"@pl,
+        "Coletânea geral – Tribunal Geral"@pt,
+        "Repertoriul general – Tribunalul"@ro,
+        "Všeobecná zbierka – Všeobecný súd"@sk,
+        "Splošna zbirka odločb – Splošno sodišče"@sl,
+        "Rättsfallssamlingens allmänna del – Tribunalen"@sv ;
+    skos:topConceptOf atold:case-report .
+
+<http://publications.europa.eu/resource/authority/case-report/REPORT_CASE_STAFF> a skos:Concept ;
+    at:authority-code "REPORT_CASE_STAFF" ;
+    at:deprecated "false" ;
+    at:op-code "REPORT_CASE_STAFF" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "SC" ;
+            dc:source "CJ" ] ;
+    at:start.use "2005-01-01" ;
+    atold:op-code "REPORT_CASE_STAFF" ;
+    dc:identifier "REPORT_CASE_STAFF" ;
+    skos:inScheme atold:case-report ;
+    skos:notation <http://publications.europa.eu/resource/authority/case-report/c0975afa19c41bccfc39fc60c1e98ac7> ;
+    skos:prefLabel "Сборник на публичната служба"@bg,
+        "Sbírka rozhodnutí – Veřejná služba"@cs,
+        "Samling af Afgørelser i Personalesager"@da,
+        "Sammlung Öffentlicher Dienst"@de,
+        "Συλλογή Υπαλληλικών Υποθέσεων"@el,
+        "Reports of Staff Cases"@en,
+        "Recopilación de la Función Pública"@es,
+        "Avaliku teenistuse kohtulahendite kogumik"@et,
+        "Henkilöstöasioiden oikeustapauskokoelma"@fi,
+        "Recueil de la fonction publique"@fr,
+        "Tuarascálacha maidir le Cásanna Foirne"@ga,
+        "Zbornik službeničkih predmeta"@hr,
+        "Határozatok Tára közszolgálati rész"@hu,
+        "Raccolta della funzione pubblica"@it,
+        "Viešosios tarnybos rinkinys"@lt,
+        "Judikatūras krājums – Civildienesta lietas"@lv,
+        "Ġabra tas-servizz pubbliku"@mt,
+        "Jurisprudentie ambtenarenzaken"@nl,
+        "Zbiór Orzeczeń – Służba Publiczna"@pl,
+        "Coletânea da Função pública"@pt,
+        "Repertoriul funcției publice"@ro,
+        "Zbierka verejnej služby"@sk,
+        "Zbirka odločb za javne uslužbence"@sl,
+        "Rättsfallssamlingens personaldel"@sv ;
+    skos:topConceptOf atold:case-report .
+
+<http://publications.europa.eu/resource/authority/casereports/OP_DATPRO> a skos:Concept ;
+    at:authority-code "OP_DATPRO" ;
+    at:deprecated "false" ;
+    at:op-code "OP_DATPRO" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:case-report ;
+    skos:prefLabel "НЕОКОНЧАТЕЛНИ ДАННИ"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv ;
+    skos:topConceptOf atold:case-report .
+
+<http://publications.europa.eu/resource/authority/case-report/0e2f9f0be7a18b67760ee3288bb1c9ae> a euvoc:XlNotation ;
+    euvoc:startDate "2015-01-01"^^xsd:date ;
+    dct:created "2015-01-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/CJ> ;
+    rdf:value "RG1" .
+
+<http://publications.europa.eu/resource/authority/case-report/53fcd57fbc69b4d4747161cc8885d6bf> a euvoc:XlNotation ;
+    euvoc:startDate "2015-01-01"^^xsd:date ;
+    dct:created "2015-01-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/CJ> ;
+    rdf:value "RG2" .
+
+<http://publications.europa.eu/resource/authority/case-report/c0975afa19c41bccfc39fc60c1e98ac7> a euvoc:XlNotation ;
+    euvoc:startDate "2005-01-01"^^xsd:date ;
+    dct:created "2014-12-02"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/CJ> ;
+    rdf:value "SC" .
+
+atold:case-report a skos:ConceptScheme ;
+    rdfs:label "Case report"@en ;
+    at:prefLabel "Case report"@en ;
+    at:table.id "case-report" ;
+    at:table.version.number "20220316-0" ;
+    owl:versionInfo "20220316-0" ;
+    skos:prefLabel "Case report"@en .
+

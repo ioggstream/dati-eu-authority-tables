@@ -1,0 +1,243 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/continent/AFRICA> a skos:Concept ;
+    at:authority-code "AFRICA" ;
+    at:deprecated "false" ;
+    at:op-code "AFRICA" ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "AFRICA" ;
+    dc:identifier "AFRICA" ;
+    skos:inScheme atold:continent ;
+    skos:prefLabel "Африка"@bg,
+        "Afrika"@cs,
+        "Afrika"@da,
+        "Afrika"@de,
+        "Αφρική"@el,
+        "Africa"@en,
+        "África"@es,
+        "Aafrika"@et,
+        "Afrikka"@fi,
+        "Afrique"@fr,
+        "An Afraic"@ga,
+        "Afrika"@hr,
+        "Afrika"@hu,
+        "Africa"@it,
+        "Afrika"@lt,
+        "Āfrika"@lv,
+        "L-Afrika"@mt,
+        "Afrika"@nl,
+        "Afryka"@pl,
+        "África"@pt,
+        "Africa"@ro,
+        "Afrika"@sk,
+        "Afrika"@sl,
+        "Afrika"@sv .
+
+<http://publications.europa.eu/resource/authority/continent/AMERICA> a skos:Concept ;
+    at:authority-code "AMERICA" ;
+    at:deprecated "false" ;
+    at:op-code "AMERICA" ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "AMERICA" ;
+    dc:identifier "AMERICA" ;
+    skos:inScheme atold:continent ;
+    skos:prefLabel "Америка"@bg,
+        "Amerika"@cs,
+        "Amerika"@da,
+        "Amerika"@de,
+        "Αμερική"@el,
+        "America"@en,
+        "América"@es,
+        "Ameerika"@et,
+        "Amerikka"@fi,
+        "Amérique"@fr,
+        "Meiriceá"@ga,
+        "Amerika"@hr,
+        "Amerika"@hu,
+        "America"@it,
+        "Amerika"@lt,
+        "Amerika"@lv,
+        "L-Amerika"@mt,
+        "Amerika"@nl,
+        "Ameryka"@pl,
+        "América"@pt,
+        "America"@ro,
+        "Amerika"@sk,
+        "Amerika"@sl,
+        "Amerika"@sv .
+
+<http://publications.europa.eu/resource/authority/continent/ANTARCTICA> a skos:Concept ;
+    at:authority-code "ANTARCTICA" ;
+    at:deprecated "false" ;
+    at:op-code "ANTARCTICA" ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "ANTARCTICA" ;
+    dc:identifier "ANTARCTICA" ;
+    skos:inScheme atold:continent ;
+    skos:prefLabel "Антарктида"@bg,
+        "Antarktida"@cs,
+        "Antarktis"@da,
+        "Antarktis"@de,
+        "Ανταρκτική"@el,
+        "Antarctica"@en,
+        "Antártida"@es,
+        "Antarktis"@et,
+        "Etelämanner"@fi,
+        "Antarctique"@fr,
+        "Antartaice"@ga,
+        "Antarktika"@hr,
+        "Antarktisz"@hu,
+        "Antartide"@it,
+        "Antarktida"@lt,
+        "Antarktīda"@lv,
+        "L-Antartika"@mt,
+        "Antarctica"@nl,
+        "Antarktyda"@pl,
+        "Antártida"@pt,
+        "Antarctica"@ro,
+        "Antarktída"@sk,
+        "Antarktika"@sl,
+        "Antarktis"@sv .
+
+<http://publications.europa.eu/resource/authority/continent/ASIA> a skos:Concept ;
+    at:authority-code "ASIA" ;
+    at:deprecated "false" ;
+    at:op-code "ASIA" ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "ASIA" ;
+    dc:identifier "ASIA" ;
+    skos:inScheme atold:continent ;
+    skos:prefLabel "Азия"@bg,
+        "Asie"@cs,
+        "Asien"@da,
+        "Asien"@de,
+        "Ασία"@el,
+        "Asia"@en,
+        "Asia"@es,
+        "Aasia"@et,
+        "Aasia"@fi,
+        "Asie"@fr,
+        "An Áise"@ga,
+        "Azija"@hr,
+        "Ázsia"@hu,
+        "Asia"@it,
+        "Azija"@lt,
+        "Āzija"@lv,
+        "L-Asja"@mt,
+        "Azië"@nl,
+        "Azja"@pl,
+        "Ásia"@pt,
+        "Asia"@ro,
+        "Ázia"@sk,
+        "Azija"@sl,
+        "Asien"@sv .
+
+<http://publications.europa.eu/resource/authority/continent/EUROPE> a skos:Concept ;
+    at:authority-code "EUROPE" ;
+    at:deprecated "false" ;
+    at:op-code "EUROPE" ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "EUROPE" ;
+    dc:identifier "EUROPE" ;
+    skos:inScheme atold:continent ;
+    skos:prefLabel "Европа"@bg,
+        "Evropa"@cs,
+        "Europa"@da,
+        "Europa"@de,
+        "Ευρώπη"@el,
+        "Europe"@en,
+        "Europa"@es,
+        "Euroopa"@et,
+        "Eurooppa"@fi,
+        "Europe"@fr,
+        "An Eoraip"@ga,
+        "Europa"@hr,
+        "Európa"@hu,
+        "Europa"@it,
+        "Europa"@lt,
+        "Eiropa"@lv,
+        "L-Ewropa"@mt,
+        "Europa"@nl,
+        "Europa"@pl,
+        "Europa"@pt,
+        "Europa"@ro,
+        "Európa"@sk,
+        "Evropa"@sl,
+        "Europa"@sv .
+
+<http://publications.europa.eu/resource/authority/continent/OCEANIA> a skos:Concept ;
+    at:authority-code "OCEANIA" ;
+    at:deprecated "false" ;
+    at:op-code "OCEANIA" ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "OCEANIA" ;
+    dc:identifier "OCEANIA" ;
+    skos:inScheme atold:continent ;
+    skos:prefLabel "Океания"@bg,
+        "Oceánie"@cs,
+        "Oceanien"@da,
+        "Ozeanien"@de,
+        "Ωκεανία"@el,
+        "Oceania"@en,
+        "Oceanía"@es,
+        "Okeaania"@et,
+        "Oseania"@fi,
+        "Océanie"@fr,
+        "An Aigéine"@ga,
+        "Oceanija"@hr,
+        "Óceánia"@hu,
+        "Oceania"@it,
+        "Okeanija"@lt,
+        "Okeānija"@lv,
+        "L-Oċeanja"@mt,
+        "Oceanië"@nl,
+        "Oceania"@pl,
+        "Oceânia"@pt,
+        "Oceania"@ro,
+        "Oceánia"@sk,
+        "Oceanija"@sl,
+        "Oceanien"@sv .
+
+<http://publications.europa.eu/resource/authority/continent/OP_DATPRO> a skos:Concept ;
+    at:op-code "OP_DATPRO" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:continent ;
+    skos:prefLabel "НЕОКОНЧАТЕЛНИ ДАННИ"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv .
+
+atold:continent a skos:ConceptScheme ;
+    rdfs:label "Continent"@en ;
+    at:prefLabel "Continent"@en ;
+    at:table.id "continent" ;
+    at:table.version.number "20210317-0" ;
+    owl:versionInfo "20210317-0" ;
+    skos:prefLabel "Continent"@en .
+

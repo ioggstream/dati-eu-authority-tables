@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:at="http://publications.europa.eu/ontology/authority/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:atold="http://publications.europa.eu/resource/authority/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xml:base="http://publications.europa.eu/resource/authority/change-corrig-justification">
+   <skos:ConceptScheme rdf:about="http://publications.europa.eu/resource/authority/change-corrig-justification"
+                       at:table.id="change-corrig-justification"
+                       at:table.version.number="20220928-0">
+      <at:prefLabel xml:lang="en">Change corrig justification</at:prefLabel>
+      <rdfs:label xml:lang="en">Change corrig justification</rdfs:label>
+      <owl:versionInfo>20220928-0</owl:versionInfo>
+      <skos:prefLabel xml:lang="en">Change corrig justification</skos:prefLabel>
+   </skos:ConceptScheme>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/change-corrig-justification/OP_DATPRO"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Неокончателни данни</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Předběžné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Midlertidige data</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Vorläufige Daten</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Προσωρινά δεδομένα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Provisional data</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Datos provisionales</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Esialgsed andmed</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Alustavat tiedot</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Données provisoires</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Sonraí sealadacha</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Privremeni podaci</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Ideiglenes adatok</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Dati provvisori</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Laikinieji duomenys</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Provizoriski dati</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Dejta provviżorja</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Voorlopige gegevens</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Dane tymczasowe</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Dados provisórios</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Date provizorii</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Predbežné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Začasni podatki</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Tillfälliga uppgifter</skos:prefLabel>
+      <at:authority-code>OP_DATPRO</at:authority-code>
+      <at:op-code>OP_DATPRO</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>OP_DATPRO</atold:op-code>
+      <dc:identifier>OP_DATPRO</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/change-corrig-justification"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/change-corrig-justification"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/change-corrig-justification/cancel"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Анулирано обявление</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Oznámení zrušeno</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Meddelelse annulleret</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Bekanntmachung annulliert</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Ακύρωση της προκήρυξης</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Notice cancelled</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Anulación de la notificación</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Teade tühistati</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Ilmoitus peruutettu</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Avis annulé</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Fógra curtha ar ceal</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Otkazana obavijest</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Értesítés törlése</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Avviso annullato</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Pranešimas atšauktas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Paziņojums atcelts</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Avviż ikkanċellat</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Aankondiging geannuleerd</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Ogłoszenie anulowane</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Anúncio cancelado</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Notificare anulată</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Oznámenie zrušené</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Obvestilo preklicano</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Annullerat meddelande</skos:prefLabel>
+      <at:authority-code>cancel</at:authority-code>
+      <at:op-code>cancel</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>cancel</atold:op-code>
+      <dc:identifier>cancel</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/change-corrig-justification"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/change-corrig-justification"/>
+      <skos:definition xml:lang="en">The buyer has cancelled the current notice by making it null and void. It does not cancel the procedure or the lot.</skos:definition>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/change-corrig-justification/cancel-intent"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Намерение за отмяна</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Zamýšlené zrušení</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Hensigt om annullering</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Annullierung beabsichtigt</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Πρόθεση ακύρωσης</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Cancellation intention</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Intención de cancelación</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Tühistamiskatse</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Peruutusaikomus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Intention d’annuler</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Cur ar ceal beartaithe</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Planirano poništenje</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Törlési szándék</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Previsto annullamento</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Ketinimas atšaukti pirkimą</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Atcelšanas nodoms</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Intenzjoni tal-kanċellazzjoni</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Annulering voorgenomen</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Zamiar unieważnienia</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Intenção de cancelamento</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Intenție de anulare</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Úmysel zrušiť</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Nameravan preklic</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Avsikt att ställa in</skos:prefLabel>
+      <at:authority-code>cancel-intent</at:authority-code>
+      <at:op-code>cancel-intent</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>cancel-intent</atold:op-code>
+      <dc:identifier>cancel-intent</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/change-corrig-justification"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/change-corrig-justification"/>
+      <skos:definition xml:lang="en">The buyer intends to cancel the original notice. This enables the implementation of European Court of Justice case C-81/98 points 37-42.</skos:definition>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/change-corrig-justification/cor-buy"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Поправка на грешки, допуснати от купувача</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Oprava chyb kupujícího</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Berigtigelse – køber</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Korrektur – Beschaffer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Διόρθωση λαθών αγοραστή</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Buyer correction</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Corrección comprador</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Hankija vea parandamine</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Ostajan virheen korjaaminen</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Correction par l’acheteur</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Ceartúchán - ceannaitheoir</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Ispravak pogreške kupca</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Ajánlatkérő szervezet általi hiba javítása</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Rettifica errore committente</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Pirkėjo klaidų ištaisymas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Pircēja kļūdas izlabošana</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Korrezzjoni tax-xerrej</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Correctie koper</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Korekta nabywcy</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Correção pelo adquirente</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Corectare cumpărător</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Oprava chyby kupujúceho</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Popravek kupca</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Rättelse av upphandlare</skos:prefLabel>
+      <at:authority-code>cor-buy</at:authority-code>
+      <at:op-code>cor-buy</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>cor-buy</atold:op-code>
+      <dc:identifier>cor-buy</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/change-corrig-justification"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/change-corrig-justification"/>
+      <skos:definition xml:lang="en">Correction of one or more mistakes originally made by the buyer.</skos:definition>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/change-corrig-justification/cor-esen"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Поправка на грешки, допуснати от платформата eSender</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Oprava chyb eSendera</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Berigtigelse – eSender</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Korrektur – eSender</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Διόρθωση λαθών του συστήματος eSender</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">eSender correction</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Corrección eSender</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Süsteemi eSender vea parandamine</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">eSender-virheen korjaaminen</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Correction par l’eSender</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Ceartúchán - eSender</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Ispravak pogreške sustava eSender</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">eSender hiba javítása</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Rettifica errore eSender</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">E. formų siuntėjo klaidų ištaisymas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">E-sūtītāja kļūdas izlabošana</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Korrezzjoni tal-mezz li bih jintbagħtu l-avviżi b’mod elettroniku</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Correctie eSender</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Korekta eSendera</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Correção pelo eSender</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Corectare eSender</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Oprava chyby eSendera</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Popravek sistema eSender</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">eSender-rättelse</skos:prefLabel>
+      <at:authority-code>cor-esen</at:authority-code>
+      <at:op-code>cor-esen</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>cor-esen</atold:op-code>
+      <dc:identifier>cor-esen</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/change-corrig-justification"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/change-corrig-justification"/>
+      <skos:definition xml:lang="en">Correction of one or more mistakes originally made by the eSender.</skos:definition>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/change-corrig-justification/cor-pub"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Поправка на грешки, допуснати от издателя</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Oprava chyb vydavatele</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Berigtigelse – udgiver</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Korrektur – Veröffentlichung</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Διόρθωση λαθών εκδότη</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Publisher correction</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Corrección encargado publicación</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Avaldaja vea parandamine</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Julkaisijan virheen korjaaminen</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Correction par l’éditeur</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Ceartúchán - foilsitheoir</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Ispravak pogreške izdavača</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Közzétevői hiba javítása</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Rettifica errore editore</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Skelbėjo klaidų ištaisymas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Publicētāja kļūdas izlabošana</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Korrezzjoni tal-pubblikatur</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Correctie platform voor bekendmaking</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Korekta publikującego</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Correção pelo editor</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Corectare editor</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Oprava chyby vydavateľa</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Popravek objavitelja</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Rättelse av utgivare</skos:prefLabel>
+      <at:authority-code>cor-pub</at:authority-code>
+      <at:op-code>cor-pub</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>cor-pub</atold:op-code>
+      <dc:identifier>cor-pub</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/change-corrig-justification"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/change-corrig-justification"/>
+      <skos:definition xml:lang="en">Correction of one or more mistakes originally made by the publisher.</skos:definition>
+      <skos:scopeNote xml:lang="en">A publisher is, for example, Tenders Electronic Daily (TED).</skos:scopeNote>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/change-corrig-justification/info-release"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Информацията вече е налична</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Informace jsou nyní k dispozici</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Der foreligger nu oplysninger</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Informationen sind jetzt verfügbar</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Οι πληροφορίες είναι πλέον διαθέσιμες</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Information now available</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Información disponible ahora</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Teave on nüüd kättesaadav</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Nyt saatavilla olevat tiedot</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Informations désormais disponibles</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Eolas ar fáil anois</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Sada dostupne informacije</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Az információk már rendelkezésre állnak</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Informazioni ora disponibili</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Dabar turima informacija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Informācija tagad ir pieejama</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">L-informazzjoni issa hija disponibbli</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Informatie nu beschikbaar</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Obecnie dostępne informacje</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Informações agora disponíveis</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Informații disponibile acum</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Informácie sú teraz k dispozícii</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Informacije so zdaj na voljo</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Information nu tillgänglig</skos:prefLabel>
+      <at:authority-code>info-release</at:authority-code>
+      <at:op-code>info-release</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>info-release</atold:op-code>
+      <dc:identifier>info-release</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/change-corrig-justification"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/change-corrig-justification"/>
+      <skos:definition xml:lang="en">Publication of information that was originally postponed for reasons of law enforcement, commercial interests of an economic operator, fair competition or other public interest.</skos:definition>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/change-corrig-justification/update-add"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Актуализирана информация</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Informace aktualizovány</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Ajourførte oplysninger</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Aktualisierte Informationen</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Ενημερωμένες πληροφορίες</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Information updated</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Información actualizada</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Teave ajakohastatud</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Ajantasaiset tiedot</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Mise à jour d’informations</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Faisnéis nuashonraithe</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Ažurirane informacije</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Frissített információ</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Aggiornamento informazioni</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Atnaujinta informacija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Informācija atjaunināta</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Informazzjoni aġġornata</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Informatie bijgewerkt</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Aktualizacja informacji</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Informações atualizadas</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Informații actualizate</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Aktualizované informácie</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Posodobitev informacij</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Information uppdaterad</skos:prefLabel>
+      <at:authority-code>update-add</at:authority-code>
+      <at:op-code>update-add</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>update-add</atold:op-code>
+      <dc:identifier>update-add</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/change-corrig-justification"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/change-corrig-justification"/>
+      <skos:definition xml:lang="en">The buyer has updated or added information.</skos:definition>
+   </skos:Concept>
+</rdf:RDF>

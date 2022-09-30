@@ -1,0 +1,521 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/file-status/FINAL> a skos:Concept ;
+    at:authority-code "FINAL" ;
+    at:deprecated "false" ;
+    at:op-code "FINAL" ;
+    at:start.use "2022-09-28" ;
+    atold:op-code "FINAL" ;
+    dc:identifier "FINAL" ;
+    skos:definition "Final means a file that has been decided and stands in a stable version."@en ;
+    skos:inScheme atold:file-status ;
+    skos:prefLabel "Final"@en ;
+    skos:topConceptOf atold:file-status .
+
+<http://publications.europa.eu/resource/authority/file-status/OP_DATPRO> a skos:Concept ;
+    at:authority-code "OP_DATPRO" ;
+    at:deprecated "false" ;
+    at:op-code "OP_DATPRO" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:file-status ;
+    skos:prefLabel "Неокончателни данни"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv ;
+    skos:topConceptOf atold:file-status .
+
+<http://publications.europa.eu/resource/authority/file-status/PROC_COMPLETED> a skos:Concept ;
+    at:authority-code "PROC_COMPLETED" ;
+    at:deprecated "false" ;
+    at:op-code "PROC_COMPLETED" ;
+    at:start.use "2018-12-12" ;
+    atold:op-code "PROC_COMPLETED" ;
+    dc:identifier "PROC_COMPLETED" ;
+    skos:definition "Completed procedure means that the proposed legal act was adopted and the law-making procedure was closed."@en ;
+    skos:inScheme atold:file-status ;
+    skos:prefLabel "Приключила процедура"@bg,
+        "Dokončený postup"@cs,
+        "Afsluttet procedure"@da,
+        "Abgeschlossenes Verfahren"@de,
+        "Ολοκληρωθείσα διαδικασία"@el,
+        "Completed procedure"@en,
+        "Procedimiento concluido"@es,
+        "Lõpetatud menetlus"@et,
+        "Päätökseen saatettu menettely"@fi,
+        "Procédure achevée"@fr,
+        "Nós imeachta i gcrích"@ga,
+        "Završeni postupak"@hr,
+        "Befejezett eljárás"@hu,
+        "Procedura completata"@it,
+        "Baigta procedūra"@lt,
+        "Pabeigta procedūra"@lv,
+        "Proċedura lesta"@mt,
+        "Voltooide procedure"@nl,
+        "Procedura zakończona"@pl,
+        "Procedimento concluído"@pt,
+        "Procedură finalizată"@ro,
+        "Dokončený postup"@sk,
+        "Zaključen postopek"@sl,
+        "Avslutat förfarande"@sv ;
+    skos:topConceptOf atold:file-status .
+
+<http://publications.europa.eu/resource/authority/file-status/PROC_PENDING> a skos:Concept ;
+    at:authority-code "PROC_PENDING" ;
+    at:deprecated "false" ;
+    at:op-code "PROC_PENDING" ;
+    at:start.use "2018-12-12" ;
+    atold:op-code "PROC_PENDING" ;
+    dc:identifier "PROC_PENDING" ;
+    skos:definition "Pending procedure means that there is an ongoing lawmaking procedure initiated by a proposal (or draft) but the proposed act has not yet been adopted."@en ;
+    skos:inScheme atold:file-status ;
+    skos:prefLabel "Висяща процедура"@bg,
+        "Probíhající postup"@cs,
+        "Igangværende procedure"@da,
+        "Laufendes Verfahren"@de,
+        "Εκκρεμής διαδικασία"@el,
+        "Pending procedure"@en,
+        "Procedimiento pendiente"@es,
+        "Pooleliolev menetlus"@et,
+        "Vireillä oleva menettely"@fi,
+        "Procédure en cours"@fr,
+        "Nós imeachta ar feitheamh"@ga,
+        "Postupak u tijeku"@hr,
+        "Folyamatban levő eljárás"@hu,
+        "Procedura in sospeso"@it,
+        "Nebaigta procedūra"@lt,
+        "Notiekoša procedūra"@lv,
+        "Proċedura pendenti"@mt,
+        "Lopende procedure"@nl,
+        "Procedura w toku"@pl,
+        "Procedimento pendente"@pt,
+        "Procedură în curs"@ro,
+        "Prebiehajúci postup"@sk,
+        "Postopek v teku"@sl,
+        "Pågående förfarande"@sv ;
+    skos:topConceptOf atold:file-status .
+
+<http://publications.europa.eu/resource/authority/file-status/PROC_WITHDRAWN> a skos:Concept ;
+    at:authority-code "PROC_WITHDRAWN" ;
+    at:deprecated "false" ;
+    at:op-code "PROC_WITHDRAWN" ;
+    at:start.use "2018-12-12" ;
+    atold:op-code "PROC_WITHDRAWN" ;
+    dc:identifier "PROC_WITHDRAWN" ;
+    skos:definition "Withdrawn procedure means that a procedure was launched but no agreement was reached between the EU institutions on a proposed act, and therefore, the procedure was stopped."@en ;
+    skos:inScheme atold:file-status ;
+    skos:prefLabel "Оттеглена процедура"@bg,
+        "Zastavený postup"@cs,
+        "Tilbagetrukket procedure"@da,
+        "Zurückgezogenes Verfahren"@de,
+        "Ανακληθείσα διαδικασία"@el,
+        "Withdrawn procedure"@en,
+        "Procedimiento retirado"@es,
+        "Tagasivõetud menetlus"@et,
+        "Keskeytetty menettely"@fi,
+        "Procédure retirée"@fr,
+        "Nós imeachta aistarraingthe"@ga,
+        "Povučeni postupak"@hr,
+        "Visszavont eljárás"@hu,
+        "Procedura ritirata"@it,
+        "Atšaukta procedūra"@lt,
+        "Atsaukta procedūra"@lv,
+        "Proċedura rtirata"@mt,
+        "Ingetrokken procedure"@nl,
+        "Procedura wycofana"@pl,
+        "Procedimento retirado"@pt,
+        "Procedură retrasă"@ro,
+        "Zastavený postup"@sk,
+        "Umaknjen postopek"@sl,
+        "Tillbakadraget förfarande"@sv ;
+    skos:topConceptOf atold:file-status .
+
+<http://publications.europa.eu/resource/authority/file-status/PROP_ACCEPTED> a skos:Concept ;
+    at:authority-code "PROP_ACCEPTED" ;
+    at:deprecated "false" ;
+    at:op-code "PROP_ACCEPTED" ;
+    at:start.use "2021-03-17" ;
+    atold:op-code "PROP_ACCEPTED" ;
+    dc:identifier "PROP_ACCEPTED" ;
+    skos:definition "Accepted proposal (or draft) means that the proposed legal act was adopted. The adopted legal act has to be published in the Official Journal in order to enter into force."@en ;
+    skos:inScheme atold:file-status ;
+    skos:prefLabel "Прието предложение"@bg,
+        "Přijatý návrh"@cs,
+        "Vedtaget forslag"@da,
+        "Angenommener Vorschlag"@de,
+        "Εγκριθείσα πρόταση"@el,
+        "Accepted proposal"@en,
+        "Propuesta aceptada"@es,
+        "Vastuvõetud ettepanek"@et,
+        "Hyväksytty ehdotus"@fi,
+        "Proposition acceptée"@fr,
+        "Togra ar glacadh leis"@ga,
+        "Prihvaćeni prijedlog"@hr,
+        "Elfogadott javaslat"@hu,
+        "Proposta accettata"@it,
+        "Priimtas pasiūlymas"@lt,
+        "Akceptēts priekšlikums"@lv,
+        "Proposta aċċettata"@mt,
+        "Aanvaard voorstel"@nl,
+        "Wniosek zaakceptowany"@pl,
+        "Proposta aceite"@pt,
+        "Propunere acceptată"@ro,
+        "Prijatý návrh"@sk,
+        "Sprejet predlog"@sl,
+        "Godtaget förslag"@sv ;
+    skos:topConceptOf atold:file-status .
+
+<http://publications.europa.eu/resource/authority/file-status/PROP_ACCEPTED_PART> a skos:Concept ;
+    at:authority-code "PROP_ACCEPTED_PART" ;
+    at:deprecated "false" ;
+    at:op-code "PROP_ACCEPTED_PART" ;
+    at:start.use "2021-03-17" ;
+    atold:op-code "PROP_ACCEPTED_PART" ;
+    dc:identifier "PROP_ACCEPTED_PART" ;
+    skos:definition "Partially accepted proposal means that a part of the proposed act was adopted but the final legal act does not contain all the provisions present in the proposal initially submitted because no agreement was reached on the entire act."@en ;
+    skos:inScheme atold:file-status ;
+    skos:prefLabel "Частично прието предложение"@bg,
+        "Částečně přijatý návrh"@cs,
+        "Delvist vedtaget forslag"@da,
+        "Teilweise angenommener Vorschlag"@de,
+        "Μερικώς εγκριθείσα πρόταση"@el,
+        "Partially accepted proposal"@en,
+        "Propuesta parcialmente aceptada"@es,
+        "Osaliselt vastuvõetud ettepanek"@et,
+        "Osittain hyväksytty ehdotus"@fi,
+        "Proposition partiellement acceptée"@fr,
+        "Togra ar glacadh go páirteach leis"@ga,
+        "Djelomično prihvaćeni prijedlog"@hr,
+        "Részben elfogadott javaslat"@hu,
+        "Proposta parzialmente accettata"@it,
+        "Iš dalies priimtas pasiūlymas"@lt,
+        "Daļēji akceptēts priekšlikums"@lv,
+        "Proposta parzjalment aċċettata"@mt,
+        "Gedeeltelijk aanvaard voorstel"@nl,
+        "Wniosek częściowo zaakceptowany"@pl,
+        "Proposta parcialmente aceite"@pt,
+        "Propunere parțial acceptată"@ro,
+        "Čiastočne prijatý návrh"@sk,
+        "Delno sprejet predlog"@sl,
+        "Partiellt godtaget förslag"@sv ;
+    skos:topConceptOf atold:file-status .
+
+<http://publications.europa.eu/resource/authority/file-status/PROP_ADOPTED_PART> a skos:Concept ;
+    at:authority-code "PROP_ADOPTED_PART" ;
+    at:deprecated "true" ;
+    at:end.use "2021-03-16" ;
+    at:op-code "PROP_ADOPTED_PART" ;
+    at:start.use "2018-12-12" ;
+    atold:op-code "PROP_ADOPTED_PART" ;
+    dc:identifier "PROP_ADOPTED_PART" ;
+    skos:definition "Partially adopted proposal means that a part of the proposed act was adopted but the final legal act does not contain all the provisions present in the proposal initially submitted because no agreement was reached on the entire act."@en ;
+    skos:inScheme atold:file-status ;
+    skos:prefLabel "Частично прието предложение"@bg,
+        "Částečně přijatý návrh"@cs,
+        "Delvist vedtaget forslag"@da,
+        "Teilweise angenommener Vorschlag"@de,
+        "Μερικώς εγκριθείσα πρόταση"@el,
+        "Partially adopted proposal"@en,
+        "Propuesta parcialmente adoptada"@es,
+        "Osaliselt vastu võetud ettepanek"@et,
+        "Osittain hyväksytty ehdotus"@fi,
+        "Proposition partiellement adoptée"@fr,
+        "Togra glactha go páirteach"@ga,
+        "Djelomično doneseni prijedlog"@hr,
+        "Részben elfogadott javaslat"@hu,
+        "Proposta parzialmente adottata"@it,
+        "Iš dalies priimtas pasiūlymas"@lt,
+        "Daļēji pieņemts priekšlikums"@lv,
+        "Proposta parzjalment adottata"@mt,
+        "Gedeeltelijk aangenomen voorstel"@nl,
+        "Wniosek częściowo przyjęty"@pl,
+        "Proposta parcialmente adotada"@pt,
+        "Propunere parțial adoptată"@ro,
+        "Čiastočne prijatý návrh"@sk,
+        "Delno sprejet predlog"@sl,
+        "Delvis antaget förslag"@sv ;
+    skos:topConceptOf atold:file-status .
+
+<http://publications.europa.eu/resource/authority/file-status/PROP_PENDING> a skos:Concept ;
+    at:authority-code "PROP_PENDING" ;
+    at:deprecated "true" ;
+    at:end.use "2021-03-16" ;
+    at:op-code "PROP_PENDING" ;
+    at:start.use "2018-12-12" ;
+    atold:op-code "PROP_PENDING" ;
+    dc:identifier "PROP_PENDING" ;
+    skos:definition "Pending proposal (or draft) means that there is a proposal (or draft) adopted by the Commission which is currently subject to a law-making procedure but the proposed act has not yet been adopted."@en ;
+    skos:inScheme atold:file-status ;
+    skos:prefLabel "Предложение в процес на разглеждане"@bg,
+        "Projednávaný návrh"@cs,
+        "Eksisterende forslag"@da,
+        "Anhängiger Vorschlag"@de,
+        "Εκκρεμής πρόταση"@el,
+        "Pending proposal"@en,
+        "Propuesta pendiente"@es,
+        "Menetluses olev ettepanek"@et,
+        "Vireillä oleva ehdotus"@fi,
+        "Proposition en cours d’examen"@fr,
+        "Togra ar feitheamh"@ga,
+        "Prijedlog u tijeku"@hr,
+        "Folyamatban lévő javaslat"@hu,
+        "Proposta in sospeso"@it,
+        "Dar nepriimtas pasiūlymas"@lt,
+        "Izskatāms priekšlikums"@lv,
+        "Proposta pendenti"@mt,
+        "Hangend voorstel"@nl,
+        "Wniosek w toku"@pl,
+        "Proposta pendente"@pt,
+        "Propunere în curs"@ro,
+        "Prerokúvaný návrh"@sk,
+        "Predlog v obravnavi"@sl,
+        "Pågående förslag"@sv ;
+    skos:topConceptOf atold:file-status .
+
+<http://publications.europa.eu/resource/authority/file-status/PROP_REJECTED> a skos:Concept ;
+    at:authority-code "PROP_REJECTED" ;
+    at:deprecated "false" ;
+    at:op-code "PROP_REJECTED" ;
+    at:start.use "2021-03-17" ;
+    atold:op-code "PROP_REJECTED" ;
+    dc:identifier "PROP_REJECTED" ;
+    skos:definition "If a legislative proposal is rejected at any stage of the procedure, or the Parliament and the Council cannot reach a compromise, the proposal is not adopted and the procedure is ended. A new procedure can start only with a new proposal from the Commission."@en ;
+    skos:inScheme atold:file-status ;
+    skos:prefLabel "Отхвърлено предложение"@bg,
+        "Zamítnutý návrh"@cs,
+        "Forkastet forslag"@da,
+        "Abgelehnter Vorschlag"@de,
+        "Απορριφθείσα πρόταση"@el,
+        "Rejected proposal"@en,
+        "Propuesta rechazada"@es,
+        "Tagasilükatud ettepanek"@et,
+        "Hylätty ehdotus"@fi,
+        "Proposition rejetée"@fr,
+        "Togra diúltaithe"@ga,
+        "Odbijeni prijedlog"@hr,
+        "Elutasított javaslat"@hu,
+        "Proposta respinta"@it,
+        "Atmestas pasiūlymas"@lt,
+        "Noraidīts priekšlikums"@lv,
+        "Proposta miċħuda"@mt,
+        "Verworpen voorstel"@nl,
+        "Wniosek odrzucony"@pl,
+        "Proposta rejeitada"@pt,
+        "Propunere respinsă"@ro,
+        "Zamietnutý návrh"@sk,
+        "Zavrnjen predlog"@sl,
+        "Avvisat förslag"@sv ;
+    skos:topConceptOf atold:file-status .
+
+<http://publications.europa.eu/resource/authority/file-status/PROP_SUBMITTED> a skos:Concept ;
+    at:authority-code "PROP_SUBMITTED" ;
+    at:deprecated "false" ;
+    at:op-code "PROP_SUBMITTED" ;
+    at:start.use "2021-03-17" ;
+    atold:op-code "PROP_SUBMITTED" ;
+    dc:identifier "PROP_SUBMITTED" ;
+    skos:definition "Submitted proposal (or draft) means that there is a proposal (or draft) adopted by the Commission which is currently subject to a law-making procedure but the proposed act has not yet been adopted."@en ;
+    skos:inScheme atold:file-status ;
+    skos:prefLabel "Внесено предложение"@bg,
+        "Předložený návrh"@cs,
+        "Fremsat forslag"@da,
+        "Eingereichter Vorschlag"@de,
+        "Υποβληθείσα πρόταση"@el,
+        "Submitted proposal"@en,
+        "Propuesta presentada"@es,
+        "Esitatud ettepanek"@et,
+        "Annettu ehdotus"@fi,
+        "Proposition présentée"@fr,
+        "Togra tíolactha"@ga,
+        "Podneseni prijedlog"@hr,
+        "Benyújtott javaslat"@hu,
+        "Proposta presentata"@it,
+        "Pateiktas pasiūlymas"@lt,
+        "Iesniegts priekšlikums"@lv,
+        "Proposti sottomessi"@mt,
+        "Ingediend voorstel"@nl,
+        "Wniosek złożony"@pl,
+        "Proposta apresentada"@pt,
+        "Propunere prezentată"@ro,
+        "Predložený návrh"@sk,
+        "Predložen predlog"@sl,
+        "Inlämnat förslag"@sv ;
+    skos:topConceptOf atold:file-status .
+
+<http://publications.europa.eu/resource/authority/file-status/PROP_WITHDRAWN> a skos:Concept ;
+    at:authority-code "PROP_WITHDRAWN" ;
+    at:deprecated "false" ;
+    at:op-code "PROP_WITHDRAWN" ;
+    at:start.use "2018-12-12" ;
+    atold:op-code "PROP_WITHDRAWN" ;
+    dc:identifier "PROP_WITHDRAWN" ;
+    skos:definition "Withdrawn proposal (or draft) means that no agreement was reached between the EU institutions on a proposed act, and therefore, the proposal was taken back by the Commission and the proposed act is deemed not to have been adopted."@en ;
+    skos:inScheme atold:file-status ;
+    skos:prefLabel "Оттеглено предложение"@bg,
+        "Stažený návrh"@cs,
+        "Tilbagetrukket forslag"@da,
+        "Zurückgezogener Vorschlag"@de,
+        "Αποσυρθείσα πρόταση"@el,
+        "Withdrawn proposal"@en,
+        "Propuesta retirada"@es,
+        "Tagasivõetud ettepanek"@et,
+        "Peruutettu ehdotus"@fi,
+        "Proposition retirée"@fr,
+        "Togra aistarraingthe"@ga,
+        "Povučeni prijedlog"@hr,
+        "Visszavont javaslat"@hu,
+        "Proposta ritirata"@it,
+        "Atsiimtas pasiūlymas"@lt,
+        "Atsaukts priekšlikums"@lv,
+        "Proposta rtirata"@mt,
+        "Ingetrokken voorstel"@nl,
+        "Wniosek wycofany"@pl,
+        "Proposta retirada"@pt,
+        "Propunere retrasă"@ro,
+        "Stiahnutý návrh"@sk,
+        "Umaknjen predlog"@sl,
+        "Tillbakadraget förslag"@sv ;
+    skos:topConceptOf atold:file-status .
+
+<http://publications.europa.eu/resource/authority/file-status/PROP_WITHDRAWN_PART> a skos:Concept ;
+    at:authority-code "PROP_WITHDRAWN_PART" ;
+    at:deprecated "false" ;
+    at:op-code "PROP_WITHDRAWN_PART" ;
+    at:start.use "2018-12-12" ;
+    atold:op-code "PROP_WITHDRAWN_PART" ;
+    dc:identifier "PROP_WITHDRAWN_PART" ;
+    skos:definition "Partially withdrawn proposal means that a part of the proposal as it was initially submitted was withdrawn by the Commission during the law-making procedure."@en ;
+    skos:inScheme atold:file-status ;
+    skos:prefLabel "Частично оттеглено предложение"@bg,
+        "Částečně stažený návrh"@cs,
+        "Delvist tilbagetrukket forslag"@da,
+        "Teilweise zurückgezogener Vorschlag"@de,
+        "Μερικώς αποσυρθείσα πρόταση"@el,
+        "Partially withdrawn proposal"@en,
+        "Propuesta parcialmente retirada"@es,
+        "Osaliselt tagasi võetud ettepanek"@et,
+        "Osittain peruutettu ehdotus"@fi,
+        "Proposition partiellement retirée"@fr,
+        "Togra aistarraingthe go páirteach"@ga,
+        "Djelomično povučeni prijedlog"@hr,
+        "Részben visszavont javaslat"@hu,
+        "Proposta parzialmente ritirata"@it,
+        "Iš dalies atsiimtas pasiūlymas"@lt,
+        "Daļēji atsaukts priekšlikums"@lv,
+        "Proposta parzjalment irtirata"@mt,
+        "Gedeeltelijk ingetrokken voorstel"@nl,
+        "Wniosek częściowo wycofany"@pl,
+        "Proposta parcialmente retirada"@pt,
+        "Propunere parțial retrasă"@ro,
+        "Čiastočne stiahnutý návrh"@sk,
+        "Delno umaknjen predlog"@sl,
+        "Delvis tillbakadraget förslag"@sv ;
+    skos:topConceptOf atold:file-status .
+
+<http://publications.europa.eu/resource/authority/file-status/PROVISIONAL> a skos:Concept ;
+    at:authority-code "PROVISIONAL" ;
+    at:deprecated "false" ;
+    at:op-code "PROVISIONAL" ;
+    at:start.use "2022-09-28" ;
+    atold:op-code "PROVISIONAL" ;
+    dc:identifier "PROVISIONAL" ;
+    skos:definition "Provisional means a file that is given for the present time but is likely to change."@en ;
+    skos:inScheme atold:file-status ;
+    skos:prefLabel "Provisional"@en ;
+    skos:topConceptOf atold:file-status .
+
+<http://publications.europa.eu/resource/authority/file-status/REVISED> a skos:Concept ;
+    at:authority-code "REVISED" ;
+    at:deprecated "false" ;
+    at:op-code "REVISED" ;
+    at:start.use "2022-09-28" ;
+    atold:op-code "REVISED" ;
+    dc:identifier "REVISED" ;
+    skos:definition "Revised means a file that has been changed in order to improve it."@en ;
+    skos:inScheme atold:file-status ;
+    skos:prefLabel "Revised"@en ;
+    skos:topConceptOf atold:file-status .
+
+<http://publications.europa.eu/resource/authority/file-status/ADOPTED> a skos:Concept ;
+    at:authority-code "ADOPTED" ;
+    at:deprecated "false" ;
+    at:op-code "ADOPTED" ;
+    at:start.use "2022-09-28" ;
+    atold:op-code "ADOPTED" ;
+    dc:identifier "ADOPTED" ;
+    skos:definition "Adopted means a file that has been voted or approved."@en ;
+    skos:inScheme atold:file-status ;
+    skos:narrower <http://publications.europa.eu/resource/authority/file-status/PROP_ADOPTED> ;
+    skos:prefLabel "Adopted"@en ;
+    skos:topConceptOf atold:file-status .
+
+<http://publications.europa.eu/resource/authority/file-status/PROP_ADOPTED> a skos:Concept ;
+    at:authority-code "PROP_ADOPTED" ;
+    at:deprecated "true" ;
+    at:end.use "2021-03-16" ;
+    at:op-code "PROP_ADOPTED" ;
+    at:start.use "2018-12-12" ;
+    atold:op-code "PROP_ADOPTED" ;
+    dc:identifier "PROP_ADOPTED" ;
+    skos:broader <http://publications.europa.eu/resource/authority/file-status/ADOPTED> ;
+    skos:definition "Adopted proposal (or draft) means that the proposed legal act was adopted. The adopted legal act has to be published in the Official Journal in order to enter into force."@en ;
+    skos:inScheme atold:file-status ;
+    skos:prefLabel "Прието предложение"@bg,
+        "Přijatý návrh"@cs,
+        "Vedtaget forslag"@da,
+        "Angenommener Vorschlag"@de,
+        "Εγκριθείσα πρόταση"@el,
+        "Adopted proposal"@en,
+        "Propuesta adoptada"@es,
+        "Vastuvõetud ettepanek"@et,
+        "Hyväksytty ehdotus"@fi,
+        "Proposition adoptée"@fr,
+        "Togra glactha"@ga,
+        "Doneseni prijedlog"@hr,
+        "Elfogadott javaslat"@hu,
+        "Proposta adottata"@it,
+        "Priimtas pasiūlymas"@lt,
+        "Pieņemts priekšlikums"@lv,
+        "Proposta adottata"@mt,
+        "Aangenomen voorstel"@nl,
+        "Wniosek przyjęty"@pl,
+        "Proposta adotada"@pt,
+        "Propunerea adoptată"@ro,
+        "Prijatý návrh"@sk,
+        "Sprejet predlog"@sl,
+        "Antaget förslag"@sv .
+
+atold:file-status a skos:ConceptScheme ;
+    rdfs:label "File status"@en ;
+    at:prefLabel "File status"@en ;
+    at:table.id "file-status" ;
+    at:table.version.number "20220928-0" ;
+    owl:versionInfo "20220928-0" ;
+    skos:prefLabel "File status"@en .
+

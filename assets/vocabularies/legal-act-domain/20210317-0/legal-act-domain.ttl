@@ -1,0 +1,466 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/legal-act-domain/CFSP> a skos:Concept ;
+    at:authority-code "CFSP" ;
+    at:deprecated "false" ;
+    at:op-code "CFSP" ;
+    at:start.use "1993-11-01" ;
+    atold:op-code "CFSP" ;
+    dc:identifier "CFSP" ;
+    skos:altLabel "Oбща външна политика и политика на сигурност"@bg,
+        "Společná zahraniční a bezpečnostní politika"@cs,
+        "Den fælles udenrigs- og sikkerhedspolitik"@da,
+        "Gemeinsame Außen- und Sicherheitspolitik"@de,
+        "Κοινή εξωτερική πολιτική και πολιτική ασφαλείας"@el,
+        "Common foreign and security policy"@en,
+        "Política Exterior y de Seguridad Común"@es,
+        "Ühine välis- ja julgeolekupoliitika"@et,
+        "Yhteinen ulko- ja turvallisuuspolitiikka"@fi,
+        "Politique étrangère et de sécurité commune"@fr,
+        "Comhbheartas eachtrach agus slándála"@ga,
+        "Zajednička vanjska i sigurnosna politika"@hr,
+        "Közös kül- és biztonságpolitika"@hu,
+        "Politica estera e di sicurezza comune"@it,
+        "Bendra užsienio ir saugumo politika"@lt,
+        "Kopējā ārpolitika un drošības politika"@lv,
+        "Il-politika estera u ta’ sigurtà komuni"@mt,
+        "Gemeenschappelijk buitenlands en veiligheidsbeleid"@nl,
+        "Wspólna polityka zagraniczna i bezpieczeństwa"@pl,
+        "Política externa e de segurança comum"@pt,
+        "Politica externă și de securitate comună"@ro,
+        "Spoločná zahraničná a bezpečnostná politika"@sk,
+        "Skupna zunanja in varnostna politika"@sl,
+        "Gemensamma utrikes- och säkerhetspolitiken"@sv ;
+    skos:definition "As one of the three parts in a string identifying a legal act, the domain CFSF refers to Common foreign and security policy as set out in the Treaty on European Union signed in 1992 (Treaty of Maastricht). CFSP entails EU operational action required by the international situation by the EU using national and EU resources in order to attain specific objectives set by the Council. This domain was introduced on 1 November 1993 and is still current."@en ;
+    skos:inScheme atold:legal-act-domain ;
+    skos:prefLabel "ОВППС"@bg,
+        "SZBP"@cs,
+        "FUSP"@da,
+        "GASP"@de,
+        "ΚΕΠΠΑ"@el,
+        "CFSP"@en,
+        "PESC"@es,
+        "ÜVJP"@et,
+        "YUTP"@fi,
+        "PESC"@fr,
+        "CBES"@ga,
+        "ZVSP"@hr,
+        "KKBP"@hu,
+        "PESC"@it,
+        "BUSP"@lt,
+        "KĀDP"@lv,
+        "PESK"@mt,
+        "GBVB"@nl,
+        "WPZiB"@pl,
+        "PESC"@pt,
+        "PESC"@ro,
+        "SZBP"@sk,
+        "SZVP"@sl,
+        "Gusp"@sv ;
+    skos:topConceptOf atold:legal-act-domain .
+
+<http://publications.europa.eu/resource/authority/legal-act-domain/EC> a skos:Concept ;
+    at:authority-code "EC" ;
+    at:deprecated "true" ;
+    at:end.use "2009-11-30" ;
+    at:op-code "EC" ;
+    at:start.use "1993-11-01" ;
+    atold:op-code "EC" ;
+    dc:identifier "EC" ;
+    skos:altLabel "Европейски общности"@bg,
+        "Evropská společenství"@cs,
+        "De Europæiske Fællesskaber"@da,
+        "Europäische Gemeinschaften"@de,
+        "Ευρωπαϊκές Κοινότητες"@el,
+        "European Communities"@en,
+        "Comunidades Europeas"@es,
+        "Euroopa ühendused"@et,
+        "Euroopan yhteisöt"@fi,
+        "Communautés européennes"@fr,
+        "Na Comhphobail Eorpacha"@ga,
+        "Europske zajednice"@hr,
+        "Európai Közösségek"@hu,
+        "Comunità europee"@it,
+        "Europos Bendrijos"@lt,
+        "Eiropas Kopienas"@lv,
+        "Komunitajiet Ewropej"@mt,
+        "Europese Gemeenschappen"@nl,
+        "Wspólnoty Europejskie"@pl,
+        "Comunidades Europeias"@pt,
+        "Comunitățile Europene"@ro,
+        "Európske spoločenstvá"@sk,
+        "Evropske skupnosti"@sl,
+        "Europeiska gemenskaperna"@sv ;
+    skos:definition "As one of the three parts in a string identifying a legal act, the domain EC refers to the European Communities as set out in the Treaty on European Union signed in 1992 (Treaty of Maastricht). This treaty opened a new stage in the European integration with political integration and three pillars consisting of the European Communities, common foreign and security policy and cooperation in the fields of justice and home affairs. This domain was used from 1 November 1993 until 1 December 2009 (date of entry into force of the Treaty of Lisbon) and replaced by EU."@en ;
+    skos:inScheme atold:legal-act-domain ;
+    skos:prefLabel "ЕО"@bg,
+        "ES"@cs,
+        "EF"@da,
+        "EG"@de,
+        "EK"@el,
+        "EC"@en,
+        "CE"@es,
+        "EÜ"@et,
+        "EY"@fi,
+        "CE"@fr,
+        "CE"@ga,
+        "EZ"@hr,
+        "EK"@hu,
+        "CE"@it,
+        "EB"@lt,
+        "EK"@lv,
+        "KE"@mt,
+        "EG"@nl,
+        "WE"@pl,
+        "CE"@pt,
+        "CE"@ro,
+        "ES"@sk,
+        "ES"@sl,
+        "EG"@sv ;
+    skos:topConceptOf atold:legal-act-domain .
+
+<http://publications.europa.eu/resource/authority/legal-act-domain/ECSC> a skos:Concept ;
+    at:authority-code "ECSC" ;
+    at:deprecated "true" ;
+    at:end.use "1993-10-31" ;
+    at:op-code "ECSC" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "ECSC" ;
+    dc:identifier "ECSC" ;
+    skos:altLabel "Европейска общност за въглища и стомана"@bg,
+        "Evropské společenství uhlí a oceli"@cs,
+        "Det Europæiske Kul- og Stålfællesskab"@da,
+        "Europäische Gemeinschaft für Kohle und Stahl"@de,
+        "Ευρωπαϊκή Κοινότητα Άνθρακα και Χάλυβα"@el,
+        "European Coal and Steel Community"@en,
+        "Comunidad Europea del Carbón y del Acero"@es,
+        "Euroopa Söe- ja Teraseühendus"@et,
+        "Euroopan hiili- ja teräsyhteisö"@fi,
+        "Communauté européenne du charbon et de l’acier"@fr,
+        "An Comhphobal Eorpach do Ghual agus Cruach"@ga,
+        "Europska zajednica za ugljen i čelik"@hr,
+        "Európai Szén- és Acélközösség"@hu,
+        "Comunità europea del carbone e dell’acciaio"@it,
+        "Europos anglių ir plieno bendrija"@lt,
+        "Eiropas Ogļu un tērauda kopiena"@lv,
+        "Il-Komunità Ewropea tal-Faħam u l-Azzar"@mt,
+        "Europese Gemeenschap voor Kolen en Staal"@nl,
+        "Europejska Wspólnota Węgla i Stali"@pl,
+        "Comunidade Europeia do Carvão e do Aço"@pt,
+        "Comunitatea Europeană a Cărbunelui şi Oţelului"@ro,
+        "Európske spoločenstvo uhlia a ocele"@sk,
+        "Evropska skupnost za premog in jeklo"@sl,
+        "Europeiska kol- och stålgemenskapen"@sv ;
+    skos:definition "As one of the three parts in a string identifying a legal act, the domain ECSC refers to the European Coal and Steel Community as set out in the Treaty establishing the European Coal and Steel Community signed in 1957. The aim of this treaty was to organise free movement of coal and steel and free access to sources of production. This domain was used until 1 November 1993 (date of entry into force of the Treaty of Maastricht)."@en ;
+    skos:inScheme atold:legal-act-domain ;
+    skos:prefLabel "ЕОВС"@bg,
+        "ESUO"@cs,
+        "EKSF"@da,
+        "EGKS"@de,
+        "ΕΚΑΧ"@el,
+        "ECSC"@en,
+        "CECA"@es,
+        "ESTÜ"@et,
+        "EHTY"@fi,
+        "CECA"@fr,
+        "CEGC"@ga,
+        "EZUČ"@hr,
+        "ESZAK"@hu,
+        "CECA"@it,
+        "EAPB"@lt,
+        "EOTK"@lv,
+        "KEFA"@mt,
+        "EGKS"@nl,
+        "EWWiS"@pl,
+        "CECA"@pt,
+        "CECO"@ro,
+        "ESUO"@sk,
+        "ESPJ"@sl,
+        "EKSG"@sv ;
+    skos:topConceptOf atold:legal-act-domain .
+
+<http://publications.europa.eu/resource/authority/legal-act-domain/EEC> a skos:Concept ;
+    at:authority-code "EEC" ;
+    at:deprecated "true" ;
+    at:end.use "1993-10-31" ;
+    at:op-code "EEC" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "EEC" ;
+    dc:identifier "EEC" ;
+    skos:altLabel "Eвропейска икономическа общност"@bg,
+        "Evropské hospodářské společenství"@cs,
+        "Det Europæiske Økonomiske Fællesskab"@da,
+        "Europäische Wirtschaftsgemeinschaft"@de,
+        "Ευρωπαϊκή Οικονομική Κοινότητα"@el,
+        "European Economic Community"@en,
+        "Comunidad Económica Europea"@es,
+        "Euroopa Majandusühendus"@et,
+        "Euroopan talousyhteisö"@fi,
+        "Communauté économique européenne"@fr,
+        "Comhphobal Eacnamaíochta na hEorpa"@ga,
+        "Europska ekonomska zajednica"@hr,
+        "Európai Gazdasági Közösség"@hu,
+        "Comunità economica europea"@it,
+        "Europos ekonominė bendrija"@lt,
+        "Eiropas Ekonomikas kopiena"@lv,
+        "Il-Komunità Ekonomika Ewropea"@mt,
+        "Europese Economische Gemeenschap"@nl,
+        "Europejska Wspólnota Gospodarcza"@pl,
+        "Comunidade Económica Europeia"@pt,
+        "Comunitatea Economică Europeană"@ro,
+        "Európske hospodárske spoločenstvo"@sk,
+        "Evropska gospodarska skupnost"@sl,
+        "Europeiska ekonomiska gemenskapen"@sv ;
+    skos:definition "As one of the three parts in a string identifying a legal act, the domain EEC refers to the European Economic Community as set out in the Treaty establishing the European Economic Community signed in 1957 (Treaty of Rome). The aim of EEC was to achieve integration via trade with a view to economic expansion. This domain was used until 1 November 1993 (date of entry into force of the Treaty of Maastricht) and replaced by EC."@en ;
+    skos:inScheme atold:legal-act-domain ;
+    skos:prefLabel "ЕИО"@bg,
+        "EHS"@cs,
+        "EØF"@da,
+        "EWG"@de,
+        "ΕΟΚ"@el,
+        "EEC"@en,
+        "CEE"@es,
+        "EMÜ"@et,
+        "ETY"@fi,
+        "CEE"@fr,
+        "CEE"@ga,
+        "EEZ"@hr,
+        "EGK"@hu,
+        "CEE"@it,
+        "EEB"@lt,
+        "EEK"@lv,
+        "KEE"@mt,
+        "EEG"@nl,
+        "EWG"@pl,
+        "CEE"@pt,
+        "CEE"@ro,
+        "EHS"@sk,
+        "EGS"@sl,
+        "EEG"@sv ;
+    skos:topConceptOf atold:legal-act-domain .
+
+<http://publications.europa.eu/resource/authority/legal-act-domain/EU> a skos:Concept ;
+    at:authority-code "EU" ;
+    at:deprecated "false" ;
+    at:op-code "EU" ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "EU" ;
+    dc:identifier "EU" ;
+    skos:altLabel "Европейски съюз"@bg,
+        "Evropská unie"@cs,
+        "Den Europæiske Union"@da,
+        "Europäische Union"@de,
+        "Ευρωπαϊκή Ένωση"@el,
+        "European Union"@en,
+        "Unión Europea"@es,
+        "Euroopa Liit"@et,
+        "Euroopan unioni"@fi,
+        "Union européenne"@fr,
+        "An tAontas Eorpach"@ga,
+        "Europska unija"@hr,
+        "Európai Unió"@hu,
+        "Unione europea"@it,
+        "Europos Sąjunga"@lt,
+        "Eiropas Savienība"@lv,
+        "L-Unjoni Ewropea"@mt,
+        "Europese Unie"@nl,
+        "Unia Europejska"@pl,
+        "União Europeia"@pt,
+        "Uniunea Europeană"@ro,
+        "Európska únia"@sk,
+        "Evropska unija"@sl,
+        "Europeiska unionen"@sv ;
+    skos:definition "As one of the three parts in a string identifying a legal act, the domain EU refers to the European Union as set out in the Treaty of Lisbon signed in 2009. This treaty is a reform treaty amending the two treaties which form the constitutional basis of the European Union (TEU and TFEU). This domain was introduced on 1 December 2009 and is still current."@en ;
+    skos:inScheme atold:legal-act-domain ;
+    skos:prefLabel "ЕС"@bg,
+        "EU"@cs,
+        "EU"@da,
+        "EU"@de,
+        "ΕΕ"@el,
+        "EU"@en,
+        "UE"@es,
+        "EL"@et,
+        "EU"@fi,
+        "UE"@fr,
+        "AE"@ga,
+        "EU"@hr,
+        "EU"@hu,
+        "UE"@it,
+        "ES"@lt,
+        "ES"@lv,
+        "UE"@mt,
+        "EU"@nl,
+        "UE"@pl,
+        "UE"@pt,
+        "UE"@ro,
+        "EÚ"@sk,
+        "EU"@sl,
+        "EU"@sv ;
+    skos:topConceptOf atold:legal-act-domain .
+
+<http://publications.europa.eu/resource/authority/legal-act-domain/EURATOM> a skos:Concept ;
+    at:authority-code "EURATOM" ;
+    at:deprecated "false" ;
+    at:op-code "EURATOM" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "EURATOM" ;
+    dc:identifier "EURATOM" ;
+    skos:altLabel "Европейска общност за атомна енергия"@bg,
+        "Evropské společenství pro atomovou energii"@cs,
+        "Det Europæiske Atomenergifællesskab"@da,
+        "Europäische Atomgemeinschaft"@de,
+        "Ευρωπαϊκή Κοινότητα Ατομικής Ενέργειας"@el,
+        "European Atomic Energy Community"@en,
+        "Comunidad Europea de la Energía Atómica"@es,
+        "Euroopa Aatomienergiaühendus"@et,
+        "Euroopan atomienergiayhteisö"@fi,
+        "Communauté européenne de l’énergie atomique"@fr,
+        "An Comhphobal Eorpach do Fhuinneamh Adamhach"@ga,
+        "Europska zajednica za atomsku energiju"@hr,
+        "Európai Atomenergia-közösség"@hu,
+        "Comunità europea dell’energia atomica"@it,
+        "Europos atominės energijos bendrija"@lt,
+        "Eiropas Atomenerģijas kopiena"@lv,
+        "Il-Komunità Ewropea tal-Enerġija Atomika"@mt,
+        "Europese Gemeenschap voor Atoomenergie"@nl,
+        "Europejska Wspólnota Energii Atomowej"@pl,
+        "Comunidade Europeia da Energia Atómica"@pt,
+        "Comunitatea Europeană a Energiei Atomice"@ro,
+        "Európske spoločenstvo pre atómovú energiu"@sk,
+        "Evropska skupnost za atomsko energijo"@sl,
+        "Europeiska atomenergigemenskapen"@sv ;
+    skos:definition "As one of the three parts in a string identifying a legal act, the domain EURATOM refers to the European Atomic Energy Community as set out in the Treaty establishing the European Atomic Energy Community signed in 1957. This treaty was created to coordinate the Member States’ research programmes for the peaceful use of nuclear energy. This domain is still current."@en ;
+    skos:inScheme atold:legal-act-domain ;
+    skos:prefLabel "Евратом"@bg,
+        "Euratom"@cs,
+        "Euratom"@da,
+        "Euratom"@de,
+        "Ευρατόμ"@el,
+        "Euratom"@en,
+        "Euratom"@es,
+        "Euratom"@et,
+        "Euratom"@fi,
+        "Euratom"@fr,
+        "Euratom"@ga,
+        "Euratom"@hr,
+        "Euratom"@hu,
+        "Euratom"@it,
+        "Euratomas"@lt,
+        "Euratom"@lv,
+        "Euratom"@mt,
+        "Euratom"@nl,
+        "Euratom"@pl,
+        "Euratom"@pt,
+        "Euratom"@ro,
+        "Euratom"@sk,
+        "Euratom"@sl,
+        "Euratom"@sv ;
+    skos:topConceptOf atold:legal-act-domain .
+
+<http://publications.europa.eu/resource/authority/legal-act-domain/JHA> a skos:Concept ;
+    at:authority-code "JHA" ;
+    at:deprecated "true" ;
+    at:end.use "2009-11-30" ;
+    at:op-code "JHA" ;
+    at:start.use "1993-11-01" ;
+    atold:op-code "JHA" ;
+    dc:identifier "JHA" ;
+    skos:altLabel "Правосъдие и вътрешни работи"@bg,
+        "Spravedlnost a vnitřní záležitosti"@cs,
+        "Retlige og indre anliggender"@da,
+        "Justiz und Inneres"@de,
+        "Δικαιοσύνη και εσωτερικές υποθέσεις"@el,
+        "Justice and home affairs"@en,
+        "Justicia y asuntos de interior"@es,
+        "Justiits- ja siseküsimused"@et,
+        "Yhteistyö oikeus- ja sisäasioissa"@fi,
+        "Justice et affaires intérieures"@fr,
+        "Ceartas agus Gnóthaí Baile"@ga,
+        "Pravosuđe i unutarnji poslovi"@hr,
+        "Bel- és igazságügy"@hu,
+        "Giustizia e affari interni"@it,
+        "Teisingumo ir vidaus reikalai"@lt,
+        "Tieslietas un iekšlietas"@lv,
+        "Ġustizzja u affarijiet interni"@mt,
+        "Justitie en binnenlandse zaken"@nl,
+        "Sprawiedliwość i sprawy wewnętrzne"@pl,
+        "Justiça e assuntos internos"@pt,
+        "Justiţie şi afaceri interne"@ro,
+        "Spravodlivosť a domáce veci"@sk,
+        "Pravosodje in notranje zadeve"@sl,
+        "Rättsliga och inrikes frågor"@sv ;
+    skos:definition "As one of the three parts in a string identifying a legal act, the domain JHA refers to Justice and home affairs as set out in the Treaty on European Union signed in 1992 (Treaty of Maastricht). The Justice and Home Affairs Council develops cooperation and common policies on various cross-border issues, with the aim of building an EU-wide area of freedom, security and justice. This domain was used from 1 November 1993 until 1 December 2009 (date of entry into force of the Treaty of Lisbon)."@en ;
+    skos:inScheme atold:legal-act-domain ;
+    skos:prefLabel "ПВР"@bg,
+        "SVV"@cs,
+        "RIA"@da,
+        "JI"@de,
+        "ΔΕΥ"@el,
+        "JHA"@en,
+        "JAI"@es,
+        "JSK"@et,
+        "YOS"@fi,
+        "JAI"@fr,
+        "CGB"@ga,
+        "PUP"@hr,
+        "IB"@hu,
+        "GAI"@it,
+        "TVR"@lt,
+        "TI"@lv,
+        "ĠAI"@mt,
+        "JBZ"@nl,
+        "WSiSW"@pl,
+        "JAI"@pt,
+        "JAI"@ro,
+        "SVV"@sk,
+        "PNZ"@sl,
+        "RIF"@sv ;
+    skos:topConceptOf atold:legal-act-domain .
+
+<http://publications.europa.eu/resource/authority/legal-act-domain/OP_DATPRO> a skos:Concept ;
+    at:authority-code "OP_DATPRO" ;
+    at:deprecated "false" ;
+    at:op-code "OP_DATPRO" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:legal-act-domain ;
+    skos:prefLabel "НЕОКОНЧАТЕЛНИ ДАННИ"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv ;
+    skos:topConceptOf atold:legal-act-domain .
+
+atold:legal-act-domain a skos:ConceptScheme ;
+    rdfs:label "Legal act domain"@en ;
+    at:prefLabel "Legal act domain"@en ;
+    at:table.id "legal-act-domain" ;
+    at:table.version.number "20210317-0" ;
+    owl:versionInfo "20210317-0" ;
+    skos:prefLabel "Legal act domain"@en .
+

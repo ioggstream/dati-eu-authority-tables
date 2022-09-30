@@ -1,0 +1,154 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/accessibility/OP_DATPRO> a skos:Concept ;
+    at:authority-code "OP_DATPRO" ;
+    at:deprecated "false" ;
+    at:op-code "OP_DATPRO" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:accessibility ;
+    skos:prefLabel "Неокончателни данни"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv ;
+    skos:topConceptOf atold:accessibility .
+
+<http://publications.europa.eu/resource/authority/accessibility/inc> a skos:Concept ;
+    at:authority-code "inc" ;
+    at:deprecated "false" ;
+    at:op-code "inc" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "inc" ;
+    dc:identifier "inc" ;
+    skos:definition "The technical specifications defining the characteristic of the procurement provide for the accessibility of disabled persons."@en ;
+    skos:inScheme atold:accessibility ;
+    skos:prefLabel "Включени са критерии за достъпността за лицата с увреждания"@bg,
+        "Kritéria přístupnosti pro osoby s postižením jsou zahrnuta"@cs,
+        "Der er anvendt kriterier vedrørende adgangsmuligheder for personer med handicap"@da,
+        "Zugänglichkeitskriterien für Menschen mit Behinderungen wurden berücksichtigt"@de,
+        "Συμπεριλαμβάνονται κριτήρια προσβασιμότητας για τα άτομα με αναπηρίες"@el,
+        "Accessibility criteria for persons with disabilities are included"@en,
+        "Se incluyen criterios de accesibilidad para las personas con discapacidad"@es,
+        "Lisatud on puuetega inimeste juurdepääsukriteeriumid"@et,
+        "Vammaisia koskevat esteettömyysvaatimukset on otettu huomioon"@fi,
+        "Des critères d’accessibilité pour les personnes handicapées sont appliqués"@fr,
+        "Tá critéir inrochtaineachta do dhaoine faoi mhíchumas ar áireamh"@ga,
+        "U obzir su uzeti uvjeti pristupačnosti za osobe s invaliditetom"@hr,
+        "A fogyatékossággal élő személyekre vonatkozó, akadálymentesítési kritériumok be vannak építve"@hu,
+        "Sono compresi criteri di accessibilità per le persone con disabilità"@it,
+        "Prieinamumo neįgaliesiems kriterijai įtraukti"@lt,
+        "Ir iekļauti kritēriji par pieejamību personām ar invaliditāti"@lv,
+        "Il-kriterji ta’ aċċessibbiltà għall-persuni b’diżabbiltà huma inklużi"@mt,
+        "Er zijn criteria opgenomen inzake de toegankelijkheid voor personen met een handicap"@nl,
+        "Kryteria dostępności dla osób niepełnosprawnych zostały uwzględnione"@pl,
+        "Os critérios de acessibilidade para as pessoas com deficiência estão incluídos"@pt,
+        "Sunt incluse criterii de accesibilitate pentru persoanele cu handicap"@ro,
+        "Kritériá prístupnosti pre osoby so zdravotným postihnutím sú zahrnuté"@sk,
+        "Vključeni so pogoji dostopnosti za invalidne osebe"@sl,
+        "Tillgänglighetskriterier för personer med funktionsnedsättning ingår"@sv ;
+    skos:topConceptOf atold:accessibility .
+
+<http://publications.europa.eu/resource/authority/accessibility/n-inc> a skos:Concept ;
+    at:authority-code "n-inc" ;
+    at:deprecated "false" ;
+    at:op-code "n-inc" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "n-inc" ;
+    dc:identifier "n-inc" ;
+    skos:definition "For all types of procurements that do not include accessibility for people with disabilities since they are not designed for natural persons."@en ;
+    skos:inScheme atold:accessibility ;
+    skos:prefLabel "Критерии за достъпността за лицата с увреждания не са включени, защото поръчката не е предназначена за използване от физически лица"@bg,
+        "Kritéria přístupnosti pro osoby s postižením nejsou zahrnuta, neboť zakázka není určena k použití fyzickými osobami"@cs,
+        "Der er ikke anvendt kriterier vedrørende adgangsmuligheder for personer med handicap, fordi udbuddet ikke er beregnet til at blive anvendt af fysiske personer"@da,
+        "Kriterien für die Zugänglichkeit für Menschen mit Behinderungen wurden nicht berücksichtigt, da die Beschaffung nicht für die Nutzung durch natürliche Personen vorgesehen ist"@de,
+        "Δεν περιλαμβάνονται κριτήρια προσβασιμότητας για τα άτομα με αναπηρίες επειδή η προμήθεια δεν προορίζεται για χρήση από φυσικά πρόσωπα"@el,
+        "Accessibility criteria for persons with disabilities are not included because the procurement is not intended for use by natural persons"@en,
+        "No se incluyen criterios de accesibilidad para las personas con discapacidad porque la contratación no está destinada a ser utilizada por personas físicas"@es,
+        "Puuetega inimeste juurdepääsukriteeriume pole lisatud, sest hange ei ole mõeldud kasutamiseks füüsilistele isikutele"@et,
+        "Vammaisia koskevia esteettömyysvaatimuksia ei ole otettu huomioon, koska hankintaa ei ole tarkoitettu luonnollisten henkilöiden käyttöön"@fi,
+        "Des critères d’accessibilité pour les personnes handicapées ne sont pas appliqués parce que le marché n’est pas destiné aux personnes physiques"@fr,
+        "Níl critéir inrochtaineachta do dhaoine faoi mhíchumas ar áireamh mar níl an soláthar beartaithe lena úsáid ag daoine nádúrtha"@ga,
+        "Uvjeti pristupačnosti za osobe s invaliditetom nisu uzeti u obzir jer javna nabava nije namijenjena fizičkim osobama"@hr,
+        "A fogyatékossággal élő személyekre vonatkozó, akadálymentesítési kritériumok nincsenek beépítve, mivel a beszerzést nem fogják természetes személyek használni"@hu,
+        "Non sono compresi criteri di accessibilità per le persone con disabilità perché l'oggetto dell'appalto non è destinato all'uso da parte di persone fisiche"@it,
+        "Prieinamumo neįgaliesiems kriterijai neįtraukti, nes nenumatyta, kad pirkimo objektas bus naudojamas fizinių asmenų"@lt,
+        "Kritēriji par pieejamību personām ar invaliditāti nav iekļauti, jo iepirkums nav paredzēts fiziskām personām"@lv,
+        "Il-kriterji ta’ aċċessibbiltà għall-persuni b’diżabbiltà ma jkunux inklużi minħabba li l-akkwist ma jkunx maħsub għall-użu minn persuni fiżiċi"@mt,
+        "Er zijn geen criteria opgenomen inzake de toegankelijkheid voor personen met een handicap, omdat de aanbesteding niet bestemd is voor gebruik door natuurlijke personen"@nl,
+        "Kryteria dostępności dla osób niepełnosprawnych nie zostały uwzględnione, ponieważ przedmiot zamówienia nie jest przeznaczony dla osób fizycznych"@pl,
+        "Os critérios de acessibilidade para as pessoas com deficiência não estão incluídos porque o contrato não se destina a pessoas singulares"@pt,
+        "Nu sunt incluse criterii de accesibilitate pentru persoanele cu handicap, deoarece achizițiile nu sunt destinate a fi utilizate de către persoane fizice"@ro,
+        "Kritériá prístupnosti pre osoby so zdravotným postihnutím nie sú zahrnuté, keďže zákazka nie je určená na použitie fyzickými osobami"@sk,
+        "Pogoji dostopnosti za invalidne osebe niso vključeni, ker predmet javnega naročila ni namenjen temu, da bi ga uporabljale fizične osebe"@sl,
+        "Tillgänglighetskriterier för personer med funktionsnedsättning ingår inte eftersom upphandlingen inte är avsedd att användas av fysiska personer"@sv ;
+    skos:topConceptOf atold:accessibility .
+
+<http://publications.europa.eu/resource/authority/accessibility/n-inc-just> a skos:Concept ;
+    at:authority-code "n-inc-just" ;
+    at:deprecated "false" ;
+    at:op-code "n-inc-just" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "n-inc-just" ;
+    dc:identifier "n-inc-just" ;
+    skos:definition "The technical specifications defining the characteristic of the procurement do not provide for the accessibility of disabled persons and the duly justified reason is provided."@en ;
+    skos:inScheme atold:accessibility ;
+    skos:prefLabel "Критерии за достъпността за лицата с увреждания не са включени, а обосновката е следната"@bg,
+        "Kritéria přístupnosti pro osoby s postižením nejsou zahrnuta s následujícím odůvodněním"@cs,
+        "Der er ikke anvendt kriterier vedrørende adgangsmuligheder for personer med handicap med følgende begrundelse"@da,
+        "Zugänglichkeitskriterien für Menschen mit Behinderungen wurden mit folgender Begründung nicht berücksichtigt"@de,
+        "Δεν περιλαμβάνονται κριτήρια προσβασιμότητας για τα άτομα με αναπηρίες με την ακόλουθη αιτιολόγηση"@el,
+        "Accessibility criteria for persons with disabilities are not included with the following justification"@en,
+        "No se incluyen criterios de accesibilidad para las personas con discapacidad por la siguiente justificación"@es,
+        "Puuetega inimeste juurdepääsukriteeriume ei ole lisatud järgmise põhjendusega"@et,
+        "Vammaisia koskevia esteettömyysvaatimuksia ei ole otettu huomioon seuraavin perustein"@fi,
+        "Des critères d’accessibilité pour les personnes handicapées ne sont pas appliqués avec la justification suivante"@fr,
+        "Níl critéir inrochtaineachta do dhaoine faoi mhíchumas ar áireamh ar na cúiseanna seo a leanas"@ga,
+        "Uvjeti pristupačnosti za osobe s invaliditetom nisu uzeti u obzir zbog sljedećeg obrazloženja"@hr,
+        "A fogyatékossággal élő személyekre vonatkozó, akadálymentesítési kritériumok nincsenek beépítve az alábbi indoklás szerint"@hu,
+        "Non sono compresi criteri di accessibilità per le persone con disabilità con la giustificazione seguente"@it,
+        "Prieinamumo neįgaliesiems kriterijai neįtraukti dėl šių priežasčių"@lt,
+        "Kritēriji par pieejamību personām ar invaliditāti nav iekļauti ar šādu pamatojumu"@lv,
+        "Il-kriterji ta’ aċċessibbiltà għall-persuni b’diżabbiltà ma jkunux inklużi bil-ġustifikazzjoni li ġejja"@mt,
+        "Er zijn geen criteria opgenomen inzake de toegankelijkheid voor personen met een handicap, om de volgende reden"@nl,
+        "Kryteria dostępności dla osób niepełnosprawnych nie zostały uwzględnione z uwagi na poniższe uzasadnienie"@pl,
+        "Os critérios de acessibilidade para as pessoas com deficiência não estão incluídos, com a seguinte justificação"@pt,
+        "Nu sunt incluse criterii de accesibilitate pentru persoanele cu handicap, din următorul motiv"@ro,
+        "Kritériá prístupnosti pre osoby so zdravotným postihnutím nie sú zahrnuté s nasledujúcim odôvodnením"@sk,
+        "Pogoji dostopnosti za invalidne osebe niso vključeni iz naslednjih razlogov"@sl,
+        "Tillgänglighetskriterier för personer med funktionsnedsättning ingår inte med följande motivering"@sv ;
+    skos:topConceptOf atold:accessibility .
+
+atold:accessibility a skos:ConceptScheme ;
+    rdfs:label "Accessibility"@en ;
+    at:prefLabel "Accessibility"@en ;
+    at:table.id "accessibility" ;
+    at:table.version.number "20220928-0" ;
+    owl:versionInfo "20220928-0" ;
+    skos:prefLabel "Accessibility"@en .
+

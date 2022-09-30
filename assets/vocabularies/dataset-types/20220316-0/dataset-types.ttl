@@ -1,0 +1,892 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/dataset-type/APROF> a skos:Concept ;
+    at:authority-code "APROF" ;
+    at:deprecated "false" ;
+    at:op-code "APROF" ;
+    at:start.use "2017-10-30" ;
+    atold:op-code "APROF" ;
+    dc:identifier "APROF" ;
+    skos:definition "An application profile is a profile which specifies and describes the metadata used in a particular application."@en ;
+    skos:inScheme atold:dataset-type ;
+    skos:prefLabel "Профил за приложение"@bg,
+        "Profil aplikace"@cs,
+        "Anvendelsesprofil"@da,
+        "Anwendungsprofil"@de,
+        "Προφίλ εφαρμογής"@el,
+        "Application profile"@en,
+        "Perfil de aplicación"@es,
+        "Rakendusprofiil"@et,
+        "Sovellusprofiili"@fi,
+        "Profil d’application"@fr,
+        "Próifíl feidhmchláir"@ga,
+        "Aplikacijski profil"@hr,
+        "Alkalmazásprofil"@hu,
+        "Profilo applicazione"@it,
+        "Programos profilis"@lt,
+        "Lietotnes profils"@lv,
+        "Profil tal-applikazzjoni"@mt,
+        "Applikasjonsprofil"@nb,
+        "Applicatieprofiel"@nl,
+        "Applikasjonsprofil"@nn,
+        "Applikasjonsprofil"@no,
+        "Profil aplikacji"@pl,
+        "Perfil de aplicação"@pt,
+        "Profil aplicație"@ro,
+        "Profil aplikácie"@sk,
+        "Profil aplikacije"@sl,
+        "Applikationsprofil"@sv ;
+    skos:topConceptOf atold:dataset-type .
+
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_LEX> a skos:Concept ;
+    at:authority-code "ATTO_LEX" ;
+    at:deprecated "false" ;
+    at:op-code "ATTO_LEX" ;
+    at:start.use "2017-10-30" ;
+    atold:op-code "ATTO_LEX" ;
+    dc:identifier "ATTO_LEX" ;
+    skos:definition "Table of EUR-Lex domain in ATTO, internal translation manager application of the Publications Office of the European Union."@en ;
+    skos:inScheme atold:dataset-type ;
+    skos:prefLabel "Таблица ATTO – домейн EUR-Lex"@bg,
+        "Tabulka ATTO – doména EUR-Lex"@cs,
+        "ATTO-tabel – Eur-Lex-domæne"@da,
+        "ATTO-Tabelle – EUR-Lex-Domain"@de,
+        "Πίνακας ATTO – Τομέας EUR-Lex"@el,
+        "ATTO table – EUR-Lex domain"@en,
+        "Cuadro ATTO – dominio EUR-Lex"@es,
+        "ATTO tabel – EUR-Lexi domeen"@et,
+        "ATTO-taulukko – EUR-Lex-aihealue"@fi,
+        "Tableau ATTO – domaine EUR-Lex"@fr,
+        "Tábla ATTO – fearann EUR-Lex"@ga,
+        "ATTO tablica – domena EUR-Lexa"@hr,
+        "ATTO-táblázat – EUR-Lex-tartomány"@hu,
+        "Tabella ATTO – dominio EUR-Lex"@it,
+        "ATTO lentelė – „EUR-Lex“ sritis"@lt,
+        "ATTO tabula – “EUR-Lex” domēns"@lv,
+        "Tabella ATTO – dominju EUR-Lex"@mt,
+        "ATTO-tabel – EUR-Lex"@nl,
+        "Tablica ATTO – domena EUR-Lex"@pl,
+        "Tabela ATTO — Domínio EUR-Lex"@pt,
+        "Tabel ATTO – domeniul EUR-Lex"@ro,
+        "Tabuľka ATTO – doména EUR-Lex"@sk,
+        "Tabela ATTO – domena EUR-Lex"@sl,
+        "ATTO-tabell – EUR-Lex-domän"@sv ;
+    skos:topConceptOf atold:dataset-type .
+
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_PUB> a skos:Concept ;
+    at:authority-code "ATTO_PUB" ;
+    at:deprecated "false" ;
+    at:op-code "ATTO_PUB" ;
+    at:start.use "2017-10-30" ;
+    atold:op-code "ATTO_PUB" ;
+    dc:identifier "ATTO_PUB" ;
+    skos:definition "Table of Publications domain in ATTO, internal translation manager application of the Publications Office of the European Union."@en ;
+    skos:inScheme atold:dataset-type ;
+    skos:prefLabel "Таблица ATTO – домейн Публикации"@bg,
+        "Tabulka ATTO – doména publikací"@cs,
+        "ATTO-tabel – publikationsdomæne"@da,
+        "ATTO-Tabelle – Domain „Veröffentlichungen“"@de,
+        "Πίνακας ATTO – Τομέας εκδόσεων"@el,
+        "ATTO table – Publications domain"@en,
+        "Cuadro ATTO – dominio Publicaciones"@es,
+        "ATTO tabel – Väljaannete domeen"@et,
+        "ATTO-taulukko – Julkaisut-aihealue"@fi,
+        "Tableau ATTO – domaine Publications"@fr,
+        "Tábla ATTO – fearann na bhFoilseachán"@ga,
+        "ATTO tablica – domena publikacija"@hr,
+        "ATTO-táblázat – Kiadványtartomány"@hu,
+        "Tabella ATTO – dominio Pubblicazioni"@it,
+        "ATTO lentelė – leidinių sritis"@lt,
+        "ATTO tabula – “Publikāciju” domēns"@lv,
+        "Tabella ATTO – dominju tal-Pubblikazzjonijiet"@mt,
+        "ATTO-tabel – Publicatiedomein"@nl,
+        "Tablica ATTO – domena publikacji"@pl,
+        "Tabela ATTO — Domínio Publicações"@pt,
+        "Tabel ATTO – domeniul Publicații"@ro,
+        "Tabuľka ATTO – doména Publikácií"@sk,
+        "Tabela ATTO – domena publikacij"@sl,
+        "ATTO-tabell – Publikationsdomän"@sv ;
+    skos:topConceptOf atold:dataset-type .
+
+<http://publications.europa.eu/resource/authority/dataset-type/CODE_LIST> a skos:Concept ;
+    at:authority-code "CODE_LIST" ;
+    at:deprecated "false" ;
+    at:op-code "CODE_LIST" ;
+    at:start.use "2013-01-01" ;
+    atold:op-code "CODE_LIST" ;
+    dc:identifier "CODE_LIST" ;
+    skos:changeNote "ISO 9735-1:2002, 4.14"@en,
+        "https://www.iso.org/obp/ui#iso:std:iso:9735:-1:ed-2:v1:en"@en ;
+    skos:definition "A code list is a complete set of data element values of a coded simple data element."@en ;
+    skos:inScheme atold:dataset-type ;
+    skos:prefLabel "Списък на кодовете"@bg,
+        "Seznam kódů"@cs,
+        "Kodeliste"@da,
+        "Codeliste"@de,
+        "Κατάλογος κωδικών"@el,
+        "Code list"@en,
+        "Lista de códigos"@es,
+        "Koodiloend"@et,
+        "Koodiluettelo"@fi,
+        "Liste de codes"@fr,
+        "Liosta cód"@ga,
+        "Popis kodova"@hr,
+        "Kódlista"@hu,
+        "Elenco dei codici"@it,
+        "Kodų sąrašas"@lt,
+        "Kodu saraksts"@lv,
+        "Lista ta' kodiċijiet"@mt,
+        "Kodeliste"@nb,
+        "Codelijst"@nl,
+        "Kodeliste"@nn,
+        "Kodeliste"@no,
+        "Wykaz kodów"@pl,
+        "Lista de códigos"@pt,
+        "Listă de coduri"@ro,
+        "Zoznam kódov"@sk,
+        "Seznam kod"@sl,
+        "Kodlista"@sv ;
+    skos:topConceptOf atold:dataset-type .
+
+<http://publications.europa.eu/resource/authority/dataset-type/CORE_COMP> a skos:Concept ;
+    at:authority-code "CORE_COMP" ;
+    at:deprecated "false" ;
+    at:op-code "CORE_COMP" ;
+    at:start.use "2013-01-01" ;
+    atold:op-code "CORE_COMP" ;
+    dc:identifier "CORE_COMP" ;
+    skos:definition "A core component is a context-free semantic building block for creating clear and meaningful data models, vocabularies and information exchange packages."@en ;
+    skos:inScheme atold:dataset-type ;
+    skos:prefLabel "Базов елемент"@bg,
+        "Základní prvek"@cs,
+        "Hovedkomponent"@da,
+        "Kernbestandteil"@de,
+        "Βασικό συστατικό"@el,
+        "Core component"@en,
+        "Componente básico"@es,
+        "Tuumikelement"@et,
+        "Ydinkomponentti"@fi,
+        "Composant de base"@fr,
+        "Comhpháirt lárnach"@ga,
+        "Osnovna komponenta"@hr,
+        "Alapkomponens"@hu,
+        "Componente centrale"@it,
+        "Pagrindinis komponentas"@lt,
+        "Pamatsastāvdaļa"@lv,
+        "Komponent ċentrali"@mt,
+        "Hovedkomponent"@nb,
+        "Kerncomponent"@nl,
+        "Hovudkomponent"@nn,
+        "Hovedkomponent"@no,
+        "Element podstawowy"@pl,
+        "Componente fundamental"@pt,
+        "Componentă centrală"@ro,
+        "Hlavná zložka"@sk,
+        "Osnovna komponenta"@sl,
+        "Kärnkomponent"@sv ;
+    skos:topConceptOf atold:dataset-type .
+
+<http://publications.europa.eu/resource/authority/dataset-type/DIRECTORY> a skos:Concept ;
+    at:authority-code "DIRECTORY" ;
+    at:deprecated "false" ;
+    at:op-code "DIRECTORY" ;
+    at:start.use "1981-01-10" ;
+    atold:op-code "DIRECTORY" ;
+    dc:identifier "DIRECTORY" ;
+    skos:definition "A directory contains information about individual entities (e.g. persons) and their (probably) hierarchical organisation and related entities. It is used to browse individuals in their organisational context."@en ;
+    skos:inScheme atold:dataset-type ;
+    skos:prefLabel "Директория"@bg,
+        "Seznam"@cs,
+        "Adresseliste"@da,
+        "Verzeichnis"@de,
+        "Αποθετήριο"@el,
+        "Directory"@en,
+        "Directorio"@es,
+        "Kataloog"@et,
+        "Hakemisto"@fi,
+        "Répertoire"@fr,
+        "Eolaire"@ga,
+        "Direktorij"@hr,
+        "Jegyzék"@hu,
+        "Directory"@it,
+        "Žinynas"@lt,
+        "Direktorijs"@lv,
+        "Direttorju"@mt,
+        "Lijst"@nl,
+        "Katalog"@pl,
+        "Lista"@pt,
+        "Anuar"@ro,
+        "Adresár"@sk,
+        "Register"@sl,
+        "Katalog"@sv ;
+    skos:topConceptOf atold:dataset-type .
+
+<http://publications.europa.eu/resource/authority/dataset-type/DOMAIN_MODEL> a skos:Concept ;
+    at:authority-code "DOMAIN_MODEL" ;
+    at:deprecated "false" ;
+    at:op-code "DOMAIN_MODEL" ;
+    at:start.use "2013-01-01" ;
+    atold:op-code "DOMAIN_MODEL" ;
+    dc:identifier "DOMAIN_MODEL" ;
+    skos:changeNote "NIEM Glossary"@en,
+        "https://www.niem.gov/glossary/Pages/Glossary.aspx?alpha=D"@en ;
+    skos:definition "A domain model is a conceptual view of a system or an information exchange that identifies the entities involved and their relationships."@en ;
+    skos:inScheme atold:dataset-type ;
+    skos:prefLabel "Модел на област"@bg,
+        "Model domény"@cs,
+        "Domænemodel"@da,
+        "Domänenmodell"@de,
+        "Υπόδειγμα πεδίου"@el,
+        "Domain model"@en,
+        "Modelo de dominio"@es,
+        "Domeenimudel"@et,
+        "Käsitemalli"@fi,
+        "Modèle de domaine"@fr,
+        "Samhail fearainn"@ga,
+        "Model domene"@hr,
+        "Tartománymodell"@hu,
+        "Modello di dominio"@it,
+        "Domeno modelis"@lt,
+        "Domēna modelis"@lv,
+        "Mudell ta' dominju"@mt,
+        "Domenemodell"@nb,
+        "Domeinmodel"@nl,
+        "Domenemodell"@nn,
+        "Domenemodell"@no,
+        "Model domeny"@pl,
+        "Modelo de domínio"@pt,
+        "Model de domeniu"@ro,
+        "Model domény"@sk,
+        "Model domene"@sl,
+        "Domänmodell"@sv ;
+    skos:topConceptOf atold:dataset-type .
+
+<http://publications.europa.eu/resource/authority/dataset-type/DSCRP_SERV> a skos:Concept ;
+    at:authority-code "DSCRP_SERV" ;
+    at:deprecated "false" ;
+    at:op-code "DSCRP_SERV" ;
+    at:start.use "2013-01-01" ;
+    atold:op-code "DSCRP_SERV" ;
+    dc:identifier "DSCRP_SERV" ;
+    skos:changeNote "W3C WS-GLOSS"@en,
+        "http://www.w3.org/TR/ws-gloss/"@en ;
+    skos:definition "A service description is a set of documents that describe the interface to and semantics of a service."@en ;
+    skos:inScheme atold:dataset-type ;
+    skos:prefLabel "Описание на услуга"@bg,
+        "Popis služby"@cs,
+        "Beskrivelse af tjenesten"@da,
+        "Dienstbeschreibung"@de,
+        "Περιγραφή υπηρεσίας"@el,
+        "Service description"@en,
+        "Descripción del servicio"@es,
+        "Teenusekirjeldus"@et,
+        "Palvelun kuvaus"@fi,
+        "Description de service"@fr,
+        "Tuairisc seirbhíse"@ga,
+        "Opis usluge"@hr,
+        "Szolgáltatás leírása"@hu,
+        "Descrizione del servizio"@it,
+        "Paslaugos aprašas"@lt,
+        "Pakalpojuma apraksts"@lv,
+        "Deskrizzjoni tas-servizz"@mt,
+        "Tjenestebeskrivelse"@nb,
+        "Servicebeschrijving"@nl,
+        "Tenestebeskriving"@nn,
+        "Tjenestebeskrivelse"@no,
+        "Opis usługi"@pl,
+        "Descrição do serviço"@pt,
+        "Descrierea serviciului"@ro,
+        "Schéma služby"@sk,
+        "Opis storitve"@sl,
+        "Tjänstebeskrivning"@sv ;
+    skos:topConceptOf atold:dataset-type .
+
+<http://publications.europa.eu/resource/authority/dataset-type/GEOSPATIAL> a skos:Concept ;
+    at:authority-code "GEOSPATIAL" ;
+    at:deprecated "false" ;
+    at:op-code "GEOSPATIAL" ;
+    at:start.use "2019-01-30" ;
+    atold:op-code "GEOSPATIAL" ;
+    dc:identifier "GEOSPATIAL" ;
+    skos:definition "Geospatial data is data that has explicit geographic positioning information included within it in either vector or raster format."@en ;
+    skos:inScheme atold:dataset-type ;
+    skos:prefLabel "Геопространствени данни"@bg,
+        "Geoprostorová data"@cs,
+        "Geospatiale data"@da,
+        "Geodaten"@de,
+        "Γεωχωρικά δεδομένα"@el,
+        "Geospatial data"@en,
+        "Datos geoespaciales"@es,
+        "Ruumiandmed"@et,
+        "Paikkatiedot"@fi,
+        "Données géospatiales"@fr,
+        "Sonraí geospásúla"@ga,
+        "Geoprostorni podaci"@hr,
+        "Térinformatikai adat"@hu,
+        "Dati geospaziali"@it,
+        "Geoerdviniai duomenys"@lt,
+        "Ģeotelpiskie dati"@lv,
+        "Data ġeospazjali"@mt,
+        "Geodata"@nb,
+        "Georuimtelijke gegevens"@nl,
+        "Geodata"@nn,
+        "Geodata"@no,
+        "Dane geoprzestrzenne"@pl,
+        "Dados geoespaciais"@pt,
+        "Date geospațiale"@ro,
+        "Geopriestorové údaje"@sk,
+        "Geoprostorski podatki"@sl,
+        "Geospatiala data"@sv ;
+    skos:topConceptOf atold:dataset-type .
+
+<http://publications.europa.eu/resource/authority/dataset-type/GLOSSARY> a skos:Concept ;
+    at:authority-code "GLOSSARY" ;
+    at:deprecated "false" ;
+    at:op-code "GLOSSARY" ;
+    at:start.use "2020-11-25" ;
+    atold:op-code "GLOSSARY" ;
+    dc:identifier "GLOSSARY" ;
+    skos:definition "A glossary is a simple list of terms and their definitions. A glossary focuses on creating a complete list of the terminology of domain-specific terms and acronyms."@en ;
+    skos:inScheme atold:dataset-type ;
+    skos:prefLabel "Речник"@bg,
+        "Glosář"@cs,
+        "Glossar"@da,
+        "Glossar"@de,
+        "Γλωσσάριο"@el,
+        "Glossary"@en,
+        "Glosario"@es,
+        "Sõnastik"@et,
+        "Sanasto"@fi,
+        "Glossaire"@fr,
+        "Gluais"@ga,
+        "Pojmovnik"@hr,
+        "Glosszárium"@hu,
+        "Glossario"@it,
+        "Žodynėlis"@lt,
+        "Glosārijs"@lv,
+        "Glossarju"@mt,
+        "Woordenlijst"@nl,
+        "Ordliste"@no,
+        "Glosariusz"@pl,
+        "Glossário"@pt,
+        "Glosar"@ro,
+        "Glosár"@sk,
+        "Glosar"@sl,
+        "Ordlista"@sv ;
+    skos:topConceptOf atold:dataset-type .
+
+<http://publications.europa.eu/resource/authority/dataset-type/IEPD> a skos:Concept ;
+    at:authority-code "IEPD" ;
+    at:deprecated "false" ;
+    at:op-code "IEPD" ;
+    at:start.use "2013-01-01" ;
+    atold:op-code "IEPD" ;
+    dc:identifier "IEPD" ;
+    skos:changeNote "NIEM Glossary"@en,
+        "https://www.niem.gov/glossary/Pages/Glossary.aspx?alpha=I"@en ;
+    skos:definition "An information exchange package (IEP) description is a collection of artefacts that define and describe the structure and content of an IEP. An Information Exchange Package Documentation has a specific information exchange context and may refer to other semantic assets."@en ;
+    skos:inScheme atold:dataset-type ;
+    skos:prefLabel "Описание на пакет за обмен на информация"@bg,
+        "Popis balíčku pro výměnu informací"@cs,
+        "Beskrivelse af informationsudveksling"@da,
+        "Beschreibung des informationsaustauschpakets"@de,
+        "Περιγραφή δέσμης ανταλλαγής πληροφοριών"@el,
+        "Information exchange package description"@en,
+        "Descripción de un paquete de intercambio de información"@es,
+        "Teabevahetuspaketi kirjeldus"@et,
+        "Tiedonvaihtopaketin kuvaus"@fi,
+        "Description de paquet d’échange d'information"@fr,
+        "Tuairisc ar mhalartú faisnéise"@ga,
+        "Opis paketa informacijske razmjene"@hr,
+        "Információcsere-csomag (IEP) leírása"@hu,
+        "Descrizione del pacchetto «scambio di informazioni»"@it,
+        "Informacijos mainų paketo aprašas"@lt,
+        "Informācijas apmaiņas paketes apraksts"@lv,
+        "Deskrizzjoni ta' pakkett ta' skambju ta' informazzjoni"@mt,
+        "Beskrivelse av informasjonsutvekslingspakke"@nb,
+        "Omschrijving informatie-uitwisselingspakket"@nl,
+        "Beskriving av informasjonsutvekslingspakke"@nn,
+        "Beskrivelse av informasjonsutvekslingspakke"@no,
+        "Opis struktury i treści wymiany informacji"@pl,
+        "Descrição de pacote de intercâmbio de informação"@pt,
+        "Descrierea pachetului de schimb de informații"@ro,
+        "Opis balíka výmeny informácií"@sk,
+        "Opis paketa za izmenjavo podatkov"@sl,
+        "Beskrivning av informationsutbyte"@sv ;
+    skos:topConceptOf atold:dataset-type .
+
+<http://publications.europa.eu/resource/authority/dataset-type/MAPPING> a skos:Concept ;
+    at:authority-code "MAPPING" ;
+    at:deprecated "false" ;
+    at:op-code "MAPPING" ;
+    at:start.use "2013-01-01" ;
+    atold:op-code "MAPPING" ;
+    dc:identifier "MAPPING" ;
+    skos:changeNote "ISO/DIS 25964-2"@en,
+        "https://www.iso.org/obp/ui/#iso:std:iso:25964:-2:ed-1:v1:en"@en ;
+    skos:definition "A mapping is a relationship between a concept in one vocabulary and one or more concepts in another."@en ;
+    skos:inScheme atold:dataset-type ;
+    skos:prefLabel "Карта на връзките"@bg,
+        "Mapování"@cs,
+        "Tilknytning"@da,
+        "Mapping"@de,
+        "Αντιστοιχία"@el,
+        "Mapping"@en,
+        "Correspondencia"@es,
+        "Vastendus"@et,
+        "Mappaus"@fi,
+        "Mappage"@fr,
+        "Mapáil"@ga,
+        "Mapiranje"@hr,
+        "Megfeleltetés"@hu,
+        "Mappatura"@it,
+        "Priskyrimas"@lt,
+        "Kartēšana"@lv,
+        "Immappjar"@mt,
+        "Mapping"@nb,
+        "Mapping"@nl,
+        "Mapping"@nn,
+        "Mapping"@no,
+        "Mapowanie"@pl,
+        "Mapeamento"@pt,
+        "Cartografiere"@ro,
+        "Priradenie"@sk,
+        "Evidenca"@sl,
+        "Mappning"@sv ;
+    skos:topConceptOf atold:dataset-type .
+
+<http://publications.europa.eu/resource/authority/dataset-type/NAL> a skos:Concept ;
+    at:authority-code "NAL" ;
+    at:deprecated "false" ;
+    at:op-code "NAL" ;
+    at:start.use "2013-01-01" ;
+    atold:op-code "NAL" ;
+    dc:identifier "NAL" ;
+    skos:changeNote "ISO/DIS 25964-2"@en ;
+    skos:definition "A name authority list is a controlled vocabulary for use in naming particular entities consistently."@en ;
+    skos:inScheme atold:dataset-type ;
+    skos:prefLabel "Проверен списък с имена"@bg,
+        "Seznam názvů orgánů"@cs,
+        "Liste over myndighedsnavne"@da,
+        "Liste zugelassener Namen"@de,
+        "Κατάλογος εγκεκριμένων ονομάτων"@el,
+        "Name authority list"@en,
+        "Lista autorizada de nombres"@es,
+        "Lubatud nimede loend"@et,
+        "Hyväksyttyjen nimien luettelo"@fi,
+        "Liste d’autorité de noms"@fr,
+        "Liosta ainmneacha údaraithe"@ga,
+        "Popis zadanih naziva"@hr,
+        "Jóváhagyott névlista"@hu,
+        "Elenco dei nomi autorizzati"@it,
+        "Institucijų pavadinimų sąrašas"@lt,
+        "Vārdu un nosaukumu saraksts"@lv,
+        "Lista ta' ismijiet awtorizzati"@mt,
+        "Autoritetsliste for entitetsnavn"@nb,
+        "Standaardnamenlijst"@nl,
+        "Autoritetsliste for entitetsnamn"@nn,
+        "Autoritetsliste for entitetsnavn"@no,
+        "Wykaz nazw organów"@pl,
+        "Lista autorizada de nomes"@pt,
+        "Listă cu numele autorităților"@ro,
+        "Zoznam názvov orgánov"@sk,
+        "Seznam imen organov"@sl,
+        "Auktoritetsregister"@sv ;
+    skos:topConceptOf atold:dataset-type .
+
+<http://publications.europa.eu/resource/authority/dataset-type/ONTOLOGY> a skos:Concept ;
+    at:authority-code "ONTOLOGY" ;
+    at:deprecated "false" ;
+    at:op-code "ONTOLOGY" ;
+    at:start.use "2013-01-01" ;
+    atold:op-code "ONTOLOGY" ;
+    dc:identifier "ONTOLOGY" ;
+    skos:changeNote "ISO/DIS 25964-2"@en ;
+    skos:definition "An ontology is a formal, explicit specification of a shared conceptualisation."@en ;
+    skos:inScheme atold:dataset-type ;
+    skos:prefLabel "Онтология"@bg,
+        "Ontologie"@cs,
+        "Ontologi"@da,
+        "Ontologie"@de,
+        "Οντολογία"@el,
+        "Ontology"@en,
+        "Ontología"@es,
+        "Ontoloogia"@et,
+        "Ontologia"@fi,
+        "Ontologie"@fr,
+        "Ointeolaíocht"@ga,
+        "Ontologija"@hr,
+        "Ontológia"@hu,
+        "Ontologia"@it,
+        "Ontologija"@lt,
+        "Ontoloģija"@lv,
+        "Ontoloġija"@mt,
+        "Ontologi"@nb,
+        "Ontologie"@nl,
+        "Ontologi"@nn,
+        "Ontologi"@no,
+        "Struktura pojęciowa"@pl,
+        "Ontologia"@pt,
+        "Ontologie"@ro,
+        "Ontológia"@sk,
+        "Ontologija"@sl,
+        "Ontologi"@sv ;
+    skos:topConceptOf atold:dataset-type .
+
+<http://publications.europa.eu/resource/authority/dataset-type/SCHEMA> a skos:Concept ;
+    at:authority-code "SCHEMA" ;
+    at:deprecated "false" ;
+    at:op-code "SCHEMA" ;
+    at:start.use "2013-01-01" ;
+    atold:op-code "SCHEMA" ;
+    dc:identifier "SCHEMA" ;
+    skos:definition "A schema is a concrete view on a system or information exchange, describing the structure, content and semantics of data."@en ;
+    skos:inScheme atold:dataset-type ;
+    skos:prefLabel "Схема"@bg,
+        "Schéma"@cs,
+        "Skema"@da,
+        "Schema"@de,
+        "Σύστημα"@el,
+        "Schema"@en,
+        "Esquema"@es,
+        "Skeem"@et,
+        "Skeema"@fi,
+        "Schéma"@fr,
+        "Scéimre"@ga,
+        "Nacrt"@hr,
+        "Séma"@hu,
+        "Schema"@it,
+        "Schema"@lt,
+        "Shēma"@lv,
+        "Skema"@mt,
+        "Skjema"@nb,
+        "Schema"@nl,
+        "Skjema"@nn,
+        "Skjema"@no,
+        "Schemat"@pl,
+        "Esquema"@pt,
+        "Schemă"@ro,
+        "Schéma"@sk,
+        "Shema"@sl,
+        "Schema"@sv ;
+    skos:topConceptOf atold:dataset-type .
+
+<http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL> a skos:Concept ;
+    at:authority-code "STATISTICAL" ;
+    at:deprecated "false" ;
+    at:op-code "STATISTICAL" ;
+    at:start.use "2013-01-01" ;
+    atold:op-code "STATISTICAL" ;
+    dc:identifier "STATISTICAL" ;
+    skos:definition "Statistical data is data which holds information that is of a statistical nature."@en ;
+    skos:inScheme atold:dataset-type ;
+    skos:prefLabel "Статистически данни"@bg,
+        "Statistické údaje"@cs,
+        "Statistiske data"@da,
+        "Statistische Daten"@de,
+        "Στατιστικά δεδομένα"@el,
+        "Statistical data"@en,
+        "Datos estadísticos"@es,
+        "Statistilised andmed"@et,
+        "Tilastotiedot"@fi,
+        "Données statistiques"@fr,
+        "Sonraí staidrimh"@ga,
+        "Statistički podaci"@hr,
+        "Statisztikai adat"@hu,
+        "Dati statistici"@it,
+        "Statistiniai duomenys"@lt,
+        "Statistikas dati"@lv,
+        "Data dwar l-istatistika"@mt,
+        "Statistisk"@nb,
+        "Statistische gegevens"@nl,
+        "Statistisk"@nn,
+        "Statistisk"@no,
+        "Dane statystyczne"@pl,
+        "Dados estatísticos"@pt,
+        "Date statistice"@ro,
+        "Štatistické údaje"@sk,
+        "Statistični podatki"@sl,
+        "Statistiska data"@sv ;
+    skos:topConceptOf atold:dataset-type .
+
+<http://publications.europa.eu/resource/authority/dataset-type/STYLES> a skos:Concept ;
+    at:authority-code "STYLES" ;
+    at:deprecated "false" ;
+    at:op-code "STYLES" ;
+    at:start.use "2017-10-30" ;
+    atold:op-code "STYLES" ;
+    dc:identifier "STYLES" ;
+    skos:definition "Style sheets are a set of rules which describes the presentation of a document written in a markup language."@en ;
+    skos:inScheme atold:dataset-type ;
+    skos:prefLabel "Набори от стилове"@bg,
+        "Pravidla pro úpravu"@cs,
+        "Standardformularer"@da,
+        "Formatvorlagen"@de,
+        "Φύλλα στυλ"@el,
+        "Style sheets"@en,
+        "Hojas de estilo"@es,
+        "Laadilehed"@et,
+        "Tyyliohjeet"@fi,
+        "Feuilles de style"@fr,
+        "Stílbhileoga"@ga,
+        "Stilski obrasci"@hr,
+        "Stíluslapok"@hu,
+        "Fogli di stile"@it,
+        "Stilių aprašai"@lt,
+        "Stila lapas"@lv,
+        "Style sheets"@mt,
+        "Stilark"@nb,
+        "Opmaakmodellen"@nl,
+        "Stilark"@nn,
+        "Stilark"@no,
+        "Arkusze stylów"@pl,
+        "Folhas de estilo"@pt,
+        "Foi de stil"@ro,
+        "Listy so štýlmi"@sk,
+        "Slogovne datoteke"@sl,
+        "Formatmallar"@sv ;
+    skos:topConceptOf atold:dataset-type .
+
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTAX_ECD_SCHEME> a skos:Concept ;
+    at:authority-code "SYNTAX_ECD_SCHEME" ;
+    at:deprecated "false" ;
+    at:op-code "SYNTAX_ECD_SCHEME" ;
+    at:start.use "2013-01-01" ;
+    atold:op-code "SYNTAX_ECD_SCHEME" ;
+    dc:identifier "SYNTAX_ECD_SCHEME" ;
+    skos:changeNote "DCMI Glossary"@en,
+        "The glossary was last updated on 23 April 2004."@en,
+        "http://dublincore.org/documents/usageguide/glossary.shtml#S"@en ;
+    skos:definition "Syntax Encoding Schemes indicate that the value is a string formatted in accordance with a formal notation, such as \"2000-01-01\" as the standard expression of a date."@en ;
+    skos:inScheme atold:dataset-type ;
+    skos:prefLabel "Схема на кодиране със синтаксис"@bg,
+        "Kódovací schéma skladby"@cs,
+        "Kodeskema for syntaks"@da,
+        "Codierungssystem mit Syntax"@de,
+        "Σύστημα συντακτικής κωδικοποίησης"@el,
+        "Syntax encoding scheme"@en,
+        "Esquema de codificación sintáctica"@es,
+        "Süntaktiline kodeerimisskeem"@et,
+        "Syntaktinen koodausskeema"@fi,
+        "Schème d’encodage de syntaxe"@fr,
+        "Scéim ionchódaithe comhréire"@ga,
+        "Zadana pravila kodiranja"@hr,
+        "Szintaxiskódolási séma"@hu,
+        "Sistema di codifica basato sulla sintassi"@it,
+        "Sintaksės kodavimo schema"@lt,
+        "Sintakses kodējumu shēma"@lv,
+        "Skema ta' konverżjoni tas-sintassi"@mt,
+        "Kodeskjema for syntaks"@nb,
+        "Syntaxiscoderingsschema"@nl,
+        "Kodeskjema for syntaks"@nn,
+        "Kodeskjema for syntaks"@no,
+        "System kodowania składniowego"@pl,
+        "Esquema de codificação sintática"@pt,
+        "Sistem de codificare a sintaxei"@ro,
+        "Syntaktická schéma kódovania"@sk,
+        "Shema kodiranja sintakse"@sl,
+        "Syntaxschema"@sv ;
+    skos:topConceptOf atold:dataset-type .
+
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTHETIC_DATA> a skos:Concept ;
+    at:authority-code "SYNTHETIC_DATA" ;
+    at:deprecated "false" ;
+    at:op-code "SYNTHETIC_DATA" ;
+    at:start.use "2020-05-19" ;
+    atold:op-code "SYNTHETIC_DATA" ;
+    dc:identifier "SYNTHETIC_DATA" ;
+    skos:definition "Synthetic data is data which is (artificially) created entirely or partially for use in tests, and to meet specific needs or conditions in the real-world that (existing) real-world data may not represent, e.g. anonymised datasets, typically used for proof of concept or simulation."@en ;
+    skos:inScheme atold:dataset-type ;
+    skos:prefLabel "Синтетични данни"@bg,
+        "Syntetická data"@cs,
+        "Syntetiske data"@da,
+        "Synthetische Daten"@de,
+        "Συνθετικά δεδομένα"@el,
+        "Synthetic data"@en,
+        "Datos sintéticos"@es,
+        "Sünteetilised andmed"@et,
+        "Synteettiset tiedot"@fi,
+        "Données synthétiques"@fr,
+        "Sonraí sintéiseacha"@ga,
+        "Sintetički podaci"@hr,
+        "Szintetikus adat"@hu,
+        "Dati sintetici"@it,
+        "Dirbtiniai duomenys"@lt,
+        "Sintētiskie dati"@lv,
+        "Data sintetika"@mt,
+        "Kunstig data"@nb,
+        "Synthetische gegevens"@nl,
+        "Kunstig data"@nn,
+        "Kunstig data"@no,
+        "Dane syntetyczne"@pl,
+        "Dados sintéticos"@pt,
+        "Date sintetice"@ro,
+        "Syntetické údaje"@sk,
+        "Sintetični podatki"@sl,
+        "Syntetiska data"@sv ;
+    skos:topConceptOf atold:dataset-type .
+
+<http://publications.europa.eu/resource/authority/dataset-type/TAXONOMY> a skos:Concept ;
+    at:authority-code "TAXONOMY" ;
+    at:deprecated "false" ;
+    at:op-code "TAXONOMY" ;
+    at:start.use "2013-01-01" ;
+    atold:op-code "TAXONOMY" ;
+    dc:identifier "TAXONOMY" ;
+    skos:changeNote "ISO/DIS 25964-2"@en ;
+    skos:definition "A taxonomy is a scheme of categories and subcategories that can be used to sort and otherwise organise items of knowledge or information."@en ;
+    skos:inScheme atold:dataset-type ;
+    skos:prefLabel "Таксономия"@bg,
+        "Taxonomie"@cs,
+        "Taksonomi"@da,
+        "Taxonomie"@de,
+        "Ταξονομία"@el,
+        "Taxonomy"@en,
+        "Taxonomía"@es,
+        "Taksonoomia"@et,
+        "Taksonomia"@fi,
+        "Taxonomie"@fr,
+        "Tacsanomaíocht"@ga,
+        "Taksonomija"@hr,
+        "Taxonómia"@hu,
+        "Tassonomia"@it,
+        "Sistematika"@lt,
+        "Taksonomija"@lv,
+        "Tassonomija"@mt,
+        "Taksonomi"@nb,
+        "Taxonomie"@nl,
+        "Taksonomi"@nn,
+        "Taksonomi"@no,
+        "Klasyfikacja"@pl,
+        "Taxonomia"@pt,
+        "Taxonomie"@ro,
+        "Taxonómia"@sk,
+        "Taksonomija"@sl,
+        "Taxonomi"@sv ;
+    skos:topConceptOf atold:dataset-type .
+
+<http://publications.europa.eu/resource/authority/dataset-type/TEST_DATA> a skos:Concept ;
+    at:authority-code "TEST_DATA" ;
+    at:deprecated "false" ;
+    at:op-code "TEST_DATA" ;
+    at:start.use "2020-05-19" ;
+    atold:op-code "TEST_DATA" ;
+    dc:identifier "TEST_DATA" ;
+    skos:definition "Test data is data which is created for use in tests, which should be syntactically correct but which may not necessarily represent any real-world phenomena, e.g. datasets with ‘dummy data’, typically used in system integration."@en ;
+    skos:inScheme atold:dataset-type ;
+    skos:prefLabel "Данни от изпитването"@bg,
+        "Testovací data"@cs,
+        "Testdata"@da,
+        "Testdaten"@de,
+        "Δεδομένα δοκιμής"@el,
+        "Test data"@en,
+        "Datos de prueba"@es,
+        "Testandmed"@et,
+        "Testitiedot"@fi,
+        "Données d’essai"@fr,
+        "Sonraí tástála"@ga,
+        "Ispitni podaci"@hr,
+        "Tesztadat"@hu,
+        "Dati di prova"@it,
+        "Bandymo duomenys"@lt,
+        "Dati testēšanai"@lv,
+        "Data tal-ittestjar"@mt,
+        "Testdata"@nb,
+        "Testgegevens"@nl,
+        "Testdata"@nn,
+        "Testdata"@no,
+        "Dane testowe"@pl,
+        "Dados de testes"@pt,
+        "Date test"@ro,
+        "Fiktívne údaje na účely skúšok"@sk,
+        "Podatki o preskusu"@sl,
+        "Testdata"@sv ;
+    skos:topConceptOf atold:dataset-type .
+
+<http://publications.europa.eu/resource/authority/dataset-type/THESAURUS> a skos:Concept ;
+    at:authority-code "THESAURUS" ;
+    at:deprecated "false" ;
+    at:op-code "THESAURUS" ;
+    at:start.use "2013-01-01" ;
+    atold:op-code "THESAURUS" ;
+    dc:identifier "THESAURUS" ;
+    skos:changeNote "ISO 25964-1:2011"@en,
+        "http://www.iso.org/iso/catalogue_detail.htm?csnumber=53657"@en ;
+    skos:definition "A thesaurus is a controlled and structured vocabulary in which concepts are represented by terms, organised so that relationships between concepts are made explicit, and preferred terms are accompanied by lead-in entries for synonyms or quasi-synonyms."@en ;
+    skos:inScheme atold:dataset-type ;
+    skos:prefLabel "Тезаурус"@bg,
+        "Tezaurus"@cs,
+        "Tesaurus"@da,
+        "Thesaurus"@de,
+        "Θησαυρός"@el,
+        "Thesaurus"@en,
+        "Tesauro"@es,
+        "Tesaurus"@et,
+        "Tesaurus"@fi,
+        "Thésaurus"@fr,
+        "Teasáras"@ga,
+        "Pojmovnik"@hr,
+        "Tezaurusz"@hu,
+        "Tesauro"@it,
+        "Tezauras"@lt,
+        "Tēzaurs"@lv,
+        "Teżawru"@mt,
+        "Tesaurus"@nb,
+        "Thesaurus"@nl,
+        "Tesaurus"@nn,
+        "Tesaurus"@no,
+        "Tezaurus"@pl,
+        "Tesauro"@pt,
+        "Tezaur"@ro,
+        "Synonymický slovník"@sk,
+        "Tezaver"@sl,
+        "Tesaurus"@sv ;
+    skos:topConceptOf atold:dataset-type .
+
+<http://publications.europa.eu/resource/authority/dataset-types/OP_DATPRO> a skos:Concept ;
+    at:authority-code "OP_DATPRO" ;
+    at:deprecated "false" ;
+    at:op-code "OP_DATPRO" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:dataset-type ;
+    skos:prefLabel "НЕОКОНЧАТЕЛНИ ДАННИ"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv ;
+    skos:topConceptOf atold:dataset-type .
+
+atold:dataset-type a skos:ConceptScheme ;
+    rdfs:label "Dataset type"@en ;
+    at:prefLabel "Dataset type"@en ;
+    at:table.id "dataset-type" ;
+    at:table.version.number "20220316-0" ;
+    owl:versionInfo "20220316-0" ;
+    skos:prefLabel "Dataset type"@en .
+

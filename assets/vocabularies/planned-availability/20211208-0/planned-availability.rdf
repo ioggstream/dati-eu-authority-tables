@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:at="http://publications.europa.eu/ontology/authority/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:atold="http://publications.europa.eu/resource/authority/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xml:base="http://publications.europa.eu/resource/authority/planned-availability">
+   <skos:ConceptScheme rdf:about="http://publications.europa.eu/resource/authority/planned-availability"
+                       at:table.id="planned-availability"
+                       at:table.version.number="20211208-0">
+      <at:prefLabel xml:lang="en">Planned availability</at:prefLabel>
+      <rdfs:label xml:lang="en">Planned availability</rdfs:label>
+      <owl:versionInfo>20211208-0</owl:versionInfo>
+      <skos:prefLabel xml:lang="en">Planned availability</skos:prefLabel>
+   </skos:ConceptScheme>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">налични</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">k dispozici</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">til rådighed</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">verfügbar</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">διαθέσιμα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">available</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">disponible</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">kättesaadav</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">saatavilla</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">disponible</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">ar fáil</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">dostupan</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">elérhető</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">disponibile</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">yra</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">pieejams</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">disponibbli</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">beschikbaar</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">dostępne</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">disponível</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">disponibil</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">dostupné</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">na voljo</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">tillgänglig</skos:prefLabel>
+      <at:authority-code>AVAILABLE</at:authority-code>
+      <at:op-code>AVAILABLE</at:op-code>
+      <at:start.use>2021-12-08</at:start.use>
+      <atold:op-code>AVAILABLE</atold:op-code>
+      <dc:identifier>AVAILABLE</dc:identifier>
+      <skos:definition xml:lang="en">Data is available for a few years, medium term planning.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/planned-availability"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/planned-availability"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/planned-availability/EXPERIMENTAL"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">експериментални</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">experimentální</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">eksperimentel</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">experimentell</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">πειραματικά</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">experimental</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">experimental</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">eksperimentaalne</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">kokeellinen</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">expérimental</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">turgnamhach</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">eksperimentalan</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">kísérleti</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">sperimentale</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">eksperimentiniai</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">eksperimentāls</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">sperimentali</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">experimenteel</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">eksperymentalne</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">experimental</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">experimental</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">experimentálne</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">poskusno</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">experimentell</skos:prefLabel>
+      <at:authority-code>EXPERIMENTAL</at:authority-code>
+      <at:op-code>EXPERIMENTAL</at:op-code>
+      <at:start.use>2021-12-08</at:start.use>
+      <atold:op-code>EXPERIMENTAL</atold:op-code>
+      <dc:identifier>EXPERIMENTAL</dc:identifier>
+      <skos:definition xml:lang="en">Data is available on a trial basis for a short period, short term planning.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/planned-availability"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/planned-availability"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/planned-availability/OP_DATPRO"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">НЕОКОНЧАТЕЛНИ ДАННИ</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Předběžné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Midlertidige data</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Vorläufige Daten</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Προσωρινά δεδομένα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Provisional data</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Datos provisionales</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Esialgsed andmed</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Alustavat tiedot</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Données provisoires</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Sonraí sealadacha</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Privremeni podaci</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Ideiglenes adatok</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Dati provvisori</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Laikinieji duomenys</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Provizoriski dati</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Dejta provviżorja</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Voorlopige gegevens</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Dane tymczasowe</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Dados provisórios</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Date provizorii</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Predbežné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Začasni podatki</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Tillfälliga uppgifter</skos:prefLabel>
+      <at:authority-code>OP_DATPRO</at:authority-code>
+      <at:op-code>OP_DATPRO</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>OP_DATPRO</atold:op-code>
+      <dc:identifier>OP_DATPRO</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/planned-availability"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/planned-availability"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/planned-availability/STABLE"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">стабилни</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">stabilní</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">stabil</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">stabil</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">σταθερά</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">stable</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">estable</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">püsiv</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">vakaa</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">stable</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">cobhsaí</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">stabilan</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">stabil</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">stabile</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">stabilūs</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">stabils</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">stabbli</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">stabiel</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">stabilne</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">estável</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">stabil</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">stabilné</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">stabilen</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">stabil</skos:prefLabel>
+      <at:authority-code>STABLE</at:authority-code>
+      <at:op-code>STABLE</at:op-code>
+      <at:start.use>2021-12-08</at:start.use>
+      <atold:op-code>STABLE</atold:op-code>
+      <dc:identifier>STABLE</dc:identifier>
+      <skos:definition xml:lang="en">Data will remain available in the long term.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/planned-availability"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/planned-availability"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/planned-availability/TEMPORARY"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">временни</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">přechodný</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">midlertidig</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">temporär</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">προσωρινά</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">temporary</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">temporal</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">ajutine</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">väliaikainen</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">temporaire</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">sealadach</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">privremen</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">ideiglenes</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">temporaneo</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">laikini</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">pagaidu</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">temporanju</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">tijdelijk</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">tymczasowe</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">temporário</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">temporar</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">dočasné</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">začasno</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">temporär</skos:prefLabel>
+      <at:authority-code>TEMPORARY</at:authority-code>
+      <at:op-code>TEMPORARY</at:op-code>
+      <at:start.use>2021-12-08</at:start.use>
+      <atold:op-code>TEMPORARY</atold:op-code>
+      <dc:identifier>TEMPORARY</dc:identifier>
+      <skos:definition xml:lang="en">Data can disappear at any time, no planning.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/planned-availability"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/planned-availability"/>
+   </skos:Concept>
+</rdf:RDF>

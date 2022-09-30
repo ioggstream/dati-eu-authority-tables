@@ -1,0 +1,210 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/procedure-nature/INT> a skos:Concept ;
+    at:authority-code "INT" ;
+    at:deprecated "false" ;
+    at:op-code "INT" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "INT" ;
+    dc:identifier "INT" ;
+    skos:inScheme atold:procedure-nature ;
+    skos:prefLabel "вътрешно"@bg,
+        "vnitřní"@cs,
+        "intern"@da,
+        "intern"@de,
+        "εσωτερική"@el,
+        "internal"@en,
+        "interno"@es,
+        "sisemine"@et,
+        "sisäinen menettely"@fi,
+        "interne"@fr,
+        "inmheánach"@ga,
+        "interni"@hr,
+        "belső"@hu,
+        "interno"@it,
+        "vidaus"@lt,
+        "iekšējs"@lv,
+        "intern"@mt,
+        "intern"@nl,
+        "wewnętrzny"@pl,
+        "interno"@pt,
+        "intern"@ro,
+        "interný"@sk,
+        "interni"@sl,
+        "internt förfarande"@sv .
+
+<http://publications.europa.eu/resource/authority/procedure-nature/INTERINST> a skos:Concept ;
+    at:authority-code "INTERINST" ;
+    at:deprecated "false" ;
+    at:op-code "INTERINST" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "INTERINST" ;
+    dc:identifier "INTERINST" ;
+    skos:inScheme atold:procedure-nature ;
+    skos:prefLabel "междуинституционално"@bg,
+        "interinstitucionální"@cs,
+        "interinstitutionel"@da,
+        "interinstitutionell"@de,
+        "διοργανική"@el,
+        "interinstitutional"@en,
+        "interinstitucional"@es,
+        "institutsioonidevaheline"@et,
+        "toimielinten välinen menettely"@fi,
+        "interinstitutionnel"@fr,
+        "idirinstitiúideach"@ga,
+        "međuinstitucijski"@hr,
+        "intézményközi"@hu,
+        "interistituzionale"@it,
+        "tarpinstitucinis"@lt,
+        "starpiestāžu"@lv,
+        "interinstituzzjonali"@mt,
+        "interinstitutioneel"@nl,
+        "międzyinstytucjonalny"@pl,
+        "interinstitucional"@pt,
+        "interinstituțional"@ro,
+        "medziinštitucionálny"@sk,
+        "medinstitucionalni"@sl,
+        "interinstitutionellt förfarande"@sv .
+
+<http://publications.europa.eu/resource/authority/procedure-nature/JURISD> a skos:Concept ;
+    at:authority-code "JURISD" ;
+    at:deprecated "false" ;
+    at:op-code "JURISD" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "JURISD" ;
+    dc:identifier "JURISD" ;
+    skos:inScheme atold:procedure-nature ;
+    skos:prefLabel "съдебно"@bg,
+        "jurisdikční"@cs,
+        "kompetencemæssig"@da,
+        "gerichtlich"@de,
+        "δικαιοδοτικού χαρακτήρα"@el,
+        "jurisdictional"@en,
+        "jurisdiccional"@es,
+        "kohtualluvuslik"@et,
+        "tuomioistuinmenettely"@fi,
+        "juridictionnel"@fr,
+        "dlínsiúil"@ga,
+        "sudski"@hr,
+        "bírósági"@hu,
+        "giurisdizionale"@it,
+        "teisminis"@lt,
+        "tiesas ceļā"@lv,
+        "ġurisdizzjoni"@mt,
+        "formeelrechtelijk"@nl,
+        "sądowy"@pl,
+        "jurisdicional"@pt,
+        "jurisdicțional"@ro,
+        "jurisdikčný"@sk,
+        "sodni"@sl,
+        "domstolsförfarande"@sv .
+
+<http://publications.europa.eu/resource/authority/procedure-nature/LEG> a skos:Concept ;
+    at:authority-code "LEG" ;
+    at:deprecated "false" ;
+    at:op-code "LEG" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "LEG" ;
+    dc:identifier "LEG" ;
+    skos:inScheme atold:procedure-nature ;
+    skos:prefLabel "законодателно"@bg,
+        "legislativní"@cs,
+        "lovgivningsmæssig"@da,
+        "legislativ"@de,
+        "νομοθετική"@el,
+        "legislative"@en,
+        "legislativo"@es,
+        "seadusandlik"@et,
+        "lainsäädäntömenettely"@fi,
+        "législatif"@fr,
+        "reachtach"@ga,
+        "zakonodavni"@hr,
+        "jogalkotási"@hu,
+        "legislativo"@it,
+        "teisėkūros"@lt,
+        "leģislatīvs"@lv,
+        "leġiżlattiv"@mt,
+        "wetgevend"@nl,
+        "ustawodawczy"@pl,
+        "legislativo"@pt,
+        "cu caracter legislativ"@ro,
+        "legislatívny"@sk,
+        "zakonodajni"@sl,
+        "lagstiftningsförfarande"@sv .
+
+<http://publications.europa.eu/resource/authority/procedure-nature/NON_LEG> a skos:Concept ;
+    at:authority-code "NON_LEG" ;
+    at:deprecated "false" ;
+    at:op-code "NON_LEG" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "NON_LEG" ;
+    dc:identifier "NON_LEG" ;
+    skos:inScheme atold:procedure-nature ;
+    skos:prefLabel "незаконодателно"@bg,
+        "nelegislativní"@cs,
+        "ikkelovgivningsmæssig"@da,
+        "nicht legislativ"@de,
+        "μη νομοθετική"@el,
+        "non legislative"@en,
+        "no legislativo"@es,
+        "muu kui seadusandlik"@et,
+        "muu kuin lainsäädäntömenettely"@fi,
+        "non législatif"@fr,
+        "neamhreachtach"@ga,
+        "nezakonodavni"@hr,
+        "nem jogalkotási"@hu,
+        "non legislativo"@it,
+        "ne teisėkūros"@lt,
+        "neleģislatīvs"@lv,
+        "mhux leġiżlattiv"@mt,
+        "niet-wetgevend"@nl,
+        "nieustawodawczy"@pl,
+        "não legislativo"@pt,
+        "fără caracter legislativ"@ro,
+        "nelegislatívny"@sk,
+        "nezakonodajni"@sl,
+        "icke-lagstiftningsförfarande"@sv .
+
+<http://publications.europa.eu/resource/authority/procedure-nature/OP_DATPRO> a skos:Concept ;
+    at:op-code "OP_DATPRO" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:procedure-nature ;
+    skos:prefLabel "НЕОКОНЧАТЕЛНИ ДАННИ"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv .
+
+atold:procedure-nature a skos:ConceptScheme ;
+    rdfs:label "Procedure nature"@en ;
+    at:prefLabel "Procedure nature"@en ;
+    at:table.id "procedure-nature" ;
+    at:table.version.number "20210317-0" ;
+    owl:versionInfo "20210317-0" ;
+    skos:prefLabel "Procedure nature"@en .
+

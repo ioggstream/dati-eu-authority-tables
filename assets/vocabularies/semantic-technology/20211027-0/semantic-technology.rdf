@@ -1,0 +1,1173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:at="http://publications.europa.eu/ontology/authority/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:atold="http://publications.europa.eu/resource/authority/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xml:base="http://publications.europa.eu/resource/authority/semantic-technology">
+   <skos:ConceptScheme rdf:about="http://publications.europa.eu/resource/authority/semantic-technology"
+                       at:table.id="semantic-technology"
+                       at:table.version.number="20211027-0">
+      <at:prefLabel xml:lang="en">Semantic technology</at:prefLabel>
+      <rdfs:label xml:lang="en">Semantic technology</rdfs:label>
+      <owl:versionInfo>20211027-0</owl:versionInfo>
+      <skos:prefLabel xml:lang="en">Semantic technology</skos:prefLabel>
+   </skos:ConceptScheme>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/semantic-technology/GRDDL"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">GRDDL</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">GRDDL</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">GRDDL</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">GRDDL</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">GRDDL</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">GRDDL</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">GRDDL</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">GRDDL</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">GRDDL</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">GRDDL</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">GRDDL</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">GRDDL</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">GRDDL</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">GRDDL</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">GRDDL</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">GRDDL</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">GRDDL</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">GRDDL</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">GRDDL</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">GRDDL</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">GRDDL</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">GRDDL</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">GRDDL</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">GRDDL</skos:prefLabel>
+      <at:authority-code>GRDDL</at:authority-code>
+      <at:op-code>GRDDL</at:op-code>
+      <at:start.use>2021-08-30</at:start.use>
+      <atold:op-code>GRDDL</atold:op-code>
+      <dc:identifier>GRDDL</dc:identifier>
+      <skos:altLabel xml:lang="bg">Gleaning Resource Descriptions from Dialects of Languages</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Mikroformát GRDDL</skos:altLabel>
+      <skos:altLabel xml:lang="da">Gleaning Resource Descriptions from Dialects of Languages</skos:altLabel>
+      <skos:altLabel xml:lang="de">Gleaning Resource Descriptions from Dialects of Languages</skos:altLabel>
+      <skos:altLabel xml:lang="el">Gleaning Resource Descriptions from Dialects of Languages</skos:altLabel>
+      <skos:altLabel xml:lang="en">Gleaning Resource Descriptions from Dialects of Languages</skos:altLabel>
+      <skos:altLabel xml:lang="es">Gleaning Resource Descriptions from Dialects of Languages</skos:altLabel>
+      <skos:altLabel xml:lang="et">Gleaning Resource Descriptions from Dialects of Languages (keeledialektide kogutud ressursside kirjeldused)</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Gleaning Resource Descriptions from Dialects of Languages</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Gleaning Resource Descriptions from Dialects of Languages</skos:altLabel>
+      <skos:altLabel xml:lang="ga">Gleaning Resource Descriptions from Dialects of Languages</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Gleaning Resource Descriptions from Dialects of Languages</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Gleaning Resource Descriptions from Dialects of Languages</skos:altLabel>
+      <skos:altLabel xml:lang="it">Gleaning Resource Descriptions from Dialects of Languages (estrazione delle descrizioni delle risorse dai dialetti dei linguaggi)</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Gleaning Resource Descriptions from Dialects of Languages</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Gleaning Resource Descriptions from Dialects of Languages</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Gleaning Resource Descriptions from Dialects of Languages</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Gleaning Resource Descriptions from Dialects of Languages</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Gleaning Resource Descriptions from Dialects of Languages</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Gleaning Resource Descriptions from Dialects of Languages (Recolha de descrições de recursos a partir de dialetos das línguas)</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Gleaning Resource Descriptions from Dialects of Languages</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Zber opisu zdrojov z dialektov</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Gleaning Resource Descriptions from Dialects of Languages</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Gleaning Resource Descriptions from Dialects of Languages</skos:altLabel>
+      <skos:definition xml:lang="en">GRDDL is a markup format for Gleaning Resource Descriptions from Dialects of Languages. It is a W3C recommendation and enables users to obtain RDF triples out of XML documents, including XHTML.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/semantic-technology"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/semantic-technology"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/semantic-technology/LDF"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">LDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">LDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">LDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">LDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">LDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">LDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">LDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">LDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">LDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">LDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">LDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">LDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">LDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">LDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">LDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">LDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">LDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">LDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">LDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">LDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">LDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">LDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">LDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">LDF</skos:prefLabel>
+      <at:authority-code>LDF</at:authority-code>
+      <at:op-code>LDF</at:op-code>
+      <at:start.use>2021-08-30</at:start.use>
+      <atold:op-code>LDF</atold:op-code>
+      <dc:identifier>LDF</dc:identifier>
+      <skos:altLabel xml:lang="bg">Linked Data Fragments</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Linked Data Fragments</skos:altLabel>
+      <skos:altLabel xml:lang="da">Linked Data Fragments</skos:altLabel>
+      <skos:altLabel xml:lang="de">Linked Data Fragments</skos:altLabel>
+      <skos:altLabel xml:lang="el">Τμήματα συνδεδεμένων δεδομένων (Linked Data Fragments)</skos:altLabel>
+      <skos:altLabel xml:lang="en">Linked Data Fragments</skos:altLabel>
+      <skos:altLabel xml:lang="es">Linked Data Fragments</skos:altLabel>
+      <skos:altLabel xml:lang="et">Linked Data Fragments (lingitud andmete fragmendid)</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Linked Data Fragments</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Linked Data Fragments</skos:altLabel>
+      <skos:altLabel xml:lang="ga">Linked Data Fragments</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Linked Data Fragments</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Linked Data Fragments</skos:altLabel>
+      <skos:altLabel xml:lang="it">Linked Data Fragments (frammenti di dati collegati)</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Linked Data Fragments</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Linked Data Fragments</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Linked Data Fragments</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Linked Data-fragmenten</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Linked Data Fragments</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Linked Data Fragments (Fragmentos de dados ligados)</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Fragmente date conectate</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Fragmenty prepojených údajov</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Linked Data Fragments</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Linked Data Fragments</skos:altLabel>
+      <skos:definition xml:lang="en">LDF – Linked Data Fragments – is a conceptual framework that provides a uniform view on all possible interfaces to RDF, by observing that each interface partitions a dataset into its own specific kind of fragments. Specifically, a Linked Data Fragment (LDF) of a Linked Data dataset is a resource consisting of those triples of this dataset that match a specific selector, together with metadata and hypermedia controls.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/semantic-technology"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/semantic-technology"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/semantic-technology/LDFLEX"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">LDFlex</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">LDFlex</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">LDFlex</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">LDFlex</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">LDFlex</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">LDFlex</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">LDFlex</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">LDFlex</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">LDFlex</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">LDFlex</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">LDFlex</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">LDFlex</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">LDFlex</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">LDFlex</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">LDFlex</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">LDFlex</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">LDFlex</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">LDFlex</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">LDFlex</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">LDFlex</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">LDFlex</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">LDFlex</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">LDFlex</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">LDFlex</skos:prefLabel>
+      <at:authority-code>LDFLEX</at:authority-code>
+      <at:op-code>LDFLEX</at:op-code>
+      <at:start.use>2021-08-30</at:start.use>
+      <atold:op-code>LDFLEX</atold:op-code>
+      <dc:identifier>LDFLEX</dc:identifier>
+      <skos:altLabel xml:lang="bg">Linked Data flexibility</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Linked Data flexibility</skos:altLabel>
+      <skos:altLabel xml:lang="da">Linked Data flexibility</skos:altLabel>
+      <skos:altLabel xml:lang="de">Linked Data flexibility</skos:altLabel>
+      <skos:altLabel xml:lang="el">Ευελιξία συνδεδεμένων δεδομένων (Linked Data flexibility)</skos:altLabel>
+      <skos:altLabel xml:lang="en">Linked Data flexibility</skos:altLabel>
+      <skos:altLabel xml:lang="es">Linked Data flexibility</skos:altLabel>
+      <skos:altLabel xml:lang="et">Linked Data flexibility (lingitud andmete paindlikkus)</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Linked Data flexibility</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Linked Data flexibility</skos:altLabel>
+      <skos:altLabel xml:lang="ga">Linked Data flexibility</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Linked Data flexibility</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Linked Data flexibility</skos:altLabel>
+      <skos:altLabel xml:lang="it">Linked Data flexibility (flessibilità dei dati collegati)</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Linked Data flexibility</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Linked Data flexibility</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Linked Data flexibility</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Linked Data-flexibiliteit</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Linked Data flexibility</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Linked Data flexibility (Flexibilidade de dados ligados)</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Flexibilitate date conectate</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Flexibilita prepojených údajov</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Linked Data flexibility</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Linked Data flexibility</skos:altLabel>
+      <skos:definition xml:lang="en">LDflex is a domain-specific language for querying Linked Data on the Web as if you were browsing a local JavaScript graph.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/semantic-technology"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/semantic-technology"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/semantic-technology/LDN"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">LDN</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">LDN</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">LDN</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">LDN</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">LDN</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">LDN</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">LDN</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">LDN</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">LDN</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">LDN</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">LDN</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">LDN</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">LDN</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">LDN</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">LDN</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">LDN</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">LDN</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">LDN</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">LDN</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">LDN</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">LDN</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">LDN</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">LDN</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">LDN</skos:prefLabel>
+      <at:authority-code>LDN</at:authority-code>
+      <at:op-code>LDN</at:op-code>
+      <at:start.use>2021-08-30</at:start.use>
+      <atold:op-code>LDN</atold:op-code>
+      <dc:identifier>LDN</dc:identifier>
+      <skos:altLabel xml:lang="bg">Linked Data Notifications</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Linked Data Notifications</skos:altLabel>
+      <skos:altLabel xml:lang="da">Linked Data Notifications</skos:altLabel>
+      <skos:altLabel xml:lang="de">Linked Data Notifications</skos:altLabel>
+      <skos:altLabel xml:lang="el">Linked Data Notifications (πρωτόκολλο LDN)</skos:altLabel>
+      <skos:altLabel xml:lang="en">Linked Data Notifications</skos:altLabel>
+      <skos:altLabel xml:lang="es">Linked Data Notifications</skos:altLabel>
+      <skos:altLabel xml:lang="et">Linked Data Notifications (lingitud andmete teated)</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Linked Data Notifications</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Linked Data Notifications</skos:altLabel>
+      <skos:altLabel xml:lang="ga">Linked Data Notifications</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Linked Data Notifications</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Linked Data Notifications</skos:altLabel>
+      <skos:altLabel xml:lang="it">Linked Data Notifications (notifiche sui dati collegati)</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Linked Data Notifications</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Linked Data Notifications</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Linked Data Notifications</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Linked Data-kennisgevingen</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Linked Data Notifications</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Linked Data Notifications (Notificações de dados ligados)</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Notificări date conectate</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Oznámenia o prepojených údajoch</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Linked Data Notifications</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Linked Data Notifications</skos:altLabel>
+      <skos:definition xml:lang="en">LDN – Linked Data Notifications – is a protocol that describes how servers (receivers) can have messages pushed to them by applications (senders), as well as how other applications (consumers) may retrieve those messages. Any resource can advertise a receiving endpoint (Inbox) for the messages. Messages are expressed in RDF, and can contain any data. In essence, LDN supports sharing and reuse of notifications across applications, regardless of how they were generated. This allows for more modular systems, which decouple data storage from the applications which display or otherwise make use of the data.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/semantic-technology"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/semantic-technology"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/semantic-technology/LDP"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">LDP</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">LDP</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">LDP</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">LDP</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">LDP</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">LDP</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">LDP</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">LDP</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">LDP</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">LDP</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">LDP</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">LDP</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">LDP</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">LDP</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">LDP</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">LDP</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">LDP</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">LDP</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">LDP</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">LDP</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">LDP</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">LDP</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">LDP</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">LDP</skos:prefLabel>
+      <at:authority-code>LDP</at:authority-code>
+      <at:op-code>LDP</at:op-code>
+      <at:start.use>2021-08-30</at:start.use>
+      <atold:op-code>LDP</atold:op-code>
+      <dc:identifier>LDP</dc:identifier>
+      <skos:altLabel xml:lang="bg">Linked Data Platform</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Linked Data Platform</skos:altLabel>
+      <skos:altLabel xml:lang="da">Linked Data Platform</skos:altLabel>
+      <skos:altLabel xml:lang="de">Linked Data Platform</skos:altLabel>
+      <skos:altLabel xml:lang="el">Πλατφόρμα συνδεδεμένων δεδομένων (Linked Data Platform)</skos:altLabel>
+      <skos:altLabel xml:lang="en">Linked Data Platform</skos:altLabel>
+      <skos:altLabel xml:lang="es">Linked Data Platform</skos:altLabel>
+      <skos:altLabel xml:lang="et">Linked Data Platform (lingitud andmete platvorm)</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Linked Data Platform</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Linked Data Platform</skos:altLabel>
+      <skos:altLabel xml:lang="ga">Linked Data Platform</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Linked Data Platform</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Linked Data Platform</skos:altLabel>
+      <skos:altLabel xml:lang="it">Linked Data Platform (piattaforma dei dati collegati)</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Linked Data Platform</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Linked Data Platform</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Linked Data Platform</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Linked Data-platform</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Linked Data Platform</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Linked Data Platform (Plataforma de dados ligados)</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Platformă date conectate</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Platforma prepojených údajov</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Linked Data Platform</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Linked Data Platform</skos:altLabel>
+      <skos:definition xml:lang="en">LDP – Linked Data Platform – is a W3C recommendation that defines a set of rules for HTTP operations on web resources, to provide an architecture for read-write Linked Data on the Web.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/semantic-technology"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/semantic-technology"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/semantic-technology/OP_DATPRO"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">НЕОКОНЧАТЕЛНИ ДАННИ</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Předběžné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Midlertidige data</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Vorläufige Daten</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Προσωρινά δεδομένα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Provisional data</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Datos provisionales</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Esialgsed andmed</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Alustavat tiedot</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Données provisoires</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Sonraí sealadacha</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Privremeni podaci</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Ideiglenes adatok</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Dati provvisori</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Laikinieji duomenys</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Provizoriski dati</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Dejta provviżorja</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Voorlopige gegevens</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Dane tymczasowe</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Dados provisórios</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Date provizorii</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Predbežné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Začasni podatki</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Tillfälliga uppgifter</skos:prefLabel>
+      <at:authority-code>OP_DATPRO</at:authority-code>
+      <at:op-code>OP_DATPRO</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>OP_DATPRO</atold:op-code>
+      <dc:identifier>OP_DATPRO</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/semantic-technology"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/semantic-technology"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/semantic-technology/OWL"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">OWL</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">OWL</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">OWL</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">OWL</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">OWL</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">OWL</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">OWL</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">OWL</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">OWL</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">OWL</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">OWL</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">OWL</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">OWL</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">OWL</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">OWL</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">OWL</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">OWL</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">OWL</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">OWL</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">OWL</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">OWL</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">OWL</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">OWL</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">OWL</skos:prefLabel>
+      <at:authority-code>OWL</at:authority-code>
+      <at:op-code>OWL</at:op-code>
+      <at:start.use>2021-08-30</at:start.use>
+      <atold:op-code>OWL</atold:op-code>
+      <dc:identifier>OWL</dc:identifier>
+      <skos:altLabel xml:lang="bg">Ontology Web Language</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Jazyk OWL</skos:altLabel>
+      <skos:altLabel xml:lang="da">Ontology Web Language</skos:altLabel>
+      <skos:altLabel xml:lang="de">Ontology Web Language</skos:altLabel>
+      <skos:altLabel xml:lang="el">Διαδικτυακή γλώσσα οντολογίας (Ontology Web Language)</skos:altLabel>
+      <skos:altLabel xml:lang="en">Ontology Web Language</skos:altLabel>
+      <skos:altLabel xml:lang="es">Ontology Web Language</skos:altLabel>
+      <skos:altLabel xml:lang="et">Ontology Web Language (ontoloogia veebikeel)</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Ontology Web Language</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Ontology Web Language</skos:altLabel>
+      <skos:altLabel xml:lang="ga">Ontology Web Language</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Ontology Web Language</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Ontology Web Language</skos:altLabel>
+      <skos:altLabel xml:lang="it">Ontology Web Language (linguaggio per l’ontologia del web)</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Ontology Web Language</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Tīmekļa ontoloģijas valoda</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Ontology Web Language</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Ontology Web Language</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Ontology Web Language</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Ontology Web Language (Linguagem Web para Ontologias)</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Ontology Web Language</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Ontológia webového jazyka</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Ontology Web Language</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Ontology Web Language</skos:altLabel>
+      <skos:definition xml:lang="en">OWL is the acronym of Ontology Web Language, a semantic web standard defined by W3C, part of the semantic web technology stack, that is used to represent rich and complex knowledge about things, groups of things, and relations between things. OWL is a computational logic-based language such that knowledge expressed in OWL can be exploited by computer programs, e.g. to verify the consistency of that knowledge or to make implicit knowledge explicit.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/semantic-technology"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/semantic-technology"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/semantic-technology/R2RML"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">R2RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">R2RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">R2RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">R2RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">R2RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">R2RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">R2RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">R2RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">R2RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">R2RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">R2RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">R2RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">R2RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">R2RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">R2RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">R2RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">R2RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">R2RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">R2RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">R2RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">R2RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">R2RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">R2RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">R2RML</skos:prefLabel>
+      <at:authority-code>R2RML</at:authority-code>
+      <at:op-code>R2RML</at:op-code>
+      <at:start.use>2021-08-30</at:start.use>
+      <atold:op-code>R2RML</atold:op-code>
+      <dc:identifier>R2RML</dc:identifier>
+      <skos:altLabel xml:lang="bg">Relational databases to Resource Description Framework Mapping Language</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Jazyk R2RML</skos:altLabel>
+      <skos:altLabel xml:lang="da">Relational databases to Resource Description Framework Mapping Language</skos:altLabel>
+      <skos:altLabel xml:lang="de">Relational databases to Resource Description Framework Mapping Language</skos:altLabel>
+      <skos:altLabel xml:lang="el">Γλώσσα αντιστοίχισης σχεσιακών βάσεων δεδομένων προς RDF</skos:altLabel>
+      <skos:altLabel xml:lang="en">Relational databases to Resource Description Framework Mapping Language</skos:altLabel>
+      <skos:altLabel xml:lang="es">Relational databases to Resource Description Framework Mapping Language</skos:altLabel>
+      <skos:altLabel xml:lang="et">Relational databases to Resource Description Framework Mapping Language (ressursikirjeldusraamistiku vastendamiskeele relatsioonandmebaasid)</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Relational databases to Resource Description Framework Mapping Language</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Relational databases to Resource Description Framework Mapping Language</skos:altLabel>
+      <skos:altLabel xml:lang="ga">Relational databases to Resource Description Framework Mapping Language</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Relational databases to Resource Description Framework Mapping Language</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Relációs adatbázisok a Resource Description Framework Mapping Language-hez</skos:altLabel>
+      <skos:altLabel xml:lang="it">Relational databases to Resource Description Framework Mapping Language (banche dati relazionali del quadro di mappatura del linguaggio per la descrizione delle risorse)</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Relational databases to Resource Description Framework Mapping Language</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Relational databases to Resource Description Framework Mapping Language</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Relational databases to Resource Description Framework Mapping Language</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Relational databases to Resource Description Framework Mapping Language</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Relational databases to Resource Description Framework Mapping Language</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Relational databases to Resource Description Framework Mapping Language (Bases de dados relacionais para linguagem de mapeamento RDF)</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Relational databases to Resource Description Framework Mapping Language</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Mapovací jazyk relačných databáz k rámcu pre opis zdroja</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Relational databases to Resource Description Framework Mapping Language</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Relational databases to Resource Description Framework Mapping Language</skos:altLabel>
+      <skos:definition xml:lang="en">R2RML is the acronym of RDB to RDF Mapping Language. It is W3C recommendation language used for expressing customised mappings from relational databases to RDF datasets. Such mappings allows users to view existing relational data according to the RDF data model, expressed in a structure and target ontology vocabularies of the mapping author’s choice. R2RML mappings are themselves RDF graphs and written down in Turtle syntax.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/semantic-technology"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/semantic-technology"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/semantic-technology/RDF"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">RDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">RDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">RDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">RDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">RDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">RDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">RDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">RDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">RDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">RDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">RDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">RDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">RDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">RDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">RDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">RDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">RDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">RDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">RDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">RDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">RDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">RDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">RDF</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">RDF</skos:prefLabel>
+      <at:authority-code>RDF</at:authority-code>
+      <at:op-code>RDF</at:op-code>
+      <at:start.use>2021-08-30</at:start.use>
+      <atold:op-code>RDF</atold:op-code>
+      <dc:identifier>RDF</dc:identifier>
+      <skos:altLabel xml:lang="bg">Resource Description Framework</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Systém popisu zdrojů</skos:altLabel>
+      <skos:altLabel xml:lang="da">Resource Description Framework</skos:altLabel>
+      <skos:altLabel xml:lang="de">Resource Description Framework</skos:altLabel>
+      <skos:altLabel xml:lang="el">Πλαίσιο περιγραφής πόρων (Resource Description Framework)</skos:altLabel>
+      <skos:altLabel xml:lang="en">Resource Description Framework</skos:altLabel>
+      <skos:altLabel xml:lang="es">Resource Description Framework</skos:altLabel>
+      <skos:altLabel xml:lang="et">Resource Description Framework (ressursikirjeldamisraamistik)</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Resource Description Framework</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Resource Description Framework</skos:altLabel>
+      <skos:altLabel xml:lang="ga">Resource Description Framework</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Resource Description Framework</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Resource Description Framework</skos:altLabel>
+      <skos:altLabel xml:lang="it">Resource Description Framework (quadro di descrizione delle risorse)</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Išteklių aprašymo sistema</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Resursu aprakstīšanas standarts</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Resource Description Framework</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Resource Description Framework</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Resource Description Framework</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Resource Description Framework (Quadro de descrição de recursos)</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Resource Description Framework</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Rámec pre opis zdroja</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Resource Description Framework</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Resource Description Framework</skos:altLabel>
+      <skos:definition xml:lang="en">RDF – Resource Description Framework – is a W3C recommendation; it is a standard data model for data interchange on the Web. RDF supports natively data integration, even if the underlying schemes to represent the data differ, and it specifically supports the evolution of schemas over time without requiring all the data consumers to be changed. The RDF data model structures the data in the form of triples subject-predicate-object where subjects and predicates are identified univocally by a so-called URI (Uniform Resource Identifier) whereas the objects can be identified by a URI or can be a literal (a final value such as a string, a date, a number).</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/semantic-technology"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/semantic-technology"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/semantic-technology/RDFA"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">RDFa</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">RDFa</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">RDFa</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">RDFa</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">RDFa</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">RDFa</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">RDFa</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">RDFa</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">RDFa</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">RDFa</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">RDFa</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">RDFa</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">RDFa</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">RDFa</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">RDFa</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">RDFa</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">RDFa</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">RDFa</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">RDFa</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">RDFa</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">RDFa</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">RDFa</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">RDFa</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">RDFa</skos:prefLabel>
+      <at:authority-code>RDFA</at:authority-code>
+      <at:op-code>RDFA</at:op-code>
+      <at:start.use>2021-08-30</at:start.use>
+      <atold:op-code>RDFA</atold:op-code>
+      <dc:identifier>RDFA</dc:identifier>
+      <skos:altLabel xml:lang="bg">Resource Description Framework in Attributes</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Systém popisu zdrojů v atributech</skos:altLabel>
+      <skos:altLabel xml:lang="da">Resource Description Framework in Attributes</skos:altLabel>
+      <skos:altLabel xml:lang="de">Resource Description Framework in Attributes</skos:altLabel>
+      <skos:altLabel xml:lang="el">Πλαίσιο περιγραφής πόρων στα χαρακτηριστικά (Resource Description Framework in Attributes)</skos:altLabel>
+      <skos:altLabel xml:lang="en">Resource Description Framework in Attributes</skos:altLabel>
+      <skos:altLabel xml:lang="es">Resource Description Framework in Attributes</skos:altLabel>
+      <skos:altLabel xml:lang="et">Resource Description Framework in Attributes (ressursikirjeldamisraamistik atribuutidena)</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Resource Description Framework in Attributes</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Resource Description Framework in Attributes</skos:altLabel>
+      <skos:altLabel xml:lang="ga">Resource Description Framework in Attributes</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Resource Description Framework in Attributes</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Resource Description Framework in Attributes</skos:altLabel>
+      <skos:altLabel xml:lang="it">Resource Description Framework in Attributes (quadro di descrizione delle risorse negli attributi)</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Resource Description Framework in Attributes</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Resource Description Framework in Attributes</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Resource Description Framework in Attributes</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Resource Description Framework in Attributes</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Resource Description Framework in Attributes</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Resource Description Framework in Attributes (RDF com atributos)</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Resource Description Framework în Atribute</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Rámec pre opis zdroja v atribútoch</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Resource Description Framework in Attributes</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Resource Description Framework in Attributes</skos:altLabel>
+      <skos:definition xml:lang="en">RDFa is the acronym of Resource Description Framework in Attributes. It is a W3C recommendation that allows users to include a set of attribute-level extensions to HTML, XHTML and other XML-based document types for embedding rich metadata within Web documents. Search Engines and Web Services use the metadata to support better search listings and give better visibility on the Web.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/semantic-technology"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/semantic-technology"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/semantic-technology/RDFS"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">RDFS</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">RDFS</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">RDFS</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">RDFS</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">RDFS</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">RDFS</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">RDFS</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">RDFS</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">RDFS</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">RDFS</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">RDFS</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">RDFS</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">RDFS</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">RDFS</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">RDFS</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">RDFS</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">RDFS</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">RDFS</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">RDFS</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">RDFS</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">RDFS</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">RDFS</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">RDFS</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">RDFS</skos:prefLabel>
+      <at:authority-code>RDFS</at:authority-code>
+      <at:op-code>RDFS</at:op-code>
+      <at:start.use>2021-08-30</at:start.use>
+      <atold:op-code>RDFS</atold:op-code>
+      <dc:identifier>RDFS</dc:identifier>
+      <skos:altLabel xml:lang="bg">Resource Description Framework Schema</skos:altLabel>
+      <skos:altLabel xml:lang="cs">RDF schéma</skos:altLabel>
+      <skos:altLabel xml:lang="da">Resource Description Framework Schema</skos:altLabel>
+      <skos:altLabel xml:lang="de">RDF-Schema</skos:altLabel>
+      <skos:altLabel xml:lang="el">Σχήμα RDF</skos:altLabel>
+      <skos:altLabel xml:lang="en">Resource Description Framework Schema</skos:altLabel>
+      <skos:altLabel xml:lang="es">Resource Description Framework Schema</skos:altLabel>
+      <skos:altLabel xml:lang="et">Resource Description Framework Schema (ressursikirjeldamisraamistiku skeem)</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Resource Description Framework Schema</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Resource Description Framework Schema</skos:altLabel>
+      <skos:altLabel xml:lang="ga">Resource Description Framework Schema</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Resource Description Framework Schema</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Resource Description Framework Schema</skos:altLabel>
+      <skos:altLabel xml:lang="it">Resource Description Framework Schema (schema del quadro di descrizione delle risorse)</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Resource Description Framework Schema</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Resource Description Framework Schema</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Resource Description Framework Schema</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Resource Description Framework Schema</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Resource Description Framework Schema</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Resource Description Framework Schema (Esquema RDF)</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Resource Description Framework Schema</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Schéma rámca pre opis zdroja</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Resource Description Framework Schema</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Resource Description Framework Schema</skos:altLabel>
+      <skos:definition xml:lang="en">RDFS is the acronym of RDF Schema; it is a general-purpose language for representing simple RDF vocabularies on the Web. Specifically, it is an extension of the basic RDF vocabulary. In general, it can be viewed as the most basic schema language widely used in the Semantic Web technology stack.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/semantic-technology"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/semantic-technology"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/semantic-technology/RDF_STAR"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">RDF-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">RDF-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">RDF-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">RDF-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">RDF-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">RDF-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">RDF-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">RDF-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">RDF-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">RDF-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">RDF-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">RDF-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">RDF-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">RDF-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">RDF-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">RDF-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">RDF-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">RDF-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">RDF-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">RDF-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">RDF-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">RDF-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">RDF-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">RDF-star</skos:prefLabel>
+      <at:authority-code>RDF_STAR</at:authority-code>
+      <at:op-code>RDF_STAR</at:op-code>
+      <at:start.use>2021-08-30</at:start.use>
+      <atold:op-code>RDF_STAR</atold:op-code>
+      <dc:identifier>RDF_STAR</dc:identifier>
+      <skos:altLabel xml:lang="bg">Resource Description Framework star</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Resource Description Framework star</skos:altLabel>
+      <skos:altLabel xml:lang="da">Resource Description Framework star</skos:altLabel>
+      <skos:altLabel xml:lang="de">Resource Description Framework star</skos:altLabel>
+      <skos:altLabel xml:lang="el">Resource Description Framework star</skos:altLabel>
+      <skos:altLabel xml:lang="en">Resource Description Framework star</skos:altLabel>
+      <skos:altLabel xml:lang="es">Resource Description Framework star</skos:altLabel>
+      <skos:altLabel xml:lang="et">Resource Description Framework star (ressursikirjeldamisraamistik)</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Resource Description Framework star</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Resource Description Framework star</skos:altLabel>
+      <skos:altLabel xml:lang="ga">Resource Description Framework star</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Resource Description Framework star</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Resource Description Framework star</skos:altLabel>
+      <skos:altLabel xml:lang="it">Resource Description Framework star (estensione dello standard RDF)</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Resource Description Framework star</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Resource Description Framework star</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Resource Description Framework star</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Resource Description Framework star</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Resource Description Framework star</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Resource Description Framework star (RDF extendido)</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Resource Description Framework star</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Rámec pre opis zdroja (hviezdička)</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Resource Description Framework star</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Resource Description Framework star</skos:altLabel>
+      <skos:definition xml:lang="en">RDF-star (also known as RDF*) extends RDF with a convenient way to make statements about other statements. Therefore, it provides a more compact form for reification. It is not yet a W3C recommendation.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/semantic-technology"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/semantic-technology"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/semantic-technology/RIF"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">RIF</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">RIF</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">RIF</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">RIF</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">RIF</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">RIF</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">RIF</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">RIF</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">RIF</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">RIF</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">RIF</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">RIF</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">RIF</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">RIF</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">RIF</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">RIF</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">RIF</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">RIF</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">RIF</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">RIF</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">RIF</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">RIF</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">RIF</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">RIF</skos:prefLabel>
+      <at:authority-code>RIF</at:authority-code>
+      <at:op-code>RIF</at:op-code>
+      <at:start.use>2021-08-30</at:start.use>
+      <atold:op-code>RIF</atold:op-code>
+      <dc:identifier>RIF</dc:identifier>
+      <skos:altLabel xml:lang="bg">Rule Interchange Format</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Formát pro výměnu pravidel</skos:altLabel>
+      <skos:altLabel xml:lang="da">Rule Interchange Format</skos:altLabel>
+      <skos:altLabel xml:lang="de">Rule Interchange Format</skos:altLabel>
+      <skos:altLabel xml:lang="el">Πρότυπο RIF (Rule Interchange Format)</skos:altLabel>
+      <skos:altLabel xml:lang="en">Rule Interchange Format</skos:altLabel>
+      <skos:altLabel xml:lang="es">Rule Interchange Format</skos:altLabel>
+      <skos:altLabel xml:lang="et">Rule Interchange Format (normide vahetamise vorming)</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Rule Interchange Format</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Rule Interchange Format</skos:altLabel>
+      <skos:altLabel xml:lang="ga">Rule Interchange Format</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Rule Interchange Format</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Rule Interchange Format</skos:altLabel>
+      <skos:altLabel xml:lang="it">Rule Interchange Format (formato dell’interscambio di regole)</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Rule Interchange Format</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Rule Interchange Format</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Rule Interchange Format</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Rule Interchange Format</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Rule Interchange Format</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Rule Interchange Format (Formato de Intercâmbio de regras)</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Rule Interchange Format</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Formát výmeny pravidiel</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Rule Interchange Format</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Rule Interchange Format</skos:altLabel>
+      <skos:definition xml:lang="en">RIF – Rule Interchange Format – is a standard, part of the Semantic Web, for defining rules among rule systems, in particular among Web rule engines. RIF is based on the observation that there exist many ‘rules languages’ and what is needed is to exchange rules between them.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/semantic-technology"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/semantic-technology"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/semantic-technology/RML"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">RML</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">RML</skos:prefLabel>
+      <at:authority-code>RML</at:authority-code>
+      <at:op-code>RML</at:op-code>
+      <at:start.use>2021-08-30</at:start.use>
+      <atold:op-code>RML</atold:op-code>
+      <dc:identifier>RML</dc:identifier>
+      <skos:altLabel xml:lang="bg">Resource Description Framework Mapping Language</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Jazyk RML</skos:altLabel>
+      <skos:altLabel xml:lang="da">Resource Description Framework Mapping Language</skos:altLabel>
+      <skos:altLabel xml:lang="de">Resource Description Framework Mapping Language</skos:altLabel>
+      <skos:altLabel xml:lang="el">Γλώσσα αντιστοίχισης RDF (Resource Description Framework Mapping Language)</skos:altLabel>
+      <skos:altLabel xml:lang="en">Resource Description Framework Mapping Language</skos:altLabel>
+      <skos:altLabel xml:lang="es">Resource Description Framework Mapping Language</skos:altLabel>
+      <skos:altLabel xml:lang="et">Resource Description Framework Mapping Language (ressursikirjeldamisraamistiku vastendamiskeel)</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Resource Description Framework Mapping Language</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Resource Description Framework Mapping Language</skos:altLabel>
+      <skos:altLabel xml:lang="ga">Resource Description Framework Mapping Language</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Resource Description Framework Mapping Language</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Resource Description Framework Mapping Language</skos:altLabel>
+      <skos:altLabel xml:lang="it">Resource Description Framework Mapping Language (quadro di mappatura del linguaggio per la descrizione delle risorse)</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Resource Description Framework Mapping Language</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Resource Description Framework Mapping Language</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Resource Description Framework Mapping Language</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Resource Description Framework Mapping Language</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Resource Description Framework Mapping Language</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Resource Description Framework Mapping Language (Linguagem de mapeamento RDF)</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Resource Description Framework Mapping Language</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Mapovací jazyk rámca pre opis zdroja</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Resource Description Framework Mapping Language</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Resource Description Framework Mapping Language</skos:altLabel>
+      <skos:definition xml:lang="en">RML – RDF Mapping Language – is a generic mapping language, based on and extending the W3C recommendation R2RML. Specifically, it is a mapping language that can be used to express, in RDF, customised mapping rules so that to transform a variety of heterogeneous data structures into the RDF data model.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/semantic-technology"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/semantic-technology"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/semantic-technology/SHACL"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">SHACL</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">SHACL</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">SHACL</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">SHACL</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">SHACL</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">SHACL</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">SHACL</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">SHACL</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">SHACL</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">SHACL</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">SHACL</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">SHACL</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">SHACL</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">SHACL</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">SHACL</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">SHACL</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">SHACL</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">SHACL</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">SHACL</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">SHACL</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">SHACL</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">SHACL</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">SHACL</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">SHACL</skos:prefLabel>
+      <at:authority-code>SHACL</at:authority-code>
+      <at:op-code>SHACL</at:op-code>
+      <at:start.use>2021-08-30</at:start.use>
+      <atold:op-code>SHACL</atold:op-code>
+      <dc:identifier>SHACL</dc:identifier>
+      <skos:altLabel xml:lang="bg">Shapes Constraint Language</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Jazyk SHACL</skos:altLabel>
+      <skos:altLabel xml:lang="da">Shapes Constraint Language</skos:altLabel>
+      <skos:altLabel xml:lang="de">Shapes Constraint Language</skos:altLabel>
+      <skos:altLabel xml:lang="el">Γλώσσα περιορισμών SHACL</skos:altLabel>
+      <skos:altLabel xml:lang="en">Shapes Constraint Language</skos:altLabel>
+      <skos:altLabel xml:lang="es">Shapes Constraint Language</skos:altLabel>
+      <skos:altLabel xml:lang="et">Shapes Constraint Language (andmekujudena väljendatud kitsenduste keel)</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Shapes Constraint Language</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Shapes Constraint Language</skos:altLabel>
+      <skos:altLabel xml:lang="ga">Shapes Constraint Language</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Shapes Constraint Language</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Shapes Constraint Language</skos:altLabel>
+      <skos:altLabel xml:lang="it">Shapes Constraint Language</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Shapes Constraint Language</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Shapes Constraint Language</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Shapes Constraint Language</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Shapes Constraint Language</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Shapes Constraint Language</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Shapes Constraint Language (Linguagem de restrições por formas)</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Shapes Constraint Language</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Jazyk pre obmedzenie tvarov</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Shapes Constraint Language</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Shapes Constraint Language</skos:altLabel>
+      <skos:definition xml:lang="en">SHACL – Shapes Constraint Language – is a W3C recommendation; it is a language used to validate RDF graphs against a set of conditions. These conditions are provided as shapes and other constructs expressed in the form of an RDF graph. RDF graphs that are used in this manner are called ‘shapes graphs’ in SHACL and the RDF graphs that are validated against a shapes graph are called ‘data graphs’. As SHACL shape graphs are used to validate that data graphs satisfy a set of conditions they can also be viewed as a description of the data graphs that do satisfy these conditions. Such descriptions may be used for a variety of purposes beside validation, including user interface building, code generation and data integration.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/semantic-technology"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/semantic-technology"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/semantic-technology/SHEX"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">ShEx</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">ShEx</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">ShEx</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">ShEx</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">ShEx</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">ShEx</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">ShEx</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">ShEx</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">ShEx</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">ShEx</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">ShEx</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">ShEx</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">ShEx</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">ShEx</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">ShEx</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">ShEx</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">ShEx</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">ShEx</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">ShEx</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">ShEx</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">ShEx</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">ShEx</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">ShEx</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">ShEx</skos:prefLabel>
+      <at:authority-code>SHEX</at:authority-code>
+      <at:op-code>SHEX</at:op-code>
+      <at:start.use>2021-08-30</at:start.use>
+      <atold:op-code>SHEX</atold:op-code>
+      <dc:identifier>SHEX</dc:identifier>
+      <skos:altLabel xml:lang="bg">Shape Expressions</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Jazyk Shape Expressions</skos:altLabel>
+      <skos:altLabel xml:lang="da">Shape Expressions</skos:altLabel>
+      <skos:altLabel xml:lang="de">Shape Expressions</skos:altLabel>
+      <skos:altLabel xml:lang="el">Shape Expressions</skos:altLabel>
+      <skos:altLabel xml:lang="en">Shape Expressions</skos:altLabel>
+      <skos:altLabel xml:lang="es">Shape Expressions</skos:altLabel>
+      <skos:altLabel xml:lang="et">Shape Expressions</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Shape Expressions</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Shape Expressions</skos:altLabel>
+      <skos:altLabel xml:lang="ga">Shape Expressions</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Shape Expressions</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Shape Expressions</skos:altLabel>
+      <skos:altLabel xml:lang="it">Shape Expressions</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Shape Expressions</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Shape Expressions</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Shape Expressions</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Shape Expressions</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Shape Expressions</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Shape Expressions (Expressões de forma)</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Shape Expressions</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Výrazy tvarov</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Shape Expressions</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Shape Expressions</skos:altLabel>
+      <skos:definition xml:lang="en">ShEx – Shape Expressions – is a language for describing RDF graph structures. A ShEx schema prescribes conditions that RDF data graphs must meet in order to be considered ‘conformant’: which subjects, predicates and objects may appear in a given graph, in what combinations and with what cardinalities and datatypes.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/semantic-technology"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/semantic-technology"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/semantic-technology/SPARQL"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">SPARQL</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">SPARQL</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">SPARQL</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">SPARQL</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">SPARQL</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">SPARQL</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">SPARQL</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">SPARQL</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">SPARQL</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">SPARQL</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">SPARQL</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">SPARQL</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">SPARQL</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">SPARQL</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">SPARQL</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">SPARQL</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">SPARQL</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">SPARQL</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">SPARQL</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">SPARQL</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">SPARQL</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">SPARQL</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">SPARQL</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">SPARQL</skos:prefLabel>
+      <at:authority-code>SPARQL</at:authority-code>
+      <at:op-code>SPARQL</at:op-code>
+      <at:start.use>2021-08-30</at:start.use>
+      <atold:op-code>SPARQL</atold:op-code>
+      <dc:identifier>SPARQL</dc:identifier>
+      <skos:altLabel xml:lang="bg">SPARQL Protocol and Resource Description Framework Query Language</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Jazyk SPARQL</skos:altLabel>
+      <skos:altLabel xml:lang="da">SPARQL Protocol and Resource Description Framework Query Language</skos:altLabel>
+      <skos:altLabel xml:lang="de">SPARQL Protocol and Resource Description Framework Query Language</skos:altLabel>
+      <skos:altLabel xml:lang="el">Γλώσσα αναζήτησης SPARQL</skos:altLabel>
+      <skos:altLabel xml:lang="en">SPARQL Protocol and Resource Description Framework Query Language</skos:altLabel>
+      <skos:altLabel xml:lang="es">SPARQL Protocol and Resource Description Framework Query Language</skos:altLabel>
+      <skos:altLabel xml:lang="et">SPARQL Protocol and Resource Description Framework Query Language (SPARQL-protokoll ja ressursikirjeldamisraamistiku päringukeel)</skos:altLabel>
+      <skos:altLabel xml:lang="fi">SPARQL Protocol and Resource Description Framework Query Language</skos:altLabel>
+      <skos:altLabel xml:lang="fr">SPARQL Protocol and Resource Description Framework Query Language</skos:altLabel>
+      <skos:altLabel xml:lang="ga">SPARQL Protocol and Resource Description Framework Query Language</skos:altLabel>
+      <skos:altLabel xml:lang="hr">SPARQL Protocol and Resource Description Framework Query Language</skos:altLabel>
+      <skos:altLabel xml:lang="hu">SPARQL Protocol and Resource Description Framework Query Language</skos:altLabel>
+      <skos:altLabel xml:lang="it">SPARQL Protocol and Resource Description Framework Query Language (protocollo SPARQL e linguaggio di interrogazione per RDF)</skos:altLabel>
+      <skos:altLabel xml:lang="lt">SPARQL Protocol and Resource Description Framework Query Language</skos:altLabel>
+      <skos:altLabel xml:lang="lv">SPARQL Protocol and Resource Description Framework Query Language</skos:altLabel>
+      <skos:altLabel xml:lang="mt">SPARQL Protocol and Resource Description Framework Query Language</skos:altLabel>
+      <skos:altLabel xml:lang="nl">SPARQL Protocol and Resource Description Framework Query Language</skos:altLabel>
+      <skos:altLabel xml:lang="pl">SPARQL Protocol and Resource Description Framework Query Language</skos:altLabel>
+      <skos:altLabel xml:lang="pt">SPARQL Protocol and Resource Description Framework Query Language (Protocolo SPARQL e Linguagem de interrogação RDF)</skos:altLabel>
+      <skos:altLabel xml:lang="ro">SPARQL Protocol and Resource Description Framework Query Language</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Protokol SPARQL a jazyk dotazu k rámcu pre opis zdroja</skos:altLabel>
+      <skos:altLabel xml:lang="sl">SPARQL Protocol and Resource Description Framework Query Language</skos:altLabel>
+      <skos:altLabel xml:lang="sv">SPARQL Protocol and Resource Description Framework Query Language</skos:altLabel>
+      <skos:definition xml:lang="en">SPARQL stands for SPARQL Protocol and RDF Query Language; it is a W3C recommendation and a query language and protocol for the RDF data model.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/semantic-technology"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/semantic-technology"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/semantic-technology/SPARQL_STAR"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">SPARQL-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">SPARQL-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">SPARQL-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">SPARQL-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">SPARQL-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">SPARQL-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">SPARQL-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">SPARQL-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">SPARQL-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">SPARQL-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">SPARQL-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">SPARQL-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">SPARQL-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">SPARQL-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">SPARQL-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">SPARQL-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">SPARQL-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">SPARQL-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">SPARQL-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">SPARQL-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">SPARQL-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">SPARQL-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">SPARQL-star</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">SPARQL-star</skos:prefLabel>
+      <at:authority-code>SPARQL_STAR</at:authority-code>
+      <at:op-code>SPARQL_STAR</at:op-code>
+      <at:start.use>2021-08-30</at:start.use>
+      <atold:op-code>SPARQL_STAR</atold:op-code>
+      <dc:identifier>SPARQL_STAR</dc:identifier>
+      <skos:altLabel xml:lang="bg">SPARQL Protocol and Resource Description Framework Query Language star</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Jazyk SPARQL star</skos:altLabel>
+      <skos:altLabel xml:lang="da">SPARQL Protocol and Resource Description Framework Query Language star</skos:altLabel>
+      <skos:altLabel xml:lang="de">SPARQL Protocol and Resource Description Framework Query Language star</skos:altLabel>
+      <skos:altLabel xml:lang="el">Γλώσσα αναζήτησης SPARQL-star</skos:altLabel>
+      <skos:altLabel xml:lang="en">SPARQL Protocol and Resource Description Framework Query Language star</skos:altLabel>
+      <skos:altLabel xml:lang="es">SPARQL Protocol and Resource Description Framework Query Language star</skos:altLabel>
+      <skos:altLabel xml:lang="et">SPARQL Protocol and Resource Description Framework Query Language star (SPARQL-protokoll ja ressursikirjeldamisraamistiku päringukeel Star)</skos:altLabel>
+      <skos:altLabel xml:lang="fi">SPARQL Protocol and Resource Description Framework Query Language star</skos:altLabel>
+      <skos:altLabel xml:lang="fr">SPARQL Protocol and Resource Description Framework Query Language star</skos:altLabel>
+      <skos:altLabel xml:lang="ga">SPARQL Protocol and Resource Description Framework Query Language star</skos:altLabel>
+      <skos:altLabel xml:lang="hr">SPARQL Protocol and Resource Description Framework Query Language star</skos:altLabel>
+      <skos:altLabel xml:lang="hu">SPARQL Protocol and Resource Description Framework Query Language star</skos:altLabel>
+      <skos:altLabel xml:lang="it">SPARQL Protocol and Resource Description Framework Query Language star (protocollo SPARQL e linguaggio di interrogazione per RDF-star)</skos:altLabel>
+      <skos:altLabel xml:lang="lt">SPARQL Protocol and Resource Description Framework Query Language star</skos:altLabel>
+      <skos:altLabel xml:lang="lv">SPARQL Protocol and Resource Description Framework Query Language star</skos:altLabel>
+      <skos:altLabel xml:lang="mt">SPARQL Protocol and Resource Description Framework Query Language star</skos:altLabel>
+      <skos:altLabel xml:lang="nl">SPARQL Protocol and Resource Description Framework Query Language star</skos:altLabel>
+      <skos:altLabel xml:lang="pl">SPARQL Protocol and Resource Description Framework Query Language star</skos:altLabel>
+      <skos:altLabel xml:lang="pt">SPARQL Protocol and Resource Description Framework Query Language star (Protocolo SPARQL e Linguagem de interrogação RDF-star)</skos:altLabel>
+      <skos:altLabel xml:lang="ro">SPARQL Protocol and Resource Description Framework Query Language star</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Protokol SPARQL a jazyk dotazu k rámcu pre opis zdroja (hviezdička)</skos:altLabel>
+      <skos:altLabel xml:lang="sl">SPARQL Protocol and Resource Description Framework Query Language star</skos:altLabel>
+      <skos:altLabel xml:lang="sv">SPARQL Protocol and Resource Description Framework Query Language star</skos:altLabel>
+      <skos:definition xml:lang="en">SPARQL-star is an RDF-star-aware extension of the RDF query language SPARQL. In essence, SPARQL-star is used to query RDF-star graphs.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/semantic-technology"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/semantic-technology"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/semantic-technology/SPIN"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">SPIN</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">SPIN</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">SPIN</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">SPIN</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">SPIN</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">SPIN</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">SPIN</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">SPIN</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">SPIN</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">SPIN</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">SPIN</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">SPIN</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">SPIN</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">SPIN</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">SPIN</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">SPIN</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">SPIN</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">SPIN</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">SPIN</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">SPIN</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">SPIN</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">SPIN</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">SPIN</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">SPIN</skos:prefLabel>
+      <at:authority-code>SPIN</at:authority-code>
+      <at:op-code>SPIN</at:op-code>
+      <at:start.use>2021-08-30</at:start.use>
+      <atold:op-code>SPIN</atold:op-code>
+      <dc:identifier>SPIN</dc:identifier>
+      <skos:altLabel xml:lang="bg">SPARQL Inferencing Notation</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Jazyk SPIN</skos:altLabel>
+      <skos:altLabel xml:lang="da">SPARQL Inferencing Notation</skos:altLabel>
+      <skos:altLabel xml:lang="de">SPARQL Inferencing Notation</skos:altLabel>
+      <skos:altLabel xml:lang="el">Γλώσσα SPIN (SPARQL Inferencing Notation)</skos:altLabel>
+      <skos:altLabel xml:lang="en">SPARQL Inferencing Notation</skos:altLabel>
+      <skos:altLabel xml:lang="es">SPARQL Inferencing Notation</skos:altLabel>
+      <skos:altLabel xml:lang="et">SPARQL Inferencing Notation (SPARQLi tuletatav notatsioon)</skos:altLabel>
+      <skos:altLabel xml:lang="fi">SPARQL Inferencing Notation</skos:altLabel>
+      <skos:altLabel xml:lang="fr">SPARQL Inferencing Notation</skos:altLabel>
+      <skos:altLabel xml:lang="ga">SPARQL Inferencing Notation</skos:altLabel>
+      <skos:altLabel xml:lang="hr">SPARQL Inferencing Notation</skos:altLabel>
+      <skos:altLabel xml:lang="hu">SPARQL Inferencing Notation</skos:altLabel>
+      <skos:altLabel xml:lang="it">SPARQL Inferencing Notation</skos:altLabel>
+      <skos:altLabel xml:lang="lt">SPARQL Inferencing Notation</skos:altLabel>
+      <skos:altLabel xml:lang="lv">SPARQL Inferencing Notation</skos:altLabel>
+      <skos:altLabel xml:lang="mt">SPARQL Inferencing Notation</skos:altLabel>
+      <skos:altLabel xml:lang="nl">SPARQL Inferencing Notation</skos:altLabel>
+      <skos:altLabel xml:lang="pl">SPARQL Inferencing Notation</skos:altLabel>
+      <skos:altLabel xml:lang="pt">SPARQL Inferencing Notation (Notação Inferencial SPARQL)</skos:altLabel>
+      <skos:altLabel xml:lang="ro">SPARQL Inferencing Notation</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Inferenčný zápis SPARQL</skos:altLabel>
+      <skos:altLabel xml:lang="sl">SPARQL Inferencing Notation</skos:altLabel>
+      <skos:altLabel xml:lang="sv">SPARQL Inferencing Notation</skos:altLabel>
+      <skos:definition xml:lang="en">SPIN – SPARQL Inference Notation – is a SPARQL-based rule and constraint language for the Semantic Web. SPIN is also a mechanism to represent reusable SPARQL queries as templates and to define new SPARQL functions with a web-friendly syntax. In essence, SPIN combines concepts from object-oriented languages, query languages and rule-based systems to describe object behavior on the web of data.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/semantic-technology"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/semantic-technology"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/semantic-technology/SWRL"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">SWRL</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">SWRL</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">SWRL</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">SWRL</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">SWRL</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">SWRL</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">SWRL</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">SWRL</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">SWRL</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">SWRL</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">SWRL</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">SWRL</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">SWRL</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">SWRL</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">SWRL</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">SWRL</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">SWRL</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">SWRL</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">SWRL</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">SWRL</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">SWRL</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">SWRL</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">SWRL</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">SWRL</skos:prefLabel>
+      <at:authority-code>SWRL</at:authority-code>
+      <at:op-code>SWRL</at:op-code>
+      <at:start.use>2021-08-30</at:start.use>
+      <atold:op-code>SWRL</atold:op-code>
+      <dc:identifier>SWRL</dc:identifier>
+      <skos:altLabel xml:lang="bg">Semantic Web Rule Language</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Jazyk SWRL</skos:altLabel>
+      <skos:altLabel xml:lang="da">Semantic Web Rule Language</skos:altLabel>
+      <skos:altLabel xml:lang="de">Semantic Web Rule Language</skos:altLabel>
+      <skos:altLabel xml:lang="el">Γλώσσα κανόνων σημασιολογικού ιστού (Semantic Web Rule Language)</skos:altLabel>
+      <skos:altLabel xml:lang="en">Semantic Web Rule Language</skos:altLabel>
+      <skos:altLabel xml:lang="es">Semantic Web Rule Language</skos:altLabel>
+      <skos:altLabel xml:lang="et">Semantic Web Rule Language (semantilise veebinormi keel)</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Semantic Web Rule Language</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Semantic Web Rule Language</skos:altLabel>
+      <skos:altLabel xml:lang="ga">Semantic Web Rule Language</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Semantic Web Rule Language</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Semantic Web Rule Language</skos:altLabel>
+      <skos:altLabel xml:lang="it">Semantic Web Rule Language (linguaggio delle regole del web semantico)</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Semantic Web Rule Language</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Semantic Web Rule Language</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Semantic Web Rule Language</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Semantic Web Rule Language</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Semantic Web Rule Language</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Semantic Web Rule Language (Linguagem de regras para a Web semântica)</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Semantic Web Rule Language</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Jazyk pravidiel sémantického webu</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Semantic Web Rule Language</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Semantic Web Rule Language</skos:altLabel>
+      <skos:definition xml:lang="en">SWRL – Semantic Web Rule Language – is a proposed language that combines OWL DL and OWL Lite sub-languages of the OWL Web Ontology Language with the Unary/Binary Datalog RuleML sub-languages of the Rule Markup Language. In essence, the language allows one to specify rules as implications between an antecedent (body) and consequent (head) so that whenever the conditions specified in the antecedent hold, then the conditions specified in the consequent must also hold. </skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/semantic-technology"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/semantic-technology"/>
+   </skos:Concept>
+</rdf:RDF>

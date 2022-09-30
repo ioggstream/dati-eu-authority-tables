@@ -1,0 +1,213 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/data-service-type/API> a skos:Concept ;
+    at:authority-code "API" ;
+    at:deprecated "false" ;
+    at:op-code "API" ;
+    at:start.use "2021-08-30" ;
+    atold:op-code "API" ;
+    dc:identifier "API" ;
+    skos:altLabel "Интерфейс за програмиране на приложения"@bg,
+        "Rozhraní pro programování aplikací"@cs,
+        "Programmeringsgrænseflade for applikationer"@da,
+        "Anwendungsprogrammierschnittstelle"@de,
+        "Διεπαφή προγραμματισμού εφαρμογών"@el,
+        "Application programming interface"@en,
+        "Interfaz de programación de aplicaciones"@es,
+        "Rakendusliides"@et,
+        "Sovellusliittymä"@fi,
+        "Interface de programmation d’applications"@fr,
+        "Comhéadan ríomhchláraithe feidhmchláir"@ga,
+        "Sučelje za programiranje aplikacija"@hr,
+        "Alkalmazásprogramozási felület"@hu,
+        "Interfaccia di programmazione dell’applicazione"@it,
+        "Programų programavimo sąsają"@lt,
+        "Lietojumprogrammu saskarne"@lv,
+        "Interfaċċa ta’ programmazzjoni tal-applikazzjoni"@mt,
+        "Applicatie programmeerinterface"@nl,
+        "Interfejs programowania aplikacji"@pl,
+        "Interface de programação de aplicações"@pt,
+        "Interfață de programare a aplicațiilor"@ro,
+        "Rozhranie pre programovanie aplikácií"@sk,
+        "Vmesnik za programiranje aplikacij"@sl,
+        "Applikationsprogrammeringsgränssnitt"@sv ;
+    skos:definition "An API – application programming interface – is a set of functions, procedures, definitions and protocols for machine-to-machine communication and the seamless exchange of data."@en ;
+    skos:inScheme atold:data-service-type ;
+    skos:prefLabel "API"@bg,
+        "API"@cs,
+        "API"@da,
+        "API"@de,
+        "API"@el,
+        "API"@en,
+        "API"@es,
+        "API"@et,
+        "API"@fi,
+        "API"@fr,
+        "API"@ga,
+        "API"@hr,
+        "API"@hu,
+        "API"@it,
+        "API"@lt,
+        "API"@lv,
+        "API"@mt,
+        "API"@nl,
+        "API"@pl,
+        "API"@pt,
+        "API"@ro,
+        "API"@sk,
+        "API"@sl,
+        "API"@sv ;
+    skos:topConceptOf atold:data-service-type .
+
+<http://publications.europa.eu/resource/authority/data-service-type/DOWNLOAD> a skos:Concept ;
+    at:authority-code "DOWNLOAD" ;
+    at:deprecated "false" ;
+    at:op-code "DOWNLOAD" ;
+    at:start.use "2021-08-30" ;
+    atold:op-code "DOWNLOAD" ;
+    dc:identifier "DOWNLOAD" ;
+    skos:definition "A download service is a service that enables copies of datasets or parts of such sets to be downloaded and, where practicable, accessed directly."@en ;
+    skos:inScheme atold:data-service-type ;
+    skos:prefLabel "Услуга за изтегляне"@bg,
+        "Služba stahování dat"@cs,
+        "Downloadtjeneste"@da,
+        "Downloaddienst"@de,
+        "Υπηρεσία τηλεφόρτωσης"@el,
+        "Download service"@en,
+        "Servicio de descarga"@es,
+        "Allalaadimisteenus"@et,
+        "Latauspalvelu"@fi,
+        "Service de téléchargement"@fr,
+        "Seirbhís íoslódála"@ga,
+        "Usluga preuzimanja"@hr,
+        "Letöltési szolgáltatás"@hu,
+        "Servizio di download"@it,
+        "Parsisiųsdinimo paslauga"@lt,
+        "Lejupielādes pakalpojums"@lv,
+        "Servizz ta’ download"@mt,
+        "Downloadservice"@nl,
+        "Usługa pobierania"@pl,
+        "Serviço de descarregamento"@pt,
+        "Serviciu de descărcare"@ro,
+        "Služba sťahovania dát"@sk,
+        "Storitev prenosa"@sl,
+        "Nedladdningstjänst"@sv ;
+    skos:topConceptOf atold:data-service-type .
+
+<http://publications.europa.eu/resource/authority/data-service-type/HUMAN_INTERACTION> a skos:Concept ;
+    at:authority-code "HUMAN_INTERACTION" ;
+    at:deprecated "false" ;
+    at:op-code "HUMAN_INTERACTION" ;
+    at:start.use "2021-08-30" ;
+    atold:op-code "HUMAN_INTERACTION" ;
+    dc:identifier "HUMAN_INTERACTION" ;
+    skos:definition "A human interaction service is a service that enables human beings to interact with it. In the context of data services, it typically provides a user interface (UI) for querying data."@en ;
+    skos:inScheme atold:data-service-type ;
+    skos:prefLabel "Услуга с човешко взаимодействие"@bg,
+        "Interakce s člověkem v rámci služby"@cs,
+        "Tjeneste for menneskelig interaktion"@da,
+        "Interaktiver Dienst"@de,
+        "Υπηρεσία ανθρώπινης διάδρασης"@el,
+        "Human interaction service"@en,
+        "Servicio de interacción humana"@es,
+        "Inimestevahelise suhtluse teenus"@et,
+        "Käyttöliittymäpalvelu"@fi,
+        "Service d’interaction humaine"@fr,
+        "Seirbhís idirghníomhaíochta daonna"@ga,
+        "Interaktivna usluga"@hr,
+        "Emberi közreműködési szolgáltatás"@hu,
+        "Servizio di interazione umana"@it,
+        "Žmonių sąveikos paslauga"@lt,
+        "Interaktīvs pakalpojums"@lv,
+        "Servizz ta’ interazzjoni umana"@mt,
+        "Menselijke-interfaceservice"@nl,
+        "Usługa interaktywna"@pl,
+        "Serviço de interação humana"@pt,
+        "Serviciu cu interacțiune umană"@ro,
+        "Služba interakcie s človekom"@sk,
+        "Interaktivna storitev"@sl,
+        "Tjänst för mänsklig interaktion"@sv ;
+    skos:topConceptOf atold:data-service-type .
+
+<http://publications.europa.eu/resource/authority/data-service-type/OP_DATPRO> a skos:Concept ;
+    at:authority-code "OP_DATPRO" ;
+    at:deprecated "false" ;
+    at:op-code "OP_DATPRO" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:data-service-type ;
+    skos:prefLabel "НЕОКОНЧАТЕЛНИ ДАННИ"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv ;
+    skos:topConceptOf atold:data-service-type .
+
+<http://publications.europa.eu/resource/authority/data-service-type/SPARQL_ENDPOINT> a skos:Concept ;
+    at:authority-code "SPARQL_ENDPOINT" ;
+    at:deprecated "false" ;
+    at:op-code "SPARQL_ENDPOINT" ;
+    at:start.use "2021-08-30" ;
+    atold:op-code "SPARQL_ENDPOINT" ;
+    dc:identifier "SPARQL_ENDPOINT" ;
+    skos:definition "A SPARQL endpoint is a point of access over an HTTP network that is able to process SPARQL protocol requests. Therefore, it allows agents, be they human or software, to query the knowledge base it stores through the standard query language and protocol for RDF (SPARQL)."@en ;
+    skos:inScheme atold:data-service-type ;
+    skos:prefLabel "SPARQL крайна точка"@bg,
+        "Rozhraní SPARQL"@cs,
+        "SPARQL endpoint"@da,
+        "SPARQL-Endpunkt"@de,
+        "Τελικό σημείο SPARQL"@el,
+        "SPARQL endpoint"@en,
+        "Punto final SPARQL"@es,
+        "SPARQLi lõpp-punkt"@et,
+        "SPARQL-päätepiste"@fi,
+        "Point de terminaison SPARQL"@fr,
+        "Críochphointe SPARQL"@ga,
+        "SPARQL endpoint"@hr,
+        "SPARQL-végpont"@hu,
+        "Endpoint SPARQL"@it,
+        "SPARQL prieigos taškas"@lt,
+        "SPARQL galapunkts"@lv,
+        "SPARQL endpoint"@mt,
+        "SPARQL-eindpunt"@nl,
+        "Końcówka SPARQL"@pl,
+        "Ponto final SPARQL"@pt,
+        "Punct terminal SPARQL"@ro,
+        "Koncový bod SPARQL"@sk,
+        "Končna točka SPARQL"@sl,
+        "Sparql-slutpunkt"@sv ;
+    skos:topConceptOf atold:data-service-type .
+
+atold:data-service-type a skos:ConceptScheme ;
+    rdfs:label "Data service type"@en ;
+    at:prefLabel "Data service type"@en ;
+    at:table.id "data-service-type" ;
+    at:table.version.number "20211027-0" ;
+    owl:versionInfo "20211027-0" ;
+    skos:prefLabel "Data service type"@en .
+

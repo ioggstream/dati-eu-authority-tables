@@ -1,0 +1,665 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/criterion/OP_DATPRO> a skos:Concept ;
+    at:op-code "OP_DATPRO" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "НЕОКОНЧАТЕЛНИ ДАННИ"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv .
+
+<http://publications.europa.eu/resource/authority/criterion/autorisation> a skos:Concept ;
+    at:authority-code "autorisation" ;
+    at:deprecated "false" ;
+    at:op-code "autorisation" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "autorisation" ;
+    dc:identifier "autorisation" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "For service contracts: authorisation of particular organisation needed"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/aver-year-to> a skos:Concept ;
+    at:authority-code "aver-year-to" ;
+    at:deprecated "false" ;
+    at:op-code "aver-year-to" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "aver-year-to" ;
+    dc:identifier "aver-year-to" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Average yearly turnover"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/bankr-nat> a skos:Concept ;
+    at:authority-code "bankr-nat" ;
+    at:deprecated "false" ;
+    at:op-code "bankr-nat" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "bankr-nat" ;
+    dc:identifier "bankr-nat" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Analogous situation like bankruptcy under national law"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/bankruptcy> a skos:Concept ;
+    at:authority-code "bankruptcy" ;
+    at:deprecated "false" ;
+    at:op-code "bankruptcy" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "bankruptcy" ;
+    dc:identifier "bankruptcy" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Bankruptcy"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/chain-manage> a skos:Concept ;
+    at:authority-code "chain-manage" ;
+    at:deprecated "false" ;
+    at:op-code "chain-manage" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "chain-manage" ;
+    dc:identifier "chain-manage" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Supply chain management"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/corruption> a skos:Concept ;
+    at:authority-code "corruption" ;
+    at:deprecated "false" ;
+    at:op-code "corruption" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "corruption" ;
+    dc:identifier "corruption" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Corruption"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/cred-arran> a skos:Concept ;
+    at:authority-code "cred-arran" ;
+    at:deprecated "false" ;
+    at:op-code "cred-arran" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "cred-arran" ;
+    dc:identifier "cred-arran" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Arrangement with creditors"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/crime-org> a skos:Concept ;
+    at:authority-code "crime-org" ;
+    at:deprecated "false" ;
+    at:op-code "crime-org" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "crime-org" ;
+    dc:identifier "crime-org" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Participation in a criminal organisation"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/distorsion> a skos:Concept ;
+    at:authority-code "distorsion" ;
+    at:deprecated "false" ;
+    at:op-code "distorsion" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "distorsion" ;
+    dc:identifier "distorsion" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Agreements with other economic operators aimed at distorting competition"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/envir-certif-indep> a skos:Concept ;
+    at:authority-code "envir-certif-indep" ;
+    at:deprecated "false" ;
+    at:op-code "envir-certif-indep" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "envir-certif-indep" ;
+    dc:identifier "envir-certif-indep" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Certificates by independent bodies about environmental management systems or standards"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/envir-law> a skos:Concept ;
+    at:authority-code "envir-law" ;
+    at:deprecated "false" ;
+    at:op-code "envir-law" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "envir-law" ;
+    dc:identifier "envir-law" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Breaching of obligations in the fields of environmental law"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/envir-measure> a skos:Concept ;
+    at:authority-code "envir-measure" ;
+    at:deprecated "false" ;
+    at:op-code "envir-measure" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "envir-measure" ;
+    dc:identifier "envir-measure" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Environmental management measures"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/eo-group> a skos:Concept ;
+    at:authority-code "eo-group" ;
+    at:deprecated "false" ;
+    at:op-code "eo-group" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "eo-group" ;
+    dc:identifier "eo-group" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Economic operator together with others"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/finan-laund> a skos:Concept ;
+    at:authority-code "finan-laund" ;
+    at:deprecated "false" ;
+    at:op-code "finan-laund" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "finan-laund" ;
+    dc:identifier "finan-laund" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Money laundering or terrorist financing"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/finan-rat> a skos:Concept ;
+    at:authority-code "finan-rat" ;
+    at:deprecated "false" ;
+    at:op-code "finan-rat" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "finan-rat" ;
+    dc:identifier "finan-rat" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Financial ratio"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/finan-requ> a skos:Concept ;
+    at:authority-code "finan-requ" ;
+    at:deprecated "false" ;
+    at:op-code "finan-requ" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "finan-requ" ;
+    dc:identifier "finan-requ" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Other economic or financial requirements"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/fraud> a skos:Concept ;
+    at:authority-code "fraud" ;
+    at:deprecated "false" ;
+    at:op-code "fraud" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "fraud" ;
+    dc:identifier "fraud" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Fraud"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/gen-year-to> a skos:Concept ;
+    at:authority-code "gen-year-to" ;
+    at:deprecated "false" ;
+    at:op-code "gen-year-to" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "gen-year-to" ;
+    dc:identifier "gen-year-to" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "General yearly turnover"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/human-traffic> a skos:Concept ;
+    at:authority-code "human-traffic" ;
+    at:deprecated "false" ;
+    at:op-code "human-traffic" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "human-traffic" ;
+    dc:identifier "human-traffic" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Child labour and other forms of trafficking in human beings"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/indem-insu> a skos:Concept ;
+    at:authority-code "indem-insu" ;
+    at:deprecated "false" ;
+    at:op-code "indem-insu" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "indem-insu" ;
+    dc:identifier "indem-insu" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Professional risk indemnity insurance"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/insolvency> a skos:Concept ;
+    at:authority-code "insolvency" ;
+    at:deprecated "false" ;
+    at:op-code "insolvency" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "insolvency" ;
+    dc:identifier "insolvency" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Insolvency"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/labour-law> a skos:Concept ;
+    at:authority-code "labour-law" ;
+    at:deprecated "false" ;
+    at:op-code "labour-law" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "labour-law" ;
+    dc:identifier "labour-law" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Breaching of obligations in the fields of labour law"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/liq-admin> a skos:Concept ;
+    at:authority-code "liq-admin" ;
+    at:deprecated "false" ;
+    at:op-code "liq-admin" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "liq-admin" ;
+    dc:identifier "liq-admin" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Assets being administered by liquidator"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/manage-staff> a skos:Concept ;
+    at:authority-code "manage-staff" ;
+    at:deprecated "false" ;
+    at:op-code "manage-staff" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "manage-staff" ;
+    dc:identifier "manage-staff" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Number of managerial staff"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/membership> a skos:Concept ;
+    at:authority-code "membership" ;
+    at:deprecated "false" ;
+    at:op-code "membership" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "membership" ;
+    dc:identifier "membership" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "For service contracts: membership of particular organisation needed"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/misinterpr> a skos:Concept ;
+    at:authority-code "misinterpr" ;
+    at:deprecated "false" ;
+    at:op-code "misinterpr" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "misinterpr" ;
+    dc:identifier "misinterpr" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Guilty of misinterpretation, withheld information, unable to provide required documents and obtained confidential information of this procedure"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/nati-ground> a skos:Concept ;
+    at:authority-code "nati-ground" ;
+    at:deprecated "false" ;
+    at:op-code "nati-ground" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "nati-ground" ;
+    dc:identifier "nati-ground" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Purely national exclusion grounds"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/partic-confl> a skos:Concept ;
+    at:authority-code "partic-confl" ;
+    at:deprecated "false" ;
+    at:op-code "partic-confl" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "partic-confl" ;
+    dc:identifier "partic-confl" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Conflict of interest due to its participation in the procurement procedure"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/prep-confl> a skos:Concept ;
+    at:authority-code "prep-confl" ;
+    at:deprecated "false" ;
+    at:op-code "prep-confl" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "prep-confl" ;
+    dc:identifier "prep-confl" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Direct or indirect involvement in the preparation of this procurement procedure"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/prof-misconduct> a skos:Concept ;
+    at:authority-code "prof-misconduct" ;
+    at:deprecated "false" ;
+    at:op-code "prof-misconduct" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "prof-misconduct" ;
+    dc:identifier "prof-misconduct" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Guilty of grave professional misconduct"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/prof-regist> a skos:Concept ;
+    at:authority-code "prof-regist" ;
+    at:deprecated "false" ;
+    at:op-code "prof-regist" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "prof-regist" ;
+    dc:identifier "prof-regist" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Enrolment in a relevant professional register"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/qa-certif-inst> a skos:Concept ;
+    at:authority-code "qa-certif-inst" ;
+    at:deprecated "false" ;
+    at:op-code "qa-certif-inst" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "qa-certif-inst" ;
+    dc:identifier "qa-certif-inst" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "For supply contracts: certificates by quality control institutes"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/qu-certif-indep> a skos:Concept ;
+    at:authority-code "qu-certif-indep" ;
+    at:deprecated "false" ;
+    at:op-code "qu-certif-indep" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "qu-certif-indep" ;
+    dc:identifier "qu-certif-indep" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Certificates by independent bodies about quality assurance standards"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/qual-cont-tech> a skos:Concept ;
+    at:authority-code "qual-cont-tech" ;
+    at:deprecated "false" ;
+    at:op-code "qual-cont-tech" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "qual-cont-tech" ;
+    dc:identifier "qual-cont-tech" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Technicians or technical bodies for quality control"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/qual-facil> a skos:Concept ;
+    at:authority-code "qual-facil" ;
+    at:deprecated "false" ;
+    at:op-code "qual-facil" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "qual-facil" ;
+    dc:identifier "qual-facil" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Technical facilities and measures for ensuring quality"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/qualification> a skos:Concept ;
+    at:authority-code "qualification" ;
+    at:deprecated "false" ;
+    at:op-code "qualification" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "qualification" ;
+    dc:identifier "qualification" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Educational and professional qualifications"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/registered> a skos:Concept ;
+    at:authority-code "registered" ;
+    at:deprecated "false" ;
+    at:op-code "registered" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "registered" ;
+    dc:identifier "registered" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Economic operator registered in a pre qualification system"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/relied> a skos:Concept ;
+    at:authority-code "relied" ;
+    at:deprecated "false" ;
+    at:op-code "relied" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "relied" ;
+    dc:identifier "relied" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Relied on entities"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/research-fac> a skos:Concept ;
+    at:authority-code "research-fac" ;
+    at:deprecated "false" ;
+    at:op-code "research-fac" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "research-fac" ;
+    dc:identifier "research-fac" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Study and research facilities"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/sanction> a skos:Concept ;
+    at:authority-code "sanction" ;
+    at:deprecated "false" ;
+    at:op-code "sanction" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "sanction" ;
+    dc:identifier "sanction" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Early termination, damages or other comparable sanctions"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/service-perform> a skos:Concept ;
+    at:authority-code "service-perform" ;
+    at:deprecated "false" ;
+    at:op-code "service-perform" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "service-perform" ;
+    dc:identifier "service-perform" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "For service contracts: performance of services of the specified type"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/shelt-worksh> a skos:Concept ;
+    at:authority-code "shelt-worksh" ;
+    at:deprecated "false" ;
+    at:op-code "shelt-worksh" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "shelt-worksh" ;
+    dc:identifier "shelt-worksh" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Economic operator is a sheltered workshop"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/sme> a skos:Concept ;
+    at:authority-code "sme" ;
+    at:deprecated "false" ;
+    at:op-code "sme" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "sme" ;
+    dc:identifier "sme" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Economic operator micro, small or medium-sized enterprise"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/socsec-law> a skos:Concept ;
+    at:authority-code "socsec-law" ;
+    at:deprecated "false" ;
+    at:op-code "socsec-law" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "socsec-law" ;
+    dc:identifier "socsec-law" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Breaching of obligations in the fields of social law"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/socsec-pay> a skos:Concept ;
+    at:authority-code "socsec-pay" ;
+    at:deprecated "false" ;
+    at:op-code "socsec-pay" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "socsec-pay" ;
+    dc:identifier "socsec-pay" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Payment of social security contributions"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/spec-aver-to> a skos:Concept ;
+    at:authority-code "spec-aver-to" ;
+    at:deprecated "false" ;
+    at:op-code "spec-aver-to" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "spec-aver-to" ;
+    dc:identifier "spec-aver-to" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Specific average turnover"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/spec-req-check> a skos:Concept ;
+    at:authority-code "spec-req-check" ;
+    at:deprecated "false" ;
+    at:op-code "spec-req-check" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "spec-req-check" ;
+    dc:identifier "spec-req-check" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Special requierements check"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/spec-year-to> a skos:Concept ;
+    at:authority-code "spec-year-to" ;
+    at:deprecated "false" ;
+    at:op-code "spec-year-to" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "spec-year-to" ;
+    dc:identifier "spec-year-to" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Specific yearly turnover"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/staff-red> a skos:Concept ;
+    at:authority-code "staff-red" ;
+    at:deprecated "false" ;
+    at:op-code "staff-red" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "staff-red" ;
+    dc:identifier "staff-red" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Reduction of the number of qualified candidates"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/subco-ent> a skos:Concept ;
+    at:authority-code "subco-ent" ;
+    at:deprecated "false" ;
+    at:op-code "subco-ent" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "subco-ent" ;
+    dc:identifier "subco-ent" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Subcontracted entities"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/suncont-port> a skos:Concept ;
+    at:authority-code "suncont-port" ;
+    at:deprecated "false" ;
+    at:op-code "suncont-port" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "suncont-port" ;
+    dc:identifier "suncont-port" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Subcontracting proportion"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/supply-perform> a skos:Concept ;
+    at:authority-code "supply-perform" ;
+    at:deprecated "false" ;
+    at:op-code "supply-perform" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "supply-perform" ;
+    dc:identifier "supply-perform" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "For supply contracts: performance of deliveries of the specified type"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/susp-act> a skos:Concept ;
+    at:authority-code "susp-act" ;
+    at:deprecated "false" ;
+    at:op-code "susp-act" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "susp-act" ;
+    dc:identifier "susp-act" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Business activities are suspended"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/tax-pay> a skos:Concept ;
+    at:authority-code "tax-pay" ;
+    at:deprecated "false" ;
+    at:op-code "tax-pay" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "tax-pay" ;
+    dc:identifier "tax-pay" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Payment of taxes"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/tech-equip> a skos:Concept ;
+    at:authority-code "tech-equip" ;
+    at:deprecated "false" ;
+    at:op-code "tech-equip" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "tech-equip" ;
+    dc:identifier "tech-equip" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Tools, plant or technical equipment"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/terr-offence> a skos:Concept ;
+    at:authority-code "terr-offence" ;
+    at:deprecated "false" ;
+    at:op-code "terr-offence" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "terr-offence" ;
+    dc:identifier "terr-offence" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Terrorist offences or offences linked to terrorist activities"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/trade-regist> a skos:Concept ;
+    at:authority-code "trade-regist" ;
+    at:deprecated "false" ;
+    at:op-code "trade-regist" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "trade-regist" ;
+    dc:identifier "trade-regist" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Enrolment in a trade register"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/w-autent> a skos:Concept ;
+    at:authority-code "w-autent" ;
+    at:deprecated "false" ;
+    at:op-code "w-autent" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "w-autent" ;
+    dc:identifier "w-autent" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "For supply contracts: samples, descriptions or photographs with certification of authenticity"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/wo-autent> a skos:Concept ;
+    at:authority-code "wo-autent" ;
+    at:deprecated "false" ;
+    at:op-code "wo-autent" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "wo-autent" ;
+    dc:identifier "wo-autent" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "For supply contracts: samples, descriptions or photographs without certification of authenticity"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/work-perform> a skos:Concept ;
+    at:authority-code "work-perform" ;
+    at:deprecated "false" ;
+    at:op-code "work-perform" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "work-perform" ;
+    dc:identifier "work-perform" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "For works contracts: performance of works of the specified type"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/work-tech> a skos:Concept ;
+    at:authority-code "work-tech" ;
+    at:deprecated "false" ;
+    at:op-code "work-tech" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "work-tech" ;
+    dc:identifier "work-tech" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "For works contracts: technicians or technical bodies to carry out the work"@en .
+
+<http://publications.europa.eu/resource/authority/criterion/year-manpower> a skos:Concept ;
+    at:authority-code "year-manpower" ;
+    at:deprecated "false" ;
+    at:op-code "year-manpower" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "year-manpower" ;
+    dc:identifier "year-manpower" ;
+    skos:inScheme atold:criterion ;
+    skos:prefLabel "Average annual manpower"@en .
+
+atold:criterion a skos:ConceptScheme ;
+    rdfs:label "Criterion"@en ;
+    at:prefLabel "Criterion"@en ;
+    at:table.id "criterion" ;
+    at:table.version.number "20210616-0" ;
+    owl:versionInfo "20210616-0" ;
+    skos:prefLabel "Criterion"@en .
+

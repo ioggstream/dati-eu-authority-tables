@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:at="http://publications.europa.eu/ontology/authority/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:euvoc="http://publications.europa.eu/ontology/euvoc#"
+         xmlns:dct="http://purl.org/dc/terms/"
+         xmlns:atold="http://publications.europa.eu/resource/authority/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xml:base="http://publications.europa.eu/resource/authority/case-report">
+   <skos:ConceptScheme rdf:about="http://publications.europa.eu/resource/authority/case-report"
+                       at:table.id="case-report"
+                       at:table.version.number="20220316-0">
+      <at:prefLabel xml:lang="en">Case report</at:prefLabel>
+      <rdfs:label xml:lang="en">Case report</rdfs:label>
+      <owl:versionInfo>20220316-0</owl:versionInfo>
+      <skos:prefLabel xml:lang="en">Case report</skos:prefLabel>
+   </skos:ConceptScheme>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/case-report/0e2f9f0be7a18b67760ee3288bb1c9ae">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-15</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/CJ"/>
+      <rdf:value>RG1</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/case-report/53fcd57fbc69b4d4747161cc8885d6bf">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-15</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/CJ"/>
+      <rdf:value>RG2</rdf:value>
+   </euvoc:XlNotation>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/case-report/REPORT_CASE_1"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Общ сборник – Съд</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Sbírka rozhodnutí – Soudní dvůr</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Den Almindelige Samling – Domstolen</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Allgemeine Sammlung – Gerichtshof</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Γενική Συλλογή – Δικαστήριο</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">General Reports – Court of Justice</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Recopilación general – Tribunal de Justicia</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Üldine kohtulahendite kogumik – Euroopa Kohus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Oikeustapauskokoelma – Unionin tuomioistuin</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Recueil général – Cour de justice</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Tuarascálacha Ginearálta – an Chúirt Bhreithiúnais</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Opći zbornik – Sud</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Határozatok Tára általános rész – Bíróság</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Raccolta generale – Corte di giustizia</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Bendrasis Rinkinys – Teisingumo Teismas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Vispārējais Krājums – Tiesa</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Ġabra ġenerali – Il-Qorti tal-Ġustizzja</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Algemene Jurisprudentie – Hof van Justitie</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Ogólny Zbiór Orzeczeń – Trybunał Sprawiedliwości</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Coletânea geral – Tribunal de Justiça</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Repertoriul general – Curtea de Justiție</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Všeobecná zbierka – Súdny dvor</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Splošna zbirka odločb – Sodišče</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Rättsfallssamlingens allmänna del – Domstolen</skos:prefLabel>
+      <at:authority-code>REPORT_CASE_1</at:authority-code>
+      <at:op-code>REPORT_CASE_1</at:op-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>CJ</dc:source>
+            <at:legacy-code>RG1</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:start.use>2015-01-01</at:start.use>
+      <atold:op-code>REPORT_CASE_1</atold:op-code>
+      <dc:identifier>REPORT_CASE_1</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/case-report"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/case-report/0e2f9f0be7a18b67760ee3288bb1c9ae"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/case-report"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/case-report/REPORT_CASE_2"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Общ сборник – Общ съд</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Sbírka rozhodnutí – Tribunál</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Den Almindelige Samling – Retten</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Allgemeine Sammlung – Gericht</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Γενική Συλλογή – Γενικό Δικαστήριο</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">General Reports – General Court</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Recopilación general – Tribunal General</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Üldine kohtulahendite kogumik – Üldkohus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Oikeustapauskokoelma – Unionin yleinen tuomioistuin</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Recueil général – Tribunal</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Tuarascálacha Ginearálta – an Chúirt Ghinearálta</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Opći zbornik – Opći sud</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Határozatok Tára általános rész – Törvényszék</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Raccolta generale – Tribunale</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Bendrasis Rinkinys – Bendrasis Teismas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Vispārīgais Krājums – Vispārējā tiesa</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Ġabra ġenerali – Il-Qorti Ġenerali</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Algemene Jurisprudentie – Gerecht</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Ogólny Zbiór Orzeczeń – Sąd</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Coletânea geral – Tribunal Geral</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Repertoriul general – Tribunalul</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Všeobecná zbierka – Všeobecný súd</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Splošna zbirka odločb – Splošno sodišče</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Rättsfallssamlingens allmänna del – Tribunalen</skos:prefLabel>
+      <at:authority-code>REPORT_CASE_2</at:authority-code>
+      <at:op-code>REPORT_CASE_2</at:op-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>CJ</dc:source>
+            <at:legacy-code>RG2</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:start.use>2015-01-01</at:start.use>
+      <atold:op-code>REPORT_CASE_2</atold:op-code>
+      <dc:identifier>REPORT_CASE_2</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/case-report"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/case-report/53fcd57fbc69b4d4747161cc8885d6bf"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/case-report"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/case-report/REPORT_CASE_STAFF"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Сборник на публичната служба</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Sbírka rozhodnutí – Veřejná služba</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Samling af Afgørelser i Personalesager</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Sammlung Öffentlicher Dienst</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Συλλογή Υπαλληλικών Υποθέσεων</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Reports of Staff Cases</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Recopilación de la Función Pública</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Avaliku teenistuse kohtulahendite kogumik</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Henkilöstöasioiden oikeustapauskokoelma</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Recueil de la fonction publique</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Tuarascálacha maidir le Cásanna Foirne</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Zbornik službeničkih predmeta</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Határozatok Tára közszolgálati rész</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Raccolta della funzione pubblica</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Viešosios tarnybos rinkinys</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Judikatūras krājums – Civildienesta lietas</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Ġabra tas-servizz pubbliku</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Jurisprudentie ambtenarenzaken</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Zbiór Orzeczeń – Służba Publiczna</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Coletânea da Função pública</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Repertoriul funcției publice</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Zbierka verejnej služby</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Zbirka odločb za javne uslužbence</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Rättsfallssamlingens personaldel</skos:prefLabel>
+      <at:authority-code>REPORT_CASE_STAFF</at:authority-code>
+      <at:op-code>REPORT_CASE_STAFF</at:op-code>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>CJ</dc:source>
+            <at:legacy-code>SC</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <at:start.use>2005-01-01</at:start.use>
+      <atold:op-code>REPORT_CASE_STAFF</atold:op-code>
+      <dc:identifier>REPORT_CASE_STAFF</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/case-report"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/case-report/c0975afa19c41bccfc39fc60c1e98ac7"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/case-report"/>
+   </skos:Concept>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/case-report/c0975afa19c41bccfc39fc60c1e98ac7">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2005-01-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-12-02</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/CJ"/>
+      <rdf:value>SC</rdf:value>
+   </euvoc:XlNotation>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/casereports/OP_DATPRO"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">НЕОКОНЧАТЕЛНИ ДАННИ</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Předběžné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Midlertidige data</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Vorläufige Daten</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Προσωρινά δεδομένα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Provisional data</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Datos provisionales</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Esialgsed andmed</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Alustavat tiedot</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Données provisoires</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Sonraí sealadacha</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Privremeni podaci</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Ideiglenes adatok</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Dati provvisori</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Laikinieji duomenys</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Provizoriski dati</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Dejta provviżorja</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Voorlopige gegevens</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Dane tymczasowe</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Dados provisórios</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Date provizorii</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Predbežné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Začasni podatki</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Tillfälliga uppgifter</skos:prefLabel>
+      <at:authority-code>OP_DATPRO</at:authority-code>
+      <at:op-code>OP_DATPRO</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>OP_DATPRO</atold:op-code>
+      <dc:identifier>OP_DATPRO</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/case-report"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/case-report"/>
+   </skos:Concept>
+</rdf:RDF>

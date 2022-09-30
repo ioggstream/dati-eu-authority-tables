@@ -1,0 +1,295 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/change-corrig-justification/OP_DATPRO> a skos:Concept ;
+    at:authority-code "OP_DATPRO" ;
+    at:deprecated "false" ;
+    at:op-code "OP_DATPRO" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:change-corrig-justification ;
+    skos:prefLabel "Неокончателни данни"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv ;
+    skos:topConceptOf atold:change-corrig-justification .
+
+<http://publications.europa.eu/resource/authority/change-corrig-justification/cancel> a skos:Concept ;
+    at:authority-code "cancel" ;
+    at:deprecated "false" ;
+    at:op-code "cancel" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "cancel" ;
+    dc:identifier "cancel" ;
+    skos:definition "The buyer has cancelled the current notice by making it null and void. It does not cancel the procedure or the lot."@en ;
+    skos:inScheme atold:change-corrig-justification ;
+    skos:prefLabel "Анулирано обявление"@bg,
+        "Oznámení zrušeno"@cs,
+        "Meddelelse annulleret"@da,
+        "Bekanntmachung annulliert"@de,
+        "Ακύρωση της προκήρυξης"@el,
+        "Notice cancelled"@en,
+        "Anulación de la notificación"@es,
+        "Teade tühistati"@et,
+        "Ilmoitus peruutettu"@fi,
+        "Avis annulé"@fr,
+        "Fógra curtha ar ceal"@ga,
+        "Otkazana obavijest"@hr,
+        "Értesítés törlése"@hu,
+        "Avviso annullato"@it,
+        "Pranešimas atšauktas"@lt,
+        "Paziņojums atcelts"@lv,
+        "Avviż ikkanċellat"@mt,
+        "Aankondiging geannuleerd"@nl,
+        "Ogłoszenie anulowane"@pl,
+        "Anúncio cancelado"@pt,
+        "Notificare anulată"@ro,
+        "Oznámenie zrušené"@sk,
+        "Obvestilo preklicano"@sl,
+        "Annullerat meddelande"@sv ;
+    skos:topConceptOf atold:change-corrig-justification .
+
+<http://publications.europa.eu/resource/authority/change-corrig-justification/cancel-intent> a skos:Concept ;
+    at:authority-code "cancel-intent" ;
+    at:deprecated "false" ;
+    at:op-code "cancel-intent" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "cancel-intent" ;
+    dc:identifier "cancel-intent" ;
+    skos:definition "The buyer intends to cancel the original notice. This enables the implementation of European Court of Justice case C-81/98 points 37-42."@en ;
+    skos:inScheme atold:change-corrig-justification ;
+    skos:prefLabel "Намерение за отмяна"@bg,
+        "Zamýšlené zrušení"@cs,
+        "Hensigt om annullering"@da,
+        "Annullierung beabsichtigt"@de,
+        "Πρόθεση ακύρωσης"@el,
+        "Cancellation intention"@en,
+        "Intención de cancelación"@es,
+        "Tühistamiskatse"@et,
+        "Peruutusaikomus"@fi,
+        "Intention d’annuler"@fr,
+        "Cur ar ceal beartaithe"@ga,
+        "Planirano poništenje"@hr,
+        "Törlési szándék"@hu,
+        "Previsto annullamento"@it,
+        "Ketinimas atšaukti pirkimą"@lt,
+        "Atcelšanas nodoms"@lv,
+        "Intenzjoni tal-kanċellazzjoni"@mt,
+        "Annulering voorgenomen"@nl,
+        "Zamiar unieważnienia"@pl,
+        "Intenção de cancelamento"@pt,
+        "Intenție de anulare"@ro,
+        "Úmysel zrušiť"@sk,
+        "Nameravan preklic"@sl,
+        "Avsikt att ställa in"@sv ;
+    skos:topConceptOf atold:change-corrig-justification .
+
+<http://publications.europa.eu/resource/authority/change-corrig-justification/cor-buy> a skos:Concept ;
+    at:authority-code "cor-buy" ;
+    at:deprecated "false" ;
+    at:op-code "cor-buy" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "cor-buy" ;
+    dc:identifier "cor-buy" ;
+    skos:definition "Correction of one or more mistakes originally made by the buyer."@en ;
+    skos:inScheme atold:change-corrig-justification ;
+    skos:prefLabel "Поправка на грешки, допуснати от купувача"@bg,
+        "Oprava chyb kupujícího"@cs,
+        "Berigtigelse – køber"@da,
+        "Korrektur – Beschaffer"@de,
+        "Διόρθωση λαθών αγοραστή"@el,
+        "Buyer correction"@en,
+        "Corrección comprador"@es,
+        "Hankija vea parandamine"@et,
+        "Ostajan virheen korjaaminen"@fi,
+        "Correction par l’acheteur"@fr,
+        "Ceartúchán - ceannaitheoir"@ga,
+        "Ispravak pogreške kupca"@hr,
+        "Ajánlatkérő szervezet általi hiba javítása"@hu,
+        "Rettifica errore committente"@it,
+        "Pirkėjo klaidų ištaisymas"@lt,
+        "Pircēja kļūdas izlabošana"@lv,
+        "Korrezzjoni tax-xerrej"@mt,
+        "Correctie koper"@nl,
+        "Korekta nabywcy"@pl,
+        "Correção pelo adquirente"@pt,
+        "Corectare cumpărător"@ro,
+        "Oprava chyby kupujúceho"@sk,
+        "Popravek kupca"@sl,
+        "Rättelse av upphandlare"@sv ;
+    skos:topConceptOf atold:change-corrig-justification .
+
+<http://publications.europa.eu/resource/authority/change-corrig-justification/cor-esen> a skos:Concept ;
+    at:authority-code "cor-esen" ;
+    at:deprecated "false" ;
+    at:op-code "cor-esen" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "cor-esen" ;
+    dc:identifier "cor-esen" ;
+    skos:definition "Correction of one or more mistakes originally made by the eSender."@en ;
+    skos:inScheme atold:change-corrig-justification ;
+    skos:prefLabel "Поправка на грешки, допуснати от платформата eSender"@bg,
+        "Oprava chyb eSendera"@cs,
+        "Berigtigelse – eSender"@da,
+        "Korrektur – eSender"@de,
+        "Διόρθωση λαθών του συστήματος eSender"@el,
+        "eSender correction"@en,
+        "Corrección eSender"@es,
+        "Süsteemi eSender vea parandamine"@et,
+        "eSender-virheen korjaaminen"@fi,
+        "Correction par l’eSender"@fr,
+        "Ceartúchán - eSender"@ga,
+        "Ispravak pogreške sustava eSender"@hr,
+        "eSender hiba javítása"@hu,
+        "Rettifica errore eSender"@it,
+        "E. formų siuntėjo klaidų ištaisymas"@lt,
+        "E-sūtītāja kļūdas izlabošana"@lv,
+        "Korrezzjoni tal-mezz li bih jintbagħtu l-avviżi b’mod elettroniku"@mt,
+        "Correctie eSender"@nl,
+        "Korekta eSendera"@pl,
+        "Correção pelo eSender"@pt,
+        "Corectare eSender"@ro,
+        "Oprava chyby eSendera"@sk,
+        "Popravek sistema eSender"@sl,
+        "eSender-rättelse"@sv ;
+    skos:topConceptOf atold:change-corrig-justification .
+
+<http://publications.europa.eu/resource/authority/change-corrig-justification/cor-pub> a skos:Concept ;
+    at:authority-code "cor-pub" ;
+    at:deprecated "false" ;
+    at:op-code "cor-pub" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "cor-pub" ;
+    dc:identifier "cor-pub" ;
+    skos:definition "Correction of one or more mistakes originally made by the publisher."@en ;
+    skos:inScheme atold:change-corrig-justification ;
+    skos:prefLabel "Поправка на грешки, допуснати от издателя"@bg,
+        "Oprava chyb vydavatele"@cs,
+        "Berigtigelse – udgiver"@da,
+        "Korrektur – Veröffentlichung"@de,
+        "Διόρθωση λαθών εκδότη"@el,
+        "Publisher correction"@en,
+        "Corrección encargado publicación"@es,
+        "Avaldaja vea parandamine"@et,
+        "Julkaisijan virheen korjaaminen"@fi,
+        "Correction par l’éditeur"@fr,
+        "Ceartúchán - foilsitheoir"@ga,
+        "Ispravak pogreške izdavača"@hr,
+        "Közzétevői hiba javítása"@hu,
+        "Rettifica errore editore"@it,
+        "Skelbėjo klaidų ištaisymas"@lt,
+        "Publicētāja kļūdas izlabošana"@lv,
+        "Korrezzjoni tal-pubblikatur"@mt,
+        "Correctie platform voor bekendmaking"@nl,
+        "Korekta publikującego"@pl,
+        "Correção pelo editor"@pt,
+        "Corectare editor"@ro,
+        "Oprava chyby vydavateľa"@sk,
+        "Popravek objavitelja"@sl,
+        "Rättelse av utgivare"@sv ;
+    skos:scopeNote "A publisher is, for example, Tenders Electronic Daily (TED)."@en ;
+    skos:topConceptOf atold:change-corrig-justification .
+
+<http://publications.europa.eu/resource/authority/change-corrig-justification/info-release> a skos:Concept ;
+    at:authority-code "info-release" ;
+    at:deprecated "false" ;
+    at:op-code "info-release" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "info-release" ;
+    dc:identifier "info-release" ;
+    skos:definition "Publication of information that was originally postponed for reasons of law enforcement, commercial interests of an economic operator, fair competition or other public interest."@en ;
+    skos:inScheme atold:change-corrig-justification ;
+    skos:prefLabel "Информацията вече е налична"@bg,
+        "Informace jsou nyní k dispozici"@cs,
+        "Der foreligger nu oplysninger"@da,
+        "Informationen sind jetzt verfügbar"@de,
+        "Οι πληροφορίες είναι πλέον διαθέσιμες"@el,
+        "Information now available"@en,
+        "Información disponible ahora"@es,
+        "Teave on nüüd kättesaadav"@et,
+        "Nyt saatavilla olevat tiedot"@fi,
+        "Informations désormais disponibles"@fr,
+        "Eolas ar fáil anois"@ga,
+        "Sada dostupne informacije"@hr,
+        "Az információk már rendelkezésre állnak"@hu,
+        "Informazioni ora disponibili"@it,
+        "Dabar turima informacija"@lt,
+        "Informācija tagad ir pieejama"@lv,
+        "L-informazzjoni issa hija disponibbli"@mt,
+        "Informatie nu beschikbaar"@nl,
+        "Obecnie dostępne informacje"@pl,
+        "Informações agora disponíveis"@pt,
+        "Informații disponibile acum"@ro,
+        "Informácie sú teraz k dispozícii"@sk,
+        "Informacije so zdaj na voljo"@sl,
+        "Information nu tillgänglig"@sv ;
+    skos:topConceptOf atold:change-corrig-justification .
+
+<http://publications.europa.eu/resource/authority/change-corrig-justification/update-add> a skos:Concept ;
+    at:authority-code "update-add" ;
+    at:deprecated "false" ;
+    at:op-code "update-add" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "update-add" ;
+    dc:identifier "update-add" ;
+    skos:definition "The buyer has updated or added information."@en ;
+    skos:inScheme atold:change-corrig-justification ;
+    skos:prefLabel "Актуализирана информация"@bg,
+        "Informace aktualizovány"@cs,
+        "Ajourførte oplysninger"@da,
+        "Aktualisierte Informationen"@de,
+        "Ενημερωμένες πληροφορίες"@el,
+        "Information updated"@en,
+        "Información actualizada"@es,
+        "Teave ajakohastatud"@et,
+        "Ajantasaiset tiedot"@fi,
+        "Mise à jour d’informations"@fr,
+        "Faisnéis nuashonraithe"@ga,
+        "Ažurirane informacije"@hr,
+        "Frissített információ"@hu,
+        "Aggiornamento informazioni"@it,
+        "Atnaujinta informacija"@lt,
+        "Informācija atjaunināta"@lv,
+        "Informazzjoni aġġornata"@mt,
+        "Informatie bijgewerkt"@nl,
+        "Aktualizacja informacji"@pl,
+        "Informações atualizadas"@pt,
+        "Informații actualizate"@ro,
+        "Aktualizované informácie"@sk,
+        "Posodobitev informacij"@sl,
+        "Information uppdaterad"@sv ;
+    skos:topConceptOf atold:change-corrig-justification .
+
+atold:change-corrig-justification a skos:ConceptScheme ;
+    rdfs:label "Change corrig justification"@en ;
+    at:prefLabel "Change corrig justification"@en ;
+    at:table.id "change-corrig-justification" ;
+    at:table.version.number "20220928-0" ;
+    owl:versionInfo "20220928-0" ;
+    skos:prefLabel "Change corrig justification"@en .
+

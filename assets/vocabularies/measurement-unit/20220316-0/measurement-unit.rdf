@@ -1,0 +1,2950 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:at="http://publications.europa.eu/ontology/authority/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:atold="http://publications.europa.eu/resource/authority/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xml:base="http://publications.europa.eu/resource/authority/measurement-unit">
+   <skos:ConceptScheme rdf:about="http://publications.europa.eu/resource/authority/measurement-unit"
+                       at:table.id="measurement-unit"
+                       at:table.version.number="20220316-0">
+      <at:prefLabel xml:lang="en">Measurement unit</at:prefLabel>
+      <rdfs:label xml:lang="en">Measurement unit</rdfs:label>
+      <owl:versionInfo>20220316-0</owl:versionInfo>
+      <skos:prefLabel xml:lang="en">Measurement unit</skos:prefLabel>
+   </skos:ConceptScheme>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/2N"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">децибел</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">decibel</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">decibel</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Dezibel</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">ντεσιμπέλ</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">decibel</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">decibelio</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">detsibell</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">desibeli</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">décibel</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">deicibeil</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">decibel</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">decibel</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">decibel</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">decibelas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">decibeli</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">decibel</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">decibel</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">decybel</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">decibel</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">decibel</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">decibel</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">decibel</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">decibel</skos:prefLabel>
+      <at:authority-code>2N</at:authority-code>
+      <at:op-code>2N</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>2N</atold:op-code>
+      <dc:identifier>2N</dc:identifier>
+      <skos:altLabel xml:lang="bg">dB</skos:altLabel>
+      <skos:altLabel xml:lang="cs">dB</skos:altLabel>
+      <skos:altLabel xml:lang="da">dB</skos:altLabel>
+      <skos:altLabel xml:lang="de">dB</skos:altLabel>
+      <skos:altLabel xml:lang="el">dB</skos:altLabel>
+      <skos:altLabel xml:lang="en">dB</skos:altLabel>
+      <skos:altLabel xml:lang="es">dB</skos:altLabel>
+      <skos:altLabel xml:lang="et">dB</skos:altLabel>
+      <skos:altLabel xml:lang="fi">dB</skos:altLabel>
+      <skos:altLabel xml:lang="fr">dB</skos:altLabel>
+      <skos:altLabel xml:lang="ga">dB</skos:altLabel>
+      <skos:altLabel xml:lang="hr">dB</skos:altLabel>
+      <skos:altLabel xml:lang="hu">dB</skos:altLabel>
+      <skos:altLabel xml:lang="it">dB</skos:altLabel>
+      <skos:altLabel xml:lang="lt">dB</skos:altLabel>
+      <skos:altLabel xml:lang="lv">dB</skos:altLabel>
+      <skos:altLabel xml:lang="mt">dB</skos:altLabel>
+      <skos:altLabel xml:lang="nl">dB</skos:altLabel>
+      <skos:altLabel xml:lang="pl">dB</skos:altLabel>
+      <skos:altLabel xml:lang="pt">dB</skos:altLabel>
+      <skos:altLabel xml:lang="ro">dB</skos:altLabel>
+      <skos:altLabel xml:lang="sk">dB</skos:altLabel>
+      <skos:altLabel xml:lang="sl">dB</skos:altLabel>
+      <skos:altLabel xml:lang="sv">dB</skos:altLabel>
+      <skos:definition xml:lang="en">The decibel (dB) is a unit of sound intensity. One bel represents the logarithm of a ratio between two power quantities of 10:1, or the logarithm of a ratio between two field quantities of √10:1. One decibel is one tenth (deci-) of one bel.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/3C"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">човекомесец</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">člověkoměsíc</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">mandmåned</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Mannmonat</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">ανθρωπομήνας</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">manmonth</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">hombre-mes</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">inimkuu</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">henkilötyökuukausi</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">mois-homme</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">daonmhí</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">čovjek-mjesec</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">emberhónap</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">uomo-mese</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">asmens darbo mė́nuo</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">cilvēkmēneši</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">xhur ta’ xogħol</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">manmaand</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">osobomiesiąc</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">homem-mês</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">luni-om</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">človekomesiac</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">človek-mesec</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">manmånad</skos:prefLabel>
+      <at:authority-code>3C</at:authority-code>
+      <at:op-code>3C</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>3C</atold:op-code>
+      <dc:identifier>3C</dc:identifier>
+      <skos:altLabel xml:lang="da">mandemåned</skos:altLabel>
+      <skos:altLabel xml:lang="en">man-month</skos:altLabel>
+      <skos:altLabel xml:lang="fr">homme-mois</skos:altLabel>
+      <skos:altLabel xml:lang="it">mese-uomo</skos:altLabel>
+      <skos:altLabel xml:lang="ro">om-lună</skos:altLabel>
+      <skos:altLabel xml:lang="sk">osobomesiac</skos:altLabel>
+      <skos:definition xml:lang="en">The manmonth is a unit of count defining the number of months for a person or persons to perform an undertaking.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/AD"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">байт</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">bajt</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">byte</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Byte</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">μπάιτ</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">byte</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">byte</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">bait</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">tavu</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">byte</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">beart</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">bajt</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">byte</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">byte</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">baitas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">baiti</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">byte</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">byte</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">bajt</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">byte</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">byte</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">bajt</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">bajt</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">byte</skos:prefLabel>
+      <at:authority-code>AD</at:authority-code>
+      <at:op-code>AD</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>AD</atold:op-code>
+      <dc:identifier>AD</dc:identifier>
+      <skos:altLabel xml:lang="bg">B</skos:altLabel>
+      <skos:altLabel xml:lang="cs">B</skos:altLabel>
+      <skos:altLabel xml:lang="da">B</skos:altLabel>
+      <skos:altLabel xml:lang="de">B</skos:altLabel>
+      <skos:altLabel xml:lang="el">B</skos:altLabel>
+      <skos:altLabel xml:lang="en">B</skos:altLabel>
+      <skos:altLabel xml:lang="es">B</skos:altLabel>
+      <skos:altLabel xml:lang="et">B</skos:altLabel>
+      <skos:altLabel xml:lang="fi">B</skos:altLabel>
+      <skos:altLabel xml:lang="fr">B</skos:altLabel>
+      <skos:altLabel xml:lang="ga">B</skos:altLabel>
+      <skos:altLabel xml:lang="hr">B</skos:altLabel>
+      <skos:altLabel xml:lang="hu">B</skos:altLabel>
+      <skos:altLabel xml:lang="it">B</skos:altLabel>
+      <skos:altLabel xml:lang="lt">B</skos:altLabel>
+      <skos:altLabel xml:lang="lv">B</skos:altLabel>
+      <skos:altLabel xml:lang="mt">B</skos:altLabel>
+      <skos:altLabel xml:lang="nl">B</skos:altLabel>
+      <skos:altLabel xml:lang="pl">B</skos:altLabel>
+      <skos:altLabel xml:lang="pt">B</skos:altLabel>
+      <skos:altLabel xml:lang="ro">B</skos:altLabel>
+      <skos:altLabel xml:lang="sk">B</skos:altLabel>
+      <skos:altLabel xml:lang="sl">B</skos:altLabel>
+      <skos:altLabel xml:lang="sv">B</skos:altLabel>
+      <skos:definition xml:lang="en">The byte is a unit of information equal to 8 bits.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/AMP"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">ампер</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">ampér</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">ampere</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Ampere</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">αμπέρ</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">ampere</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">amperio</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">amper</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">ampeeri</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">ampère</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">aimpéar</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">amper</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">amper</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">ampère</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">amperas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">ampēri</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">ampere</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">ampère</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">amper</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">ampere</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">amper</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">ampér</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">amper</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">ampere</skos:prefLabel>
+      <at:authority-code>AMP</at:authority-code>
+      <at:op-code>AMP</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>AMP</atold:op-code>
+      <dc:identifier>AMP</dc:identifier>
+      <skos:altLabel xml:lang="bg">A</skos:altLabel>
+      <skos:altLabel xml:lang="cs">A</skos:altLabel>
+      <skos:altLabel xml:lang="da">A</skos:altLabel>
+      <skos:altLabel xml:lang="de">A</skos:altLabel>
+      <skos:altLabel xml:lang="el">A</skos:altLabel>
+      <skos:altLabel xml:lang="en">A</skos:altLabel>
+      <skos:altLabel xml:lang="es">A</skos:altLabel>
+      <skos:altLabel xml:lang="et">A</skos:altLabel>
+      <skos:altLabel xml:lang="fi">A</skos:altLabel>
+      <skos:altLabel xml:lang="fr">A</skos:altLabel>
+      <skos:altLabel xml:lang="ga">A</skos:altLabel>
+      <skos:altLabel xml:lang="hr">A</skos:altLabel>
+      <skos:altLabel xml:lang="hu">A</skos:altLabel>
+      <skos:altLabel xml:lang="it">A</skos:altLabel>
+      <skos:altLabel xml:lang="lt">A</skos:altLabel>
+      <skos:altLabel xml:lang="lv">A</skos:altLabel>
+      <skos:altLabel xml:lang="mt">A</skos:altLabel>
+      <skos:altLabel xml:lang="nl">A</skos:altLabel>
+      <skos:altLabel xml:lang="pl">A</skos:altLabel>
+      <skos:altLabel xml:lang="pt">A</skos:altLabel>
+      <skos:altLabel xml:lang="ro">A</skos:altLabel>
+      <skos:altLabel xml:lang="sk">A</skos:altLabel>
+      <skos:altLabel xml:lang="sl">A</skos:altLabel>
+      <skos:altLabel xml:lang="sv">A</skos:altLabel>
+      <skos:definition xml:lang="en">The ampere (A) is the base unit of electric current in the International System of Units, equivalent to 6.24×1018 elementary charges, such as electrons, moving through a surface in one second.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/BAR"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">бар</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">bar</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">bar</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Bar</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">μπαρ</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">bar</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">bar</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">baar</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">baari</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">bar</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">bar</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">bar</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">bar</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">bar</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">baras</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">bāri</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">bar</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">bar</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">bar</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">bar</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">bar</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">bar</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">bar</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">bar</skos:prefLabel>
+      <at:authority-code>BAR</at:authority-code>
+      <at:op-code>BAR</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>BAR</atold:op-code>
+      <dc:identifier>BAR</dc:identifier>
+      <skos:altLabel xml:lang="bg">bar</skos:altLabel>
+      <skos:altLabel xml:lang="de">bar</skos:altLabel>
+      <skos:altLabel xml:lang="el">bar</skos:altLabel>
+      <skos:altLabel xml:lang="et">bar</skos:altLabel>
+      <skos:altLabel xml:lang="fi">bar</skos:altLabel>
+      <skos:altLabel xml:lang="lt">bar</skos:altLabel>
+      <skos:altLabel xml:lang="lv">bar</skos:altLabel>
+      <skos:definition xml:lang="en">The bar (bar) is a non-SI unit of pressure (i.e. outside of the International System of Units), defined as exactly equal to 100 000 Pa, 10⁵ Pa, which is slightly less than the current average atmospheric pressure on Earth at sea level.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/BIT"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">бит</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">bit</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">bit</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Bit</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">μπιτ</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">bit</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">bit</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">bitt</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">bitti</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">bit</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">giotán</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">bit</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">bit</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">bit</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">bitas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">biti</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">bit</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">bit</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">bit</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">bit</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">bit</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">bit</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">bit</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">bit</skos:prefLabel>
+      <at:authority-code>BIT</at:authority-code>
+      <at:op-code>BIT</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>BIT</atold:op-code>
+      <dc:identifier>BIT</dc:identifier>
+      <skos:altLabel xml:lang="bg">b</skos:altLabel>
+      <skos:altLabel xml:lang="cs">b</skos:altLabel>
+      <skos:altLabel xml:lang="da">b</skos:altLabel>
+      <skos:altLabel xml:lang="de">b</skos:altLabel>
+      <skos:altLabel xml:lang="el">b</skos:altLabel>
+      <skos:altLabel xml:lang="en">b</skos:altLabel>
+      <skos:altLabel xml:lang="es">b</skos:altLabel>
+      <skos:altLabel xml:lang="et">b</skos:altLabel>
+      <skos:altLabel xml:lang="fi">b</skos:altLabel>
+      <skos:altLabel xml:lang="fr">b</skos:altLabel>
+      <skos:altLabel xml:lang="ga">b</skos:altLabel>
+      <skos:altLabel xml:lang="hr">b</skos:altLabel>
+      <skos:altLabel xml:lang="hu">b</skos:altLabel>
+      <skos:altLabel xml:lang="it">b</skos:altLabel>
+      <skos:altLabel xml:lang="lt">b</skos:altLabel>
+      <skos:altLabel xml:lang="lv">b</skos:altLabel>
+      <skos:altLabel xml:lang="mt">b</skos:altLabel>
+      <skos:altLabel xml:lang="nl">b</skos:altLabel>
+      <skos:altLabel xml:lang="pl">b</skos:altLabel>
+      <skos:altLabel xml:lang="pt">b</skos:altLabel>
+      <skos:altLabel xml:lang="ro">b</skos:altLabel>
+      <skos:altLabel xml:lang="sk">b</skos:altLabel>
+      <skos:altLabel xml:lang="sl">b</skos:altLabel>
+      <skos:altLabel xml:lang="sv">b</skos:altLabel>
+      <skos:definition xml:lang="en">The bit (b), short for "binary digit", is a non-SI unit of information (i.e. outside of the International System of Units) used in computing and digital communications, defined as the minimum amount of information required to make one simple yes-or-no decision at the lowest level in a system.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/BQL"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">бекерел</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">becquerel</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">becquerel</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Becquerel</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">μπεκερέλ</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">becquerel</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">becquerel</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">bekrell</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">becquerel</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">becquerel</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">beicireil</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">bekerel</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">becquerel</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">becquerel</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">bekerelis</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">bekereli</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">becquerel</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">becquerel</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">bekerel</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">becquerel</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">becquerel</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">becquerel</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">bekerel</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">becquerel</skos:prefLabel>
+      <at:authority-code>BQL</at:authority-code>
+      <at:op-code>BQL</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>BQL</atold:op-code>
+      <dc:identifier>BQL</dc:identifier>
+      <skos:altLabel xml:lang="bg">Bq</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Bq</skos:altLabel>
+      <skos:altLabel xml:lang="da">Bq</skos:altLabel>
+      <skos:altLabel xml:lang="de">Bq</skos:altLabel>
+      <skos:altLabel xml:lang="el">Bq</skos:altLabel>
+      <skos:altLabel xml:lang="en">Bq</skos:altLabel>
+      <skos:altLabel xml:lang="es">Bq</skos:altLabel>
+      <skos:altLabel xml:lang="es">becquerelio</skos:altLabel>
+      <skos:altLabel xml:lang="et">Bq</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Bq</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Bq</skos:altLabel>
+      <skos:altLabel xml:lang="ga">Bq</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Bq</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Bq</skos:altLabel>
+      <skos:altLabel xml:lang="it">Bq</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Bq</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Bq</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Bq</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Bq</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Bq</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Bq</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Bq</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Bq</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Bq</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Bq</skos:altLabel>
+      <skos:definition xml:lang="en">The becquerel (Bq) is a derived unit of radioactivity in the International System of Units, defined as the activity of a quantity of radioactive material in which one nucleus decays per second, 1 Bq = s⁻¹.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/C34"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">мол</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">mol</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">mol</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Mol</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">μολ</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">mole</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">mol</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">mool</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">mooli</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">mole</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">mól</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">mol</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">mól</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">mole</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">molis</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">moli</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">mol</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">mol</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">mol</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">mole</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">mol</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">mol</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">mol</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">mol</skos:prefLabel>
+      <at:authority-code>C34</at:authority-code>
+      <at:op-code>C34</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>C34</atold:op-code>
+      <dc:identifier>C34</dc:identifier>
+      <skos:altLabel xml:lang="bg">mol</skos:altLabel>
+      <skos:altLabel xml:lang="de">mol</skos:altLabel>
+      <skos:altLabel xml:lang="el">mol</skos:altLabel>
+      <skos:altLabel xml:lang="el">γραμμομόριο</skos:altLabel>
+      <skos:altLabel xml:lang="en">mol</skos:altLabel>
+      <skos:altLabel xml:lang="et">mol</skos:altLabel>
+      <skos:altLabel xml:lang="fi">mol</skos:altLabel>
+      <skos:altLabel xml:lang="fr">mol</skos:altLabel>
+      <skos:altLabel xml:lang="ga">mol</skos:altLabel>
+      <skos:altLabel xml:lang="hu">mol</skos:altLabel>
+      <skos:altLabel xml:lang="it">mol</skos:altLabel>
+      <skos:altLabel xml:lang="lt">mol</skos:altLabel>
+      <skos:altLabel xml:lang="lv">mol</skos:altLabel>
+      <skos:altLabel xml:lang="pt">mol</skos:altLabel>
+      <skos:definition xml:lang="en">The mole (mol) is the base unit for amount of substance in the International System of Units, defined as the amount of a chemical substance that contains exactly 6.02214076 × 1023 constitutive particles, e.g. atoms, molecules, ions or electrons.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/C45"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">нанометър</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">nanometr</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">nanometer</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Nanometer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">νανόμετρο</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">nanometre</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">nanómetro</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">nanomeeter</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">nanometri</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">nanomètre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">nanaiméadar</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">nanometar</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">nanométer</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">nanometro</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">nanometras</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">nanometri</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">nanometru</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">nanometer</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">nanometr</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">nanometro</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">nanometru</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">nanometer</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">nanometer</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">nanometer</skos:prefLabel>
+      <at:authority-code>C45</at:authority-code>
+      <at:op-code>C45</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>C45</atold:op-code>
+      <dc:identifier>C45</dc:identifier>
+      <skos:altLabel xml:lang="bg">нм</skos:altLabel>
+      <skos:altLabel xml:lang="cs">nm</skos:altLabel>
+      <skos:altLabel xml:lang="da">nm</skos:altLabel>
+      <skos:altLabel xml:lang="de">nm</skos:altLabel>
+      <skos:altLabel xml:lang="el">nm</skos:altLabel>
+      <skos:altLabel xml:lang="en">nm</skos:altLabel>
+      <skos:altLabel xml:lang="es">nm</skos:altLabel>
+      <skos:altLabel xml:lang="et">nm</skos:altLabel>
+      <skos:altLabel xml:lang="fi">nm</skos:altLabel>
+      <skos:altLabel xml:lang="fr">nm</skos:altLabel>
+      <skos:altLabel xml:lang="ga">nm</skos:altLabel>
+      <skos:altLabel xml:lang="hr">nm</skos:altLabel>
+      <skos:altLabel xml:lang="hu">nm</skos:altLabel>
+      <skos:altLabel xml:lang="it">nm</skos:altLabel>
+      <skos:altLabel xml:lang="lt">nm</skos:altLabel>
+      <skos:altLabel xml:lang="lv">nm</skos:altLabel>
+      <skos:altLabel xml:lang="mt">nm</skos:altLabel>
+      <skos:altLabel xml:lang="nl">nm</skos:altLabel>
+      <skos:altLabel xml:lang="pl">nm</skos:altLabel>
+      <skos:altLabel xml:lang="pt">nm</skos:altLabel>
+      <skos:altLabel xml:lang="ro">nm</skos:altLabel>
+      <skos:altLabel xml:lang="sk">nm</skos:altLabel>
+      <skos:altLabel xml:lang="sl">nm</skos:altLabel>
+      <skos:altLabel xml:lang="sv">nm</skos:altLabel>
+      <skos:definition xml:lang="en">The nanometre (nm) is a unit of length in the International System of Units, equal to one billionth of a metre, 10⁻⁹ m (0.000000001 m).</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/CDL"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">кандела</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">kandela</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">candela</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Candela</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">καντέλα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">candela</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">candela</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">kandela</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">kandela</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">candela</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">caindéile</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">kandela</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">kandela</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">candela</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">kandela</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">kandelas</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">candela</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">candela</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">kandela</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">candela</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">candela</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">kandela</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">kandela</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">candela</skos:prefLabel>
+      <at:authority-code>CDL</at:authority-code>
+      <at:op-code>CDL</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>CDL</atold:op-code>
+      <dc:identifier>CDL</dc:identifier>
+      <skos:altLabel xml:lang="bg">кд</skos:altLabel>
+      <skos:altLabel xml:lang="cs">cd</skos:altLabel>
+      <skos:altLabel xml:lang="da">cd</skos:altLabel>
+      <skos:altLabel xml:lang="de">cd</skos:altLabel>
+      <skos:altLabel xml:lang="el">cd</skos:altLabel>
+      <skos:altLabel xml:lang="el">κηρίο</skos:altLabel>
+      <skos:altLabel xml:lang="en">cd</skos:altLabel>
+      <skos:altLabel xml:lang="es">cd</skos:altLabel>
+      <skos:altLabel xml:lang="et">cd</skos:altLabel>
+      <skos:altLabel xml:lang="fi">cd</skos:altLabel>
+      <skos:altLabel xml:lang="fr">cd</skos:altLabel>
+      <skos:altLabel xml:lang="ga">cd</skos:altLabel>
+      <skos:altLabel xml:lang="hr">cd</skos:altLabel>
+      <skos:altLabel xml:lang="hu">cd</skos:altLabel>
+      <skos:altLabel xml:lang="it">cd</skos:altLabel>
+      <skos:altLabel xml:lang="lt">cd</skos:altLabel>
+      <skos:altLabel xml:lang="lv">cd</skos:altLabel>
+      <skos:altLabel xml:lang="mt">cd</skos:altLabel>
+      <skos:altLabel xml:lang="nl">cd</skos:altLabel>
+      <skos:altLabel xml:lang="pl">cd</skos:altLabel>
+      <skos:altLabel xml:lang="pt">cd</skos:altLabel>
+      <skos:altLabel xml:lang="ro">cd</skos:altLabel>
+      <skos:altLabel xml:lang="sk">cd</skos:altLabel>
+      <skos:altLabel xml:lang="sl">cd</skos:altLabel>
+      <skos:altLabel xml:lang="sv">cd</skos:altLabel>
+      <skos:definition xml:lang="en">The candela (cd) is the base unit of luminous intensity in the International System of Units. It is defined as the luminous intensity, in a given direction, of a source that emits monochromatic radiation of frequency 540×1012 hertz and has a radiant intensity in that direction of 1/683 watt per steradian.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/CEL"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">градус по Целзий</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">stupeň Celsia</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">grad celsius</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Grad Celsius</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">βαθμός Κελσίου</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">degree Celsius</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">grado Celsius</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Celsiuse kraad</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">celsiusaste</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">degré Celsius</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">céim Celsius</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Celzijev stupanj</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Celsius-fok</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">grado centigrado</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Celsijaus laipsnis</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Celsija grādi</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">grad Celsius</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">graad Celsius</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">stopień Celsjusza</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">graus centígrados</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">grad Celsius</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">stupeň Celzia</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">stopinja Celzija</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">grad Celsius</skos:prefLabel>
+      <at:authority-code>CEL</at:authority-code>
+      <at:op-code>CEL</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>CEL</atold:op-code>
+      <dc:identifier>CEL</dc:identifier>
+      <skos:altLabel xml:lang="bg">°C</skos:altLabel>
+      <skos:altLabel xml:lang="cs">°C</skos:altLabel>
+      <skos:altLabel xml:lang="da">celsiusgrad</skos:altLabel>
+      <skos:altLabel xml:lang="da">°C</skos:altLabel>
+      <skos:altLabel xml:lang="de">°C</skos:altLabel>
+      <skos:altLabel xml:lang="el">°C</skos:altLabel>
+      <skos:altLabel xml:lang="en">°C</skos:altLabel>
+      <skos:altLabel xml:lang="es">°C</skos:altLabel>
+      <skos:altLabel xml:lang="et">°C</skos:altLabel>
+      <skos:altLabel xml:lang="fi">°C</skos:altLabel>
+      <skos:altLabel xml:lang="fr">°C</skos:altLabel>
+      <skos:altLabel xml:lang="ga">°C</skos:altLabel>
+      <skos:altLabel xml:lang="hr">°C</skos:altLabel>
+      <skos:altLabel xml:lang="hu">°C</skos:altLabel>
+      <skos:altLabel xml:lang="it">°C</skos:altLabel>
+      <skos:altLabel xml:lang="lt">°C</skos:altLabel>
+      <skos:altLabel xml:lang="lv">°C</skos:altLabel>
+      <skos:altLabel xml:lang="mt">°C</skos:altLabel>
+      <skos:altLabel xml:lang="nl">°C</skos:altLabel>
+      <skos:altLabel xml:lang="pl">°C</skos:altLabel>
+      <skos:altLabel xml:lang="pt">°C</skos:altLabel>
+      <skos:altLabel xml:lang="ro">°C</skos:altLabel>
+      <skos:altLabel xml:lang="sk">°C</skos:altLabel>
+      <skos:altLabel xml:lang="sl">°C</skos:altLabel>
+      <skos:altLabel xml:lang="sv">°C</skos:altLabel>
+      <skos:definition xml:lang="en">The degree Celsius (°C) is a unit of temperature used by the International System of Units. The scale used to be based on 0 °C for the freezing point of water and 100 °C for the boiling point of water. The degree Celsius and the Celsius scale are now defined by absolute zero and the triple point of Vienna Standard Mean Ocean Water.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/CMK"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">квадратен сантиметър</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">centimetr čtvereční</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">kvadratcentimeter</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Quadratzentimeter</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">τετραγωνικό εκατοστό</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">square centimetre</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">centímetro cuadrado</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">ruutsentimeeter</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">neliösenttimetri</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">centimètre carré</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">ceintiméadar cearnach</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">kvadratni centimetar</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">négyzetcentiméter</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">centimetro quadrato</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">kvadratinis centimetras</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">kvadrātcentimetri</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">ċentimetru kwadru</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">vierkante centimeter</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">centymetr kwadratowy</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">centímetro quadrado</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">centimetru pătrat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">centimeter štvorcový</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">kvadratni centimeter</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">kvadratcentimeter</skos:prefLabel>
+      <at:authority-code>CMK</at:authority-code>
+      <at:op-code>CMK</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>CMK</atold:op-code>
+      <dc:identifier>CMK</dc:identifier>
+      <skos:altLabel xml:lang="bg">см²</skos:altLabel>
+      <skos:altLabel xml:lang="cs">cm²</skos:altLabel>
+      <skos:altLabel xml:lang="da">cm²</skos:altLabel>
+      <skos:altLabel xml:lang="de">cm²</skos:altLabel>
+      <skos:altLabel xml:lang="el">cm²</skos:altLabel>
+      <skos:altLabel xml:lang="en">cm²</skos:altLabel>
+      <skos:altLabel xml:lang="es">cm²</skos:altLabel>
+      <skos:altLabel xml:lang="et">cm²</skos:altLabel>
+      <skos:altLabel xml:lang="fi">cm²</skos:altLabel>
+      <skos:altLabel xml:lang="fr">cm²</skos:altLabel>
+      <skos:altLabel xml:lang="ga">cm²</skos:altLabel>
+      <skos:altLabel xml:lang="hr">cm²</skos:altLabel>
+      <skos:altLabel xml:lang="hu">cm²</skos:altLabel>
+      <skos:altLabel xml:lang="it">cm²</skos:altLabel>
+      <skos:altLabel xml:lang="lt">cm²</skos:altLabel>
+      <skos:altLabel xml:lang="lv">cm²</skos:altLabel>
+      <skos:altLabel xml:lang="mt">cm²</skos:altLabel>
+      <skos:altLabel xml:lang="nl">cm²</skos:altLabel>
+      <skos:altLabel xml:lang="pl">cm²</skos:altLabel>
+      <skos:altLabel xml:lang="pt">cm²</skos:altLabel>
+      <skos:altLabel xml:lang="ro">cm²</skos:altLabel>
+      <skos:altLabel xml:lang="sk">cm²</skos:altLabel>
+      <skos:altLabel xml:lang="sl">cm²</skos:altLabel>
+      <skos:altLabel xml:lang="sv">cm²</skos:altLabel>
+      <skos:definition xml:lang="en">The square centimetre (cm²) is a unit of area in the International System of Units, equivalent to the area formed by a square measuring 1 cm by 1 cm, 10⁻⁴ m².</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/CMQ"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">кубичен сантиметър</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">centimetr krychlový</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">kubikcentimeter</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Kubikzentimeter</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">κυβικό εκατοστό</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">cubic centimetre</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">centímetro cúbico</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">kuupsentimeeter</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">kuutiosenttimetri</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">centimètre cube</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">ceintiméadar ciúbach</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">kubični centimetar</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">köbcentiméter</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">centimetro cubo</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">kubinis centimetras</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">kubikcentimetri</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">ċentimetru kubu</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">kubieke centimeter</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">centymetr sześcienny</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">centímetro cúbico</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">centimetru cub</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">centimeter kubický</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">kubični centimeter</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">kubikcentimeter</skos:prefLabel>
+      <at:authority-code>CMQ</at:authority-code>
+      <at:op-code>CMQ</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>CMQ</atold:op-code>
+      <dc:identifier>CMQ</dc:identifier>
+      <skos:altLabel xml:lang="bg">см³</skos:altLabel>
+      <skos:altLabel xml:lang="cs">cm³</skos:altLabel>
+      <skos:altLabel xml:lang="da">cm³</skos:altLabel>
+      <skos:altLabel xml:lang="de">cm³</skos:altLabel>
+      <skos:altLabel xml:lang="el">cm³</skos:altLabel>
+      <skos:altLabel xml:lang="en">cm³</skos:altLabel>
+      <skos:altLabel xml:lang="es">cm³</skos:altLabel>
+      <skos:altLabel xml:lang="et">cm³</skos:altLabel>
+      <skos:altLabel xml:lang="fi">cm³</skos:altLabel>
+      <skos:altLabel xml:lang="fr">cm³</skos:altLabel>
+      <skos:altLabel xml:lang="ga">cm³</skos:altLabel>
+      <skos:altLabel xml:lang="hr">cm³</skos:altLabel>
+      <skos:altLabel xml:lang="hu">cm³</skos:altLabel>
+      <skos:altLabel xml:lang="it">cm³</skos:altLabel>
+      <skos:altLabel xml:lang="lt">cm³</skos:altLabel>
+      <skos:altLabel xml:lang="lv">cm³</skos:altLabel>
+      <skos:altLabel xml:lang="mt">cm³</skos:altLabel>
+      <skos:altLabel xml:lang="nl">cm³</skos:altLabel>
+      <skos:altLabel xml:lang="pl">cm³</skos:altLabel>
+      <skos:altLabel xml:lang="pt">cm³</skos:altLabel>
+      <skos:altLabel xml:lang="ro">cm³</skos:altLabel>
+      <skos:altLabel xml:lang="sk">cm³</skos:altLabel>
+      <skos:altLabel xml:lang="sl">cm³</skos:altLabel>
+      <skos:altLabel xml:lang="sv">cm³</skos:altLabel>
+      <skos:definition xml:lang="en">The cubic centimetre (cm³) is a unit of volume in the International System of Units, equivalent to the volume formed by a cube measuring 1 cm by 1 cm by 1 cm, 10⁻⁶ m³.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/CMT"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">сантиметър</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">centimetr</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">centimeter</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Zentimeter</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">εκατοστόμετρο</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">centimetre</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">centímetro</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">sentimeeter</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">senttimetri</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">centimètre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">ceintiméadar</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">centimetar</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">centiméter</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">centimetro</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">centimetras</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">centimetri</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">ċentimetru</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">centimeter</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">centymetr</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">centímetro</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">centimetru</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">centimeter</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">centimeter</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">centimeter</skos:prefLabel>
+      <at:authority-code>CMT</at:authority-code>
+      <at:op-code>CMT</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>CMT</atold:op-code>
+      <dc:identifier>CMT</dc:identifier>
+      <skos:altLabel xml:lang="bg">см</skos:altLabel>
+      <skos:altLabel xml:lang="cs">cm</skos:altLabel>
+      <skos:altLabel xml:lang="da">cm</skos:altLabel>
+      <skos:altLabel xml:lang="de">cm</skos:altLabel>
+      <skos:altLabel xml:lang="el">cm</skos:altLabel>
+      <skos:altLabel xml:lang="en">cm</skos:altLabel>
+      <skos:altLabel xml:lang="es">cm</skos:altLabel>
+      <skos:altLabel xml:lang="et">cm</skos:altLabel>
+      <skos:altLabel xml:lang="fi">cm</skos:altLabel>
+      <skos:altLabel xml:lang="fr">cm</skos:altLabel>
+      <skos:altLabel xml:lang="ga">cm</skos:altLabel>
+      <skos:altLabel xml:lang="hr">cm</skos:altLabel>
+      <skos:altLabel xml:lang="hu">cm</skos:altLabel>
+      <skos:altLabel xml:lang="it">cm</skos:altLabel>
+      <skos:altLabel xml:lang="lt">cm</skos:altLabel>
+      <skos:altLabel xml:lang="lv">cm</skos:altLabel>
+      <skos:altLabel xml:lang="mt">cm</skos:altLabel>
+      <skos:altLabel xml:lang="nl">cm</skos:altLabel>
+      <skos:altLabel xml:lang="pl">cm</skos:altLabel>
+      <skos:altLabel xml:lang="pt">cm</skos:altLabel>
+      <skos:altLabel xml:lang="ro">cm</skos:altLabel>
+      <skos:altLabel xml:lang="sk">cm</skos:altLabel>
+      <skos:altLabel xml:lang="sl">cm</skos:altLabel>
+      <skos:altLabel xml:lang="sv">cm</skos:altLabel>
+      <skos:definition xml:lang="en">The centimetre (cm) is a unit of length in the International System of Units, equivalent to one hundredth of a metre, 10⁻² m (0.01 m).</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/D30"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">тераджаул</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">terajoule</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">terajoule</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Terajoule</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">τερατζάουλ</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">terajoule</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">terajulio</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">teradžaul</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">terajoule</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">térajoule</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">teirigiúl</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">teradžul</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">terajoule</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">terajoule</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">teradžaulis</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">teradžouli</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">terajoule</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">terajoule</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">teradżul</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">terajoule</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">terajoule</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">terajoule</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">terajoule</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">terajoule</skos:prefLabel>
+      <at:authority-code>D30</at:authority-code>
+      <at:op-code>D30</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>D30</atold:op-code>
+      <dc:identifier>D30</dc:identifier>
+      <skos:altLabel xml:lang="bg">TJ</skos:altLabel>
+      <skos:altLabel xml:lang="cs">TJ</skos:altLabel>
+      <skos:altLabel xml:lang="da">TJ</skos:altLabel>
+      <skos:altLabel xml:lang="de">TJ</skos:altLabel>
+      <skos:altLabel xml:lang="el">TJ</skos:altLabel>
+      <skos:altLabel xml:lang="en">TJ</skos:altLabel>
+      <skos:altLabel xml:lang="es">TJ</skos:altLabel>
+      <skos:altLabel xml:lang="et">tJ</skos:altLabel>
+      <skos:altLabel xml:lang="fi">TJ</skos:altLabel>
+      <skos:altLabel xml:lang="fr">TJ</skos:altLabel>
+      <skos:altLabel xml:lang="ga">TJ</skos:altLabel>
+      <skos:altLabel xml:lang="hr">TJ</skos:altLabel>
+      <skos:altLabel xml:lang="hu">TJ</skos:altLabel>
+      <skos:altLabel xml:lang="it">TJ</skos:altLabel>
+      <skos:altLabel xml:lang="lt">TJ</skos:altLabel>
+      <skos:altLabel xml:lang="lv">TJ</skos:altLabel>
+      <skos:altLabel xml:lang="mt">TJ</skos:altLabel>
+      <skos:altLabel xml:lang="nl">TJ</skos:altLabel>
+      <skos:altLabel xml:lang="pl">TJ</skos:altLabel>
+      <skos:altLabel xml:lang="pt">TJ</skos:altLabel>
+      <skos:altLabel xml:lang="ro">TJ</skos:altLabel>
+      <skos:altLabel xml:lang="sk">TJ</skos:altLabel>
+      <skos:altLabel xml:lang="sl">TJ</skos:altLabel>
+      <skos:altLabel xml:lang="sv">TJ</skos:altLabel>
+      <skos:definition xml:lang="en">The terajoule (TJ) is a derived unit of energy in the International System of Units, equivalent to one trillion, 1000 000 000 000 (10¹²), joules.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/E34"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">гигабайт</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">gigabajt</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">gigabyte</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Gigabyte</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">γιγαμπάιτ</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">gigabyte</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">gigabyte</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">gigabait</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">gigatavu</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">gigabyte</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">gigibheart</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">gigabajt</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">gigabyte</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">gigabyte</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">gigabaitas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">gigabaiti</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">gigabyte</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">gigabyte</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">gigabajt</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">gigabyte</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">gigabyte</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">gigabajt</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">gigabajt</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">gigabyte</skos:prefLabel>
+      <at:authority-code>E34</at:authority-code>
+      <at:op-code>E34</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>E34</atold:op-code>
+      <dc:identifier>E34</dc:identifier>
+      <skos:altLabel xml:lang="bg">GB</skos:altLabel>
+      <skos:altLabel xml:lang="cs">GB</skos:altLabel>
+      <skos:altLabel xml:lang="da">GB</skos:altLabel>
+      <skos:altLabel xml:lang="de">GB</skos:altLabel>
+      <skos:altLabel xml:lang="el">GB</skos:altLabel>
+      <skos:altLabel xml:lang="en">GB</skos:altLabel>
+      <skos:altLabel xml:lang="es">GB</skos:altLabel>
+      <skos:altLabel xml:lang="et">GB</skos:altLabel>
+      <skos:altLabel xml:lang="fi">GB</skos:altLabel>
+      <skos:altLabel xml:lang="fr">GB</skos:altLabel>
+      <skos:altLabel xml:lang="ga">GB</skos:altLabel>
+      <skos:altLabel xml:lang="hr">GB</skos:altLabel>
+      <skos:altLabel xml:lang="hu">GB</skos:altLabel>
+      <skos:altLabel xml:lang="it">GB</skos:altLabel>
+      <skos:altLabel xml:lang="lt">GB</skos:altLabel>
+      <skos:altLabel xml:lang="lv">GB</skos:altLabel>
+      <skos:altLabel xml:lang="mt">GB</skos:altLabel>
+      <skos:altLabel xml:lang="nl">GB</skos:altLabel>
+      <skos:altLabel xml:lang="pl">GB</skos:altLabel>
+      <skos:altLabel xml:lang="pt">GB</skos:altLabel>
+      <skos:altLabel xml:lang="ro">GB</skos:altLabel>
+      <skos:altLabel xml:lang="sk">GB</skos:altLabel>
+      <skos:altLabel xml:lang="sl">GB</skos:altLabel>
+      <skos:altLabel xml:lang="sv">GB</skos:altLabel>
+      <skos:definition xml:lang="en">The gigabyte is a unit of information equal to 10⁹ bytes.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/GRM"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">грам</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">gram</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">gram</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Gramm</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">γραμμάριο</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">gram</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">gramo</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">gramm</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">gramma</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">gramme</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">gram</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">gram</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">gramm</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">grammo</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">gramas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">grami</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">gramm</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">gram</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">gram</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">grama</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">gram</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">gram</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">gram</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">gram</skos:prefLabel>
+      <at:authority-code>GRM</at:authority-code>
+      <at:op-code>GRM</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>GRM</atold:op-code>
+      <dc:identifier>GRM</dc:identifier>
+      <skos:altLabel xml:lang="bg">г</skos:altLabel>
+      <skos:altLabel xml:lang="cs">g</skos:altLabel>
+      <skos:altLabel xml:lang="da">g</skos:altLabel>
+      <skos:altLabel xml:lang="de">g</skos:altLabel>
+      <skos:altLabel xml:lang="el">g</skos:altLabel>
+      <skos:altLabel xml:lang="en">g</skos:altLabel>
+      <skos:altLabel xml:lang="es">g</skos:altLabel>
+      <skos:altLabel xml:lang="et">g</skos:altLabel>
+      <skos:altLabel xml:lang="fi">g</skos:altLabel>
+      <skos:altLabel xml:lang="fr">g</skos:altLabel>
+      <skos:altLabel xml:lang="ga">g</skos:altLabel>
+      <skos:altLabel xml:lang="hr">g</skos:altLabel>
+      <skos:altLabel xml:lang="hu">g</skos:altLabel>
+      <skos:altLabel xml:lang="it">g</skos:altLabel>
+      <skos:altLabel xml:lang="lt">g</skos:altLabel>
+      <skos:altLabel xml:lang="lv">g</skos:altLabel>
+      <skos:altLabel xml:lang="mt">g</skos:altLabel>
+      <skos:altLabel xml:lang="nl">g</skos:altLabel>
+      <skos:altLabel xml:lang="pl">g</skos:altLabel>
+      <skos:altLabel xml:lang="pt">g</skos:altLabel>
+      <skos:altLabel xml:lang="ro">g</skos:altLabel>
+      <skos:altLabel xml:lang="sk">g</skos:altLabel>
+      <skos:altLabel xml:lang="sl">g</skos:altLabel>
+      <skos:altLabel xml:lang="sv">g</skos:altLabel>
+      <skos:definition xml:lang="en">The gram (g) is a unit of mass in the International System of Units (SI), equivalent to one thousandth of the SI base unit, the kilogram, 10⁻³ kg (0.001 kg).</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/GTE"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">брутна товароносимост</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">hrubá prostornost</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">bruttotonnage</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Bruttoraumzahl</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">ολική χωρητικότητα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">gross tonnage</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">arqueo bruto</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">kogumahutavus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">bruttovetoisuus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">jauge brute</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">olltonnáiste</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">bruto tonaža</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">bruttó űrtartalom</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">stazza lorda</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">bendroji talpa</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">bruto tilpība</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">tunnellaġġ gross</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">brutotonnage</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">pojemność brutto</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">arqueação bruta</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">tonaj brut</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">hrubá tonáž</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">bruto tonaža</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">bruttodräktighet</skos:prefLabel>
+      <at:authority-code>GTE</at:authority-code>
+      <at:op-code>GTE</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>GTE</atold:op-code>
+      <dc:identifier>GTE</dc:identifier>
+      <skos:altLabel xml:lang="bg">бт</skos:altLabel>
+      <skos:altLabel xml:lang="cs">BT</skos:altLabel>
+      <skos:altLabel xml:lang="da">GT</skos:altLabel>
+      <skos:altLabel xml:lang="de">BRZ</skos:altLabel>
+      <skos:altLabel xml:lang="el">BT</skos:altLabel>
+      <skos:altLabel xml:lang="en">GT</skos:altLabel>
+      <skos:altLabel xml:lang="es">TRB</skos:altLabel>
+      <skos:altLabel xml:lang="et">GT</skos:altLabel>
+      <skos:altLabel xml:lang="fi">GT</skos:altLabel>
+      <skos:altLabel xml:lang="fr">GT</skos:altLabel>
+      <skos:altLabel xml:lang="ga">GT</skos:altLabel>
+      <skos:altLabel xml:lang="hr">GT</skos:altLabel>
+      <skos:altLabel xml:lang="hu">GT</skos:altLabel>
+      <skos:altLabel xml:lang="it">GT</skos:altLabel>
+      <skos:altLabel xml:lang="lt">GT</skos:altLabel>
+      <skos:altLabel xml:lang="lv">GT</skos:altLabel>
+      <skos:altLabel xml:lang="lv">bruto tonnāža</skos:altLabel>
+      <skos:altLabel xml:lang="mt">GT</skos:altLabel>
+      <skos:altLabel xml:lang="mt">tonnellaġġ gross</skos:altLabel>
+      <skos:altLabel xml:lang="nl">GT</skos:altLabel>
+      <skos:altLabel xml:lang="pl">GT</skos:altLabel>
+      <skos:altLabel xml:lang="pl">tonażu brutto</skos:altLabel>
+      <skos:altLabel xml:lang="pt">GT</skos:altLabel>
+      <skos:altLabel xml:lang="ro">GT</skos:altLabel>
+      <skos:altLabel xml:lang="sk">GT</skos:altLabel>
+      <skos:altLabel xml:lang="sl">GT</skos:altLabel>
+      <skos:altLabel xml:lang="sv">GT</skos:altLabel>
+      <skos:definition xml:lang="en">The gross tonnage (GT) is a nonlinear unit of measurement, equivalent to the volume of all of a ship's enclosed spaces (from keel to funnel) measured to the outside of the hull framing.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/GWH"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">гигаватчас</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">gigawatthodina</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">gigawatt-time</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Gigawattstunde</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">γιγαβατώρα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">gigawatt-hour</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">gigavatio-hora</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">gigavatt-tund</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">gigawattitunti</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">gigawattheure</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">gigeavatuair</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">gigavatsat</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">gigawattóra</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">gigawattora</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">gigavatvalandė</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">gigavatstundas</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">gigawatt is-siegħa</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">gigawattuur</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">gigawatogodzina</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">gigawatt‑hora</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">gigawatt‑oră</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">gigawatthodina</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">gigavatna ura</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">gigawattimme</skos:prefLabel>
+      <at:authority-code>GWH</at:authority-code>
+      <at:op-code>GWH</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>GWH</atold:op-code>
+      <dc:identifier>GWH</dc:identifier>
+      <skos:altLabel xml:lang="bg">гВт/ч</skos:altLabel>
+      <skos:altLabel xml:lang="cs">GWh</skos:altLabel>
+      <skos:altLabel xml:lang="da">GWh</skos:altLabel>
+      <skos:altLabel xml:lang="de">GWh</skos:altLabel>
+      <skos:altLabel xml:lang="el">GWh</skos:altLabel>
+      <skos:altLabel xml:lang="en">GWh</skos:altLabel>
+      <skos:altLabel xml:lang="es">GWh</skos:altLabel>
+      <skos:altLabel xml:lang="et">GWh</skos:altLabel>
+      <skos:altLabel xml:lang="fi">GWh</skos:altLabel>
+      <skos:altLabel xml:lang="fr">GWh</skos:altLabel>
+      <skos:altLabel xml:lang="fr">gigawatt-heure</skos:altLabel>
+      <skos:altLabel xml:lang="ga">GWh</skos:altLabel>
+      <skos:altLabel xml:lang="hr">GWh</skos:altLabel>
+      <skos:altLabel xml:lang="hu">GWh</skos:altLabel>
+      <skos:altLabel xml:lang="it">GWh</skos:altLabel>
+      <skos:altLabel xml:lang="lt">GWh</skos:altLabel>
+      <skos:altLabel xml:lang="lv">GWh</skos:altLabel>
+      <skos:altLabel xml:lang="mt">GWh</skos:altLabel>
+      <skos:altLabel xml:lang="nl">GWh</skos:altLabel>
+      <skos:altLabel xml:lang="pl">GWh</skos:altLabel>
+      <skos:altLabel xml:lang="pt">GWh</skos:altLabel>
+      <skos:altLabel xml:lang="ro">GWh</skos:altLabel>
+      <skos:altLabel xml:lang="sk">GWh</skos:altLabel>
+      <skos:altLabel xml:lang="sl">GWh</skos:altLabel>
+      <skos:altLabel xml:lang="sv">GWh</skos:altLabel>
+      <skos:definition xml:lang="en">The gigawatt-hour (GWh, GW⋅h) is a composite unit of energy in the International System of Units, equivalent to a million (10⁶) kilowatt-hours.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/HAR"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">хектар</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">hektar</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">hektar</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Hektar</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">εκτάριο</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">hectare</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">hectárea</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">hektar</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">hehtaari</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">hectare</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">heicteár</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">hektar</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">hektár</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">ettaro</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">hektaras</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">hektāri</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">ettaru</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">hectare</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">hektar</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">hectare</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">hectar</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">hektár</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">hektar</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">hektar</skos:prefLabel>
+      <at:authority-code>HAR</at:authority-code>
+      <at:op-code>HAR</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>HAR</atold:op-code>
+      <dc:identifier>HAR</dc:identifier>
+      <skos:altLabel xml:lang="bg">ха</skos:altLabel>
+      <skos:altLabel xml:lang="cs">ha</skos:altLabel>
+      <skos:altLabel xml:lang="da">ha</skos:altLabel>
+      <skos:altLabel xml:lang="de">ha</skos:altLabel>
+      <skos:altLabel xml:lang="el">ha</skos:altLabel>
+      <skos:altLabel xml:lang="en">ha</skos:altLabel>
+      <skos:altLabel xml:lang="es">ha</skos:altLabel>
+      <skos:altLabel xml:lang="et">ha</skos:altLabel>
+      <skos:altLabel xml:lang="fi">ha</skos:altLabel>
+      <skos:altLabel xml:lang="fr">ha</skos:altLabel>
+      <skos:altLabel xml:lang="ga">ha</skos:altLabel>
+      <skos:altLabel xml:lang="hr">ha</skos:altLabel>
+      <skos:altLabel xml:lang="hu">ha</skos:altLabel>
+      <skos:altLabel xml:lang="it">ha</skos:altLabel>
+      <skos:altLabel xml:lang="lt">ha</skos:altLabel>
+      <skos:altLabel xml:lang="lv">ha</skos:altLabel>
+      <skos:altLabel xml:lang="mt">ha</skos:altLabel>
+      <skos:altLabel xml:lang="nl">ha</skos:altLabel>
+      <skos:altLabel xml:lang="pl">ha</skos:altLabel>
+      <skos:altLabel xml:lang="pt">ha</skos:altLabel>
+      <skos:altLabel xml:lang="ro">ha</skos:altLabel>
+      <skos:altLabel xml:lang="sk">ha</skos:altLabel>
+      <skos:altLabel xml:lang="sl">ha</skos:altLabel>
+      <skos:altLabel xml:lang="sv">ha</skos:altLabel>
+      <skos:definition xml:lang="en">The hectare (ha) is a unit of area in the International System of Units, equivalent to 10 000 square meters, 10⁴ m².</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/HLT"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">хектолитър</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">hektolitr</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">hektoliter</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Hektoliter</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">εκατόλιτρο</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">hectolitre</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">hectolitro</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">hektoliiter</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">hehtolitra</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">hectolitre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">heictilítear</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">hektolitar</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">hektoliter</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">ettolitro</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">hektolitras</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">hektolitri</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">ettolitru</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">hectoliter</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">hektolitr</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">hectolitro</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">hectolitru</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">hektoliter</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">hektoliter</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">hektoliter</skos:prefLabel>
+      <at:authority-code>HLT</at:authority-code>
+      <at:op-code>HLT</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>HLT</atold:op-code>
+      <dc:identifier>HLT</dc:identifier>
+      <skos:altLabel xml:lang="bg">хл</skos:altLabel>
+      <skos:altLabel xml:lang="cs">hl</skos:altLabel>
+      <skos:altLabel xml:lang="da">hl</skos:altLabel>
+      <skos:altLabel xml:lang="de">hl</skos:altLabel>
+      <skos:altLabel xml:lang="el">hl</skos:altLabel>
+      <skos:altLabel xml:lang="en">hl</skos:altLabel>
+      <skos:altLabel xml:lang="es">hl</skos:altLabel>
+      <skos:altLabel xml:lang="et">hl</skos:altLabel>
+      <skos:altLabel xml:lang="fi">hl</skos:altLabel>
+      <skos:altLabel xml:lang="fr">hl</skos:altLabel>
+      <skos:altLabel xml:lang="ga">hl</skos:altLabel>
+      <skos:altLabel xml:lang="hr">hl</skos:altLabel>
+      <skos:altLabel xml:lang="hu">hl</skos:altLabel>
+      <skos:altLabel xml:lang="it">hl</skos:altLabel>
+      <skos:altLabel xml:lang="lt">hl</skos:altLabel>
+      <skos:altLabel xml:lang="lv">hl</skos:altLabel>
+      <skos:altLabel xml:lang="mt">hl</skos:altLabel>
+      <skos:altLabel xml:lang="nl">hl</skos:altLabel>
+      <skos:altLabel xml:lang="pl">hl</skos:altLabel>
+      <skos:altLabel xml:lang="pt">hl</skos:altLabel>
+      <skos:altLabel xml:lang="ro">hl</skos:altLabel>
+      <skos:altLabel xml:lang="sk">hl</skos:altLabel>
+      <skos:altLabel xml:lang="sl">hl</skos:altLabel>
+      <skos:altLabel xml:lang="sv">hl</skos:altLabel>
+      <skos:definition xml:lang="en">The hectolitre (hl) is a unit of fluid volume (or capacity), equivalent to the volume of hundred litres, 100 l, or 10⁻¹ m³ (0.1 m³).</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/HTZ"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">херц</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">hertz</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">hertz</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Hertz</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">χερτζ</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">hertz</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">hertzio</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">herts</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">hertsi</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">hertz</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">hertz</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">herc</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">hertz</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">hertz</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">hercas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">herci</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">hertz</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">hertz</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">herc</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">hertz</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">hertz</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">hertz</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">hertz</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">hertz</skos:prefLabel>
+      <at:authority-code>HTZ</at:authority-code>
+      <at:op-code>HTZ</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>HTZ</atold:op-code>
+      <dc:identifier>HTZ</dc:identifier>
+      <skos:altLabel xml:lang="bg">Хц</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Hz</skos:altLabel>
+      <skos:altLabel xml:lang="da">Hz</skos:altLabel>
+      <skos:altLabel xml:lang="de">Hz</skos:altLabel>
+      <skos:altLabel xml:lang="el">Hz</skos:altLabel>
+      <skos:altLabel xml:lang="en">Hz</skos:altLabel>
+      <skos:altLabel xml:lang="es">Hz</skos:altLabel>
+      <skos:altLabel xml:lang="et">Hz</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Hz</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Hz</skos:altLabel>
+      <skos:altLabel xml:lang="ga">Hz</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Hz</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Hz</skos:altLabel>
+      <skos:altLabel xml:lang="it">Hz</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Hz</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Hz</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Hz</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Hz</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Hz</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Hz</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Hz</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Hz</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Hz</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Hz</skos:altLabel>
+      <skos:definition xml:lang="en">The hertz (Hz) is the derived unit of frequency in the International System of Units, defined as one cycle per second.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/HUR"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">час</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">hodina</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">time</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Stunde</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">ώρα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">hour</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">hora</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">tund</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">tunti</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">heure</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">uair</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">sat</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">óra</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">ora</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">valanda</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">stundas</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">siegħa</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">uur</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">godzina</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">hora</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">oră</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">hodina</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">ura</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">timme</skos:prefLabel>
+      <at:authority-code>HUR</at:authority-code>
+      <at:op-code>HUR</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>HUR</atold:op-code>
+      <dc:identifier>HUR</dc:identifier>
+      <skos:altLabel xml:lang="bg">ч</skos:altLabel>
+      <skos:altLabel xml:lang="cs">h</skos:altLabel>
+      <skos:altLabel xml:lang="da">h</skos:altLabel>
+      <skos:altLabel xml:lang="de">h</skos:altLabel>
+      <skos:altLabel xml:lang="el">h</skos:altLabel>
+      <skos:altLabel xml:lang="en">h</skos:altLabel>
+      <skos:altLabel xml:lang="es">h</skos:altLabel>
+      <skos:altLabel xml:lang="et">h</skos:altLabel>
+      <skos:altLabel xml:lang="fi">h</skos:altLabel>
+      <skos:altLabel xml:lang="fr">h</skos:altLabel>
+      <skos:altLabel xml:lang="ga">u</skos:altLabel>
+      <skos:altLabel xml:lang="hr">h</skos:altLabel>
+      <skos:altLabel xml:lang="hr">ura</skos:altLabel>
+      <skos:altLabel xml:lang="hu">h</skos:altLabel>
+      <skos:altLabel xml:lang="it">h</skos:altLabel>
+      <skos:altLabel xml:lang="lt">h</skos:altLabel>
+      <skos:altLabel xml:lang="lv">h</skos:altLabel>
+      <skos:altLabel xml:lang="mt">h</skos:altLabel>
+      <skos:altLabel xml:lang="nl">h</skos:altLabel>
+      <skos:altLabel xml:lang="pl">h</skos:altLabel>
+      <skos:altLabel xml:lang="pt">h</skos:altLabel>
+      <skos:altLabel xml:lang="ro">h</skos:altLabel>
+      <skos:altLabel xml:lang="sk">h</skos:altLabel>
+      <skos:altLabel xml:lang="sl">h</skos:altLabel>
+      <skos:altLabel xml:lang="sv">tim</skos:altLabel>
+      <skos:definition xml:lang="en">The hour (h) is a unit of time accepted for use with the International System of Units, equivalent to 1⁄24 of a day, 3600 seconds (scientifically reckoned as 3599–3601 seconds).</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/JOU"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">джаул</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">joule</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">joule</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Joule</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">τζάουλ</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">joule</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">julio</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">džaul</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">joule</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">joule</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">giúl</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">džul</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">joule</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">joule</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">džaulis</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">džouli</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">joule</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">joule</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">dżul</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">joule</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">joule</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">joule</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">joule</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">joule</skos:prefLabel>
+      <at:authority-code>JOU</at:authority-code>
+      <at:op-code>JOU</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>JOU</atold:op-code>
+      <dc:identifier>JOU</dc:identifier>
+      <skos:altLabel xml:lang="bg">J</skos:altLabel>
+      <skos:altLabel xml:lang="cs">J</skos:altLabel>
+      <skos:altLabel xml:lang="da">J</skos:altLabel>
+      <skos:altLabel xml:lang="de">J</skos:altLabel>
+      <skos:altLabel xml:lang="el">J</skos:altLabel>
+      <skos:altLabel xml:lang="en">J</skos:altLabel>
+      <skos:altLabel xml:lang="es">J</skos:altLabel>
+      <skos:altLabel xml:lang="et">J</skos:altLabel>
+      <skos:altLabel xml:lang="fi">J</skos:altLabel>
+      <skos:altLabel xml:lang="fr">J</skos:altLabel>
+      <skos:altLabel xml:lang="ga">J</skos:altLabel>
+      <skos:altLabel xml:lang="hr">J</skos:altLabel>
+      <skos:altLabel xml:lang="hu">J</skos:altLabel>
+      <skos:altLabel xml:lang="it">J</skos:altLabel>
+      <skos:altLabel xml:lang="lt">J</skos:altLabel>
+      <skos:altLabel xml:lang="lv">J</skos:altLabel>
+      <skos:altLabel xml:lang="mt">J</skos:altLabel>
+      <skos:altLabel xml:lang="nl">J</skos:altLabel>
+      <skos:altLabel xml:lang="pl">J</skos:altLabel>
+      <skos:altLabel xml:lang="pt">J</skos:altLabel>
+      <skos:altLabel xml:lang="ro">J</skos:altLabel>
+      <skos:altLabel xml:lang="sk">J</skos:altLabel>
+      <skos:altLabel xml:lang="sl">J</skos:altLabel>
+      <skos:altLabel xml:lang="sl">džul</skos:altLabel>
+      <skos:altLabel xml:lang="sv">J</skos:altLabel>
+      <skos:definition xml:lang="en">The joule (J) is a derived unit of energy in the International System of Units, equivalent to the energy transferred to (or work done on) an object when a force of one newton acts on that object in the direction of its motion through a distance of one metre.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/KEL"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">градус Келвин</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">kelvin</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">kelvin</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Kelvin</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">κέλβιν</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">kelvin</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">kelvin</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">kelvin</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">kelvin</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">kelvin</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">ceilvin</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">kelvin</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">kelvin</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">kelvin</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">kelvinas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">kelvini</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">kelvin</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">kelvin</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">kelwin</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">kelvin</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">kelvin</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">kelvin</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">kelvin</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">kelvin</skos:prefLabel>
+      <at:authority-code>KEL</at:authority-code>
+      <at:op-code>KEL</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>KEL</atold:op-code>
+      <dc:identifier>KEL</dc:identifier>
+      <skos:altLabel xml:lang="bg">K</skos:altLabel>
+      <skos:altLabel xml:lang="cs">K</skos:altLabel>
+      <skos:altLabel xml:lang="da">K</skos:altLabel>
+      <skos:altLabel xml:lang="de">K</skos:altLabel>
+      <skos:altLabel xml:lang="el">K</skos:altLabel>
+      <skos:altLabel xml:lang="en">K</skos:altLabel>
+      <skos:altLabel xml:lang="es">K</skos:altLabel>
+      <skos:altLabel xml:lang="et">K</skos:altLabel>
+      <skos:altLabel xml:lang="fi">K</skos:altLabel>
+      <skos:altLabel xml:lang="fr">K</skos:altLabel>
+      <skos:altLabel xml:lang="ga">K</skos:altLabel>
+      <skos:altLabel xml:lang="hr">K</skos:altLabel>
+      <skos:altLabel xml:lang="hu">K</skos:altLabel>
+      <skos:altLabel xml:lang="it">K</skos:altLabel>
+      <skos:altLabel xml:lang="lt">K</skos:altLabel>
+      <skos:altLabel xml:lang="lv">K</skos:altLabel>
+      <skos:altLabel xml:lang="mt">K</skos:altLabel>
+      <skos:altLabel xml:lang="nl">K</skos:altLabel>
+      <skos:altLabel xml:lang="pl">K</skos:altLabel>
+      <skos:altLabel xml:lang="pt">K</skos:altLabel>
+      <skos:altLabel xml:lang="ro">K</skos:altLabel>
+      <skos:altLabel xml:lang="sk">K</skos:altLabel>
+      <skos:altLabel xml:lang="sl">K</skos:altLabel>
+      <skos:altLabel xml:lang="sv">K</skos:altLabel>
+      <skos:definition xml:lang="en">The Kelvin (K) is the base unit of temperature in the International System of Units. The Kelvin scale is an absolute thermodynamic temperature scale using as its null point absolute zero, the temperature at which all thermal motion ceases.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/KGM"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">килограм</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">kilogram</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">kilogram</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Kilogramm</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">χιλιόγραμμο</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">kilogram</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">kilogramo</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">kilogramm</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">kilogramma</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">kilogramme</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">cileagram</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">kilogram</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">kilogramm</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">chilogrammo</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">kilogramas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">kilogrami</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">kilogramm</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">kilogram</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">kilogram</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">quilograma</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">kilogram</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">kilogram</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">kilogram</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">kilogram</skos:prefLabel>
+      <at:authority-code>KGM</at:authority-code>
+      <at:op-code>KGM</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>KGM</atold:op-code>
+      <dc:identifier>KGM</dc:identifier>
+      <skos:altLabel xml:lang="bg">кг</skos:altLabel>
+      <skos:altLabel xml:lang="cs">kg</skos:altLabel>
+      <skos:altLabel xml:lang="da">kg</skos:altLabel>
+      <skos:altLabel xml:lang="de">kg</skos:altLabel>
+      <skos:altLabel xml:lang="el">kg</skos:altLabel>
+      <skos:altLabel xml:lang="el">κιλό</skos:altLabel>
+      <skos:altLabel xml:lang="en">kg</skos:altLabel>
+      <skos:altLabel xml:lang="es">kg</skos:altLabel>
+      <skos:altLabel xml:lang="et">kg</skos:altLabel>
+      <skos:altLabel xml:lang="fi">kg</skos:altLabel>
+      <skos:altLabel xml:lang="fr">kg</skos:altLabel>
+      <skos:altLabel xml:lang="ga">kg</skos:altLabel>
+      <skos:altLabel xml:lang="hr">kg</skos:altLabel>
+      <skos:altLabel xml:lang="hu">kg</skos:altLabel>
+      <skos:altLabel xml:lang="it">kg</skos:altLabel>
+      <skos:altLabel xml:lang="lt">kg</skos:altLabel>
+      <skos:altLabel xml:lang="lv">kg</skos:altLabel>
+      <skos:altLabel xml:lang="mt">kg</skos:altLabel>
+      <skos:altLabel xml:lang="nl">kg</skos:altLabel>
+      <skos:altLabel xml:lang="pl">kg</skos:altLabel>
+      <skos:altLabel xml:lang="pt">kg</skos:altLabel>
+      <skos:altLabel xml:lang="ro">kg</skos:altLabel>
+      <skos:altLabel xml:lang="sk">kg</skos:altLabel>
+      <skos:altLabel xml:lang="sl">kg</skos:altLabel>
+      <skos:altLabel xml:lang="sv">kg</skos:altLabel>
+      <skos:definition xml:lang="en">The kilogram (kg) is the base unit of mass in the International System of Units. It remains defined by a platinum alloy cylinder, the international prototype kilogram stored in Saint-Cloud, Paris.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/KMH"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">километър в час</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">kilometr za hodinu</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">kilometer pr. time</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Kilometer pro Stunde</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">χιλιόμετρο ανά ώρα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">kilometre per hour</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">kilómetro por hora</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">kilomeeter tunnis</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">kilometri tunnissa</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">kilomètre par heure</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">ciliméadar san uair</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">kilometar na sat</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">kilométer/óra</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">chilometro orario</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">kilometras per valandą</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">kilometri stundā</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">kilometru fis-siegħa</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">kilometer per uur</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">kilometr na godzinę</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">quilómetro por hora</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">kilometru pe oră</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">kilometer za hodinu</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">kilometer na uro</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">kilometer per timme</skos:prefLabel>
+      <at:authority-code>KMH</at:authority-code>
+      <at:op-code>KMH</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>KMH</atold:op-code>
+      <dc:identifier>KMH</dc:identifier>
+      <skos:altLabel xml:lang="bg">к/ч</skos:altLabel>
+      <skos:altLabel xml:lang="cs">km/h</skos:altLabel>
+      <skos:altLabel xml:lang="da">km/h</skos:altLabel>
+      <skos:altLabel xml:lang="de">km/h</skos:altLabel>
+      <skos:altLabel xml:lang="el">km/h</skos:altLabel>
+      <skos:altLabel xml:lang="en">km/h</skos:altLabel>
+      <skos:altLabel xml:lang="es">km/h</skos:altLabel>
+      <skos:altLabel xml:lang="et">km/h</skos:altLabel>
+      <skos:altLabel xml:lang="fi">km/h</skos:altLabel>
+      <skos:altLabel xml:lang="fr">km/h</skos:altLabel>
+      <skos:altLabel xml:lang="ga">km/h</skos:altLabel>
+      <skos:altLabel xml:lang="hr">km/h</skos:altLabel>
+      <skos:altLabel xml:lang="hu">km/h</skos:altLabel>
+      <skos:altLabel xml:lang="it">km/h</skos:altLabel>
+      <skos:altLabel xml:lang="lt">km/h</skos:altLabel>
+      <skos:altLabel xml:lang="lv">km/h</skos:altLabel>
+      <skos:altLabel xml:lang="mt">km/h</skos:altLabel>
+      <skos:altLabel xml:lang="nl">km/h</skos:altLabel>
+      <skos:altLabel xml:lang="pl">km/h</skos:altLabel>
+      <skos:altLabel xml:lang="pt">km/h</skos:altLabel>
+      <skos:altLabel xml:lang="ro">km/h</skos:altLabel>
+      <skos:altLabel xml:lang="sk">km/h</skos:altLabel>
+      <skos:altLabel xml:lang="sl">km/h</skos:altLabel>
+      <skos:altLabel xml:lang="sv">km/tim</skos:altLabel>
+      <skos:definition xml:lang="en">The kilometre per hour (km/h) is a unit of speed in the International System of Units, equivalent to the number of kilometres covered in one hour.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/KMK"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">квадратен километър</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">kilometr čtvereční</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">kvadratkilometer</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Quadratkilometer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">τετραγωνικό χιλιόμετρο</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">square kilometre</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">kilómetro cuadrado</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">ruutkilomeeter</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">neliökilometri</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">kilomètre carré</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">ciliméadar cearnach</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">kvadratni kilometar</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">négyzetkilométer</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">chilometro quadrato</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">kvadratinis kilometras</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">kvadrātkilometri</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">kilometru kwadru</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">vierkante kilometer</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">kilometr kwadratowy</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">quilómetro quadrado</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">kilometru pătrat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">kilometer štvorcový</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">kvadratni kilometer</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">kvadratkilometer</skos:prefLabel>
+      <at:authority-code>KMK</at:authority-code>
+      <at:op-code>KMK</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>KMK</atold:op-code>
+      <dc:identifier>KMK</dc:identifier>
+      <skos:altLabel xml:lang="bg">км²</skos:altLabel>
+      <skos:altLabel xml:lang="cs">km²</skos:altLabel>
+      <skos:altLabel xml:lang="da">km²</skos:altLabel>
+      <skos:altLabel xml:lang="de">km²</skos:altLabel>
+      <skos:altLabel xml:lang="el">km²</skos:altLabel>
+      <skos:altLabel xml:lang="en">km²</skos:altLabel>
+      <skos:altLabel xml:lang="es">km²</skos:altLabel>
+      <skos:altLabel xml:lang="et">km²</skos:altLabel>
+      <skos:altLabel xml:lang="fi">km²</skos:altLabel>
+      <skos:altLabel xml:lang="fr">km²</skos:altLabel>
+      <skos:altLabel xml:lang="ga">km²</skos:altLabel>
+      <skos:altLabel xml:lang="hr">km²</skos:altLabel>
+      <skos:altLabel xml:lang="hu">km²</skos:altLabel>
+      <skos:altLabel xml:lang="it">km²</skos:altLabel>
+      <skos:altLabel xml:lang="lt">km²</skos:altLabel>
+      <skos:altLabel xml:lang="lv">km²</skos:altLabel>
+      <skos:altLabel xml:lang="mt">km²</skos:altLabel>
+      <skos:altLabel xml:lang="nl">km²</skos:altLabel>
+      <skos:altLabel xml:lang="pl">km²</skos:altLabel>
+      <skos:altLabel xml:lang="pt">km²</skos:altLabel>
+      <skos:altLabel xml:lang="ro">km²</skos:altLabel>
+      <skos:altLabel xml:lang="sk">km²</skos:altLabel>
+      <skos:altLabel xml:lang="sl">km²</skos:altLabel>
+      <skos:altLabel xml:lang="sv">km²</skos:altLabel>
+      <skos:definition xml:lang="en">The square kilometre (km²) is a unit of area in the International System of Units, equivalent to the area formed by a square measuring 1 km by 1 km, 10⁶ m².</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/KTM"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">километър</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">kilometr</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">kilometer</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Kilometer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">χιλιόμετρο</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">kilometre</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">kilómetro</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">kilomeeter</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">kilometri</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">kilomètre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">ciliméadar</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">kilometar</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">kilométer</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">chilometro</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">kilometras</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">kilometri</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">kilometru</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">kilometer</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">kilometr</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">quilómetro</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">kilometru</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">kilometer</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">kilometer</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">kilometer</skos:prefLabel>
+      <at:authority-code>KTM</at:authority-code>
+      <at:op-code>KTM</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>KTM</atold:op-code>
+      <dc:identifier>KTM</dc:identifier>
+      <skos:altLabel xml:lang="bg">км</skos:altLabel>
+      <skos:altLabel xml:lang="cs">km</skos:altLabel>
+      <skos:altLabel xml:lang="da">km</skos:altLabel>
+      <skos:altLabel xml:lang="de">km</skos:altLabel>
+      <skos:altLabel xml:lang="el">km</skos:altLabel>
+      <skos:altLabel xml:lang="en">km</skos:altLabel>
+      <skos:altLabel xml:lang="es">km</skos:altLabel>
+      <skos:altLabel xml:lang="et">km</skos:altLabel>
+      <skos:altLabel xml:lang="fi">km</skos:altLabel>
+      <skos:altLabel xml:lang="fr">km</skos:altLabel>
+      <skos:altLabel xml:lang="ga">km</skos:altLabel>
+      <skos:altLabel xml:lang="hr">km</skos:altLabel>
+      <skos:altLabel xml:lang="hu">km</skos:altLabel>
+      <skos:altLabel xml:lang="it">km</skos:altLabel>
+      <skos:altLabel xml:lang="lt">km</skos:altLabel>
+      <skos:altLabel xml:lang="lv">km</skos:altLabel>
+      <skos:altLabel xml:lang="mt">km</skos:altLabel>
+      <skos:altLabel xml:lang="nl">km</skos:altLabel>
+      <skos:altLabel xml:lang="pl">km</skos:altLabel>
+      <skos:altLabel xml:lang="pt">km</skos:altLabel>
+      <skos:altLabel xml:lang="ro">km</skos:altLabel>
+      <skos:altLabel xml:lang="sk">km</skos:altLabel>
+      <skos:altLabel xml:lang="sl">km</skos:altLabel>
+      <skos:altLabel xml:lang="sv">km</skos:altLabel>
+      <skos:definition xml:lang="en">The kilometre (km) is a unit of length in the International System of Units, equivalent to 1000 meters, 10³ m, or about 0.621 miles.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/KWH"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">киловатчас</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">kilowatthodina</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">kilowatt-time</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Kilowattstunde</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">κιλοβατώρα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">kilowatt-hour</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">kilovatio-hora</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">kilovatt-tund</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">kilowattitunti</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">kilowattheure</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">cileavatuair</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">kilovatsat</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">kilowattóra</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">chilowattora</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">kilovatvalandė</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">kilovatstundas</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">kilowatt is-siegħa</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">kilowattuur</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">kilowatogodzina</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">quilowatt-hora</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">kilowatt-oră</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">kilowatthodina</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">kilovatna ura</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">kilowattimme</skos:prefLabel>
+      <at:authority-code>KWH</at:authority-code>
+      <at:op-code>KWH</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>KWH</atold:op-code>
+      <dc:identifier>KWH</dc:identifier>
+      <skos:altLabel xml:lang="bg">кВт/ч</skos:altLabel>
+      <skos:altLabel xml:lang="cs">kWh</skos:altLabel>
+      <skos:altLabel xml:lang="da">kWh</skos:altLabel>
+      <skos:altLabel xml:lang="de">kWh</skos:altLabel>
+      <skos:altLabel xml:lang="el">kWh</skos:altLabel>
+      <skos:altLabel xml:lang="el">χιλιοβατώριο</skos:altLabel>
+      <skos:altLabel xml:lang="en">kWh</skos:altLabel>
+      <skos:altLabel xml:lang="es">kWh</skos:altLabel>
+      <skos:altLabel xml:lang="et">kWh</skos:altLabel>
+      <skos:altLabel xml:lang="fi">kWh</skos:altLabel>
+      <skos:altLabel xml:lang="fr">kWh</skos:altLabel>
+      <skos:altLabel xml:lang="fr">kilowatt-heure</skos:altLabel>
+      <skos:altLabel xml:lang="ga">kWh</skos:altLabel>
+      <skos:altLabel xml:lang="hr">kWh</skos:altLabel>
+      <skos:altLabel xml:lang="hu">kWh</skos:altLabel>
+      <skos:altLabel xml:lang="it">kWh</skos:altLabel>
+      <skos:altLabel xml:lang="lt">kWh</skos:altLabel>
+      <skos:altLabel xml:lang="lv">kWh</skos:altLabel>
+      <skos:altLabel xml:lang="mt">kWh</skos:altLabel>
+      <skos:altLabel xml:lang="nl">kWh</skos:altLabel>
+      <skos:altLabel xml:lang="pl">kWh</skos:altLabel>
+      <skos:altLabel xml:lang="pt">kWh</skos:altLabel>
+      <skos:altLabel xml:lang="ro">kWh</skos:altLabel>
+      <skos:altLabel xml:lang="sk">kWh</skos:altLabel>
+      <skos:altLabel xml:lang="sl">kWh</skos:altLabel>
+      <skos:altLabel xml:lang="sv">kWh</skos:altLabel>
+      <skos:definition xml:lang="en">The kilowatt-hour (kWh, kW⋅h) is a composite unit of energy in the International System of Units, equivalent to the energy provided by a thousand watts in one hour.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/KWT"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">киловат</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">kilowatt</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">kilowatt</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Kilowatt</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">κιλοβάτ</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">kilowatt</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">kilovatio</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">kilovatt</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">kilowatti</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">kilowatt</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">cileavata</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">kilovat</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">kilowatt</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">chilowatt</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">kilovatas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">kilovati</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">kilowatt</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">kilowatt</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">kilowat</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">quilowatt</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">kilowatt</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">kilowatt</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">kilovat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">kilowatt</skos:prefLabel>
+      <at:authority-code>KWT</at:authority-code>
+      <at:op-code>KWT</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>KWT</atold:op-code>
+      <dc:identifier>KWT</dc:identifier>
+      <skos:altLabel xml:lang="bg">кВт</skos:altLabel>
+      <skos:altLabel xml:lang="cs">kW</skos:altLabel>
+      <skos:altLabel xml:lang="da">kW</skos:altLabel>
+      <skos:altLabel xml:lang="de">kW</skos:altLabel>
+      <skos:altLabel xml:lang="el">kW</skos:altLabel>
+      <skos:altLabel xml:lang="en">kW</skos:altLabel>
+      <skos:altLabel xml:lang="es">kW</skos:altLabel>
+      <skos:altLabel xml:lang="et">kW</skos:altLabel>
+      <skos:altLabel xml:lang="fi">kW</skos:altLabel>
+      <skos:altLabel xml:lang="fr">kW</skos:altLabel>
+      <skos:altLabel xml:lang="ga">kW</skos:altLabel>
+      <skos:altLabel xml:lang="hr">kW</skos:altLabel>
+      <skos:altLabel xml:lang="hu">kW</skos:altLabel>
+      <skos:altLabel xml:lang="it">kW</skos:altLabel>
+      <skos:altLabel xml:lang="lt">kW</skos:altLabel>
+      <skos:altLabel xml:lang="lv">kW</skos:altLabel>
+      <skos:altLabel xml:lang="mt">kW</skos:altLabel>
+      <skos:altLabel xml:lang="nl">kW</skos:altLabel>
+      <skos:altLabel xml:lang="pl">kW</skos:altLabel>
+      <skos:altLabel xml:lang="pt">kW</skos:altLabel>
+      <skos:altLabel xml:lang="ro">kW</skos:altLabel>
+      <skos:altLabel xml:lang="sk">kW</skos:altLabel>
+      <skos:altLabel xml:lang="sl">kW</skos:altLabel>
+      <skos:altLabel xml:lang="sv">kW</skos:altLabel>
+      <skos:definition xml:lang="en">The kilowatt (kW) is a unit of power in the International System of Units, equivalent to one thousand watts, 10³ W.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/LH"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">работен час</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">pracovní hodina</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">arbejdstime</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Arbeitsstunde</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">εργατοώρα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">labour hour</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">hora de trabajo</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">töötund</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">työtunti</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">heure de travail</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">uair an tsaothair</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">radni sat</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">munkaóra</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">ora lavorativa</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">dirbta valanda</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">darba stundas</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">sigħat ta’ xogħol</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">arbeidsuur</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">godzina pracy</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">hora de trabalho</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">oră de muncă</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">hodina práce</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">delovna ura</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">arbetstimme</skos:prefLabel>
+      <at:authority-code>LH</at:authority-code>
+      <at:op-code>LH</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>LH</atold:op-code>
+      <dc:identifier>LH</dc:identifier>
+      <skos:altLabel xml:lang="mt">siegħa maħduma</skos:altLabel>
+      <skos:altLabel xml:lang="sl">odpracovana hodina</skos:altLabel>
+      <skos:altLabel xml:lang="sv">arbetad timme</skos:altLabel>
+      <skos:definition xml:lang="en">The labour hour is a unit of time defining the number of labour hours.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/LTR"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">литър</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">litr</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">liter</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Liter</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">λίτρο</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">litre</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">litro</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">liiter</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">litra</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">litre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">lítear</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">litra</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">liter</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">litro</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">litras</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">litri</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">litru</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">liter</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">litr</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">litro</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">litru</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">liter</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">liter</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">liter</skos:prefLabel>
+      <at:authority-code>LTR</at:authority-code>
+      <at:op-code>LTR</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>LTR</atold:op-code>
+      <dc:identifier>LTR</dc:identifier>
+      <skos:altLabel xml:lang="bg">л</skos:altLabel>
+      <skos:altLabel xml:lang="cs">l</skos:altLabel>
+      <skos:altLabel xml:lang="da">l</skos:altLabel>
+      <skos:altLabel xml:lang="de">l</skos:altLabel>
+      <skos:altLabel xml:lang="el">l</skos:altLabel>
+      <skos:altLabel xml:lang="en">l</skos:altLabel>
+      <skos:altLabel xml:lang="es">l</skos:altLabel>
+      <skos:altLabel xml:lang="et">l</skos:altLabel>
+      <skos:altLabel xml:lang="fi">l</skos:altLabel>
+      <skos:altLabel xml:lang="fr">l</skos:altLabel>
+      <skos:altLabel xml:lang="ga">l</skos:altLabel>
+      <skos:altLabel xml:lang="hr">l</skos:altLabel>
+      <skos:altLabel xml:lang="hu">l</skos:altLabel>
+      <skos:altLabel xml:lang="it">l</skos:altLabel>
+      <skos:altLabel xml:lang="lt">l</skos:altLabel>
+      <skos:altLabel xml:lang="lv">l</skos:altLabel>
+      <skos:altLabel xml:lang="mt">l</skos:altLabel>
+      <skos:altLabel xml:lang="nl">l</skos:altLabel>
+      <skos:altLabel xml:lang="pl">l</skos:altLabel>
+      <skos:altLabel xml:lang="pt">l</skos:altLabel>
+      <skos:altLabel xml:lang="ro">l</skos:altLabel>
+      <skos:altLabel xml:lang="sk">l</skos:altLabel>
+      <skos:altLabel xml:lang="sl">l</skos:altLabel>
+      <skos:altLabel xml:lang="sv">l</skos:altLabel>
+      <skos:definition xml:lang="en">The litre (l) is a unit of volume accepted for use with the International System of Units, representing the volume of 10 cm × 10 cm × 10 cm, 1000 cubic centimetres (cm³) and is thus equal to one thousandth of a cubic metre, 10⁻³ m³, or 1 cubic decimetre (dm³).</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/MAW"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">мегават</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">megawatt</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">megawatt</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Megawatt</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">μεγαβάτ</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">megawatt</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">megavatio</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">megavatt</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">megawatti</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">mégawatt</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">meigeavata</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">megavat</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">megawatt</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">megawatt</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">megavatas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">megavati</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">megawatt</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">megawatt</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">megawat</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">megawatt</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">megawatt</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">megawatt</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">megavat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">megawatt</skos:prefLabel>
+      <at:authority-code>MAW</at:authority-code>
+      <at:op-code>MAW</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>MAW</atold:op-code>
+      <dc:identifier>MAW</dc:identifier>
+      <skos:altLabel xml:lang="bg">МВт</skos:altLabel>
+      <skos:altLabel xml:lang="cs">MW</skos:altLabel>
+      <skos:altLabel xml:lang="da">MW</skos:altLabel>
+      <skos:altLabel xml:lang="de">MW</skos:altLabel>
+      <skos:altLabel xml:lang="el">MW</skos:altLabel>
+      <skos:altLabel xml:lang="en">MW</skos:altLabel>
+      <skos:altLabel xml:lang="es">MW</skos:altLabel>
+      <skos:altLabel xml:lang="et">MW</skos:altLabel>
+      <skos:altLabel xml:lang="fi">MW</skos:altLabel>
+      <skos:altLabel xml:lang="fr">MW</skos:altLabel>
+      <skos:altLabel xml:lang="ga">MW</skos:altLabel>
+      <skos:altLabel xml:lang="hr">MW</skos:altLabel>
+      <skos:altLabel xml:lang="hu">MW</skos:altLabel>
+      <skos:altLabel xml:lang="it">MW</skos:altLabel>
+      <skos:altLabel xml:lang="lt">MW</skos:altLabel>
+      <skos:altLabel xml:lang="lv">MW</skos:altLabel>
+      <skos:altLabel xml:lang="mt">MW</skos:altLabel>
+      <skos:altLabel xml:lang="nl">MW</skos:altLabel>
+      <skos:altLabel xml:lang="pl">MW</skos:altLabel>
+      <skos:altLabel xml:lang="pt">MW</skos:altLabel>
+      <skos:altLabel xml:lang="ro">MW</skos:altLabel>
+      <skos:altLabel xml:lang="sk">MW</skos:altLabel>
+      <skos:altLabel xml:lang="sl">MW</skos:altLabel>
+      <skos:altLabel xml:lang="sv">MW</skos:altLabel>
+      <skos:definition xml:lang="en">The megawatt (MW) is a unit of power in the International System of Units, equivalent to million watts, 10⁶ W.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/MC"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">микрограм</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">mikrogram</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">mikrogram</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Mikrogramm</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">μικρογραμμάριο</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">microgram</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">microgramo</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">mikrogramm</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">mikrogramma</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">microgramme</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">micreagram</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">mikrogram</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">mikrogramm</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">microgrammo</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">mikrogramas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">mikrogrami</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">mikrogramma</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">microgram</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">mikrogram</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">micrograma</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">microgram</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">mikrogram</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">mikrogram</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">mikrogram</skos:prefLabel>
+      <at:authority-code>MC</at:authority-code>
+      <at:op-code>MC</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>MC</atold:op-code>
+      <dc:identifier>MC</dc:identifier>
+      <skos:altLabel xml:lang="bg">μg</skos:altLabel>
+      <skos:altLabel xml:lang="cs">µg</skos:altLabel>
+      <skos:altLabel xml:lang="da">µg</skos:altLabel>
+      <skos:altLabel xml:lang="de">µg</skos:altLabel>
+      <skos:altLabel xml:lang="el">µg</skos:altLabel>
+      <skos:altLabel xml:lang="en">mcg</skos:altLabel>
+      <skos:altLabel xml:lang="en">µg</skos:altLabel>
+      <skos:altLabel xml:lang="es">µg</skos:altLabel>
+      <skos:altLabel xml:lang="et">µg</skos:altLabel>
+      <skos:altLabel xml:lang="fi">µg</skos:altLabel>
+      <skos:altLabel xml:lang="fr">µg</skos:altLabel>
+      <skos:altLabel xml:lang="ga">µg</skos:altLabel>
+      <skos:altLabel xml:lang="hr">µg</skos:altLabel>
+      <skos:altLabel xml:lang="hu">µg</skos:altLabel>
+      <skos:altLabel xml:lang="it">µg</skos:altLabel>
+      <skos:altLabel xml:lang="lt">µg</skos:altLabel>
+      <skos:altLabel xml:lang="lv">µg</skos:altLabel>
+      <skos:altLabel xml:lang="mt">µg</skos:altLabel>
+      <skos:altLabel xml:lang="nl">µg</skos:altLabel>
+      <skos:altLabel xml:lang="pl">µg</skos:altLabel>
+      <skos:altLabel xml:lang="pt">µg</skos:altLabel>
+      <skos:altLabel xml:lang="ro">µg</skos:altLabel>
+      <skos:altLabel xml:lang="sk">µg</skos:altLabel>
+      <skos:altLabel xml:lang="sl">µg</skos:altLabel>
+      <skos:altLabel xml:lang="sv">µg</skos:altLabel>
+      <skos:definition xml:lang="en">The microgram (μg) is a unit of mass in the International System of Units, equivalent to one millionth of a gram, 1×10⁻⁶ , or 10⁻⁹ kg (0.000000001 kg).</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/MGM"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">милиграм</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">miligram</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">milligram</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Milligramm</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">χιλιοστόγραμμο</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">milligram</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">miligramo</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">milligramm</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">milligramma</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">milligramme</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">milleagram</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">miligram</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">milligramm</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">milligrammo</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">miligramas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">miligrami</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">milligramm</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">milligram</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">miligram</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">miligrama</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">miligram</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">miligram</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">miligram</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">milligram</skos:prefLabel>
+      <at:authority-code>MGM</at:authority-code>
+      <at:op-code>MGM</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>MGM</atold:op-code>
+      <dc:identifier>MGM</dc:identifier>
+      <skos:altLabel xml:lang="bg">мг</skos:altLabel>
+      <skos:altLabel xml:lang="cs">mg</skos:altLabel>
+      <skos:altLabel xml:lang="da">mg</skos:altLabel>
+      <skos:altLabel xml:lang="de">mg</skos:altLabel>
+      <skos:altLabel xml:lang="el">mg</skos:altLabel>
+      <skos:altLabel xml:lang="en">mg</skos:altLabel>
+      <skos:altLabel xml:lang="es">mg</skos:altLabel>
+      <skos:altLabel xml:lang="et">mg</skos:altLabel>
+      <skos:altLabel xml:lang="fi">mg</skos:altLabel>
+      <skos:altLabel xml:lang="fr">mg</skos:altLabel>
+      <skos:altLabel xml:lang="ga">mg</skos:altLabel>
+      <skos:altLabel xml:lang="hr">mg</skos:altLabel>
+      <skos:altLabel xml:lang="hu">mg</skos:altLabel>
+      <skos:altLabel xml:lang="it">mg</skos:altLabel>
+      <skos:altLabel xml:lang="lt">mg</skos:altLabel>
+      <skos:altLabel xml:lang="lv">mg</skos:altLabel>
+      <skos:altLabel xml:lang="mt">mg</skos:altLabel>
+      <skos:altLabel xml:lang="nl">mg</skos:altLabel>
+      <skos:altLabel xml:lang="pl">mg</skos:altLabel>
+      <skos:altLabel xml:lang="pt">mg</skos:altLabel>
+      <skos:altLabel xml:lang="ro">mg</skos:altLabel>
+      <skos:altLabel xml:lang="sk">mg</skos:altLabel>
+      <skos:altLabel xml:lang="sl">mg</skos:altLabel>
+      <skos:altLabel xml:lang="sv">mg</skos:altLabel>
+      <skos:definition xml:lang="en">The milligram (mg) is a unit of mass in the International System of Units, equivalent to one thousandth of a gramme, 10⁻³ g (0.001 g), or 10⁻⁶ kg (0.000001 kg).</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/MIN"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">минута</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">minuta</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">minut</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Minute</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">λεπτό</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">minute</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">minuto</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">minut</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">minuutti</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">minute</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">nóiméad</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">minuta</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">perc</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">minuto</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">minutė</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">minūtes</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">minuta</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">minuut</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">minuta</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">minuto</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">minut</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">minúta</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">minuta</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">minut</skos:prefLabel>
+      <at:authority-code>MIN</at:authority-code>
+      <at:op-code>MIN</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>MIN</atold:op-code>
+      <dc:identifier>MIN</dc:identifier>
+      <skos:altLabel xml:lang="bg">мин</skos:altLabel>
+      <skos:altLabel xml:lang="cs">min</skos:altLabel>
+      <skos:altLabel xml:lang="da">min</skos:altLabel>
+      <skos:altLabel xml:lang="de">min</skos:altLabel>
+      <skos:altLabel xml:lang="el">min</skos:altLabel>
+      <skos:altLabel xml:lang="en">min</skos:altLabel>
+      <skos:altLabel xml:lang="es">min</skos:altLabel>
+      <skos:altLabel xml:lang="et">min</skos:altLabel>
+      <skos:altLabel xml:lang="fi">min</skos:altLabel>
+      <skos:altLabel xml:lang="fr">min</skos:altLabel>
+      <skos:altLabel xml:lang="ga">min</skos:altLabel>
+      <skos:altLabel xml:lang="hr">min</skos:altLabel>
+      <skos:altLabel xml:lang="hu">min</skos:altLabel>
+      <skos:altLabel xml:lang="it">min</skos:altLabel>
+      <skos:altLabel xml:lang="lt">min</skos:altLabel>
+      <skos:altLabel xml:lang="lv">min</skos:altLabel>
+      <skos:altLabel xml:lang="mt">min</skos:altLabel>
+      <skos:altLabel xml:lang="nl">min</skos:altLabel>
+      <skos:altLabel xml:lang="pl">min</skos:altLabel>
+      <skos:altLabel xml:lang="pt">min</skos:altLabel>
+      <skos:altLabel xml:lang="ro">min</skos:altLabel>
+      <skos:altLabel xml:lang="sk">min</skos:altLabel>
+      <skos:altLabel xml:lang="sl">min</skos:altLabel>
+      <skos:altLabel xml:lang="sv">min</skos:altLabel>
+      <skos:definition xml:lang="en">The minute (min) is a unit of time accepted for use with the International System of Units, equivalent to 1⁄60 of an hour, or 60 seconds.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/MLT"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">милилитър</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">mililitr</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">milliliter</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Milliliter</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">χιλιοστόλιτρο</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">millilitre</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">mililitro</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">milliliiter</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">millilitra</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">millilitre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">millilítear</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">mililitar</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">milliliter</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">millilitro</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">mililitras</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">mililitri</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">millilitru</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">milliliter</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">mililitr</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">mililitro</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">mililitru</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">mililiter</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">mililiter</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">milliliter</skos:prefLabel>
+      <at:authority-code>MLT</at:authority-code>
+      <at:op-code>MLT</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>MLT</atold:op-code>
+      <dc:identifier>MLT</dc:identifier>
+      <skos:altLabel xml:lang="bg">мл</skos:altLabel>
+      <skos:altLabel xml:lang="cs">ml</skos:altLabel>
+      <skos:altLabel xml:lang="da">ml</skos:altLabel>
+      <skos:altLabel xml:lang="de">ml</skos:altLabel>
+      <skos:altLabel xml:lang="el">ml</skos:altLabel>
+      <skos:altLabel xml:lang="en">ml</skos:altLabel>
+      <skos:altLabel xml:lang="es">ml</skos:altLabel>
+      <skos:altLabel xml:lang="et">ml</skos:altLabel>
+      <skos:altLabel xml:lang="fi">ml</skos:altLabel>
+      <skos:altLabel xml:lang="fr">ml</skos:altLabel>
+      <skos:altLabel xml:lang="ga">ml</skos:altLabel>
+      <skos:altLabel xml:lang="hr">ml</skos:altLabel>
+      <skos:altLabel xml:lang="hu">ml</skos:altLabel>
+      <skos:altLabel xml:lang="it">ml</skos:altLabel>
+      <skos:altLabel xml:lang="lt">ml</skos:altLabel>
+      <skos:altLabel xml:lang="lv">ml</skos:altLabel>
+      <skos:altLabel xml:lang="mt">ml</skos:altLabel>
+      <skos:altLabel xml:lang="nl">ml</skos:altLabel>
+      <skos:altLabel xml:lang="pl">ml</skos:altLabel>
+      <skos:altLabel xml:lang="pt">ml</skos:altLabel>
+      <skos:altLabel xml:lang="ro">ml</skos:altLabel>
+      <skos:altLabel xml:lang="sk">ml</skos:altLabel>
+      <skos:altLabel xml:lang="sl">ml</skos:altLabel>
+      <skos:altLabel xml:lang="sv">ml</skos:altLabel>
+      <skos:definition xml:lang="en">The millilitre (ml) is a unit of fluid volume (or capacity), equivalent to one thousandth of a litre (0.001 l), 10⁻⁶ m³. The millilitre is not a unit in the International System of Units (SI), but is accepted for use with SI units and prefixes by the International Committee for Weights and Measures.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/MMT"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">милиметър</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">milimetr</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">millimeter</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Millimeter</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">χιλιοστόμετρο</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">millimetre</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">milímetro</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">millimeeter</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">millimetri</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">millimètre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">milliméadar</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">milimetar</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">milliméter</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">millimetro</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">milimetras</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">milimetri</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">millimetru</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">millimeter</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">milimetr</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">milímetro</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">milimetru</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">milimeter</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">milimeter</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">millimeter</skos:prefLabel>
+      <at:authority-code>MMT</at:authority-code>
+      <at:op-code>MMT</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>MMT</atold:op-code>
+      <dc:identifier>MMT</dc:identifier>
+      <skos:altLabel xml:lang="bg">мм</skos:altLabel>
+      <skos:altLabel xml:lang="cs">mm</skos:altLabel>
+      <skos:altLabel xml:lang="da">mm</skos:altLabel>
+      <skos:altLabel xml:lang="de">mm</skos:altLabel>
+      <skos:altLabel xml:lang="el">mm</skos:altLabel>
+      <skos:altLabel xml:lang="en">mm</skos:altLabel>
+      <skos:altLabel xml:lang="es">mm</skos:altLabel>
+      <skos:altLabel xml:lang="et">mm</skos:altLabel>
+      <skos:altLabel xml:lang="fi">mm</skos:altLabel>
+      <skos:altLabel xml:lang="fr">mm</skos:altLabel>
+      <skos:altLabel xml:lang="ga">mm</skos:altLabel>
+      <skos:altLabel xml:lang="hr">mm</skos:altLabel>
+      <skos:altLabel xml:lang="hu">mm</skos:altLabel>
+      <skos:altLabel xml:lang="it">mm</skos:altLabel>
+      <skos:altLabel xml:lang="lt">mm</skos:altLabel>
+      <skos:altLabel xml:lang="lv">mm</skos:altLabel>
+      <skos:altLabel xml:lang="mt">mm</skos:altLabel>
+      <skos:altLabel xml:lang="nl">mm</skos:altLabel>
+      <skos:altLabel xml:lang="pl">mm</skos:altLabel>
+      <skos:altLabel xml:lang="pt">mm</skos:altLabel>
+      <skos:altLabel xml:lang="ro">mm</skos:altLabel>
+      <skos:altLabel xml:lang="sk">mm</skos:altLabel>
+      <skos:altLabel xml:lang="sl">mm</skos:altLabel>
+      <skos:altLabel xml:lang="sv">mm</skos:altLabel>
+      <skos:definition xml:lang="en">The millimetre (mm) is a unit of length in the International System of Units, equivalent to one thousandth of a metre, 10⁻³ m (0.001 m).</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/MTK"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">квадратен метър</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">metr čtvereční</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">kvadratmeter</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Quadratmeter</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">τετραγωνικό μέτρο</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">square metre</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">metro cuadrado</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">ruutmeeter</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">neliömetri</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">mètre carré</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">méadar cearnach</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">kvadratni metar</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">négyzetméter</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">metro quadrato</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">kvadratinis metras</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">kvadrātmetri</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">metru kwadru</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">vierkante meter</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">metr kwadratowy</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">metro quadrado</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">metru pătrat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">meter štvorcový</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">kvadratni meter</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">kvadratmeter</skos:prefLabel>
+      <at:authority-code>MTK</at:authority-code>
+      <at:op-code>MTK</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>MTK</atold:op-code>
+      <dc:identifier>MTK</dc:identifier>
+      <skos:altLabel xml:lang="bg">м²</skos:altLabel>
+      <skos:altLabel xml:lang="cs">m²</skos:altLabel>
+      <skos:altLabel xml:lang="da">m²</skos:altLabel>
+      <skos:altLabel xml:lang="de">m²</skos:altLabel>
+      <skos:altLabel xml:lang="el">m²</skos:altLabel>
+      <skos:altLabel xml:lang="en">m²</skos:altLabel>
+      <skos:altLabel xml:lang="es">m²</skos:altLabel>
+      <skos:altLabel xml:lang="et">m²</skos:altLabel>
+      <skos:altLabel xml:lang="fi">m²</skos:altLabel>
+      <skos:altLabel xml:lang="fr">m²</skos:altLabel>
+      <skos:altLabel xml:lang="ga">m²</skos:altLabel>
+      <skos:altLabel xml:lang="hr">m²</skos:altLabel>
+      <skos:altLabel xml:lang="hu">m²</skos:altLabel>
+      <skos:altLabel xml:lang="it">m²</skos:altLabel>
+      <skos:altLabel xml:lang="lt">m²</skos:altLabel>
+      <skos:altLabel xml:lang="lv">m²</skos:altLabel>
+      <skos:altLabel xml:lang="mt">m²</skos:altLabel>
+      <skos:altLabel xml:lang="nl">m²</skos:altLabel>
+      <skos:altLabel xml:lang="pl">m²</skos:altLabel>
+      <skos:altLabel xml:lang="pt">m²</skos:altLabel>
+      <skos:altLabel xml:lang="ro">m²</skos:altLabel>
+      <skos:altLabel xml:lang="sk">m²</skos:altLabel>
+      <skos:altLabel xml:lang="sl">m²</skos:altLabel>
+      <skos:altLabel xml:lang="sv">m²</skos:altLabel>
+      <skos:definition xml:lang="en">The square metre (m²) is a unit of area in the International System of Units, equivalent to the area formed by a square measuring 1 m by 1 m, 1 m².</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/MTR"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">метър</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">metr</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">meter</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Meter</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">μέτρο</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">metre</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">metro</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">meeter</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">metri</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">mètre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">méadar</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">metar</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">méter</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">metro</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">metras</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">metri</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">metru</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">meter</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">metr</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">metro</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">metru</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">meter</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">meter</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">meter</skos:prefLabel>
+      <at:authority-code>MTR</at:authority-code>
+      <at:op-code>MTR</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>MTR</atold:op-code>
+      <dc:identifier>MTR</dc:identifier>
+      <skos:altLabel xml:lang="bg">м</skos:altLabel>
+      <skos:altLabel xml:lang="cs">m</skos:altLabel>
+      <skos:altLabel xml:lang="da">m</skos:altLabel>
+      <skos:altLabel xml:lang="de">m</skos:altLabel>
+      <skos:altLabel xml:lang="el">m</skos:altLabel>
+      <skos:altLabel xml:lang="en">m</skos:altLabel>
+      <skos:altLabel xml:lang="es">m</skos:altLabel>
+      <skos:altLabel xml:lang="et">m</skos:altLabel>
+      <skos:altLabel xml:lang="fi">m</skos:altLabel>
+      <skos:altLabel xml:lang="fr">m</skos:altLabel>
+      <skos:altLabel xml:lang="ga">m</skos:altLabel>
+      <skos:altLabel xml:lang="hr">m</skos:altLabel>
+      <skos:altLabel xml:lang="hu">m</skos:altLabel>
+      <skos:altLabel xml:lang="it">m</skos:altLabel>
+      <skos:altLabel xml:lang="lt">m</skos:altLabel>
+      <skos:altLabel xml:lang="lv">m</skos:altLabel>
+      <skos:altLabel xml:lang="mt">m</skos:altLabel>
+      <skos:altLabel xml:lang="nl">m</skos:altLabel>
+      <skos:altLabel xml:lang="pl">m</skos:altLabel>
+      <skos:altLabel xml:lang="pt">m</skos:altLabel>
+      <skos:altLabel xml:lang="ro">m</skos:altLabel>
+      <skos:altLabel xml:lang="sk">m</skos:altLabel>
+      <skos:altLabel xml:lang="sl">m</skos:altLabel>
+      <skos:altLabel xml:lang="sv">m</skos:altLabel>
+      <skos:definition xml:lang="en">The metre (m) is the base unit of length in some metric systems, including the International System of Units. The metre is defined as the length of the path travelled by light in a vacuum in 1/299 792 458 second.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/MTS"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">метър в секунда</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">metr za sekundu</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">meter pr. sekund</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Meter pro Sekunde</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">μέτρο ανά δευτερόλεπτο</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">metre per second</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">metro por segundo</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">meeter sekundis</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">metri sekunnissa</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">mètre par seconde</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">méadar sa soicind</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">metar u sekundi</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">méter/szekundum</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">metro al secondo</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">metras per sekundę</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">metri sekundē</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">metru fis-sekonda</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">meter per seconde</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">metr na sekundę</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">metro por segundo</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">metru pe secundă</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">meter za sekundu</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">meter na sekundo</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">meter per sekund</skos:prefLabel>
+      <at:authority-code>MTS</at:authority-code>
+      <at:op-code>MTS</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>MTS</atold:op-code>
+      <dc:identifier>MTS</dc:identifier>
+      <skos:altLabel xml:lang="bg">м/сек</skos:altLabel>
+      <skos:altLabel xml:lang="cs">m/s</skos:altLabel>
+      <skos:altLabel xml:lang="da">m/s</skos:altLabel>
+      <skos:altLabel xml:lang="da">sekundmeter</skos:altLabel>
+      <skos:altLabel xml:lang="de">m/s</skos:altLabel>
+      <skos:altLabel xml:lang="el">m/s</skos:altLabel>
+      <skos:altLabel xml:lang="en">m/s</skos:altLabel>
+      <skos:altLabel xml:lang="es">m/s</skos:altLabel>
+      <skos:altLabel xml:lang="et">m/s</skos:altLabel>
+      <skos:altLabel xml:lang="fi">m/s</skos:altLabel>
+      <skos:altLabel xml:lang="fr">m/s</skos:altLabel>
+      <skos:altLabel xml:lang="ga">m/s</skos:altLabel>
+      <skos:altLabel xml:lang="hr">m/s</skos:altLabel>
+      <skos:altLabel xml:lang="hu">m/s</skos:altLabel>
+      <skos:altLabel xml:lang="it">m/s</skos:altLabel>
+      <skos:altLabel xml:lang="lt">m/s</skos:altLabel>
+      <skos:altLabel xml:lang="lv">m/s</skos:altLabel>
+      <skos:altLabel xml:lang="mt">m/s</skos:altLabel>
+      <skos:altLabel xml:lang="nl">m/s</skos:altLabel>
+      <skos:altLabel xml:lang="pl">m/s</skos:altLabel>
+      <skos:altLabel xml:lang="pt">m/s</skos:altLabel>
+      <skos:altLabel xml:lang="ro">m/s</skos:altLabel>
+      <skos:altLabel xml:lang="sk">m/s</skos:altLabel>
+      <skos:altLabel xml:lang="sl">m/s</skos:altLabel>
+      <skos:altLabel xml:lang="sv">m/s</skos:altLabel>
+      <skos:definition xml:lang="en">The metre per second (m/s) is a unit of speed in the International System of Units, equivalent to the number of metres covered in one second.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/NEW"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">нютон</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">newton</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">newton</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Newton</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">νιούτον</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">newton</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">newton</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">njuuton</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">newton</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">newton</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">niútan</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">njutn</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">newton</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">newton</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">niutonas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">ņūtoni</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">newton</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">newton</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">niuton</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">newton</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">newton</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">newton</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">newton</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">newton</skos:prefLabel>
+      <at:authority-code>NEW</at:authority-code>
+      <at:op-code>NEW</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>NEW</atold:op-code>
+      <dc:identifier>NEW</dc:identifier>
+      <skos:altLabel xml:lang="bg">N</skos:altLabel>
+      <skos:altLabel xml:lang="cs">N</skos:altLabel>
+      <skos:altLabel xml:lang="da">N</skos:altLabel>
+      <skos:altLabel xml:lang="de">N</skos:altLabel>
+      <skos:altLabel xml:lang="el">N</skos:altLabel>
+      <skos:altLabel xml:lang="en">N</skos:altLabel>
+      <skos:altLabel xml:lang="es">N</skos:altLabel>
+      <skos:altLabel xml:lang="et">N</skos:altLabel>
+      <skos:altLabel xml:lang="fi">N</skos:altLabel>
+      <skos:altLabel xml:lang="fr">N</skos:altLabel>
+      <skos:altLabel xml:lang="ga">N</skos:altLabel>
+      <skos:altLabel xml:lang="hr">N</skos:altLabel>
+      <skos:altLabel xml:lang="hu">N</skos:altLabel>
+      <skos:altLabel xml:lang="it">N</skos:altLabel>
+      <skos:altLabel xml:lang="lt">N</skos:altLabel>
+      <skos:altLabel xml:lang="lv">N</skos:altLabel>
+      <skos:altLabel xml:lang="mt">N</skos:altLabel>
+      <skos:altLabel xml:lang="nl">N</skos:altLabel>
+      <skos:altLabel xml:lang="pl">N</skos:altLabel>
+      <skos:altLabel xml:lang="pt">N</skos:altLabel>
+      <skos:altLabel xml:lang="ro">N</skos:altLabel>
+      <skos:altLabel xml:lang="sk">N</skos:altLabel>
+      <skos:altLabel xml:lang="sl">N</skos:altLabel>
+      <skos:altLabel xml:lang="sv">N</skos:altLabel>
+      <skos:definition xml:lang="en">The newton (N) is a derived unit of force in the International System of Units, representing the force needed to accelerate one kilogram of mass at the rate of one metre per second squared in the direction of the applied force, (kg × m)/s².</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/OP_DATPRO"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Неокончателни данни</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Předběžné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Midlertidige data</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Vorläufige Daten</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Προσωρινά δεδομένα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Provisional data</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Datos provisionales</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Esialgsed andmed</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Alustavat tiedot</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Données provisoires</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Sonraí sealadacha</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Privremeni podaci</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Ideiglenes adatok</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Dati provvisori</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Laikinieji duomenys</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Provizoriski dati</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Dejta provviżorja</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Voorlopige gegevens</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Dane tymczasowe</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Dados provisórios</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Date provizorii</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Predbežné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Začasni podatki</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Tillfälliga uppgifter</skos:prefLabel>
+      <at:authority-code>OP_DATPRO</at:authority-code>
+      <at:op-code>OP_DATPRO</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>OP_DATPRO</atold:op-code>
+      <dc:identifier>OP_DATPRO</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/PAL"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">паскал</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">pascal</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Pascal</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Pascal</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">πασκάλ</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">pascal</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">pascal</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">paskal</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">pascal</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">pascal</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">pascal</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">paskal</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">pascal</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">pascal</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">paskalis</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">paskāli</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">pascal</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">pascal</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">paskal</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">pascal</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">pascal</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">pascal</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">pascal</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">pascal</skos:prefLabel>
+      <at:authority-code>PAL</at:authority-code>
+      <at:op-code>PAL</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>PAL</atold:op-code>
+      <dc:identifier>PAL</dc:identifier>
+      <skos:altLabel xml:lang="bg">Pa</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Pa</skos:altLabel>
+      <skos:altLabel xml:lang="da">Pa</skos:altLabel>
+      <skos:altLabel xml:lang="de">Pa</skos:altLabel>
+      <skos:altLabel xml:lang="el">Pa</skos:altLabel>
+      <skos:altLabel xml:lang="en">Pa</skos:altLabel>
+      <skos:altLabel xml:lang="es">Pa</skos:altLabel>
+      <skos:altLabel xml:lang="et">Pa</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Pa</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Pa</skos:altLabel>
+      <skos:altLabel xml:lang="ga">Pa</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Pa</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Pa</skos:altLabel>
+      <skos:altLabel xml:lang="it">Pa</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Pa</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Pa</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Pa</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Pa</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Pa</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Pa</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Pa</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Pa</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Pa</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Pa</skos:altLabel>
+      <skos:definition xml:lang="en">The pascal (Pa) is a derived unit of pressure in the International System of Units, defined as one newton per square metre, 1 N/m².</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/SEC"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">секунда</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">sekunda</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">sekund</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Sekunde</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">δευτερόλεπτο</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">second</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">segundo</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">sekund</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">sekunti</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">seconde</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">soicind</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">sekunda</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">másodperc</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">secondo</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">sekundė</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">sekundes</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">sekonda</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">seconde</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">sekunda</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">segundo</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">secundă</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">sekunda</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">sekunda</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">sekund</skos:prefLabel>
+      <at:authority-code>SEC</at:authority-code>
+      <at:op-code>SEC</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>SEC</atold:op-code>
+      <dc:identifier>SEC</dc:identifier>
+      <skos:altLabel xml:lang="bg">сек</skos:altLabel>
+      <skos:altLabel xml:lang="cs">s</skos:altLabel>
+      <skos:altLabel xml:lang="da">s</skos:altLabel>
+      <skos:altLabel xml:lang="de">s</skos:altLabel>
+      <skos:altLabel xml:lang="el">s</skos:altLabel>
+      <skos:altLabel xml:lang="en">s</skos:altLabel>
+      <skos:altLabel xml:lang="es">s</skos:altLabel>
+      <skos:altLabel xml:lang="et">s</skos:altLabel>
+      <skos:altLabel xml:lang="fi">s</skos:altLabel>
+      <skos:altLabel xml:lang="fr">s</skos:altLabel>
+      <skos:altLabel xml:lang="ga">s</skos:altLabel>
+      <skos:altLabel xml:lang="hr">s</skos:altLabel>
+      <skos:altLabel xml:lang="hu">s</skos:altLabel>
+      <skos:altLabel xml:lang="it">s</skos:altLabel>
+      <skos:altLabel xml:lang="lt">s</skos:altLabel>
+      <skos:altLabel xml:lang="lv">s</skos:altLabel>
+      <skos:altLabel xml:lang="mt">s</skos:altLabel>
+      <skos:altLabel xml:lang="nl">s</skos:altLabel>
+      <skos:altLabel xml:lang="pl">s</skos:altLabel>
+      <skos:altLabel xml:lang="pt">s</skos:altLabel>
+      <skos:altLabel xml:lang="ro">s</skos:altLabel>
+      <skos:altLabel xml:lang="sk">s</skos:altLabel>
+      <skos:altLabel xml:lang="sl">s</skos:altLabel>
+      <skos:altLabel xml:lang="sv">s</skos:altLabel>
+      <skos:definition xml:lang="en">The second (s) is the base unit of time in the International System of Units (SI), commonly understood and historically defined as 1⁄86400 of a day. However, it is defined by the SI as the duration of 9 192 631 770 periods of the radiation corresponding to the transition between the two hyperfine levels of the ground state of the caesium-133 atom.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/TKM"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">тон-километър</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">tunokilometr</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">tonkilometer</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Tonnenkilometer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">τoνοχιλιόμετρο</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">tonne-kilometre</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">tonelada-kilómetro</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">tonnkilomeeter</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">tonnikilometri</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">tonne-kilomètre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">tona-chiliméadar</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">tonski kilometar</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">tonnakilométer</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">tonnellata-chilometro</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">tonkilometris</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">tonnkilometri</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">tunnellata-kilometru</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">tonkilometer</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">tonokilometr</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">tonelada-quilómetro</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">tonă-kilometru</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">tonokilometer</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">tonski kilometer</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">tonkilometer</skos:prefLabel>
+      <at:authority-code>TKM</at:authority-code>
+      <at:op-code>TKM</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>TKM</atold:op-code>
+      <dc:identifier>TKM</dc:identifier>
+      <skos:altLabel xml:lang="bg">т-км</skos:altLabel>
+      <skos:altLabel xml:lang="cs">tkm</skos:altLabel>
+      <skos:altLabel xml:lang="da">tkm</skos:altLabel>
+      <skos:altLabel xml:lang="de">tkm</skos:altLabel>
+      <skos:altLabel xml:lang="el">tkm</skos:altLabel>
+      <skos:altLabel xml:lang="en">tkm</skos:altLabel>
+      <skos:altLabel xml:lang="es">tkm</skos:altLabel>
+      <skos:altLabel xml:lang="et">tkm</skos:altLabel>
+      <skos:altLabel xml:lang="fi">tkm</skos:altLabel>
+      <skos:altLabel xml:lang="fr">tkm</skos:altLabel>
+      <skos:altLabel xml:lang="ga">tkm</skos:altLabel>
+      <skos:altLabel xml:lang="hr">tkm</skos:altLabel>
+      <skos:altLabel xml:lang="hu">tkm</skos:altLabel>
+      <skos:altLabel xml:lang="it">tkm</skos:altLabel>
+      <skos:altLabel xml:lang="lt">tkm</skos:altLabel>
+      <skos:altLabel xml:lang="lv">tkm</skos:altLabel>
+      <skos:altLabel xml:lang="mt">tkm</skos:altLabel>
+      <skos:altLabel xml:lang="nl">tkm</skos:altLabel>
+      <skos:altLabel xml:lang="pl">tkm</skos:altLabel>
+      <skos:altLabel xml:lang="pt">tkm</skos:altLabel>
+      <skos:altLabel xml:lang="ro">tkm</skos:altLabel>
+      <skos:altLabel xml:lang="sk">tkm</skos:altLabel>
+      <skos:altLabel xml:lang="sl">tkm</skos:altLabel>
+      <skos:altLabel xml:lang="sv">tkm</skos:altLabel>
+      <skos:definition xml:lang="en">The tonne-kilometre (tkm) is a unit of measurement used for calculating the quantity of traffic, representing the transport of one tonne of goods over a distance of one kilometre.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/TNE"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">тон</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">tuna</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">ton</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Tonne</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">τόνος</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">tonne</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">tonelada</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">tonn</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">tonni</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">tonne</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">tona</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">tona</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">tonna</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">tonnellata</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">tona</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">tonnas</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">tunnellata metrika</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">ton</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">tona</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">tonelada</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">tonă</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">tona</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">tona</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">ton</skos:prefLabel>
+      <at:authority-code>TNE</at:authority-code>
+      <at:op-code>TNE</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>TNE</atold:op-code>
+      <dc:identifier>TNE</dc:identifier>
+      <skos:altLabel xml:lang="bg">т</skos:altLabel>
+      <skos:altLabel xml:lang="cs">t</skos:altLabel>
+      <skos:altLabel xml:lang="da">t</skos:altLabel>
+      <skos:altLabel xml:lang="de">t</skos:altLabel>
+      <skos:altLabel xml:lang="el">t</skos:altLabel>
+      <skos:altLabel xml:lang="en">t</skos:altLabel>
+      <skos:altLabel xml:lang="es">t</skos:altLabel>
+      <skos:altLabel xml:lang="et">t</skos:altLabel>
+      <skos:altLabel xml:lang="fi">t</skos:altLabel>
+      <skos:altLabel xml:lang="fr">t</skos:altLabel>
+      <skos:altLabel xml:lang="ga">t</skos:altLabel>
+      <skos:altLabel xml:lang="hr">t</skos:altLabel>
+      <skos:altLabel xml:lang="hu">t</skos:altLabel>
+      <skos:altLabel xml:lang="it">t</skos:altLabel>
+      <skos:altLabel xml:lang="lt">t</skos:altLabel>
+      <skos:altLabel xml:lang="lv">t</skos:altLabel>
+      <skos:altLabel xml:lang="mt">t</skos:altLabel>
+      <skos:altLabel xml:lang="nl">t</skos:altLabel>
+      <skos:altLabel xml:lang="pl">t</skos:altLabel>
+      <skos:altLabel xml:lang="pt">t</skos:altLabel>
+      <skos:altLabel xml:lang="ro">t</skos:altLabel>
+      <skos:altLabel xml:lang="sk">t</skos:altLabel>
+      <skos:altLabel xml:lang="sl">t</skos:altLabel>
+      <skos:altLabel xml:lang="sv">t</skos:altLabel>
+      <skos:definition xml:lang="en">The (metric) tonne (t) is a non-SI unit of mass (i.e. outside of the International System of Units), equivalent to one thousand kilograms, 10³ kg (1000 kg), or approximately the mass of one cubic meter of water at four degrees Celsius. It is accepted for use with SI units and prefixes by the International Committee for Weights and Measures.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/TOE"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">тон нефтен еквивалент</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">tuna ropného ekvivalentu</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">ton mineralolieækvivalent</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Tonne Rohöleinheiten</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">τόνος ισοδύναμου πετρελαίου</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">tonne of oil equivalent</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">tonelada equivalente de petróleo</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">naftaekvivalenttonn</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">öljyekvivalenttitonni</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">tonne d’équivalent pétrole</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">coibhéis tona ola</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">ekvivalent tone nafte</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">tonnában számított olajegyenérték</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">tonnellata equivalente petrolio</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">tona naftos ekvivalento</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">naftas ekvivalenta tonnas</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">tunnellata tal-ekwivalenti taż-żejt</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">eenheid ton olie-equivalent</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">tona oleju ekwiwalentnego</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">tonelada de equivalente de petróleo</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">tonă echivalent petrol</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">tona ropného ekvivalentu</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">tona ekvivalenta nafte</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">ton oljeekvivalenter</skos:prefLabel>
+      <at:authority-code>TOE</at:authority-code>
+      <at:op-code>TOE</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>TOE</atold:op-code>
+      <dc:identifier>TOE</dc:identifier>
+      <skos:altLabel xml:lang="bg">т н.е.</skos:altLabel>
+      <skos:altLabel xml:lang="cs">toe</skos:altLabel>
+      <skos:altLabel xml:lang="da">toe</skos:altLabel>
+      <skos:altLabel xml:lang="de">tRÖE</skos:altLabel>
+      <skos:altLabel xml:lang="el">toe</skos:altLabel>
+      <skos:altLabel xml:lang="en">toe</skos:altLabel>
+      <skos:altLabel xml:lang="es">tep</skos:altLabel>
+      <skos:altLabel xml:lang="et">toe</skos:altLabel>
+      <skos:altLabel xml:lang="fi">toe</skos:altLabel>
+      <skos:altLabel xml:lang="fr">tep</skos:altLabel>
+      <skos:altLabel xml:lang="ga">cto</skos:altLabel>
+      <skos:altLabel xml:lang="hr">toe</skos:altLabel>
+      <skos:altLabel xml:lang="hu">toe</skos:altLabel>
+      <skos:altLabel xml:lang="it">tep</skos:altLabel>
+      <skos:altLabel xml:lang="lt">tne</skos:altLabel>
+      <skos:altLabel xml:lang="lv">toe</skos:altLabel>
+      <skos:altLabel xml:lang="mt">toe</skos:altLabel>
+      <skos:altLabel xml:lang="nl">toe</skos:altLabel>
+      <skos:altLabel xml:lang="pl">toe</skos:altLabel>
+      <skos:altLabel xml:lang="pt">tep</skos:altLabel>
+      <skos:altLabel xml:lang="ro">tep</skos:altLabel>
+      <skos:altLabel xml:lang="sk">toe</skos:altLabel>
+      <skos:altLabel xml:lang="sl">toe</skos:altLabel>
+      <skos:altLabel xml:lang="sv">toe</skos:altLabel>
+      <skos:definition xml:lang="en">The tonne of oil equivalent (toe) is a unit of energy, defined as the amount of energy released by burning one tonne of crude oil. It is approximately 42 gigajoules.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/VLT"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">волт</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">volt</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">volt</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Volt</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">βολτ</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">volt</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">voltio</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">volt</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">voltti</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">volt</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">volta</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">volt</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">volt</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">volt</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">voltas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">volti</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">volt</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">volt</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">wolt</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">volt</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">volt</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">volt</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">volt</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">volt</skos:prefLabel>
+      <at:authority-code>VLT</at:authority-code>
+      <at:op-code>VLT</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>VLT</atold:op-code>
+      <dc:identifier>VLT</dc:identifier>
+      <skos:altLabel xml:lang="bg">В</skos:altLabel>
+      <skos:altLabel xml:lang="cs">V</skos:altLabel>
+      <skos:altLabel xml:lang="da">V</skos:altLabel>
+      <skos:altLabel xml:lang="de">V</skos:altLabel>
+      <skos:altLabel xml:lang="el">V</skos:altLabel>
+      <skos:altLabel xml:lang="en">V</skos:altLabel>
+      <skos:altLabel xml:lang="es">V</skos:altLabel>
+      <skos:altLabel xml:lang="et">V</skos:altLabel>
+      <skos:altLabel xml:lang="fi">V</skos:altLabel>
+      <skos:altLabel xml:lang="fr">V</skos:altLabel>
+      <skos:altLabel xml:lang="ga">V</skos:altLabel>
+      <skos:altLabel xml:lang="hr">V</skos:altLabel>
+      <skos:altLabel xml:lang="hu">V</skos:altLabel>
+      <skos:altLabel xml:lang="it">V</skos:altLabel>
+      <skos:altLabel xml:lang="lt">V</skos:altLabel>
+      <skos:altLabel xml:lang="lv">V</skos:altLabel>
+      <skos:altLabel xml:lang="mt">V</skos:altLabel>
+      <skos:altLabel xml:lang="nl">V</skos:altLabel>
+      <skos:altLabel xml:lang="pl">V</skos:altLabel>
+      <skos:altLabel xml:lang="pt">V</skos:altLabel>
+      <skos:altLabel xml:lang="ro">V</skos:altLabel>
+      <skos:altLabel xml:lang="sk">V</skos:altLabel>
+      <skos:altLabel xml:lang="sl">V</skos:altLabel>
+      <skos:altLabel xml:lang="sv">V</skos:altLabel>
+      <skos:definition xml:lang="en">The volt (V) is the derived unit for electric potential, electric potential difference (voltage) and electromotive force, defined as the difference in electric potential between two points of a conducting wire when an electric current of one ampere dissipates one watt of power between those points.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/measurement-unit/WTT"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">ват</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">watt</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">watt</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Watt</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">βατ</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">watt</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">vatio</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">vatt</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">watti</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">watt</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">vata</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">vat</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">watt</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">watt</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">vatas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">vati</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">watt</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">watt</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">wat</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">watt</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">watt</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">watt</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">vat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">watt</skos:prefLabel>
+      <at:authority-code>WTT</at:authority-code>
+      <at:op-code>WTT</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>WTT</atold:op-code>
+      <dc:identifier>WTT</dc:identifier>
+      <skos:altLabel xml:lang="bg">Вт</skos:altLabel>
+      <skos:altLabel xml:lang="cs">W</skos:altLabel>
+      <skos:altLabel xml:lang="da">W</skos:altLabel>
+      <skos:altLabel xml:lang="de">W</skos:altLabel>
+      <skos:altLabel xml:lang="el">W</skos:altLabel>
+      <skos:altLabel xml:lang="en">W</skos:altLabel>
+      <skos:altLabel xml:lang="es">W</skos:altLabel>
+      <skos:altLabel xml:lang="et">W</skos:altLabel>
+      <skos:altLabel xml:lang="fi">W</skos:altLabel>
+      <skos:altLabel xml:lang="fr">W</skos:altLabel>
+      <skos:altLabel xml:lang="ga">W</skos:altLabel>
+      <skos:altLabel xml:lang="hr">W</skos:altLabel>
+      <skos:altLabel xml:lang="hu">W</skos:altLabel>
+      <skos:altLabel xml:lang="it">W</skos:altLabel>
+      <skos:altLabel xml:lang="lt">W</skos:altLabel>
+      <skos:altLabel xml:lang="lv">W</skos:altLabel>
+      <skos:altLabel xml:lang="mt">W</skos:altLabel>
+      <skos:altLabel xml:lang="nl">W</skos:altLabel>
+      <skos:altLabel xml:lang="pl">W</skos:altLabel>
+      <skos:altLabel xml:lang="pt">W</skos:altLabel>
+      <skos:altLabel xml:lang="ro">W</skos:altLabel>
+      <skos:altLabel xml:lang="sk">W</skos:altLabel>
+      <skos:altLabel xml:lang="sl">W</skos:altLabel>
+      <skos:altLabel xml:lang="sv">W</skos:altLabel>
+      <skos:definition xml:lang="en">The watt (W) is a unit of power in the International System of Units, defined as a derived unit of one joule per second and used to quantify the rate of energy transfer.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/measurement-unit"/>
+   </skos:Concept>
+</rdf:RDF>

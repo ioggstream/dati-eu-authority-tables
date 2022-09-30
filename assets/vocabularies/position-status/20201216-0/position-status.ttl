@@ -1,0 +1,421 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/position-status/ACTING> a skos:Concept ;
+    at:authority-code "ACTING" ;
+    at:deprecated "false" ;
+    at:op-code "ACTING" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "FF" ;
+            dc:source "WHOISWHO" ] ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "ACTING" ;
+    dc:identifier "ACTING" ;
+    skos:altLabel "Изпълняваща длъжността"@bg,
+        "Εκτελούσα καθήκοντα"@el,
+        "Pełniąca obowiązki"@pl,
+        "Poverená vykonávaním funkcie"@sk,
+        "Vršilka dolžnosti"@sl ;
+    skos:inScheme atold:position-status ;
+    skos:prefLabel "Изпълняващ длъжността"@bg,
+        "Pověřeno"@cs,
+        "Fungerende"@da,
+        "Mit der Wahrnehmung der Geschäfte beauftragt"@de,
+        "Εκτελών καθήκοντα"@el,
+        "Acting"@en,
+        "En funciones"@es,
+        "Kohusetäitja"@et,
+        "Virkaa toimittava"@fi,
+        "Faisant fonction"@fr,
+        "Gníomhach"@ga,
+        "Obnaša dužnost"@hr,
+        "Megbízott"@hu,
+        "Facente funzioni"@it,
+        "Laikinai einantis pareigas"@lt,
+        "Amata pienākumu izpildītājs"@lv,
+        "Aġent"@mt,
+        "Waarnemend"@nl,
+        "Pełniący obowiązki"@pl,
+        "Em exercício"@pt,
+        "Interimar"@ro,
+        "Poverený vykonávaním funkcie"@sk,
+        "Vršilec dolžnosti"@sl,
+        "Tillförordnad"@sv .
+
+<http://publications.europa.eu/resource/authority/position-status/AFF> a skos:Concept ;
+    at:authority-code "AFF" ;
+    at:deprecated "false" ;
+    at:op-code "AFF" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "AFF" ;
+            dc:source "WHOISWHO" ] ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "AFF" ;
+    dc:identifier "AFF" ;
+    skos:inScheme atold:position-status ;
+    skos:prefLabel "Назначение"@bg,
+        "Přidělení"@cs,
+        "Placering"@da,
+        "Stellenzuweisung"@de,
+        "Ανάθεση"@el,
+        "Assignment"@en,
+        "Destino"@es,
+        "Ametiülesanne"@et,
+        "Tehtäviin määrääminen"@fi,
+        "Affectation"@fr,
+        "Sannachán"@ga,
+        "Dodjela radnog mjesta"@hr,
+        "Kinevezés"@hu,
+        "Assegnazione"@it,
+        "Paskyrimas"@lt,
+        "Iecelts amatā"@lv,
+        "Assenjazzjoni"@mt,
+        "Tewerkstelling"@nl,
+        "Przypisanie"@pl,
+        "Afetação"@pt,
+        "Repartizare"@ro,
+        "Pridelenie"@sk,
+        "Dodelitev delovnega mesta"@sl,
+        "Tilldelad arbetsuppgift"@sv .
+
+<http://publications.europa.eu/resource/authority/position-status/AI> a skos:Concept ;
+    at:authority-code "AI" ;
+    at:deprecated "false" ;
+    at:op-code "AI" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "ADI" ;
+            dc:source "WHOISWHO" ] ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "AI" ;
+    dc:identifier "AI" ;
+    skos:altLabel "Временно изпълняващa длъжността"@bg,
+        "Προσωρινή"@el,
+        "Interina"@pt ;
+    skos:inScheme atold:position-status ;
+    skos:prefLabel "Временно изпълняващ длъжността"@bg,
+        "Prozatímní"@cs,
+        "Fungerende"@da,
+        "Ad interim"@de,
+        "Προσωρινός"@el,
+        "Ad Interim"@en,
+        "Ad Interim"@es,
+        "Kohusetäitja"@et,
+        "Sijainen"@fi,
+        "Ad Interim"@fr,
+        "Ad Interim"@ga,
+        "Ad interim"@hr,
+        "Ad Interim"@hu,
+        "Facente funzioni"@it,
+        "Laikinasis"@lt,
+        "Uz laiku"@lv,
+        "Ad Interim"@mt,
+        "Ad interim"@nl,
+        "Ad Interim"@pl,
+        "Interino"@pt,
+        "Ad Interim"@ro,
+        "Ad interim (dočasne)"@sk,
+        "Ad Interim"@sl,
+        "Tills vidare"@sv .
+
+<http://publications.europa.eu/resource/authority/position-status/DIS> a skos:Concept ;
+    at:authority-code "DIS" ;
+    at:deprecated "false" ;
+    at:op-code "DIS" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "DIS" ;
+            dc:source "WHOISWHO" ] ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "DIS" ;
+    dc:identifier "DIS" ;
+    skos:altLabel "Αποσπασμένη"@el,
+        "Postawiona do dyspozycji"@pl,
+        "Colocada à disposição"@pt,
+        "Poskytnutá k dispozícii"@sk ;
+    skos:inScheme atold:position-status ;
+    skos:prefLabel "Предоставено на разположение"@bg,
+        "Dáno k dispozici"@cs,
+        "Stillet til rådighed"@da,
+        "Zurverfügungstellung"@de,
+        "Αποσπασμένος"@el,
+        "Placed at the disposal"@en,
+        "Adscrito"@es,
+        "Antakse käsutusse"@et,
+        "Siirretty palvelukseen"@fi,
+        "Mis à disposition"@fr,
+        "Curtha ar fáil"@ga,
+        "Stavljen na raspolaganje"@hr,
+        "Rendelkezésre bocsátva"@hu,
+        "Messo a disposizione"@it,
+        "Perduotas dispozicijai"@lt,
+        "Nodots rīcībā"@lv,
+        "Imqiegħda għad-dispożizzjoni"@mt,
+        "Overgeplaatst"@nl,
+        "Postawiony do dyspozycji"@pl,
+        "Colocado à disposição"@pt,
+        "Pus la dispoziție"@ro,
+        "Poskytnutý k dispozícii"@sk,
+        "Na voljo"@sl,
+        "Ställd till förfogande"@sv .
+
+<http://publications.europa.eu/resource/authority/position-status/DISDL> a skos:Concept ;
+    at:authority-code "DISDL" ;
+    at:deprecated "false" ;
+    at:op-code "DISDL" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "DISDL" ;
+            dc:source "WHOISWHO" ] ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "DISDL" ;
+    dc:identifier "DISDL" ;
+    skos:altLabel "Αποσπασμένη σε αντιπροσωπεία"@el,
+        "Postawiona do dyspozycji delegatury"@pl,
+        "Colocada à disposição numa delegação"@pt,
+        "Poskytnutá k dispozícii v delegácii"@sk ;
+    skos:inScheme atold:position-status ;
+    skos:prefLabel "Предоставено на разположение в делегация"@bg,
+        "Dáno k dispozici na delegaci"@cs,
+        "Stillet til rådighed i en delegation"@da,
+        "In einer Delegation zur Verfügung gestellt"@de,
+        "Αποσπασμένος σε αντιπροσωπεία"@el,
+        "Placed at disposal in a delegation"@en,
+        "Acreditado en una delegación"@es,
+        "Antakse käsutusse delegatsioonis"@et,
+        "Siirretty palvelukseen edustustossa"@fi,
+        "Mis à disposition dans une délégation"@fr,
+        "Curtha ar fáil i dtoscaireacht"@ga,
+        "Stavljen na raspolaganje u izaslanstvu"@hr,
+        "Egy küldöttségben rendelkezésre bocsátva"@hu,
+        "Messo a disposizione di una delegazione"@it,
+        "Perduotas delegacijos dispozicijai"@lt,
+        "Nodots delegācijas rīcībā"@lv,
+        "Imqiegħda għad-dispożizzjoni f’delegazzjoni"@mt,
+        "Overgeplaatst naar een delegatie"@nl,
+        "Postawiony do dyspozycji delegatury"@pl,
+        "Colocado à disposição numa delegação"@pt,
+        "Pus la dispoziție într-o delegație"@ro,
+        "Poskytnutý k dispozícii v delegácii"@sk,
+        "Na voljo v delegaciji"@sl,
+        "Ställd till förfogande i en delegation"@sv .
+
+<http://publications.europa.eu/resource/authority/position-status/HDR> a skos:Concept ;
+    at:authority-code "HDR" ;
+    at:deprecated "false" ;
+    at:op-code "HDR" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "HDR" ;
+            dc:source "WHOISWHO" ] ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "HDR" ;
+    dc:identifier "HDR" ;
+    skos:inScheme atold:position-status ;
+    skos:prefLabel "Предаване на поста"@bg,
+        "Přestup"@cs,
+        "Overdragelse"@da,
+        "Übergabe"@de,
+        "Παράδοση"@el,
+        "Handover"@en,
+        "Transición"@es,
+        "Üleandmine"@et,
+        "Tehtävien siirto"@fi,
+        "Transition"@fr,
+        "Aistriú"@ga,
+        "Primopredaja dužnosti"@hr,
+        "Átadás"@hu,
+        "Passaggio delle consegne"@it,
+        "Perdavimas"@lt,
+        "Pāreja"@lv,
+        "Trasferiment tal-kariga"@mt,
+        "Overdracht"@nl,
+        "Przekazanie obowiązków"@pl,
+        "Transição"@pt,
+        "Predarea mandatului"@ro,
+        "Odovzdanie"@sk,
+        "Primopredaja"@sl,
+        "Överlämning"@sv .
+
+<http://publications.europa.eu/resource/authority/position-status/OCUP_NO> a skos:Concept ;
+    at:authority-code "OCUP_NO" ;
+    at:deprecated "false" ;
+    at:op-code "OCUP_NO" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "INO" ;
+            dc:source "WHOISWHO" ] ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "OCUP_NO" ;
+    dc:identifier "OCUP_NO" ;
+    skos:inScheme atold:position-status ;
+    skos:prefLabel "Незает пост"@bg,
+        "Neobsazeno"@cs,
+        "Ikke besat"@da,
+        "Nicht besetzt"@de,
+        "Μη κατειλημμένη"@el,
+        "Not occupied"@en,
+        "No ocupado"@es,
+        "Täitmata"@et,
+        "Täyttämättä oleva"@fi,
+        "Inoccupé"@fr,
+        "Gan líonadh"@ga,
+        "Nije popunjeno"@hr,
+        "Betöltetlen"@hu,
+        "Non occupato"@it,
+        "Neužimtas"@lt,
+        "Neaizņemts"@lv,
+        "Mhux okkupat"@mt,
+        "Vacant"@nl,
+        "Nieobsadzony"@pl,
+        "Não ocupado"@pt,
+        "Neocupat"@ro,
+        "Neobsadené"@sk,
+        "Ni zasedeno"@sl,
+        "Inte tillsatt"@sv .
+
+<http://publications.europa.eu/resource/authority/position-status/OCUP_SECOM> a skos:Concept ;
+    at:authority-code "OCUP_SECOM" ;
+    at:deprecated "false" ;
+    at:op-code "OCUP_SECOM" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "DET" ;
+            dc:source "WHOISWHO" ] ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "OCUP_SECOM" ;
+    dc:identifier "OCUP_SECOM" ;
+    skos:inScheme atold:position-status ;
+    skos:prefLabel "Длъжност по време на командироване в институцията"@bg,
+        "Zaměstnání během dočasného přidělení v orgánu"@cs,
+        "Beskæftigelse under udstationering i institutionen"@da,
+        "Tätigkeit während einer Abordnung zu einem Organ"@de,
+        "Απασχόληση στο πλαίσιο απόσπασης στο όργανο"@el,
+        "Occupation during a secondment in the institution"@en,
+        "Ocupación durante una comisión de servicio en la institución"@es,
+        "Amet institutsioonis lähetuse ajal"@et,
+        "Toimielimeen muihin tehtäviin tilapäisesti siirretyn tavanomainen tehtävä"@fi,
+        "Occupation pendant un détachement au sein de l’institution"@fr,
+        "Post le linn tréimhse iasachta san institiúid"@ga,
+        "Funkcija tijekom upućivanja u instituciju"@hr,
+        "Az intézményben a kirendelés ideje alatt betöltött foglalkozás"@hu,
+        "Occupazione durante un distaccamento presso l’istituzione"@it,
+        "Pareigos komandiruotės institucijoje metu"@lt,
+        "Amats norīkojuma laikā iestādē"@lv,
+        "Okkupazzjoni matul is-sekondar fl-istituzzjoni"@mt,
+        "Functie tijdens detachering bij de instelling"@nl,
+        "Zajęcie podczas oddelegowania w instytucji"@pl,
+        "Ocupação durante um destacamento na instituição"@pt,
+        "Ocupare pe durata unei detașări în cadrul instituției"@ro,
+        "Profesijná činnosť počas vyslania v inštitúcii"@sk,
+        "Poklicna dejavnost med napotitvijo v institucijo"@sl,
+        "Ordinarie arbetsuppgift i institutionen"@sv .
+
+<http://publications.europa.eu/resource/authority/position-status/OP_DATPRO> a skos:Concept ;
+    at:op-code "OP_DATPRO" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:position-status ;
+    skos:prefLabel "НЕОКОНЧАТЕЛНИ ДАННИ"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv .
+
+<http://publications.europa.eu/resource/authority/position-status/REPL_TEMP> a skos:Concept ;
+    at:authority-code "REPL_TEMP" ;
+    at:deprecated "false" ;
+    at:op-code "REPL_TEMP" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "REPL" ;
+            dc:source "WHOISWHO" ] ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "REPL_TEMP" ;
+    dc:identifier "REPL_TEMP" ;
+    skos:inScheme atold:position-status ;
+    skos:prefLabel "Временно заместване"@bg,
+        "Dočasně nahrazeno"@cs,
+        "Midlertidig erstatning"@da,
+        "Vertretung"@de,
+        "Προσωρινή αντικατάσταση"@el,
+        "Temporary replacement"@en,
+        "Sustitución temporal"@es,
+        "Ajutine asendamine"@et,
+        "Tilapäinen korvaaminen"@fi,
+        "Remplacement temporaire"@fr,
+        "Ionadú sealadach"@ga,
+        "Privremena zamjena"@hr,
+        "Ideiglenes helyettesítés"@hu,
+        "Sostituzione temporanea"@it,
+        "Laikinai pakeičia"@lt,
+        "Pagaidu aizstāšana"@lv,
+        "Sostituzzjoni temporanja"@mt,
+        "Tijdelijke vervanging"@nl,
+        "Tymczasowe zastępstwo"@pl,
+        "Substituição temporária"@pt,
+        "Înlocuire temporară"@ro,
+        "Dočasné nahradenie"@sk,
+        "Nadomeščanje"@sl,
+        "Tillfällig ersättare"@sv .
+
+<http://publications.europa.eu/resource/authority/position-status/RESV> a skos:Concept ;
+    at:authority-code "RESV" ;
+    at:deprecated "false" ;
+    at:op-code "RESV" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "RES" ;
+            dc:source "WHOISWHO" ] ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "RESV" ;
+    dc:identifier "RESV" ;
+    skos:inScheme atold:position-status ;
+    skos:prefLabel "Запазена"@bg,
+        "Vyhrazeno"@cs,
+        "Reserveret"@da,
+        "Reserviert"@de,
+        "Δεσμευμένη"@el,
+        "Reserved"@en,
+        "Reservado"@es,
+        "Reserveeritud"@et,
+        "Varattu"@fi,
+        "Réservé"@fr,
+        "Curtha in áirithe"@ga,
+        "Rezervirano"@hr,
+        "Fenntartva"@hu,
+        "Riservato"@it,
+        "Rezervuotas"@lt,
+        "Rezervēts"@lv,
+        "Riżervat"@mt,
+        "Gereserveerd"@nl,
+        "Zarezerwowany"@pl,
+        "Reservado"@pt,
+        "Rezervat"@ro,
+        "Vyhradené"@sk,
+        "Rezervirano"@sl,
+        "Reserverad"@sv .
+
+atold:position-status a skos:ConceptScheme ;
+    rdfs:label "Position status"@en ;
+    at:prefLabel "Position status"@en ;
+    at:table.id "position-status" ;
+    at:table.version.number "20201216-0" ;
+    owl:versionInfo "20201216-0" ;
+    skos:prefLabel "Position status"@en .
+

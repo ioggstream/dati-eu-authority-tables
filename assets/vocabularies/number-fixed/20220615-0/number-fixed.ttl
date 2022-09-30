@@ -1,0 +1,119 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/number-fixed/OP_DATPRO> a skos:Concept ;
+    at:authority-code "OP_DATPRO" ;
+    at:deprecated "false" ;
+    at:op-code "OP_DATPRO" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:number-fixed ;
+    skos:prefLabel "Неокончателни данни"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv ;
+    skos:topConceptOf atold:number-fixed .
+
+<http://publications.europa.eu/resource/authority/number-fixed/fix-tot> a skos:Concept ;
+    at:authority-code "fix-tot" ;
+    at:deprecated "false" ;
+    at:op-code "fix-tot" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "fix-tot" ;
+    dc:identifier "fix-tot" ;
+    skos:definition "The total agreed price is a non-variable sum."@en ;
+    skos:inScheme atold:number-fixed ;
+    skos:prefLabel "Фиксирана стойност (общо)"@bg,
+        "Pevná hodnota (celkem)"@cs,
+        "Fast værdi (i alt)"@da,
+        "Fester Wert (insgesamt)"@de,
+        "Σταθερή αξία (σύνολο)"@el,
+        "Fixed value (total)"@en,
+        "Valor fijo (total)"@es,
+        "Fikseeritud väärtus (kokku)"@et,
+        "Kiinteä arvo (yhteensä)"@fi,
+        "Valeur fixe (total)"@fr,
+        "Luach seasta (iomlán)"@ga,
+        "Fiksna vrijednost (ukupno)"@hr,
+        "Rögzített érték (összesen)"@hu,
+        "Valore fisso (totale)"@it,
+        "Fiksuota vertė (iš viso)"@lt,
+        "Fiksētā vērtība (kopā)"@lv,
+        "Valur fiss (total)"@mt,
+        "Vaste waarde (totaal)"@nl,
+        "Stała wartość (całkowita)"@pl,
+        "Valor fixo (total)"@pt,
+        "Valoare fixă (total)"@ro,
+        "Pevná hodnota (spolu)"@sk,
+        "Fiksna vrednost (skupaj)"@sl,
+        "Fast värde (totalt)"@sv ;
+    skos:topConceptOf atold:number-fixed .
+
+<http://publications.europa.eu/resource/authority/number-fixed/fix-unit> a skos:Concept ;
+    at:authority-code "fix-unit" ;
+    at:deprecated "false" ;
+    at:op-code "fix-unit" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "fix-unit" ;
+    dc:identifier "fix-unit" ;
+    skos:definition "The agreed price per unit is a non-variable sum."@en ;
+    skos:inScheme atold:number-fixed ;
+    skos:prefLabel "Фиксирана стойност (за единица)"@bg,
+        "Pevná hodnota (za jednotku)"@cs,
+        "Fast værdi (pr. enhed)"@da,
+        "Fester Wert (pro Einheit)"@de,
+        "Σταθερή αξία (ανά μονάδα)"@el,
+        "Fixed value (per unit)"@en,
+        "Valor fijo (por unidad)"@es,
+        "Fikseeritud väärtus (ühiku kohta)"@et,
+        "Kiinteä arvo (yksikköä kohti)"@fi,
+        "Valeur fixe (par unité)"@fr,
+        "Luach seasta (in aghaidh an aonaid)"@ga,
+        "Fiksna vrijednost (po jedinici)"@hr,
+        "Rögzített érték (egységenként)"@hu,
+        "Valore fisso (per unità)"@it,
+        "Fiksuota vertė (vienetui)"@lt,
+        "Fiksētā vērtība (par vienību)"@lv,
+        "Valur fiss (għal kull unità)"@mt,
+        "Vaste waarde (per eenheid)"@nl,
+        "Stała wartość (na jednostkę)"@pl,
+        "Valor fixo (por unidade)"@pt,
+        "Valoare fixă (pe unitate)"@ro,
+        "Pevná hodnota (na jednotku)"@sk,
+        "Stalna vrednost (na enoto)"@sl,
+        "Fast värde (per enhet)"@sv ;
+    skos:topConceptOf atold:number-fixed .
+
+atold:number-fixed a skos:ConceptScheme ;
+    rdfs:label "Number fixed"@en ;
+    at:prefLabel "Number fixed"@en ;
+    at:table.id "number-fixed" ;
+    at:table.version.number "20220615-0" ;
+    owl:versionInfo "20220615-0" ;
+    skos:prefLabel "Number fixed"@en .
+

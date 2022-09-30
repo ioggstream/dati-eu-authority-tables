@@ -1,0 +1,154 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/document-identifier-format/COM_NUMBER> a skos:Concept ;
+    at:authority-code "COM_NUMBER" ;
+    at:deprecated "false" ;
+    at:op-code "COM_NUMBER" ;
+    at:start.use "2021-05-11" ;
+    atold:op-code "COM_NUMBER" ;
+    dc:identifier "COM_NUMBER" ;
+    skos:definition "COM number is a document identifier of the European Commission comprising the following elements: \"COM\" <year> <sequential number> (e.g. COM(2019) 370). In AKN4EU, it is used to identify the components of a document identifier that follows the COM documents syntax."@en ;
+    skos:inScheme atold:document-identifier-format ;
+    skos:prefLabel "COM номер"@bg,
+        "Číslo COM"@cs,
+        "COM-nummer"@da,
+        "COM-Nummer"@de,
+        "Αριθμός COM"@el,
+        "COM number"@en,
+        "Número COM"@es,
+        "COMi number"@et,
+        "COM-numero"@fi,
+        "Numéro COM"@fr,
+        "Uimhir COM"@ga,
+        "Broj COM"@hr,
+        "COM-szám"@hu,
+        "Numero COM"@it,
+        "COM numeris"@lt,
+        "COM numurs"@lv,
+        "Numru COM"@mt,
+        "COM-nummer"@nl,
+        "Numer COM"@pl,
+        "Número COM"@pt,
+        "Număr COM"@ro,
+        "Číslo COM"@sk,
+        "Številka COM"@sl,
+        "COM-nummer"@sv ;
+    skos:topConceptOf atold:document-identifier-format .
+
+<http://publications.europa.eu/resource/authority/document-identifier-format/CSL_NUMBER> a skos:Concept ;
+    at:authority-code "CSL_NUMBER" ;
+    at:deprecated "false" ;
+    at:op-code "CSL_NUMBER" ;
+    at:start.use "2021-05-11" ;
+    atold:op-code "CSL_NUMBER" ;
+    dc:identifier "CSL_NUMBER" ;
+    skos:definition "CSL number is a document identifier of the European Council comprising the following elements: <sequential number> <suffix> <year> (e.g. 05112/1/2020). In AKN4EU, it is used to identify the components of the identifier used by the Council for its internal documents."@en ;
+    skos:inScheme atold:document-identifier-format ;
+    skos:prefLabel "CSL номер"@bg,
+        "Número CSL"@cs,
+        "CSL-nummer"@da,
+        "CSL-Nummer"@de,
+        "Αριθμός CSL"@el,
+        "CSL number"@en,
+        "Número CSL"@es,
+        "CSLi number"@et,
+        "CSL-numero"@fi,
+        "Numéro CSL"@fr,
+        "Uimhir CSL"@ga,
+        "Broj CSL"@hr,
+        "CSL-szám"@hu,
+        "Numero CSL"@it,
+        "CSL numeris"@lt,
+        "CSL numurs"@lv,
+        "Numru CSL"@mt,
+        "CSL-nummer"@nl,
+        "Numer CSL"@pl,
+        "Número CSL"@pt,
+        "Număr CSL"@ro,
+        "Číslo CSL"@sk,
+        "Številka CSL"@sl,
+        "CSL-nummer"@sv ;
+    skos:topConceptOf atold:document-identifier-format .
+
+<http://publications.europa.eu/resource/authority/document-identifier-format/OP_DATPRO> a skos:Concept ;
+    at:authority-code "OP_DATPRO" ;
+    at:deprecated "false" ;
+    at:op-code "OP_DATPRO" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:document-identifier-format ;
+    skos:prefLabel "НЕОКОНЧАТЕЛНИ ДАННИ"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv ;
+    skos:topConceptOf atold:document-identifier-format .
+
+<http://publications.europa.eu/resource/authority/document-identifier-format/SESSION_NUMBER> a skos:Concept ;
+    at:authority-code "SESSION_NUMBER" ;
+    at:deprecated "false" ;
+    at:op-code "SESSION_NUMBER" ;
+    at:start.use "2021-05-11" ;
+    atold:op-code "SESSION_NUMBER" ;
+    dc:identifier "SESSION_NUMBER" ;
+    skos:definition "Session number is a document identifier of the European Parliament comprising the following elements: <type of document> <number of legislature> <sequential number> <year> (e.g. B9-0078/2020). In AKN4EU, it is used to identify the components of the identifier used by the European Parliament for the session identifier of all documents presented at a plenary session."@en ;
+    skos:inScheme atold:document-identifier-format ;
+    skos:prefLabel "Номер на заседание"@bg,
+        "Číslo zasedání"@cs,
+        "Mødenummer"@da,
+        "Sitzungsnummer"@de,
+        "Αριθμός συνεδρίας"@el,
+        "Session number"@en,
+        "Número de sesión"@es,
+        "Istungi number"@et,
+        "Istunnon numero"@fi,
+        "Numéro de session"@fr,
+        "Uimhir sheisiúin"@ga,
+        "Broj sjednice"@hr,
+        "Ülés száma"@hu,
+        "Numero sessione"@it,
+        "Sesijos numeris"@lt,
+        "Sēdes numurs"@lv,
+        "Numru tas-sessjoni"@mt,
+        "Zittingsnummer"@nl,
+        "Numer sesji"@pl,
+        "Número da sessão"@pt,
+        "Numărul sesiunii"@ro,
+        "Číslo zasadnutia"@sk,
+        "Številka seje"@sl,
+        "Sessionsnummer"@sv ;
+    skos:topConceptOf atold:document-identifier-format .
+
+atold:document-identifier-format a skos:ConceptScheme ;
+    rdfs:label "Document identifier format"@en ;
+    at:prefLabel "Document identifier format"@en ;
+    at:table.id "document-identifier-format" ;
+    at:table.version.number "20210929-0" ;
+    owl:versionInfo "20210929-0" ;
+    skos:prefLabel "Document identifier format"@en .
+

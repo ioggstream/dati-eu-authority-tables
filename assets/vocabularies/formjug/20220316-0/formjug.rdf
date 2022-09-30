@@ -1,0 +1,2123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:at="http://publications.europa.eu/ontology/authority/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:euvoc="http://publications.europa.eu/ontology/euvoc#"
+         xmlns:dct="http://purl.org/dc/terms/"
+         xmlns:atold="http://publications.europa.eu/resource/authority/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xml:base="http://publications.europa.eu/resource/authority/formjug">
+   <skos:ConceptScheme rdf:about="http://publications.europa.eu/resource/authority/formjug"
+                       at:table.id="formjug"
+                       at:table.version.number="20220316-0">
+      <at:prefLabel xml:lang="en">Formation of the Court</at:prefLabel>
+      <rdfs:label xml:lang="en">Formation of the Court</rdfs:label>
+      <owl:versionInfo>20220316-0</owl:versionInfo>
+      <skos:prefLabel xml:lang="en">Formation of the Court</skos:prefLabel>
+   </skos:ConceptScheme>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/00250863805e996b05539f8e09426add">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1988-01-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>6</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/015961de2d6d3d0a279129cf91a5187a">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-07-24</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>VII</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/039d7a58c8f10d2dec6df21741af331c">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1988-01-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>1</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/05e461b9c9724b1b0edc6edad2df1830">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1988-01-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>3</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/0655efc3b29cbfb71d8f9537cc00211d">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1988-01-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>4-G</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/072b00b082fec0a537566a71e2c5bfde">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1988-01-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>7</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/0782a23d282c31f8b34f9e25b1dce31e">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1988-01-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>2-G</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/0c832b1ce5688a7ac2fc48736ddf914a">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-07-24</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>PP V+IV</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/10ea038cb78d5aa46dddd8bc90b2f66c">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-07-24</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>X</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/1196bbc15058c51227b499b178601165">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-07-24</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>II</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/121130bc708268800de0b1bc627d2676">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-07-24</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>PP VI+I</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/17773492632a8f3a5ca555c996a5db59">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1988-01-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>5-G</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/1f7621e138edfb4288ab971ebcdbef26">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-07-24</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>JDR</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/2f3c2d749e16fdcf752b46580787ce9e">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1988-01-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>5</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/338d9bbb1905d23541fbf649239bd348">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-07-24</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>V</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/3655320128b2cdeba8fcc49d95bf568e">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-07-24</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>VI</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/3ba43dbd33c646f3d49ffd915b7a7895">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-09-16</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-04-30</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>9-G</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/451bfe5c299093517ba1fd47a056836f">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2004-11-02</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>3</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/4a9a9b8f85df6ee404f9fe490b677ff6">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-07-24</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>P/CH</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/4ee0024316fe5e3679e5e96669e98be2">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1988-01-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>8-G</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/51c575e02eb7579f3379e3267f25b6e6">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-07-24</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>PP VI+III</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/52b27b21eb395104fa1e1343812e1b14">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2003-08-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>AP</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/5417b1ae448a4e6514eeb89beba4fb7d">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-07-24</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>I</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/63606b60e354a66096f44274d5b8a5d2">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1988-01-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>8</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/6e1fb2602ca5b9eb1cb790ee3d0ffea1">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2004-11-02</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>AP</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/762cdb11966af430f8a42e6210057c0f">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2004-11-02</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-10-10</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>P</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/7801d7d71cfde8cb6f92aa1c2bf60f9e">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1988-01-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>7-G</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/7e0d1e2ec282d9eb766baca0888b4580">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1988-01-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>C_PV</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/80c14bf5e75130f7c179f657687a73bd">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1988-01-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>4</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/80e7039ea0ba74db8438977ee522ec23">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-07-24</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>GC</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/82c2e1929763a160e6ff5016b3c9bd67">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-07-24</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>III</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/86603371e60779a49c59ab8ce45d447e">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1988-01-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>1-G</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/8fb33a4f0b2b3eb887a7c4a238148c64">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1988-01-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-10-10</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>P</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/97fffda53df8ff64e07e541d7878b9cd">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-07-24</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>C_RX</rdf:value>
+   </euvoc:XlNotation>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/CHAMB_01_C"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Първи състав</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">První senát</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Første Afdeling</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Erste Kammer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Πρώτο τμήμα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">First Chamber</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Sala Primera</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Esimene koda</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Ensimmäinen jaosto</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Première chambre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An Chéad Dlísheomra</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Prvo vijeće</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Első tanács</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Prima Sezione</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Pirmoji kolegija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Pirmā palāta</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">L-Ewwel Awla</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Eerste kamer</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Pierwsza izba</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Primeira Secção</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Camera întâi</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Prvá komora</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Prvi senat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Första avdelningen</skos:prefLabel>
+      <at:authority-code>CHAMB_01_C</at:authority-code>
+      <at:op-code>CHAMB_01_C</at:op-code>
+      <at:start.use>1952-07-24</at:start.use>
+      <atold:op-code>CHAMB_01_C</atold:op-code>
+      <dc:identifier>CHAMB_01_C</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/5417b1ae448a4e6514eeb89beba4fb7d"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/CHAMB_01_F"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Първи състав</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">První senát</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Første Afdeling</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Erste Kammer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Πρώτο τμήμα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">First Chamber</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Sala Primera</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Esimene koda</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Ensimmäinen jaosto</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Première chambre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An Chéad Dlísheomra</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Prvo vijeće</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Első tanács</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Prima Sezione</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Pirmoji kolegija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Pirmā palāta</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">L-Ewwel Awla</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Eerste kamer</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Pierwsza izba</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Primeira Secção</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Camera întâi</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Prvá komora</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Prvi senat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Första avdelningen</skos:prefLabel>
+      <at:authority-code>CHAMB_01_F</at:authority-code>
+      <at:op-code>CHAMB_01_F</at:op-code>
+      <at:start.use>2004-11-02</at:start.use>
+      <atold:op-code>CHAMB_01_F</atold:op-code>
+      <dc:identifier>CHAMB_01_F</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/ae1494c99e9efbfa29319c103ee98fe2"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/ae1494c99e9efbfa29319c103ee98fe2">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2004-11-02</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>1</rdf:value>
+   </euvoc:XlNotation>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/CHAMB_01_T"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Първи състав</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">První senát</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Første Afdeling</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Erste Kammer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Πρώτο τμήμα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">First Chamber</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Sala Primera</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Esimene koda</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Ensimmäinen jaosto</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Première chambre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An Chéad Dlísheomra</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Prvo vijeće</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Első tanács</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Prima Sezione</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Pirmoji kolegija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Pirmā palāta</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">L-Ewwel Awla</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Eerste kamer</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Pierwsza izba</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Primeira Secção</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Camera întâi</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Prvá komora</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Prvi senat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Första avdelningen</skos:prefLabel>
+      <at:authority-code>CHAMB_01_T</at:authority-code>
+      <at:op-code>CHAMB_01_T</at:op-code>
+      <at:start.use>1988-01-01</at:start.use>
+      <atold:op-code>CHAMB_01_T</atold:op-code>
+      <dc:identifier>CHAMB_01_T</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/039d7a58c8f10d2dec6df21741af331c"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/CHAMB_02_C"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Втори състав</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Druhý senát</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Anden Afdeling</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Zweite Kammer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Δεύτερο τμήμα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Second Chamber</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Sala Segunda</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Teine koda</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Toinen jaosto</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Deuxième chambre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An Dara Dlísheomra</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Drugo vijeće</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Második tanács</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Seconda Sezione</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Antroji kolegija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Otrā palāta</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">It-Tieni Awla</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Tweede kamer</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Druga izba</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Segunda Secção</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Camera a doua</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Druhá komora</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Drugi senat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Andra avdelningen</skos:prefLabel>
+      <at:authority-code>CHAMB_02_C</at:authority-code>
+      <at:op-code>CHAMB_02_C</at:op-code>
+      <at:start.use>1952-07-24</at:start.use>
+      <atold:op-code>CHAMB_02_C</atold:op-code>
+      <dc:identifier>CHAMB_02_C</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/1196bbc15058c51227b499b178601165"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/CHAMB_02_F"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Втори състав</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Druhý senát</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Anden Afdeling</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Zweite Kammer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Δεύτερο τμήμα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Second Chamber</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Sala Segunda</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Teine koda</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Toinen jaosto</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Deuxième chambre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An Dara Dlísheomra</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Drugo vijeće</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Második tanács</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Seconda Sezione</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Antroji kolegija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Otrā palāta</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">It-Tieni Awla</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Tweede kamer</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Druga izba</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Segunda Secção</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Camera a doua</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Druhá komora</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Drugi senat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Andra avdelningen</skos:prefLabel>
+      <at:authority-code>CHAMB_02_F</at:authority-code>
+      <at:op-code>CHAMB_02_F</at:op-code>
+      <at:start.use>2004-11-02</at:start.use>
+      <atold:op-code>CHAMB_02_F</atold:op-code>
+      <dc:identifier>CHAMB_02_F</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/bbfccf4857dff698bf90695ce8068ff2"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/bbfccf4857dff698bf90695ce8068ff2">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2004-11-02</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>2</rdf:value>
+   </euvoc:XlNotation>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/CHAMB_02_T"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Втори състав</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Druhý senát</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Anden Afdeling</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Zweite Kammer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Δεύτερο τμήμα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Second Chamber</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Sala Segunda</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Teine koda</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Toinen jaosto</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Deuxième chambre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An Dara Dlísheomra</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Drugo vijeće</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Második tanács</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Seconda Sezione</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Antroji kolegija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Otrā palāta</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">It-Tieni Awla</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Tweede kamer</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Druga izba</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Segunda Secção</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Camera a doua</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Druhá komora</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Drugi senat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Andra avdelningen</skos:prefLabel>
+      <at:authority-code>CHAMB_02_T</at:authority-code>
+      <at:op-code>CHAMB_02_T</at:op-code>
+      <at:start.use>1988-01-01</at:start.use>
+      <atold:op-code>CHAMB_02_T</atold:op-code>
+      <dc:identifier>CHAMB_02_T</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/a8789bdffe5b6999f6e7d815a6d72da8"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/a8789bdffe5b6999f6e7d815a6d72da8">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1988-01-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>2</rdf:value>
+   </euvoc:XlNotation>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/CHAMB_03_C"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Трети състав</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Třetí senát</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Tredje Afdeling</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Dritte Kammer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Τρίτο τμήμα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Third Chamber</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Sala Tercera</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Kolmas koda</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Kolmas jaosto</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Troisième chambre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An Tríú Dlísheomra</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Treće vijeće</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Harmadik tanács</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Terza Sezione</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Trečioji kolegija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Trešā palāta</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">It-Tielet Awla</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Derde kamer</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Trzecia izba</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Terceira Secção</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Camera a treia</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Tretia komora</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Tretji senat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Tredje avdelningen</skos:prefLabel>
+      <at:authority-code>CHAMB_03_C</at:authority-code>
+      <at:op-code>CHAMB_03_C</at:op-code>
+      <at:start.use>1952-07-24</at:start.use>
+      <atold:op-code>CHAMB_03_C</atold:op-code>
+      <dc:identifier>CHAMB_03_C</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/82c2e1929763a160e6ff5016b3c9bd67"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/CHAMB_03_F"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Трети състав</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Třetí senát</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Tredje Afdeling</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Dritte Kammer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Τρίτο τμήμα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Third Chamber</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Sala Tercera</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Kolmas koda</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Kolmas jaosto</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Troisième chambre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An Tríú Dlísheomra</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Treće vijeće</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Harmadik tanács</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Terza Sezione</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Trečioji kolegija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Trešā palāta</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">It-Tielet Awla</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Derde kamer</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Trzecia izba</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Terceira Secção</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Camera a treia</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Tretia komora</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Tretji senat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Tredje avdelningen</skos:prefLabel>
+      <at:authority-code>CHAMB_03_F</at:authority-code>
+      <at:op-code>CHAMB_03_F</at:op-code>
+      <at:start.use>2004-11-02</at:start.use>
+      <atold:op-code>CHAMB_03_F</atold:op-code>
+      <dc:identifier>CHAMB_03_F</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/451bfe5c299093517ba1fd47a056836f"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/CHAMB_03_T"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Трети състав</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Třetí senát</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Tredje Afdeling</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Dritte Kammer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Τρίτο τμήμα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Third Chamber</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Sala Tercera</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Kolmas koda</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Kolmas jaosto</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Troisième chambre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An Tríú Dlísheomra</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Treće vijeće</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Harmadik tanács</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Terza Sezione</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Trečioji kolegija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Trešā palāta</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">It-Tielet Awla</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Derde kamer</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Trzecia izba</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Terceira Secção</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Camera a treia</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Tretia komora</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Tretji senat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Tredje avdelningen</skos:prefLabel>
+      <at:authority-code>CHAMB_03_T</at:authority-code>
+      <at:op-code>CHAMB_03_T</at:op-code>
+      <at:start.use>1988-01-01</at:start.use>
+      <atold:op-code>CHAMB_03_T</atold:op-code>
+      <dc:identifier>CHAMB_03_T</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/05e461b9c9724b1b0edc6edad2df1830"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/CHAMB_04_C"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Четвърти състав</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Čtvrtý senát</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Fjerde Afdeling</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Vierte Kammer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Τέταρτο τμήμα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Fourth Chamber</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Sala Cuarta</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Neljas koda</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Neljäs jaosto</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Quatrième chambre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An Ceathrú Dlísheomra</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Četvrto vijeće</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Negyedik tanács</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Quarta Sezione</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Ketvirtoji kolegija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Ceturtā palāta</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Ir-Raba' Awla</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Vierde kamer</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Czwarta izba</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Quarta Secção</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Camera a patra</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Štvrtá komora</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Četrti senat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Fjärde avdelningen</skos:prefLabel>
+      <at:authority-code>CHAMB_04_C</at:authority-code>
+      <at:op-code>CHAMB_04_C</at:op-code>
+      <at:start.use>1952-07-24</at:start.use>
+      <atold:op-code>CHAMB_04_C</atold:op-code>
+      <dc:identifier>CHAMB_04_C</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/bcca2bb1e7a01ae82b3f2a8303248dc1"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/bcca2bb1e7a01ae82b3f2a8303248dc1">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-07-24</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>IV</rdf:value>
+   </euvoc:XlNotation>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/CHAMB_04_T"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Четвърти състав</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Čtvrtý senát</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Fjerde Afdeling</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Vierte Kammer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Τέταρτο τμήμα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Fourth Chamber</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Sala Cuarta</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Neljas koda</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Neljäs jaosto</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Quatrième chambre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An Ceathrú Dlísheomra</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Četvrto vijeće</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Negyedik tanács</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Quarta Sezione</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Ketvirtoji kolegija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Ceturtā palāta</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Ir-Raba' Awla</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Vierde kamer</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Czwarta izba</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Quarta Secção</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Camera a patra</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Štvrtá komora</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Četrti senat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Fjärde avdelningen</skos:prefLabel>
+      <at:authority-code>CHAMB_04_T</at:authority-code>
+      <at:op-code>CHAMB_04_T</at:op-code>
+      <at:start.use>1988-01-01</at:start.use>
+      <atold:op-code>CHAMB_04_T</atold:op-code>
+      <dc:identifier>CHAMB_04_T</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/80c14bf5e75130f7c179f657687a73bd"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/CHAMB_05_C"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Пети състав</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Pátý senát</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Femte Afdeling</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Fünfte Kammer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Πέμπτο τμήμα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Fifth Chamber</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Sala Quinta</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Viies koda</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Viides jaosto</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Cinquième chambre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An Cúigiú Dlísheomra</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Peto vijeće</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Ötödik tanács</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Quinta Sezione</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Penktoji kolegija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Piektā palāta</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Il-Ħames Awla</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Vijfde kamer</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Piąta izba</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Quinta Secção</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Camera a cincea</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Piata komora</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Peti senat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Femte avdelningen</skos:prefLabel>
+      <at:authority-code>CHAMB_05_C</at:authority-code>
+      <at:op-code>CHAMB_05_C</at:op-code>
+      <at:start.use>1952-07-24</at:start.use>
+      <atold:op-code>CHAMB_05_C</atold:op-code>
+      <dc:identifier>CHAMB_05_C</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/338d9bbb1905d23541fbf649239bd348"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/CHAMB_05_T"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Пети състав</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Pátý senát</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Femte Afdeling</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Fünfte Kammer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Πέμπτο τμήμα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Fifth Chamber</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Sala Quinta</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Viies koda</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Viides jaosto</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Cinquième chambre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An Cúigiú Dlísheomra</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Peto vijeće</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Ötödik tanács</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Quinta Sezione</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Penktoji kolegija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Piektā palāta</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Il-Ħames Awla</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Vijfde kamer</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Piąta izba</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Quinta Secção</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Camera a cincea</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Piata komora</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Peti senat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Femte avdelningen</skos:prefLabel>
+      <at:authority-code>CHAMB_05_T</at:authority-code>
+      <at:op-code>CHAMB_05_T</at:op-code>
+      <at:start.use>1988-01-01</at:start.use>
+      <atold:op-code>CHAMB_05_T</atold:op-code>
+      <dc:identifier>CHAMB_05_T</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/2f3c2d749e16fdcf752b46580787ce9e"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/CHAMB_06_C"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Шести състав</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Šestý senát</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Sjette Afdeling</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Sechste Kammer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Έκτο τμήμα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Sixth Chamber</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Sala Sexta</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Kuues koda</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Kuudes jaosto</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Sixième chambre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An Séú Dlísheomra</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Šesto vijeće</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Hatodik tanács</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Sesta Sezione</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Šeštoji kolegija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Sestā palāta</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Is-Sitt Awla</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Zesde kamer</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Szósta izba</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Sexta Secção</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Camera a șasea</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Šiesta komora</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Šesti senat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Sjätte avdelningen</skos:prefLabel>
+      <at:authority-code>CHAMB_06_C</at:authority-code>
+      <at:op-code>CHAMB_06_C</at:op-code>
+      <at:start.use>1952-07-24</at:start.use>
+      <atold:op-code>CHAMB_06_C</atold:op-code>
+      <dc:identifier>CHAMB_06_C</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/3655320128b2cdeba8fcc49d95bf568e"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/CHAMB_06_T"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Шести състав</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Šestý senát</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Sjette Afdeling</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Sechste Kammer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Έκτο τμήμα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Sixth Chamber</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Sala Sexta</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Kuues koda</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Kuudes jaosto</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Sixième chambre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An Séú Dlísheomra</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Šesto vijeće</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Hatodik tanács</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Sesta Sezione</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Šeštoji kolegija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Sestā palāta</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Is-Sitt Awla</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Zesde kamer</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Szósta izba</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Sexta Secção</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Camera a șasea</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Šiesta komora</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Šesti senat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Sjätte avdelningen</skos:prefLabel>
+      <at:authority-code>CHAMB_06_T</at:authority-code>
+      <at:op-code>CHAMB_06_T</at:op-code>
+      <at:start.use>1988-01-01</at:start.use>
+      <atold:op-code>CHAMB_06_T</atold:op-code>
+      <dc:identifier>CHAMB_06_T</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/00250863805e996b05539f8e09426add"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/CHAMB_07_C"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Седми състав</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Sedmý senát</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Syvende Afdeling</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Siebte Kammer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Έβδομο τμήμα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Seventh Chamber</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Sala Séptima</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Seitsmes koda</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Seitsemäs jaosto</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Septième chambre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An Seachtú Dlísheomra</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Sedmo vijeće</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Hetedik tanács</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Settima Sezione</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Septintoji kolegija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Septītā palāta</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Is-Seba' Awla</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Zevende kamer</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Siódma izba</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Sétima Secção</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Camera a șaptea</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Siedma komora</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Sedmi senat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Sjunde avdelningen</skos:prefLabel>
+      <at:authority-code>CHAMB_07_C</at:authority-code>
+      <at:op-code>CHAMB_07_C</at:op-code>
+      <at:start.use>1952-07-24</at:start.use>
+      <atold:op-code>CHAMB_07_C</atold:op-code>
+      <dc:identifier>CHAMB_07_C</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/015961de2d6d3d0a279129cf91a5187a"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/CHAMB_07_T"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Седми състав</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Sedmý senát</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Syvende Afdeling</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Siebte Kammer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Έβδομο τμήμα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Seventh Chamber</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Sala Séptima</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Seitsmes koda</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Seitsemäs jaosto</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Septième chambre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An Seachtú Dlísheomra</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Sedmo vijeće</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Hetedik tanács</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Settima Sezione</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Septintoji kolegija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Septītā palāta</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Is-Seba' Awla</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Zevende kamer</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Siódma izba</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Sétima Secção</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Camera a șaptea</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Siedma komora</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Sedmi senat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Sjunde avdelningen</skos:prefLabel>
+      <at:authority-code>CHAMB_07_T</at:authority-code>
+      <at:op-code>CHAMB_07_T</at:op-code>
+      <at:start.use>1988-01-01</at:start.use>
+      <atold:op-code>CHAMB_07_T</atold:op-code>
+      <dc:identifier>CHAMB_07_T</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/072b00b082fec0a537566a71e2c5bfde"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/CHAMB_08_C"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Осми състав</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Osmý senát</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Ottende Afdeling</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Achte Kammer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Όγδοο τμήμα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Eighth Chamber</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Sala Octava</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Kaheksas koda</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Kahdeksas jaosto</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Huitième chambre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An tOchtú Dlísheomra</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Osmo vijeće</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Nyolcadik tanács</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Ottava Sezione</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Aštuntoji kolegija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Astotā palāta</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">It-Tmien Awla</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Achtste kamer</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Ósma izba</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Oitava Secção</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Camera a opta</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Ôsma komora</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Osmi senat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Åttonde avdelningen</skos:prefLabel>
+      <at:authority-code>CHAMB_08_C</at:authority-code>
+      <at:op-code>CHAMB_08_C</at:op-code>
+      <at:start.use>1952-07-24</at:start.use>
+      <atold:op-code>CHAMB_08_C</atold:op-code>
+      <dc:identifier>CHAMB_08_C</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/de043553697e5e891fe82c2cb3859d2c"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/de043553697e5e891fe82c2cb3859d2c">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-07-24</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>VIII</rdf:value>
+   </euvoc:XlNotation>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/CHAMB_08_T"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Осми състав</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Osmý senát</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Ottende Afdeling</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Achte Kammer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Όγδοο τμήμα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Eighth Chamber</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Sala Octava</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Kaheksas koda</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Kahdeksas jaosto</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Huitième chambre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An tOchtú Dlísheomra</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Osmo vijeće</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Nyolcadik tanács</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Ottava Sezione</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Aštuntoji kolegija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Astotā palāta</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">It-Tmien Awla</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Achtste kamer</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Ósma izba</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Oitava Secção</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Camera a opta</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Ôsma komora</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Osmi senat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Åttonde avdelningen</skos:prefLabel>
+      <at:authority-code>CHAMB_08_T</at:authority-code>
+      <at:op-code>CHAMB_08_T</at:op-code>
+      <at:start.use>1988-01-01</at:start.use>
+      <atold:op-code>CHAMB_08_T</atold:op-code>
+      <dc:identifier>CHAMB_08_T</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/63606b60e354a66096f44274d5b8a5d2"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/CHAMB_09_C"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Девети състав</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Devátý senát</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Niende Afdeling</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Neunte Kammer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Ένατο τμήμα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Ninth Chamber</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Sala Novena</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Üheksas koda</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Yhdeksäs jaosto</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Neuvième chambre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An Naoú Dlísheomra</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Deveto vijeće</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Kilencedik tanács</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Nona Sezione</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Devintoji kolegija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Devītā palāta</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Id-Disa’ Awla</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Negende kamer</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Dziewiąta izba</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Nona Secção</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Camera a noua</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Deviata komora</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Deveti senat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Nionde avdelningen</skos:prefLabel>
+      <at:authority-code>CHAMB_09_C</at:authority-code>
+      <at:op-code>CHAMB_09_C</at:op-code>
+      <at:start.use>1952-07-24</at:start.use>
+      <atold:op-code>CHAMB_09_C</atold:op-code>
+      <dc:identifier>CHAMB_09_C</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/c8f3f4923db16a741280a2fe7a28d900"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/c8f3f4923db16a741280a2fe7a28d900">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-07-24</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>IX</rdf:value>
+   </euvoc:XlNotation>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/CHAMB_10_C"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Десети състав</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Desátý senát</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Tiende Afdeling</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Zehnte Kammer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Δέκατο τμήμα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Tenth Chamber</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Sala Décima</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Kümnes koda</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Kymmenes jaosto</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Dixième chambre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An Deichiú Dlísheomra</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Deseto vijeće</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Tizedik tanács</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Decima Sezione</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Dešimtoji kolegija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Desmitā palāta</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">L-Għaxar Awla</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Tiende kamer</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Dziesiąta izba</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Décima Secção</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Camera a zecea</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Desiata komora</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Deseti senat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Tionde avdelningen</skos:prefLabel>
+      <at:authority-code>CHAMB_10_C</at:authority-code>
+      <at:op-code>CHAMB_10_C</at:op-code>
+      <at:start.use>1952-07-24</at:start.use>
+      <atold:op-code>CHAMB_10_C</atold:op-code>
+      <dc:identifier>CHAMB_10_C</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/10ea038cb78d5aa46dddd8bc90b2f66c"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/CHAMB_APPEAL_T"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Състав по жалбите</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Kasační odvolací senát</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Appelafdelingen</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Rechtsmittelkammer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Τμήμα αναιρέσεων</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Appeals Chamber</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Sala de Casación</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Apellatsioonikoda</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Muutoksenhakujaosto</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Chambre des pourvois</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Dlísheomra Achomhairc</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Žalbeno vijeće</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Fellebbezési tanács</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Sezione delle impugnazioni</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Apeliacinių skundų kolegija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Apelācijas palāta</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Awla tal-Appell</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Kamer voor hogere voorzieningen</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Izba odwoławcza</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Secção dos Recursos</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Camera de recurs</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Odvolací senát</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Pritožbeni senat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Avdelningen för överklaganden</skos:prefLabel>
+      <at:authority-code>CHAMB_APPEAL_T</at:authority-code>
+      <at:op-code>CHAMB_APPEAL_T</at:op-code>
+      <at:start.use>1988-01-01</at:start.use>
+      <atold:op-code>CHAMB_APPEAL_T</atold:op-code>
+      <dc:identifier>CHAMB_APPEAL_T</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/7e0d1e2ec282d9eb766baca0888b4580"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_01_T"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Първи разширен състав</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">První rozšířený senát</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Første Udvidede Afdeling</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Erste erweiterte Kammer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Πρώτο πενταμελές τμήμα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">First Chamber, Extended Composition</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Sala Primera ampliada</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Esimene koda laiendatud koosseisus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Laajennettu ensimmäinen jaosto</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Première chambre élargie</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An Chéad Dlísheomra, Comhdhéanamh Méadaithe</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Prvo prošireno vijeće</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Kibővített első tanács</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Prima Sezione ampliata</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Pirmoji išplėstinė kolegija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Pirmā palāta paplašinātā sastāvā</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">L-Ewwel Awla Estiża</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Eerste kamer – uitgebreid</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Pierwsza izba w składzie powiększonym</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Primeira Secção Alargada</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Camera întâi extinsă</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Prvá rozšírená komora</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Prvi razširjeni senat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Första avdelningen i utökad sammansättning</skos:prefLabel>
+      <at:authority-code>CHAMB_EXTD_01_T</at:authority-code>
+      <at:op-code>CHAMB_EXTD_01_T</at:op-code>
+      <at:start.use>1988-01-01</at:start.use>
+      <atold:op-code>CHAMB_EXTD_01_T</atold:op-code>
+      <dc:identifier>CHAMB_EXTD_01_T</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/86603371e60779a49c59ab8ce45d447e"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_02_T"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Втори увеличен състав</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Druhý rozšířený senát</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Anden Udvidede Afdeling</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Zweite erweiterte Kammer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Δεύτερο πενταμελές τμήμα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Second Chamber, Extended Composition</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Sala Segunda ampliada</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Teine koda laiendatud koosseisus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Laajennettu toinen jaosto</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Deuxième chambre élargie</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An Dara Dlísheomra, Comhdhéanamh Méadaithe</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Drugo prošireno vijeće</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Kibővített második tanács</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Seconda Sezione ampliata</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Antroji išplėstinė kolegija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Otrā palāta paplašinātā sastāvā</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">It-Tieni Awla Estiża</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Tweede kamer – uitgebreid</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Druga izba w składzie powiększonym</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Segunda Secção Alargada</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Camera a doua extinsă</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Druhá rozšírená komora</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Drugi razširjeni senat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Andra avdelningen i utökad sammansättning</skos:prefLabel>
+      <at:authority-code>CHAMB_EXTD_02_T</at:authority-code>
+      <at:op-code>CHAMB_EXTD_02_T</at:op-code>
+      <at:start.use>1988-01-01</at:start.use>
+      <atold:op-code>CHAMB_EXTD_02_T</atold:op-code>
+      <dc:identifier>CHAMB_EXTD_02_T</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/0782a23d282c31f8b34f9e25b1dce31e"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_03_T"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Трети разширен състав</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Třetí rozšířený senát</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Tredje Udvidede Afdeling</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Dritte erweiterte Kammer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Τρίτο πενταμελές τμήμα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Third Chamber, Extended Composition</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Sala Tercera ampliada</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Kolmas koda laiendatud koosseisus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Laajennettu kolmas jaosto</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Troisième chambre élargie</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An Tríú Dlísheomra, Comhdhéanamh Méadaithe</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Treće prošireno vijeće</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Kibővített harmadik tanács</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Terza Sezione ampliata</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Trečioji išplėstinė kolegija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Trešā palāta paplašinātā sastāvā</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">It-Tielet Awla Estiża</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Derde kamer – uitgebreid</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Trzecia izba w składzie powiększonym</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Terceira Secção Alargada</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Camera a treia extinsă</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Tretia rozšírená komora</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Tretji razširjeni senat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Tredje avdelningen i utökad sammansättning</skos:prefLabel>
+      <at:authority-code>CHAMB_EXTD_03_T</at:authority-code>
+      <at:op-code>CHAMB_EXTD_03_T</at:op-code>
+      <at:start.use>1988-01-01</at:start.use>
+      <atold:op-code>CHAMB_EXTD_03_T</atold:op-code>
+      <dc:identifier>CHAMB_EXTD_03_T</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/b0858aa64c9069b76e2e35f6e51e9167"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/b0858aa64c9069b76e2e35f6e51e9167">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1988-01-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>3-G</rdf:value>
+   </euvoc:XlNotation>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_04_T"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Четвърти разширен състав</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Čtvrtý rozšířený senát</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Fjerde Udvidede Afdeling</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Vierte erweiterte Kammer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Τέταρτο πενταμελές τμήμα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Fourth Chamber, Extended Composition</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Sala Cuarta ampliada</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Neljas koda laiendatud koosseisus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Laajennettu neljäs jaosto</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Quatrième chambre élargie</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An Ceathrú Dlísheomra, Comhdhéanamh Méadaithe</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Četvrto prošireno vijeće</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Kibővített negyedik tanács</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Quarta Sezione ampliata</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Ketvirtoji išplėstinė kolegija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Ceturtā palāta paplašinātā sastāvā</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Ir-Raba' Awla Estiża</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Vierde kamer – uitgebreid</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Czwarta izba w składzie powiększonym</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Quarta Secção Alargada</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Camera a patra extinsă</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Štvrtá rozšírená komora</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Četrti razširjeni senat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Fjärde avdelningen i utökad sammansättning</skos:prefLabel>
+      <at:authority-code>CHAMB_EXTD_04_T</at:authority-code>
+      <at:op-code>CHAMB_EXTD_04_T</at:op-code>
+      <at:start.use>1988-01-01</at:start.use>
+      <atold:op-code>CHAMB_EXTD_04_T</atold:op-code>
+      <dc:identifier>CHAMB_EXTD_04_T</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/0655efc3b29cbfb71d8f9537cc00211d"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_05_T"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Пети увеличен състав</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Pátý rozšířený senát</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Femte Udvidede Afdeling</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Fünfte erweiterte Kammer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Πέμπτο πενταμελές τμήμα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Fifth Chamber, Extended Composition</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Sala Quinta ampliada</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Viies koda laiendatud koosseisus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Laajennettu viides jaosto</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Cinquième chambre élargie</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An Cúigiú Dlísheomra, Comhdhéanamh Méadaithe</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Peto prošireno vijeće</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Kibővített ötödik tanács</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Quinta Sezione ampliata</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Penktoji išplėstinė kolegija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Piektā palāta paplašinātā sastāvā</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Il-Ħames Awla Estiża</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Vijfde kamer – uitgebreid</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Piąta izba w składzie powiększonym</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Quinta Secção Alargada</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Camera a cincea extinsă</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Piata rozšírená komora</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Peti razširjeni senat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Femte avdelningen i utökad sammansättning</skos:prefLabel>
+      <at:authority-code>CHAMB_EXTD_05_T</at:authority-code>
+      <at:op-code>CHAMB_EXTD_05_T</at:op-code>
+      <at:start.use>1988-01-01</at:start.use>
+      <atold:op-code>CHAMB_EXTD_05_T</atold:op-code>
+      <dc:identifier>CHAMB_EXTD_05_T</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/17773492632a8f3a5ca555c996a5db59"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_06_T"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Шести разширен състав</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Šestý rozšířený senát</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Sjette Udvidede Afdeling</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Sechste erweiterte Kammer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Έκτο πενταμελές τμήμα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Sixth Chamber, Extended Composition</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Sala Sexta ampliada</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Kuues koda laiendatud koosseisus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Laajennettu kuudes jaosto</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Sixième chambre élargie</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An Séú Dlísheomra, Comhdhéanamh Méadaithe</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Šesto prošireno vijeće</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Kibővített hatodik tanács</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Sesta Sezione ampliata</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Šeštoji išplėstinė kolegija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Sestā palāta paplašinātā sastāvā</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Is-Sitt Awla Estiża</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Zesde kamer – uitgebreid</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Szósta izba w składzie powiększonym</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Sexta Secção Alargada</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Camera a șasea extinsă</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Šiesta rozšírená komora</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Šesti razširjeni senat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Sjätte avdelningen i utökad sammansättning</skos:prefLabel>
+      <at:authority-code>CHAMB_EXTD_06_T</at:authority-code>
+      <at:op-code>CHAMB_EXTD_06_T</at:op-code>
+      <at:start.use>1988-01-01</at:start.use>
+      <atold:op-code>CHAMB_EXTD_06_T</atold:op-code>
+      <dc:identifier>CHAMB_EXTD_06_T</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/c871099e28d5f9c834c4115f7bae0b5a"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/c871099e28d5f9c834c4115f7bae0b5a">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1988-01-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>6-G</rdf:value>
+   </euvoc:XlNotation>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_07_T"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Седми разширен състав</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Sedmý rozšířený senát</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Syvende Udvidede Afdeling</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Siebte erweiterte Kammer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Έβδομο πενταμελές τμήμα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Seventh Chamber, Extended Composition</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Sala Séptima ampliada</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Seitsmes koda laiendatud koosseisus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Laajennettu seitsemäs jaosto</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Septième chambre élargie</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An Seachtú Dlísheomra, Comhdhéanamh Méadaithe</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Sedmo prošireno vijeće</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Kibővített hetedik tanács</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Settima Sezione ampliata</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Septintoji išplėstinė kolegija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Septītā palāta paplašinātā sastāvā</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Is-Seba' Awla Estiża</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Zevende kamer –uitgebreid</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Siódma izba w składzie powiększonym</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Sétima Secção Alargada</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Camera a șaptea extinsă</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Siedma rozšírená komora</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Sedmi razširjeni senat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Sjunde avdelningen i utökad sammansättning</skos:prefLabel>
+      <at:authority-code>CHAMB_EXTD_07_T</at:authority-code>
+      <at:op-code>CHAMB_EXTD_07_T</at:op-code>
+      <at:start.use>1988-01-01</at:start.use>
+      <atold:op-code>CHAMB_EXTD_07_T</atold:op-code>
+      <dc:identifier>CHAMB_EXTD_07_T</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/7801d7d71cfde8cb6f92aa1c2bf60f9e"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_08_T"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Осми разширен състав</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Osmý rozšířený senát</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Ottende Udvidede Afdeling</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Achte erweiterte Kammer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Όγδοο πενταμελές τμήμα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Eighth Chamber, Extended Composition</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Sala Octava ampliada</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Kaheksas koda laiendatud koosseisus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Laajennettu kahdeksas jaosto</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Huitième chambre élargie</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An tOchtú Dlísheomra, Comhdhéanamh Méadaithe</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Osmo prošireno vijeće</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Kibővített nyolcadik tanács</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Ottava Sezione ampliata</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Aštuntoji išplėstinė kolegija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Astotā palāta paplašinātā sastāvā</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">It-Tmien Awla Estiża</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Achtste kamer – uitgebreid</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Ósma izba w składzie powiększonym</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Oitava Secção Alargada</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Camera a opta extinsă</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Ôsma rozšírená komora</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Osmi razširjeni senat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Åttonde avdelningen i utökad sammansättning</skos:prefLabel>
+      <at:authority-code>CHAMB_EXTD_08_T</at:authority-code>
+      <at:op-code>CHAMB_EXTD_08_T</at:op-code>
+      <at:start.use>1988-01-01</at:start.use>
+      <atold:op-code>CHAMB_EXTD_08_T</atold:op-code>
+      <dc:identifier>CHAMB_EXTD_08_T</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/4ee0024316fe5e3679e5e96669e98be2"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_09_T"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Девети разширен състав</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Devátý rozšířený senát</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Niende Udvidede Afdeling</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Neunte erweiterte Kammer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Ένατο πενταμελές τμήμα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Ninth Chamber, Extended Composition</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Sala Novena ampliada</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Üheksas koda laiendatud koosseisus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Laajennettu yhdeksäs jaosto</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Neuvième chambre élargie</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">An Naoú Dlísheomra, Comhdhéanamh Méadaithe</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Deveto prošireno vijeće</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Kibővített kilencedik tanács</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Nona Sezione ampliata</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Devintoji išplėstinė kolegija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Devītā palāta paplašinātā sastāvā</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Id-Disa' Awla Estiża</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Negende kamer – uitgebreid</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Dziewiąta izba w składzie powiększonym</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Nona Secção alargada</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Camera a noua extinsă</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Deviata rozšírená komora</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Deveti razširjeni senat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Nionde avdelningen i utökad sammansättning</skos:prefLabel>
+      <at:authority-code>CHAMB_EXTD_09_T</at:authority-code>
+      <at:op-code>CHAMB_EXTD_09_T</at:op-code>
+      <at:start.use>2013-09-16</at:start.use>
+      <atold:op-code>CHAMB_EXTD_09_T</atold:op-code>
+      <dc:identifier>CHAMB_EXTD_09_T</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/3ba43dbd33c646f3d49ffd915b7a7895"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/CHAMB_GD_C"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Голям състав</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Velký senát</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Store Afdeling</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Große Kammer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Τμήμα μείζονος συνθέσεως</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Grand Chamber</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Gran Sala</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Suurkoda</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Suuri jaosto</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Grande chambre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Mór-Dhlísheomra</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Veliko vijeće</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Nagytanács</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Grande Sezione</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Didžioji kolegija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Virspalāta</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Awla Manja</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Grote kamer</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Wielka izba</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Grande Secção</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Marea Cameră</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Veľká komora</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Veliki senat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Stora avdelningen</skos:prefLabel>
+      <at:authority-code>CHAMB_GD_C</at:authority-code>
+      <at:op-code>CHAMB_GD_C</at:op-code>
+      <at:start.use>1952-07-24</at:start.use>
+      <atold:op-code>CHAMB_GD_C</atold:op-code>
+      <dc:identifier>CHAMB_GD_C</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/80e7039ea0ba74db8438977ee522ec23"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/CHAMB_GD_T"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Голям състав</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Velký senát</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Store Afdeling</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Große Kammer</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Τμήμα μείζονος συνθέσεως</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Grand Chamber</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Gran Sala</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Suurkoda</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Suuri jaosto</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Grande chambre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Mór-Dhlísheomra</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Veliko vijeće</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Nagytanács</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Grande Sezione</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Didžioji kolegija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Virspalāta</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Awla Manja</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Grote kamer</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Wielka izba</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Grande Secção</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Marea Cameră</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Veľká komora</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Veliki senat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Stora avdelningen</skos:prefLabel>
+      <at:authority-code>CHAMB_GD_T</at:authority-code>
+      <at:op-code>CHAMB_GD_T</at:op-code>
+      <at:start.use>1988-01-01</at:start.use>
+      <atold:op-code>CHAMB_GD_T</atold:op-code>
+      <dc:identifier>CHAMB_GD_T</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/c59a7fbc61faaeb0db1b6fd6e09abaf1"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/c59a7fbc61faaeb0db1b6fd6e09abaf1">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1988-01-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>GC</rdf:value>
+   </euvoc:XlNotation>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/CHAMB_REVIEW_C"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Специален състав (преразглеждане)</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Zvláštní senát (přezkum)</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Den særlige afdeling (fornyet prøvelse)</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Besondere Kammer (Überprüfung)</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Ειδικό τμήμα (επανεξέταση)</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Special Chamber (review)</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Sala Especial (reexamen)</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Erikoda (uuesti läbivaatamine)</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Erityisjaosto (uudelleenkäsittely)</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Chambre spéciale (réexamen)</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Dlísheomra speisialta (athbhreithniú)</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Posebno vijeće (preispitivanje)</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Különtanács (felülvizsgálat)</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Sezione speciale (riesame)</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Specialioji kolegija (peržiūra)</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Īpaša palāta (pārskatīšana)</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Awla Speċjali (eżami mill-ġdid)</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Speciale kamer (heroverweging)</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Specjalna izba (szczególna procedura kontroli orzeczeń Sądu)</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Secção especial (reapreciação)</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Camera specială (reexaminare)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Osobitná komora (preskúmanie)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Poseben senat (preverjanje)</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Särskild avdelning (omprövning)</skos:prefLabel>
+      <at:authority-code>CHAMB_REVIEW_C</at:authority-code>
+      <at:op-code>CHAMB_REVIEW_C</at:op-code>
+      <at:start.use>1952-07-24</at:start.use>
+      <atold:op-code>CHAMB_REVIEW_C</atold:op-code>
+      <dc:identifier>CHAMB_REVIEW_C</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/97fffda53df8ff64e07e541d7878b9cd"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/FULL_COURT_C"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Пленум</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Soudci a generální advokáti</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Domstolens plenum</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Plenum</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Ολομέλεια</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Full Court</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Tribunal de Justicia (Pleno)</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Täiskogu</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Täysistunto</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Assemblée plénière</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Cúirt iomlán</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Sud u punom sastavu</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Teljes ülés</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Plenum</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Teisingumo Teismo plenarinė sesija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Tiesas plēnums</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Il-Qorti tal-Ġustizzja f'seduta plenarja</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Voltallig Hof</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Trybunał w pełnym składzie</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Tribunal Pleno</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Curtea în ședință plenară</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Súdny dvor zasadajúci v pléne</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Sodišče na občni seji</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Domstolen i plenum</skos:prefLabel>
+      <at:authority-code>FULL_COURT_C</at:authority-code>
+      <at:op-code>FULL_COURT_C</at:op-code>
+      <at:start.use>1952-07-24</at:start.use>
+      <atold:op-code>FULL_COURT_C</atold:op-code>
+      <dc:identifier>FULL_COURT_C</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/52b27b21eb395104fa1e1343812e1b14"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/e7bfb53c149b56278b73cafac76c270d"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:altLabel xml:lang="cs">Plénum</skos:altLabel>
+      <skos:altLabel xml:lang="da">Plenum</skos:altLabel>
+      <skos:altLabel xml:lang="es">Pleno</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Cour plénière</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Puni sastav</skos:altLabel>
+      <skos:altLabel xml:lang="it">Seduta plenaria</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Plenarinė sesija</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Plēnums</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Qorti plenarja</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Volle samenstelling</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Posiedzenie w pełnym składzie</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Ședință plenară</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Plenárne zasadnutie</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Občna seja</skos:altLabel>
+   </skos:Concept>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/e7bfb53c149b56278b73cafac76c270d">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-07-24</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>CP</rdf:value>
+      <euvoc:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2003-07-31</euvoc:endDate>
+   </euvoc:XlNotation>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/FULL_COURT_F"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="cs">Plénum</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Plenum</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Pleno</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Puni sastav</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Seduta plenaria</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Plenarinė sesija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Plēnums</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Qorti plenarja</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Volle samenstelling</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Posiedzenie w pełnym składzie</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Ședință plenară</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Plenárne zasadnutie</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Občna seja</skos:prefLabel>
+      <skos:prefLabel xml:lang="bg">Пленум</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Plenum</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Ολομέλεια</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Full Court</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Täiskogu</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Täysistunto</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Assemblée plénière</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Cúirt iomlán</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Teljes ülés</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Tribunal Pleno</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Plenum</skos:prefLabel>
+      <at:authority-code>FULL_COURT_F</at:authority-code>
+      <at:op-code>FULL_COURT_F</at:op-code>
+      <at:start.use>2004-11-02</at:start.use>
+      <atold:op-code>FULL_COURT_F</atold:op-code>
+      <dc:identifier>FULL_COURT_F</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/6e1fb2602ca5b9eb1cb790ee3d0ffea1"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/FULL_COURT_T"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="cs">Plénum</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Puni sastav</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Volle samenstelling</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Ședință plenară</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Občna seja</skos:prefLabel>
+      <skos:prefLabel xml:lang="bg">Пленум</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Plenum</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Ολομέλεια</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Full Court</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Täiskogu</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Täysistunto</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Cúirt iomlán</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Teljes ülés</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Plenum</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Tiesas plēnums</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Plenum</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Rettens plenum</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Tribunal de Primera Instancia (Pleno)</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Formation plénière</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Plenarinis posėdis</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Seduta plenarja</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Pełny skład</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Sessão plenária</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Plénum</skos:prefLabel>
+      <at:authority-code>FULL_COURT_T</at:authority-code>
+      <at:op-code>FULL_COURT_T</at:op-code>
+      <at:start.use>1988-01-01</at:start.use>
+      <atold:op-code>FULL_COURT_T</atold:op-code>
+      <dc:identifier>FULL_COURT_T</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/a09c04eb12d30260f7f3505f66f5e545"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/a09c04eb12d30260f7f3505f66f5e545">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1988-01-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>FP</rdf:value>
+   </euvoc:XlNotation>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/JUDGE_HEAR"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Съдия по обезпечителното производство</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Soudce příslušný pro rozhodování o předběžných opatřeních</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Dommer i sager om foreløbige forholdsregler</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Für die Gewährung vorläufigen Rechtsschutzes zuständiger Richter</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Δικαστής των ασφαλιστικών μέτρων</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Judge hearing applications for interim measures</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Juez de medidas provisionales</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Ajutisi meetmeid kohaldav kohtunik</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Välitoimista päättävä tuomari</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Juge des référés</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Breitheamh ag éisteacht le hiarratais ar bhearta eatramhacha</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Ideiglenes intézkedésről határozó bíró</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Giudice dei procedimenti sommari</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Laikinąsias apsaugos priemones taikantis teisėjas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Pagaidu noregulējuma tiesnesis</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Imħallef għal miżuri provviżorji</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Kortgedingrechter</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Sędzia orzekający w przedmiocie środków tymczasowych</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Juiz das medidas provisórias</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Judecător delegat cu luarea măsurilor provizorii</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Sudca rozhodujúci o nariadení predbežných opatrení</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Sodnik za začasne odredbe</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Domaren med behörighet att besluta om interimistiska åtgärder</skos:prefLabel>
+      <at:authority-code>JUDGE_HEAR</at:authority-code>
+      <at:op-code>JUDGE_HEAR</at:op-code>
+      <at:start.use>1952-07-24</at:start.use>
+      <atold:op-code>JUDGE_HEAR</atold:op-code>
+      <dc:identifier>JUDGE_HEAR</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/1f7621e138edfb4288ab971ebcdbef26"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/JUDGE_SINGL"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Единствен съдия</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Samosoudce</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Én dommer</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Einzelrichter</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Μονομελές Πρωτοδικείο</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Single Judge</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Órgano jurisdiccional unipersonal</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Kohtunik ainuisikuliselt</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Yhden tuomarin kokoonpano</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Juge unique</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Breitheamh aonair</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Sudac pojedinac</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Egyesbíró</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Giudice unico</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Vienas teisėjas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Tiesnesis, kas lietu izskata vienpersoniski</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Imħallef uniku</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Alleensprekende rechter</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">W składzie jednego sędziego</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Juiz singular</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Judecător unic</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Samosudca</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Sodnik posameznik</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Ensamdomare</skos:prefLabel>
+      <at:authority-code>JUDGE_SINGL</at:authority-code>
+      <at:op-code>JUDGE_SINGL</at:op-code>
+      <at:start.use>1952-07-24</at:start.use>
+      <atold:op-code>JUDGE_SINGL</atold:op-code>
+      <dc:identifier>JUDGE_SINGL</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/f293a7440a0bca738f0d3d8307dcbd23"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:definition xml:lang="fr">La procédure «à juge unique» ne comporte qu'un magistrat siégeant seul.</skos:definition>
+   </skos:Concept>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/f293a7440a0bca738f0d3d8307dcbd23">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-07-24</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>JU</rdf:value>
+   </euvoc:XlNotation>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/OP_DATPRO"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Неокончателни данни</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Předběžné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Midlertidige data</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Vorläufige Daten</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Προσωρινά δεδομένα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Provisional data</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Datos provisionales</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Esialgsed andmed</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Alustavat tiedot</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Données provisoires</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Sonraí sealadacha</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Privremeni podaci</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Ideiglenes adatok</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Dati provvisori</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Laikinieji duomenys</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Provizoriski dati</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Dejta provviżorja</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Voorlopige gegevens</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Dane tymczasowe</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Dados provisórios</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Date provizorii</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Predbežné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Začasni podatki</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Tillfälliga uppgifter</skos:prefLabel>
+      <at:authority-code>OP_DATPRO</at:authority-code>
+      <at:op-code>OP_DATPRO</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>OP_DATPRO</atold:op-code>
+      <dc:identifier>OP_DATPRO</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/PLEN_SMALL_05_02_C"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Малък пленум V+II</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Malé plénum V+II</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Lille plenum V+II</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Kleines Plenum V+II</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Μικρή ολομέλεια V+II</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Small plenary V+II</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Pequeño Pleno V+II</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Väike täiskogu V+II</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Pieni täysistunto 5+2</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Petit plenum V+II</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">“Petit plenum V+II”</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Mali plenum V+II</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Szűkített teljes ülés V+II</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Piccolo plenum V+II</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Mažasis plenumas V+II</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Mazs plēnums V+II</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Seduta plenarja ridotta V+II</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Klein plenum V+II</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Małe plenum V+II</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Pequeno pleno V+II</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Plenul restrâns V+II</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Malé plénum V+II</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Mali plenum V+II</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Litet plenum V+II</skos:prefLabel>
+      <at:authority-code>PLEN_SMALL_05_02_C</at:authority-code>
+      <at:op-code>PLEN_SMALL_05_02_C</at:op-code>
+      <at:start.use>1952-07-24</at:start.use>
+      <atold:op-code>PLEN_SMALL_05_02_C</atold:op-code>
+      <dc:identifier>PLEN_SMALL_05_02_C</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/a651ab89784457f05ca05490dc31e9ce"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/a651ab89784457f05ca05490dc31e9ce">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-07-24</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>PP V+II</rdf:value>
+   </euvoc:XlNotation>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/PLEN_SMALL_05_04_C"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Малък пленум V+IV</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Malé plénum V+IV</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Lille plenum V+IV</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Kleines Plenum V+IV</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Μικρή ολομέλεια V+IV</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Small plenary V+IV</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Pequeño Pleno V+IV</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Väike täiskogu V+IV</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Pieni täysistunto 5+4</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Petit plenum V+IV</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">“Petit plenum V+IV”</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Mali plenum V+IV</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Szűkített teljes ülés V+IV</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Piccolo plenum V+IV</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Mažasis plenumas V+IV</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Mazs plēnums V+IV</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Seduta plenarja ridotta V+IV</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Klein plenum V+IV</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Małe plenum V+IV</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Pequeno pleno V+IV</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Plenul restrâns V+IV</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Malé plénum V+IV</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Mali plenum V+IV</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Litet plenum V+IV</skos:prefLabel>
+      <at:authority-code>PLEN_SMALL_05_04_C</at:authority-code>
+      <at:op-code>PLEN_SMALL_05_04_C</at:op-code>
+      <at:start.use>1952-07-24</at:start.use>
+      <atold:op-code>PLEN_SMALL_05_04_C</atold:op-code>
+      <dc:identifier>PLEN_SMALL_05_04_C</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/0c832b1ce5688a7ac2fc48736ddf914a"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/PLEN_SMALL_06_01_C"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Малък пленум VI+I</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Malé plénum VI+I</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Lille plenum VI+I</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Kleines Plenum VI+I</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Μικρή ολομέλεια VI+I</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Small plenary VI+I</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Pequeño Pleno VI+I</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Väike täiskogu VI+I</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Pieni täysistunto 6+1</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Petit plenum VI+I</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">“Petit plenum VI+I”</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Mali plenum VI+I</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Szűkített teljes ülés VI+I</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Piccolo plenum VI+I</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Mažasis plenumas VI+I</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Mazs plēnums VI+I</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Seduta plenarja ridotta VI+I</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Klein plenum VI+I</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Małe plenum VI+I</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Pequeno pleno VI+I</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Plenul restrâns VI+I</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Malé plénum VI+I</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Mali plenum VI+I</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Litet plenum VI+I</skos:prefLabel>
+      <at:authority-code>PLEN_SMALL_06_01_C</at:authority-code>
+      <at:op-code>PLEN_SMALL_06_01_C</at:op-code>
+      <at:start.use>1952-07-24</at:start.use>
+      <atold:op-code>PLEN_SMALL_06_01_C</atold:op-code>
+      <dc:identifier>PLEN_SMALL_06_01_C</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/121130bc708268800de0b1bc627d2676"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/PLEN_SMALL_06_03_C"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Малък пленум VI+III</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Malé plénum VI+III</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Lille plenum VI+III</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Kleines Plenum VI+III</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Μικρή ολομέλεια VI+III</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Small plenary VI+III</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Pequeño Pleno VI+III</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Väike täiskogu VI+III</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Pieni täysistunto 6+3</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Petit plenum VI+III</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">“Petit plenum VI+III”</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Mali plenum VI+III</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Szűkített teljes ülés VI+III</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Piccolo plenum VI+III</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Mažasis plenumas VI+III</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Mazs plēnums VI+III</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Seduta plenarja ridotta VI+III</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Klein plenum VI+III</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Małe plenum VI+III</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Pequeno pleno VI+III</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Plenul restrâns VI+III</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Malé plénum VI+III</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Mali plenum VI+III</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Litet plenum VI+III</skos:prefLabel>
+      <at:authority-code>PLEN_SMALL_06_03_C</at:authority-code>
+      <at:op-code>PLEN_SMALL_06_03_C</at:op-code>
+      <at:start.use>1952-07-24</at:start.use>
+      <atold:op-code>PLEN_SMALL_06_03_C</atold:op-code>
+      <dc:identifier>PLEN_SMALL_06_03_C</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/51c575e02eb7579f3379e3267f25b6e6"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/PLEN_SMALL_C"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Малък пленум</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Malé plénum</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Lille plenum</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Kleines Plenum</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Μικρή ολομέλεια</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Small plenary</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Pequeño Pleno</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Väike täiskogu</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Pieni täysistunto</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Petit plenum</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">“Petit plenum”</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Mali plenum</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Szűkített teljes ülés</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Piccolo plenum</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Mažasis plenumas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Mazs plēnums</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Seduta plenarja ridotta</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Klein plenum</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Małe plenum</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Pequeno pleno</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Plenul restrâns</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Malé plénum</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Mali plenum</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Litet plenum</skos:prefLabel>
+      <at:authority-code>PLEN_SMALL_C</at:authority-code>
+      <at:op-code>PLEN_SMALL_C</at:op-code>
+      <at:start.use>1952-07-24</at:start.use>
+      <atold:op-code>PLEN_SMALL_C</atold:op-code>
+      <dc:identifier>PLEN_SMALL_C</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/cd798f7964707174569e9880ee350aa7"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/formjug/cd798f7964707174569e9880ee350aa7">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-07-24</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-17</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/LITIGE"/>
+      <rdf:value>PP</rdf:value>
+   </euvoc:XlNotation>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/PRESID_C"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Председател на състав</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Předseda senátu</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Afdelingsformanden</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Kammerpräsident</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Πρόεδρο τμήμ</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">President of the Chamber</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Presidente de Sala</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Koja esimees</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Jaoston puheenjohtaja</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Président de chambre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Uachtarán</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Predsjednik</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Tanácselnök</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Presidente di sezione</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Kolegijos pirmininkas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Palātas priekšsēdētājs</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">President tal-Awla</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Kamerpresident</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Prezes izby</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Presidente de secção</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Președinte de cameră</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Predseda komory</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Predsednik senata</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Avdelningsordföranden</skos:prefLabel>
+      <at:authority-code>PRESID_C</at:authority-code>
+      <at:op-code>PRESID_C</at:op-code>
+      <at:start.use>1952-07-24</at:start.use>
+      <atold:op-code>PRESID_C</atold:op-code>
+      <dc:identifier>PRESID_C</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/4a9a9b8f85df6ee404f9fe490b677ff6"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:altLabel xml:lang="de">Kammerpräsidentin</skos:altLabel>
+      <skos:historyNote xml:lang="en">Email KD, 18.11.2013: “President” on the other hand is considered as formjug so there we repeat it 3 times, not matter that the translation is not influenced by this.</skos:historyNote>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/PRESID_F"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Председател на състав</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Předseda senátu</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Afdelingsformanden</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Kammerpräsident</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Πρόεδρο τμήμ</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">President of the Chamber</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Presidente de Sala</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Koja esimees</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Jaoston puheenjohtaja</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Président de chambre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Uachtarán</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Predsjednik</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Tanácselnök</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Presidente di sezione</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Kolegijos pirmininkas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Palātas priekšsēdētājs</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">President tal-Awla</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Kamerpresident</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Prezes izby</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Presidente de secção</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Președinte de cameră</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Predseda komory</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Predsednik senata</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Avdelningsordföranden</skos:prefLabel>
+      <at:authority-code>PRESID_F</at:authority-code>
+      <at:op-code>PRESID_F</at:op-code>
+      <at:start.use>2004-11-02</at:start.use>
+      <atold:op-code>PRESID_F</atold:op-code>
+      <dc:identifier>PRESID_F</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/762cdb11966af430f8a42e6210057c0f"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:altLabel xml:lang="de">Kammerpräsidentin</skos:altLabel>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/PRESID_T"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Председател на състав</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Předseda senátu</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Afdelingsformanden</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Kammerpräsident</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Πρόεδρο τμήμ</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">President of the Chamber</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Presidente de Sala</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Koja esimees</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Jaoston puheenjohtaja</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Président de chambre</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Uachtarán</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Predsjednik</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Tanácselnök</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Presidente di sezione</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Kolegijos pirmininkas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Palātas priekšsēdētājs</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">President tal-Awla</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Kamerpresident</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Prezes izby</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Presidente de secção</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Președinte de cameră</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Predseda komory</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Predsednik senata</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Avdelningsordföranden</skos:prefLabel>
+      <at:authority-code>PRESID_T</at:authority-code>
+      <at:op-code>PRESID_T</at:op-code>
+      <at:start.use>1988-01-01</at:start.use>
+      <atold:op-code>PRESID_T</atold:op-code>
+      <dc:identifier>PRESID_T</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/formjug/8fb33a4f0b2b3eb887a7c4a238148c64"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:altLabel xml:lang="de">Kammerpräsidentin</skos:altLabel>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/PRESID_VICE_C"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Заместник-председател</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Místopředseda</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Næstformand</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Vizepräsident</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Αντιπρόεδρος</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Vice-President</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Vicepresidente</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Asepresident</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Varapresidentti</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Vice-président</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Leas-Uachtarán</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Potpredsjednik</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Elnökhelyettes</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Vicepresidente</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Pirmininko pavaduotojas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Priekšsēdētāja vietnieks</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Viċi President</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Vicepresident</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Wiceprezes</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Vice-presidente</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Vicepreședinte</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Podpredseda</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Podpredsednik</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Vice ordförande</skos:prefLabel>
+      <at:authority-code>PRESID_VICE_C</at:authority-code>
+      <at:op-code>PRESID_VICE_C</at:op-code>
+      <at:start.use>1952-07-24</at:start.use>
+      <atold:op-code>PRESID_VICE_C</atold:op-code>
+      <dc:identifier>PRESID_VICE_C</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/formjug/PRESID_VICE_T"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Заместник-председател</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Místopředseda</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Næstformand</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Vizepräsident</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Αντιπρόεδρος</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Vice-President</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Vicepresidente</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Asepresident</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Varapresidentti</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Vice-président</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Leas-Uachtarán</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Potpredsjednik</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Elnökhelyettes</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Vicepresidente</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Pirmininko pavaduotojas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Priekšsēdētāja vietnieks</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Viċi President</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Vicepresident</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Wiceprezes</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Vice-presidente</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Vicepreședinte</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Podpredseda</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Podpredsednik</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Vice ordförande</skos:prefLabel>
+      <at:authority-code>PRESID_VICE_T</at:authority-code>
+      <at:op-code>PRESID_VICE_T</at:op-code>
+      <at:start.use>1988-01-01</at:start.use>
+      <atold:op-code>PRESID_VICE_T</atold:op-code>
+      <dc:identifier>PRESID_VICE_T</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/formjug"/>
+   </skos:Concept>
+</rdf:RDF>

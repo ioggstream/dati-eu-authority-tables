@@ -1,0 +1,117 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/eu-budget-status/CONT> a skos:Concept ;
+    at:authority-code "CONT" ;
+    at:deprecated "false" ;
+    at:op-code "CONT" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "CONT" ;
+    dc:identifier "CONT" ;
+    skos:inScheme atold:eu-budget-status ;
+    skos:prefLabel "Продължение"@bg,
+        "Pokračování"@cs,
+        "Videreførelse"@da,
+        "Fortsetzung"@de,
+        "Συνέχεια"@el,
+        "Continuation"@en,
+        "Continuación"@es,
+        "Jätk"@et,
+        "Jatkoa"@fi,
+        "Poursuite"@fr,
+        "Síneadh"@ga,
+        "Nastavak"@hr,
+        "Folytatás"@hu,
+        "Prosecuzione"@it,
+        "Tęsiama"@lt,
+        "Turpinājums"@lv,
+        "Kontinwazzjoni"@mt,
+        "Vervolg"@nl,
+        "Kontynuacja"@pl,
+        "Continuação"@pt,
+        "Continuare"@ro,
+        "Pokračovanie"@sk,
+        "Nadaljevanje"@sl,
+        "Fortsättning"@sv ;
+    skos:topConceptOf atold:eu-budget-status .
+
+<http://publications.europa.eu/resource/authority/eu-budget-status/NEW> a skos:Concept ;
+    at:authority-code "NEW" ;
+    at:deprecated "false" ;
+    at:op-code "NEW" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "NEW" ;
+    dc:identifier "NEW" ;
+    skos:inScheme atold:eu-budget-status ;
+    skos:prefLabel "Нов"@bg,
+        "Nový"@cs,
+        "Ny"@da,
+        "Neu"@de,
+        "Νέος"@el,
+        "New"@en,
+        "Nuevo"@es,
+        "Uus"@et,
+        "Uusi"@fi,
+        "Nouveau"@fr,
+        "Nua"@ga,
+        "Novi"@hr,
+        "Új"@hu,
+        "Nuovo"@it,
+        "Naujas"@lt,
+        "Jauns"@lv,
+        "Ġdid"@mt,
+        "Nieuw"@nl,
+        "Nowy"@pl,
+        "Novo"@pt,
+        "Nou"@ro,
+        "Nový"@sk,
+        "Novo"@sl,
+        "Ny"@sv ;
+    skos:topConceptOf atold:eu-budget-status .
+
+<http://publications.europa.eu/resource/authority/eu-budget-status/OP_DATPRO> a skos:Concept ;
+    at:authority-code "OP_DATPRO" ;
+    at:deprecated "false" ;
+    at:op-code "OP_DATPRO" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:eu-budget-status ;
+    skos:prefLabel "НЕОКОНЧАТЕЛНИ ДАННИ"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv ;
+    skos:topConceptOf atold:eu-budget-status .
+
+atold:eu-budget-status a skos:ConceptScheme ;
+    rdfs:label "EU budget status"@en ;
+    at:prefLabel "EU budget status"@en ;
+    at:table.id "eu-budget-status" ;
+    at:table.version.number "20220316-0" ;
+    owl:versionInfo "20220316-0" ;
+    skos:prefLabel "EU budget status"@en .
+

@@ -1,0 +1,2691 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix euvoc: <http://publications.europa.eu/ontology/euvoc#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://publications.europa.eu/resource/authority/procjur/ACTION_ANNU> a skos:Concept ;
+    at:authority-code "ACTION_ANNU" ;
+    at:deprecated "false" ;
+    at:op-code "ACTION_ANNU" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "ANNU" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "ACTION_ANNU" ;
+    dc:identifier "ACTION_ANNU" ;
+    skos:changeNote "sur InfoCuria: P"@fr ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/dd293c5bbb9f4aa99c6a133fdae048f7>,
+        <http://publications.europa.eu/resource/authority/procjur/ee4a1785b825ee3d2aee886e0001a423> ;
+    skos:prefLabel "Жалба за отмяна"@bg,
+        "Žaloby na neplatnost"@cs,
+        "Annullationssøgsmål"@da,
+        "Nichtigkeitsklage"@de,
+        "Προσφυγή ακυρώσεως"@el,
+        "Actions for annulment"@en,
+        "Recurso de anulación"@es,
+        "Tühistamishagi"@et,
+        "Kumoamiskanne"@fi,
+        "Recours en annulation"@fr,
+        "Imeachtaí le haghaidh neamhniú"@ga,
+        "Tužba za poništenje"@hr,
+        "Megsemmisítés iránti keresetek"@hu,
+        "Ricorso di annullamento"@it,
+        "Ieškinys dėl panaikinimo"@lt,
+        "Prasība atcelt tiesību aktu"@lv,
+        "Rikors għal annullament"@mt,
+        "Beroep tot nietigverklaring"@nl,
+        "Skarga o stwierdzenie nieważności"@pl,
+        "Recurso de anulação"@pt,
+        "Acțiune în anulare"@ro,
+        "Žaloba o neplatnosť"@sk,
+        "Ničnostna tožba"@sl,
+        "Talan om ogiltigförklaring"@sv ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/ACTION_DAM> a skos:Concept ;
+    at:authority-code "ACTION_DAM" ;
+    at:deprecated "false" ;
+    at:op-code "ACTION_DAM" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "RESP" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "ACTION_DAM" ;
+    dc:identifier "ACTION_DAM" ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/6fe6c117c0e9eb98ad889e4a0d7d6a9f>,
+        <http://publications.europa.eu/resource/authority/procjur/9552f66aff713341c41f16d22bf2a5a2> ;
+    skos:prefLabel "Иск за отговорност"@bg,
+        "Žaloba na náhradu škody"@cs,
+        "Erstatningssøgsmål"@da,
+        "Schadensersatzklage"@de,
+        "Αγωγή αποζημιώσεως"@el,
+        "Action for damages"@en,
+        "Recurso por responsabilidad"@es,
+        "Kahju hüvitamise hagi"@et,
+        "Vahingonkorvauskanne"@fi,
+        "Recours en responsabilité"@fr,
+        "Caingean le haghaidh damáistí"@ga,
+        "Tužba za naknadu štete"@hr,
+        "Felelősség megállapítása iránti kereset"@hu,
+        "Ricorso per risarcimento dei danni"@it,
+        "Ieškinys dėl atsakomybės"@lt,
+        "Prasība sakarā ar atbildību"@lv,
+        "Rikors għad-danni"@mt,
+        "Beroep tot schadevergoeding"@nl,
+        "Skarga w przedmiocie odpowiedzialności"@pl,
+        "Ação fundada em responsabilidade"@pt,
+        "Acțiune în răspundere"@ro,
+        "Žaloba o zodpovednosti"@sk,
+        "Odškodninska tožba"@sl,
+        "Talan om skadestånd"@sv ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/ACTION_DIR> a skos:Concept ;
+    at:authority-code "ACTION_DIR" ;
+    at:deprecated "false" ;
+    at:op-code "ACTION_DIR" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "ACTION_DIR" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "ACTION_DIR" ;
+    dc:identifier "ACTION_DIR" ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/832c6c67595503a663f10d8683a4bbac>,
+        <http://publications.europa.eu/resource/authority/procjur/9616d5676de8d2c59956235b615f39fd> ;
+    skos:prefLabel "Пряко производство"@bg,
+        "Přímá žaloba"@cs,
+        "Direkte søgsmål"@da,
+        "Klageverfahren"@de,
+        "Ευθεία προσφυγή"@el,
+        "Direct action"@en,
+        "Recurso directo"@es,
+        "Hagi"@et,
+        "Suora kanne"@fi,
+        "Recours direct"@fr,
+        "Caingean dhíreach"@ga,
+        "Izravna tužba"@hr,
+        "Közvetlen kereset"@hu,
+        "Ricorso diretto"@it,
+        "Tiesioginis ieškinys"@lt,
+        "Tiešā prasība"@lv,
+        "Rikors dirett"@mt,
+        "Rechtstreeks beroep"@nl,
+        "Skarga bezpośrednia"@pl,
+        "Ação e recurso direto"@pt,
+        "Acțiune directă"@ro,
+        "Žaloba"@sk,
+        "Direktna tožba"@sl,
+        "Direkt talan"@sv ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/ACTION_FAIL_ACT> a skos:Concept ;
+    at:authority-code "ACTION_FAIL_ACT" ;
+    at:deprecated "false" ;
+    at:op-code "ACTION_FAIL_ACT" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "CARE" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "ACTION_FAIL_ACT" ;
+    dc:identifier "ACTION_FAIL_ACT" ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/134f00163d786415113fb7959320e6c1>,
+        <http://publications.europa.eu/resource/authority/procjur/721b535c09bfbc27b3b3000fe10a3d09> ;
+    skos:prefLabel "Иск за установяване на неправомерно бездействие"@bg,
+        "Žaloby pro nečinnost"@cs,
+        "Passivitetssøgsmål"@da,
+        "Untätigkeitsklage"@de,
+        "Προσφυγή κατά παραλείψεως"@el,
+        "Actions for failure to act"@en,
+        "Recurso por omisión"@es,
+        "Tegevusetushagi"@et,
+        "Laiminlyöntikanne"@fi,
+        "Recours en carence"@fr,
+        "Imeachtaí i ngeall ar neamhghníomh"@ga,
+        "Tužba zbog propusta"@hr,
+        "Intézményi mulasztás megállapítása iránti keresetek"@hu,
+        "Ricorso per carenza"@it,
+        "Ieškinys dėl neveikimo"@lt,
+        "Prasības sakarā ar bezdarbību"@lv,
+        "Rikors għal nuqqas li tittieħed azzjoni"@mt,
+        "Beroep wegens nalaten"@nl,
+        "Skarga na bezczynność"@pl,
+        "Ação por omissão"@pt,
+        "Acțiune în constatarea abținerii de a acționa"@ro,
+        "Žaloba na nečinnosť"@sk,
+        "Tožba zaradi nedelovanja"@sl,
+        "Passivitetstalan"@sv ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/ACTION_FAIL_OBLIG> a skos:Concept ;
+    at:authority-code "ACTION_FAIL_OBLIG" ;
+    at:deprecated "false" ;
+    at:op-code "ACTION_FAIL_OBLIG" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "CONS" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "ACTION_FAIL_OBLIG" ;
+    dc:identifier "ACTION_FAIL_OBLIG" ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/a0eb5d78e0bc0f1cb59c43a8e1e9ea3f>,
+        <http://publications.europa.eu/resource/authority/procjur/d1cd66b87f96094b12cf3bdd1e688890> ;
+    skos:prefLabel "Иск за установяване на неизпълнение на задължения"@bg,
+        "Žaloba pro nesplnění povinnosti"@cs,
+        "Traktatbrudssøgsmål"@da,
+        "Vertragsverletzungsklage"@de,
+        "Προσφυγή λόγω παραβάσεως"@el,
+        "Action for a declaration of failure to fulfil obligations"@en,
+        "Recurso por incumplimiento"@es,
+        "Liikmesriigi kohustuste rikkumise hagi"@et,
+        "Jäsenyysvelvoitteiden noudattamatta jättämistä koskeva kanne"@fi,
+        "Recours en constatation de manquement"@fr,
+        "Caingean chun dearbhaithe mar gheall ar mhainneachtain in oibleagáid a chomhlíonadh"@ga,
+        "Tužba radi utvrđivanja povrede obveze"@hr,
+        "Kötelezettségszegés megállapítása iránti kereset"@hu,
+        "Ricorso per inadempimento"@it,
+        "Ieškinys dėl įsipareigojimų neįvykdymo"@lt,
+        "Prasība par pienākumu neizpildes atzīšanu"@lv,
+        "Rikors għal konstatazzjoni ta' nuqqas ta’ twettiq ta’ obbligu"@mt,
+        "Beroep wegens niet-nakoming"@nl,
+        "Skarga o stwierdzenie uchybienia zobowiązaniom"@pl,
+        "Ação de declaração de incumprimento"@pt,
+        "Acțiune în constatarea neîndeplinirii obligațiilor"@ro,
+        "Žaloba o nesplnenie povinnosti"@sk,
+        "Tožba zaradi neizpolnitve obveznosti"@sl,
+        "Talan om fördragsbrott"@sv ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/ACTION_SANC> a skos:Concept ;
+    at:authority-code "ACTION_SANC" ;
+    at:deprecated "false" ;
+    at:op-code "ACTION_SANC" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "SANC" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "ACTION_SANC" ;
+    dc:identifier "ACTION_SANC" ;
+    skos:changeNote "sur InfoCuria: DEPE , ITPR , P"@fr ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/92babd17d4289b86ce52d2d5b5c46366>,
+        <http://publications.europa.eu/resource/authority/procjur/99d2c642872f2b23dddc34ed58498ad8> ;
+    skos:prefLabel "Обжалване на санкция"@bg,
+        "Stížnost podaná proti sankci"@cs,
+        "Sag til prøvelse af en sanktion"@da,
+        "Klage gegen eine Sanktion"@de,
+        "Προσφυγή κατά επιβολής κυρώσεως"@el,
+        "Appeal brought against a sanction"@en,
+        "Recurso contra una sanción"@es,
+        "Karistust käsitlev hagi"@et,
+        "Seuraamusta koskeva kanne"@fi,
+        "Recours contre une sanction"@fr,
+        "Achomharc ar smachtbhanna"@ga,
+        "Tužba protiv sankcije"@hr,
+        "Szankció felülvizsgálata iránti kereset"@hu,
+        "Ricorso contro una sanzione"@it,
+        "Ieškinys dėl paskirtos sankcijos"@lt,
+        "Prasība, kas vērsta pret sankciju"@lv,
+        "Rikors kontra sanzjoni"@mt,
+        "Beroep tegen een sanctie"@nl,
+        "Skarga przeciwko sankcji"@pl,
+        "Recurso contra uma sanção"@pt,
+        "Acțiune împotriva unei sancțiuni"@ro,
+        "Žaloba proti sankcii"@sk,
+        "Tožba zoper sankcijo"@sl,
+        "Talan mot en sanktion"@sv ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/ACTION_STAFF> a skos:Concept ;
+    at:authority-code "ACTION_STAFF" ;
+    at:deprecated "false" ;
+    at:op-code "ACTION_STAFF" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "FONC" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "ACTION_STAFF" ;
+    dc:identifier "ACTION_STAFF" ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/9da18abe35f7bbc992049887befebd47>,
+        <http://publications.europa.eu/resource/authority/procjur/d5ce89d50d5fef57df0de325678428ee> ;
+    skos:prefLabel "Жалби на длъжностни лица"@bg,
+        "Žaloby úředníků"@cs,
+        "Personalesager"@da,
+        "Beamtenklagen"@de,
+        "Υπαλληλική προσφυγή"@el,
+        "Actions brought by officials"@en,
+        "Recursos de funcionarios"@es,
+        "Ametnike hagid"@et,
+        "Henkilöstökanne"@fi,
+        "Recours de fonctionnaires"@fr,
+        "Caingne arna dtionscnamh ag oifigigh"@ga,
+        "Tužbe službenika"@hr,
+        "Közszolgálati kereset"@hu,
+        "Ricorsi di dipendenti"@it,
+        "Tarnautojų ieškiniai"@lt,
+        "Ierēdņu celta prasība"@lv,
+        "Rikorsi ta' uffiċjali"@mt,
+        "Ambtenarenzaak"@nl,
+        "Skargi urzędników"@pl,
+        "Recursos de funcionários"@pt,
+        "Acțiuni ale funcționarilor"@ro,
+        "Žaloba úradníkov"@sk,
+        "Tožbe uradnikov"@sl,
+        "Personalmål"@sv ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/APPEAL> a skos:Concept ;
+    at:authority-code "APPEAL" ;
+    at:deprecated "false" ;
+    at:op-code "APPEAL" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "PVOI" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "APPEAL" ;
+    dc:identifier "APPEAL" ;
+    skos:altLabel "Apelācija"@lv ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/663917b63fa483822b5d137c6061d65a>,
+        <http://publications.europa.eu/resource/authority/procjur/b96f914ec7750e5c32860f4f6f3d7324>,
+        <http://publications.europa.eu/resource/authority/procjur/ed71751dc294bb77556be0ccc92bdec6> ;
+    skos:prefLabel "Обжалване"@bg,
+        "Opravný prostředek"@cs,
+        "Appel"@da,
+        "Rechtsmittel"@de,
+        "Αναίρεση"@el,
+        "Appeals"@en,
+        "Recurso de casación"@es,
+        "Apellatsioonkaebus"@et,
+        "Muutoksenhaku"@fi,
+        "Pourvoi"@fr,
+        "Achomhairc"@ga,
+        "Žalba"@hr,
+        "Fellebbezés"@hu,
+        "Impugnazione"@it,
+        "Apeliacinis skundas"@lt,
+        "Apelācijas sūdzība"@lv,
+        "Appell"@mt,
+        "Hogere voorziening"@nl,
+        "Odwołanie"@pl,
+        "Recurso de decisão do Tribunal Geral"@pt,
+        "Recurs"@ro,
+        "Odvolania"@sk,
+        "Pritožba"@sl,
+        "Överklagande"@sv ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/APPEAL_INTV> a skos:Concept ;
+    at:authority-code "APPEAL_INTV" ;
+    at:deprecated "false" ;
+    at:op-code "APPEAL_INTV" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "APPEAL_INTV" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "APPEAL_INTV" ;
+    dc:identifier "APPEAL_INTV" ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/7faff2703e1156bab16f43c6a6094d23>,
+        <http://publications.europa.eu/resource/authority/procjur/f3941ce8a4435c3c20866c592a5295cb> ;
+    skos:prefLabel "Обжалване във връзка с встъпване"@bg,
+        "Kasační opravný prostředek proti nepovolení vedlejšího účastenství"@cs,
+        "Appel af afgørelser vedrørende begæring om intervention"@da,
+        "Rechtsmittel im Streithilfeverfahren"@de,
+        "Αναίρεση αφορώσα αίτηση παρεμβάσεως"@el,
+        "Appeal on intervention"@en,
+        "Recurso de casación sobre demanda de intervención"@es,
+        "Apellatsioonkaebus seoses menetlusse astumisega"@et,
+        "Väliintuloa koskeva valitus"@fi,
+        "Pourvoi sur intervention"@fr,
+        "Achomharc idiragartha"@ga,
+        "Žalba povodom intervencije"@hr,
+        "Beavatkozásra vonatkozó fellebbezés"@hu,
+        "Impugnazione emessa in sede di intervento"@it,
+        "Skundas dėl įstojimo į bylą"@lt,
+        "Apelācijas sūdzība par iestāšanos lietā"@lv,
+        "Appell fuq intervent"@mt,
+        "Hogere voorziening op interventie"@nl,
+        "Odwołanie od decyzji w przedmiocie wniosku o dopuszczenie do sprawy w charakterze interwenienta"@pl,
+        "Recurso sobre pedido de intervenção"@pt,
+        "Recurs privind intervenția"@ro,
+        "Odvolanie proti vedľajšiemu účastníctvu"@sk,
+        "Pritožba zoper odločitev o intervenciji"@sl,
+        "Överklagande av avgörande rörande en interventionsansökan"@sv ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/APPEAL_INT_MEAS> a skos:Concept ;
+    at:authority-code "APPEAL_INT_MEAS" ;
+    at:deprecated "false" ;
+    at:op-code "APPEAL_INT_MEAS" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "APPEAL_INT_MEAS" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "APPEAL_INT_MEAS" ;
+    dc:identifier "APPEAL_INT_MEAS" ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/95ce09cf0ddabb2287467100be19cc3f> ;
+    skos:prefLabel "Обжалване във връзка с искане за допускане на обезпечение"@bg,
+        "Kasační opravný prostředek proti rozhodnutí o předběžném opatření"@cs,
+        "Appel af afgørelser om foreløbige forholdsregler"@da,
+        "Rechtsmittel im Verfahren des vorläufigen Rechtsschutzes"@de,
+        "Αναίρεση αφορώσα ασφαλιστικά μέτρα"@el,
+        "Appeal on interim measures"@en,
+        "Recurso de casación sobre medidas provisionales"@es,
+        "Apellatsioonkaebus ajutiste meetmete kohaldamise menetluses"@et,
+        "Välitoimia koskeva valitus"@fi,
+        "Pourvoi sur référé"@fr,
+        "Achomharc ar bhearta idirlinne"@ga,
+        "Žalba povodom postupka privremene pravne zaštite"@hr,
+        "Ideiglenes intézkedés iránti kérelemre vonatkozó fellebbezés"@hu,
+        "Impugnazione di pronuncia emessa in sede di procedimento sommario"@it,
+        "Skundas dėl laikinųjų apsaugos priemonių"@lt,
+        "Apelācijas sūdzība par pagaidu noregulējumu"@lv,
+        "Appell fuq proċeduri għal miżuri provviżorji"@mt,
+        "Hogere voorziening in kort geding"@nl,
+        "Odwołanie od postanowienia w przedmiocie wniosku o zastosowanie środka tymczasowego"@pl,
+        "Recurso sobre medidas provisórias"@pt,
+        "Recurs privind măsurile provizorii"@ro,
+        "Odvolanie proti nariadeniu predbežného opatrenia"@sk,
+        "Pritožba zoper sklep o začasni odredbi"@sl,
+        "Överklagande av avgörande rörande en ansökan om interimistiska åtgärder"@sv ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/APPL_AID> a skos:Concept ;
+    at:authority-code "APPL_AID" ;
+    at:deprecated "false" ;
+    at:op-code "APPL_AID" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "ASSI" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "APPL_AID" ;
+    dc:identifier "APPL_AID" ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/55418722142103c397d34c9cfb1c37d7>,
+        <http://publications.europa.eu/resource/authority/procjur/b3dea74d01cb9faf8d47f701cce8366c>,
+        <http://publications.europa.eu/resource/authority/procjur/f359e9917ae76d0a39ca8bbb7a24f47b> ;
+    skos:prefLabel "Молба за предоставяне на правна помощ"@bg,
+        "Žádost o poskytnutí právní pomoci"@cs,
+        "Ansøgning om retshjælp/ansøgning om fri proces"@da,
+        "Antrag auf Prozesskostenhilfe"@de,
+        "Αίτημα χορηγήσεως του ευεργετήματος πενίας"@el,
+        "Application for legal aid"@en,
+        "Solicitud del beneficio de justicia gratuita"@es,
+        "Õigusabitaotlus"@et,
+        "Maksutonta oikeudenkäyntiä koskeva pyyntö"@fi,
+        "Demande d’assistance judiciaire"@fr,
+        "Iarratas ar chúnamh dlí"@ga,
+        "Zahtjev za besplatnu pravnu pomoć"@hr,
+        "Költségmentesség iránti kérelem"@hu,
+        "Domanda di gratuito patrocinio"@it,
+        "Teisinės pagalbos prašymas"@lt,
+        "Pieteikums par juridisko palīdzību"@lv,
+        "Talba għal għajnuna legali"@mt,
+        "Verzoek om rechtsbijstand"@nl,
+        "Wniosek o przyznanie pomocy"@pl,
+        "Pedido de assistência judiciária"@pt,
+        "Cerere de asistență judiciară"@ro,
+        "Žiadosť o právnu pomoc"@sk,
+        "Prošnja za pravno pomoč"@sl,
+        "Rättshjälp"@sv ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/APPL_COST> a skos:Concept ;
+    at:authority-code "APPL_COST" ;
+    at:deprecated "false" ;
+    at:op-code "APPL_COST" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "DPEN" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "APPL_COST" ;
+    dc:identifier "APPL_COST" ;
+    skos:changeNote "identifiant affaire: DEP ?"@fr ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/f956e98bde2eac4061b5067c7da9d77d>,
+        <http://publications.europa.eu/resource/authority/procjur/fde431f9d68242f77c30324d3c4ac600> ;
+    skos:prefLabel "Молба във връзка със съдебните разноски"@bg,
+        "Žádost týkající se nákladů řízení"@cs,
+        "Påstand vedrørende sagens omkostninger"@da,
+        "Kostenantrag"@de,
+        "Αίτημα σχετικό με τα δικαστικά έξοδα"@el,
+        "Application as to costs"@en,
+        "Pretensión sobre costas"@es,
+        "Kohtukulude kindlaksmääramise taotlus"@et,
+        "Oikeudenkäyntikuluja koskeva vaatimus"@fi,
+        "Demande relative aux dépens"@fr,
+        "Iarratas i dtaobh costas"@ga,
+        "Zahtjev za naknadu troškova"@hr,
+        "Költségek megállapítása iránti kérelem"@hu,
+        "Domanda relativa alle spese"@it,
+        "Prašymas dėl bylinėjimosi išlaidų"@lt,
+        "Pieteikums attiecībā uz tiesāšanās izdevumiem"@lv,
+        "Talba għal spejjeż"@mt,
+        "Vordering betreffende de kosten"@nl,
+        "Wniosek dotyczący kosztów postępowania"@pl,
+        "Pedido relativo às despesas"@pt,
+        "Cerere referitoare la cheltuielile de judecată"@ro,
+        "Návrh týkajúci sa trov konania"@sk,
+        "Predlog glede stroškov"@sl,
+        "Begäran om fastställande av rättegångskostnader"@sv ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/APPL_IMMUN> a skos:Concept ;
+    at:authority-code "APPL_IMMUN" ;
+    at:deprecated "false" ;
+    at:op-code "APPL_IMMUN" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "IMMU" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "APPL_IMMUN" ;
+    dc:identifier "APPL_IMMUN" ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/259884934955e1832e616753a67bb019>,
+        <http://publications.europa.eu/resource/authority/procjur/752456ba1f7d2869894b54c3c9bd658c>,
+        <http://publications.europa.eu/resource/authority/procjur/82a2f8fff73cfb6713e35082f873eb87> ;
+    skos:prefLabel "Молба във връзка с имунитетите"@bg,
+        "Žádost o imunity"@cs,
+        "Ansøgning vedrørende immunitet"@da,
+        "Antrag betreffend die Befreiungen"@de,
+        "Αίτημα σχετικό με τις ασυλίες"@el,
+        "Request concerning immunities"@en,
+        "Demanda relativa a las inmunidades"@es,
+        "Puutumatust käsitlev taotlus"@et,
+        "Vapauksiin liittyvä pyyntö"@fi,
+        "Demande relative aux immunités"@fr,
+        "Iarratas i dtaobh díolúintí"@ga,
+        "Zahtjev koji se tiče imuniteta"@hr,
+        "Mentességgel kapcsolatos kérelem"@hu,
+        "Domanda relativa alle immunità"@it,
+        "Su imunitetais susijęs prašymas"@lt,
+        "Pieteikums attiecībā uz imunitāti"@lv,
+        "Talba dwar l-immunitajiet"@mt,
+        "Verzoek betreffende de immuniteiten"@nl,
+        "Wniosek dotyczący immunitetu"@pl,
+        "Pedido relativo às imunidades"@pt,
+        "Cerere referitoare la imunități"@ro,
+        "Návrh týkajúci sa imunít"@sk,
+        "Predlog glede imunitet"@sl,
+        "Begäran avseende immunitet"@sv ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/APPL_IMPL_IMM> a skos:Concept ;
+    at:authority-code "APPL_IMPL_IMM" ;
+    at:deprecated "false" ;
+    at:op-code "APPL_IMPL_IMM" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "EXEC" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "APPL_IMPL_IMM" ;
+    dc:identifier "APPL_IMPL_IMM" ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/515caa3761fb0d660f7d09da2e56b3d1>,
+        <http://publications.europa.eu/resource/authority/procjur/9af3c8991a2ca9ce44e610396434a1ab> ;
+    skos:prefLabel "Молба за незабавно изпълнение (Договор ЕВРАТОМ)"@bg,
+        "Žádost o okamžitý výkon (Smlouva o EURATOM)"@cs,
+        "Begæring om iværksættelse af øjeblikkelig fuldbyrdelse (Euratom-traktaten)"@da,
+        "Antrag auf Anordnung der sofortigen Vollstreckung (Euratom-Vertrag)"@de,
+        "Αίτηση άμεσης εκτελέσεως (Συνθήκη Ευρατόμ)"@el,
+        "Application for immediate implementation (EURATOM Treaty)"@en,
+        "Solicitud de ejecución inmediata (Tratado EURATOM)"@es,
+        "Viivitamatu täitmise taotlus (EURATOMi asutamisleping)"@et,
+        "Välitöntä täytäntöönpanoa koskeva pyyntö (Euratomin perustamissopimus)"@fi,
+        "Demande d’exécution immédiate (Traité EURATOM)"@fr,
+        "Iarratas le cur chun feidhme láithreach"@ga,
+        "Zahtjev za ovrhu bez odgode (Ugovor o Euratomu)"@hr,
+        "Azonnali végrehajtás iránti kérelem (Euratom-Szerződés)"@hu,
+        "Domanda di esecuzione immediata (Trattato EURATOM)"@it,
+        "Prašymas nedelsiant vykdyti sprendimą (Euratomo sutartis)"@lt,
+        "Pieteikums par tūlītēju izpildi (EURATOM līgums)"@lv,
+        "Talba għal implementazzjoni immedjata (Trattat EURATOM)"@mt,
+        "Vordering tot onmiddellijke tenuitvoerlegging (EGA-Verdrag)"@nl,
+        "Wniosek o natychmiastowe wykonanie"@pl,
+        "Pedido de execução imediata (Tratado EURATOM)"@pt,
+        "Cerere de executare imediată (Tratatul EURATOM)"@ro,
+        "Návrh na okamžité vykonanie (Zmluva Euratom)"@sk,
+        "Predlog za takojšnje izvajanje (Pogodba EURATOM)"@sl,
+        "Framställning om omedelbar verkställighet (Euratomfördraget)"@sv ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/APPL_INTERP> a skos:Concept ;
+    at:authority-code "APPL_INTERP" ;
+    at:deprecated "false" ;
+    at:op-code "APPL_INTERP" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "INTE" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "APPL_INTERP" ;
+    dc:identifier "APPL_INTERP" ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/2226ac7c2dd609e0d5155be300ba6ba0>,
+        <http://publications.europa.eu/resource/authority/procjur/5c611d3727d41dbeea3aa566281664e7>,
+        <http://publications.europa.eu/resource/authority/procjur/ec5abd6ffce7dbe200f43aa3c6d78e1a> ;
+    skos:prefLabel "Молба за тълкуване на съдебно решение"@bg,
+        "Žádost o výklad rozsudku"@cs,
+        "Anmodning om fortolkning af dom"@da,
+        "Antrag auf Urteilsauslegung"@de,
+        "Αίτηση διεξαγωγής αποδείξεων"@el,
+        "Application for the interpretation of a judgment"@en,
+        "Demanda de interpretación de sentencia"@es,
+        "Kohtuotsuse tõlgendamise taotlus"@et,
+        "Tuomion tulkitsemista koskeva pyyntö"@fi,
+        "Demande d’interprétation d’arrêt"@fr,
+        "Iarratas ar léirmhíniú maidir le breithiúnas"@ga,
+        "Zahtjev za tumačenje presude"@hr,
+        "Az ítélet értelmezése iránti kérelem"@hu,
+        "Domanda di interpretazione di una sentenza"@it,
+        "Prašymas išaiškinti sprendimą"@lt,
+        "Pieteikums interpretēt spriedumu"@lv,
+        "Talba għal interpretazzjoni ta' sentenza"@mt,
+        "Verzoek om interpretatie van een arrest"@nl,
+        "Wniosek o wyładnię wyroku"@pl,
+        "Pedido de interpretação de acórdão"@pt,
+        "Cerere de interpretare a unei hotărâri"@ro,
+        "Návrh na výklad rozsudku"@sk,
+        "Predlog za razlago sodbe"@sl,
+        "Ansökan om tolkning av dom"@sv ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/APPL_INTV> a skos:Concept ;
+    at:authority-code "APPL_INTV" ;
+    at:deprecated "false" ;
+    at:op-code "APPL_INTV" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "INTV" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "APPL_INTV" ;
+    dc:identifier "APPL_INTV" ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/af8661a58326028b5925d4d03f32de64>,
+        <http://publications.europa.eu/resource/authority/procjur/c2876b69fe31a2e2c2b7f7a1dc23746e> ;
+    skos:prefLabel "Молба за встъпване"@bg,
+        "Návrh na vstup vedlejšího účastníka do řízení"@cs,
+        "Begæring om intervention"@da,
+        "Streithilfeantrag"@de,
+        "Αίτημα παρεμβάσεως"@el,
+        "Application for leave to intervene"@en,
+        "Demanda de intervención"@es,
+        "Menetlusse astumise avaldus"@et,
+        "Väliintulohakemus"@fi,
+        "Demande en intervention"@fr,
+        "Iarratas ar idiragairt"@ga,
+        "Zahtjev za intervenciju"@hr,
+        "Beavatkozási kérelem"@hu,
+        "Istanza d'intervento"@it,
+        "Prašymas dėl įstojimo į bylą"@lt,
+        "Pieteikums par iestāšanos lietā"@lv,
+        "Talba għal intervent"@mt,
+        "Verzoek tot tussenkomst"@nl,
+        "Wniosek o dopuszczenie do sprawy w charakterze interwenienta"@pl,
+        "Pedido de intervenção"@pt,
+        "Cerere de intervenție"@ro,
+        "Návrh na vstup vedľajšieho účastníka do konania"@sk,
+        "Predlog za intervencijo"@sl,
+        "Interventionsansökan"@sv ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/APPL_MEAS_INQ> a skos:Concept ;
+    at:authority-code "APPL_MEAS_INQ" ;
+    at:deprecated "false" ;
+    at:op-code "APPL_MEAS_INQ" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "INST" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "APPL_MEAS_INQ" ;
+    dc:identifier "APPL_MEAS_INQ" ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/a8cc17371ff3453efcb35dd837000bd7>,
+        <http://publications.europa.eu/resource/authority/procjur/c215b916c57414ffa2a8cf13b864b61e> ;
+    skos:prefLabel "Искане за събиране на доказателства"@bg,
+        "Návrh na provedení důkazních opatření"@cs,
+        "Begæring om bevisoptagelse"@da,
+        "Antrag auf Beweisaufnahme"@de,
+        "Αίτηση διεξαγωγής αποδείξεων"@el,
+        "Application for measures of inquiry"@en,
+        "Solicitud de diligencias de prueba"@es,
+        "Menetlustoimingute taotlus"@et,
+        "Asian selvittämistoimia koskeva pyyntö"@fi,
+        "Demande de mesures d’instruction"@fr,
+        "Iarratas ar bheart fiosrúcháin"@ga,
+        "Zahtjev za izvođenje dokaza"@hr,
+        "Bizonyításfelvétel iránti kérelem"@hu,
+        "Domanda di misure istruttorie"@it,
+        "Prašymas dėl tyrimo priemonių"@lt,
+        "Pieteikums par pierādījumu savākšanas pasākumiem"@lv,
+        "Talba għal miżuri istruttorji"@mt,
+        "Verzoek om maatregelen van instructie"@nl,
+        "Wniosek dotyczący środków dowodowych"@pl,
+        "Pedido de medidas de instrução"@pt,
+        "Cerere de îndeplinire a unor activități de cercetare judecătorească"@ro,
+        "Návrh na vykonanie dôkazných prostriedkov"@sk,
+        "Predlog za pripravljalne ukrepe"@sl,
+        "Yrkande om att åtgärder för bevisupptagning ska vidtas"@sv ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/APPL_RECT> a skos:Concept ;
+    at:authority-code "APPL_RECT" ;
+    at:deprecated "false" ;
+    at:op-code "APPL_RECT" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "RECT" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "APPL_RECT" ;
+    dc:identifier "APPL_RECT" ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/67970357df6b5af99e7edc9e18e3dad5>,
+        <http://publications.europa.eu/resource/authority/procjur/a271927c560610403d5569df0ba07798>,
+        <http://publications.europa.eu/resource/authority/procjur/af8a04bb6bac9862ace28b7f3c65240b> ;
+    skos:prefLabel "Молба за поправка на съдебно решение"@bg,
+        "Žádost o opravu rozsudku"@cs,
+        "Anmodning om berigtigelse af dom"@da,
+        "Antrag auf Berichtigung eines Urteils"@de,
+        "Αίτηση περί διορθώσεως αποφάσεως"@el,
+        "Application for rectification of a judgment"@en,
+        "Solicitud de rectificación de sentencia"@es,
+        "Kohtuotsuse parandamise taotlus"@et,
+        "Tuomion korjaamista koskeva pyyntö"@fi,
+        "Demande de rectification d’arrêt"@fr,
+        "Iarratas ar cheartú maidir le breithiúnas"@ga,
+        "Zahtjev za ispravak presude"@hr,
+        "Az ítélet kijavítása iránti kérelem"@hu,
+        "Domanda di rettifica di una sentenza"@it,
+        "Prašymas ištaisyti sprendimą"@lt,
+        "Pieteikums labot spriedumu"@lv,
+        "Talba għal korrezzjoni ta' sentenza"@mt,
+        "Verzoek om rectificatie van een arrest"@nl,
+        "Wniosek o sprostowanie wyroku"@pl,
+        "Pedido de rectificação de acórdão"@pt,
+        "Cerere de rectificare a unei hotărâri"@ro,
+        "Návrh na opravu rozsudku"@sk,
+        "Predlog za popravek sodbe"@sl,
+        "Begäran om rättelse av dom"@sv ;
+    skos:scopeNote "Art. 154, Règlement de procédure de la Cour, 2013"@fr ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/APPL_REV> a skos:Concept ;
+    at:authority-code "APPL_REV" ;
+    at:deprecated "false" ;
+    at:op-code "APPL_REV" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "REVI" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "APPL_REV" ;
+    dc:identifier "APPL_REV" ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/28307a4c2fe48a817a119a7e9113ac98>,
+        <http://publications.europa.eu/resource/authority/procjur/81303263e62012d173a3a5b60b83932f>,
+        <http://publications.europa.eu/resource/authority/procjur/ecac6b4faa68cb108e71fffc4f079a3e> ;
+    skos:prefLabel "Молба за отмяна на влязло в сила съдебно решение"@bg,
+        "Návrh na přezkum rozsudku"@cs,
+        "Begæring om genoptagelse af pådømt sag"@da,
+        "Wiederaufnahmeantrag"@de,
+        "Αίτηση αναθεωρήσεως αποφάσεως"@el,
+        "Application for revision of a judgment"@en,
+        "Recurso de revisión"@es,
+        "Kohtuotsuse teistmise avaldus"@et,
+        "Purkamishakemus tuomion ottamiseksi uudelleen käsiteltäväksi"@fi,
+        "Demande de révision d’arrêt"@fr,
+        "Iarratas ar athbhreithniú maidir le breithiúnas"@ga,
+        "Zahtjev za ponavljanje postupka"@hr,
+        "Perújítási kérelem"@hu,
+        "Domanda di revocazione di una sentenza"@it,
+        "Prašymas peržiūrėti teismo sprendimą"@lt,
+        "Pieteikums pārskatīt spriedumu"@lv,
+        "Talba għal reviżjoni ta' sentenza"@mt,
+        "Verzoek om herziening van een arrest"@nl,
+        "Skarga o wznowienie postępowania"@pl,
+        "Pedido de revisão de acórdão"@pt,
+        "Cerere de revizuire a unei hotărâri"@ro,
+        "Návrh na opravu rozsudku"@sk,
+        "Predlog za izdajo sodbe v obnovljenem postopku"@sl,
+        "Ansökan om resning av dom"@sv ;
+    skos:scopeNote "Art. 159, Règlement de procédure de la Cour, 2013"@fr ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/APPL_SUSP_ADP> a skos:Concept ;
+    at:authority-code "APPL_SUSP_ADP" ;
+    at:deprecated "false" ;
+    at:op-code "APPL_SUSP_ADP" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "REFE" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "APPL_SUSP_ADP" ;
+    dc:identifier "APPL_SUSP_ADP" ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/6e85a93bd36ee83ec24cb7e64c65ad25>,
+        <http://publications.europa.eu/resource/authority/procjur/80e885943417b87826b21dd7c7cb21fc>,
+        <http://publications.europa.eu/resource/authority/procjur/ccabd7e1223205407291f0ad3945ceb6> ;
+    skos:prefLabel "Молба за спиране на изпълнението или молба за постановяване на временни мерки"@bg,
+        "Návrh na odklad vykonatelnosti nebo návrh na předběžná opatření"@cs,
+        "Anmodning om udsættelse af gennemførelsen eller anmodning om foreløbige forholdsregler"@da,
+        "Antrag auf Aussetzung des Vollzugs oder auf sonstige einstweilige Anordnungen"@de,
+        "Αίτηση αναστολής εκτελέσεως ή αίτηση λήψεως προσωρινών μέτρων"@el,
+        "Application to suspend adoption or stay execution or application for interim measures"@en,
+        "Demanda de suspensión de la ejecución o demanda de medidas provisionales"@es,
+        "Kohaldamise/täitmise peatamise taotlus või ajutiste meetmete kohaldamise taotlus"@et,
+        "Täytäntöönpanon lykkäämistä koskeva hakemus tai välitoimihakemus"@fi,
+        "Demande de sursis à l’exécution ou demande de mesures provisoires"@fr,
+        "Iarratas le bearta idirlinne a fhionraí nó le bac a chuir ar fhorghníomhú"@ga,
+        "Zahtjev za odgodu ovrhe ili zahtjev za određivanje privremene mjere"@hr,
+        "A végrehajtás felfüggesztése iránti kérelem vagy ideiglenes intézkedés iránti kérelem"@hu,
+        "Domanda di sospensione dell'esecuzione o domanda di provvedimenti provvisori"@it,
+        "Prašymas sustabdyti vykdymą arba prašymas taikyti laikinąsias apsaugos primones"@lt,
+        "Pieteikums par piemērošanas apturēšanu vai pieteikums par pagaidu pasākumu noteikšanu"@lv,
+        "Talba għas-sospensjoni tal-eżekuzzjoni jew talba għal miżuri provviżorji"@mt,
+        "Verzoek tot opschorting van tenuitvoerlegging of tot verkrijging van voorlopige maatregelen"@nl,
+        "Wniosek o zawieszenie wykonania lub wniosek dotyczący środka tymczasowego"@pl,
+        "Pedido de suspensão da execução ou pedido de medidas provisórias"@pt,
+        "Cerere de suspendare a executării sau cerere de măsuri provizorii"@ro,
+        "Návrh na odklad výkonu alebo návrh na nariadenie predbežných opatrení"@sk,
+        "Predlog za odlog izvršitve ali predlog za izdajo začasnih odredb"@sl,
+        "Ansökan om uppskov med verkställighet eller ansökan om interimistiska åtgärder"@sv ;
+    skos:scopeNote "Art. 160, Règlement de procédure de la Cour, 2013"@fr ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/APPL_SUSP_ENF> a skos:Concept ;
+    at:authority-code "APPL_SUSP_ENF" ;
+    at:deprecated "false" ;
+    at:op-code "APPL_SUSP_ENF" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "APPL_SUSP_ENF" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "APPL_SUSP_ENF" ;
+    dc:identifier "APPL_SUSP_ENF" ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/5825f96edd20fcd18dde86b5ca0ac413>,
+        <http://publications.europa.eu/resource/authority/procjur/b1c97ff4513d90dc4c51782eeb2efd93> ;
+    skos:prefLabel "Молба за спиране на принудителното изпълнение"@bg,
+        "Návrh na zastavení nuceného výkonu"@cs,
+        "Anmodning om udsættelse af tvangsfuldbyrdelse"@da,
+        "Antrag auf Aussetzung der Zwangsvollstreckung"@de,
+        "Αίτηση αναστολής της αναγκαστικής εκτελέσεως"@el,
+        "Application to suspend enforcement"@en,
+        "Demanda de suspensión de la ejecución forzosa"@es,
+        "Sundtäitmise peatamise taotlus"@et,
+        "Pakkotäytäntöönpanon lykkäämistä koskeva pyyntö"@fi,
+        "Demande de suspension d’exécution forcée"@fr,
+        "Iarratas ar fhorfheidhmiú a fhionraí"@ga,
+        "Zahtjev za odgodu ovrhe"@hr,
+        "Végrehajtás felfüggesztése iránti kérelem"@hu,
+        "Domanda di sospensione d'esecuzione forzata"@it,
+        "Prašymas laikinai sustabdyti vykdymą"@lt,
+        "Pieteikums par piespiedu izpildes apturēšanu"@lv,
+        "Talba għas-sospensjoni tal-infurzar ta' eżekuzzjoni"@mt,
+        "Verzoek om opschorting van gedwongen tenuitvoerlegging"@nl,
+        "Wniosek o zawieszenie postępowania egzekucyjnego"@pl,
+        "Pedido de suspensão de execução coerciva"@pt,
+        "Cerere de suspendare a executării silite"@ro,
+        "Návrh na prerušenie núteného výkonu"@sk,
+        "Predlog za odlog izvršbe"@sl,
+        "Ansökan om uppskov med verkställigheten"@sv ;
+    skos:scopeNote "Art. 162, Règlement de procédure de la Cour, 2013"@fr ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/CLAUSE_ARB> a skos:Concept ;
+    at:authority-code "CLAUSE_ARB" ;
+    at:deprecated "false" ;
+    at:op-code "CLAUSE_ARB" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "COMP" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "CLAUSE_ARB" ;
+    dc:identifier "CLAUSE_ARB" ;
+    skos:altLabel "Šķīrējklauzula"@lv ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/498388f77e94de07e55f1c7674d167b1>,
+        <http://publications.europa.eu/resource/authority/procjur/e071bc6dce0948d5653892bf894103a7> ;
+    skos:prefLabel "Арбитражна клауза"@bg,
+        "Rozhodčí doložka"@cs,
+        "Voldgiftsbestemmelse"@da,
+        "Schiedsklausel"@de,
+        "Ρήτρα διαιτησίας"@el,
+        "Arbitration clause"@en,
+        "Cláusula compromisoria"@es,
+        "Vahekohtuklausel"@et,
+        "Välityslauseke"@fi,
+        "Clause compromissoire"@fr,
+        "Clásal eadrána"@ga,
+        "Arbitražna klauzula"@hr,
+        "Választottbírósági kikötés"@hu,
+        "Clausola compromissoria"@it,
+        "Arbitražinė išlyga"@lt,
+        "Šķīrējtiesas klauzula"@lv,
+        "Klawżola ta’ arbitraġġ"@mt,
+        "Arbitragebeding"@nl,
+        "Kaluzula arbitrażowa"@pl,
+        "Cláusula compromissória"@pt,
+        "Clauză compromisorie"@ro,
+        "Arbitrážna doložka"@sk,
+        "Arbitražna klavzula"@sl,
+        "Skiljedomsklausul"@sv ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/COST_ENF> a skos:Concept ;
+    at:authority-code "COST_ENF" ;
+    at:deprecated "false" ;
+    at:op-code "COST_ENF" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "COST_ENF" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "COST_ENF" ;
+    dc:identifier "COST_ENF" ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/212e64dc54c4cc6db88ed50912d417d3>,
+        <http://publications.europa.eu/resource/authority/procjur/3db3fb30d7dcccc59d26218650b123b7> ;
+    skos:prefLabel "Събиране на съдебни разноски"@bg,
+        "Výkon rozhodnutí o nákladech řízení"@cs,
+        "Fuldbyrdelse af sagsomkostninger"@da,
+        "Vollstreckung der Kosten"@de,
+        "Εκτέλεση των δικαστικών εξόδων"@el,
+        "Enforcement of costs"@en,
+        "Ejecución de costas"@es,
+        "Kohtukulude sissenõudmine"@et,
+        "Oikeudenkäyntikulujen perintä"@fi,
+        "Exécution des dépens"@fr,
+        "Forghníomhú costas"@ga,
+        "Ovrha troškova"@hr,
+        "Költségek végrehajtása"@hu,
+        "Esecuzione delle spese"@it,
+        "Bylinėjimosi išlaidų išreikalavimas"@lt,
+        "Tiesāšanās izdevumu piedziņa"@lv,
+        "Infurzar tal-ispejjeż"@mt,
+        "Tenuitvoerlegging van de kosten"@nl,
+        "Egzekucja kosztów sądowych"@pl,
+        "Execução das despesas"@pt,
+        "Executarea cheltuielilor de judecată"@ro,
+        "Exekúcia trov konania"@sk,
+        "Izvršba glede stroškov"@sl,
+        "Verkställighet av rättegångskostnader"@sv ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/COST_TAX> a skos:Concept ;
+    at:authority-code "COST_TAX" ;
+    at:deprecated "false" ;
+    at:op-code "COST_TAX" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "COST_TAX" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "COST_TAX" ;
+    dc:identifier "COST_TAX" ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/691bd75e66fa0becbf8825fe28a95e50>,
+        <http://publications.europa.eu/resource/authority/procjur/a668d82e1da965fff43358ebb22632ed> ;
+    skos:prefLabel "Определяне на съдебни разноски"@bg,
+        "Určení výše nákladů řízení"@cs,
+        "Fastsættelse af sagsomkostninger"@da,
+        "Kostenfestsetzung"@de,
+        "Καθορισμός των δικαστικών εξόδων"@el,
+        "Taxation of costs"@en,
+        "Tasación de costas"@es,
+        "Kohtukulude kindlaksmääramine"@et,
+        "Oikeudenkäyntikulujen määrän vahvistaminen"@fi,
+        "Taxation des dépens"@fr,
+        "Fómhas costas"@ga,
+        "Određivanje troškova"@hr,
+        "Költségek megállapítása"@hu,
+        "Liquidazione delle spese"@it,
+        "Bylinėjimosi išlaidų nustatymas"@lt,
+        "Tiesāšanās izdevumu noteikšana"@lv,
+        "Intaxxar tal-ispejjeż"@mt,
+        "Begroting van de kosten"@nl,
+        "Ustalenie kosztów"@pl,
+        "Fixação das despesas"@pt,
+        "Stabilirea cheltuielilor de judecată"@ro,
+        "Určenie výšky trov konania"@sk,
+        "Odmera stroškov"@sl,
+        "Fastställande av rättegångskostnader"@sv ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/DISS> a skos:Concept ;
+    at:authority-code "DISS" ;
+    at:deprecated "false" ;
+    at:op-code "DISS" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "DISS" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "DISS" ;
+    dc:identifier "DISS" ;
+    skos:definition "The President of the Civil service Tribunal may separate the case of one or more applicants who, together with others, have brought a group action."@en,
+        "Le président du TFP peut dissocier le cas d'un ou plusieurs requérants ayant, avec d'autres, introduit un recours collectif."@fr ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/e987ee310ddb3bd82bbf04a5a5a827b2> ;
+    skos:prefLabel "Отделяне на дела"@bg,
+        "Vyčlenění"@cs,
+        "Udskillelse af sager"@da,
+        "Trennung von Rechtssachen"@de,
+        "Χωρισμός υποθέσεων"@el,
+        "Separation of cases"@en,
+        "Separación de casos"@es,
+        "Kohtuasjade eraldamine"@et,
+        "Asioiden erottaminen omana asiana käsiteltäväksi"@fi,
+        "Dissociation d’affaires"@fr,
+        "Scaradh cásanna"@ga,
+        "Odvajanje predmeta"@hr,
+        "Ügyek elkülönítése"@hu,
+        "Stralcio di cause"@it,
+        "Bylų atskyrimas"@lt,
+        "Lietu nodalīšana"@lv,
+        "Separazzjoni tal-każijiet"@mt,
+        "Gescheiden behandeling"@nl,
+        "Rozłączenie spraw"@pl,
+        "Dissociação de processos"@pt,
+        "Disjungere a cauzelor"@ro,
+        "Vylúčenie veci na samostatné konanie"@sk,
+        "Izločitev zadev"@sl,
+        "Avskiljande av mål"@sv ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/GARNISHEE_ORDER> a skos:Concept ;
+    at:authority-code "GARNISHEE_ORDER" ;
+    at:deprecated "false" ;
+    at:op-code "GARNISHEE_ORDER" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "GARNISHEE_ORDER" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "GARNISHEE_ORDER" ;
+    dc:identifier "GARNISHEE_ORDER" ;
+    skos:historyNote "As from 1.1.2014, the former label in English 'Garnishee order' has been changed into 'Attachment order'; in Irish le former label 'Ordú gairnisí' has been changed into 'Ordú astaithe'."@en,
+        "À dater du 1.1.2014, l’ancienne dénomination en langue anglaise \"Garnishee order\" a été modifiée en \"Attachement order\"; en langue irlandaise l’ancienne dénomination \"Ordú gairnisí\" a été modifiée en \"Ordú astaithe\"."@fr ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/37f5a1148f4ab47d2d02a2792d9ac990>,
+        <http://publications.europa.eu/resource/authority/procjur/6517d04495053b070c62f4df900ee33f> ;
+    skos:prefLabel "Запор"@bg,
+        "Zabavení pohledávky"@cs,
+        "Arrest eller udlæg"@da,
+        "Pfändung"@de,
+        "Κατάσχεση εις χείρας τρίτου"@el,
+        "Attachment order"@en,
+        "Retención de bienes en poder de tercero"@es,
+        "Arestimisotsus"@et,
+        "Vakuustakavarikko"@fi,
+        "Saisie-arrêt"@fr,
+        "Ordú astaithe"@ga,
+        "Pljenidba"@hr,
+        "Felhatalmazás végrehajtás foganatosítására"@hu,
+        "Pignoramento"@it,
+        "Sprendimas dėl apribojimų taikymo"@lt,
+        "Apķīlāšana"@lv,
+        "Sekwestru"@mt,
+        "Derdenbeslag"@nl,
+        "Zajęcie"@pl,
+        "Penhora"@pt,
+        "Sechestru / Poprire"@ro,
+        "Zabezpečenie pohľadávky"@sk,
+        "Rubež"@sl,
+        "Utmätning"@sv ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/INTERP> a skos:Concept ;
+    at:authority-code "INTERP" ;
+    at:deprecated "false" ;
+    at:op-code "INTERP" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "INTERP" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "INTERP" ;
+    dc:identifier "INTERP" ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/e7be35ede028410e3854e4e28216052f> ;
+    skos:prefLabel "Тълкуване"@bg,
+        "Výklad"@cs,
+        "Fortolkning"@da,
+        "Auslegung"@de,
+        "Ερμηνεία"@el,
+        "Interpretation"@en,
+        "Interpretación"@es,
+        "Tõlgendamine"@et,
+        "Tulkinta"@fi,
+        "Interprétation"@fr,
+        "Ateangaireacht"@ga,
+        "Tumačenje"@hr,
+        "Értelmezés"@hu,
+        "Interpretazione"@it,
+        "Vertimas žodžiu"@lt,
+        "Interpretācija"@lv,
+        "Interpretazzjoni"@mt,
+        "Uitlegging"@nl,
+        "Wykładnia"@pl,
+        "Interpretação"@pt,
+        "Interpretare"@ro,
+        "Výklad"@sk,
+        "Razlaga"@sl,
+        "Tolkning"@sv ;
+    skos:scopeNote "Art. 158, Règlement de procédure de la Cour, 2013"@fr ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/JUDG_REF_BACK> a skos:Concept ;
+    at:authority-code "JUDG_REF_BACK" ;
+    at:deprecated "false" ;
+    at:op-code "JUDG_REF_BACK" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "RENV" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "JUDG_REF_BACK" ;
+    dc:identifier "JUDG_REF_BACK" ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/4b2a1000d6942b1c17a6ba1fff1d1e7d>,
+        <http://publications.europa.eu/resource/authority/procjur/dc615753e03954ab81b308a25c8004f0> ;
+    skos:prefLabel "Съдебно решение, постановено след отмяна и връщане на делото за ново разглеждане"@bg,
+        "Rozsudek vydán po zrušení a po pověření nižšího soudního úředníka soudním úkonem"@cs,
+        "Dom afsagt efter ophævelse og hjemvisning"@da,
+        "Urteil nach Aufhebung und Zurückverweisung"@de,
+        "Απόφαση εκδιδόμενη κατόπιν αναιρέσεως και αναπομπής"@el,
+        "Judgment delivered after setting aside and referral back"@en,
+        "Sentencia dictada previa anulación y devolución"@es,
+        "Pärast tühistamist ja kohtuasja uueks arutamiseks saatmist tehtud kohtuotsus"@et,
+        "Kumoamisen ja palauttamisen jälkeen annettu tuomio"@fi,
+        "Arrêt rendu après annulation et renvoi"@fr,
+        "Breithiúnas tar éis neamhniú agus tarchur ar ais"@ga,
+        "Presuda donesena nakon ukidanja i vraćanja na ponovno odlučivanje"@hr,
+        "Hatályon kívül helyezést és visszautalást követően hozott ítélet"@hu,
+        "Sentenza pronunciata a seguito di annullamento e rinvio"@it,
+        "Sprendimas, paskelbtas panaikinus sprendimą ir grąžinus bylą"@lt,
+        "Spriedums, kas taisīts pēc atcelšanas un nodošanas atpakaļ"@lv,
+        "Sentenza mogħtija wara annullament u rinviju"@mt,
+        "Arrest gewezen na vernietiging en verwijzing"@nl,
+        "Wyrok wydany po uchyleniu wyroku i odesłaniu"@pl,
+        "Acórdão proferido após anulação e remessa"@pt,
+        "Hotărâre pronunțată după anularea cu trimitere spre rejudecare"@ro,
+        "Rozsudok vydaný po zrušení a vrátení"@sk,
+        "Sodba, izdana po razveljavitvi in vrnitvi v novo odločanje"@sl,
+        "Dom meddelad efter upphävande och återförvisning"@sv ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/JUDG_REV> a skos:Concept ;
+    at:authority-code "JUDG_REV" ;
+    at:deprecated "false" ;
+    at:op-code "JUDG_REV" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "JUDG_REV" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "JUDG_REV" ;
+    dc:identifier "JUDG_REV" ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/1a2ae664eb894080a57d9b67c36c8a93> ;
+    skos:prefLabel "Отмяна на влязло в сила съдебно решение"@bg,
+        "Obnova řízení"@cs,
+        "Ekstraordinær genoptagelse af en sag"@da,
+        "Wiederaufnahmeverfahren"@de,
+        "Αναθεώρηση αποφάσεως"@el,
+        "Revision of a judgment"@en,
+        "Revisión de una sentencia"@es,
+        "Kohtuotsuse teistmine"@et,
+        "Tuomion purkaminen"@fi,
+        "Révision d’un arrêt"@fr,
+        "Athbhreithniú breithiúnais"@ga,
+        "Ponavljanje postupka"@hr,
+        "Perújítás"@hu,
+        "Revocazione di una sentenza"@it,
+        "Bylos, kurioje priimtas sprendimas, atnaujinimas"@lt,
+        "Sprieduma pārskatīšana"@lv,
+        "Reviżjoni ta’ sentenza"@mt,
+        "Herziening van een arrest"@nl,
+        "Wznowienie postępowania zakończonego wyrokiem"@pl,
+        "Revisão de um acórdão"@pt,
+        "Revizuirea unei hotărâri"@ro,
+        "Obnova konania"@sk,
+        "Obnova postopka, v katerem je bila izrečena sodba"@sl,
+        "Resning"@sv ;
+    skos:scopeNote "Art. 159, Règlement de procédure de la Cour, 2013"@fr ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/OMST> a skos:Concept ;
+    at:authority-code "OMST" ;
+    at:deprecated "false" ;
+    at:op-code "OMST" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "OMST" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "OMST" ;
+    dc:identifier "OMST" ;
+    skos:definition "The failure to adjudicate means that if the Court or the General Court has failed to adjudicate on a specific head of claim or on costs, any party wishing to rely on that may, within a month after service of the decision, apply to supplement its decision."@en ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/e91818a89c72f6d5b5c969cdd2d8ca0a> ;
+    skos:prefLabel "Пропуск при произнасяне"@bg,
+        "Chybějící rozhodnutí"@cs,
+        "Undladelse af at træffe afgørelse"@da,
+        "Unterlassen einer Entscheidung"@de,
+        "Παράλειψη του Δικαστηρίου να αποφανθεί"@el,
+        "Failure to adjudicate"@en,
+        "Omisión de pronunciamiento"@es,
+        "Lahendamata jätmine"@et,
+        "Lausumatta jättäminen"@fi,
+        "Omission de statuer"@fr,
+        "Mainníodh an cás a chur de láimh"@ga,
+        "Propust Općeg suda da odluči"@hr,
+        "A határozathozatal elmulasztása"@hu,
+        "Omessa pronuncia"@it,
+        "Sprendimo nepriėmimas tam tikru klausimu"@lt,
+        "Lēmuma nepieņemšana"@lv,
+        "Nuqqas li tingħata deċiżjoni"@mt,
+        "Verzuim om te beslissen"@nl,
+        "Brak rozstrzygnięcia"@pl,
+        "Omissão de pronúncia"@pt,
+        "Omisiunea de pronunțare"@ro,
+        "Návrh na doplnenie rozhodnutia"@sk,
+        "Neodločitev"@sl,
+        "Underlåtelse att pröva ett yrkande eller fatta beslut om rättegångskostnaderna"@sv ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/OPPO> a skos:Concept ;
+    at:authority-code "OPPO" ;
+    at:deprecated "false" ;
+    at:op-code "OPPO" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "OPPO" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "OPPO" ;
+    dc:identifier "OPPO" ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/30f8041bdabbdd451d577880b83b59bf>,
+        <http://publications.europa.eu/resource/authority/procjur/75543c7031563739fa834311b2f3ad90>,
+        <http://publications.europa.eu/resource/authority/procjur/ac51085f70026e1c4b884d2af133c372> ;
+    skos:prefLabel "Възражение"@bg,
+        "Odpor"@cs,
+        "Genoptagelse"@da,
+        "Einspruch"@de,
+        "Ανακοπή"@el,
+        "Opposition"@en,
+        "Oposición"@es,
+        "Kaja"@et,
+        "Takaisinsaanti"@fi,
+        "Opposition"@fr,
+        "Iarratas chun imeachtaí a chur ar ceal"@ga,
+        "Prigovor"@hr,
+        "Ellentmondás"@hu,
+        "Opposizione"@it,
+        "Skundas"@lt,
+        "Iebildumi"@lv,
+        "Oppożizzjoni"@mt,
+        "Verzet"@nl,
+        "Sprzeciw"@pl,
+        "Oposição"@pt,
+        "Opoziție"@ro,
+        "Návrh na zrušenie rozsudku pre zmeškanie"@sk,
+        "Ugovor"@sl,
+        "Återvinning"@sv ;
+    skos:scopeNote "Art. 156, Règlement de procédure de la Cour, 2013"@fr ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/OP_DATPRO> a skos:Concept ;
+    at:authority-code "OP_DATPRO" ;
+    at:deprecated "false" ;
+    at:op-code "OP_DATPRO" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:procjur ;
+    skos:prefLabel "Неокончателни данни"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/PPAR> a skos:Concept ;
+    at:authority-code "PPAR" ;
+    at:deprecated "false" ;
+    at:op-code "PPAR" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "PPAR" ;
+            dc:source "EurLex" ] ;
+    at:start.use "2018-03-16" ;
+    atold:op-code "PPAR" ;
+    dc:identifier "PPAR" ;
+    skos:definition "The Special proceedings refer to proceedings under Article 14.2 of Protocol 4 on the statute of the European System of Central Banks and of the European Central Bank annexed to the TFEU."@en ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/635b347457beb83f60e0556619908cef> ;
+    skos:prefLabel "Особено производство"@bg,
+        "Zvláštní řízení"@cs,
+        "Særlig procedure"@da,
+        "Besonderes Verfahren"@de,
+        "Ειδική διαδικασία"@el,
+        "Special proceedings"@en,
+        "Procedimiento especial"@es,
+        "Erimenetlus"@et,
+        "Erityismenettely"@fi,
+        "Procédure particulière"@fr,
+        "Imeachtaí speisialta"@ga,
+        "Posebni postupak"@hr,
+        "Különleges eljárás"@hu,
+        "Procedimento particolare"@it,
+        "Ypatinga procedūra"@lt,
+        "Sevišķā tiesāšanās kārtība"@lv,
+        "Proċedura speċjali"@mt,
+        "Bijzondere procedure"@nl,
+        "Postępowanie szczególne"@pl,
+        "Procedimento especial"@pt,
+        "Procedură special"@ro,
+        "Osobitné konanie"@sk,
+        "Posebni postopek"@sl,
+        "Särskilt förfarande"@sv ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/PROC_OPI> a skos:Concept ;
+    at:authority-code "PROC_OPI" ;
+    at:deprecated "false" ;
+    at:op-code "PROC_OPI" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "AVIS" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "PROC_OPI" ;
+    dc:identifier "PROC_OPI" ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/1a63de82f0fe33ea98d8e9ee174918b9>,
+        <http://publications.europa.eu/resource/authority/procjur/725f6a3c1dc676dba44257ffdd50446d>,
+        <http://publications.europa.eu/resource/authority/procjur/f9566a86dc2d3f8953c67b33acabfa4b> ;
+    skos:prefLabel "Производство за даване на становище (Договор за ЕИО/ЕО)"@bg,
+        "Řízení o posudku"@cs,
+        "Procedure med afgivelse af udtalelse"@da,
+        "Gutachtenverfahren"@de,
+        "Διαδικασία γνωμοδοτήσεως"@el,
+        "Opinion procedure"@en,
+        "Procedimiento de dictamen"@es,
+        "Arvamuse menetlus"@et,
+        "Lausuntomenettely"@fi,
+        "Procédure d’avis"@fr,
+        "Nós imeachta tuairime"@ga,
+        "Postupak donošenja mišljenja"@hr,
+        "Vélemény iránti eljárás"@hu,
+        "Procedura di parere"@it,
+        "Nuomonės pateikimo procedūra"@lt,
+        "Atzinuma procedūra"@lv,
+        "Proċedura ta’ opinjoni"@mt,
+        "Adviesprocedure"@nl,
+        "Postępowanie w sprawie wydania opinii"@pl,
+        "Procedimento de parecer"@pt,
+        "Procedura de emitere a unui aviz"@ro,
+        "Konanie o stanovisku"@sk,
+        "Postopek za izdajo mnenja"@sl,
+        "Förfarande för avgivande av yttrande"@sv ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/PROC_PART> a skos:Concept ;
+    at:authority-code "PROC_PART" ;
+    at:deprecated "false" ;
+    at:op-code "PROC_PART" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "PROC_PART" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "PROC_PART" ;
+    dc:identifier "PROC_PART" ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/4d16f6b416a9aa90f3103cffa56ff911>,
+        <http://publications.europa.eu/resource/authority/procjur/67a2df40614bb11a7bfc4ff04f53cd4f> ;
+    skos:prefLabel "Особено производство"@bg,
+        "Zvláštní řízení"@cs,
+        "Særlig procedure"@da,
+        "Besonderes Verfahren"@de,
+        "Ειδική διαδικασία"@el,
+        "Particular form of procedure"@en,
+        "Procedimiento especial"@es,
+        "Erimenetlus"@et,
+        "Erityismenettely"@fi,
+        "Procédure particulière"@fr,
+        "Nós imeachta speisialta"@ga,
+        "Posebni postupak"@hr,
+        "Különleges eljárás"@hu,
+        "Procedimento particolare"@it,
+        "Specialioji procedūra"@lt,
+        "Sevišķā tiesāšanās kārtība"@lv,
+        "Proċedura speċjali"@mt,
+        "Bijzondere procedure"@nl,
+        "Procedura szczególna"@pl,
+        "Processo especial"@pt,
+        "Procedură specială"@ro,
+        "Osobitné konanie"@sk,
+        "Poseben postopek"@sl,
+        "Särskild måltyp"@sv ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/PROPERTY_INTEL> a skos:Concept ;
+    at:authority-code "PROPERTY_INTEL" ;
+    at:deprecated "false" ;
+    at:op-code "PROPERTY_INTEL" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "PROPERTY_INTEL" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "PROPERTY_INTEL" ;
+    dc:identifier "PROPERTY_INTEL" ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/1d68a59c82e7ea7bfdf88c86ad243049> ;
+    skos:prefLabel "Интелектуална собственост"@bg,
+        "Duševní vlastnictví"@cs,
+        "Intellektuelle ejendomsrettigheder"@da,
+        "Geistiges Eigentum"@de,
+        "Πνευματική ιδιοκτησία"@el,
+        "Intellectual property"@en,
+        "Propiedad intelectual e industrial"@es,
+        "Intellektuaalomand"@et,
+        "Immateriaalioikeudet"@fi,
+        "Propriété intellectuelle"@fr,
+        "Maoin intleachtúil"@ga,
+        "Intelektualno vlasništvo"@hr,
+        "Szellemi tulajdon"@hu,
+        "Proprità intellettuale"@it,
+        "Intelektinė nuosavybė"@lt,
+        "Intelektuālais īpašums"@lv,
+        "Proprjetà intellettwali"@mt,
+        "Intellectuele eigendom"@nl,
+        "Własność intelektualna"@pl,
+        "Propriedade intelectual"@pt,
+        "Proprietate intelectuală"@ro,
+        "Duševné vlastníctvo"@sk,
+        "Intelektualna lastnina"@sl,
+        "Immaterialrätt"@sv ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/RECT> a skos:Concept ;
+    at:authority-code "RECT" ;
+    at:deprecated "false" ;
+    at:op-code "RECT" ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "RECT" ;
+    dc:identifier "RECT" ;
+    skos:inScheme atold:procjur ;
+    skos:prefLabel "Поправка"@bg,
+        "Oprava"@cs,
+        "Berigtigelse"@da,
+        "Berichtigung"@de,
+        "Διόρθωση"@el,
+        "Rectification"@en,
+        "Rectificación"@es,
+        "Parandamine"@et,
+        "Oikaisu"@fi,
+        "Rectification"@fr,
+        "Ceartúchán"@ga,
+        "Ispravak"@hr,
+        "Kijavítás"@hu,
+        "Rettifica"@it,
+        "Klaidų ištaisymas"@lt,
+        "Labošana"@lv,
+        "Rettifika"@mt,
+        "Rectificatie"@nl,
+        "Sprostowanie"@pl,
+        "Retificação"@pt,
+        "Rectificare"@ro,
+        "Oprava"@sk,
+        "Poprava"@sl,
+        "Rättelse"@sv ;
+    skos:scopeNote "Art. 154, Règlement de procédure de la Cour, 2013"@fr ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/REFER_PREL> a skos:Concept ;
+    at:authority-code "REFER_PREL" ;
+    at:deprecated "false" ;
+    at:op-code "REFER_PREL" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "PREJ" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "REFER_PREL" ;
+    dc:identifier "REFER_PREL" ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/170c3285790e7a8af9c2f10e5c547ba2>,
+        <http://publications.europa.eu/resource/authority/procjur/2cb15fadc8a469e79dd5898c058fe7b3>,
+        <http://publications.europa.eu/resource/authority/procjur/8ce0f27aa3e71fbba7cfba55f04a764c> ;
+    skos:prefLabel "Преюдициално запитване"@bg,
+        "Řízení o předběžné otázce"@cs,
+        "Præjudicielle sager"@da,
+        "Vorabentscheidungsersuchen"@de,
+        "Αίτηση εκδόσεως προδικαστικής αποφάσεως"@el,
+        "Reference for a preliminary ruling"@en,
+        "Procedimiento prejudicial"@es,
+        "Eelotsusetaotlus"@et,
+        "Ennakkoratkaisupyyntö"@fi,
+        "Renvoi préjudiciel"@fr,
+        "Tarchur le haghaidh réamhrialú"@ga,
+        "Prethodno pitanje"@hr,
+        "Előzetes döntéshozatal iránti kérelem"@hu,
+        "Rinvio pregiudiziale"@it,
+        "Prašymas priimti prejudicinį sprendimą"@lt,
+        "Lūgums sniegt prejudiciālu nolēmumu"@lv,
+        "Rinviju għal deċiżjoni preliminari"@mt,
+        "Prejudiciële verwijzing"@nl,
+        "Odesłanie prejudycjalne"@pl,
+        "Reenvio prejudicial"@pt,
+        "Trimitere preliminară"@ro,
+        "Návrh na začatie prejudiciálneho konania"@sk,
+        "Predhodno odločanje"@sl,
+        "Begäran om förhandsavgörande"@sv ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/REFER_PREL_URG> a skos:Concept ;
+    at:authority-code "REFER_PREL_URG" ;
+    at:deprecated "false" ;
+    at:op-code "REFER_PREL_URG" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "REFER_PREL_URG" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "REFER_PREL_URG" ;
+    dc:identifier "REFER_PREL_URG" ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/499d8cd426872b2f0ef5af8873b6a493>,
+        <http://publications.europa.eu/resource/authority/procjur/5e676ceab13bd7d33d8bbb8651b5e86d> ;
+    skos:prefLabel "Производство по постановяване на преюдициално заключение - Спешно производство"@bg,
+        "Řízení o předběžné otázce - Naléhavé řízení"@cs,
+        "Præjudiciel forelæggelse - hasteprocedure"@da,
+        "Vorabentscheidungsersuchen - Eilverfahren"@de,
+        "Υποβολή προδικαστικού ερωτήματος - Επείγουσα διαδικασία"@el,
+        "Preliminary reference - urgent procedure"@en,
+        "Petición de decisión prejudicial - procedimiento de urgencia"@es,
+        "Eelotsusetaotlus. Kiirmenetlus"@et,
+        "Ennakkoratkaisupyyntö – Kiireellinen menettely"@fi,
+        "Renvoi préjudiciel - Procédure d’urgence"@fr,
+        "Tarchur le haghaidh réamhrialú - Nós imeachta práinne"@ga,
+        "Prethodno pitanje – Hitni postupak"@hr,
+        "Előzetes döntéshozatalra utalás - Sürgősségi eljárás"@hu,
+        "Rinvio pregiudiziale - Procedimento d'urgenza"@it,
+        "Prašymas priimti prejudicinį sprendimą - Sprendimo priėmimo skubos tvarka procedūra"@lt,
+        "Lūgums sniegt prejudiciālu nolēmumu - Steidzamības tiesvedība"@lv,
+        "Rinviju għal deċiżjoni preliminari - Proċedura b’urġenza"@mt,
+        "Prejudiciële verwijzing - Spoedprocedure"@nl,
+        "Odesłanie prejudycjalne - Rozpoznanie w trybie pilnym"@pl,
+        "Reenvio prejudicial - Tramitação urgente"@pt,
+        "Trimitere preliminară - Procedură de urgență"@ro,
+        "Návrh na začatie prejudiciálneho konania – Naliehavé konanie"@sk,
+        "Predlog za sprejetje predhodne odločbe - nujni postopek"@sl,
+        "Begäran om förhandsavgörande - förfarande för brådskande mål"@sv ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/REF_BACK_ASIDE> a skos:Concept ;
+    at:authority-code "REF_BACK_ASIDE" ;
+    at:deprecated "false" ;
+    at:op-code "REF_BACK_ASIDE" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "REF_BACK_ASIDE" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "REF_BACK_ASIDE" ;
+    dc:identifier "REF_BACK_ASIDE" ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/d4bf5cf8f7e7638b7b83c0b6eda98493>,
+        <http://publications.europa.eu/resource/authority/procjur/f77a2419cd030130b994034a91288c56> ;
+    skos:prefLabel "Връщане на делото след отмяна"@bg,
+        "Vrácení věci po zrušení"@cs,
+        "Hjemvisning efter annullation"@da,
+        "Zurückverweisung nach Aufhebung"@de,
+        "Αναπομπή κατόπιν αναιρέσεως"@el,
+        "Referral back after setting aside"@en,
+        "Devolución del asunto tras la casación"@es,
+        "Tagasisaatmine tühistamise tagajärjel"@et,
+        "Asian palauttaminen kumoamisen jälkeen"@fi,
+        "Renvoi suite à annulation"@fr,
+        "Tarchuir ar ais tar eis cinneadh a chur ar ceal"@ga,
+        "Vraćanje predmeta na ponovni postupak nakon ukidanja"@hr,
+        "Hatályon kívül helyezést követő visszautalás"@hu,
+        "Rinvio dopo annullamento"@it,
+        "Bylos grąžinimas po panaikinimo"@lt,
+        "Lietas nodošana atpakaļ pēc nolēmuma atcelšanas"@lv,
+        "Rinviju wara annullament"@mt,
+        "Verwijzing na nietigverklaring"@nl,
+        "Odesłanie w następstwie uchylenia"@pl,
+        "Remessa na sequência de anulação"@pt,
+        "Trimitere spre rejudecare ca urmare a anulării"@ro,
+        "Postúpenie v nadväznosti na zrušenie"@sk,
+        "Vrnitev zadeve v razsojanje po razveljavitvi"@sl,
+        "Återförvisning efter upphävande"@sv ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/REF_BACK_DECLIN> a skos:Concept ;
+    at:authority-code "REF_BACK_DECLIN" ;
+    at:deprecated "false" ;
+    at:op-code "REF_BACK_DECLIN" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "REF_BACK_DECLIN" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "REF_BACK_DECLIN" ;
+    dc:identifier "REF_BACK_DECLIN" ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/47ca11558d1fca1903c10c88be3de76d>,
+        <http://publications.europa.eu/resource/authority/procjur/8509588ab85f3231af68a32721f4b745> ;
+    skos:prefLabel "Разпределяне на делата при прекратяване на производството"@bg,
+        "Postoupení věci po upuštění od jejího projednání"@cs,
+        "Hjemvisninger efter erklæring om manglende kompetence"@da,
+        "Zurückverweisungen nach Abgabe"@de,
+        "Αναπομπή όταν το δικάζον δικαστήριο κρίνει εαυτό αναρμόδιο"@el,
+        "Referrals back after jurisdiction has been declined"@en,
+        "Remisión del asunto tras la declinación de competencia"@es,
+        "Tagasisaatmine pärast asja üleandmist"@et,
+        "Asian siirtäminen"@fi,
+        "Renvoi après dessaisissement"@fr,
+        "Tarchuir ar ais tar eis cinneadh diultiú do dhlínse"@ga,
+        "Ustupanje predmeta nakon oglašavanja suda nenadležnim"@hr,
+        "Valamely tanácstól való visszautalás"@hu,
+        "Rinvio dopo riattribuzione di cause"@it,
+        "Bylos perdavimas teismui atsisakius nagrinėti bylą"@lt,
+        "Lietas nodošana atpakaļ pēc atteikšanās izskatīt lietu"@lv,
+        "Rinviju wara astensjoni"@mt,
+        "Verwijzing naar grotere rechtsprekende formatie"@nl,
+        "Przydzielenia w następstwie przekazania"@pl,
+        "Remessa após declinação de competência"@pt,
+        "Trimitere spre rejudecare ca urmare a anulării"@ro,
+        "Pridelenie po postúpení"@sk,
+        "Odstop zadeve zaradi izreka za nepristojno"@sl,
+        "Återförvisning efter överlämnande av mål"@sv ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/REF_BACK_LACK> a skos:Concept ;
+    at:authority-code "REF_BACK_LACK" ;
+    at:deprecated "false" ;
+    at:op-code "REF_BACK_LACK" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "REF_BACK_LACK" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "REF_BACK_LACK" ;
+    dc:identifier "REF_BACK_LACK" ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/23a6194cbefab0e5f8343f462ccb04a6>,
+        <http://publications.europa.eu/resource/authority/procjur/89ea2692bbe3b705e2a8d88557647a7e> ;
+    skos:prefLabel "Преразпределяне поради липса на компетентност"@bg,
+        "Postoupení věci pro nepříslušnost"@cs,
+        "Hjemvisning på grund af manglende kompetence"@da,
+        "Zurückverweisung wegen Unzuständigkeit"@de,
+        "Αναπομπή λόγω αναρμοδιότητας"@el,
+        "Referral back for lack of competence"@en,
+        "Remisión del asunto en caso de incompetencia"@es,
+        "Tagasisaatmine pädevuse puudumise tõttu"@et,
+        "Asian siirtäminen toimivallan puuttumisen perusteella"@fi,
+        "Renvoi pour incompétence"@fr,
+        "Tarchuir ar ais de bharr doghlacthacht"@ga,
+        "Ustupanje predmeta zbog nenadležnosti"@hr,
+        "Hatáskör hiánya miatti visszautalás"@hu,
+        "Rinvio per incompetenza"@it,
+        "Bylos perdavimas dėl jurisdikcijos neturėjimo"@lt,
+        "Lietas nodošana atpakaļ kompetences neesamības dēļ"@lv,
+        "Rinviju minħabba nuqqas ta’ ġurisdizzjoni"@mt,
+        "Verwijzing wegens onbevoegdheid"@nl,
+        "Przekazanie w przypadku braku właściwości"@pl,
+        "Remessa por incompetência"@pt,
+        "Trimitere spre rejudecare pentru necompetență"@ro,
+        "Postúpenie pre nedostatok právomoci"@sk,
+        "Odstop zadeve zaradi nepristojnosti"@sl,
+        "Återförvisning på grund av avsaknad av behörighet"@sv ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/REF_BACK_REVIEW> a skos:Concept ;
+    at:authority-code "REF_BACK_REVIEW" ;
+    at:deprecated "false" ;
+    at:op-code "REF_BACK_REVIEW" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "REF_BACK_REVIEW" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "REF_BACK_REVIEW" ;
+    dc:identifier "REF_BACK_REVIEW" ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/9a31202b9dba617905298bbff55cfcaa>,
+        <http://publications.europa.eu/resource/authority/procjur/9de57b2af7b69c703ad8ae8a5ae57bf5> ;
+    skos:prefLabel "Връщане на делото след преразглеждане"@bg,
+        "Vrácení věci po přezkumu"@cs,
+        "Hjemvisning efter fornyet prøvelse"@da,
+        "Zurückverweisung nach Überprüfung"@de,
+        "Αναπομπή κατόπιν επανεξετάσεως"@el,
+        "Referral back after review"@en,
+        "Devolución del asunto tras el reexamen"@es,
+        "Tagasisaatmine pärast uuesti läbivaatamist"@et,
+        "Asian siirtäminen uudelleen tutkimisen jälkeen"@fi,
+        "Renvoi après réexamen"@fr,
+        "Tarchuir ar ais tar eis athbhreithniú"@ga,
+        "Vraćanje predmeta na ponovni postupak nakon preispitivanja"@hr,
+        "Felülvizsgálatot követő visszautalás"@hu,
+        "Rinvio dopo riesame"@it,
+        "Bylos grąžinimas po peržiūrėjimo"@lt,
+        "Lietas nodošana atpakaļ pēc pārskatīšanas"@lv,
+        "Rinviju wara eżami mill-ġdid"@mt,
+        "Verwijzing na heroverweging"@nl,
+        "Przekazanie w następstwie szczególnej procedury kontroli"@pl,
+        "Remessa após reapreciação"@pt,
+        "Trimitere spre rejudecare după reexaminare"@ro,
+        "Postúpenie po preskúmaní"@sk,
+        "Vrnitev zadeve v razsojanje po preveritvi"@sl,
+        "Återförvisning efter omprövning"@sv ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/REF_P_BACK_ASIDE> a skos:Concept ;
+    at:authority-code "REF_P_BACK_ASIDE" ;
+    at:deprecated "false" ;
+    at:op-code "REF_P_BACK_ASIDE" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "REF_P_BACK_ASIDE" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "REF_P_BACK_ASIDE" ;
+    dc:identifier "REF_P_BACK_ASIDE" ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/240cacff1c9f7af829a69c5cca860b59>,
+        <http://publications.europa.eu/resource/authority/procjur/f77361006b590c0f71d4c61da7d6e976> ;
+    skos:prefLabel "Частично връщане на делото след отмяна"@bg,
+        "Částečné vrácení věci po zrušení"@cs,
+        "Delvis hjemvisning efter annullation"@da,
+        "Teilweise Zurückverweisung nach Aufhebung"@de,
+        "Μερική αναπομπή κατόπιν αναιρέσεως"@el,
+        "Partial referral back after setting aside"@en,
+        "Devolución parcial del asunto tras la casación"@es,
+        "Osaline tagasisaatmine tühistamise tagajärjel"@et,
+        "Osittainen palauttaminen kumoamisen jälkeen"@fi,
+        "Renvoi partiel suite à annulation"@fr,
+        "Tarchuir ar ais páirteach tar eis cinneadh a chur ar ceal"@ga,
+        "Djelomično vraćanje predmeta na ponovni postupak nakon ukidanja"@hr,
+        "Hatályon kívül helyezést követő részleges visszautalás"@hu,
+        "Rinvio parziale dopo annullamento"@it,
+        "Dalinis bylos grąžinimas po panaikinimo"@lt,
+        "Daļēja lietas nodošana atpakaļ pēc nolēmuma atcelšanas"@lv,
+        "Rinviju parzjali wara annullament"@mt,
+        "Gedeeltelijke verwijzing na nietigverklaring"@nl,
+        "Odesłanie częściowe w następstwie uchylenia"@pl,
+        "Remessa parcial na sequência de anulação"@pt,
+        "Trimitere spre rejudecare parțială ca urmare a anulării"@ro,
+        "Čiastočné postúpenie v nadväznosti na zrušenie"@sk,
+        "Vrnitev dela zadeve v razsojanje po razveljavitvi"@sl,
+        "Delvis återförvisning efter upphävande"@sv ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/REF_P_BACK_DECLIN> a skos:Concept ;
+    at:authority-code "REF_P_BACK_DECLIN" ;
+    at:deprecated "false" ;
+    at:op-code "REF_P_BACK_DECLIN" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "REF_P_BACK_DECLIN" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "REF_P_BACK_DECLIN" ;
+    dc:identifier "REF_P_BACK_DECLIN" ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/0df19cc2a9f0e73f5c9b699637e4f83b>,
+        <http://publications.europa.eu/resource/authority/procjur/79b4c87c3faac4301c569bb3eb75f1e8> ;
+    skos:prefLabel "Частично преразпределяне на делата след прекратяване на производството"@bg,
+        "Částečné postoupení věci po upuštění od jejího projednání"@cs,
+        "Delvise hjemvisninger efter erklæring om manglende kompetence"@da,
+        "Teilweise Zurückverweisungen nach Abgabe"@de,
+        "Μερική αναπομπή όταν το δικάζον δικαστήριο κρίνει εαυτό αναρμόδιο"@el,
+        "Partial referrals back after jurisdiction has been declined"@en,
+        "Remisión parcial del asunto tras la declinación de competencia"@es,
+        "Osaline tagasisaatmine pärast asja üleandmist"@et,
+        "Osittainen siirtäminen"@fi,
+        "Renvoi partiel après dessaisissement"@fr,
+        "Tarchuir ar ais páirteach tar eis cinneadh diultiú do dhlínse"@ga,
+        "Djelomično ustupanje predmeta nakon oglašavanja suda nenadležnim"@hr,
+        "Valamely tanácstól való részleges visszautalás"@hu,
+        "Rinvio parziale dopo riattribuzione di cause"@it,
+        "Dalinis bylos perdavimas teismui atsisakius nagrinėti bylą"@lt,
+        "Daļēja lietas nodošana atpakaļ pēc atteikšanās izskatīt lietu"@lv,
+        "Rinviju parzjali wara astensjoni"@mt,
+        "Gedeeltelijke verwijzing naar grotere rechtsprekende formatie"@nl,
+        "Przydzielenia częściowe w następstwie przekazania"@pl,
+        "Remessa parcial após declinação de competência"@pt,
+        "Trimitere spre rejudecare parțială după desesizare"@ro,
+        "Čiastočné pridelenia po postúpení"@sk,
+        "Odstop dela zadeve zaradi izreka za nepristojno"@sl,
+        "Delvis återförvisning efter överlämnande av mål"@sv ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/REF_P_BACK_LACK> a skos:Concept ;
+    at:authority-code "REF_P_BACK_LACK" ;
+    at:deprecated "false" ;
+    at:op-code "REF_P_BACK_LACK" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "REF_P_BACK_LACK" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "REF_P_BACK_LACK" ;
+    dc:identifier "REF_P_BACK_LACK" ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/38296106bb525a100e0b261d6127fd53>,
+        <http://publications.europa.eu/resource/authority/procjur/de9d241ac84c0318c1487ba3c4f5e573> ;
+    skos:prefLabel "Частично преразпределяне поради липса на компетентност"@bg,
+        "Částečné postoupení věci pro nepříslušnost"@cs,
+        "Delvis hjemvisning på grund af manglende kompetence"@da,
+        "Teilweise Zurückverweisung wegen Unzuständigkeit"@de,
+        "Μερική αναπομπή λόγω αναρμοδιότητας"@el,
+        "Partial referral back for lack of competence"@en,
+        "Remisión parcial del asunto en caso de incompetencia"@es,
+        "Osaline tagasisaatmine pädevuse puudumise tõttu"@et,
+        "Osittainen siirtäminen toimivallan puuttumisen perusteella"@fi,
+        "Renvoi partiel pour incompétence"@fr,
+        "Tarchuir ar ais páirteach de bharr doghlacthacht"@ga,
+        "Djelomično ustupanje predmeta zbog nenadležnosti"@hr,
+        "Hatáskör hiánya miatti részleges visszautalás"@hu,
+        "Rinvio parziale per incompetenza"@it,
+        "Dalinis bylos perdavimas dėl jurisdikcijos neturėjimo"@lt,
+        "Daļēja lietas nodošana atpakaļ kompetences neesamības dēļ"@lv,
+        "Rinviju parzjali minħabba nuqqas ta’ ġurisdizzjoni"@mt,
+        "Gedeeltelijke verwijzing wegens onbevoegdheid"@nl,
+        "Przekazanie częściowe w przypadku braku właściwości"@pl,
+        "Remessa parcial por incompetência"@pt,
+        "Trimitere spre rejudecare parțială pentru necompetență"@ro,
+        "Čiastočné postúpenie pre nedostatok právomoci"@sk,
+        "Odstop dela zadeve zaradi nepristojnosti"@sl,
+        "Delvis återförvisning på grund av avsaknad av behörighet"@sv ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/RESP_MEMB> a skos:Concept ;
+    at:authority-code "RESP_MEMB" ;
+    at:deprecated "false" ;
+    at:op-code "RESP_MEMB" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "RMEM" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "RESP_MEMB" ;
+    dc:identifier "RESP_MEMB" ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/5d699046bb24bcf81869af6a8c556456>,
+        <http://publications.europa.eu/resource/authority/procjur/6ff26dd982250fba4f77365741d3ab76> ;
+    skos:prefLabel "Отговорност на член на институциите"@bg,
+        "Odpovědnost člena orgánů"@cs,
+        "Ansvar for et medlem af institutionerne"@da,
+        "Verantwortung eines Mitglieds der Organe"@de,
+        "Ευθύνη μέλους κοινοτικού οργάνου"@el,
+        "Responsibility of a member of the institutions"@en,
+        "Responsabilidad de un miembro de las instituciones"@es,
+        "Institutsiooni liikme vastutus"@et,
+        "Toimielimen jäsenen vastuu"@fi,
+        "Responsabilité d’un membre des institutions"@fr,
+        "Freagracht chomhalta de chuid na n-institiúidí"@ga,
+        "Odgovornost člana institucija"@hr,
+        "Az intézmények valamely tagjának felelőssége"@hu,
+        "Responsabilità di un membro delle istituzioni"@it,
+        "Institucijos nario atsakomybė"@lt,
+        "Iestāžu locekļa atbildība"@lv,
+        "Responsabbiltà ta' membru tal-istituzzjonijiet"@mt,
+        "Aansprakelijkheid van een lid van de instellingen"@nl,
+        "Odpowiedzialność członka instytucji"@pl,
+        "Responsabilidade de um membro das instituições"@pt,
+        "Răspundere a unui membru al instituțiilor"@ro,
+        "Zodpovednosť člena inštitúcií"@sk,
+        "Odgovornost člana institucij"@sl,
+        "Ansvar för ledamöter av gemenskapsinstitutionerna"@sv ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/REVIEW> a skos:Concept ;
+    at:authority-code "REVIEW" ;
+    at:deprecated "false" ;
+    at:op-code "REVIEW" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "REEX" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "REVIEW" ;
+    dc:identifier "REVIEW" ;
+    skos:changeNote "Sur InfoCuria: RX , RX II"@fr ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/0948df51562c23bd3939fc3f324a1bd5>,
+        <http://publications.europa.eu/resource/authority/procjur/648efd72da04a8eab754a3b77318e381>,
+        <http://publications.europa.eu/resource/authority/procjur/c054e021001dc195a4a1a9b81e47bb1b> ;
+    skos:prefLabel "Преразглеждане"@bg,
+        "Přezkum"@cs,
+        "Genoptagelse/fornyet behandling/fornyet prøvelse"@da,
+        "Überprüfung"@de,
+        "Επανεξέταση"@el,
+        "Review"@en,
+        "Reexamen"@es,
+        "Uuesti läbivaatamine"@et,
+        "Uudelleenkäsittely"@fi,
+        "Réexamen"@fr,
+        "Athbhreithniú"@ga,
+        "Preispitivanje"@hr,
+        "Felülvizsgálat"@hu,
+        "Riesame"@it,
+        "Peržiūrėjimas"@lt,
+        "Pārskatīšana"@lv,
+        "Eżami mill-ġdid"@mt,
+        "Heroverweging"@nl,
+        "Ponowne rozpoznanie"@pl,
+        "Reapreciação"@pt,
+        "Reexaminare"@ro,
+        "Preskúmanie"@sk,
+        "Ponovni preizkus"@sl,
+        "Omprövning"@sv ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/RULING> a skos:Concept ;
+    at:authority-code "RULING" ;
+    at:deprecated "false" ;
+    at:op-code "RULING" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "DELI" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "RULING" ;
+    dc:identifier "RULING" ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/a9627eef540a4f49f77a59b1fc7c652a>,
+        <http://publications.europa.eu/resource/authority/procjur/b5c2a6dc34e9335a91e24df95d8979cb> ;
+    skos:prefLabel "Решение (Договор ЕВРАТОМ)"@bg,
+        "Usnesení (Smlouva o EURATOM)"@cs,
+        "Afgørelse (Euratom-traktaten)"@da,
+        "Beschluss (Euratom-Vertrag)"@de,
+        "Απόφαση (Συνθήκη Ευρατόμ)"@el,
+        "Ruling (EURATOM Treaty)"@en,
+        "Acuerdo (Tratado EURATOM)"@es,
+        "Otsus (EURATOMi asutamisleping)"@et,
+        "Päätös (Euratomin perustamissopimus)"@fi,
+        "Délibération (Traité EURATOM)"@fr,
+        "Breith (Conradh EURATOM)"@ga,
+        "Odluka (Ugovor o Euratomu)"@hr,
+        "Határozat (Euratom-Szerződés)"@hu,
+        "Deliberazione (Trattato EURATOM)"@it,
+        "Nutarimas (Euratomo sutartis)"@lt,
+        "Nolēmums (EURATOM līgums)"@lv,
+        "Deliberazzjoni (Trattat EURATOM)"@mt,
+        "Uitspraak (EURATOM-Verdrag)"@nl,
+        "Obrady (Traktat EURATOM)"@pl,
+        "Deliberação (Tratado EURATOM)"@pt,
+        "Hotărâre (Tratatul EURATOM)"@ro,
+        "Porada (Zmluva Euratom)"@sk,
+        "Posvetovanje (Pogodba EURATOM)"@sl,
+        "Avgörande (Euratomfördraget)"@sv ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/STAFF> a skos:Concept ;
+    at:authority-code "STAFF" ;
+    at:deprecated "false" ;
+    at:op-code "STAFF" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "STAFF" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "STAFF" ;
+    dc:identifier "STAFF" ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/13e1a84da91de124fb74c58f9ca4e0d5>,
+        <http://publications.europa.eu/resource/authority/procjur/2b7323a50f6df69b3101cc38dcacce2d> ;
+    skos:prefLabel "Публична служба"@bg,
+        "Veřejná služba"@cs,
+        "Personalesag"@da,
+        "Öffentlicher Dienst"@de,
+        "Υπαλληλική υπόθεση"@el,
+        "Staff cases"@en,
+        "Función pública"@es,
+        "Avalik teenistus"@et,
+        "Virkamiehet"@fi,
+        "Fonction publique"@fr,
+        "Seirbhís sibhialta"@ga,
+        "Javna služba"@hr,
+        "Közszolgálat"@hu,
+        "Funzione pubblica"@it,
+        "Viešoji tarnyba"@lt,
+        "Civildienests"@lv,
+        "Servizz pubbliku"@mt,
+        "Ambtenaren"@nl,
+        "Służba publiczna"@pl,
+        "Função pública"@pt,
+        "Funcție publică"@ro,
+        "Verejná služba"@sk,
+        "Javni uslužbenci"@sl,
+        "Personalmål"@sv ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/THIRDPARTY_PROCEED> a skos:Concept ;
+    at:authority-code "THIRDPARTY_PROCEED" ;
+    at:deprecated "false" ;
+    at:op-code "THIRDPARTY_PROCEED" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "TIER" ;
+            dc:source "EurLex" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "THIRDPARTY_PROCEED" ;
+    dc:identifier "THIRDPARTY_PROCEED" ;
+    skos:inScheme atold:procjur ;
+    skos:notation <http://publications.europa.eu/resource/authority/procjur/536be78e74c26cea75aa8468dc3f3779>,
+        <http://publications.europa.eu/resource/authority/procjur/6e7afb9f2b74ee11a0b573c23e607e28>,
+        <http://publications.europa.eu/resource/authority/procjur/cb581fd40ab28048d8c4f455f95dd69a> ;
+    skos:prefLabel "Възражение от трето лице срещу влязло в сила съдебно решение"@bg,
+        "Námitka třetí osoby"@cs,
+        "Tredjemandsindsigelse"@da,
+        "Drittwiderspruch"@de,
+        "Τριτανακοπή"@el,
+        "Third-party proceedings"@en,
+        "Oposición de tercero"@es,
+        "Kohtuotsuse vaidlustamine kolmanda isiku poolt"@et,
+        "Kolmannen osapuolen kantelu"@fi,
+        "Tierce opposition"@fr,
+        "Imeachtaí tríú páirtí"@ga,
+        "Prigovor trećeg"@hr,
+        "Harmadik személy jogorvoslati joga"@hu,
+        "Opposizione di terzo"@it,
+        "Procesas pagal trečiojo asmens skundą"@lt,
+        "Trešās personas protests"@lv,
+        "Oppożizzjoni ta’ terzi"@mt,
+        "Derdenverzet"@nl,
+        "Powództwo przeciwegzekucyjne osoby trzeciej"@pl,
+        "Oposição de terceiros"@pt,
+        "Terță opoziție"@ro,
+        "Návrh tretej osoby na zmenu rozsudku"@sk,
+        "Ugovor tretjega"@sl,
+        "Talan av tredje man"@sv ;
+    skos:scopeNote "Art. 157, Règlement de procédure de la Cour, 2013"@fr ;
+    skos:topConceptOf atold:procjur .
+
+<http://publications.europa.eu/resource/authority/procjur/0948df51562c23bd3939fc3f324a1bd5> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "RX" .
+
+<http://publications.europa.eu/resource/authority/procjur/0df19cc2a9f0e73f5c9b699637e4f83b> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "RPAD" .
+
+<http://publications.europa.eu/resource/authority/procjur/134f00163d786415113fb7959320e6c1> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/MINIDOC> ;
+    rdf:value "CARE" .
+
+<http://publications.europa.eu/resource/authority/procjur/13e1a84da91de124fb74c58f9ca4e0d5> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "STAFF" .
+
+<http://publications.europa.eu/resource/authority/procjur/170c3285790e7a8af9c2f10e5c547ba2> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "PREJ" .
+
+<http://publications.europa.eu/resource/authority/procjur/1a2ae664eb894080a57d9b67c36c8a93> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "JUDG_REV" .
+
+<http://publications.europa.eu/resource/authority/procjur/1a63de82f0fe33ea98d8e9ee174918b9> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/MINIDOC> ;
+    rdf:value "AVIS" .
+
+<http://publications.europa.eu/resource/authority/procjur/1d68a59c82e7ea7bfdf88c86ad243049> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "PROPERTY_INTEL" .
+
+<http://publications.europa.eu/resource/authority/procjur/212e64dc54c4cc6db88ed50912d417d3> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "COST_ENF" .
+
+<http://publications.europa.eu/resource/authority/procjur/2226ac7c2dd609e0d5155be300ba6ba0> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/MINIDOC> ;
+    rdf:value "INTE" .
+
+<http://publications.europa.eu/resource/authority/procjur/23a6194cbefab0e5f8343f462ccb04a6> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "RIC" .
+
+<http://publications.europa.eu/resource/authority/procjur/240cacff1c9f7af829a69c5cca860b59> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "RPAL" .
+
+<http://publications.europa.eu/resource/authority/procjur/259884934955e1832e616753a67bb019> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "IMMU" .
+
+<http://publications.europa.eu/resource/authority/procjur/28307a4c2fe48a817a119a7e9113ac98> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "REVI" .
+
+<http://publications.europa.eu/resource/authority/procjur/2b7323a50f6df69b3101cc38dcacce2d> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "RF" .
+
+<http://publications.europa.eu/resource/authority/procjur/2cb15fadc8a469e79dd5898c058fe7b3> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/MINIDOC> ;
+    rdf:value "PREJ" .
+
+<http://publications.europa.eu/resource/authority/procjur/30f8041bdabbdd451d577880b83b59bf> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/MINIDOC> ;
+    rdf:value "OPPO" .
+
+<http://publications.europa.eu/resource/authority/procjur/37f5a1148f4ab47d2d02a2792d9ac990> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "GARNISHEE_ORDER" .
+
+<http://publications.europa.eu/resource/authority/procjur/38296106bb525a100e0b261d6127fd53> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "RPIC" .
+
+<http://publications.europa.eu/resource/authority/procjur/3db3fb30d7dcccc59d26218650b123b7> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "DEPX" .
+
+<http://publications.europa.eu/resource/authority/procjur/47ca11558d1fca1903c10c88be3de76d> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "REF_BACK_DECLIN" .
+
+<http://publications.europa.eu/resource/authority/procjur/498388f77e94de07e55f1c7674d167b1> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "COMP" .
+
+<http://publications.europa.eu/resource/authority/procjur/499d8cd426872b2f0ef5af8873b6a493> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "REFER_PREL_URG" .
+
+<http://publications.europa.eu/resource/authority/procjur/4b2a1000d6942b1c17a6ba1fff1d1e7d> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/MINIDOC> ;
+    rdf:value "RENV" .
+
+<http://publications.europa.eu/resource/authority/procjur/4d16f6b416a9aa90f3103cffa56ff911> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "PP" .
+
+<http://publications.europa.eu/resource/authority/procjur/515caa3761fb0d660f7d09da2e56b3d1> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/MINIDOC> ;
+    rdf:value "EXEC" .
+
+<http://publications.europa.eu/resource/authority/procjur/536be78e74c26cea75aa8468dc3f3779> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "TO" .
+
+<http://publications.europa.eu/resource/authority/procjur/55418722142103c397d34c9cfb1c37d7> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "ASSI" .
+
+<http://publications.europa.eu/resource/authority/procjur/5825f96edd20fcd18dde86b5ca0ac413> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "APPL_SUSP_ENF" .
+
+<http://publications.europa.eu/resource/authority/procjur/5c611d3727d41dbeea3aa566281664e7> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "INTE" .
+
+<http://publications.europa.eu/resource/authority/procjur/5d699046bb24bcf81869af6a8c556456> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/MINIDOC> ;
+    rdf:value "RMEM" .
+
+<http://publications.europa.eu/resource/authority/procjur/5e676ceab13bd7d33d8bbb8651b5e86d> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/MINIDOC> ;
+    rdf:value "PREJURG" .
+
+<http://publications.europa.eu/resource/authority/procjur/635b347457beb83f60e0556619908cef> a euvoc:XlNotation ;
+    euvoc:startDate "2018-03-16"^^xsd:date ;
+    dct:created "2019-05-14"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "PPAR" .
+
+<http://publications.europa.eu/resource/authority/procjur/648efd72da04a8eab754a3b77318e381> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "REEX" .
+
+<http://publications.europa.eu/resource/authority/procjur/6517d04495053b070c62f4df900ee33f> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "SA" .
+
+<http://publications.europa.eu/resource/authority/procjur/663917b63fa483822b5d137c6061d65a> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "PVOI" .
+
+<http://publications.europa.eu/resource/authority/procjur/67970357df6b5af99e7edc9e18e3dad5> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "RECT" .
+
+<http://publications.europa.eu/resource/authority/procjur/67a2df40614bb11a7bfc4ff04f53cd4f> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "PROC_PART" .
+
+<http://publications.europa.eu/resource/authority/procjur/691bd75e66fa0becbf8825fe28a95e50> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "DEPE" .
+
+<http://publications.europa.eu/resource/authority/procjur/6e7afb9f2b74ee11a0b573c23e607e28> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/MINIDOC> ;
+    rdf:value "TIER" .
+
+<http://publications.europa.eu/resource/authority/procjur/6e85a93bd36ee83ec24cb7e64c65ad25> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/MINIDOC> ;
+    rdf:value "REFE" .
+
+<http://publications.europa.eu/resource/authority/procjur/6fe6c117c0e9eb98ad889e4a0d7d6a9f> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/MINIDOC> ;
+    rdf:value "RESP" .
+
+<http://publications.europa.eu/resource/authority/procjur/6ff26dd982250fba4f77365741d3ab76> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "RMEM" .
+
+<http://publications.europa.eu/resource/authority/procjur/721b535c09bfbc27b3b3000fe10a3d09> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "CARE" .
+
+<http://publications.europa.eu/resource/authority/procjur/725f6a3c1dc676dba44257ffdd50446d> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "AVIS" .
+
+<http://publications.europa.eu/resource/authority/procjur/752456ba1f7d2869894b54c3c9bd658c> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/MINIDOC> ;
+    rdf:value "IMMU" .
+
+<http://publications.europa.eu/resource/authority/procjur/75543c7031563739fa834311b2f3ad90> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "OPPO" .
+
+<http://publications.europa.eu/resource/authority/procjur/79b4c87c3faac4301c569bb3eb75f1e8> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "REF_P_BACK_DECLIN" .
+
+<http://publications.europa.eu/resource/authority/procjur/7faff2703e1156bab16f43c6a6094d23> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "PVI" .
+
+<http://publications.europa.eu/resource/authority/procjur/80e885943417b87826b21dd7c7cb21fc> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "REFE" .
+
+<http://publications.europa.eu/resource/authority/procjur/81303263e62012d173a3a5b60b83932f> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/MINIDOC> ;
+    rdf:value "REVI" .
+
+<http://publications.europa.eu/resource/authority/procjur/82a2f8fff73cfb6713e35082f873eb87> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "IMM" .
+
+<http://publications.europa.eu/resource/authority/procjur/832c6c67595503a663f10d8683a4bbac> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "ACTION_DIR" .
+
+<http://publications.europa.eu/resource/authority/procjur/8509588ab85f3231af68a32721f4b745> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "RAD" .
+
+<http://publications.europa.eu/resource/authority/procjur/89ea2692bbe3b705e2a8d88557647a7e> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "REF_BACK_LACK" .
+
+<http://publications.europa.eu/resource/authority/procjur/8ce0f27aa3e71fbba7cfba55f04a764c> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "RP" .
+
+<http://publications.europa.eu/resource/authority/procjur/92babd17d4289b86ce52d2d5b5c46366> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "SANC" .
+
+<http://publications.europa.eu/resource/authority/procjur/9552f66aff713341c41f16d22bf2a5a2> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "RESP" .
+
+<http://publications.europa.eu/resource/authority/procjur/95ce09cf0ddabb2287467100be19cc3f> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "APPEAL_INT_MEAS" .
+
+<http://publications.europa.eu/resource/authority/procjur/9616d5676de8d2c59956235b615f39fd> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "RD" .
+
+<http://publications.europa.eu/resource/authority/procjur/99d2c642872f2b23dddc34ed58498ad8> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/MINIDOC> ;
+    rdf:value "SANC" .
+
+<http://publications.europa.eu/resource/authority/procjur/9a31202b9dba617905298bbff55cfcaa> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "REF_BACK_REVIEW" .
+
+<http://publications.europa.eu/resource/authority/procjur/9af3c8991a2ca9ce44e610396434a1ab> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "EXEC" .
+
+<http://publications.europa.eu/resource/authority/procjur/9da18abe35f7bbc992049887befebd47> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/MINIDOC> ;
+    rdf:value "FONC" .
+
+<http://publications.europa.eu/resource/authority/procjur/9de57b2af7b69c703ad8ae8a5ae57bf5> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "RVRX" .
+
+<http://publications.europa.eu/resource/authority/procjur/a0eb5d78e0bc0f1cb59c43a8e1e9ea3f> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "CONS" .
+
+<http://publications.europa.eu/resource/authority/procjur/a271927c560610403d5569df0ba07798> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/MINIDOC> ;
+    rdf:value "RECT" .
+
+<http://publications.europa.eu/resource/authority/procjur/a668d82e1da965fff43358ebb22632ed> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "COST_TAX" .
+
+<http://publications.europa.eu/resource/authority/procjur/a8cc17371ff3453efcb35dd837000bd7> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/MINIDOC> ;
+    rdf:value "INST" .
+
+<http://publications.europa.eu/resource/authority/procjur/a9627eef540a4f49f77a59b1fc7c652a> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/MINIDOC> ;
+    rdf:value "DELI" .
+
+<http://publications.europa.eu/resource/authority/procjur/ac51085f70026e1c4b884d2af133c372> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "OPPO" .
+
+<http://publications.europa.eu/resource/authority/procjur/af8661a58326028b5925d4d03f32de64> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "INTV" .
+
+<http://publications.europa.eu/resource/authority/procjur/af8a04bb6bac9862ace28b7f3c65240b> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "RECT" .
+
+<http://publications.europa.eu/resource/authority/procjur/b1c97ff4513d90dc4c51782eeb2efd93> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "R-EX" .
+
+<http://publications.europa.eu/resource/authority/procjur/b3dea74d01cb9faf8d47f701cce8366c> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "AJ" .
+
+<http://publications.europa.eu/resource/authority/procjur/b5c2a6dc34e9335a91e24df95d8979cb> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "DELI" .
+
+<http://publications.europa.eu/resource/authority/procjur/b96f914ec7750e5c32860f4f6f3d7324> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "PV" .
+
+<http://publications.europa.eu/resource/authority/procjur/c054e021001dc195a4a1a9b81e47bb1b> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/MINIDOC> ;
+    rdf:value "REEX" .
+
+<http://publications.europa.eu/resource/authority/procjur/c215b916c57414ffa2a8cf13b864b61e> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "INST" .
+
+<http://publications.europa.eu/resource/authority/procjur/c2876b69fe31a2e2c2b7f7a1dc23746e> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/MINIDOC> ;
+    rdf:value "INTV" .
+
+<http://publications.europa.eu/resource/authority/procjur/cb581fd40ab28048d8c4f455f95dd69a> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "TIER" .
+
+<http://publications.europa.eu/resource/authority/procjur/ccabd7e1223205407291f0ad3945ceb6> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "PVR" .
+
+<http://publications.europa.eu/resource/authority/procjur/d1cd66b87f96094b12cf3bdd1e688890> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/MINIDOC> ;
+    rdf:value "CONS" .
+
+<http://publications.europa.eu/resource/authority/procjur/d4bf5cf8f7e7638b7b83c0b6eda98493> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "RAL" .
+
+<http://publications.europa.eu/resource/authority/procjur/d5ce89d50d5fef57df0de325678428ee> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "FONC" .
+
+<http://publications.europa.eu/resource/authority/procjur/dc615753e03954ab81b308a25c8004f0> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "RENV" .
+
+<http://publications.europa.eu/resource/authority/procjur/dd293c5bbb9f4aa99c6a133fdae048f7> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "ANNU" .
+
+<http://publications.europa.eu/resource/authority/procjur/de9d241ac84c0318c1487ba3c4f5e573> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "REF_P_BACK_LACK" .
+
+<http://publications.europa.eu/resource/authority/procjur/e071bc6dce0948d5653892bf894103a7> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/MINIDOC> ;
+    rdf:value "COMP" .
+
+<http://publications.europa.eu/resource/authority/procjur/e7be35ede028410e3854e4e28216052f> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "INTERP" .
+
+<http://publications.europa.eu/resource/authority/procjur/e91818a89c72f6d5b5c969cdd2d8ca0a> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2019-10-01"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "OMST" .
+
+<http://publications.europa.eu/resource/authority/procjur/e987ee310ddb3bd82bbf04a5a5a827b2> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2016-10-28"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "DISS" .
+
+<http://publications.europa.eu/resource/authority/procjur/ec5abd6ffce7dbe200f43aa3c6d78e1a> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "ITRP" .
+
+<http://publications.europa.eu/resource/authority/procjur/ecac6b4faa68cb108e71fffc4f079a3e> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "REVI" .
+
+<http://publications.europa.eu/resource/authority/procjur/ed71751dc294bb77556be0ccc92bdec6> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/MINIDOC> ;
+    rdf:value "PVOI" .
+
+<http://publications.europa.eu/resource/authority/procjur/ee4a1785b825ee3d2aee886e0001a423> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/MINIDOC> ;
+    rdf:value "ANNU" .
+
+<http://publications.europa.eu/resource/authority/procjur/f359e9917ae76d0a39ca8bbb7a24f47b> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/MINIDOC> ;
+    rdf:value "ASSI" .
+
+<http://publications.europa.eu/resource/authority/procjur/f3941ce8a4435c3c20866c592a5295cb> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "APPEAL_INTV" .
+
+<http://publications.europa.eu/resource/authority/procjur/f77361006b590c0f71d4c61da7d6e976> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "REF_P_BACK_ASIDE" .
+
+<http://publications.europa.eu/resource/authority/procjur/f77a2419cd030130b994034a91288c56> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "REF_BACK_ASIDE" .
+
+<http://publications.europa.eu/resource/authority/procjur/f9566a86dc2d3f8953c67b33acabfa4b> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/LITIGE> ;
+    rdf:value "AVIS" .
+
+<http://publications.europa.eu/resource/authority/procjur/f956e98bde2eac4061b5067c7da9d77d> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/MINIDOC> ;
+    rdf:value "DPEN" .
+
+<http://publications.europa.eu/resource/authority/procjur/fde431f9d68242f77c30324d3c4ac600> a euvoc:XlNotation ;
+    euvoc:startDate "1952-07-24"^^xsd:date ;
+    dct:created "2013-07-15"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/FD_100> ;
+    rdf:value "DPEN" .
+
+atold:procjur a skos:ConceptScheme ;
+    rdfs:label "Legal proceeding"@en ;
+    at:prefLabel "Legal proceeding"@en ;
+    at:table.id "procjur" ;
+    at:table.version.number "20220316-0" ;
+    owl:versionInfo "20220316-0" ;
+    skos:prefLabel "Legal proceeding"@en .
+

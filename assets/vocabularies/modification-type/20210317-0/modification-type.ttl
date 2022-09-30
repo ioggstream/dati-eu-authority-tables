@@ -1,0 +1,216 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/modification-type/DELETION> a skos:Concept ;
+    at:authority-code "DELETION" ;
+    at:deprecated "false" ;
+    at:op-code "DELETION" ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "DELETION" ;
+    dc:identifier "DELETION" ;
+    skos:inScheme atold:modification-type ;
+    skos:prefLabel "изтриване"@bg,
+        "vymazání"@cs,
+        "sletning"@da,
+        "Streichung"@de,
+        "διαγραφή"@el,
+        "deletion"@en,
+        "eliminación"@es,
+        "kustutamine"@et,
+        "poisto"@fi,
+        "suppression"@fr,
+        "scriosadh"@ga,
+        "brisanje"@hr,
+        "törlés"@hu,
+        "cancellazione"@it,
+        "ištrynimas"@lt,
+        "dzēšana"@lv,
+        "tħassir"@mt,
+        "verwijdering"@nl,
+        "skreślenie"@pl,
+        "eliminação"@pt,
+        "ștergere"@ro,
+        "odstránenie"@sk,
+        "izbris"@sl,
+        "radering"@sv .
+
+<http://publications.europa.eu/resource/authority/modification-type/INSERTION> a skos:Concept ;
+    at:authority-code "INSERTION" ;
+    at:deprecated "false" ;
+    at:op-code "INSERTION" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "insertion" ;
+            dc:source "AKN4EU" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "INSERTION" ;
+    dc:identifier "INSERTION" ;
+    skos:inScheme atold:modification-type ;
+    skos:prefLabel "вмъкване"@bg,
+        "vložení"@cs,
+        "indsættelse"@da,
+        "Einfügung"@de,
+        "προσθήκη"@el,
+        "insertion"@en,
+        "inserción"@es,
+        "lisamine"@et,
+        "lisäys"@fi,
+        "insertion"@fr,
+        "ionsá"@ga,
+        "unošenje"@hr,
+        "beillesztés"@hu,
+        "inserimento"@it,
+        "įterpimas"@lt,
+        "ievietošana"@lv,
+        "inserzjoni"@mt,
+        "invoeging"@nl,
+        "dodanie"@pl,
+        "inserção"@pt,
+        "inserție"@ro,
+        "vloženie"@sk,
+        "vnos"@sl,
+        "infogning"@sv .
+
+<http://publications.europa.eu/resource/authority/modification-type/OP_DATPRO> a skos:Concept ;
+    at:op-code "OP_DATPRO" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:modification-type ;
+    skos:prefLabel "НЕОКОНЧАТЕЛНИ ДАННИ"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv .
+
+<http://publications.europa.eu/resource/authority/modification-type/RENUMBERING> a skos:Concept ;
+    at:authority-code "RENUMBERING" ;
+    at:deprecated "false" ;
+    at:op-code "RENUMBERING" ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "RENUMBERING" ;
+    dc:identifier "RENUMBERING" ;
+    skos:inScheme atold:modification-type ;
+    skos:prefLabel "преномериране"@bg,
+        "přečíslování"@cs,
+        "omnummerering"@da,
+        "Neunummerierung"@de,
+        "νέα αρίθμηση"@el,
+        "renumbering"@en,
+        "renumeración"@es,
+        "ümbernummerdamine"@et,
+        "uudelleennumerointi"@fi,
+        "renumérotation"@fr,
+        "athuimhriú"@ga,
+        "ponovno numeriranje"@hr,
+        "újraszámozás"@hu,
+        "rinumerazione"@it,
+        "pernumeravimas"@lt,
+        "pārnumurēšana"@lv,
+        "rinumerazzjoni"@mt,
+        "hernummering"@nl,
+        "zmiana numeracji"@pl,
+        "renumeração"@pt,
+        "renumerotare"@ro,
+        "prečíslovanie"@sk,
+        "preštevilčenje"@sl,
+        "omnumrering"@sv .
+
+<http://publications.europa.eu/resource/authority/modification-type/REPEAL> a skos:Concept ;
+    at:authority-code "REPEAL" ;
+    at:deprecated "false" ;
+    at:op-code "REPEAL" ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "REPEAL" ;
+    dc:identifier "REPEAL" ;
+    skos:inScheme atold:modification-type ;
+    skos:prefLabel "отмяна"@bg,
+        "zrušení"@cs,
+        "ophævelse"@da,
+        "Aufhebung"@de,
+        "κατάργηση"@el,
+        "repeal"@en,
+        "derogación"@es,
+        "kehtetuks tunnistamine"@et,
+        "kumoaminen"@fi,
+        "abrogation"@fr,
+        "aisghairm"@ga,
+        "stavljanje izvan snage"@hr,
+        "hatályon kívül helyezés"@hu,
+        "abrogazione"@it,
+        "panaikinimas"@lt,
+        "atcelšana"@lv,
+        "revoka"@mt,
+        "intrekking"@nl,
+        "uchylenie"@pl,
+        "revogação"@pt,
+        "abrogare"@ro,
+        "zrušenie"@sk,
+        "razveljavitev"@sl,
+        "upphävande"@sv .
+
+<http://publications.europa.eu/resource/authority/modification-type/REPLACEMENT> a skos:Concept ;
+    at:authority-code "REPLACEMENT" ;
+    at:deprecated "false" ;
+    at:op-code "REPLACEMENT" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "substitution" ;
+            dc:source "AKN4EU" ] ;
+    at:start.use "1952-07-24" ;
+    atold:op-code "REPLACEMENT" ;
+    dc:identifier "REPLACEMENT" ;
+    skos:inScheme atold:modification-type ;
+    skos:prefLabel "замяна"@bg,
+        "nahrazení"@cs,
+        "erstatning"@da,
+        "Ersetzung"@de,
+        "αντικατάσταση"@el,
+        "replacement"@en,
+        "sustitución"@es,
+        "asendamine"@et,
+        "korvaaminen"@fi,
+        "remplacement"@fr,
+        "ionadú"@ga,
+        "zamjena"@hr,
+        "helyettesítés"@hu,
+        "sostituzione"@it,
+        "pakeitimas"@lt,
+        "aizstāšana"@lv,
+        "sostituzzjoni"@mt,
+        "vervanging"@nl,
+        "zastąpienie"@pl,
+        "substituição"@pt,
+        "înlocuire"@ro,
+        "náhrada"@sk,
+        "zamenjava"@sl,
+        "ersättning"@sv .
+
+atold:modification-type a skos:ConceptScheme ;
+    rdfs:label "Modification type"@en ;
+    at:prefLabel "Modification type"@en ;
+    at:table.id "modification-type" ;
+    at:table.version.number "20210317-0" ;
+    owl:versionInfo "20210317-0" ;
+    skos:prefLabel "Modification type"@en .
+

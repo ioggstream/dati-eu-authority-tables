@@ -1,0 +1,155 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/cvd-contract-type/OP_DATPRO> a skos:Concept ;
+    at:authority-code "OP_DATPRO" ;
+    at:deprecated "false" ;
+    at:op-code "OP_DATPRO" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:cvd-contract-type ;
+    skos:prefLabel "Неокончателни данни"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv ;
+    skos:topConceptOf atold:cvd-contract-type .
+
+<http://publications.europa.eu/resource/authority/cvd-contract-type/oth-serv-contr> a skos:Concept ;
+    at:authority-code "oth-serv-contr" ;
+    at:deprecated "false" ;
+    at:op-code "oth-serv-contr" ;
+    at:start.use "2022-06-15" ;
+    atold:op-code "oth-serv-contr" ;
+    dc:identifier "oth-serv-contr" ;
+    skos:definition "Service contract listed in Table 1 of the Annex to the Clean Vehicles Directive."@en ;
+    skos:inScheme atold:cvd-contract-type ;
+    skos:prefLabel "Други договори за услуги"@bg,
+        "Jiná smlouva o poskytování služeb"@cs,
+        "Anden tjenesteydelseskontrakt"@da,
+        "Sonstiger Dienstleistungsvertrag"@de,
+        "Άλλη σύμβαση παροχής υπηρεσιών"@el,
+        "Other service contract"@en,
+        "Otro contrato de servicios"@es,
+        "Muu teenusleping"@et,
+        "Muu palveluhankintasopimus"@fi,
+        "Autre contrat de services"@fr,
+        "Conradh seirbhíse eile"@ga,
+        "Ostali ugovori o uslugama"@hr,
+        "Egyéb szolgáltatásnyújtásra irányuló szerződés"@hu,
+        "Altro contratto di servizi"@it,
+        "Kita paslaugų teikimo sutartis"@lt,
+        "Cits pakalpojumu līgums"@lv,
+        "Kuntratt ta’ servizz ieħor"@mt,
+        "Andere opdrachten voor diensten"@nl,
+        "Inna umowa o świadczenie usług"@pl,
+        "Outros contratos de prestação de serviços"@pt,
+        "Alt contract de servicii"@ro,
+        "Iná zákazka na poskytnutie služieb"@sk,
+        "Drugo naročilo storitev"@sl,
+        "Annat tjänstekontrakt"@sv ;
+    skos:topConceptOf atold:cvd-contract-type .
+
+<http://publications.europa.eu/resource/authority/cvd-contract-type/pass-tran-serv> a skos:Concept ;
+    at:authority-code "pass-tran-serv" ;
+    at:deprecated "false" ;
+    at:op-code "pass-tran-serv" ;
+    at:start.use "2022-06-15" ;
+    atold:op-code "pass-tran-serv" ;
+    dc:identifier "pass-tran-serv" ;
+    skos:definition "Public service contracts within the meaning of Regulation (EC) No 1370/2007, for the provision of passenger road transport services."@en ;
+    skos:inScheme atold:cvd-contract-type ;
+    skos:prefLabel "Услуги по автомобилен превоз на пътници"@bg,
+        "Silniční osobní doprava"@cs,
+        "Personbefordring ad landevej"@da,
+        "Dienstleistungen der Personenbeförderung auf der Straße"@de,
+        "Υπηρεσίες οδικών μεταφορών επιβατών"@el,
+        "Passenger road transport services"@en,
+        "Servicios de transporte de viajeros por carretera"@es,
+        "Sõitjate autoveo teenused"@et,
+        "Maanteiden henkilöliikennepalvelut"@fi,
+        "Services de transport routier de voyageurs"@fr,
+        "Seirbhísí iompair paisinéirí de bhóthar"@ga,
+        "Usluge cestovnog prijevoza putnika"@hr,
+        "Közúti személyszállítás"@hu,
+        "Servizi di trasporto di passeggeri su strada"@it,
+        "Keleivinio kelių transporto paslaugos"@lt,
+        "Pasažieru autopārvadājumu pakalpojumi"@lv,
+        "Servizzi ta’ trasport tal-passiġġieri bit-triq"@mt,
+        "Personenvervoer over de weg"@nl,
+        "Usługi pasażerskiego transportu drogowego"@pl,
+        "Serviços de transporte rodoviário de passageiros"@pt,
+        "Servicii de transport rutier de călători"@ro,
+        "Osobná cestná doprava"@sk,
+        "Storitve cestnega potniškega prevoza"@sl,
+        "Tjänster avseende persontransporter på väg"@sv ;
+    skos:topConceptOf atold:cvd-contract-type .
+
+<http://publications.europa.eu/resource/authority/cvd-contract-type/veh-acq> a skos:Concept ;
+    at:authority-code "veh-acq" ;
+    at:deprecated "false" ;
+    at:op-code "veh-acq" ;
+    at:start.use "2022-06-15" ;
+    atold:op-code "veh-acq" ;
+    dc:identifier "veh-acq" ;
+    skos:definition "Contract for the purchase, lease, rent or hire-purchase of road transport vehicles."@en ;
+    skos:inScheme atold:cvd-contract-type ;
+    skos:prefLabel "Покупка, лизинг или наем на превозни средства"@bg,
+        "Nákup, pronájem nebo pronájem vozidla"@cs,
+        "Køb, leasing eller leje af køretøjer"@da,
+        "Kauf, Leasing oder Miete von Fahrzeugen"@de,
+        "Αγορά, χρηματοδοτική μίσθωση ή μίσθωση οχημάτων"@el,
+        "Vehicle purchase, lease or rent"@en,
+        "Compra, arrendamiento o alquiler de vehículos"@es,
+        "Sõidukite ostmine, liisimine või rentimine"@et,
+        "Ajoneuvojen osto, leasing tai vuokraus"@fi,
+        "Achat, crédit-bail ou location de véhicules"@fr,
+        "Ceannach, léasú nó cíos feithiclí"@ga,
+        "Kupnja, leasing ili najam vozila"@hr,
+        "Járművásárlás, -bérlés vagy -bérlés"@hu,
+        "Acquisto, leasing o locazione di veicoli"@it,
+        "Transporto priemonių pirkimas, išperkamoji nuoma arba išperkamoji nuoma"@lt,
+        "Transportlīdzekļu iegāde, noma vai noma"@lv,
+        "Xiri, lokazzjoni jew kiri ta’ vetturi"@mt,
+        "Aankoop, leasing of huur van voertuigen"@nl,
+        "Zakup, dzierżawa lub wynajem pojazdów"@pl,
+        "Compra, locação financeira ou aluguer de veículos"@pt,
+        "Achiziționarea, leasingul sau închirierea vehiculului"@ro,
+        "Nákup, lízing alebo prenájom vozidla"@sk,
+        "Nakup, zakup ali najem vozil"@sl,
+        "Inköp, leasing eller hyra av fordon"@sv ;
+    skos:topConceptOf atold:cvd-contract-type .
+
+atold:cvd-contract-type a skos:ConceptScheme ;
+    rdfs:label "CVD contract type"@en ;
+    at:prefLabel "CVD contract type"@en ;
+    at:table.id "cvd-contract-type" ;
+    at:table.version.number "20220928-0" ;
+    owl:versionInfo "20220928-0" ;
+    skos:definition "The type of contract of the procurement procedure within the scope of Clean Vehicles Directive 2009/33/EC."@en ;
+    skos:prefLabel "CVD contract type"@en .
+

@@ -1,0 +1,2076 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix euvoc: <http://publications.europa.eu/ontology/euvoc#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://publications.europa.eu/resource/authority/address-type/ADM> a skos:Concept ;
+    at:authority-code "ADM" ;
+    at:deprecated "false" ;
+    at:op-code "ADM" ;
+    at:start.use "2021-09-29" ;
+    atold:op-code "ADM" ;
+    dc:identifier "ADM" ;
+    skos:altLabel "Administrative"@en,
+        "Administratif"@fr ;
+    skos:inScheme atold:address-type ;
+    skos:notation <http://publications.europa.eu/resource/authority/address-type/notation_da27d5b6> ;
+    skos:prefLabel "Административен адрес"@bg,
+        "Administrativní adresa"@cs,
+        "Administrativ adresse"@da,
+        "Verwaltungsanschrift"@de,
+        "Διοικητική διεύθυνση"@el,
+        "Administrative address"@en,
+        "Dirección administrativa"@es,
+        "Haldusaadress"@et,
+        "Hallinnollinen osoite"@fi,
+        "Adresse administrative"@fr,
+        "Seoladh riaracháin"@ga,
+        "Administrativna adresa"@hr,
+        "Értesítési cím"@hu,
+        "Indirizzo amministrativo"@it,
+        "Administracinis adresas"@lt,
+        "Administratīvā adrese"@lv,
+        "Indirizz amministrattiv"@mt,
+        "Administratief adres"@nl,
+        "Adres administracyjny"@pl,
+        "Endereço administrativo"@pt,
+        "Adresă administrativă"@ro,
+        "Administratívna adresa"@sk,
+        "Upravni naslov"@sl,
+        "Administrativ adress"@sv ;
+    skos:topConceptOf atold:address-type .
+
+<http://publications.europa.eu/resource/authority/address-type/ADR_OFFICE> a skos:Concept ;
+    at:authority-code "ADR_OFFICE" ;
+    at:deprecated "false" ;
+    at:op-code "ADR_OFFICE" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "OFFICEADDRESS" ;
+            dc:source "WHOISWHO" ] ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "ADR_OFFICE" ;
+    dc:identifier "ADR_OFFICE" ;
+    skos:altLabel "Служебен адрес"@bg,
+        "Pracovní"@cs,
+        "Arbejde"@da,
+        "Büro"@de,
+        "Εργασία"@el,
+        "Work"@en,
+        "Oficina"@es,
+        "Tööaadress"@et,
+        "Adresse"@fr,
+        "Travail"@fr,
+        "Posao"@hr,
+        "Munka"@hu,
+        "Lavoro"@it,
+        "Darbo"@lt,
+        "Administratīvā adrese"@lv,
+        "Darbs"@lv,
+        "Xoghol"@mt,
+        "Werk"@nl,
+        "Praca"@pl,
+        "Trabalho"@pt,
+        "Birou"@ro,
+        "Pracovná adresa"@sk,
+        "Kraj delovnega mesta"@sl,
+        "Kontor"@sv ;
+    skos:inScheme atold:address-type ;
+    skos:notation <http://publications.europa.eu/resource/authority/address-type/07bd3c14b5b4f3a2b0b66972ddb4af41>,
+        <http://publications.europa.eu/resource/authority/address-type/notation_077d71bb> ;
+    skos:prefLabel "Работен адрес"@bg,
+        "Pracovní adresa"@cs,
+        "Arbejdsadresse"@da,
+        "Büroanschrift"@de,
+        "Διεύθυνση εργασίας"@el,
+        "Office address"@en,
+        "Dirección de trabajo"@es,
+        "Töökoha aadress"@et,
+        "Työosoite"@fi,
+        "Adresse professionnelle"@fr,
+        "Seoladh oifige"@ga,
+        "Poslovna adresa"@hr,
+        "Munkahelyi cím"@hu,
+        "Indirizzo professionale"@it,
+        "Darbo adresas"@lt,
+        "Biroja adrese"@lv,
+        "Indirizz tax-xogħol"@mt,
+        "Werkadres"@nl,
+        "Adres służbowy"@pl,
+        "Endereço institucional"@pt,
+        "Adresă de serviciu"@ro,
+        "Adresa pracoviska"@sk,
+        "Upravni naslov"@sl,
+        "Jobbadress"@sv ;
+    skos:topConceptOf atold:address-type .
+
+<http://publications.europa.eu/resource/authority/address-type/BLG> a skos:Concept ;
+    at:authority-code "BLG" ;
+    at:deprecated "false" ;
+    at:op-code "BLG" ;
+    at:start.use "2021-09-29" ;
+    atold:op-code "BLG" ;
+    dc:identifier "BLG" ;
+    skos:definition "Informal, diary-style, informational website mostly focused on expressing the opinions of a community or individual about subjects of interest."@en,
+        "Site web informatif et informel, ressemblant à un journal de bord, principalement axé sur l’expression d’avis provenant d’une communauté ou d’une personne sur des sujets qui l’intéressent."@fr ;
+    skos:inScheme atold:address-type ;
+    skos:notation <http://publications.europa.eu/resource/authority/address-type/notation_cb6f30ea> ;
+    skos:prefLabel "Блог"@bg,
+        "Blog"@cs,
+        "Blog"@da,
+        "Blog"@de,
+        "Ιστολόγιο"@el,
+        "Blog"@en,
+        "Blog"@es,
+        "Ajaveeb"@et,
+        "Blogiosoite"@fi,
+        "Blog"@fr,
+        "Blag"@ga,
+        "Blog"@hr,
+        "Blog"@hu,
+        "Blog"@it,
+        "Tinklaraštis"@lt,
+        "Blogs"@lv,
+        "Blog"@mt,
+        "Blog"@nl,
+        "Blog"@pl,
+        "Blogue"@pt,
+        "Blog"@ro,
+        "Blog"@sk,
+        "Blog"@sl,
+        "Blogg"@sv ;
+    skos:topConceptOf atold:address-type .
+
+<http://publications.europa.eu/resource/authority/address-type/CAL> a skos:Concept ;
+    at:authority-code "CAL" ;
+    at:deprecated "false" ;
+    at:op-code "CAL" ;
+    at:start.use "2021-09-29" ;
+    atold:op-code "CAL" ;
+    dc:identifier "CAL" ;
+    skos:definition "System or platform used for time-management and scheduling."@en,
+        "Système ou plateforme utilisé(e) à des fins de gestion du temps et de planification."@fr ;
+    skos:inScheme atold:address-type ;
+    skos:notation <http://publications.europa.eu/resource/authority/address-type/notation_717ca674> ;
+    skos:prefLabel "Календар"@bg,
+        "Kalendář"@cs,
+        "Kalender"@da,
+        "Kalender"@de,
+        "Ημερολόγιο"@el,
+        "Calendar"@en,
+        "Calendario"@es,
+        "Kalender"@et,
+        "Kalenteri"@fi,
+        "Calendrier"@fr,
+        "Féilire"@ga,
+        "Kalendar"@hr,
+        "Naptár"@hu,
+        "Calendario"@it,
+        "Kalendorius"@lt,
+        "Kalendārs"@lv,
+        "Kalendarju"@mt,
+        "Agenda"@nl,
+        "Kalendarz"@pl,
+        "Agenda"@pt,
+        "Calendar"@ro,
+        "Kalendár"@sk,
+        "Koledar"@sl,
+        "Kalender"@sv ;
+    skos:topConceptOf atold:address-type .
+
+<http://publications.europa.eu/resource/authority/address-type/CON> a skos:Concept ;
+    at:authority-code "CON" ;
+    at:deprecated "false" ;
+    at:op-code "CON" ;
+    at:start.use "2021-09-29" ;
+    atold:op-code "CON" ;
+    dc:identifier "CON" ;
+    skos:altLabel "Поверително"@bg,
+        "Důvěrná"@cs,
+        "Fortroligt"@da,
+        "Vertraulich"@de,
+        "Εμπιστευτικό"@el,
+        "Confidential"@en,
+        "Confidencial"@es,
+        "Luottamuksellinen"@fi,
+        "Confidentiel"@fr,
+        "Povjerljivo"@hr,
+        "Bizalmas"@hu,
+        "Riservato"@it,
+        "Konfidencialu"@lt,
+        "Konfidenciāli"@lv,
+        "Kunfidenzjali"@mt,
+        "Vertrouwelijk"@nl,
+        "Poufny"@pl,
+        "Confidencial"@pt,
+        "Confidentiala"@ro,
+        "Dôverné"@sk,
+        "Zaupen"@sl,
+        "Konfidentiell"@sv ;
+    skos:inScheme atold:address-type ;
+    skos:notation <http://publications.europa.eu/resource/authority/address-type/notation_b6d55f1c> ;
+    skos:prefLabel "Поверителен адрес"@bg,
+        "Adresa pro důvěrnou korespondenci"@cs,
+        "Fortrolig adresse"@da,
+        "Vertrauliche Adresse"@de,
+        "Εμπιστευτική διεύθυνση"@el,
+        "Confidential address"@en,
+        "Dirección confidencial"@es,
+        "Konfidentsiaalne aadress"@et,
+        "Luottamuksellinen osoite"@fi,
+        "Adresse confidentielle"@fr,
+        "Seoladh rúnda"@ga,
+        "Povjerljiva adresa"@hr,
+        "Bizalmas adatnak minősülő cím"@hu,
+        "Indirizzo riservato"@it,
+        "Konfidencialus adresas"@lt,
+        "Konfidenciālā adrese"@lv,
+        "Indirizz kunfidenzjali"@mt,
+        "Vertrouwelijk adres"@nl,
+        "Adres poufny"@pl,
+        "Endereço confidencial"@pt,
+        "Adresă confidențială"@ro,
+        "Dôverná adresa"@sk,
+        "Zaupni naslov"@sl,
+        "Konfidentiell adress"@sv ;
+    skos:topConceptOf atold:address-type .
+
+<http://publications.europa.eu/resource/authority/address-type/FAX> a skos:Concept ;
+    at:authority-code "FAX" ;
+    at:deprecated "false" ;
+    at:op-code "FAX" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "FAX" ;
+            dc:source "WHOISWHO" ] ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "FAX" ;
+    dc:identifier "FAX" ;
+    skos:inScheme atold:address-type ;
+    skos:notation <http://publications.europa.eu/resource/authority/address-type/30de6f5b1080649f970d39c60b52e62d> ;
+    skos:prefLabel "Факс"@bg,
+        "Fax"@cs,
+        "Fax"@da,
+        "Fax"@de,
+        "φαξ"@el,
+        "Fax"@en,
+        "Fax"@es,
+        "Faks"@et,
+        "Faksi"@fi,
+        "Fax"@fr,
+        "Fax"@ga,
+        "Faks"@hr,
+        "Fax"@hu,
+        "Fax"@it,
+        "Fakso"@lt,
+        "Fakss"@lv,
+        "Faks"@mt,
+        "Fax"@nl,
+        "Faks"@pl,
+        "Fax"@pt,
+        "Fax"@ro,
+        "Fax"@sk,
+        "Fax"@sl,
+        "Fax"@sv ;
+    skos:topConceptOf atold:address-type .
+
+<http://publications.europa.eu/resource/authority/address-type/FLK> a skos:Concept ;
+    at:authority-code "FLK" ;
+    at:deprecated "false" ;
+    at:op-code "FLK" ;
+    at:start.use "2021-09-29" ;
+    atold:op-code "FLK" ;
+    dc:identifier "FLK" ;
+    skos:definition "Image hosting platform."@en,
+        "Plateforme d’hébergement d’images."@fr ;
+    skos:inScheme atold:address-type ;
+    skos:notation <http://publications.europa.eu/resource/authority/address-type/notation_f93d354d> ;
+    skos:prefLabel "Flickr"@bg,
+        "Flickr"@cs,
+        "Flickr"@da,
+        "Flickr"@de,
+        "Flickr"@el,
+        "Flickr"@en,
+        "Flickr"@es,
+        "Flickr"@et,
+        "Flickr"@fi,
+        "Flickr"@fr,
+        "Flickr"@ga,
+        "Flickr"@hr,
+        "Flickr"@hu,
+        "Flickr"@it,
+        "Flickr"@lt,
+        "Flickr"@lv,
+        "Flickr"@mt,
+        "Flickr"@nl,
+        "Flickr"@pl,
+        "Flickr"@pt,
+        "Flickr"@ro,
+        "Flickr"@sk,
+        "Flickr"@sl,
+        "Flickr"@sv ;
+    skos:topConceptOf atold:address-type .
+
+<http://publications.europa.eu/resource/authority/address-type/GGL> a skos:Concept ;
+    at:authority-code "GGL" ;
+    at:deprecated "true" ;
+    at:end.use "2019-04-02" ;
+    at:op-code "GGL" ;
+    at:start.use "2011-06-28" ;
+    atold:op-code "GGL" ;
+    dc:identifier "GGL" ;
+    skos:definition "Social network created by Google and closed in 2019."@en,
+        "Réseau social créé par Google et fermé en 2019."@fr ;
+    skos:inScheme atold:address-type ;
+    skos:notation <http://publications.europa.eu/resource/authority/address-type/notation_539c609f> ;
+    skos:prefLabel "Google+"@bg,
+        "Google+"@cs,
+        "Google+"@da,
+        "Google+"@de,
+        "Google+"@el,
+        "Google+"@en,
+        "Google+"@es,
+        "Google+"@et,
+        "Google+"@fi,
+        "Google+"@fr,
+        "Google+"@ga,
+        "Google+"@hr,
+        "Google+"@hu,
+        "Google+"@it,
+        "Google+"@lt,
+        "Google+"@lv,
+        "Google+"@mt,
+        "Google+"@nl,
+        "Google+"@pl,
+        "Google+"@pt,
+        "Google+"@ro,
+        "Google+"@sk,
+        "Google+"@sl,
+        "Google+"@sv ;
+    skos:topConceptOf atold:address-type .
+
+<http://publications.europa.eu/resource/authority/address-type/GWS> a skos:Concept ;
+    at:authority-code "GWS" ;
+    at:deprecated "false" ;
+    at:op-code "GWS" ;
+    at:start.use "2021-09-29" ;
+    atold:op-code "GWS" ;
+    dc:identifier "GWS" ;
+    skos:definition "Collaboration platform used in enterprise environments providing features covering email, instant messaging, schedule, personal information management and document management."@en,
+        "Plateforme de collaboration utilisée dans les entreprises qui propose des fonctionnalités telles que: courrier électronique, messagerie instantanée, calendrier, gestion des informations personnelles et gestion de documents."@fr ;
+    skos:inScheme atold:address-type ;
+    skos:notation <http://publications.europa.eu/resource/authority/address-type/notation_260c6998> ;
+    skos:prefLabel "Groupwise"@bg,
+        "Groupwise"@cs,
+        "Groupwise"@da,
+        "Groupwise"@de,
+        "Groupwise"@el,
+        "Groupwise"@en,
+        "Groupwise"@es,
+        "Groupwise"@et,
+        "Groupwise"@fi,
+        "Groupwise"@fr,
+        "Groupwise"@hu,
+        "Groupwise"@it,
+        "Groupwise"@lt,
+        "Groupwise"@lv,
+        "Groupwise"@mt,
+        "Groupwise"@nl,
+        "Groupwise"@pl,
+        "Groupwise"@pt,
+        "Groupwise"@ro,
+        "Groupwise"@sk,
+        "Groupwise"@sl,
+        "Groupwise"@sv ;
+    skos:topConceptOf atold:address-type .
+
+<http://publications.europa.eu/resource/authority/address-type/MAIN> a skos:Concept ;
+    at:authority-code "MAIN" ;
+    at:deprecated "false" ;
+    at:op-code "MAIN" ;
+    at:start.use "2018-05-30" ;
+    atold:op-code "MAIN" ;
+    dc:identifier "MAIN" ;
+    skos:inScheme atold:address-type ;
+    skos:prefLabel "Main address"@en ;
+    skos:topConceptOf atold:address-type .
+
+<http://publications.europa.eu/resource/authority/address-type/OFFICE_NO> a skos:Concept ;
+    at:authority-code "OFFICE_NO" ;
+    at:deprecated "false" ;
+    at:op-code "OFFICE_NO" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "OFFICE" ;
+            dc:source "WHOISWHO" ] ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "OFFICE_NO" ;
+    dc:identifier "OFFICE_NO" ;
+    skos:inScheme atold:address-type ;
+    skos:notation <http://publications.europa.eu/resource/authority/address-type/a9123d85bb25383f13edf5c638a2a0d7> ;
+    skos:prefLabel "Büro"@de,
+        "Office"@en,
+        "Bureau"@fr,
+        "Birojs"@lv ;
+    skos:topConceptOf atold:address-type .
+
+<http://publications.europa.eu/resource/authority/address-type/OP_DATPRO> a skos:Concept ;
+    at:authority-code "OP_DATPRO" ;
+    at:deprecated "false" ;
+    at:op-code "OP_DATPRO" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:address-type ;
+    skos:prefLabel "Неокончателни данни"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv ;
+    skos:topConceptOf atold:address-type .
+
+<http://publications.europa.eu/resource/authority/address-type/SEC> a skos:Concept ;
+    at:authority-code "SEC" ;
+    at:deprecated "false" ;
+    at:op-code "SEC" ;
+    at:start.use "2021-09-29" ;
+    atold:op-code "SEC" ;
+    dc:identifier "SEC" ;
+    skos:altLabel "Тайно"@bg,
+        "Tajná"@cs,
+        "Fortroligt"@da,
+        "Geheim"@de,
+        "Απόρρητη"@el,
+        "Secret"@en,
+        "Secreto"@es,
+        "Salastatud aadress"@et,
+        "Salainen"@fi,
+        "Secret"@fr,
+        "Tajna"@hr,
+        "Titkos"@hu,
+        "Segreto"@it,
+        "Slaptai"@lt,
+        "Slepens"@lv,
+        "Sigriet"@mt,
+        "Geheim"@nl,
+        "Tajny"@pl,
+        "Confidencial"@pt,
+        "Secreta"@ro,
+        "Tajné"@sk,
+        "Zaupen"@sl,
+        "Hemlig"@sv ;
+    skos:inScheme atold:address-type ;
+    skos:notation <http://publications.europa.eu/resource/authority/address-type/notation_b7d975d6> ;
+    skos:prefLabel "Таен адрес"@bg,
+        "Tajná adresa"@cs,
+        "Hemmelig adresse"@da,
+        "Geheimadresse"@de,
+        "Απόρρητη διεύθυνση"@el,
+        "Secret address"@en,
+        "Dirección secreta"@es,
+        "Varjatud aadress"@et,
+        "Salainen osoite"@fi,
+        "Adresse secrète"@fr,
+        "Seoladh rúnda"@ga,
+        "Tajna adresa"@hr,
+        "Rejtett cím"@hu,
+        "Indirizzo segreto"@it,
+        "Slaptas adresas"@lt,
+        "Slepenā adrese"@lv,
+        "Indirizz sigriet"@mt,
+        "Geheim adres"@nl,
+        "Adres tajny"@pl,
+        "Endereço secreto"@pt,
+        "Adresă secretă"@ro,
+        "Tajná adresa"@sk,
+        "Tajni naslov"@sl,
+        "Hemlig adress"@sv ;
+    skos:topConceptOf atold:address-type .
+
+<http://publications.europa.eu/resource/authority/address-type/SND> a skos:Concept ;
+    at:authority-code "SND" ;
+    at:deprecated "false" ;
+    at:op-code "SND" ;
+    at:start.use "2021-09-29" ;
+    atold:op-code "SND" ;
+    dc:identifier "SND" ;
+    skos:definition "Platform used for music sharing that allows its members to upload and promote audio."@en,
+        "Plateforme utilisée pour le partage de musique qui permet à ses membres de télécharger et de promouvoir des morceaux de musique."@fr ;
+    skos:inScheme atold:address-type ;
+    skos:notation <http://publications.europa.eu/resource/authority/address-type/notation_862f631d> ;
+    skos:prefLabel "SoundCloud"@bg,
+        "SoundCloud"@cs,
+        "SoundCloud"@da,
+        "SoundCloud"@de,
+        "SoundCloud"@el,
+        "SoundCloud"@en,
+        "SoundCloud"@es,
+        "SoundCloud"@et,
+        "SoundCloud"@fi,
+        "SoundCloud"@fr,
+        "SoundCloud"@ga,
+        "SoundCloud"@hr,
+        "SoundCloud"@hu,
+        "SoundCloud"@it,
+        "SoundCloud"@lt,
+        "SoundCloud"@lv,
+        "SoundCloud"@mt,
+        "SoundCloud"@nl,
+        "SoundCloud"@pl,
+        "SoundCloud"@pt,
+        "SoundCloud"@ro,
+        "SoundCloud"@sk,
+        "SoundCloud"@sl,
+        "SoundCloud"@sv ;
+    skos:topConceptOf atold:address-type .
+
+<http://publications.europa.eu/resource/authority/address-type/TEL> a skos:Concept ;
+    at:authority-code "TEL" ;
+    at:deprecated "false" ;
+    at:op-code "TEL" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "TEL" ;
+            dc:source "WHOISWHO" ] ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "TEL" ;
+    dc:identifier "TEL" ;
+    skos:inScheme atold:address-type ;
+    skos:notation <http://publications.europa.eu/resource/authority/address-type/0bc2f48fdf2acaef40095c02ed4aad51> ;
+    skos:prefLabel "телефон"@bg,
+        "Telefon"@cs,
+        "Telefon"@da,
+        "Telefon"@de,
+        "τηλεφώνου"@el,
+        "Telephone"@en,
+        "Teléfono"@es,
+        "Telefon"@et,
+        "Puhelin"@fi,
+        "Téléphone"@fr,
+        "Guthán"@ga,
+        "Telefon"@hr,
+        "Telefon"@hu,
+        "Telefono"@it,
+        "Telefono"@lt,
+        "Tālrunis"@lv,
+        "Telefon"@mt,
+        "Telefoon"@nl,
+        "Telefon"@pl,
+        "Telefone"@pt,
+        "Telefon"@ro,
+        "Telefón"@sk,
+        "Telefon"@sl,
+        "Telefon"@sv ;
+    skos:topConceptOf atold:address-type .
+
+<http://publications.europa.eu/resource/authority/address-type/TEL_EXT> a skos:Concept ;
+    at:authority-code "TEL_EXT" ;
+    at:deprecated "false" ;
+    at:op-code "TEL_EXT" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "POSTE" ;
+            dc:source "WHOISWHO" ] ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "TEL_EXT" ;
+    dc:identifier "TEL_EXT" ;
+    skos:inScheme atold:address-type ;
+    skos:notation <http://publications.europa.eu/resource/authority/address-type/a93c86b9389c7c087ac2a336cfbe8a7a> ;
+    skos:prefLabel "Durchwahl"@de,
+        "Extension"@en,
+        "Numéro de poste"@fr,
+        "Iekšējais numurs"@lv,
+        "Doorverbinding"@nl ;
+    skos:topConceptOf atold:address-type .
+
+<http://publications.europa.eu/resource/authority/address-type/TEL_SWI> a skos:Concept ;
+    at:authority-code "TEL_SWI" ;
+    at:deprecated "false" ;
+    at:op-code "TEL_SWI" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "CENTRAL" ;
+            dc:source "WHOISWHO" ] ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "TEL_SWI" ;
+    dc:identifier "TEL_SWI" ;
+    skos:inScheme atold:address-type ;
+    skos:notation <http://publications.europa.eu/resource/authority/address-type/d3bd94108e8aafcee79fe4a05f24b545> ;
+    skos:prefLabel "Omstillingsbord"@da,
+        "Zentrale"@de,
+        "Switchboard"@en,
+        "Centralita"@es,
+        "Standard"@fr,
+        "Standard"@it,
+        "Centrālais tālrunis"@lv,
+        "Schakelbord"@nl ;
+    skos:topConceptOf atold:address-type .
+
+<http://publications.europa.eu/resource/authority/address-type/TGR> a skos:Concept ;
+    at:authority-code "TGR" ;
+    at:deprecated "false" ;
+    at:op-code "TGR" ;
+    at:start.use "2021-09-29" ;
+    atold:op-code "TGR" ;
+    dc:identifier "TGR" ;
+    skos:definition "Message delivered through telegraph."@en,
+        "Message transmis par télégraphe."@fr ;
+    skos:inScheme atold:address-type ;
+    skos:notation <http://publications.europa.eu/resource/authority/address-type/notation_9a1aa317> ;
+    skos:prefLabel "Телеграма"@bg,
+        "Telegram"@cs,
+        "Telegram"@da,
+        "Telegramm"@de,
+        "Τηλεγράφημα"@el,
+        "Telegram "@en,
+        "Telegrama"@es,
+        "Aadress telegrammi saatmiseks"@et,
+        "Sähkeosoite"@fi,
+        "Télégramme"@fr,
+        "Telegram"@ga,
+        "Telegram"@hr,
+        "Távirat"@hu,
+        "Telegramma"@it,
+        "Telegrama"@lt,
+        "Telegramma"@lv,
+        "Telegramma"@mt,
+        "Telegram"@nl,
+        "Telegram"@pl,
+        "Telegrama"@pt,
+        "Telegrama"@ro,
+        "Telegram"@sk,
+        "Telegram"@sl,
+        "Telegram"@sv ;
+    skos:topConceptOf atold:address-type .
+
+<http://publications.europa.eu/resource/authority/address-type/TRA> a skos:Concept ;
+    at:authority-code "TRA" ;
+    at:deprecated "false" ;
+    at:op-code "TRA" ;
+    at:start.use "2021-09-29" ;
+    atold:op-code "TRA" ;
+    dc:identifier "TRA" ;
+    skos:altLabel "Work"@en ;
+    skos:inScheme atold:address-type ;
+    skos:notation <http://publications.europa.eu/resource/authority/address-type/notation_bebf7ed1> ;
+    skos:prefLabel "Служебен адрес"@bg,
+        "Pracovní"@cs,
+        "Arbejde"@da,
+        "Büro"@de,
+        "Εργασία"@el,
+        "Work address"@en,
+        "Oficina"@es,
+        "Tööaadress"@et,
+        "Työosoite"@fi,
+        "Travail"@fr,
+        "Munka"@hu,
+        "Lavoro"@it,
+        "Darbo"@lt,
+        "Darbs"@lv,
+        "Xoghol"@mt,
+        "Werk"@nl,
+        "Praca"@pl,
+        "Trabalho"@pt,
+        "Birou"@ro,
+        "Pracovná adresa"@sk,
+        "Kraj delovnega mesta"@sl,
+        "Kontor"@sv ;
+    skos:topConceptOf atold:address-type .
+
+<http://publications.europa.eu/resource/authority/address-type/URL> a skos:Concept ;
+    at:authority-code "URL" ;
+    at:deprecated "false" ;
+    at:op-code "URL" ;
+    at:start.use "2021-09-29" ;
+    atold:op-code "URL" ;
+    dc:identifier "URL" ;
+    skos:altLabel "URL"@bg,
+        "url"@da,
+        "URL"@en,
+        "URL"@et,
+        "URL"@hu,
+        "URL"@lt,
+        "URL"@pt,
+        "url"@ro,
+        "URL"@sk,
+        "Uniform Resource Locator"@sl,
+        "URL"@sv ;
+    skos:definition "Internet address that specifies the location and the protocol used to access a digital resource."@en,
+        "Adresse internet qui précise l’emplacement d’une ressource numérique et le protocole utilisé pour y accéder."@fr ;
+    skos:hiddenLabel "Унифициран локатор на ресурс (URL)"@bg,
+        "Uniform Resource Locator (url)"@da,
+        "Internetiaadress (URL)"@et,
+        "Egységes eroforrás-azonosító (URL)"@hu,
+        "Universalusis adresas (URL)"@lt,
+        "Localizador uniforme de recursos (URL)"@pt,
+        "Localizator uniform de resurse (url)"@ro,
+        "URL naslov (Uniform Resource Locator)"@sl,
+        "Uniform Resource Locator (URL)"@sv ;
+    skos:inScheme atold:address-type ;
+    skos:notation <http://publications.europa.eu/resource/authority/address-type/notation_443107ba> ;
+    skos:prefLabel "Унифициран локатор на ресурс"@bg,
+        "Jednotný lokátor zdroje"@cs,
+        "Uniform Resource Locator"@da,
+        "Einheitlicher Resource Locator"@de,
+        "Ενιαίος Εντοπιστής Πόρου"@el,
+        "Uniform Resource Locator"@en,
+        "Localizador de recursos uniforme"@es,
+        "Internetiaadress"@et,
+        "URL-osoite"@fi,
+        "Uniform Resource Locator"@fr,
+        "Aimsitheoir Aonfhoirmeach Acmhainne"@ga,
+        "Ujednačeni lokator sadržaja"@hr,
+        "Egységes eroforrás-azonosító"@hu,
+        "Uniform Resource Locator"@it,
+        "Universalusis adresas"@lt,
+        "Vienotais resursu vietradis"@lv,
+        "Uniform Resource Locator"@mt,
+        "Uniform Resource Locator"@nl,
+        "Adres URL"@pl,
+        "Localizador uniforme de recursos"@pt,
+        "Localizator uniform de resurse"@ro,
+        "Uniform Resource Locator"@sk,
+        "URL naslov"@sl,
+        "Uniform Resource Locator"@sv ;
+    skos:topConceptOf atold:address-type .
+
+<http://publications.europa.eu/resource/authority/address-type/WEB> a skos:Concept ;
+    at:authority-code "WEB" ;
+    at:deprecated "false" ;
+    at:op-code "WEB" ;
+    at:start.use "2021-09-29" ;
+    atold:op-code "WEB" ;
+    dc:identifier "WEB" ;
+    skos:definition "Group of webpages containing a domain name."@en,
+        "Groupe de pages web comportant un nom de domaine."@fr ;
+    skos:inScheme atold:address-type ;
+    skos:notation <http://publications.europa.eu/resource/authority/address-type/notation_3925c987> ;
+    skos:prefLabel "Уебсайт"@bg,
+        "Webové stránky"@cs,
+        "Websted"@da,
+        "Website"@de,
+        "Ιστότοπος"@el,
+        "Website"@en,
+        "Sitio web"@es,
+        "Veebisait"@et,
+        "Verkkosivusto"@fi,
+        "Site web"@fr,
+        "Suíomh gréasáin"@ga,
+        "Honlap"@hu,
+        "Sito web"@it,
+        "Tinklavietė"@lt,
+        "Tīmekļa vietne"@lv,
+        "Sit web"@mt,
+        "Website"@nl,
+        "Strona internetowa"@pl,
+        "Sítio Web"@pt,
+        "Site web"@ro,
+        "Webové sídlo"@sk,
+        "Spletno mesto"@sl,
+        "Webbplats"@sv ;
+    skos:topConceptOf atold:address-type .
+
+<http://publications.europa.eu/resource/authority/address-type/07bd3c14b5b4f3a2b0b66972ddb4af41> a euvoc:XlNotation ;
+    euvoc:startDate "2009-12-01"^^xsd:date ;
+    dct:created "2015-01-16"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/WHOISWHO> ;
+    rdf:value "OFFICEADDRESS" .
+
+<http://publications.europa.eu/resource/authority/address-type/0bc2f48fdf2acaef40095c02ed4aad51> a euvoc:XlNotation ;
+    euvoc:startDate "2009-12-01"^^xsd:date ;
+    dct:created "2015-01-16"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/WHOISWHO> ;
+    rdf:value "TEL" .
+
+<http://publications.europa.eu/resource/authority/address-type/30de6f5b1080649f970d39c60b52e62d> a euvoc:XlNotation ;
+    euvoc:startDate "2009-12-01"^^xsd:date ;
+    dct:created "2015-01-16"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/WHOISWHO> ;
+    rdf:value "FAX" .
+
+<http://publications.europa.eu/resource/authority/address-type/9a3626dec9d539bfc1dcb5a350c2d7dc> a euvoc:XlNotation ;
+    euvoc:startDate "2009-12-01"^^xsd:date ;
+    dct:created "2015-01-16"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/WHOISWHO> ;
+    rdf:value "POSTALADDRESS" .
+
+<http://publications.europa.eu/resource/authority/address-type/DIF> a skos:Concept ;
+    at:authority-code "DIF" ;
+    at:deprecated "false" ;
+    at:op-code "DIF" ;
+    at:start.use "2021-12-08" ;
+    atold:op-code "DIF" ;
+    dc:identifier "DIF" ;
+    skos:broader <http://publications.europa.eu/resource/authority/address-type/EPL> ;
+    skos:inScheme atold:address-type ;
+    skos:notation <http://publications.europa.eu/resource/authority/address-type/notation_e118389b> ;
+    skos:prefLabel "Декларацията за финансов(и) интерес(и)"@bg,
+        "Prohlášení o finančních zájmech"@cs,
+        "Erklæring om finansielle interesser"@da,
+        "Erklärung der finanziellen Interessen"@de,
+        "Δήλωση οικονομικού(ών) συμφέροντος(ων)"@el,
+        "Declaration of financial interests"@en,
+        "Declaración de intereses económicos"@es,
+        "Majanduslike huvide deklaratsioon"@et,
+        "Ilmoitus taloudellisista eduista"@fi,
+        "Déclaration d'intérêt(s) financier(s)"@fr,
+        "Dearbhú maidir le leasanna airgeadais"@ga,
+        "Izjava o financijskim interesima"@hr,
+        "Nyilatkozat pénzügyi érdekeltség(ek)rol"@hu,
+        "Dichiarazione di interesse(i) finanziari(o)"@it,
+        "Finansinio(-iu) intereso(-u) deklaracija"@lt,
+        "Finanšu interešu deklarācija"@lv,
+        "Dikjarazzjoni tal-interess(i) finanzjarju/i"@mt,
+        "Opgave van de financiële belangen"@nl,
+        "Oswiadczenie majatkowe"@pl,
+        "Declaração de interesse(s) financeiro(s)"@pt,
+        "Declaratie de interes(e) financiar(e)"@ro,
+        "Vyhlásenie o financných záujmoch"@sk,
+        "Izjava o financnem interesu"@sl,
+        "Förklaring om ekonomiska intressen"@sv .
+
+<http://publications.europa.eu/resource/authority/address-type/DOC> a skos:Concept ;
+    at:authority-code "DOC" ;
+    at:deprecated "false" ;
+    at:op-code "DOC" ;
+    at:start.use "2021-09-29" ;
+    atold:op-code "DOC" ;
+    dc:identifier "DOC" ;
+    skos:altLabel "Документация"@bg,
+        "Dokumentace"@cs,
+        "Dokumentation"@da,
+        "Dokumentation"@de,
+        "Τεκμηρίωση"@el,
+        "Documentation"@en,
+        "Documentación"@es,
+        "Aadress dokumentide saatmiseks"@et,
+        "Osoite aineiston lähettämistä varten"@fi,
+        "Documentation"@fr,
+        "Dokumentacija"@hr,
+        "Dokumentáció"@hu,
+        "Documentazione"@it,
+        "Dokumentai"@lt,
+        "Dokumentācija"@lv,
+        "Dokumentazzjoni"@mt,
+        "Documentatie"@nl,
+        "Dokumentacja"@pl,
+        "Documentação"@pt,
+        "Documentatie"@ro,
+        "Dokumentácia"@sk,
+        "Dokumentacija"@sl,
+        "Dokumentation"@sv ;
+    skos:broader <http://publications.europa.eu/resource/authority/address-type/CDC> ;
+    skos:definition "Pieces of documents."@en,
+        "Documents."@fr ;
+    skos:hiddenLabel "Dokumentacija"@lv ;
+    skos:inScheme atold:address-type ;
+    skos:notation <http://publications.europa.eu/resource/authority/address-type/notation_e6ad7513> ;
+    skos:prefLabel "Адрес за документацията"@bg,
+        "Dokumentační adresa"@cs,
+        "Adresse til dokumentation"@da,
+        "Anschrift für Unterlagen"@de,
+        "Διεύθυνση τεκμηρίωσης"@el,
+        "Documentation address"@en,
+        "Dirección donde se encuentra la documentación"@es,
+        "Aadress dokumentatsiooni jaoks"@et,
+        "Asiakirjojen postitusosoite"@fi,
+        "Adresse pour la documentation"@fr,
+        "Seoladh doiciméadachta"@ga,
+        "Adresa za dokumentaciju"@hr,
+        "Dokumentumkézbesítési cím"@hu,
+        "Indirizzo per la documentazione"@it,
+        "Adresas keistis dokumentais"@lt,
+        "Adrese dokumentu apmaiņai"@lv,
+        "Indirizz tad-dokumentazzjoni"@mt,
+        "Adres voor documenten"@nl,
+        "Adres do przesyłania dokumentów"@pl,
+        "Endereço para envio de documentação"@pt,
+        "Adresă pentru schimburi de documente"@ro,
+        "Adresa na zasielanie dokumentácie"@sk,
+        "Naslov za dokumentacijo"@sl,
+        "Dokumentationsadress"@sv .
+
+<http://publications.europa.eu/resource/authority/address-type/DOM> a skos:Concept ;
+    at:authority-code "DOM" ;
+    at:deprecated "false" ;
+    at:op-code "DOM" ;
+    at:start.use "2021-09-29" ;
+    atold:op-code "DOM" ;
+    dc:identifier "DOM" ;
+    skos:altLabel "Bydliště"@cs,
+        "Privatadresse"@da,
+        "Wohnort"@de,
+        "Κατοικία"@el,
+        "Home"@en,
+        "Domicile"@fr,
+        "Privatno"@hr,
+        "Lakóhely"@hu,
+        "Domicilio"@it,
+        "Gyvenamosios vietos adresas"@lt,
+        "Dzivesvieta"@lv,
+        "Indirizz"@mt,
+        "Domowy"@pl,
+        "Domicílio"@pt,
+        "Domiciliu"@ro,
+        "Bydlisko"@sk,
+        "Stalni naslov"@sl ;
+    skos:inScheme atold:address-type ;
+    skos:narrower <http://publications.europa.eu/resource/authority/address-type/PRI> ;
+    skos:notation <http://publications.europa.eu/resource/authority/address-type/notation_3d50bd4f> ;
+    skos:prefLabel "Домашен адрес"@bg,
+        "Adresa bydliště"@cs,
+        "Hjemadresse"@da,
+        "Wohnanschrift"@de,
+        "Διεύθυνσης κατοικίας"@el,
+        "Home address"@en,
+        "Domicilio"@es,
+        "Elukoha aadress"@et,
+        "Kotiosoite"@fi,
+        "Adresse du domicile"@fr,
+        "Seoladh baile"@ga,
+        "Privatna adresa"@hr,
+        "Lakcím"@hu,
+        "Indirizzo privato"@it,
+        "Namų adresas"@lt,
+        "Dzīvesvietas adrese"@lv,
+        "Indirizz tad-dar"@mt,
+        "Huisadres"@nl,
+        "Adres zamieszkania"@pl,
+        "Endereço privado"@pt,
+        "Adresă de domiciliu"@ro,
+        "Domáca adresa"@sk,
+        "Domači naslov"@sl,
+        "Bostadsadress"@sv ;
+    skos:topConceptOf atold:address-type .
+
+<http://publications.europa.eu/resource/authority/address-type/EMI> a skos:Concept ;
+    at:authority-code "EMI" ;
+    at:deprecated "false" ;
+    at:op-code "EMI" ;
+    at:start.use "2021-09-29" ;
+    atold:op-code "EMI" ;
+    dc:identifier "EMI" ;
+    skos:altLabel "Privat email"@da,
+        "Personal e-mail"@en,
+        "Correo electrónico personal"@es,
+        "Privatna e-adresa"@hr,
+        "Indirizzo di posta personale"@it,
+        "Asmeninis e. paštas"@lt,
+        "Privātais e-pasts"@lv,
+        "Indirizz tal-posta elettronika personali"@mt,
+        "Persoonlijk emailadres"@nl,
+        "Prywatny adres poczty elektronicznej"@pl,
+        "Endereço de correio eletrónico pessoal"@pt,
+        "Súkromná emailová adresa"@sk,
+        "Personlig e-post"@sv ;
+    skos:broader <http://publications.europa.eu/resource/authority/address-type/EMAIL> ;
+    skos:definition "Electronic address used for the exchange of personal messages and documents."@en,
+        "Adresse électronique utilisée pour l’échange de messages et documents personnels."@fr ;
+    skos:inScheme atold:address-type ;
+    skos:notation <http://publications.europa.eu/resource/authority/address-type/notation_98613676> ;
+    skos:prefLabel "Личен електронен адрес"@bg,
+        "Soukromá emailová adresa"@cs,
+        "Personlig e-mailadresse"@da,
+        "persönliche E-Mail-Adresse"@de,
+        "Προσωπική διεύθυνση ηλεκτρονικού ταχυδρομείου"@el,
+        "Personal e-mail address"@en,
+        "Dirección de correo electrónico personal"@es,
+        "Era-e-posti aadress"@et,
+        "Henkilökohtainen sähköpostiosoite"@fi,
+        "Adresse électronique personnelle"@fr,
+        "Seoladh ríomhphoist pearsanta"@ga,
+        "Osobna adresa e-pošte"@hr,
+        "Személyes e-mail cím"@hu,
+        "Indirizzo e-mail personale"@it,
+        "Asmeninis e. pašto adresas"@lt,
+        "Privātā e-pasta adrese"@lv,
+        "Indirizz tal-email personali "@mt,
+        "E-mailadres privé"@nl,
+        "Prywatny adres e-mail"@pl,
+        "Endereço eletrónico privado"@pt,
+        "Adresă de e-mail personală"@ro,
+        "Osobná e-mailová adresa"@sk,
+        "Zasebni elektronski naslov"@sl,
+        "Privat e-postadress"@sv .
+
+<http://publications.europa.eu/resource/authority/address-type/EMP> a skos:Concept ;
+    at:authority-code "EMP" ;
+    at:deprecated "false" ;
+    at:op-code "EMP" ;
+    at:start.use "2021-09-29" ;
+    atold:op-code "EMP" ;
+    dc:identifier "EMP" ;
+    skos:altLabel "Служебен електронен адрес"@bg,
+        "Profesní emailová adresa"@cs,
+        "Arbejds-email"@da,
+        "Professional e-mail"@en,
+        "Correo electrónico profesional"@es,
+        "Indirizzo di posta professionale"@it,
+        "Darbo e. paštas"@lt,
+        "Darba e-pasts"@lv,
+        "Indirizz tal-posta elettronika professjonali"@mt,
+        "Professioneel emailadres"@nl,
+        "Służbowy adres poczty elektronicznej"@pl,
+        "Endereço de correio eletrónico profissional"@pt,
+        "Pracovná emailová adresa"@sk,
+        "Službeni elektronski naslov"@sl,
+        "E-post i arbetet"@sv ;
+    skos:broader <http://publications.europa.eu/resource/authority/address-type/EMAIL> ;
+    skos:definition "Electronic address used for the exchange of professional messages and documents."@en,
+        "Adresse électronique utilisée pour l’échange de messages et documents professionnels."@fr ;
+    skos:inScheme atold:address-type ;
+    skos:notation <http://publications.europa.eu/resource/authority/address-type/notation_582e1647> ;
+    skos:prefLabel "Професионален електронен адрес"@bg,
+        "pracovní e-mailová adresa"@cs,
+        "Arbejds-e-mailadresse"@da,
+        "berufliche E-Mail-Adresse"@de,
+        "Επαγγελματική διεύθυνση ηλεκτρονικού ταχυδρομείου"@el,
+        "Professional e-mail address"@en,
+        "Dirección de correo electrónico profesional"@es,
+        "Ametialane e-posti aadress"@et,
+        "Työsähköpostiosoite"@fi,
+        "Adresse électronique professionnelle"@fr,
+        "Seoladh ríomhphoist gairmiúil"@ga,
+        "Poslovna adresa e-pošte"@hr,
+        "Munkahelyi e-mail cím"@hu,
+        "Indirizzo e-mail professionale"@it,
+        "Darbo e. pašto adresas"@lt,
+        "Darba e-pasta adrese"@lv,
+        "Indirizz tal-email professjonali "@mt,
+        "E-mailadres werk"@nl,
+        "Służbowy adres e-mail"@pl,
+        "Endereço eletrónico institucional"@pt,
+        "Adresă de e-mail profesională"@ro,
+        "Pracovná e-mailová adresa"@sk,
+        "Službeni e-naslov"@sl,
+        "Officiell e-postadress"@sv .
+
+<http://publications.europa.eu/resource/authority/address-type/EPL> a skos:Concept ;
+    at:authority-code "EPL" ;
+    at:deprecated "false" ;
+    at:op-code "EPL" ;
+    at:start.use "2021-09-29" ;
+    atold:op-code "EPL" ;
+    dc:identifier "EPL" ;
+    skos:altLabel "Europarl - MEP Page"@en ;
+    skos:inScheme atold:address-type ;
+    skos:narrower <http://publications.europa.eu/resource/authority/address-type/DIF> ;
+    skos:notation <http://publications.europa.eu/resource/authority/address-type/notation_2fe49675> ;
+    skos:prefLabel "Europarl"@en ;
+    skos:topConceptOf atold:address-type .
+
+<http://publications.europa.eu/resource/authority/address-type/FBP> a skos:Concept ;
+    at:authority-code "FBP" ;
+    at:deprecated "false" ;
+    at:op-code "FBP" ;
+    at:start.use "2021-09-29" ;
+    atold:op-code "FBP" ;
+    dc:identifier "FBP" ;
+    skos:broader <http://publications.europa.eu/resource/authority/address-type/FBK> ;
+    skos:definition "Personal or institutional profile, showing publicly shared information including personal details and published messages, on the Facebook platform."@en,
+        "Profil personnel ou institutionnel présentant des informations publiques, dont des informations personnelles et des messages publiés, sur la plateforme Facebook."@fr ;
+    skos:inScheme atold:address-type ;
+    skos:notation <http://publications.europa.eu/resource/authority/address-type/notation_efc5adc5> ;
+    skos:prefLabel "Провил във Facebook"@bg,
+        "Facebookový profil"@cs,
+        "Facebook-profil"@da,
+        "Facebook-Profil"@de,
+        "Προφίλ στο Facebook"@el,
+        "Facebook profile"@en,
+        "Perfil de Facebook"@es,
+        "Facebooki profiil"@et,
+        "Facebook-profiili"@fi,
+        "Facebook Profile"@fr,
+        "Próifíl Facebook"@ga,
+        "Facebook profil"@hr,
+        "Facebook-profil"@hu,
+        "Profilo Facebook"@it,
+        "Facebook profilis"@lt,
+        "Facebook profils"@lv,
+        "Profil fuq Facebook"@mt,
+        "Facebookprofiel"@nl,
+        "Profil na Facebooku"@pl,
+        "Perfil do Facebook"@pt,
+        "Profil Facebook"@ro,
+        "Profil na Facebooku"@sk,
+        "Facebook profil"@sl,
+        "Facebookprofil"@sv .
+
+<http://publications.europa.eu/resource/authority/address-type/FBW> a skos:Concept ;
+    at:authority-code "FBW" ;
+    at:deprecated "false" ;
+    at:op-code "FBW" ;
+    at:start.use "2021-09-29" ;
+    atold:op-code "FBW" ;
+    dc:identifier "FBW" ;
+    skos:broader <http://publications.europa.eu/resource/authority/address-type/FBK> ;
+    skos:definition "Profile created for business, brands or celebrities to share information on the Facebook platform."@en,
+        "Profil permettant aux entreprises, marques et personnalités de partager des informations sur la plateforme Facebook."@fr ;
+    skos:inScheme atold:address-type ;
+    skos:notation <http://publications.europa.eu/resource/authority/address-type/notation_39876d3e> ;
+    skos:prefLabel "Страница във Facebook"@bg,
+        "Facebooková stránka"@cs,
+        "Facebook-side"@da,
+        "Facebook-Seite"@de,
+        "Σελίδα στο Facebook"@el,
+        "Facebook page"@en,
+        "Página en Facebook"@es,
+        "Facebooki lehekülg"@et,
+        "Facebook-sivu"@fi,
+        "Facebook Page"@fr,
+        "Leathanach Facebook"@ga,
+        "Facebook stranica"@hr,
+        "Facebook-oldal"@hu,
+        "Pagina Facebook"@it,
+        "Facebook puslapis"@lt,
+        "Facebook lapa"@lv,
+        "Pagna fuq Facebook"@mt,
+        "Facebookpagina"@nl,
+        "Strona na Facebooku"@pl,
+        "Página do Facebook"@pt,
+        "Pagina Facebook"@ro,
+        "Stránka na Facebooku"@sk,
+        "Facebook stran"@sl,
+        "Facebooksida"@sv .
+
+<http://publications.europa.eu/resource/authority/address-type/IST> a skos:Concept ;
+    at:authority-code "IST" ;
+    at:deprecated "false" ;
+    at:op-code "IST" ;
+    at:start.use "2021-09-29" ;
+    atold:op-code "IST" ;
+    dc:identifier "IST" ;
+    skos:definition "Social network that allows its members to share photos and videos."@en,
+        "Réseau social qui permet à ses membres de partager des photos et des vidéos."@fr ;
+    skos:inScheme atold:address-type ;
+    skos:narrower <http://publications.europa.eu/resource/authority/address-type/ITP> ;
+    skos:notation <http://publications.europa.eu/resource/authority/address-type/notation_d4fe80fa> ;
+    skos:prefLabel "Instagram"@bg,
+        "Instagram"@cs,
+        "Instagram"@da,
+        "Instagram"@de,
+        "Instagram"@el,
+        "Instagram"@en,
+        "Instagram"@es,
+        "Instagram"@et,
+        "Instagram"@fi,
+        "Instagram"@fr,
+        "Instagram"@ga,
+        "Instagram"@hr,
+        "Instagram"@hu,
+        "Instagram"@it,
+        "Instagram"@lt,
+        "Instagram"@lv,
+        "Instagram"@mt,
+        "Instagram"@nl,
+        "Instagram"@pl,
+        "Instagram"@pt,
+        "Instagram"@ro,
+        "Instagram"@sk,
+        "Instagram"@sl,
+        "Instagram"@sv ;
+    skos:topConceptOf atold:address-type .
+
+<http://publications.europa.eu/resource/authority/address-type/ITP> a skos:Concept ;
+    at:authority-code "ITP" ;
+    at:deprecated "false" ;
+    at:op-code "ITP" ;
+    at:start.use "2021-09-29" ;
+    atold:op-code "ITP" ;
+    dc:identifier "ITP" ;
+    skos:broader <http://publications.europa.eu/resource/authority/address-type/IST> ;
+    skos:definition "Personal or institutional profile, showing photos, videos and other personal details on Instagram platform."@en,
+        "Profil personnel ou institutionnel présentant des photos, des vidéos et d’autres informations personnelles sur la plateforme Instagram."@fr ;
+    skos:inScheme atold:address-type ;
+    skos:notation <http://publications.europa.eu/resource/authority/address-type/notation_7b117bce> ;
+    skos:prefLabel "Профил в Instagram"@bg,
+        "Instagramový profil"@cs,
+        "Instagram-profil"@da,
+        "Instagram Profil"@de,
+        "Προφίλ στο Instagram"@el,
+        "Instagram profile"@en,
+        "Perfil de Instagram"@es,
+        "Instagrami profiil"@et,
+        "Instagram-profiili"@fi,
+        "Instagram Profile"@fr,
+        "Próifíl Instagram"@ga,
+        "Instagram profil"@hr,
+        "Instagram-profil"@hu,
+        "Profilo Instagram"@it,
+        "Instagram profilis"@lt,
+        "Instagram profils"@lv,
+        "Profil fuq Instagram"@mt,
+        "Instagramprofiel"@nl,
+        "Profil na Instagramie"@pl,
+        "Perfil do Instagram"@pt,
+        "Profil Instagram"@ro,
+        "Profil na Instagram"@sk,
+        "Instagram profil"@sl,
+        "Instagramprofil"@sv .
+
+<http://publications.europa.eu/resource/authority/address-type/LKP> a skos:Concept ;
+    at:authority-code "LKP" ;
+    at:deprecated "false" ;
+    at:op-code "LKP" ;
+    at:start.use "2021-09-29" ;
+    atold:op-code "LKP" ;
+    dc:identifier "LKP" ;
+    skos:broader <http://publications.europa.eu/resource/authority/address-type/LNK> ;
+    skos:definition "Personal or institutional profile, showing publicly shared information mainly related to professional life on LinkedIn platform. "@en,
+        "Profil personnel ou institutionnel présentant des informations publiques concernant principalement la vie professionnelle sur la plateforme LinkedIn."@fr ;
+    skos:inScheme atold:address-type ;
+    skos:notation <http://publications.europa.eu/resource/authority/address-type/notation_14ecc5a3> ;
+    skos:prefLabel "LinkedIn профил"@bg,
+        "LinkedIn profil"@cs,
+        "LinkedIn-profil"@da,
+        "LinkedIn Profil"@de,
+        "Προφίλ στο LinkedIn"@el,
+        "LinkedIn profile"@en,
+        "Perfil de LinkedIn"@es,
+        "LinkedIni profiil"@et,
+        "LinkedIn-profiili"@fi,
+        "LinkedIn Profile"@fr,
+        "Próifíl LinkedIn"@ga,
+        "LinkedIn profil"@hr,
+        "LinkedIn-profil"@hu,
+        "Profilo LinkedIn"@it,
+        "LinkedIn profilis"@lt,
+        "LinkedIn profils"@lv,
+        "Profil fuq LinkedIn"@mt,
+        "LinkedInprofiel"@nl,
+        "Profil LinkedIn"@pl,
+        "Perfil do LinkedIn"@pt,
+        "Profil LinkedIn"@ro,
+        "Profil na LinkedIn"@sk,
+        "LinkedIn profil"@sl,
+        "LinkedInprofil"@sv .
+
+<http://publications.europa.eu/resource/authority/address-type/LNK> a skos:Concept ;
+    at:authority-code "LNK" ;
+    at:deprecated "false" ;
+    at:op-code "LNK" ;
+    at:start.use "2021-09-29" ;
+    atold:op-code "LNK" ;
+    dc:identifier "LNK" ;
+    skos:definition "Business-oriented social network mainly used for professional networking and job searching."@en,
+        "Réseau social professionnel utilisé principalement à des fins de réseautage professionnel et de recherche d’emploi."@fr ;
+    skos:inScheme atold:address-type ;
+    skos:narrower <http://publications.europa.eu/resource/authority/address-type/LKP> ;
+    skos:notation <http://publications.europa.eu/resource/authority/address-type/notation_d30827ef> ;
+    skos:prefLabel "LinkedIn"@bg,
+        "LinkedIn"@cs,
+        "LinkedIn"@da,
+        "LinkedIn"@de,
+        "LinkedIn"@el,
+        "LinkedIn"@en,
+        "LinkedIn"@es,
+        "LinkedIn"@et,
+        "LinkedIn"@fi,
+        "LinkedIn"@fr,
+        "LinkedIn"@ga,
+        "LinkedIn"@hr,
+        "LinkedIn"@hu,
+        "LinkedIn"@it,
+        "LinkedIn"@lt,
+        "LinkedIn"@lv,
+        "LinkedIn"@mt,
+        "LinkedIn"@nl,
+        "LinkedIn"@pl,
+        "LinkedIn"@pt,
+        "LinkedIn"@ro,
+        "LinkedIn"@sk,
+        "LinkedIn"@sl,
+        "LinkedIn"@sv ;
+    skos:topConceptOf atold:address-type .
+
+<http://publications.europa.eu/resource/authority/address-type/NON> a skos:Concept ;
+    at:authority-code "NON" ;
+    at:deprecated "false" ;
+    at:op-code "NON" ;
+    at:start.use "2021-09-29" ;
+    atold:op-code "NON" ;
+    dc:identifier "NON" ;
+    skos:broader <http://publications.europa.eu/resource/authority/address-type/ADR_POSTAL> ;
+    skos:inScheme atold:address-type ;
+    skos:notation <http://publications.europa.eu/resource/authority/address-type/notation_7098c851> ;
+    skos:prefLabel "Няма пощенски адрес"@bg,
+        "Žádná poštovní adresa"@cs,
+        "Ingen postadresse"@da,
+        "Keine Postadresse"@de,
+        "Δεν υπάρχει διεύθυνση αλληλογραφίας"@el,
+        "No address for correspondence"@en,
+        "Sin dirección de correo"@es,
+        "Tavapostiaadress puudub"@et,
+        "Ei postiosoitetta"@fi,
+        "Pas d'adresse courrier"@fr,
+        "Níl seoladh comhfhreagrais ann"@ga,
+        "Nije adresa za korespondenciju"@hr,
+        "Nincs postai cím"@hu,
+        "Nessun recapito postale"@it,
+        "Pašto adresas nepateiktas"@lt,
+        "Nav pasta adreses"@lv,
+        "M'hemmx indirizz postali"@mt,
+        "Geen postadres"@nl,
+        "Brak adresu korespondencyjnego"@pl,
+        "Sem endereço para correspondência"@pt,
+        "Nu exista adresa de corespondenta"@ro,
+        "Žiadna poštová adresa"@sk,
+        "Brez naslova pošte"@sl,
+        "Ingen postadress"@sv .
+
+<http://publications.europa.eu/resource/authority/address-type/OLD> a skos:Concept ;
+    at:authority-code "OLD" ;
+    at:deprecated "false" ;
+    at:op-code "OLD" ;
+    at:start.use "2021-09-29" ;
+    atold:op-code "OLD" ;
+    dc:identifier "OLD" ;
+    skos:altLabel "Původní e-mail"@cs,
+        "Gammel post"@da,
+        "frühere Mail"@de,
+        "Previous e-mail"@en,
+        "Antiguo correo electrónico"@es,
+        "Endine elektronposti aadress"@et,
+        "Ancien mail"@fr,
+        "Stara e-adresa"@hr,
+        "Vecchia mail"@it,
+        "Ankstesnis e.paštas"@lt,
+        "Agrakais e-pasts"@lv,
+        "Indirizz antik"@mt,
+        "Vroeger mailadres"@nl,
+        "Dawny adres e-mail"@pl,
+        "Endereço antigo"@pt,
+        "Fosta adresa e-mail"@ro,
+        "Stara sporocila"@sl ;
+    skos:broader <http://publications.europa.eu/resource/authority/address-type/EMAIL> ;
+    skos:definition "MEP's former e-mail."@en ;
+    skos:inScheme atold:address-type ;
+    skos:notation <http://publications.europa.eu/resource/authority/address-type/notation_2fc05009> ;
+    skos:prefLabel "Предишен електронен адрес"@bg,
+        "Předchozí e-mailová adresa"@cs,
+        "Tidligere e-mailadresse"@da,
+        "ehemalige E-Mail-Adresse"@de,
+        "Παλαιά ηλεκτρονική διεύθυνση"@el,
+        "Previous e-mail address"@en,
+        "Dirección de correo electrónico anterior"@es,
+        "Varasem e-posti aadress"@et,
+        "Entinen sähköpostiosoite"@fi,
+        "Adresse électronique précédente"@fr,
+        "Seoladh ríomhphoist roimhe seo"@ga,
+        "Prethodna poruka e-pošte"@hr,
+        "Régi e-mail cím"@hu,
+        "Indirizzo e-mail precedente"@it,
+        "Ankstesnis e. pašto adresas"@lt,
+        "Agrākās e-pasta adreses"@lv,
+        "Indirizz tal-email preċedenti"@mt,
+        "Voormalig e-mailadres"@nl,
+        "Poprzedni adres e-mail"@pl,
+        "Endereço eletrónico usado anteriormente"@pt,
+        "Vechea adresă de e-mail"@ro,
+        "Predchádzajúca e-mailová adresa"@sk,
+        "Nekdanji e-naslov"@sl,
+        "Tidigare e-postadress"@sv .
+
+<http://publications.europa.eu/resource/authority/address-type/PRI> a skos:Concept ;
+    at:authority-code "PRI" ;
+    at:deprecated "false" ;
+    at:op-code "PRI" ;
+    at:start.use "2021-09-29" ;
+    atold:op-code "PRI" ;
+    dc:identifier "PRI" ;
+    skos:altLabel "Лично"@bg,
+        "Soukromá"@cs,
+        "Privat"@da,
+        "Privat"@de,
+        "Ιδιωτική"@el,
+        "Private"@en,
+        "Privado"@es,
+        "Isiklik aadress"@et,
+        "Henkilökohtainen osoite"@fi,
+        "Privé"@fr,
+        "Magán-"@hu,
+        "Privato"@it,
+        "Privatu"@lt,
+        "Privāts"@lv,
+        "Privat"@mt,
+        "Privé"@nl,
+        "Prywatny"@pl,
+        "Privado"@pt,
+        "Privata"@ro,
+        "Súkromné"@sk,
+        "Privat"@sv ;
+    skos:broader <http://publications.europa.eu/resource/authority/address-type/DOM> ;
+    skos:inScheme atold:address-type ;
+    skos:notation <http://publications.europa.eu/resource/authority/address-type/notation_7108e10d> ;
+    skos:prefLabel "Личен адрес"@bg,
+        "Soukromá adresa"@cs,
+        "Privatadresse"@da,
+        "Privatanschrift"@de,
+        "Ιδιωτική διεύθυνση"@el,
+        "Private address"@en,
+        "Dirección privada"@es,
+        "Eraadress"@et,
+        "Yksityisosoite"@fi,
+        "Adresse privée"@fr,
+        "Privatna adresa"@ga,
+        "Seoladh príobháideach"@ga,
+        "Magáncím"@hu,
+        "Indirizzo privato"@it,
+        "Privatus adresas"@lt,
+        "Privātā adrese"@lv,
+        "Indirizz privat"@mt,
+        "Privéadres"@nl,
+        "Adres prywatny"@pl,
+        "Endereço privado"@pt,
+        "Adresă privată"@ro,
+        "Súkromná adresa"@sk,
+        "Zasebni naslov"@sl,
+        "Privat adress"@sv .
+
+<http://publications.europa.eu/resource/authority/address-type/TT> a skos:Concept ;
+    at:authority-code "TT" ;
+    at:deprecated "false" ;
+    at:op-code "TT" ;
+    at:start.use "2021-09-29" ;
+    atold:op-code "TT" ;
+    dc:identifier "TT" ;
+    skos:definition "Microblogging social network that allows its members to publish posts called \"tweets\"."@en,
+        "Réseau social de «microblogging» qui permet à ses membres de publier des messages appelés «tweets»."@fr ;
+    skos:inScheme atold:address-type ;
+    skos:narrower <http://publications.europa.eu/resource/authority/address-type/TWT> ;
+    skos:notation <http://publications.europa.eu/resource/authority/address-type/notation_13bcd6c2> ;
+    skos:prefLabel "Twitter"@bg,
+        "Twitter"@cs,
+        "Twitter"@da,
+        "Twitter"@de,
+        "Twitter"@el,
+        "Twitter"@en,
+        "Twitter"@es,
+        "Twitter"@et,
+        "Twitter"@fi,
+        "Twitter"@fr,
+        "Twitter"@ga,
+        "Twitter"@hr,
+        "Twitter"@hu,
+        "Twitter"@it,
+        "Twitter"@lt,
+        "Twitter"@lv,
+        "Twitter"@mt,
+        "Twitter"@nl,
+        "Twitter"@pl,
+        "Twitter"@pt,
+        "Twitter"@ro,
+        "Twitter"@sk,
+        "Twitter"@sl,
+        "Twitter"@sv ;
+    skos:topConceptOf atold:address-type .
+
+<http://publications.europa.eu/resource/authority/address-type/TWT> a skos:Concept ;
+    at:authority-code "TWT" ;
+    at:deprecated "false" ;
+    at:op-code "TWT" ;
+    at:start.use "2021-09-29" ;
+    atold:op-code "TWT" ;
+    dc:identifier "TWT" ;
+    skos:broader <http://publications.europa.eu/resource/authority/address-type/TT> ;
+    skos:definition "Personal or institutional profile, showing publicly shared information including personal details and published messages, on Twitter platform."@en,
+        "Profil personnel ou institutionnel présentant des informations publiques, dont des informations personnelles et des messages publiés, sur la plateforme Twitter."@fr ;
+    skos:inScheme atold:address-type ;
+    skos:notation <http://publications.europa.eu/resource/authority/address-type/notation_6fb1fdb5> ;
+    skos:prefLabel "Профил в Twitter"@bg,
+        "Twitterový profil"@cs,
+        "Twitter-profil"@da,
+        "Twitter Profil"@de,
+        "Προφίλ στο Twitter"@el,
+        "Twitter profile"@en,
+        "Perfil de Twitter"@es,
+        "Twitteri profiil"@et,
+        "Twitter-profiili"@fi,
+        "Twitter Profile"@fr,
+        "Próifíl Twitter"@ga,
+        "Twitter profil"@hr,
+        "Twitter-profil"@hu,
+        "Profilo Twitter"@it,
+        "Twitter profilis"@lt,
+        "Twitter profils"@lv,
+        "Profil fuq Twitter"@mt,
+        "Twitterprofiel"@nl,
+        "Profil na Twitterze"@pl,
+        "Perfil do Twitter"@pt,
+        "Profil Twitter"@ro,
+        "Profil na Twitteri"@sk,
+        "Twitter profil"@sl,
+        "Twitterprofil"@sv .
+
+<http://publications.europa.eu/resource/authority/address-type/YTB> a skos:Concept ;
+    at:authority-code "YTB" ;
+    at:deprecated "false" ;
+    at:op-code "YTB" ;
+    at:start.use "2021-09-29" ;
+    atold:op-code "YTB" ;
+    dc:identifier "YTB" ;
+    skos:definition "Social media platform mainly used for video sharing."@en,
+        "Plateforme de réseau social utilisée principalement pour le partage de vidéos."@fr ;
+    skos:inScheme atold:address-type ;
+    skos:narrower <http://publications.europa.eu/resource/authority/address-type/YTC> ;
+    skos:notation <http://publications.europa.eu/resource/authority/address-type/notation_76b9b93d> ;
+    skos:prefLabel "YouTube"@bg,
+        "YouTube"@cs,
+        "YouTube"@da,
+        "YouTube"@de,
+        "YouTube"@el,
+        "YouTube"@en,
+        "YouTube"@es,
+        "YouTube"@et,
+        "YouTube"@fi,
+        "YouTube"@fr,
+        "YouTube"@ga,
+        "YouTube"@hr,
+        "YouTube"@hu,
+        "YouTube"@it,
+        "YouTube"@lt,
+        "YouTube"@lv,
+        "YouTube"@mt,
+        "YouTube"@nl,
+        "YouTube"@pl,
+        "YouTube"@pt,
+        "YouTube"@ro,
+        "YouTube"@sk,
+        "YouTube"@sl,
+        "YouTube"@sv ;
+    skos:topConceptOf atold:address-type .
+
+<http://publications.europa.eu/resource/authority/address-type/YTC> a skos:Concept ;
+    at:authority-code "YTC" ;
+    at:deprecated "false" ;
+    at:op-code "YTC" ;
+    at:start.use "2021-09-29" ;
+    atold:op-code "YTC" ;
+    dc:identifier "YTC" ;
+    skos:broader <http://publications.europa.eu/resource/authority/address-type/YTB> ;
+    skos:definition "Personal or institutional profile, showing video and other personal details, on YouTube platform."@en,
+        "Profil personnel ou institutionnel présentant des vidéos et d’autres informations personnelles sur la plateforme YouTube."@fr ;
+    skos:hiddenLabel "YouTube chanel"@en ;
+    skos:inScheme atold:address-type ;
+    skos:notation <http://publications.europa.eu/resource/authority/address-type/notation_c75ded8f> ;
+    skos:prefLabel "YouTube канал"@bg,
+        "Kanál YouTube"@cs,
+        "YouTube-kanal"@da,
+        "Youtube Kanal"@de,
+        "Κανάλι YouTube"@el,
+        "YouTube channel"@en,
+        "Canal de Youtube"@es,
+        "YouTube'i kanal"@et,
+        "YouTube-kanava"@fi,
+        "Chaîne YouTube"@fr,
+        "Cainéal YouTube"@ga,
+        "YouTube kanal"@hr,
+        "YouTube kanal"@hu,
+        "Canale Youtube"@it,
+        "YouTube kanalas"@lt,
+        "YouTube kanāls"@lv,
+        "Kanal YouTube"@mt,
+        "Youtube kanaal"@nl,
+        "Kanał Youtube"@pl,
+        "Canal do Youtube"@pt,
+        "Canalul YouTube"@ro,
+        "Kanál YouTube"@sk,
+        "YouTube kanal"@sl,
+        "Youtube-kanal"@sv .
+
+<http://publications.europa.eu/resource/authority/address-type/a9123d85bb25383f13edf5c638a2a0d7> a euvoc:XlNotation ;
+    euvoc:startDate "2009-12-01"^^xsd:date ;
+    dct:created "2015-01-16"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/WHOISWHO> ;
+    rdf:value "OFFICE" .
+
+<http://publications.europa.eu/resource/authority/address-type/a93c86b9389c7c087ac2a336cfbe8a7a> a euvoc:XlNotation ;
+    euvoc:startDate "2009-12-01"^^xsd:date ;
+    dct:created "2015-01-16"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/WHOISWHO> ;
+    rdf:value "POSTE" .
+
+<http://publications.europa.eu/resource/authority/address-type/d3bd94108e8aafcee79fe4a05f24b545> a euvoc:XlNotation ;
+    euvoc:startDate "2009-12-01"^^xsd:date ;
+    dct:created "2015-01-16"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/WHOISWHO> ;
+    rdf:value "CENTRAL" .
+
+<http://publications.europa.eu/resource/authority/address-type/notation_077d71bb> a euvoc:XlNotation ;
+    euvoc:startDate "2021-09-29"^^xsd:date ;
+    dct:created "2021-11-11"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "TRA" .
+
+<http://publications.europa.eu/resource/authority/address-type/notation_13bcd6c2> a euvoc:XlNotation ;
+    euvoc:startDate "2021-09-29"^^xsd:date ;
+    dct:created "2021-08-16"^^xsd:date ;
+    dct:modified "2021-10-05"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "TT" .
+
+<http://publications.europa.eu/resource/authority/address-type/notation_14ecc5a3> a euvoc:XlNotation ;
+    euvoc:startDate "2021-09-29"^^xsd:date ;
+    dct:created "2021-08-16"^^xsd:date ;
+    dct:modified "2021-08-25"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "LKP" .
+
+<http://publications.europa.eu/resource/authority/address-type/notation_1a98f490> a euvoc:XlNotation ;
+    euvoc:startDate "2021-09-29"^^xsd:date ;
+    dct:created "2021-08-16"^^xsd:date ;
+    dct:modified "2021-08-25"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "FBK" .
+
+<http://publications.europa.eu/resource/authority/address-type/notation_260c6998> a euvoc:XlNotation ;
+    euvoc:startDate "2021-09-29"^^xsd:date ;
+    dct:created "2021-08-16"^^xsd:date ;
+    dct:modified "2021-08-25"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "GWS" .
+
+<http://publications.europa.eu/resource/authority/address-type/notation_2fc05009> a euvoc:XlNotation ;
+    euvoc:startDate "2021-09-29"^^xsd:date ;
+    dct:created "2021-08-16"^^xsd:date ;
+    dct:modified "2021-08-25"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "OLD" .
+
+<http://publications.europa.eu/resource/authority/address-type/notation_2fe49675> a euvoc:XlNotation ;
+    euvoc:startDate "2021-09-29"^^xsd:date ;
+    dct:created "2021-09-07"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "EPL" .
+
+<http://publications.europa.eu/resource/authority/address-type/notation_3925c987> a euvoc:XlNotation ;
+    euvoc:startDate "2021-09-29"^^xsd:date ;
+    dct:created "2021-08-16"^^xsd:date ;
+    dct:modified "2021-08-25"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "WEB" .
+
+<http://publications.europa.eu/resource/authority/address-type/notation_39876d3e> a euvoc:XlNotation ;
+    euvoc:startDate "2021-09-29"^^xsd:date ;
+    dct:created "2021-08-16"^^xsd:date ;
+    dct:modified "2021-08-25"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "FBW" .
+
+<http://publications.europa.eu/resource/authority/address-type/notation_3d50bd4f> a euvoc:XlNotation ;
+    euvoc:startDate "2021-09-29"^^xsd:date ;
+    dct:created "2021-08-16"^^xsd:date ;
+    dct:modified "2021-08-25"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "DOM" .
+
+<http://publications.europa.eu/resource/authority/address-type/notation_443107ba> a euvoc:XlNotation ;
+    euvoc:startDate "2021-09-29"^^xsd:date ;
+    dct:created "2021-08-16"^^xsd:date ;
+    dct:modified "2021-08-25"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "URL" .
+
+<http://publications.europa.eu/resource/authority/address-type/notation_539c609f> a euvoc:XlNotation ;
+    euvoc:endDate "2019-04-02"^^xsd:date ;
+    euvoc:startDate "2011-06-28"^^xsd:date ;
+    dct:created "2021-08-16"^^xsd:date ;
+    dct:modified "2021-08-25"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "GGL" .
+
+<http://publications.europa.eu/resource/authority/address-type/notation_582e1647> a euvoc:XlNotation ;
+    euvoc:startDate "2021-09-29"^^xsd:date ;
+    dct:created "2021-08-16"^^xsd:date ;
+    dct:modified "2021-08-25"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "EMP" .
+
+<http://publications.europa.eu/resource/authority/address-type/notation_6fb1fdb5> a euvoc:XlNotation ;
+    euvoc:startDate "2021-09-29"^^xsd:date ;
+    dct:created "2021-08-16"^^xsd:date ;
+    dct:modified "2021-10-05"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "TWT" .
+
+<http://publications.europa.eu/resource/authority/address-type/notation_7098c851> a euvoc:XlNotation ;
+    euvoc:startDate "2021-09-29"^^xsd:date ;
+    dct:created "2021-08-25"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "NON" .
+
+<http://publications.europa.eu/resource/authority/address-type/notation_7108e10d> a euvoc:XlNotation ;
+    euvoc:startDate "2021-09-29"^^xsd:date ;
+    dct:created "2021-08-25"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "PRI" .
+
+<http://publications.europa.eu/resource/authority/address-type/notation_717ca674> a euvoc:XlNotation ;
+    euvoc:startDate "2021-09-29"^^xsd:date ;
+    dct:created "2021-08-25"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "CAL" .
+
+<http://publications.europa.eu/resource/authority/address-type/notation_76b9b93d> a euvoc:XlNotation ;
+    euvoc:startDate "2021-09-29"^^xsd:date ;
+    dct:created "2021-08-16"^^xsd:date ;
+    dct:modified "2021-08-25"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "YTB" .
+
+<http://publications.europa.eu/resource/authority/address-type/notation_7b117bce> a euvoc:XlNotation ;
+    euvoc:startDate "2021-09-29"^^xsd:date ;
+    dct:created "2021-07-23"^^xsd:date ;
+    dct:modified "2021-08-25"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "ITP" .
+
+<http://publications.europa.eu/resource/authority/address-type/notation_862f631d> a euvoc:XlNotation ;
+    euvoc:startDate "2021-09-29"^^xsd:date ;
+    dct:created "2021-08-16"^^xsd:date ;
+    dct:modified "2021-08-25"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "SND" .
+
+<http://publications.europa.eu/resource/authority/address-type/notation_871efd20> a euvoc:XlNotation ;
+    euvoc:startDate "2009-12-01"^^xsd:date ;
+    dct:created "2021-08-16"^^xsd:date ;
+    dct:modified "2021-08-25"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "EMA" .
+
+<http://publications.europa.eu/resource/authority/address-type/notation_98613676> a euvoc:XlNotation ;
+    euvoc:startDate "2021-09-29"^^xsd:date ;
+    dct:created "2021-08-16"^^xsd:date ;
+    dct:modified "2021-08-25"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "EMI" .
+
+<http://publications.europa.eu/resource/authority/address-type/notation_9a1aa317> a euvoc:XlNotation ;
+    euvoc:startDate "2021-09-29"^^xsd:date ;
+    dct:created "2021-08-16"^^xsd:date ;
+    dct:modified "2021-08-25"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "TGR" .
+
+<http://publications.europa.eu/resource/authority/address-type/notation_b6d55f1c> a euvoc:XlNotation ;
+    euvoc:startDate "2021-09-29"^^xsd:date ;
+    dct:created "2021-08-25"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "CON" .
+
+<http://publications.europa.eu/resource/authority/address-type/notation_b7d975d6> a euvoc:XlNotation ;
+    euvoc:startDate "2021-09-29"^^xsd:date ;
+    dct:created "2021-08-25"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "SEC" .
+
+<http://publications.europa.eu/resource/authority/address-type/notation_bebf7ed1> a euvoc:XlNotation ;
+    euvoc:startDate "2021-09-29"^^xsd:date ;
+    dct:created "2021-08-16"^^xsd:date ;
+    dct:modified "2021-08-25"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "TRA" .
+
+<http://publications.europa.eu/resource/authority/address-type/notation_c57a35ac> a euvoc:XlNotation ;
+    euvoc:startDate "2009-12-01"^^xsd:date ;
+    dct:created "2021-11-03"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "COU" .
+
+<http://publications.europa.eu/resource/authority/address-type/notation_c75ded8f> a euvoc:XlNotation ;
+    euvoc:startDate "2021-09-29"^^xsd:date ;
+    dct:created "2021-08-16"^^xsd:date ;
+    dct:modified "2021-08-25"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "YTC" .
+
+<http://publications.europa.eu/resource/authority/address-type/notation_c7837442> a euvoc:XlNotation ;
+    euvoc:startDate "2021-09-29"^^xsd:date ;
+    dct:created "2021-08-16"^^xsd:date ;
+    dct:modified "2021-08-25"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "CDC" .
+
+<http://publications.europa.eu/resource/authority/address-type/notation_cb6f30ea> a euvoc:XlNotation ;
+    euvoc:startDate "2021-09-29"^^xsd:date ;
+    dct:created "2021-08-25"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "BLG" .
+
+<http://publications.europa.eu/resource/authority/address-type/notation_d30827ef> a euvoc:XlNotation ;
+    euvoc:startDate "2021-09-29"^^xsd:date ;
+    dct:created "2021-08-16"^^xsd:date ;
+    dct:modified "2021-08-25"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "LNK" .
+
+<http://publications.europa.eu/resource/authority/address-type/notation_d4fe80fa> a euvoc:XlNotation ;
+    euvoc:startDate "2021-09-29"^^xsd:date ;
+    dct:created "2021-08-16"^^xsd:date ;
+    dct:modified "2021-08-25"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "IST" .
+
+<http://publications.europa.eu/resource/authority/address-type/notation_da27d5b6> a euvoc:XlNotation ;
+    euvoc:startDate "2021-09-29"^^xsd:date ;
+    dct:created "2021-11-08"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "ADM" .
+
+<http://publications.europa.eu/resource/authority/address-type/notation_e118389b> a euvoc:XlNotation ;
+    euvoc:startDate "2021-12-08"^^xsd:date ;
+    dct:created "2021-11-09"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "DIF" .
+
+<http://publications.europa.eu/resource/authority/address-type/notation_e6ad7513> a euvoc:XlNotation ;
+    euvoc:startDate "2021-09-29"^^xsd:date ;
+    dct:created "2021-08-25"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "DOC" .
+
+<http://publications.europa.eu/resource/authority/address-type/notation_efc5adc5> a euvoc:XlNotation ;
+    euvoc:startDate "2021-09-29"^^xsd:date ;
+    dct:created "2021-08-16"^^xsd:date ;
+    dct:modified "2021-08-25"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "FBP" .
+
+<http://publications.europa.eu/resource/authority/address-type/notation_f93d354d> a euvoc:XlNotation ;
+    euvoc:startDate "2021-09-29"^^xsd:date ;
+    dct:created "2021-08-16"^^xsd:date ;
+    dct:modified "2021-08-25"^^xsd:date ;
+    dct:type <http://publications.europa.eu/resource/authority/notation-type/EP> ;
+    rdf:value "FLK" .
+
+<http://publications.europa.eu/resource/authority/address-type/ADR_POSTAL> a skos:Concept ;
+    at:authority-code "ADR_POSTAL" ;
+    at:deprecated "false" ;
+    at:op-code "ADR_POSTAL" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "POSTALADDRESS" ;
+            dc:source "WHOISWHO" ] ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "ADR_POSTAL" ;
+    dc:identifier "ADR_POSTAL" ;
+    skos:altLabel "Поща"@bg,
+        "Poštovní adresa"@cs,
+        "Post"@da,
+        "Anschrift"@de,
+        "Post"@de,
+        "Αλληλογραφία"@el,
+        "Correspondence"@en,
+        "Correo"@es,
+        "Tavapostiaadress"@et,
+        "Courrier"@fr,
+        "Korespondencija"@hr,
+        "Posta"@hu,
+        "Posta"@it,
+        "Paštas"@lt,
+        "Pasts"@lv,
+        "Posta"@mt,
+        "Post"@nl,
+        "Korespondencja"@pl,
+        "Correspondência"@pt,
+        "Corespondenta"@ro,
+        "Pošta"@sl,
+        "Post"@sv ;
+    skos:broader <http://publications.europa.eu/resource/authority/address-type/CDC> ;
+    skos:definition "Written communication through letters."@en,
+        "Communication écrite au moyen de lettres."@fr ;
+    skos:inScheme atold:address-type ;
+    skos:narrower <http://publications.europa.eu/resource/authority/address-type/NON> ;
+    skos:notation <http://publications.europa.eu/resource/authority/address-type/9a3626dec9d539bfc1dcb5a350c2d7dc>,
+        <http://publications.europa.eu/resource/authority/address-type/notation_c57a35ac> ;
+    skos:prefLabel "Пощенски адрес"@bg,
+        "Postadresse"@da,
+        "Postanschrift"@de,
+        "Postal address"@en,
+        "Dirección postal"@es,
+        "Postiaadress"@et,
+        "Postiosoite"@fi,
+        "Adresse postale"@fr,
+        "Seoladh poist"@ga,
+        "Poštanska adresa"@hr,
+        "Postacím"@hu,
+        "Pašto adresas"@lt,
+        "Pasta adrese"@lv,
+        "Indirizz postali"@mt,
+        "Postadres"@nl,
+        "Adres pocztowy"@pl,
+        "Endereço postal"@pt,
+        "Adresă poștală"@ro,
+        "Poštová adresa"@sk,
+        "Poštni naslov"@sl,
+        "Postadress"@sv .
+
+<http://publications.europa.eu/resource/authority/address-type/CDC> a skos:Concept ;
+    at:authority-code "CDC" ;
+    at:deprecated "false" ;
+    at:op-code "CDC" ;
+    at:start.use "2021-09-29" ;
+    atold:op-code "CDC" ;
+    dc:identifier "CDC" ;
+    skos:hiddenLabel "Pasts un dokumentacija"@lv ;
+    skos:inScheme atold:address-type ;
+    skos:narrower <http://publications.europa.eu/resource/authority/address-type/ADR_POSTAL>,
+        <http://publications.europa.eu/resource/authority/address-type/DOC> ;
+    skos:notation <http://publications.europa.eu/resource/authority/address-type/notation_c7837442> ;
+    skos:prefLabel "Поща и документация"@bg,
+        "Pošta a dokumentace"@cs,
+        "Post og dokumentation"@da,
+        "Post und Dokumentation"@de,
+        "Αλληλογραφία και τεκμηρίωση"@el,
+        "Correspondence and documentation"@en,
+        "Correo y Documentación"@es,
+        "Aadress tavaposti ja dokumentide saatmiseks"@et,
+        "Osoite postin ja aineiston lähettämistä varten"@fi,
+        "Courrier et Documentation"@fr,
+        "Comhfhreagras agus doiciméadacht"@ga,
+        "Korespondencija i dokumentacija"@hr,
+        "Posta és dokumentáció"@hu,
+        "Posta e documentazione"@it,
+        "Paštas ir dokumentai"@lt,
+        "Pasts un dokumentācija"@lv,
+        "Posta u Dokumentazzjoni"@mt,
+        "Post en Documentatie"@nl,
+        "Korespondencja i dokumentacja"@pl,
+        "Correspondência e documentação"@pt,
+        "Corespondenta si Documentatie"@ro,
+        "Pošta a dokumentácia"@sk,
+        "Pošta in dokumentacija"@sl,
+        "Post och dokumentation"@sv ;
+    skos:topConceptOf atold:address-type .
+
+<http://publications.europa.eu/resource/authority/address-type/FBK> a skos:Concept ;
+    at:authority-code "FBK" ;
+    at:deprecated "false" ;
+    at:op-code "FBK" ;
+    at:start.use "2021-09-29" ;
+    atold:op-code "FBK" ;
+    dc:identifier "FBK" ;
+    skos:definition "Social network that allows its members to create a profile and share information."@en,
+        "Réseau social qui permet à ses membres de créer un profil et de partager des informations."@fr ;
+    skos:inScheme atold:address-type ;
+    skos:narrower <http://publications.europa.eu/resource/authority/address-type/FBP>,
+        <http://publications.europa.eu/resource/authority/address-type/FBW> ;
+    skos:notation <http://publications.europa.eu/resource/authority/address-type/notation_1a98f490> ;
+    skos:prefLabel "Facebook"@bg,
+        "Facebook"@cs,
+        "Facebook"@da,
+        "Facebook"@de,
+        "Facebook"@el,
+        "Facebook"@en,
+        "Facebook"@es,
+        "Facebook"@et,
+        "Facebook"@fi,
+        "Facebook"@fr,
+        "Facebook"@ga,
+        "Facebook"@hr,
+        "Facebook"@hu,
+        "Facebook"@it,
+        "Facebook"@lt,
+        "Facebook"@lv,
+        "Facebook"@mt,
+        "Facebook"@nl,
+        "Facebook"@pl,
+        "Facebook"@pt,
+        "Facebook"@ro,
+        "Facebook"@sk,
+        "Facebook"@sl,
+        "Facebook"@sv ;
+    skos:topConceptOf atold:address-type .
+
+<http://publications.europa.eu/resource/authority/address-type/EMAIL> a skos:Concept ;
+    at:authority-code "EMAIL" ;
+    at:deprecated "false" ;
+    at:op-code "EMAIL" ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "EMAIL" ;
+    dc:identifier "EMAIL" ;
+    skos:altLabel "e-mail"@bg,
+        "E-Mail"@cs,
+        "E-mail"@da,
+        "E-mail"@de,
+        "Ηλεκτρονική διεύθυνση"@el,
+        "E-mail"@en,
+        "Correo electrónico"@es,
+        "Elektronposti aadress"@et,
+        "Courrier électronique"@fr,
+        "E-Mail"@fr,
+        "E-pošta"@hr,
+        "E-mail"@hu,
+        "E-mail"@it,
+        "E.paštas"@lt,
+        "E-pasts"@lv,
+        "E-Mail"@mt,
+        "E-mail"@nl,
+        "E-Mail"@pl,
+        "Correio eletrónico"@pt,
+        "E-Mail"@pt,
+        "E-Mail"@ro,
+        "E-pošta"@sl,
+        "E-post"@sv ;
+    skos:definition "Electronic address used for the exchange of messages and documents."@en,
+        "Adresse électronique utilisée pour l’échange de messages et de documents."@fr ;
+    skos:hiddenLabel "Електронен адрес (e-mail)"@bg,
+        "E-mail:"@hu ;
+    skos:inScheme atold:address-type ;
+    skos:narrower <http://publications.europa.eu/resource/authority/address-type/EMI>,
+        <http://publications.europa.eu/resource/authority/address-type/EMP>,
+        <http://publications.europa.eu/resource/authority/address-type/OLD> ;
+    skos:notation <http://publications.europa.eu/resource/authority/address-type/notation_871efd20> ;
+    skos:prefLabel "Електронен адрес"@bg,
+        "E-mailová adresa"@cs,
+        "E-mailadresse"@da,
+        "E-Mail-Adresse"@de,
+        "Διεύθυνση ηλεκτρονικού ταχυδρομείου"@el,
+        "E-mail address"@en,
+        "Dirección de correo electrónico"@es,
+        "E-posti aadress"@et,
+        "Sähköpostiosoite"@fi,
+        "Adresse électronique"@fr,
+        "Seoladh ríomhphoist"@ga,
+        "Adresa e-pošte"@hr,
+        "E-mail-cím"@hu,
+        "Indirizzo e-mail"@it,
+        "E. pašto adresas"@lt,
+        "E-pasta adrese"@lv,
+        "Indirizz tal-email"@mt,
+        "E-mailadres"@nl,
+        "Adres e-mail"@pl,
+        "Endereço eletrónico"@pt,
+        "Adresă de e-mail"@ro,
+        "E-mailová adresa"@sk,
+        "Elektronski naslov"@sl,
+        "E-postadress"@sv ;
+    skos:topConceptOf atold:address-type .
+
+atold:address-type a skos:ConceptScheme ;
+    rdfs:label "Address type"@en ;
+    at:prefLabel "Address type"@en ;
+    at:table.id "address-type" ;
+    at:table.version.number "20220316-0" ;
+    owl:versionInfo "20220316-0" ;
+    skos:prefLabel "Address type"@en .
+

@@ -1,0 +1,537 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/honorific/ADMIR_VICE> a skos:Concept ;
+    at:authority-code "ADMIR_VICE" ;
+    at:deprecated "false" ;
+    at:op-code "ADMIR_VICE" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "REARADMIRAL" ;
+            dc:source "WHOISWHO" ] ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "ADMIR_VICE" ;
+    dc:identifier "ADMIR_VICE" ;
+    skos:altLabel "Kонтраадмирал"@bg,
+        "Vicealmirante"@cs,
+        "Kontradmiral"@da,
+        "Konteradmiral"@de,
+        "Υποναύαρχος"@el,
+        "Rear admiral"@en,
+        "Vicealmirante"@es,
+        "Konteradmiral"@et,
+        "Kontra-amiraali"@fi,
+        "Vice-amiral"@fr,
+        "Seachaimiréal"@ga,
+        "Kontraadmiral"@hr,
+        "Ellentengernagy"@hu,
+        "Ammiraglio di divisione"@it,
+        "Kontradmirolas"@lt,
+        "Kontradmirālis"@lv,
+        "Rear Admiral"@mt,
+        "Divisieadmiraal"@nl,
+        "Wiceadmirał"@pl,
+        "Contra-Almirante"@pt,
+        "Contraamiral"@ro,
+        "Kontradmirál"@sk,
+        "Kontraadmiral"@sl,
+        "Konteramiral"@sv ;
+    skos:inScheme atold:honorific ;
+    skos:prefLabel "KAdm"@de,
+        "RAdm"@en,
+        "K-amir"@fi,
+        "VA"@fr,
+        "SA"@ga,
+        "Kadm."@lv,
+        "Wadm."@pl,
+        "CALM"@pt,
+        "Kadm."@sk,
+        "H.E."@sv .
+
+<http://publications.europa.eu/resource/authority/honorific/CAPT_FLT> a skos:Concept ;
+    at:authority-code "CAPT_FLT" ;
+    at:deprecated "false" ;
+    at:op-code "CAPT_FLT" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "CAPTAIN" ;
+            dc:source "WHOISWHO" ] ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "CAPT_FLT" ;
+    dc:identifier "CAPT_FLT" ;
+    skos:altLabel "Капитан от военноморските сили"@bg,
+        "KommandØr"@da,
+        "Kapitän zur See"@de,
+        "Πλοίαρχος"@el,
+        "Fleet Captain"@en,
+        "Capitán de Navío"@es,
+        "Kommodori"@fi,
+        "Capitaine de vaisseau"@fr,
+        "Kapetan bojnog broda"@hr,
+        "Sorhajókapitány"@hu,
+        "Capitano di vascello"@it,
+        "Jūrų kapitonas"@lt,
+        "Jūras kapteinis"@lv,
+        "Kapitein ter zee"@nl,
+        "Komandor"@pl,
+        "Capitão de mar e guerra"@pt,
+        "Kommendör"@sv ;
+    skos:inScheme atold:honorific ;
+    skos:prefLabel "Capt"@en,
+        "CV"@fr,
+        "CMG"@pt .
+
+<http://publications.europa.eu/resource/authority/honorific/CDRE> a skos:Concept ;
+    at:authority-code "CDRE" ;
+    at:deprecated "false" ;
+    at:op-code "CDRE" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "BRIGADIER" ;
+            dc:source "WHOISWHO" ] ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "CDRE" ;
+    dc:identifier "CDRE" ;
+    skos:altLabel "Kомодор"@bg,
+        "Komodor"@cs,
+        "Flotilleadmiral"@da,
+        "Flotillenadmiral"@de,
+        "Αρχιπλοίαρχος"@el,
+        "Commodore"@en,
+        "Contralmirante"@es,
+        "Kommodoor"@et,
+        "Lippueamiraali"@fi,
+        "Général de brigade"@fr,
+        "Ceannasóir"@ga,
+        "Komodora"@hr,
+        "Flotillatengernagy"@hu,
+        "Contrammiraglio"@it,
+        "Flotilės admirolas"@lt,
+        "Flotiles admirālis"@lv,
+        "Komodor"@mt,
+        "Commandeur"@nl,
+        "Kontradmirał"@pl,
+        "Comodoro"@pt,
+        "Contraamiral de flotilă"@ro,
+        "Komodor"@sk,
+        "Kapitan"@sl,
+        "Flottiljamiral"@sv ;
+    skos:inScheme atold:honorific ;
+    skos:prefLabel "FltlAdm"@de,
+        "Cdre"@en,
+        "Lp-amir"@fi,
+        "GBR"@fr,
+        "Fadm."@lv,
+        "Kontradm."@pl,
+        "COM"@pt .
+
+<http://publications.europa.eu/resource/authority/honorific/COL> a skos:Concept ;
+    at:authority-code "COL" ;
+    at:deprecated "false" ;
+    at:op-code "COL" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "COLONEL" ;
+            dc:source "WHOISWHO" ] ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "COL" ;
+    dc:identifier "COL" ;
+    skos:altLabel "Полковник"@bg,
+        "Plukovník"@cs,
+        "Oberst"@da,
+        "Oberst"@de,
+        "Συνταγματάρχης"@el,
+        "Colonel"@en,
+        "Coronel"@es,
+        "Kolonel"@et,
+        "Eversti"@fi,
+        "Colonel"@fr,
+        "Pukovnik"@hr,
+        "Ezredes"@hu,
+        "Colonnello"@it,
+        "Pulkininkas"@lt,
+        "Pulkvedis"@lv,
+        "Il-Kurunell"@mt,
+        "Kolonel"@nl,
+        "Pułkownik"@pl,
+        "Coronel"@pt,
+        "Colonelul"@ro,
+        "Plukovník"@sk,
+        "Polkovnik"@sl,
+        "Överste"@sv ;
+    skos:inScheme atold:honorific ;
+    skos:prefLabel "Полк."@bg,
+        "Σ/χης"@el,
+        "Col."@en,
+        "Cnel."@es,
+        "Col."@fr,
+        "Ezr."@hu,
+        "Col."@it,
+        "Plkv."@lv,
+        "Kol."@mt,
+        "Ev."@sl .
+
+<http://publications.europa.eu/resource/authority/honorific/DR> a skos:Concept ;
+    at:authority-code "DR" ;
+    at:deprecated "false" ;
+    at:op-code "DR" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "DR" ;
+            dc:source "WHOISWHO" ] ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "DR" ;
+    dc:identifier "DR" ;
+    skos:altLabel "Доктор"@bg,
+        "Doktor"@cs,
+        "Doctor"@da,
+        "Doktor"@de,
+        "Διδάκτωρ"@el,
+        "Doctor"@en,
+        "Doctor"@es,
+        "Doctora"@es,
+        "Dra."@es,
+        "Lääkäri"@fi,
+        "Docteur"@fr,
+        "Doktor"@hu,
+        "Dotoressa"@it,
+        "Dott.sa"@it,
+        "Dottore"@it,
+        "Mokslų daktaras"@lt,
+        "Doktors"@lv,
+        "Doctor"@nl,
+        "Doktor"@pl,
+        "Doutor"@pt,
+        "Doutora"@pt,
+        "Dr.ª"@pt,
+        "Doctor"@ro,
+        "Doktor"@sk,
+        "Doktor"@sl,
+        "Doktorica"@sl,
+        "Läkare"@sv ;
+    skos:inScheme atold:honorific ;
+    skos:prefLabel "Д-р"@bg,
+        "Dr."@cs,
+        "Dr."@da,
+        "Δρ"@el,
+        "Dr"@en,
+        "Dr."@es,
+        "Dr."@fr,
+        "Dr."@hu,
+        "Dott."@it,
+        "Dr."@lt,
+        "Dr."@lv,
+        "Dr"@mt,
+        "Dr."@nl,
+        "Dr"@pl,
+        "Dr."@pt,
+        "Dr."@ro,
+        "Dr."@sk,
+        "Dr."@sl .
+
+<http://publications.europa.eu/resource/authority/honorific/HEMR> a skos:Concept ;
+    at:authority-code "HEMR" ;
+    at:deprecated "false" ;
+    at:op-code "HEMR" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "SEM" ;
+            dc:source "WHOISWHO" ] ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "HEMR" ;
+    dc:identifier "HEMR" ;
+    skos:altLabel "Негово превъзходителство"@bg,
+        "Jeho Excelence"@cs,
+        "Hans Excellence"@da,
+        "Seine Exzellenz"@de,
+        "Αυτού Εξοχότης"@el,
+        "His Excellency"@en,
+        "Su Excelencia"@es,
+        "Hänen Ylhäisyytensä"@fi,
+        "Son Excellence"@fr,
+        "A Shoilse"@ga,
+        "Excellenciás úr"@hu,
+        "Sua Excellenza"@it,
+        "Jo Ekscelencija"@lt,
+        "Viņa Ekselence"@lv,
+        "L-Eċċellenza Tiegħu"@mt,
+        "Zijne Excellentie"@nl,
+        "Jego Ekscelencja"@pl,
+        "Vossa Excelência"@pt,
+        "Hans Excellens"@sv ;
+    skos:inScheme atold:honorific ;
+    skos:prefLabel "Н.Пр."@bg,
+        "J. E."@cs,
+        "H.E."@da,
+        "S.E."@de,
+        "AE"@el,
+        "HE Mr"@en,
+        "S. E."@es,
+        "S.E. M."@fr,
+        "A.S."@ga,
+        "J. E."@lt,
+        "V. E."@lv,
+        "ET"@mt,
+        "Z.E."@nl,
+        "JE"@pl,
+        "S. Ex.ª"@pt .
+
+<http://publications.europa.eu/resource/authority/honorific/HEMS> a skos:Concept ;
+    at:authority-code "HEMS" ;
+    at:deprecated "false" ;
+    at:op-code "HEMS" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "SEMME" ;
+            dc:source "WHOISWHO" ] ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "HEMS" ;
+    dc:identifier "HEMS" ;
+    skos:altLabel "Нейно превъзходителство"@bg,
+        "Její Excelence"@cs,
+        "Hendes Excellence"@da,
+        "Ihre Exzellenz"@de,
+        "Αυτής Εξοχότης"@el,
+        "Her Excellency"@en,
+        "Su Excelencia"@es,
+        "Son Excellence"@fr,
+        "Excellenciás asszony"@hu,
+        "Sua Excellenza"@it,
+        "Viņas Ekselence"@lv,
+        "L-Eċċellenza Tagħha"@mt,
+        "Hare Excellentie"@nl,
+        "Jej Ekscelencja"@pl,
+        "Vossa Excelência"@pt ;
+    skos:inScheme atold:honorific ;
+    skos:prefLabel "Н.Пр."@bg,
+        "J. E."@cs,
+        "H.E."@da,
+        "I.E."@de,
+        "HE Ms"@en,
+        "S. E."@es,
+        "S.E. Mme"@fr,
+        "S.E."@it,
+        "J. E."@lt,
+        "ET"@mt,
+        "H.Exc."@nl,
+        "JE"@pl,
+        "S. Ex.ª"@pt .
+
+<http://publications.europa.eu/resource/authority/honorific/LTCOL> a skos:Concept ;
+    at:authority-code "LTCOL" ;
+    at:deprecated "false" ;
+    at:op-code "LTCOL" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "LIEUTCOLONEL" ;
+            dc:source "WHOISWHO" ] ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "LTCOL" ;
+    dc:identifier "LTCOL" ;
+    skos:altLabel "Подполковник"@bg,
+        "Podplukovník"@cs,
+        "Oberstløjtnant"@da,
+        "Oberstleutnant"@de,
+        "Αντισυνταγματάρχης"@el,
+        "Lieutenant colonel"@en,
+        "Teniente coronel"@es,
+        "Kolonelleitnant"@et,
+        "Everstiluutnantti"@fi,
+        "Lieutenant colonel"@fr,
+        "Potpukovnik"@hr,
+        "Alezredes"@hu,
+        "Tenente Colonnello"@it,
+        "Pulkininkas leitenantas"@lt,
+        "Pulkvežleitnants"@lv,
+        "Logutenent Kurunell"@mt,
+        "Luitenant-kolonel"@nl,
+        "Podpułkownik"@pl,
+        "Tenente-coronel"@pt,
+        "Locotenent-colonel"@ro,
+        "Podplukovník"@sk,
+        "Podpolkovnik"@sl,
+        "Överstelöjtnant"@sv ;
+    skos:inScheme atold:honorific ;
+    skos:prefLabel "Lt Col"@en,
+        "Ev.luutn."@fi,
+        "Lt Col"@fr,
+        "Alezr."@hu,
+        "Lt.kol."@nl .
+
+<http://publications.europa.eu/resource/authority/honorific/LTGEN> a skos:Concept ;
+    at:authority-code "LTGEN" ;
+    at:deprecated "false" ;
+    at:op-code "LTGEN" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "LIEUTGENERAL" ;
+            dc:source "WHOISWHO" ] ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "LTGEN" ;
+    dc:identifier "LTGEN" ;
+    skos:altLabel "Генерал-лейтенант"@bg,
+        "Generálporučík"@cs,
+        "Generalløjtnant"@da,
+        "Generalleutnant"@de,
+        "Αντιστράτηγος"@el,
+        "Lieutenant general"@en,
+        "Teniente General"@es,
+        "Kindralleitnant"@et,
+        "Kenraaliluutnantti"@fi,
+        "Général de corps d'armée"@fr,
+        "Leifteanant-Ghinearál"@ga,
+        "Altábornagy"@hu,
+        "Generale di corpo d'armata"@it,
+        "Generolas leitenantas"@lt,
+        "ģenerālleitnants"@lv,
+        "Logutenent Ġeneral"@mt,
+        "Luitenant-generaal"@nl,
+        "Generał broni"@pl,
+        "Tenente-general"@pt,
+        "General-locotenent"@ro,
+        "Generálporučík"@sk,
+        "Generalpodpolkovnik"@sl,
+        "Generallöjtnant"@sv ;
+    skos:inScheme atold:honorific ;
+    skos:prefLabel "GenLt"@de,
+        "Lt. Gen."@en,
+        "Kenr.ltn."@fi,
+        "GCA"@fr,
+        "Altbgy."@hu,
+        "Ģlt."@lv,
+        "TGEN"@pt,
+        "Genpor."@sk .
+
+<http://publications.europa.eu/resource/authority/honorific/MR> a skos:Concept ;
+    at:authority-code "MR" ;
+    at:deprecated "false" ;
+    at:op-code "MR" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "MR" ;
+            dc:source "WHOISWHO" ] ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "MR" ;
+    dc:identifier "MR" ;
+    skos:altLabel "Господин"@bg,
+        "Pan"@cs,
+        "Herre"@da,
+        "Herr"@de,
+        "Κύριος"@el,
+        "Mister"@en,
+        "Señor"@es,
+        "Härra"@et,
+        "Herra"@fi,
+        "Monsieur"@fr,
+        "An tUasal"@ga,
+        "Gospodin"@hr,
+        "Úr"@hu,
+        "Signore"@it,
+        "Ponas"@lt,
+        "Kungs"@lv,
+        "Sinjuri"@mt,
+        "De heer"@nl,
+        "Senhor"@pt,
+        "Domnul"@ro,
+        "Pán"@sk,
+        "Gospod"@sl,
+        "Herr"@sv ;
+    skos:inScheme atold:honorific ;
+    skos:prefLabel "Г-н"@bg,
+        "P."@cs,
+        "Hr."@da,
+        "Hr."@de,
+        "κ."@el,
+        "Mr"@en,
+        "Sr."@es,
+        "Hr."@et,
+        "Hra"@fi,
+        "M."@fr,
+        "An tUas."@ga,
+        "Gosp."@hr,
+        "Sig."@it,
+        "P."@lt,
+        "Kgs"@lv,
+        "Sur"@mt,
+        "Dhr"@nl,
+        "P."@pl,
+        "Sr."@pt,
+        "Dl"@ro,
+        "P."@sk,
+        "G."@sl,
+        "Hr"@sv .
+
+<http://publications.europa.eu/resource/authority/honorific/MS> a skos:Concept ;
+    at:authority-code "MS" ;
+    at:deprecated "false" ;
+    at:op-code "MS" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "MME" ;
+            dc:source "WHOISWHO" ] ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "MS" ;
+    dc:identifier "MS" ;
+    skos:altLabel "Госпожа"@bg,
+        "Paní"@cs,
+        "Fru"@da,
+        "Frau"@de,
+        "Κυρία"@el,
+        "Senõra"@es,
+        "Rouva"@fi,
+        "Madame"@fr,
+        "Asszony"@hu,
+        "Signora"@it,
+        "Ponia"@lt,
+        "Kundze"@lv,
+        "Sinjura"@mt,
+        "Mevrouw"@nl,
+        "Senhora"@pt,
+        "Doamna"@ro,
+        "Gospa"@sl ;
+    skos:inScheme atold:honorific ;
+    skos:prefLabel "Г-жа"@bg,
+        "Fr."@da,
+        "κα"@el,
+        "Ms"@en,
+        "Sra."@es,
+        "Mme"@fr,
+        "Sig.ra"@it,
+        "P."@lt,
+        "Kdze"@lv,
+        "Mvr"@nl,
+        "Sr.ª"@pt,
+        "Dna"@ro,
+        "Ga."@sl .
+
+<http://publications.europa.eu/resource/authority/honorific/OP_DATPRO> a skos:Concept ;
+    at:op-code "OP_DATPRO" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:honorific ;
+    skos:prefLabel "НЕОКОНЧАТЕЛНИ ДАННИ"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv .
+
+atold:honorific a skos:ConceptScheme ;
+    rdfs:label "Honorific"@en ;
+    at:prefLabel "Honorific"@en ;
+    at:table.id "honorific" ;
+    at:table.version.number "20161214-0" ;
+    owl:versionInfo "20161214-0" ;
+    skos:prefLabel "Honorific"@en .
+

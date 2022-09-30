@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:at="http://publications.europa.eu/ontology/authority/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:atold="http://publications.europa.eu/resource/authority/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xml:base="http://publications.europa.eu/resource/authority/buyer-legal-type">
+   <skos:ConceptScheme rdf:about="http://publications.europa.eu/resource/authority/buyer-legal-type"
+                       at:table.id="buyer-legal-type"
+                       at:table.version.number="20220615-0">
+      <at:prefLabel xml:lang="en">Buyer legal type</at:prefLabel>
+      <rdfs:label xml:lang="en">Buyer legal type</rdfs:label>
+      <owl:versionInfo>20220615-0</owl:versionInfo>
+      <skos:prefLabel xml:lang="en">Buyer legal type</skos:prefLabel>
+   </skos:ConceptScheme>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/buyer-legal-type/OP_DATPRO"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Неокончателни данни</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Předběžné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Midlertidige data</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Vorläufige Daten</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Προσωρινά δεδομένα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Provisional data</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Datos provisionales</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Esialgsed andmed</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Alustavat tiedot</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Données provisoires</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Sonraí sealadacha</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Privremeni podaci</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Ideiglenes adatok</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Dati provvisori</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Laikinieji duomenys</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Provizoriski dati</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Dejta provviżorja</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Voorlopige gegevens</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Dane tymczasowe</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Dados provisórios</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Date provizorii</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Predbežné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Začasni podatki</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Tillfälliga uppgifter</skos:prefLabel>
+      <at:authority-code>OP_DATPRO</at:authority-code>
+      <at:op-code>OP_DATPRO</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>OP_DATPRO</atold:op-code>
+      <dc:identifier>OP_DATPRO</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Публичноправна организация</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Veřejnoprávní subjekt</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Offentligretligt organ</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Einrichtung des öffentlichen Rechts</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Οργανισμός δημοσίου δικαίου</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Body governed by public law</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Organismo de Derecho público</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Avalik-õiguslik isik</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Julkisoikeudellinen yhteisö</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Organisme de droit public</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Comhlacht dlí phoiblí</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Tijelo koje se uređuje javnim pravom</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Közjogi intézmény</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Organismo di diritto pubblico</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Viešosios teisės reglamentuojama įstaiga</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Publisko tiesību subjekts</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Korp irregolat bil-liġi pubblika</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Publiekrechtelijke instelling</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Podmiot prawa publicznego</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Organismo de direito público</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Organism de drept public</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Verejnoprávna inštitúcia</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Oseba javnega prava</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Offentligrättsligt organ</skos:prefLabel>
+      <at:authority-code>body-pl</at:authority-code>
+      <at:op-code>body-pl</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>body-pl</atold:op-code>
+      <dc:identifier>body-pl</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:definition xml:lang="en">Body established for the specific purpose of meeting needs in the general interest. This body does not have an industrial or commercial character. It has legal personaility. It is generally financed or managed by the State, regional or local authorities, or by other bodies governed by public law; or is subject to management supervision by those authorities or bodies; or which has an administrative, managerial or supervisory board, more than half of whose members are appointed by the State, regional or local authorities, or by other bodies governed by public law.</skos:definition>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-cga"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Публичноправна организация, контролирана от орган на централната власт</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Veřejnoprávní subjekt ovládaný ústředním orgánem státní správy</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Offentligretligt organ, der styres af en central regeringsmyndighed</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Von einer zentralen Regierungsbehörde kontrollierte Einrichtung des öffentlichen Rechts</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Οργανισμός δημοσίου δικαίου που τελεί υπό τον έλεγχο αρχής της κεντρικής κυβέρνησης</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Body governed by public law, controlled by a central government authority</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Organismo de Derecho público bajo el control de una autoridad estatal</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Keskvalitsusasutuse kontrollitav avalik-õiguslik isik</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Julkisoikeudellinen yhteisö, joka on keskushallinnon viranomaisen määräysvallassa</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Organisme de droit public, contrôlé par une autorité publique centrale</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Comhlacht dlí phoiblí atá faoi rialú údaráis de chuid an rialtais láir</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Tijelo koje se uređuje javnim pravom, koje nadzire središnje tijelo državne uprave</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Központi kormányzati szerv által ellenőrzött közjogi intézmény</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Organismo di diritto pubblico controllato da un'autorità governativa centrale</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Viešosios teisės reglamentuojama įstaiga, kontroliuojama centrinės valdžios institucijos</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Publisko tiesību subjekts, ko kontrolē centrālās pārvaldes iestāde</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Korp irregolat bil-liġi pubblika, ikkontrollat minn awtorità tal-gvern ċentrali</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Publiekrechtelijke instelling onder zeggenschap van een centrale overheidsinstantie</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Podmiot prawa publicznego kontrolowany przez instytucję administracji centralnej</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Organismo de direito público, controlado por uma autoridade da administração central</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Organism de drept public, controlat de o autoritate guvernamentală centrală</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Verejnoprávna inštitúcia pod kontrolou orgánu ústrednej štátnej správy</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Oseba javnega prava, ki jo obvladuje osrednji državni organ</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Offentligrättsligt organ som kontrolleras av en statlig myndighet</skos:prefLabel>
+      <at:authority-code>body-pl-cga</at:authority-code>
+      <at:op-code>body-pl-cga</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>body-pl-cga</atold:op-code>
+      <dc:identifier>body-pl-cga</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:definition xml:lang="en">Body set up for a specific purpose of general interest. These bodies do not have an industrial or commercial character, but have a legal personaility. They are financed or managed by a central government authority.</skos:definition>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-la"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Публичноправна организация, контролирана от местен орган</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Veřejnoprávní subjekt ovládaný místním orgánem</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Offentligretligt organ, der styres af en lokal myndighed</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Von einer lokalen Gebietskörperschaft kontrollierte Einrichtung des öffentlichen Rechts</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Οργανισμός δημοσίου δικαίου που τελεί υπό τον έλεγχο τοπικής αρχής</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Body governed by public law, controlled by a local authority</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Organismo de Derecho público bajo el control de una autoridad local</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Kohaliku omavalitsuse kontrollitav avalik-õiguslik isik</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Julkisoikeudellinen yhteisö, joka on paikallisviranomaisen määräysvallassa</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Organisme de droit public, contrôlé par une autorité locale</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Comhlacht dlí phoiblí atá faoi rialú údaráis áitiúil</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Tijelo koje se uređuje javnim pravom, koje nadzire lokalno tijelo</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Helyi szerv által ellenőrzött közjogi intézmény</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Organismo di diritto pubblico controllato da un'autorità locale</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Viešosios teisės reglamentuojama įstaiga, kontroliuojama vietos valdžios institucijos</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Publisko tiesību subjekts, ko kontrolē vietējās pārvaldes iestāde</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Korp irregolat bil-liġi pubblika, ikkontrollat minn awtorità lokali</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Publiekrechtelijke instelling onder zeggenschap van een lokale overheid</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Podmiot prawa publicznego kontrolowany przez instytucję lokalną</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Organismo de direito público, controlado por uma autoridade local</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Organism de drept public, controlat de o autoritate locală</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Verejnoprávna inštitúcia pod kontrolou miestneho orgánu</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Oseba javnega prava, ki jo obvladuje lokalni organ</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Offentligrättsligt organ som kontrolleras av en lokal myndighet</skos:prefLabel>
+      <at:authority-code>body-pl-la</at:authority-code>
+      <at:op-code>body-pl-la</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>body-pl-la</atold:op-code>
+      <dc:identifier>body-pl-la</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:definition xml:lang="en">Body set up for a specific purpose of general interest. These bodies do not have an industrial or commercial character, but have a legal personaility. They are generally financed or managed by local authorities.</skos:definition>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-ra"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Публичноправна организация, контролирана от регионален орган</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Veřejnoprávní subjekt ovládaný regionálním orgánem</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Offentligretligt organ, der styres af en regional myndighed</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Von einer regionalen Gebietskörperschaft kontrollierte Einrichtung des öffentlichen Rechts</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Οργανισμός δημοσίου δικαίου που τελεί υπό τον έλεγχο περιφερειακής αρχής</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Body governed by public law, controlled by a regional authority</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Organismo de Derecho público bajo el control de una autoridad regional</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Piirkondliku omavalitsuse kontrollitav avalik-õiguslik isik</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Julkisoikeudellinen yhteisö, joka on alueviranomaisen määräysvallassa</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Organisme de droit public, contrôlé par une autorité régionale</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Comhlacht dlí phoiblí atá faoi rialú údaráis réigiúnaigh</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Tijelo koje se uređuje javnim pravom, koje nadzire regionalno tijelo</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Regionális szerv által ellenőrzött közjogi intézmény</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Organismo di diritto pubblico controllato da un'autorità regionale</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Viešosios teisės reglamentuojama įstaiga, kontroliuojama regioninės valdžios institucijos</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Publisko tiesību subjekts, ko kontrolē reģionālās pārvaldes iestāde</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Korp irregolat bil-liġi pubblika, ikkontrollat minn awtorità reġjonali</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Publiekrechtelijke instelling onder zeggenschap van een regionale overheid</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Podmiot prawa publicznego kontrolowany przez instytucję regionalną</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Organismo de direito público, controlado por uma autoridade regional</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Organism de drept public, controlat de o autoritate regională</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Verejnoprávna inštitúcia pod kontrolou regionálneho orgánu</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Oseba javnega prava, ki jo obvladuje regionalni organ</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Offentligrättsligt organ som kontrolleras av en regional myndighet</skos:prefLabel>
+      <at:authority-code>body-pl-ra</at:authority-code>
+      <at:op-code>body-pl-ra</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>body-pl-ra</atold:op-code>
+      <dc:identifier>body-pl-ra</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:definition xml:lang="en">Body set up for a specific purpose of general interest. These bodies do not have an industrial or commercial character, but have a legal personaility. They are financed or managed by regional authorities.</skos:definition>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/buyer-legal-type/cga"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Орган на централната власт</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Ústřední orgán státní správy</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Central regeringsmyndighed</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Zentrale Regierungsbehörde</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Αρχή κεντρικής κυβέρνησης</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Central government authority</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Autoridad estatal</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Keskvalitsusasutus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Keskushallinnon viranomainen</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Autorité publique centrale</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Údarás de chuid an rialtais láir</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Središnje tijelo državne uprave</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Központi kormányzati szerv</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Autorità governativa centrale</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Centrinės valdžios institucija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Centrālās pārvaldes iestāde</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Awtorità tal-gvern ċentrali</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Centrale overheidsinstantie</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Instytucja administracji centralnej</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Autoridade da administração central</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Autoritate guvernamentală centrală</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Orgán ústrednej štátnej správy</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Osrednji državni organ</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Statlig myndighet</skos:prefLabel>
+      <at:authority-code>cga</at:authority-code>
+      <at:op-code>cga</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>cga</atold:op-code>
+      <dc:identifier>cga</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:definition xml:lang="en">Administrative unit at State level; means the contracting authorities listed in Annex I of Directive 2014/24 and, in so far as corrections or amendments have been made at national level, their successor entities.</skos:definition>
+      <skos:scopeNote xml:lang="en">Contracting authorities as listed in Directive 2014/24/EU Annex I and, in so far as corrections or amendments have been made at national level, their successor entities</skos:scopeNote>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/buyer-legal-type/def-cont"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Изпълнител от областта на отбраната</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Zadavatel, zhotovitel, dodavatel nebo poskytovatel služeb v oblasti obrany</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Entreprenør på forsvarsområdet</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Auftragnehmer im Bereich Verteidigung</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Ανάδοχος στον τομέα της άμυνας</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Defence contractor</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Contratista de defensa</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Kaitsevaldkonna töövõtja</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Puolustusalan toimeksisaaja</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Contractant du secteur de la défense</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Conraitheoir cosanta</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Ugovaratelj u području obrane</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Védelmi vállalkozó</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Appaltatore nel settore della difesa</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Gynybos sektoriaus rangovas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Aizsardzības darbuzņēmējs</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Kuntrattur tad-difiża</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Contractant op defensiegebied</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Kontrahent w sektorze obronności</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Contratante do domínio da defesa</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Contractant din domeniul apărării</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Dodávateľ v oblasti obrany</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Izvajalec na področju obrambe</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Uppdragstagare på försvarsområdet</skos:prefLabel>
+      <at:authority-code>def-cont</at:authority-code>
+      <at:op-code>def-cont</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>def-cont</atold:op-code>
+      <dc:identifier>def-cont</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:definition xml:lang="en">A contractor in the defence domain that subcontracts using specific procurement procedures.</skos:definition>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/buyer-legal-type/eu-ins-bod-ag"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Институция, орган или агенция на ЕС</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Instituce, orgán nebo agentura EU</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">EU-institution, organ eller agentur</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">EU-Institution, -Einrichtung oder -Agentur</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Θεσμικό όργανο, όργανο ή οργανισμός της ΕΕ</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">EU institution, body or agency</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Institución, órgano o agencia de la UE</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">ELi institutsioon, organ või amet</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">EU:n toimielin, elin tai virasto</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Institution, organe ou agence de l’UE</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">﻿Institiúid, comhlact nó gníomhaireacht de chuid an AE</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Institucija, tijelo ili agencija EU-a</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">EU-intézmény, -szerv vagy -ügynökség</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Istituzione, organo o agenzia dell’UE</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">ES institucija, įstaiga ar agentūra</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">ES iestāde, struktūra vai aģentūra</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Istituzzjoni, korp jew aġenzija tal-UE</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">EU-instelling, -orgaan of -agentschapp</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Instytucja, organ lub agencja UE</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Instituição, órgão ou agência da UE</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Instituție, organ sau agenție a UE</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Inštitúcia, orgán alebo agentúra EÚ</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Institucija, organ ali agencija EU</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">EU-institution, organ eller byrå</skos:prefLabel>
+      <at:authority-code>eu-ins-bod-ag</at:authority-code>
+      <at:op-code>eu-ins-bod-ag</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>eu-ins-bod-ag</atold:op-code>
+      <dc:identifier>eu-ins-bod-ag</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:definition xml:lang="en">European Union institutions, bodies and agencies created by the EU treaties or other EU legislation.</skos:definition>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/buyer-legal-type/eu-int-org"
+                 at:deprecated="true">
+      <skos:prefLabel xml:lang="bg">Европейска институция/агенция или международна организация</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Evropská instituce/agentura nebo mezinárodní organizace</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Europæisk institution/agentur eller international organisation</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Europäische Institution/Agentur oder internationale Organisation</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Ευρωπαϊκό θεσμικό όργανο/οργανισμός ή διεθνής οργανισμός</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">European Institution/Agency or International Organisation</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Institución/organismo descentralizado europeo u organización internacional</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Euroopa Liidu institutsioon või rahvusvaheline organisatsioon</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">EU:n toimielin/virasto tai kansainvälinen organisaatio</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Institution/agence européenne ou organisation internationale</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Institiúid/Gníomhaireacht Eorpach nó Eagraíocht Idirnáisiúnta</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Europska institucija/agencija ili međunarodna organizacija</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Európai intézmény/ügynökség vagy nemzetközi szervezet</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Istituzione/agenzia europea o organizzazione internazionale</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Eiropas institūcija/aģentūra vai starptautiska organizācija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Europos institucija arba agentūra ar tarptautinė organizacija</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Istituzzjoni/Aġenzija Ewropea jew Organizzazzjoni Internazzjonali</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Europese instelling/Europees agentschap of internationale organisatie</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Instytucja/agencja europejska lub organizacja międzynarodowa</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Instituição Europeia/Agência ou organização internacional</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Instituţie/agenţie europeană sau organizaţie internaţională</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Európska inštitúcia/agentúra alebo medzinárodná organizácia</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Evropska institucija/agencija ali mednarodna organizacija</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">EU-institution/organ eller internationell organisation</skos:prefLabel>
+      <at:authority-code>eu-int-org</at:authority-code>
+      <at:op-code>eu-int-org</at:op-code>
+      <at:start.use>2019-09-16</at:start.use>
+      <atold:op-code>eu-int-org</atold:op-code>
+      <dc:identifier>eu-int-org</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:definition xml:lang="en">European Union institutions and agencies created by the EU treaties or other EU legislation or international intergovernmental organisations.</skos:definition>
+      <at:end.use>2019-09-17</at:end.use>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/buyer-legal-type/grp-p-aut"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Група от публични органи</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Skupina orgánů veřejné moci</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Gruppe af offentlige myndigheder</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Gruppe öffentlicher Stellen</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Ομάδα δημόσιων αρχών</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Group of public authorities</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Grupo de autoridades públicas</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Ametiasutuste rühm</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Viranomaisten ryhmittymä</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Groupement d’autorités publiques</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Grúpa údarás poiblí</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Skupina javnih tijela</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Hatóságok csoportja</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Gruppo di autorità pubbliche</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Valdžios institucijų grupė</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Valsts iestāžu grupa</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Grupp ta’ awtoritajiet pubbliċi</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Groep overheidsinstanties</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Grupa organów publicznych</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Grupo de autoridades públicas</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Grup de autorități publice</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Skupina verejných orgánov</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Skupina javnih organov</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Grupp av offentliga organ</skos:prefLabel>
+      <at:authority-code>grp-p-aut</at:authority-code>
+      <at:op-code>grp-p-aut</at:op-code>
+      <at:start.use>2021-12-08</at:start.use>
+      <atold:op-code>grp-p-aut</atold:op-code>
+      <dc:identifier>grp-p-aut</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:definition xml:lang="en">Group of national, regional or local authorities.</skos:definition>
+      <skos:scopeNote xml:lang="en">This definition refers to a group of public authorities or other bodies that have been vested by one or more Member States with the power to act as a competent authority within the meaning of Regulation (EC) No 1370/2007. The grouping can involve competent authorities from one or more Member States.</skos:scopeNote>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/buyer-legal-type/int-org"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Международна организация</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Mezinárodní organizace</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">International organisation</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Internationale Organisation</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Διεθνής οργανισμός</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">International organisation</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Organización internacional</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Rahvusvaheline organisatsioon</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Kansainvälinen järjestö</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Organisation internationale</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Eagraíocht idirnáisiúnta</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Međunarodna organizacija</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Nemzetközi szervezet</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Organizzazione internazionale</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Tarptautinė organizacija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Starptautiska organizācija</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Organizzazzjoni internazzjonali</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Internationale organisatie</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Organizacja międzynarodowa</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Organização internacional</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Organizație internațională</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Medzinárodná organizácia</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Mednarodna organizacija</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Internationell organisation</skos:prefLabel>
+      <at:authority-code>int-org</at:authority-code>
+      <at:op-code>int-org</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>int-org</atold:op-code>
+      <dc:identifier>int-org</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:definition xml:lang="en">International intergovernmental organisations.</skos:definition>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/buyer-legal-type/la"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Местен орган</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Místní orgán</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Lokal myndighed</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Lokale Gebietskörperschaft</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Τοπική αρχή</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Local authority</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Autoridad local</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Kohalik omavalitsus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Paikallisviranomainen</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Autorité locale</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Údarás áitiúil</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Lokalno tijelo</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Helyi hatóság</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Autorità locale</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Vietos valdžios institucija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Vietējās pārvaldes iestāde</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Awtorità lokali</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Lokale overheid</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Instytucja lokalna</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Autoridade local</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Autoritate locală</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Miestny orgán</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Lokalni organ</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Lokal myndighet</skos:prefLabel>
+      <at:authority-code>la</at:authority-code>
+      <at:op-code>la</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>la</atold:op-code>
+      <dc:identifier>la</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:definition xml:lang="en">Includes all authorities of the administrative units falling under NUTS 3 and smaller administrative units as referred to in Regulation (EC) No 1059/2003 of the European Parliament and of the Council.</skos:definition>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Организация, която възлага поръчка, субсидирана от възлагащ орган</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Organizace zadávající zakázku dotovanou veřejným zadavatelem</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Organisation, der tildeler en kontrakt, som modtager subsidier fra en ordregivende myndighed</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Organisation, die einen durch einen öffentlichen Auftraggeber subventionierten Auftrag vergibt</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Οργανισμός που αναθέτει σύμβαση επιδοτούμενη από αναθέτουσα αρχή</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Organisation awarding a contract subsidised by a contracting authority</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Organización que concede un contrato subvencionado por un poder adjudicador</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Hankija subsideeritavat lepingut sõlmiv organisatsioon</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Hankintaviranomaisen subventoiman sopimuksen tekevä organisaatio</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Organisation qui passe un marché subventionné par un pouvoir adjudicateur</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Eagraíocht atá ag dámhachtain conradh atá fóirdheonaithe ag údarás conarthachta</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Organizacija koja dodjeljuje ugovor koji subvencionira javni naručitelj</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Ajánlatkérő szerv által támogatott szerződést odaítélő szervezet</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Organizzazione che aggiudica un appalto sovvenzionato da un'amministrazione aggiudicatrice</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Organizacija, skirianti sutartį, subsidijuojamą perkančiosios organizacijos</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Organizācija, kas piešķir līgumslēdzējas iestādes subsidētu līgumu</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Organizzazzjoni li tagħti kuntratt issussidjat minn awtorità kontraenti</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Organisatie die een door een aanbestedende dienst gesubsidieerde opdracht gunt</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Organizacja udzielająca zamówienia dotowanego przez instytucję zamawiającą</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Organização que adjudica um contrato subvencionado por uma autoridade adjudicante</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Organizație care atribuie un contract subvenționat de o autoritate contractantă</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Organizácia, ktorá zadáva zákazku subvencovanú verejným obstarávateľom</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Organizacijo, ki oddaja naročilo, subvencionira javni naročnik</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Organisation som tilldelar ett kontrakt som subventioneras av en upphandlande myndighet</skos:prefLabel>
+      <at:authority-code>org-sub</at:authority-code>
+      <at:op-code>org-sub</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>org-sub</atold:op-code>
+      <dc:identifier>org-sub</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:definition xml:lang="en">Organisation that procures under certain conditions and is subsidised by contracting authorities.</skos:definition>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-cga"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Организация, която възлага поръчка, субсидирана от орган на централната власт</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Organizace zadávající zakázku dotovanou ústředním orgánem státní správy</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Organisation, der tildeler en kontrakt, som modtager subsidier fra central regeringsmyndighed</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Organisation, die einen durch eine zentrale Regierungsbehörde subventionierten Auftrag vergibt</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Οργανισμός που αναθέτει σύμβαση επιδοτούμενη από αρχή της κεντρικής κυβέρνησης</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Organisation awarding a contract subsidised by a central government authority</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Organización que concede un contrato subvencionado por una autoridad estatal</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Keskvalitsusasutuse subsideeritavat lepingut sõlmiv organisatsioon</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Keskushallinnon viranomaisen subventoiman sopimuksen tekevä organisaatio</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Organisation qui passe un marché subventionné par une autorité publique centrale</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Eagraíocht atá ag dámhachtain conradh atá fóirdheonaithe ag údarás stáit</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Organizacija koja dodjeljuje ugovor koji subvencionira središnje tijelo državne uprave</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Központi kormányzati szerv által támogatott szerződést odaítélő szervezet</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Organizzazione che aggiudica un appalto sovvenzionato da un'autorità governativa centrale</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Organizacija, skirianti sutartį, subsidijuojamą centrinės valdžios institucijos</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Organizācija, kas piešķir centrālās pārvaldes iestādes subsidētu līgumu</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Organizzazzjoni li tagħti kuntratt issussidjat minn awtorità tal-gvern ċentrali</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Organisatie die een door een centrale overheidsinstantie gesubsidieerde opdracht gunt</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Organizacja udzielająca zamówienia dotowanego przez instytucję administracji centralnej</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Organização que adjudica um contrato subvencionado por uma autoridade da administração central</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Organizație care atribuie un contract subvenționat de o autoritate guvernamentală centrală</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Organizácia, ktorá zadáva zákazku subvencovanú orgánom ústrednej štátnej správy</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Organizacijo, ki oddaja naročilo, subvencionira osrednji državni organ</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Organisation som tilldelar ett kontrakt som subventioneras av en statlig myndighet</skos:prefLabel>
+      <at:authority-code>org-sub-cga</at:authority-code>
+      <at:op-code>org-sub-cga</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>org-sub-cga</atold:op-code>
+      <dc:identifier>org-sub-cga</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:definition xml:lang="en">Organisation that procures under certain conditions and is subsidised by central government authorities</skos:definition>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-la"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Организация, която възлага поръчка, субсидирана от местен орган</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Organizace zadávající zakázku dotovanou místním orgánem</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Organisation, der tildeler en kontrakt, som modtager subsidier fra lokal regeringsmyndighed</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Organisation, die einen durch eine lokale Gebietskörperschaft subventionierten Auftrag vergibt</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Οργανισμός που αναθέτει σύμβαση επιδοτούμενη από τοπική αρχή</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Organisation awarding a contract subsidised by a local authority</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Organización que concede un contrato subvencionado por una autoridad local</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Kohaliku omavalitsuse subsideeritavat lepingut sõlmiv organisatsioon</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Paikallisviranomaisen subventoiman sopimuksen tekevä organisaatio</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Organisation qui passe un marché subventionné par une autorité locale</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Eagraíocht atá ag dámhachtain conradh atá fóirdheonaithe ag údarás áitiúil</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Organizacija koja dodjeljuje ugovor koji subvencionira lokalno tijelo</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Helyi kormányzati szerv által támogatott szerződést odaítélő szervezet</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Organizzazione che aggiudica un appalto sovvenzionato da un'autorità locale</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Organizacija, skirianti sutartį, subsidijuojamą vietos valdžios institucijos</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Organizācija, kas piešķir vietējas iestādes subsidētu līgumu</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Organizzazzjoni li tagħti kuntratt issussidjat minn awtorità lokali</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Organisatie die een door een lokale overheid gesubsidieerde opdracht gunt</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Organizacja udzielająca zamówienia dotowanego przez instytucję administracji lokalnej</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Organização que adjudica um contrato subvencionado por uma autoridade local</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Organizație care atribuie un contract subvenționat de o autoritate locală</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Organizácia, ktorá zadáva zákazku subvencovanú miestnym orgánom</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Organizacijo, ki oddaja naročilo, subvencionira lokalni organ</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Organisation som tilldelar ett kontrakt som subventioneras av en lokal myndighet</skos:prefLabel>
+      <at:authority-code>org-sub-la</at:authority-code>
+      <at:op-code>org-sub-la</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>org-sub-la</atold:op-code>
+      <dc:identifier>org-sub-la</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:definition xml:lang="en">Organisation that procures under certain conditions and is subsidised by local authorities</skos:definition>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-ra"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Организация, която възлага поръчка, субсидирана от регионален орган</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Organizace zadávající zakázku dotovanou regionálním orgánem</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Organisation, der tildeler en kontrakt, som modtager subsidier fra regional regeringsmyndighed</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Organisation, die einen durch eine regionale Gebietskörperschaft subventionierten Auftrag vergibt</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Οργανισμός που αναθέτει σύμβαση επιδοτούμενη από περιφερειακή αρχή</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Organisation awarding a contract subsidised by a regional authority</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Organización que concede un contrato subvencionado por una autoridad regional</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Piirkondliku omavalitsuse subsideeritavat lepingut sõlmiv organisatsioon</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Alueviranomaisen subventoiman sopimuksen tekevä organisaatio</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Organisation qui passe un marché subventionné par une autorité régionale</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Eagraíocht atá ag dámhachtain conradh atá fóirdheonaithe ag údarás réigiúnach</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Organizacija koja dodjeljuje ugovor koji subvencionira regionalno tijelo</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Regionális kormányzati szerv által támogatott szerződést odaítélő szervezet</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Organizzazione che aggiudica un appalto sovvenzionato da un'autorità regionale</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Organizacija, skirianti sutartį, subsidijuojamą regioninės valdžios institucijos</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Organizācija, kas piešķir reģionālas iestādes subsidētu līgumu</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Organizzazzjoni li tagħti kuntratt issussidjat minn awtorità reġjonali</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Organisatie die een door een regionale overheid gesubsidieerde opdracht gunt</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Organizacja udzielająca zamówienia dotowanego przez instytucję administracji regionalnej</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Organização que adjudica um contrato subvencionado por uma autoridade regional</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Organizație care atribuie un contract subvenționat de o autoritate regională</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Organizácia, ktorá zadáva zákazku subvencovanú regionálnym orgánom</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Organizacijo, ki oddaja naročilo, subvencionira regionalni organ</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Organisation som tilldelar ett kontrakt som subventioneras av en regional myndighet</skos:prefLabel>
+      <at:authority-code>org-sub-ra</at:authority-code>
+      <at:op-code>org-sub-ra</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>org-sub-ra</atold:op-code>
+      <dc:identifier>org-sub-ra</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:definition xml:lang="en">Organisation that procures under certain conditions and is subsidised by regional authorities</skos:definition>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Публично предприятие</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Veřejný podnik</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Offentlig virksomhed</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Öffentliches Unternehmen</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Δηµόσια επιχείρηση</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Public undertaking</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Empresa pública</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Riigi osalusega äriühing</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Julkinen yritys</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Entreprise publique</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Gnóthas poiblí</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Javno poduzeće</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Közvállalkozás</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Impresa pubblica</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Valstybinė įmonė</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Publiskais uzņēmums</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Impriża pubblika</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Overheidsonderneming</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Przedsiębiorstwo publiczne</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Empresa pública</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Întreprindere de stat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Verejný podnik</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Javno podjetje</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Offentligt företag</skos:prefLabel>
+      <at:authority-code>pub-undert</at:authority-code>
+      <at:op-code>pub-undert</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>pub-undert</atold:op-code>
+      <dc:identifier>pub-undert</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:definition xml:lang="en">Any undertaking over which the contracting authorities may exercise directly or indirectly a dominant influence by virtue of their ownership of it, their financial participation therein, or the rules which govern it.</skos:definition>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-cga"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Публично предприятие, контролирано от орган на централната власт</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Veřejný podnik ovládaný ústředním orgánem státní správy</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Offentlig virksomhed, der styres af en central regeringsmyndighed</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Von einer zentralen Regierungsbehörde kontrolliertes öffentliches Unternehmen</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Δημόσια επιχείρηση που τελεί υπό τον έλεγχο αρχής της κεντρικής κυβέρνησης</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Public undertaking, controlled by a central government authority</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Empresa pública bajo el control de una autoridad estatal</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Keskvalitsusasutuse kontrollitav riigi osalusega äriühing</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Julkinen yritys, joka on keskushallinnon viranomaisen määräysvallassa</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Entreprise publique, contrôlée par une autorité publique centrale</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Gnóthas poiblí atá faoi rialú údaráis stáit</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Javno poduzeće koje nadzire središnje tijelo državne uprave</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Központi kormányzati szerv által ellenőrzött közvállalkozás</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Impresa pubblica controllata da un'autorità governativa centrale</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Valstybinė įmonė, kontroliuojama centrinės valdžios institucijos</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Publisks uzņēmums, ko kontrolē centrālās pārvaldes iestāde</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Impriża pubblika, ikkontrollata minn awtorità tal-gvern ċentrali</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Overheidsonderneming onder zeggenschap van een centrale overheidsinstantie</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Przedsiębiorstwo publiczne kontrolowane przez instytucję administracji centralnej</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Empresa pública, controlada por uma autoridade da administração central</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Întreprindere de stat, controlată de o autoritate guvernamentală centrală</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Verejný podnik pod kontrolou orgánu ústrednej štátnej správy</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Javno podjetje, ki ga obvladuje osrednji državni organ</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Offentligt företag som kontrolleras av en statlig myndighet</skos:prefLabel>
+      <at:authority-code>pub-undert-cga</at:authority-code>
+      <at:op-code>pub-undert-cga</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>pub-undert-cga</atold:op-code>
+      <dc:identifier>pub-undert-cga</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:definition xml:lang="en">Any undertaking over which central government authorities may exercise directly or indirectly a dominant influence by virtue of their ownership of it, their financial participation therein, or the rules which govern it.</skos:definition>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-la"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Публично предприятие, контролирано от местен орган</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Veřejný podnik ovládaný místním orgánem</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Offentlig virksomhed, der styres af en lokal myndighed</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Von einer lokalen Gebietskörperschaft kontrolliertes öffentliches Unternehmen</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Δημόσια επιχείρηση που τελεί υπό τον έλεγχο τοπικής αρχής</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Public undertaking, controlled by a local authority</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Empresa pública bajo el control de una autoridad local</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Kohaliku omavalitsuse kontrollitav riigi osalusega äriühing</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Julkinen yritys, joka on paikallisviranomaisen määräysvallassa</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Entreprise publique, contrôlée par une autorité locale</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Gnóthas poiblí atá faoi rialú údaráis áitiúil</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Javno poduzeće koje nadzire lokalno tijelo</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Helyi szerv által ellenőrzött közvállalkozás</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Impresa pubblica controllata da un'autorità locale</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Valstybinė įmonė, kontroliuojama vietos valdžios institucijos</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Publisks uzņēmums, ko kontrolē vietējās pārvaldes iestāde</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Impriża pubblika, ikkontrollata minn awtorità lokali</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Overheidsonderneming onder zeggenschap van een lokale overheid</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Przedsiębiorstwo publiczne kontrolowane przez instytucję lokalną</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Empresa pública, controlada por uma autoridade local</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Întreprindere de stat, controlată de o autoritate locală</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Verejný podnik pod kontrolou miestneho orgánu</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Javno podjetje, ki ga obvladuje lokalni organ</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Offentligt företag som kontrolleras av en lokal myndighet</skos:prefLabel>
+      <at:authority-code>pub-undert-la</at:authority-code>
+      <at:op-code>pub-undert-la</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>pub-undert-la</atold:op-code>
+      <dc:identifier>pub-undert-la</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:definition xml:lang="en">Any undertaking over which local contracting authorities may exercise directly or indirectly a dominant influence by virtue of their ownership of it, their financial participation therein, or the rules which govern it.</skos:definition>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-ra"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Публично предприятие, контролирано от регионален орган</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Veřejný podnik ovládaný regionálním orgánem</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Offentlig virksomhed, der styres af en regional myndighed</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Von einer regionalen Gebietskörperschaft kontrolliertes öffentliches Unternehmen</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Δημόσια επιχείρηση που τελεί υπό τον έλεγχο περιφερειακής αρχής</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Public undertaking, controlled by a regional authority</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Empresa pública bajo el control de una autoridad regional</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Piirkondliku omavalitsuse kontrollitav riigi osalusega äriühing</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Julkinen yritys, joka on alueviranomaisen määräysvallassa</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Entreprise publique, contrôlée par une autorité régionale</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Gnóthas poiblí atá faoi rialú údaráis réigiúnaigh</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Javno poduzeće koje nadzire regionalno tijelo</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Regionális szerv által ellenőrzött közvállalkozás</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Impresa pubblica controllata da un'autorità regionale</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Valstybinė įmonė, kontroliuojama regioninės valdžios institucijos</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Publisks uzņēmums, ko kontrolē reģionālās pārvaldes iestāde</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Impriża pubblika, ikkontrollata minn awtorità reġjonali</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Overheidsonderneming onder zeggenschap van een regionale overheid</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Przedsiębiorstwo publiczne kontrolowane przez instytucję regionalną</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Empresa pública, controlada por uma autoridade regional</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Întreprindere de stat, controlată de o autoritate regională</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Verejný podnik pod kontrolou regionálneho orgánu</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Javno podjetje, ki ga obvladuje regionalni organ</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Offentligt företag som kontrolleras av en regional myndighet</skos:prefLabel>
+      <at:authority-code>pub-undert-ra</at:authority-code>
+      <at:op-code>pub-undert-ra</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>pub-undert-ra</atold:op-code>
+      <dc:identifier>pub-undert-ra</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:definition xml:lang="en">Any undertaking over which regional contracting authorities may exercise directly or indirectly a dominant influence by virtue of their ownership of it, their financial participation therein, or the rules which govern it.</skos:definition>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/buyer-legal-type/ra"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Регионален орган</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Regionální orgán</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Regional myndighed</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Regionale Gebietskörperschaft</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Περιφερειακή αρχή</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Regional authority</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Autoridad regional</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Piirkondlik omavalitsus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Alueviranomainen</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Autorité régionale</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Údarás réigiúnach</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Regionalno tijelo</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Regionális hatóság</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Autorità regionale</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Regioninės valdžios institucija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Reģionāla iestāde</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Awtorità reġjonali</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Regionale overheid</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Instytucja regionalna</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Autoridade regional</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Autoritate regională</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Regionálny orgán</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Regionalni organ</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Regional myndighet</skos:prefLabel>
+      <at:authority-code>ra</at:authority-code>
+      <at:op-code>ra</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>ra</atold:op-code>
+      <dc:identifier>ra</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:definition xml:lang="en">Includes all authorities of the administrative units listed non-exhaustively in NUTS 1 and 2 as referred to in Regulation (EC) No 1059/2003 of the European Parliament and of the Council.</skos:definition>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/buyer-legal-type/rl-aut"
+                 at:deprecated="true">
+      <skos:prefLabel xml:lang="bg">Регионален или местен орган</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Regionální či místní orgán</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Regional eller lokal myndighed</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Regional- oder Kommunalbehörde</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Αρχή τοπικής αυτοδιοίκησης</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Regional or local authority</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Autoridad regional o local</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Linna või valla ametiasutus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Alue- tai paikallistason viranomainen</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Autorité régionale ou locale</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Údarás réigiúnach nó áitiúil</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Regionalno ili lokalno tijelo</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Regionális vagy helyi hatóság</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Autorità regionale o locale</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Regiono ar vietos valdžios institucija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Reģionāla vai vietēja iestāde</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Awtorità reġjonali jew lokali</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Regionale of plaatselijke instantie</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Organ władzy regionalnej lub lokalnej</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Autoridades regionais ou locais</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Autoritate regională sau locală</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Regionálny alebo miestny orgán</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Regionalni ali lokalni organ</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Regional eller lokal myndighet</skos:prefLabel>
+      <at:authority-code>rl-aut</at:authority-code>
+      <at:op-code>rl-aut</at:op-code>
+      <at:start.use>2019-09-16</at:start.use>
+      <atold:op-code>rl-aut</atold:op-code>
+      <dc:identifier>rl-aut</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:definition xml:lang="en">Includes all authorities of the administrative units listed non-exhaustively in NUTS 1 and 2 as referred to in Regulation (EC) No 1059/2003 of the European Parliament and of the Council.Includes all authorities of the administrative units falling under NUTS 3 and smaller administrative units as referred to in Regulation (EC) No 1059/2003 of the European Parliament and of the Council.</skos:definition>
+      <at:end.use>2019-09-17</at:end.use>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/buyer-legal-type/spec-rights-entity"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Образувание със специални или изключителни права</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Subjekt se zvláštními nebo výhradními právy</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Enhed med særlige eller eksklusive rettigheder</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Organisation mit besonderen oder ausschließlichen Rechten</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Φορέας με ειδικά ή αποκλειστικά δικαιώματα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Entity with special or exclusive rights</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Entidad con derechos especiales o exclusivos</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Eri- või ainuõigustega üksus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Yksikkö, jolla on erityis- tai yksinoikeuksia</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Entité disposant de droits spéciaux ou exclusifs</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Eintiteas a bhfuil cearta speisialta nó eisiacha aige</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Subjekt s posebnim ili isključivim pravima</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Különleges vagy kizárólagos jogokkal rendelkező jogi személy</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Ente dotato di diritti speciali o esclusivi</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Subjektai, turintys specialiųjų ar išskirtinių teisių</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Subjekts ar īpašām vai ekskluzīvām tiesībām</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Entità bi drittijiet speċjali jew esklużivi</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Entiteit met bijzondere of uitsluitende rechten</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Podmiot, któremu przysługują prawa specjalne lub wyłączne</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Entidade com direitos especiais ou exclusivos</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Entitate cu drepturi speciale sau exclusive</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Subjekt s osobitnými alebo výlučnými právami</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Subjekt s posebnimi ali izključnimi pravicami</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Enhet med särskilda eller exklusiva rättigheter</skos:prefLabel>
+      <at:authority-code>spec-rights-entity</at:authority-code>
+      <at:op-code>spec-rights-entity</at:op-code>
+      <at:start.use>2019-09-18</at:start.use>
+      <atold:op-code>spec-rights-entity</atold:op-code>
+      <dc:identifier>spec-rights-entity</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/buyer-legal-type"/>
+      <skos:definition xml:lang="en">Entity that has been granted "special or exclusive rights by means of legislative, regualtory, administrative procedure by a competent authority of a Member State.</skos:definition>
+   </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,177 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/requirement-stage/OP_DATPRO> a skos:Concept ;
+    at:op-code "OP_DATPRO" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:requirement-stage ;
+    skos:prefLabel "НЕОКОНЧАТЕЛНИ ДАННИ"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv .
+
+<http://publications.europa.eu/resource/authority/requirement-stage/not-requ> a skos:Concept ;
+    at:authority-code "not-requ" ;
+    at:deprecated "false" ;
+    at:op-code "not-requ" ;
+    at:start.use "2020-06-24" ;
+    atold:op-code "not-requ" ;
+    dc:identifier "not-requ" ;
+    skos:inScheme atold:requirement-stage ;
+    skos:prefLabel "Не се изисква"@bg,
+        "Nevyžaduje se"@cs,
+        "Ikke påkrævet"@da,
+        "Nicht erforderlich"@de,
+        "Δεν απαιτείται"@el,
+        "Not required"@en,
+        "No se requiere"@es,
+        "Ei ole nõutud"@et,
+        "Ei tarpeen"@fi,
+        "Non requises"@fr,
+        "Ní theastaítear"@ga,
+        "Nije obvezno"@hr,
+        "Nem kell megadni"@hu,
+        "Indicazione non necessaria"@it,
+        "Nebūtina nurodyti"@lt,
+        "Netiek prasīts"@lv,
+        "Ma hemmx għalfejn tingħata"@mt,
+        "Niet vereist"@nl,
+        "Niewymagane"@pl,
+        "Não é exigida"@pt,
+        "Nu este obligatorie"@ro,
+        "Nevyžaduje sa"@sk,
+        "Se ne zahteva"@sl,
+        "Behöver inte anges"@sv .
+
+<http://publications.europa.eu/resource/authority/requirement-stage/nyk> a skos:Concept ;
+    at:authority-code "nyk" ;
+    at:deprecated "false" ;
+    at:op-code "nyk" ;
+    at:start.use "2020-06-24" ;
+    atold:op-code "nyk" ;
+    dc:identifier "nyk" ;
+    skos:inScheme atold:requirement-stage ;
+    skos:prefLabel "Все още не е известно"@bg,
+        "Dosud neznámá"@cs,
+        "Endnu ikke kendt"@da,
+        "Noch nicht bekannt"@de,
+        "Δεν έχει ακόμη προσδιοριστεί"@el,
+        "Not yet known"@en,
+        "No se sabe aún"@es,
+        "Ei ole veel teada"@et,
+        "Ei vielä tiedossa"@fi,
+        "Pas encore connues"@fr,
+        "Ní fios go fóill"@ga,
+        "Još nije poznato"@hr,
+        "Még nem ismert"@hu,
+        "Dato non ancora noto"@it,
+        "Dar nežinoma"@lt,
+        "Vēl nav zināms"@lv,
+        "Għadha mhijiex magħrufa"@mt,
+        "Nog niet bekend"@nl,
+        "Jeszcze nie wiadomo"@pl,
+        "Ainda não é conhecida"@pt,
+        "Nu se cunoaște încă"@ro,
+        "Zatiaľ nie je známa"@sk,
+        "Še ni znano"@sl,
+        "Ännu ej fastställt"@sv .
+
+<http://publications.europa.eu/resource/authority/requirement-stage/par-requ> a skos:Concept ;
+    at:authority-code "par-requ" ;
+    at:deprecated "false" ;
+    at:op-code "par-requ" ;
+    at:start.use "2020-06-24" ;
+    atold:op-code "par-requ" ;
+    dc:identifier "par-requ" ;
+    skos:inScheme atold:requirement-stage ;
+    skos:prefLabel "Изисква се в заявлението за участие"@bg,
+        "Vyžaduje se v žádosti o účast"@cs,
+        "Krav til ansøgningen om deltagelse"@da,
+        "Erforderlich für den Teilnahmeantrag"@de,
+        "Απαίτηση της αίτησης συμμετοχής"@el,
+        "Request to participate requirement"@en,
+        "Requisito en solicitud de participación"@es,
+        "Osalemistaotluse tingimus"@et,
+        "Vaaditaan osallistumishakemuksessa"@fi,
+        "Exigence dans le demande de participation"@fr,
+        "Ceanglas um iarraidh ar pháirt a ghlacadh"@ga,
+        "Obvezno za zahtjev za sudjelovanje"@hr,
+        "Részvételi jelentkezésre vonatkozó követelmény"@hu,
+        "Indicazione obbligatoria nella domanda di partecipazione"@it,
+        "Būtina nurodyti dalyvavimo prašyme"@lt,
+        "Iekļaujams dalības pieteikumā"@lv,
+        "Rekwiżit tat-talba għall-parteċipazzjoni"@mt,
+        "Vereist in verzoek tot deelname"@nl,
+        "Wymagane we wniosku o dopuszczenie do udziału"@pl,
+        "Requisito no pedido de participação"@pt,
+        "Cerință referitoare la cererea de participare"@ro,
+        "Požiadavka na žiadosť o účasť"@sk,
+        "Zahteva za prijavo za sodelovanje"@sl,
+        "Ska anges i ansökan om att få delta"@sv .
+
+<http://publications.europa.eu/resource/authority/requirement-stage/t-requ> a skos:Concept ;
+    at:authority-code "t-requ" ;
+    at:deprecated "false" ;
+    at:op-code "t-requ" ;
+    at:start.use "2020-06-24" ;
+    atold:op-code "t-requ" ;
+    dc:identifier "t-requ" ;
+    skos:inScheme atold:requirement-stage ;
+    skos:prefLabel "Изисква се в офертата"@bg,
+        "Vyžaduje se v nabídce"@cs,
+        "Krav til tilbud"@da,
+        "Erforderlich für das Angebot"@de,
+        "Απαίτηση της προσφοράς"@el,
+        "Tender requirement"@en,
+        "Requisito en oferta"@es,
+        "Hanketingimus"@et,
+        "Vaaditaan tarjouksessa"@fi,
+        "Exigence dans l’offre"@fr,
+        "Ceanglas tairisceana"@ga,
+        "Obvezno za ponudu"@hr,
+        "Ajánlatra vonatkozó követelmény"@hu,
+        "Indicazione obbligatoria nell'offerta"@it,
+        "Būtina nurodyti pasiūlyme"@lt,
+        "Iekļaujams piedāvājumā"@lv,
+        "Rekwiżit tal-offerta"@mt,
+        "Vereist in inschrijving"@nl,
+        "Wymagane w ofercie"@pl,
+        "Requisito na proposta"@pt,
+        "Cerință referitoare la ofertă"@ro,
+        "Požiadavka na ponuku"@sk,
+        "Razpisna zahteva"@sl,
+        "Ska anges i anbudet"@sv .
+
+atold:requirement-stage a skos:ConceptScheme ;
+    rdfs:label "Requirement stage"@en ;
+    at:prefLabel "Requirement stage"@en ;
+    at:table.id "requirement-stage" ;
+    at:table.version.number "20220316-0" ;
+    owl:versionInfo "20220316-0" ;
+    skos:prefLabel "Requirement stage"@en .
+

@@ -1,0 +1,342 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/customer-service/OP_DATPRO> a skos:Concept ;
+    at:op-code "OP_DATPRO" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:customer-service ;
+    skos:prefLabel "НЕОКОНЧАТЕЛНИ ДАННИ"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv .
+
+<http://publications.europa.eu/resource/authority/customer-service/assistance> a skos:Concept ;
+    at:authority-code "assistance" ;
+    at:deprecated "false" ;
+    at:op-code "assistance" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "assistance" ;
+    dc:identifier "assistance" ;
+    skos:inScheme atold:customer-service ;
+    skos:prefLabel "Помощ за лица с намалена подвижност"@bg,
+        "Pomoc osobám s omezenou schopností pohybu a orientace"@cs,
+        "Hjælp til bevægelseshæmmede personer"@da,
+        "Hilfeleistung für Personen mit eingeschränkter Mobilität"@de,
+        "Βοήθεια για άτομα με μειωμένη κινητικότητα"@el,
+        "Assistance for persons with reduced mobility"@en,
+        "Asistencia a las personas de movilidad reducida"@es,
+        "Piiratud liikumisvõimega isikute abistamine"@et,
+        "Apu liikuntarajoitteisille henkilöille"@fi,
+        "Assistance aux personnes à mobilité réduite"@fr,
+        "Cúnamh le haghaidh daoine a bhfuil a shoghluaisteacht laghdaithe"@ga,
+        "Pomoć osobama sa smanjenom pokretljivošću"@hr,
+        "Segítségnyújtás a csökkent mozgásképességű személyek számára"@hu,
+        "Assistenza alle persone a mobilità ridotta"@it,
+        "Pagalba riboto judumo asmenims"@lt,
+        "Palīdzība personām ar ierobežotām pārvietošanās spējām"@lv,
+        "Assistenza għal persuni b’mobbiltà mnaqqsa"@mt,
+        "Bijstand aan personen met beperkte mobiliteit"@nl,
+        "Pomoc świadczona osobom o ograniczonej sprawności ruchowej"@pl,
+        "Assistência a pessoas com mobilidade reduzida"@pt,
+        "Asistență pentru persoanele cu mobilitate redusă"@ro,
+        "Pomoc osobám so zníženou pohyblivosťou"@sk,
+        "Pomoč za osebe z omejeno mobilnostjo"@sl,
+        "Assistans för personer med begränsad rörlighet"@sv .
+
+<http://publications.europa.eu/resource/authority/customer-service/cancel> a skos:Concept ;
+    at:authority-code "cancel" ;
+    at:deprecated "false" ;
+    at:op-code "cancel" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "cancel" ;
+    dc:identifier "cancel" ;
+    skos:inScheme atold:customer-service ;
+    skos:prefLabel "Отмени"@bg,
+        "Zrušené jízdy"@cs,
+        "Aflysninger"@da,
+        "Stornierungen"@de,
+        "Ακυρώσεις"@el,
+        "Cancellations"@en,
+        "Cancelaciones"@es,
+        "Tühistamine"@et,
+        "Peruutukset"@fi,
+        "Annulations"@fr,
+        "Cealuithe"@ga,
+        "Otkazivanja"@hr,
+        "Járatkimaradások"@hu,
+        "Cancellazioni"@it,
+        "Atšaukimas"@lt,
+        "Atcelšana"@lv,
+        "Kanċellazzjonijiet"@mt,
+        "Uitval van diensten"@nl,
+        "Odwoływanie połączeń"@pl,
+        "Anulações de serviços"@pt,
+        "Anulări"@ro,
+        "Zrušenie"@sk,
+        "Odpovedi"@sl,
+        "Annulleringar"@sv .
+
+<http://publications.europa.eu/resource/authority/customer-service/clean> a skos:Concept ;
+    at:authority-code "clean" ;
+    at:deprecated "false" ;
+    at:op-code "clean" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "clean" ;
+    dc:identifier "clean" ;
+    skos:inScheme atold:customer-service ;
+    skos:prefLabel "Чистота на подвижния състав и гаровите съоръжения"@bg,
+        "Čistota kolejových vozidel a zařzení železničních stanic"@cs,
+        "Renlighed af rullende materiel og stationsanlæg"@da,
+        "Sauberkeit des Fahrzeugmaterials und der Bahnhofseinrichtungen"@de,
+        "Καθαριότητα του τροχαίου υλικού και των εγκαταστάσεων σταθμών"@el,
+        "Cleanliness of rolling stock and station facilities"@en,
+        "Limpieza del material rodante y de las instalaciones de las estaciones"@es,
+        "Veeremi ja raudteejaamade puhtus"@et,
+        "Liikkuvan kaluston ja asematilojen puhtaus"@fi,
+        "Propreté du matériel roulant et des équipements des gares"@fr,
+        "Glaineacht an rothstoic agus shaoráidí na stáisiún"@ga,
+        "Čistoća željezničkih vozila i stanica"@hr,
+        "A gördülőállomány és az állomás létesítményeinek tisztasága"@hu,
+        "Pulizia del materiale rotabile e delle stazioni"@it,
+        "Riedmenų ir stoties patalpų švara"@lt,
+        "Ritošā sastāva un staciju tīrība"@lv,
+        "Indafa tal-vetturi ferrovjarji u tal-faċilitajiet tal-istazzjon"@mt,
+        "Netheid van rollend materieel en van stationsfaciliteiten"@nl,
+        "Czystość taboru i obiektów stacyjnych"@pl,
+        "Limpeza do material circulante e das instalações da estação"@pt,
+        "Starea de curățenie a materialului rulant și a echipamentelor gărilor"@ro,
+        "Čistota vozového parku a staničných zariadení"@sk,
+        "Čistoča voznega parka in železniških postaj"@sl,
+        "Renlighet hos rullande materiel och stationsanläggningar"@sv .
+
+<http://publications.europa.eu/resource/authority/customer-service/complaint> a skos:Concept ;
+    at:authority-code "complaint" ;
+    at:deprecated "false" ;
+    at:op-code "complaint" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "complaint" ;
+    dc:identifier "complaint" ;
+    skos:inScheme atold:customer-service ;
+    skos:prefLabel "Разглеждане на жалби"@bg,
+        "Vyřizování stížností"@cs,
+        "Behandling af klager"@da,
+        "Bearbeitung von Beschwerden"@de,
+        "Χειρισμός παραπόνων"@el,
+        "Complaint handling"@en,
+        "Tramitación de las reclamaciones"@es,
+        "Kaebuste käsitlemine"@et,
+        "Valitusten käsittely"@fi,
+        "Traitement des plaintes"@fr,
+        "Láimhseáil gearán"@ga,
+        "Rješavanje pritužbi"@hr,
+        "Panaszkezelés"@hu,
+        "Trattamento dei reclami"@it,
+        "Skundų nagrinėjimas"@lt,
+        "Sūdzību izskatīšana"@lv,
+        "Trattament tal-ilmenti"@mt,
+        "Klachtenafhandeling"@nl,
+        "Obsługa skarg"@pl,
+        "Tratamento de queixas"@pt,
+        "Tratarea plângerilor"@ro,
+        "Vybavovanie reklamácií"@sk,
+        "Reševanje pritožb"@sl,
+        "Klagomålshantering"@sv .
+
+<http://publications.europa.eu/resource/authority/customer-service/info> a skos:Concept ;
+    at:authority-code "info" ;
+    at:deprecated "false" ;
+    at:op-code "info" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "info" ;
+    dc:identifier "info" ;
+    skos:inScheme atold:customer-service ;
+    skos:prefLabel "Информация"@bg,
+        "Informace"@cs,
+        "Information"@da,
+        "Information"@de,
+        "Πληροφορίες"@el,
+        "Information"@en,
+        "Información"@es,
+        "Teave"@et,
+        "Tiedotus"@fi,
+        "Informations"@fr,
+        "Eolas"@ga,
+        "Informacije"@hr,
+        "Tájékoztatás"@hu,
+        "Informazioni"@it,
+        "Informacija"@lt,
+        "Informācija"@lv,
+        "Informazzjoni"@mt,
+        "Informatie"@nl,
+        "Informacje"@pl,
+        "Informação"@pt,
+        "Informații"@ro,
+        "Informácie"@sk,
+        "Informacije"@sl,
+        "Information"@sv .
+
+<http://publications.europa.eu/resource/authority/customer-service/other> a skos:Concept ;
+    at:authority-code "other" ;
+    at:deprecated "false" ;
+    at:op-code "other" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "other" ;
+    dc:identifier "other" ;
+    skos:inScheme atold:customer-service ;
+    skos:prefLabel "Друго"@bg,
+        "Ostatní"@cs,
+        "Andet"@da,
+        "Sonstiges"@de,
+        "Άλλο"@el,
+        "Other"@en,
+        "Otros"@es,
+        "Muu"@et,
+        "Lisätavoitteet"@fi,
+        "Autres"@fr,
+        "Eile"@ga,
+        "Ostalo"@hr,
+        "Egyéb"@hu,
+        "Altro"@it,
+        "Kita"@lt,
+        "Citi"@lv,
+        "Oħra"@mt,
+        "Andere"@nl,
+        "Inne"@pl,
+        "Outro"@pt,
+        "Altele"@ro,
+        "Ďalšie"@sk,
+        "Drugo"@sl,
+        "Annat"@sv .
+
+<http://publications.europa.eu/resource/authority/customer-service/reliability> a skos:Concept ;
+    at:authority-code "reliability" ;
+    at:deprecated "false" ;
+    at:op-code "reliability" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "reliability" ;
+    dc:identifier "reliability" ;
+    skos:inScheme atold:customer-service ;
+    skos:prefLabel "Точност и надеждност"@bg,
+        "Dochvilnost a spolehlivost"@cs,
+        "Punktlighed og pålidelighed"@da,
+        "Pünktlichkeit und Zuverlässigkeit"@de,
+        "Ακρίβεια και αξιοπιστία"@el,
+        "Punctuality and reliability"@en,
+        "Puntualidad y fiabilidad"@es,
+        "Täpsus ja usaldusväärsus"@et,
+        "Täsmällisyys ja luotettavuus"@fi,
+        "Ponctualité et fiabilité"@fr,
+        "Poncúlacht agus iontaofacht"@ga,
+        "Točnost i pouzdanost"@hr,
+        "Pontosság és megbízhatóság"@hu,
+        "Puntualità e affidabilità"@it,
+        "Punktualumas ir patikimumas"@lt,
+        "Punktualitāte un uzticamība"@lv,
+        "Puntwalità u affidabbiltà"@mt,
+        "Punctualiteit en betrouwbaarheid"@nl,
+        "Punktualność i niezawodność"@pl,
+        "Pontualidade e fiabilidade"@pt,
+        "Punctualitate și fiabilitate"@ro,
+        "Presnosť a spoľahlivosť"@sk,
+        "Točnost in zanesljivost"@sl,
+        "Punktlighet och tillförlitlighet"@sv .
+
+<http://publications.europa.eu/resource/authority/customer-service/sat-surv> a skos:Concept ;
+    at:authority-code "sat-surv" ;
+    at:deprecated "false" ;
+    at:op-code "sat-surv" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "sat-surv" ;
+    dc:identifier "sat-surv" ;
+    skos:inScheme atold:customer-service ;
+    skos:prefLabel "Проучване на удовлетвореността на потребителите"@bg,
+        "Průzkum spokojenosti zákazníků"@cs,
+        "Brugertilfredshedsundersøgelse"@da,
+        "Umfragen über Kundenzufriedenheit"@de,
+        "Έρευνα ικανοποίησης πελατών"@el,
+        "Customer satisfaction survey"@en,
+        "Encuesta de satisfacción de los clientes"@es,
+        "Kliendi rahulolu uuring"@et,
+        "Asiakastyytyväisyyskysely"@fi,
+        "Enquête de satisfaction de la clientèle"@fr,
+        "Suirbhé ar shástacht na gcustaiméirí"@ga,
+        "Anketa o zadovoljstvu klijenata"@hr,
+        "Ügyfél-elégedettségi felmérés"@hu,
+        "Sondaggio sulla soddisfazione della clientela"@it,
+        "Klientų apklausa apie paslaugos kokybę"@lt,
+        "Klientu apmierinātības izpēte"@lv,
+        "Stħarriġ dwar is-sodisfazzjon tal-konsumaturi"@mt,
+        "Klanttevredenheidsonderzoek"@nl,
+        "Badanie opinii klientów"@pl,
+        "Inquérito de satisfação do cliente"@pt,
+        "Chestionar de evaluare a satisfacției clienților"@ro,
+        "Prieskum spokojnosti zákazníkov"@sk,
+        "Anketa o zadovoljstvu strank"@sl,
+        "Undersökning om kundtillfredsställelse"@sv .
+
+<http://publications.europa.eu/resource/authority/customer-service/ticket> a skos:Concept ;
+    at:authority-code "ticket" ;
+    at:deprecated "false" ;
+    at:op-code "ticket" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "ticket" ;
+    dc:identifier "ticket" ;
+    skos:inScheme atold:customer-service ;
+    skos:prefLabel "Издаване на билети"@bg,
+        "Přepravní doklady"@cs,
+        "Billetudstedelse"@da,
+        "Fahrkarten"@de,
+        "Έκδοση εισιτηρίων"@el,
+        "Ticketing"@en,
+        "Venta de billetes"@es,
+        "Piletimüük"@et,
+        "Liput"@fi,
+        "Titres de transport"@fr,
+        "Ticéadú"@ga,
+        "Vozne karte"@hr,
+        "Jegyek"@hu,
+        "Emissione di biglietti"@it,
+        "Bilietai"@lt,
+        "Biļetes"@lv,
+        "Proċess tal-bejgħ u x-xiri tal-biljetti"@mt,
+        "Vervoersbewijzen"@nl,
+        "Bilety"@pl,
+        "Títulos de transporte"@pt,
+        "Emiterea biletelor"@ro,
+        "Predaj lístkov"@sk,
+        "Vozovnice"@sl,
+        "Biljettförsäljning"@sv .
+
+atold:customer-service a skos:ConceptScheme ;
+    rdfs:label "Customer service"@en ;
+    at:prefLabel "Customer service"@en ;
+    at:table.id "customer-service" ;
+    at:table.version.number "20211208-0" ;
+    owl:versionInfo "20211208-0" ;
+    skos:prefLabel "Customer service"@en .
+

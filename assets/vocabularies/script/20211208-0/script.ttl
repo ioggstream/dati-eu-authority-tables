@@ -1,0 +1,1293 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/script/ADLAM> a skos:Concept ;
+    at:authority-code "ADLAM" ;
+    at:deprecated "false" ;
+    at:op-code "ADLAM" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "Adlm" ;
+            dc:source "iso-15924-alpha-4" ],
+        [ a at:MappedCode ;
+            at:legacy-code "166" ;
+            dc:source "iso-15924-num" ] ;
+    at:start.use "2012-07-05" ;
+    atold:op-code "ADLAM" ;
+    dc:identifier "ADLAM" ;
+    skos:inScheme atold:script ;
+    skos:prefLabel "Адлам азбука"@bg,
+        "Adlam"@cs,
+        "Adlambogstaver"@da,
+        "Adlam-Schrift"@de,
+        "Αλφάβητο Άντλαμ"@el,
+        "Adlam script"@en,
+        "Grafía ádlam"@es,
+        "Adlami kiri"@et,
+        "Adlam-merkistö"@fi,
+        "Alphabet adlam"@fr,
+        "Cló Adlam"@ga,
+        "Adlamsko pismo"@hr,
+        "Adlam írás"@hu,
+        "Caratteri adlam"@it,
+        "Adlam rašmenys"@lt,
+        "Adlam alfabēts"@lv,
+        "Alfabett tal-Adlam"@mt,
+        "Adlam-schrift"@nl,
+        "Alfabet adlam"@pl,
+        "Adlam"@pt,
+        "Sistemul de scriere adlam"@ro,
+        "Adlamské písmo"@sk,
+        "Pisava adlam"@sl,
+        "Adlamskrift"@sv .
+
+<http://publications.europa.eu/resource/authority/script/ARABIC> a skos:Concept ;
+    at:authority-code "ARABIC" ;
+    at:deprecated "false" ;
+    at:op-code "ARABIC" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "Arab" ;
+            dc:source "iso-15924-alpha-4" ],
+        [ a at:MappedCode ;
+            at:legacy-code "160" ;
+            dc:source "iso-15924-num" ] ;
+    at:start.use "2012-07-05" ;
+    atold:op-code "ARABIC" ;
+    dc:identifier "ARABIC" ;
+    skos:inScheme atold:script ;
+    skos:prefLabel "Арабска азбука"@bg,
+        "Arabské písmo"@cs,
+        "Arabiske bogstaver"@da,
+        "Arabische Schrift"@de,
+        "Αραβικό αλφάβητο"@el,
+        "Arabic script"@en,
+        "Grafía árabe"@es,
+        "Araabia kiri"@et,
+        "Arabialainen merkistö"@fi,
+        "Alphabet arabe"@fr,
+        "Cló Arabach"@ga,
+        "Arapsko pismo"@hr,
+        "Arab írás"@hu,
+        "Caratteri arabi"@it,
+        "Arabiški rašmenys"@lt,
+        "Arābu alfabēts"@lv,
+        "Alfabett Għarbi"@mt,
+        "Arabisch schrift"@nl,
+        "Alfabet arabski"@pl,
+        "Alfabeto árabe"@pt,
+        "Sistemul de scriere arab"@ro,
+        "Arabské písmo"@sk,
+        "Arabska pisava"@sl,
+        "Arabisk skrift"@sv .
+
+<http://publications.europa.eu/resource/authority/script/ARMENIAN> a skos:Concept ;
+    at:authority-code "ARMENIAN" ;
+    at:deprecated "false" ;
+    at:op-code "ARMENIAN" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "Armn" ;
+            dc:source "iso-15924-alpha-4" ],
+        [ a at:MappedCode ;
+            at:legacy-code "230" ;
+            dc:source "iso-15924-num" ] ;
+    at:start.use "2012-07-05" ;
+    atold:op-code "ARMENIAN" ;
+    dc:identifier "ARMENIAN" ;
+    skos:inScheme atold:script ;
+    skos:prefLabel "Арменска азбука"@bg,
+        "Arménské písmo"@cs,
+        "Armenske bogstaver"@da,
+        "Armenische Schrift"@de,
+        "Αρμενικό αλφάβητο"@el,
+        "Armenian script"@en,
+        "Grafía armenia"@es,
+        "Armeenia kiri"@et,
+        "Armenialainen merkistö"@fi,
+        "Alphabet arménien"@fr,
+        "Cló Airméanach"@ga,
+        "Armensko pismo"@hr,
+        "Örmény írás"@hu,
+        "Caratteri armeni"@it,
+        "Armėniški rašmenys"@lt,
+        "Armēņu alfabēts"@lv,
+        "Alfabett Armen"@mt,
+        "Armeens schrift"@nl,
+        "Alfabet ormiański"@pl,
+        "Alfabeto arménio"@pt,
+        "Sistemul de scriere armenesc"@ro,
+        "Arménske písmo"@sk,
+        "Armenska pisava"@sl,
+        "Armenisk skrift"@sv .
+
+<http://publications.europa.eu/resource/authority/script/BENGALI> a skos:Concept ;
+    at:authority-code "BENGALI" ;
+    at:deprecated "false" ;
+    at:op-code "BENGALI" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "Beng" ;
+            dc:source "iso-15924-alpha-4" ],
+        [ a at:MappedCode ;
+            at:legacy-code "325" ;
+            dc:source "iso-15924-num" ] ;
+    at:start.use "2012-07-05" ;
+    atold:op-code "BENGALI" ;
+    dc:identifier "BENGALI" ;
+    skos:inScheme atold:script ;
+    skos:prefLabel "Бенгалска азбука"@bg,
+        "Bengálské písmo"@cs,
+        "Bengaliske bogstaver"@da,
+        "Bengalische Schrift"@de,
+        "Βεγγαλικό αλφάβητο"@el,
+        "Bengali script"@en,
+        "Grafía bengalí"@es,
+        "Bengali kiri"@et,
+        "Bengalilainen merkistö"@fi,
+        "Caractères bengalis"@fr,
+        "Cló Beangálach"@ga,
+        "Bengalsko pismo"@hr,
+        "Bengáli írás"@hu,
+        "Caratteri bengali"@it,
+        "Bengališki rašmenys"@lt,
+        "Bengāļu rakstzīmes"@lv,
+        "Alfabett Bengaliż"@mt,
+        "Bengalees schrift"@nl,
+        "Alfabet bengalski"@pl,
+        "Escrita bengali"@pt,
+        "Sistemul de scriere bengalez"@ro,
+        "Bengálske písmo"@sk,
+        "Bengalska pisava"@sl,
+        "Bengalisk skrift"@sv .
+
+<http://publications.europa.eu/resource/authority/script/BRAILLE> a skos:Concept ;
+    at:authority-code "BRAILLE" ;
+    at:deprecated "false" ;
+    at:op-code "BRAILLE" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "Brai" ;
+            dc:source "iso-15924-alpha-4" ],
+        [ a at:MappedCode ;
+            at:legacy-code "570" ;
+            dc:source "iso-15924-num" ] ;
+    at:start.use "2012-07-05" ;
+    atold:op-code "BRAILLE" ;
+    dc:identifier "BRAILLE" ;
+    skos:inScheme atold:script ;
+    skos:prefLabel "Брайлова азбука"@bg,
+        "Braillovo písmo"@cs,
+        "Brailleskrift"@da,
+        "Braille-Schrift"@de,
+        "Αλφάβητο Braille"@el,
+        "Braille script"@en,
+        "Grafía braille"@es,
+        "Braille kiri"@et,
+        "Braille-pistekirjoitus"@fi,
+        "Braille"@fr,
+        "Cló Braille"@ga,
+        "Brailleovo pismo"@hr,
+        "Braille-írás"@hu,
+        "Caratteri braille"@it,
+        "Brailio rašmenys"@lt,
+        "Braila raksts"@lv,
+        "Alfabett tal-Braille"@mt,
+        "Brailleschrift"@nl,
+        "Alfabet Braille’a"@pl,
+        "Braille"@pt,
+        "Sistemul de scriere Braille"@ro,
+        "Braillovo písmo"@sk,
+        "Braillova pisava"@sl,
+        "Punktskrift"@sv .
+
+<http://publications.europa.eu/resource/authority/script/CYRILLIC> a skos:Concept ;
+    at:authority-code "CYRILLIC" ;
+    at:deprecated "false" ;
+    at:op-code "CYRILLIC" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "220" ;
+            dc:source "iso-15924-num" ],
+        [ a at:MappedCode ;
+            at:legacy-code "Cyrl" ;
+            dc:source "iso-15924-alpha-4" ] ;
+    at:start.use "2007-01-01" ;
+    atold:op-code "CYRILLIC" ;
+    dc:identifier "CYRILLIC" ;
+    skos:inScheme atold:script ;
+    skos:prefLabel "Кирилица"@bg,
+        "Cyrilice"@cs,
+        "Kyrilliske bogstaver"@da,
+        "Kyrillische Schrift"@de,
+        "Κυριλλικό αλφάβητο"@el,
+        "Cyrillic script"@en,
+        "Grafía cirílica"@es,
+        "Kirillitsa"@et,
+        "Kyrillinen merkistö"@fi,
+        "Alphabet cyrillique"@fr,
+        "Cló Coireallach"@ga,
+        "Ćirilica"@hr,
+        "Cirill írás"@hu,
+        "Caratteri cirillici"@it,
+        "Kirilica"@lt,
+        "Kirilica"@lv,
+        "Alfabett Ċirilliku"@mt,
+        "Cyrillisch schrift"@nl,
+        "Cyrylica"@pl,
+        "Alfabeto cirílico"@pt,
+        "Sistemul de scriere chirilic"@ro,
+        "Cyrilika"@sk,
+        "Cirilica"@sl,
+        "Kyrillisk skrift"@sv .
+
+<http://publications.europa.eu/resource/authority/script/DEVANAGARI> a skos:Concept ;
+    at:authority-code "DEVANAGARI" ;
+    at:deprecated "false" ;
+    at:op-code "DEVANAGARI" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "Deva" ;
+            dc:source "iso-15924-alpha-4" ],
+        [ a at:MappedCode ;
+            at:legacy-code "315" ;
+            dc:source "iso-15924-num" ] ;
+    at:start.use "2012-07-05" ;
+    atold:op-code "DEVANAGARI" ;
+    dc:identifier "DEVANAGARI" ;
+    skos:inScheme atold:script ;
+    skos:prefLabel "Деванагари азбука"@bg,
+        "Dévanágarí"@cs,
+        "Devanagaribogstaver"@da,
+        "Devanagari-Schrift"@de,
+        "Δεβαναγαρικό αλφάβητο"@el,
+        "Devanagari script"@en,
+        "Grafía devanagari"@es,
+        "Devanaagari kiri"@et,
+        "Devanagari-merkistö"@fi,
+        "Caractères devanagari"@fr,
+        "Cló Déiveanágrach"@ga,
+        "Devanagarsko pismo"@hr,
+        "Dévanagári írás"@hu,
+        "Caratteri devanagari"@it,
+        "Devanagari rašmenys"@lt,
+        "Dēvanāgarī rakstzīmes"@lv,
+        "Alfabett tal-Devanagari"@mt,
+        "Devanagari-schrift"@nl,
+        "Alfabet dewanagari"@pl,
+        "Devanágari"@pt,
+        "Sistemul de scriere devanagari"@ro,
+        "Devanagarské písmo"@sk,
+        "Pisava devanagari"@sl,
+        "Devanagariskrift"@sv .
+
+<http://publications.europa.eu/resource/authority/script/ETHIOPIC> a skos:Concept ;
+    at:authority-code "ETHIOPIC" ;
+    at:deprecated "false" ;
+    at:op-code "ETHIOPIC" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "430" ;
+            dc:source "iso-15924-num" ],
+        [ a at:MappedCode ;
+            at:legacy-code "Ethi" ;
+            dc:source "iso-15924-alpha-4" ] ;
+    at:start.use "2012-07-05" ;
+    atold:op-code "ETHIOPIC" ;
+    dc:identifier "ETHIOPIC" ;
+    skos:inScheme atold:script ;
+    skos:prefLabel "Етиопска азбука"@bg,
+        "Etiopské písmo"@cs,
+        "Etiopiske bogstaver"@da,
+        "Äthiopische Schrift"@de,
+        "Αιθιοπικό αλφάβητο"@el,
+        "Ethiopic script"@en,
+        "Grafía etíope"@es,
+        "Etioopia kiri"@et,
+        "Etiopialainen merkistö"@fi,
+        "Caractères éthiopiens"@fr,
+        "Cló Aetóipice"@ga,
+        "Etiopsko pismo"@hr,
+        "Etióp írás"@hu,
+        "Caratteri etiopi"@it,
+        "Etiopiški rašmenys"@lt,
+        "Etiopiešu rakstzīmes"@lv,
+        "Alfabett Etjopiku"@mt,
+        "Ethiopisch schrift"@nl,
+        "Alfabet etiopski"@pl,
+        "Gueês"@pt,
+        "Sistemul de scriere etiopian"@ro,
+        "Etiópske písmo"@sk,
+        "Etiopska pisava"@sl,
+        "Etiopisk skrift"@sv .
+
+<http://publications.europa.eu/resource/authority/script/GEORGIAN> a skos:Concept ;
+    at:authority-code "GEORGIAN" ;
+    at:deprecated "false" ;
+    at:op-code "GEORGIAN" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "Geor" ;
+            dc:source "iso-15924-alpha-4" ],
+        [ a at:MappedCode ;
+            at:legacy-code "240" ;
+            dc:source "iso-15924-num" ] ;
+    at:start.use "2012-07-05" ;
+    atold:op-code "GEORGIAN" ;
+    dc:identifier "GEORGIAN" ;
+    skos:inScheme atold:script ;
+    skos:prefLabel "Грузинска азбука"@bg,
+        "Gruzínské písmo"@cs,
+        "Georgiske bogstaver"@da,
+        "Georgische Schrift"@de,
+        "Γεωργιανό αλφάβητο"@el,
+        "Georgian script"@en,
+        "Grafía georgiana"@es,
+        "Gruusia kiri"@et,
+        "Georgialainen merkistö"@fi,
+        "Caractères géorgiens"@fr,
+        "Cló Seoirseach"@ga,
+        "Gruzijsko pismo"@hr,
+        "Grúz írás"@hu,
+        "Caratteri georgiani"@it,
+        "Gruziniški rašmenys"@lt,
+        "Gruzīnu rakstzīmes"@lv,
+        "Alfabett Ġeorġjan"@mt,
+        "Georgisch schrift"@nl,
+        "Alfabet gruziński"@pl,
+        "Alfabeto georgiano"@pt,
+        "Sistemul de scriere georgian"@ro,
+        "Gruzínske písmo"@sk,
+        "Gruzijska pisava"@sl,
+        "Georgisk skrift"@sv .
+
+<http://publications.europa.eu/resource/authority/script/GREEK> a skos:Concept ;
+    at:authority-code "GREEK" ;
+    at:deprecated "false" ;
+    at:op-code "GREEK" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "200" ;
+            dc:source "iso-15924-num" ],
+        [ a at:MappedCode ;
+            at:legacy-code "Grek" ;
+            dc:source "iso-15924-alpha-4" ] ;
+    at:start.use "1981-01-01" ;
+    atold:op-code "GREEK" ;
+    dc:identifier "GREEK" ;
+    skos:inScheme atold:script ;
+    skos:prefLabel "Гръцка азбука"@bg,
+        "Řecké písmo"@cs,
+        "Græske bogstaver"@da,
+        "Griechische Schrift"@de,
+        "Ελληνικό αλφάβητο"@el,
+        "Greek script"@en,
+        "Grafía griega"@es,
+        "Kreeka kiri"@et,
+        "Kreikkalainen merkistö"@fi,
+        "Alphabet grec"@fr,
+        "Cló Gréagach"@ga,
+        "Grčko pismo"@hr,
+        "Görög írás"@hu,
+        "Caratteri greci"@it,
+        "Graikiški rašmenys"@lt,
+        "Grieķu alfabēts"@lv,
+        "Alfabett Grieg"@mt,
+        "Grieks schrift"@nl,
+        "Alfabet grecki"@pl,
+        "Alfabeto grego"@pt,
+        "Sistemul de scriere grecesc"@ro,
+        "Grécke písmo"@sk,
+        "Grška pisava"@sl,
+        "Grekisk skrift"@sv .
+
+<http://publications.europa.eu/resource/authority/script/GUJARATI> a skos:Concept ;
+    at:authority-code "GUJARATI" ;
+    at:deprecated "false" ;
+    at:op-code "GUJARATI" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "Gujr" ;
+            dc:source "iso-15924-alpha-4" ],
+        [ a at:MappedCode ;
+            at:legacy-code "320" ;
+            dc:source "iso-15924-num" ] ;
+    at:start.use "2012-07-05" ;
+    atold:op-code "GUJARATI" ;
+    dc:identifier "GUJARATI" ;
+    skos:inScheme atold:script ;
+    skos:prefLabel "Гуджарати азбука"@bg,
+        "Gudžarátské písmo"@cs,
+        "Gujaratibogstaver"@da,
+        "Gujarati-Schrift"@de,
+        "Αλφάβητο Γκουτζαράτι"@el,
+        "Gujarati script"@en,
+        "Grafía guyaratí"@es,
+        "Gudžarati kiri"@et,
+        "Gudžaratilainen merkistö"@fi,
+        "Écriture goujrati"@fr,
+        "Cló Gúisearátach"@ga,
+        "Gudžaratsko pismo"@hr,
+        "Gudzsaráti írás"@hu,
+        "Caratteri gujarati"@it,
+        "Gudžaratų rašmenys"@lt,
+        "Gundžaratu rakstzīmes"@lv,
+        "Alfabett tal-Gujarati"@mt,
+        "Gujarati-schrift"@nl,
+        "Alfabet gudżarati"@pl,
+        "Escrita guzerate"@pt,
+        "Sistemul de scriere gujarati"@ro,
+        "Gudžarátske písmo"@sk,
+        "Gudžaratska pisava"@sl,
+        "Gujaratiskrift"@sv .
+
+<http://publications.europa.eu/resource/authority/script/GURMUKHI> a skos:Concept ;
+    at:authority-code "GURMUKHI" ;
+    at:deprecated "false" ;
+    at:op-code "GURMUKHI" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "Guru" ;
+            dc:source "iso-15924-alpha-4" ],
+        [ a at:MappedCode ;
+            at:legacy-code "310" ;
+            dc:source "iso-15924-num" ] ;
+    at:start.use "2012-07-05" ;
+    atold:op-code "GURMUKHI" ;
+    dc:identifier "GURMUKHI" ;
+    skos:inScheme atold:script ;
+    skos:prefLabel "Гурмуки азбука"@bg,
+        "Gurmukhí"@cs,
+        "Gurmukhibogstaver"@da,
+        "Gurmukhi-Schrift"@de,
+        "Αλφάβητο Γκουρμούχι"@el,
+        "Gurmukhi script"@en,
+        "Grafía gurmují"@es,
+        "Gurmukhi kiri"@et,
+        "Gurmukhi-merkistö"@fi,
+        "Alphabet gurmukhi"@fr,
+        "Cló Gurmúcach"@ga,
+        "Gurmuhsko pismo"@hr,
+        "Gurmukhi írás"@hu,
+        "Caratteri gurmukhi"@it,
+        "Gurmukhi rašmenys"@lt,
+        "Gurmukhi alfabēts"@lv,
+        "Alfabett tal-Gurmukhi"@mt,
+        "Gurmukhi-schrift"@nl,
+        "Alfabet gurmukhi"@pl,
+        "Escrita gurmuqui"@pt,
+        "Sistemul de scriere gurmukhi"@ro,
+        "Gurmukhské písmo"@sk,
+        "Pisava gurmukhi"@sl,
+        "Gurmukhiskrift"@sv .
+
+<http://publications.europa.eu/resource/authority/script/HAN> a skos:Concept ;
+    at:authority-code "HAN" ;
+    at:deprecated "false" ;
+    at:op-code "HAN" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "Hani" ;
+            dc:source "iso-15924-alpha-4" ],
+        [ a at:MappedCode ;
+            at:legacy-code "500" ;
+            dc:source "iso-15924-num" ] ;
+    at:start.use "2012-07-05" ;
+    atold:op-code "HAN" ;
+    dc:identifier "HAN" ;
+    skos:inScheme atold:script ;
+    skos:prefLabel "Хан азбука"@bg,
+        "Čínské znaky"@cs,
+        "Hanbogstaver"@da,
+        "Han-Schrift"@de,
+        "Αλφάβητο Χαν"@el,
+        "Han script"@en,
+        "Grafía han"@es,
+        "Hani kiri"@et,
+        "Han-merkistö"@fi,
+        "Caractères han"@fr,
+        "Cló Han"@ga,
+        "Hansko (kinesko) pismo"@hr,
+        "Han írás"@hu,
+        "Caratteri han"@it,
+        "Hanų rašmenys"@lt,
+        "Haņu rakstzīmes"@lv,
+        "Alfabett Han"@mt,
+        "Han-schrift"@nl,
+        "Alfabet chiński (han)"@pl,
+        "Sinogramas"@pt,
+        "Sistemul de scriere han"@ro,
+        "Chanské písmo"@sk,
+        "Hanska (kitajska) pisava"@sl,
+        "Kinesisk skrift"@sv .
+
+<http://publications.europa.eu/resource/authority/script/HANGUL> a skos:Concept ;
+    at:authority-code "HANGUL" ;
+    at:deprecated "false" ;
+    at:op-code "HANGUL" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "286" ;
+            dc:source "iso-15924-num" ],
+        [ a at:MappedCode ;
+            at:legacy-code "Hang" ;
+            dc:source "iso-15924-alpha-4" ] ;
+    at:start.use "2012-07-05" ;
+    atold:op-code "HANGUL" ;
+    dc:identifier "HANGUL" ;
+    skos:inScheme atold:script ;
+    skos:prefLabel "Хангул азбука"@bg,
+        "Hangul"@cs,
+        "Hangulbogstaver"@da,
+        "Koreanische Schrift"@de,
+        "Αλφάβητο Χανγκούλ"@el,
+        "Hangul script"@en,
+        "Grafía hangul"@es,
+        "Hanguli kiri"@et,
+        "Hangul-merkistö"@fi,
+        "Alphabet hangeul"@fr,
+        "Cló Hangalach"@ga,
+        "Hangulsko pismo"@hr,
+        "Hangul írás"@hu,
+        "Caratteri hangul"@it,
+        "Hangul rašmenys"@lt,
+        "Hangila alfabēts"@lv,
+        "Alfabett tal-Hangul"@mt,
+        "Hangul-schrift"@nl,
+        "Alfabet hangul"@pl,
+        "Hangul"@pt,
+        "Sistemul de scriere hangul"@ro,
+        "Hangulské písmo"@sk,
+        "Hangulska (korejska) pisava"@sl,
+        "Han’gulskrift"@sv .
+
+<http://publications.europa.eu/resource/authority/script/HEBREW> a skos:Concept ;
+    at:authority-code "HEBREW" ;
+    at:deprecated "false" ;
+    at:op-code "HEBREW" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "Hebr" ;
+            dc:source "iso-15924-alpha-4" ],
+        [ a at:MappedCode ;
+            at:legacy-code "125" ;
+            dc:source "iso-15924-num" ] ;
+    at:start.use "2012-07-05" ;
+    atold:op-code "HEBREW" ;
+    dc:identifier "HEBREW" ;
+    skos:inScheme atold:script ;
+    skos:prefLabel "Иврит"@bg,
+        "Hebrejské písmo"@cs,
+        "Hebraiske bogstaver"@da,
+        "Hebräische Schrift"@de,
+        "Εβραϊκό αλφάβητο"@el,
+        "Hebrew script"@en,
+        "Grafía hebrea"@es,
+        "Heebrea kiri"@et,
+        "Heprealainen merkistö"@fi,
+        "Alphabet hébraïque"@fr,
+        "Cló Eabhrach"@ga,
+        "Hebrejsko pismo"@hr,
+        "Héber írás"@hu,
+        "Caratteri ebraici"@it,
+        "Hebrajų rašmenys"@lt,
+        "Ivrita alfabēts"@lv,
+        "Alfabett Ebrajk"@mt,
+        "Hebreeuws schrift"@nl,
+        "Alfabet hebrajski"@pl,
+        "Alfabeto hebraico"@pt,
+        "Sistemul de scriere ebraic"@ro,
+        "Hebrejské písmo"@sk,
+        "Hebrejska pisava"@sl,
+        "Hebreisk skrift"@sv .
+
+<http://publications.europa.eu/resource/authority/script/HIRAGANA> a skos:Concept ;
+    at:authority-code "HIRAGANA" ;
+    at:deprecated "false" ;
+    at:op-code "HIRAGANA" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "Hira" ;
+            dc:source "iso-15924-alpha-4" ],
+        [ a at:MappedCode ;
+            at:legacy-code "410" ;
+            dc:source "iso-15924-num" ] ;
+    at:start.use "2012-07-05" ;
+    atold:op-code "HIRAGANA" ;
+    dc:identifier "HIRAGANA" ;
+    skos:inScheme atold:script ;
+    skos:prefLabel "Хирагана азбука"@bg,
+        "Hiragana"@cs,
+        "Hiraganabogstaver"@da,
+        "Hiragana-Schrift"@de,
+        "Αλφάβητο Χιραγκάνα"@el,
+        "Hiragana script"@en,
+        "Grafía hiragana"@es,
+        "Hiragana kiri"@et,
+        "Hiragana-merkistö"@fi,
+        "Caractères hiragana"@fr,
+        "Cló Hireagána"@ga,
+        "Hiragansko pismo"@hr,
+        "Hiragana írás"@hu,
+        "Caratteri hiragana"@it,
+        "Hiragana"@lt,
+        "Hiragana rakstzīmes"@lv,
+        "Alfabett ta’ Hiragana"@mt,
+        "Hiragana-schrift"@nl,
+        "Alfabet hiragana"@pl,
+        "Hiragana"@pt,
+        "Sistemul de scriere hiragana"@ro,
+        "Hiraganské písmo"@sk,
+        "Pisava hiragana"@sl,
+        "Hiraganaskrift"@sv .
+
+<http://publications.europa.eu/resource/authority/script/KANNADA> a skos:Concept ;
+    at:authority-code "KANNADA" ;
+    at:deprecated "false" ;
+    at:op-code "KANNADA" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "345" ;
+            dc:source "iso-15924-num" ],
+        [ a at:MappedCode ;
+            at:legacy-code "Knda" ;
+            dc:source "iso-15924-alpha-4" ] ;
+    at:start.use "2012-07-05" ;
+    atold:op-code "KANNADA" ;
+    dc:identifier "KANNADA" ;
+    skos:inScheme atold:script ;
+    skos:prefLabel "Каннада азбука"@bg,
+        "Kannadské písmo"@cs,
+        "Kannadabogstaver"@da,
+        "Kannada-Schrift"@de,
+        "Αλφάβητο Καννάντα"@el,
+        "Kannada script"@en,
+        "Grafía canaresa"@es,
+        "Kannada kiri"@et,
+        "Kannada-merkistö"@fi,
+        "Écriture kannada"@fr,
+        "Cló Cannadach"@ga,
+        "Kannadsko pismo"@hr,
+        "Kannada írás"@hu,
+        "Caratteri kannada"@it,
+        "Kanadų rašmenys"@lt,
+        "Kannadu rakstzīmes"@lv,
+        "Alfabett tal-Kannada"@mt,
+        "Kannada-schrift"@nl,
+        "Alfabet kannada"@pl,
+        "Escrita canaresa"@pt,
+        "Sistemul de scriere kannada"@ro,
+        "Kannadanské písmo"@sk,
+        "Pisava kannada"@sl,
+        "Kannadaskrift"@sv .
+
+<http://publications.europa.eu/resource/authority/script/KATAKANA> a skos:Concept ;
+    at:authority-code "KATAKANA" ;
+    at:deprecated "false" ;
+    at:op-code "KATAKANA" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "Kana" ;
+            dc:source "iso-15924-alpha-4" ],
+        [ a at:MappedCode ;
+            at:legacy-code "411" ;
+            dc:source "iso-15924-num" ] ;
+    at:start.use "2012-07-05" ;
+    atold:op-code "KATAKANA" ;
+    dc:identifier "KATAKANA" ;
+    skos:inScheme atold:script ;
+    skos:prefLabel "Катакана азбука"@bg,
+        "Katakana"@cs,
+        "Katakanabogstaver"@da,
+        "Katakana-Schrift"@de,
+        "Αλφάβητο Κατακάνα"@el,
+        "Katakana script"@en,
+        "Grafía katakana"@es,
+        "Katakana kiri"@et,
+        "Katakana-merkistö"@fi,
+        "Caractères katakana"@fr,
+        "Cló Catacánach"@ga,
+        "Katakansko pismo"@hr,
+        "Katakana írás"@hu,
+        "Caratteri katakana"@it,
+        "Katakana"@lt,
+        "Katakana rakstzīmes"@lv,
+        "Alfabett tal-Katakana"@mt,
+        "Katakana-schrift"@nl,
+        "Alfabet katakana"@pl,
+        "Catacana"@pt,
+        "Sistemul de scriere katakana"@ro,
+        "Katakanské písmo"@sk,
+        "Pisava katakana"@sl,
+        "Katakanaskrift"@sv .
+
+<http://publications.europa.eu/resource/authority/script/KHMER> a skos:Concept ;
+    at:authority-code "KHMER" ;
+    at:deprecated "false" ;
+    at:op-code "KHMER" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "Khmr" ;
+            dc:source "iso-15924-alpha-4" ],
+        [ a at:MappedCode ;
+            at:legacy-code "355" ;
+            dc:source "iso-15924-num" ] ;
+    at:start.use "2012-07-05" ;
+    atold:op-code "KHMER" ;
+    dc:identifier "KHMER" ;
+    skos:inScheme atold:script ;
+    skos:prefLabel "Кхмерска азбука"@bg,
+        "Khmérské písmo"@cs,
+        "Khmerbogstaver"@da,
+        "Khmer-Schrift"@de,
+        "Αλφάβητο Χμερ"@el,
+        "Khmer script"@en,
+        "Grafía jemer"@es,
+        "Khmeeri kiri"@et,
+        "Khmeriläinen merkistö"@fi,
+        "Alphabet khmer"@fr,
+        "Cló Ciméarach"@ga,
+        "Hmersko pismo"@hr,
+        "Khmer írás"@hu,
+        "Caratteri khmer"@it,
+        "Khmerų rašmenys"@lt,
+        "Khmeru alfabēts"@lv,
+        "Alfabett tal-Khmer"@mt,
+        "Khmer-schrift"@nl,
+        "Alfabet khmerski"@pl,
+        "Escrita quemer"@pt,
+        "Sistemul de scriere khmer"@ro,
+        "Khmérske písmo"@sk,
+        "Kmerska pisava"@sl,
+        "Khmerisk skrift"@sv .
+
+<http://publications.europa.eu/resource/authority/script/LAO> a skos:Concept ;
+    at:authority-code "LAO" ;
+    at:deprecated "false" ;
+    at:op-code "LAO" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "356" ;
+            dc:source "iso-15924-num" ],
+        [ a at:MappedCode ;
+            at:legacy-code "Laoo" ;
+            dc:source "iso-15924-alpha-4" ] ;
+    at:start.use "2012-07-05" ;
+    atold:op-code "LAO" ;
+    dc:identifier "LAO" ;
+    skos:inScheme atold:script ;
+    skos:prefLabel "Лаоска азбука"@bg,
+        "Laoské písmo"@cs,
+        "Laotiske bogstaver"@da,
+        "Lao-Schrift"@de,
+        "Λαοτινό αλφάβητο"@el,
+        "Lao script"@en,
+        "Grafía laosiana"@es,
+        "Lao kiri"@et,
+        "Laolainen merkistö"@fi,
+        "Alphabet lao"@fr,
+        "Cló Laosach"@ga,
+        "Laosko pismo"@hr,
+        "Lao írás"@hu,
+        "Caratteri laotiani"@it,
+        "Lao rašmenys"@lt,
+        "Lao alfabēts"@lv,
+        "Alfabett tal-Laos"@mt,
+        "Lao-schrift"@nl,
+        "Alfabet laotański"@pl,
+        "Escrita laosiana"@pt,
+        "Sistemul de scriere laoțian"@ro,
+        "Laoské písmo"@sk,
+        "Laoška pisava"@sl,
+        "Laotisk skrift"@sv .
+
+<http://publications.europa.eu/resource/authority/script/LATIN> a skos:Concept ;
+    at:authority-code "LATIN" ;
+    at:deprecated "false" ;
+    at:op-code "LATIN" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "Latn" ;
+            dc:source "iso-15924-alpha-4" ],
+        [ a at:MappedCode ;
+            at:legacy-code "215" ;
+            dc:source "iso-15924-num" ] ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "LATIN" ;
+    dc:identifier "LATIN" ;
+    skos:inScheme atold:script ;
+    skos:prefLabel "Латинска азбука"@bg,
+        "Latinka"@cs,
+        "Latinske bogstaver"@da,
+        "Lateinische Schrift"@de,
+        "Λατινικό αλφάβητο"@el,
+        "Latin script"@en,
+        "Grafía latina"@es,
+        "Ladina kiri"@et,
+        "Latinalainen merkistö"@fi,
+        "Alphabet latin"@fr,
+        "Cló Laidineach"@ga,
+        "Latinica"@hr,
+        "Latin írás"@hu,
+        "Caratteri latini"@it,
+        "Lotyniški rašmenys"@lt,
+        "Latīņu alfabēts"@lv,
+        "Alfabett Latin"@mt,
+        "Latijns schrift"@nl,
+        "Alfabet łaciński"@pl,
+        "Alfabeto latino"@pt,
+        "Sistemul de scriere latin"@ro,
+        "Latinské písmo"@sk,
+        "Latinica"@sl,
+        "Latinsk skrift"@sv .
+
+<http://publications.europa.eu/resource/authority/script/MALAYALAM> a skos:Concept ;
+    at:authority-code "MALAYALAM" ;
+    at:deprecated "false" ;
+    at:op-code "MALAYALAM" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "Mlym" ;
+            dc:source "iso-15924-alpha-4" ],
+        [ a at:MappedCode ;
+            at:legacy-code "347" ;
+            dc:source "iso-15924-num" ] ;
+    at:start.use "2012-07-05" ;
+    atold:op-code "MALAYALAM" ;
+    dc:identifier "MALAYALAM" ;
+    skos:inScheme atold:script ;
+    skos:prefLabel "Малаялам азбука"@bg,
+        "Malajálamské písmo"@cs,
+        "Malayalambogstaver"@da,
+        "Malayalam-Schrift"@de,
+        "Αλφάβητο Μαλαγιαλάμ"@el,
+        "Malayalam script"@en,
+        "Grafía malabar"@es,
+        "Malajalami kiri"@et,
+        "Malajalamilainen merkistö"@fi,
+        "Alphabet malayalam"@fr,
+        "Cló Mailéalamach"@ga,
+        "Malajalamsko pismo"@hr,
+        "Malajálam írás"@hu,
+        "Caratteri malesi"@it,
+        "Malajalam rašmenys"@lt,
+        "Malajālama alfabēts"@lv,
+        "Alfabett tal-Malayalam"@mt,
+        "Malayalam-schrift"@nl,
+        "Alfabet malajalam"@pl,
+        "Escrita malaiala"@pt,
+        "Sistemul de scriere malayalam"@ro,
+        "Malajálamske písmo"@sk,
+        "Malajalamska pisava"@sl,
+        "Malayalamskrift"@sv .
+
+<http://publications.europa.eu/resource/authority/script/MONGOLIAN> a skos:Concept ;
+    at:authority-code "MONGOLIAN" ;
+    at:deprecated "false" ;
+    at:op-code "MONGOLIAN" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "145" ;
+            dc:source "iso-15924-num" ],
+        [ a at:MappedCode ;
+            at:legacy-code "Mong" ;
+            dc:source "iso-15924-alpha-4" ] ;
+    at:start.use "2012-07-05" ;
+    atold:op-code "MONGOLIAN" ;
+    dc:identifier "MONGOLIAN" ;
+    skos:inScheme atold:script ;
+    skos:prefLabel "Монголска азбука"@bg,
+        "Mongolské písmo"@cs,
+        "Mongolske bogstaver"@da,
+        "Mongolische Schrift"@de,
+        "Μογγολικό αλφάβητο"@el,
+        "Mongolian script"@en,
+        "Grafía mongola"@es,
+        "Mongoolia kiri"@et,
+        "Mongolilainen merkistö"@fi,
+        "Alphabet mongol"@fr,
+        "Cló Mongólach"@ga,
+        "Mongolsko pismo"@hr,
+        "Mongol írás"@hu,
+        "Caratteri mongoli"@it,
+        "Mongoliški rašmenys"@lt,
+        "Mongoļu alfabēts"@lv,
+        "Alfabett Mongoljan"@mt,
+        "Mongools schrift"@nl,
+        "Alfabet mongolski"@pl,
+        "Alfabeto mongol"@pt,
+        "Sistemul de scriere mongol"@ro,
+        "Mongolské písmo"@sk,
+        "Mongolska pisava"@sl,
+        "Mongolisk skrift"@sv .
+
+<http://publications.europa.eu/resource/authority/script/MYANMAR> a skos:Concept ;
+    at:authority-code "MYANMAR" ;
+    at:deprecated "false" ;
+    at:op-code "MYANMAR" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "Mymr" ;
+            dc:source "iso-15924-alpha-4" ],
+        [ a at:MappedCode ;
+            at:legacy-code "350" ;
+            dc:source "iso-15924-num" ] ;
+    at:start.use "2012-07-05" ;
+    atold:op-code "MYANMAR" ;
+    dc:identifier "MYANMAR" ;
+    skos:inScheme atold:script ;
+    skos:prefLabel "Мианмарска азбука"@bg,
+        "Barmské písmo"@cs,
+        "Myanmarbogstaver"@da,
+        "Birmanische Schrift"@de,
+        "Αλφάβητο Μιανμάρ"@el,
+        "Myanmar script"@en,
+        "Grafía birmana"@es,
+        "Myanmari kiri"@et,
+        "Burmalainen merkistö"@fi,
+        "Alphabet birman"@fr,
+        "Cló Maenmarach"@ga,
+        "Mjanmarsko pismo"@hr,
+        "Burmai írás"@hu,
+        "Caratteri birmani"@it,
+        "Birmiečių rašmenys"@lt,
+        "Birmiešu alfabēts"@lv,
+        "Alfabett tal-Mjanmar"@mt,
+        "Birmaans schrift"@nl,
+        "Alfabet birmański"@pl,
+        "Escrita birmanesa"@pt,
+        "Sistemul de scriere birmanez"@ro,
+        "Mjanmarské písmo"@sk,
+        "Mjanmarska pisava"@sl,
+        "Burmesisk skrift"@sv .
+
+<http://publications.europa.eu/resource/authority/script/OP_DATPRO> a skos:Concept ;
+    at:op-code "OP_DATPRO" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:script ;
+    skos:prefLabel "НЕОКОНЧАТЕЛНИ ДАННИ"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv .
+
+<http://publications.europa.eu/resource/authority/script/SINHALA> a skos:Concept ;
+    at:authority-code "SINHALA" ;
+    at:deprecated "false" ;
+    at:op-code "SINHALA" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "Sinh" ;
+            dc:source "iso-15924-alpha-4" ],
+        [ a at:MappedCode ;
+            at:legacy-code "348" ;
+            dc:source "iso-15924-num" ] ;
+    at:start.use "2012-07-05" ;
+    atold:op-code "SINHALA" ;
+    dc:identifier "SINHALA" ;
+    skos:inScheme atold:script ;
+    skos:prefLabel "Синхала азбука"@bg,
+        "Sinhálské písmo"@cs,
+        "Sinhalabogstaver"@da,
+        "Singhalesische Schrift"@de,
+        "Σιναλεζικό αλφάβητο"@el,
+        "Sinhala script"@en,
+        "Grafía cingalesa"@es,
+        "Sinhala kiri"@et,
+        "Sinhalilainen merkistö"@fi,
+        "Alphabet singhalais"@fr,
+        "Cló Siolónach"@ga,
+        "Sinhalsko pismo"@hr,
+        "Szingaléz írás"@hu,
+        "Caratteri sinhala"@it,
+        "Sinhalų rašmenys"@lt,
+        "Singāļu alfabēts"@lv,
+        "Alfabett tas-Sinhala"@mt,
+        "Singalees schrift"@nl,
+        "Alfabet syngaleski"@pl,
+        "Escrita cingalesa"@pt,
+        "Sistemul de scriere sinhala"@ro,
+        "Sinhalské písmo"@sk,
+        "Singalska pisava"@sl,
+        "Sinhalaskrift"@sv .
+
+<http://publications.europa.eu/resource/authority/script/TAGALOG> a skos:Concept ;
+    at:authority-code "TAGALOG" ;
+    at:deprecated "false" ;
+    at:op-code "TAGALOG" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "Tglg" ;
+            dc:source "iso-15924-alpha-4" ],
+        [ a at:MappedCode ;
+            at:legacy-code "370" ;
+            dc:source "iso-15924-num" ] ;
+    at:start.use "2012-07-05" ;
+    atold:op-code "TAGALOG" ;
+    dc:identifier "TAGALOG" ;
+    skos:inScheme atold:script ;
+    skos:prefLabel "Тагалог азбука"@bg,
+        "Tagalské písmo"@cs,
+        "Tagalogbogstaver"@da,
+        "Tagalog-Schrift"@de,
+        "Αλφάβητο Ταγκαλόγκ"@el,
+        "Tagalog script"@en,
+        "Grafía tagala"@es,
+        "Tagalogi kiri"@et,
+        "Tagalog-merkistö"@fi,
+        "Alphabet tagalog"@fr,
+        "Cló Tagálagach"@ga,
+        "Tagaloško pismo"@hr,
+        "Tagalog írás"@hu,
+        "Caratteri tagalog"@it,
+        "Tagalų rašmenys"@lt,
+        "Tagalu alfabēts"@lv,
+        "Kitba tat-Tagalog"@mt,
+        "Tagalog-schrift"@nl,
+        "Alfabet tagalski"@pl,
+        "Baibain"@pt,
+        "Sistemul de scriere tagalog"@ro,
+        "Tagalské písmo"@sk,
+        "Tagaloška pisava"@sl,
+        "Tagalogskrift"@sv .
+
+<http://publications.europa.eu/resource/authority/script/TAMIL> a skos:Concept ;
+    at:authority-code "TAMIL" ;
+    at:deprecated "false" ;
+    at:op-code "TAMIL" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "Taml" ;
+            dc:source "iso-15924-alpha-4" ],
+        [ a at:MappedCode ;
+            at:legacy-code "346" ;
+            dc:source "iso-15924-num" ] ;
+    at:start.use "2012-07-05" ;
+    atold:op-code "TAMIL" ;
+    dc:identifier "TAMIL" ;
+    skos:inScheme atold:script ;
+    skos:prefLabel "Тамилска азбука"@bg,
+        "Tamilské písmo"@cs,
+        "Tamilske bogstaver"@da,
+        "Tamilische Schrift"@de,
+        "Ταμιλικό αλφάβητο"@el,
+        "Tamil script"@en,
+        "Grafía tamil"@es,
+        "Tamili kiri"@et,
+        "Tamililainen merkistö"@fi,
+        "Alphabet tamoul"@fr,
+        "Cló Tamalach"@ga,
+        "Tamilsko pismo"@hr,
+        "Tamil írás"@hu,
+        "Caratteri tamil"@it,
+        "Tamilų rašmenys"@lt,
+        "Tamilu alfabēts"@lv,
+        "Alfabett tat-Tamil"@mt,
+        "Tamil-schrift"@nl,
+        "Alfabet tamilski"@pl,
+        "Escrita tâmil"@pt,
+        "Sistemul de scriere tamil"@ro,
+        "Tamilské písmo"@sk,
+        "Tamilska pisava"@sl,
+        "Tamilsk skrift"@sv .
+
+<http://publications.europa.eu/resource/authority/script/TELUGU> a skos:Concept ;
+    at:authority-code "TELUGU" ;
+    at:deprecated "false" ;
+    at:op-code "TELUGU" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "340" ;
+            dc:source "iso-15924-num" ],
+        [ a at:MappedCode ;
+            at:legacy-code "Telu" ;
+            dc:source "iso-15924-alpha-4" ] ;
+    at:start.use "2012-07-05" ;
+    atold:op-code "TELUGU" ;
+    dc:identifier "TELUGU" ;
+    skos:inScheme atold:script ;
+    skos:prefLabel "Телугу азбука"@bg,
+        "Telugské písmo"@cs,
+        "Telugubogstaver"@da,
+        "Telugu-Schrift"@de,
+        "Αλφάβητο Τελούγκου"@el,
+        "Telugu script"@en,
+        "Grafía telugu"@es,
+        "Telugu kiri"@et,
+        "Telugulainen merkistö"@fi,
+        "Alphabet télougou"@fr,
+        "Cló Teileagúch"@ga,
+        "Teluško pismo"@hr,
+        "Telugu írás"@hu,
+        "Caratteri telugu"@it,
+        "Telugu rašmenys"@lt,
+        "Telugu alfabēts"@lv,
+        "Alfabett tat-Telugu"@mt,
+        "Teloegoe-schrift"@nl,
+        "Alfabet telugu"@pl,
+        "Escrita télugo"@pt,
+        "Sistemul de scriere telugu"@ro,
+        "Telugské písmo"@sk,
+        "Pisava telugu"@sl,
+        "Teluguskrift"@sv .
+
+<http://publications.europa.eu/resource/authority/script/THAANA> a skos:Concept ;
+    at:authority-code "THAANA" ;
+    at:deprecated "false" ;
+    at:op-code "THAANA" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "Thaa" ;
+            dc:source "iso-15924-alpha-4" ],
+        [ a at:MappedCode ;
+            at:legacy-code "170" ;
+            dc:source "iso-15924-num" ] ;
+    at:start.use "2012-07-05" ;
+    atold:op-code "THAANA" ;
+    dc:identifier "THAANA" ;
+    skos:inScheme atold:script ;
+    skos:prefLabel "Таана азбука"@bg,
+        "Thaana"@cs,
+        "Thaanabogstaver"@da,
+        "Thaana-Schrift"@de,
+        "Αλφάβητο Θαανά"@el,
+        "Thaana script"@en,
+        "Grafía thaana"@es,
+        "Thaana kiri"@et,
+        "Thaana-merkistö"@fi,
+        "Alphabet thaana"@fr,
+        "Cló Tánach"@ga,
+        "Thaansko pismo"@hr,
+        "Thaana írás"@hu,
+        "Caratteri thaana"@it,
+        "Tanų rašmenys"@lt,
+        "Taana alfabēts"@lv,
+        "Alfabett tat-Thaana"@mt,
+        "Thaana-schrift"@nl,
+        "Alfabet taana"@pl,
+        "Taana"@pt,
+        "Sistemul de scriere thaana"@ro,
+        "Thaanské písmo"@sk,
+        "Pisava thaana"@sl,
+        "Thaanaskrift"@sv .
+
+<http://publications.europa.eu/resource/authority/script/THAI> a skos:Concept ;
+    at:authority-code "THAI" ;
+    at:deprecated "false" ;
+    at:op-code "THAI" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "352" ;
+            dc:source "iso-15924-num" ],
+        [ a at:MappedCode ;
+            at:legacy-code "Thai" ;
+            dc:source "iso-15924-alpha-4" ] ;
+    at:start.use "2012-07-05" ;
+    atold:op-code "THAI" ;
+    dc:identifier "THAI" ;
+    skos:inScheme atold:script ;
+    skos:prefLabel "Тайландска азбука"@bg,
+        "Thajské písmo"@cs,
+        "Thailandske bogstaver"@da,
+        "Thailändische Schrift"@de,
+        "Ταϊλανδικό αλφάβητο"@el,
+        "Thai script"@en,
+        "Grafía tailandesa"@es,
+        "Tai kiri"@et,
+        "Thailainen merkistö"@fi,
+        "Alphabet thaï"@fr,
+        "Cló Téalannach"@ga,
+        "Tajsko pismo"@hr,
+        "Thai írás"@hu,
+        "Caratteri thailandesi"@it,
+        "Tajų rašmenys"@lt,
+        "Taju alfabēts"@lv,
+        "Alfabett Tajlandiż"@mt,
+        "Thais schrift"@nl,
+        "Alfabet tajski"@pl,
+        "Escrita tailandesa"@pt,
+        "Sistemul de scriere thai"@ro,
+        "Thajské písmo"@sk,
+        "Tajska pisava"@sl,
+        "Thaiskrift"@sv .
+
+<http://publications.europa.eu/resource/authority/script/TIBETAN> a skos:Concept ;
+    at:authority-code "TIBETAN" ;
+    at:deprecated "false" ;
+    at:op-code "TIBETAN" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "Tibt" ;
+            dc:source "iso-15924-alpha-4" ],
+        [ a at:MappedCode ;
+            at:legacy-code "330" ;
+            dc:source "iso-15924-num" ] ;
+    at:start.use "2012-07-05" ;
+    atold:op-code "TIBETAN" ;
+    dc:identifier "TIBETAN" ;
+    skos:inScheme atold:script ;
+    skos:prefLabel "Тибетска азбука"@bg,
+        "Tibetské písmo"@cs,
+        "Tibetanske bogstaver"@da,
+        "Tibetische Schrift"@de,
+        "Θιβετιανό αλφάβητο"@el,
+        "Tibetan script"@en,
+        "Grafía tibetana"@es,
+        "Tiibeti kiri"@et,
+        "Tiibetiläinen merkistö"@fi,
+        "Caractères tibétains"@fr,
+        "Cló Tibéadach"@ga,
+        "Tibetsko pismo"@hr,
+        "Tibeti írás"@hu,
+        "Caratteri tibetani"@it,
+        "Tibetiečių rašmenys"@lt,
+        "Tibetiešu rakstzīmes"@lv,
+        "Alfabett Tibetjan"@mt,
+        "Tibetaans schrift"@nl,
+        "Alfabet tybetański"@pl,
+        "Escrita tibetana"@pt,
+        "Sistemul de scriere tibetan"@ro,
+        "Tibetské písmo"@sk,
+        "Tibetanska pisava"@sl,
+        "Tibetansk skrift"@sv .
+
+<http://publications.europa.eu/resource/authority/script/TIFINAGH> a skos:Concept ;
+    at:authority-code "TIFINAGH" ;
+    at:deprecated "false" ;
+    at:op-code "TIFINAGH" ;
+    at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "120" ;
+            dc:source "iso-15924-num" ],
+        [ a at:MappedCode ;
+            at:legacy-code "Tfng" ;
+            dc:source "iso-15924-alpha-4" ] ;
+    at:start.use "2012-07-05" ;
+    atold:op-code "TIFINAGH" ;
+    dc:identifier "TIFINAGH" ;
+    skos:inScheme atold:script ;
+    skos:prefLabel "Тифинаг азбука"@bg,
+        "Tifinagh"@cs,
+        "Tifinaghbogstaver"@da,
+        "Tifinagh-Schrift"@de,
+        "Αλφάβητο Τίφιναγκ"@el,
+        "Tifinagh script"@en,
+        "Grafía tifinagh"@es,
+        "Tifinaghi kiri"@et,
+        "Tifinagh-merkistö"@fi,
+        "Alphabet tifinagh"@fr,
+        "Cló Tifinagh"@ga,
+        "Tifinaghsko pismo"@hr,
+        "Tifinagh írás"@hu,
+        "Caratteri tifinagh"@it,
+        "Tifinagas"@lt,
+        "Tifinaga alfabēts"@lv,
+        "Alfabett ta’ Tifinagh"@mt,
+        "Tifinagh-schrift"@nl,
+        "Alfabet tifinagh"@pl,
+        "Alfabeto tifinague"@pt,
+        "Sistemul de scriere tifinagh"@ro,
+        "Tifinagské písmo"@sk,
+        "Pisava tifinagh"@sl,
+        "Tifinaghskrift"@sv .
+
+atold:script a skos:ConceptScheme ;
+    rdfs:label "Script"@en ;
+    at:prefLabel "Script"@en ;
+    at:table.id "script" ;
+    at:table.version.number "20211208-0" ;
+    owl:versionInfo "20211208-0" ;
+    skos:prefLabel "Script"@en .
+

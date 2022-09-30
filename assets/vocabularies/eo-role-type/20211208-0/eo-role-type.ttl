@@ -1,0 +1,210 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/eo-role-type/OP_DATPRO> a skos:Concept ;
+    at:op-code "OP_DATPRO" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:eo-role-type ;
+    skos:prefLabel "НЕОКОНЧАТЕЛНИ ДАННИ"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv .
+
+<http://publications.europa.eu/resource/authority/eo-role-type/group-lead> a skos:Concept ;
+    at:authority-code "group-lead" ;
+    at:deprecated "false" ;
+    at:op-code "group-lead" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "group-lead" ;
+    dc:identifier "group-lead" ;
+    skos:inScheme atold:eo-role-type ;
+    skos:prefLabel "Ръководител на група"@bg,
+        "Vedoucí skupiny"@cs,
+        "Gruppeleder"@da,
+        "Gruppenleitung"@de,
+        "Επικεφαλής του ομίλου"@el,
+        "Group leader"@en,
+        "Líder del grupo"@es,
+        "Rühma juht"@et,
+        "Ryhmittymän johtaja"@fi,
+        "Chef de file du groupement"@fr,
+        "Ceannaire grúpa"@ga,
+        "Voditelj skupine"@hr,
+        "Csoportvezető"@hu,
+        "Capogruppo"@it,
+        "Vadovaujantis grupės narys"@lt,
+        "Grupas vadītājs"@lv,
+        "Kap tal-Grupp"@mt,
+        "Leider van een combinatie"@nl,
+        "Lider grupy"@pl,
+        "Responsável do grupo"@pt,
+        "Lider de grup"@ro,
+        "Vedúci skupiny"@sk,
+        "Vodja skupine"@sl,
+        "Gruppledare"@sv .
+
+<http://publications.europa.eu/resource/authority/eo-role-type/group-mem> a skos:Concept ;
+    at:authority-code "group-mem" ;
+    at:deprecated "false" ;
+    at:op-code "group-mem" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "group-mem" ;
+    dc:identifier "group-mem" ;
+    skos:inScheme atold:eo-role-type ;
+    skos:prefLabel "Член на група"@bg,
+        "Člen skupiny"@cs,
+        "Gruppemedlem"@da,
+        "Gruppenmitglied"@de,
+        "Μέλος ομίλου"@el,
+        "Group member"@en,
+        "Miembro del grupo"@es,
+        "Rühma liige"@et,
+        "Ryhmittymän jäsen"@fi,
+        "Membre du groupement"@fr,
+        "Ball den ghrúpa"@ga,
+        "Član skupine"@hr,
+        "Csoporttag"@hu,
+        "Membro del gruppo"@it,
+        "Grupės narys"@lt,
+        "Grupas dalībnieks"@lv,
+        "Membru tal-grupp"@mt,
+        "Lid van een combinatie"@nl,
+        "Członek grupy"@pl,
+        "Membro do grupo"@pt,
+        "Membru de grup"@ro,
+        "Člen skupiny"@sk,
+        "Član skupine"@sl,
+        "Gruppmedlem"@sv .
+
+<http://publications.europa.eu/resource/authority/eo-role-type/oeron> a skos:Concept ;
+    at:authority-code "oeron" ;
+    at:deprecated "false" ;
+    at:op-code "oeron" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "oeron" ;
+    dc:identifier "oeron" ;
+    skos:inScheme atold:eo-role-type ;
+    skos:prefLabel "Друг субект (на който се разчита)"@bg,
+        "Jiná entita (na kterou se uchazeč spoléhá)"@cs,
+        "Anden enhed (der anses for at opfylde kriterierne)"@da,
+        "Andere Einrichtung (geltend gemacht)"@de,
+        "Άλλη οντότητα (στην οποία γίνεται επίκληση)"@el,
+        "Other entity (relied upon)"@en,
+        "Otra entidad (a la que se recurre)"@es,
+        "Muu üksus (kellele pakkuja tugineb)"@et,
+        "Muu yhteisö (jota hyödynnetään)"@fi,
+        "Autre entité (invoquée)"@fr,
+        "Eintiteas eile (ar iontaoibh)"@ga,
+        "Drugi subjekt (na kojeg se oslanja)"@hr,
+        "Egyéb szervezet (amelyre támaszkodnak)"@hu,
+        "Altro soggetto (sul quale si fa affidamento)"@it,
+        "Kitas subjektas (kuriuo remiamasi)"@lt,
+        "Cits (atbildīgais) subjekts"@lv,
+        "Entità oħra (affidabbli)"@mt,
+        "Andere entiteit (waarop een beroep wordt gedaan)"@nl,
+        "Inny podmiot (na którego powołuje się oferent)"@pl,
+        "Outra entidade (em relação de dependência)"@pt,
+        "Altă entitate (pe care se bazează ofertantul)"@ro,
+        "Iný (zodpovedný) subjekt"@sk,
+        "Drug subjekt (na katerega se zanaša)"@sl,
+        "Annan enhet (som anlitas)"@sv .
+
+<http://publications.europa.eu/resource/authority/eo-role-type/sole-tenderer> a skos:Concept ;
+    at:authority-code "sole-tenderer" ;
+    at:deprecated "false" ;
+    at:op-code "sole-tenderer" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "sole-tenderer" ;
+    dc:identifier "sole-tenderer" ;
+    skos:inScheme atold:eo-role-type ;
+    skos:prefLabel "Самостоятелен оферент"@bg,
+        "Jediný uchazeč"@cs,
+        "Enetilbudsgiver"@da,
+        "Einzelbieter"@de,
+        "Μεμονωμένος προσφέρων"@el,
+        "Sole tenderer"@en,
+        "Licitador único"@es,
+        "Üksikpakkuja"@et,
+        "Yksittäinen tarjoaja"@fi,
+        "Soumissionnaire unique"@fr,
+        "Tairgeoir aonair"@ga,
+        "Samostalni ponuditelj"@hr,
+        "Egyetlen ajánlattevő"@hu,
+        "Offerente unico"@it,
+        "Pavienis konkurso dalyvis"@lt,
+        "Atsevišķs pretendents"@lv,
+        "Offerent uniku"@mt,
+        "Enige inschrijver"@nl,
+        "Pojedynczy oferent"@pl,
+        "Proponente único"@pt,
+        "Ofertant unic"@ro,
+        "Jediný uchádzač"@sk,
+        "Samostojni ponudnik"@sl,
+        "Ensam anbudsgivare"@sv .
+
+<http://publications.europa.eu/resource/authority/eo-role-type/subcont> a skos:Concept ;
+    at:authority-code "subcont" ;
+    at:deprecated "false" ;
+    at:op-code "subcont" ;
+    at:start.use "2021-06-16" ;
+    atold:op-code "subcont" ;
+    dc:identifier "subcont" ;
+    skos:inScheme atold:eo-role-type ;
+    skos:prefLabel "Подизпълнител"@bg,
+        "Subdodavatel"@cs,
+        "Underleverandør"@da,
+        "Unterauftragnehmer"@de,
+        "Υπεργολάβος"@el,
+        "Subcontractor"@en,
+        "Subcontratista"@es,
+        "Alltöövõtja"@et,
+        "Alihankkija"@fi,
+        "Sous-traitant"@fr,
+        "Fochonraitheoir"@ga,
+        "Podugovaratelj"@hr,
+        "Alvállalkozó"@hu,
+        "Subappaltatore"@it,
+        "Subrangovas"@lt,
+        "Apakšuzņēmējs"@lv,
+        "Sottokuntrattur"@mt,
+        "Subcontractant"@nl,
+        "Podwykonawca"@pl,
+        "Subcontratante"@pt,
+        "Subcontractant"@ro,
+        "Subdodávateľ"@sk,
+        "Podizvajalec"@sl,
+        "Underleverantör"@sv .
+
+atold:eo-role-type a skos:ConceptScheme ;
+    rdfs:label "Economic operator role"@en ;
+    at:prefLabel "Economic operator role"@en ;
+    at:table.id "eo-role-type" ;
+    at:table.version.number "20211208-0" ;
+    owl:versionInfo "20211208-0" ;
+    skos:prefLabel "Economic operator role"@en .
+

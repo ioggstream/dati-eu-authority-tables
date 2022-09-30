@@ -1,0 +1,177 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/licence-domain/CODE> a skos:Concept ;
+    at:authority-code "CODE" ;
+    at:deprecated "false" ;
+    at:op-code "CODE" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "CODE" ;
+    dc:identifier "CODE" ;
+    skos:inScheme atold:licence-domain ;
+    skos:prefLabel "Код"@bg,
+        "Kód"@cs,
+        "Kode"@da,
+        "Code"@de,
+        "Κωδικός"@el,
+        "Code"@en,
+        "Código"@es,
+        "Kood"@et,
+        "Koodi"@fi,
+        "Code"@fr,
+        "Cód"@ga,
+        "Kod"@hr,
+        "Kód"@hu,
+        "Code"@it,
+        "Kodas"@lt,
+        "Kods"@lv,
+        "Kodiċi"@mt,
+        "Code"@nl,
+        "Kod"@pl,
+        "Código"@pt,
+        "Cod"@ro,
+        "Kód"@sk,
+        "Koda"@sl,
+        "Kod"@sv .
+
+<http://publications.europa.eu/resource/authority/licence-domain/DATA> a skos:Concept ;
+    at:authority-code "DATA" ;
+    at:deprecated "false" ;
+    at:op-code "DATA" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "DATA" ;
+    dc:identifier "DATA" ;
+    skos:inScheme atold:licence-domain ;
+    skos:prefLabel "Данни"@bg,
+        "Data"@cs,
+        "Data"@da,
+        "Daten"@de,
+        "Δεδομένα"@el,
+        "Data"@en,
+        "Datos"@es,
+        "Andmed"@et,
+        "Data"@fi,
+        "Données"@fr,
+        "Sonraí"@ga,
+        "Podaci"@hr,
+        "Adat"@hu,
+        "Dati"@it,
+        "Duomenys"@lt,
+        "Dati"@lv,
+        "Data"@mt,
+        "Gegevens"@nl,
+        "Dane"@pl,
+        "Dados"@pt,
+        "Date"@ro,
+        "Údaje"@sk,
+        "Podatki"@sl,
+        "Data"@sv .
+
+<http://publications.europa.eu/resource/authority/licence-domain/METADATA> a skos:Concept ;
+    at:authority-code "METADATA" ;
+    at:deprecated "false" ;
+    at:op-code "METADATA" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "METADATA" ;
+    dc:identifier "METADATA" ;
+    skos:inScheme atold:licence-domain ;
+    skos:prefLabel "Метаданни"@bg,
+        "Metadata"@cs,
+        "Metadata"@da,
+        "Metadaten"@de,
+        "Μεταδεδομένα"@el,
+        "Metadata"@en,
+        "Metadatos"@es,
+        "Metaandmed"@et,
+        "Metadata"@fi,
+        "Métadonnées"@fr,
+        "Meiteashonraí"@ga,
+        "Metapodaci"@hr,
+        "Metaadat"@hu,
+        "Metadati"@it,
+        "Metaduomenys"@lt,
+        "Metadati"@lv,
+        "Metadata"@mt,
+        "Metagegevens"@nl,
+        "Metadane"@pl,
+        "Metadados"@pt,
+        "Metadate"@ro,
+        "Metaúdaje"@sk,
+        "Metapodatki"@sl,
+        "Metadata"@sv .
+
+<http://publications.europa.eu/resource/authority/licence-domain/OP_DATPRO> a skos:Concept ;
+    at:op-code "OP_DATPRO" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:licence-domain ;
+    skos:prefLabel "НЕОКОНЧАТЕЛНИ ДАННИ"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv .
+
+<http://publications.europa.eu/resource/authority/licence-domain/W_LIT_ART> a skos:Concept ;
+    at:authority-code "W_LIT_ART" ;
+    at:deprecated "false" ;
+    at:op-code "W_LIT_ART" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "W_LIT_ART" ;
+    dc:identifier "W_LIT_ART" ;
+    skos:inScheme atold:licence-domain ;
+    skos:prefLabel "Литературни и/или художествени произведения"@bg,
+        "Literární a/nebo umělecká díla"@cs,
+        "Litterære værker og/eller kunstværker"@da,
+        "Literarische und/oder künstlerische Werke"@de,
+        "Λογοτεχνικά και/ή καλλιτεχνικά έργα"@el,
+        "Literary and/or artistic works"@en,
+        "Obras literarias y/o artísticas"@es,
+        "Kirjandus- ja/või kunstiteosed"@et,
+        "Kirjalliset ja/tai taiteelliset teokset"@fi,
+        "Œuvres littéraires et/ou artistiques"@fr,
+        "Saothair liteartha agus/nó ealaíonta"@ga,
+        "Književna i/ili umjetnička djela"@hr,
+        "Irodalmi és/vagy művészeti alkotások"@hu,
+        "Opere letterarie e/o artistiche"@it,
+        "Literatūros ir (arba) meno kūriniai"@lt,
+        "Literāri un/vai mākslas darbi"@lv,
+        "Xogħlijiet letterarji u/jew artistiċi"@mt,
+        "Literaire en/of artistieke werken"@nl,
+        "Dzieła literackie lub artystyczne"@pl,
+        "Obras literárias e/ou artísticas"@pt,
+        "Opere literare și/sau artistice"@ro,
+        "Literárne alebo umelecké diela"@sk,
+        "Književna in/ali umetniška dela"@sl,
+        "Litterära och/eller konstnärliga verk"@sv .
+
+atold:licence-domain a skos:ConceptScheme ;
+    rdfs:label "Licence domain"@en ;
+    at:prefLabel "Licence domain"@en ;
+    at:table.id "licence-domain" ;
+    at:table.version.number "20210317-0" ;
+    owl:versionInfo "20210317-0" ;
+    skos:prefLabel "Licence domain"@en .
+

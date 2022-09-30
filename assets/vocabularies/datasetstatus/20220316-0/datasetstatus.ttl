@@ -1,0 +1,230 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/dataset-status/COMPLETED> a skos:Concept ;
+    at:authority-code "COMPLETED" ;
+    at:deprecated "false" ;
+    at:op-code "COMPLETED" ;
+    at:start.use "2013-01-01" ;
+    atold:op-code "COMPLETED" ;
+    dc:identifier "COMPLETED" ;
+    skos:definition "This dataset is considered to be complete, it holds all information that is intended."@en ;
+    skos:inScheme atold:dataset-status ;
+    skos:prefLabel "пълен"@bg,
+        "dokončen"@cs,
+        "færdiggjort"@da,
+        "vollständig"@de,
+        "πλήρη δεδομένα"@el,
+        "completed"@en,
+        "completo"@es,
+        "täielik"@et,
+        "valmis"@fi,
+        "complété"@fr,
+        "lánchríochnaithe"@ga,
+        "potpun"@hr,
+        "kész"@hu,
+        "completato"@it,
+        "baigtas"@lt,
+        "pabeigts"@lv,
+        "komplut"@mt,
+        "voltooid"@nl,
+        "ferdigstilt"@no,
+        "ukończony"@pl,
+        "completado"@pt,
+        "finalizat"@ro,
+        "dokončený"@sk,
+        "dokončano"@sl,
+        "fullständig"@sv ;
+    skos:topConceptOf atold:dataset-status .
+
+<http://publications.europa.eu/resource/authority/dataset-status/DEPRECATED> a skos:Concept ;
+    at:authority-code "DEPRECATED" ;
+    at:deprecated "false" ;
+    at:op-code "DEPRECATED" ;
+    at:start.use "2013-01-01" ;
+    atold:op-code "DEPRECATED" ;
+    dc:identifier "DEPRECATED" ;
+    skos:definition "It is recommended that the contents of this dataset be no longer used."@en ;
+    skos:inScheme atold:dataset-status ;
+    skos:prefLabel "непрепоръчителен"@bg,
+        "zastaralý"@cs,
+        "frarådet"@da,
+        "veraltet"@de,
+        "παρωχημένα δεδομένα"@el,
+        "deprecated"@en,
+        "desaconsejado"@es,
+        "taunitav"@et,
+        "hylättävä"@fi,
+        "déconseillé"@fr,
+        "dímholta"@ga,
+        "nevažeći"@hr,
+        "elavult"@hu,
+        "sconsigliato"@it,
+        "nerekomenduojamas"@lt,
+        "novecojis"@lv,
+        "mhux aktar fl-użu"@mt,
+        "verouderd"@nl,
+        "foreldet"@no,
+        "nieaktualny"@pl,
+        "desaconselhado"@pt,
+        "nerecomandat"@ro,
+        "zastaraný"@sk,
+        "odsvetovano"@sl,
+        "bör ej användas"@sv ;
+    skos:topConceptOf atold:dataset-status .
+
+<http://publications.europa.eu/resource/authority/dataset-status/DEVELOP> a skos:Concept ;
+    at:authority-code "DEVELOP" ;
+    at:deprecated "false" ;
+    at:op-code "DEVELOP" ;
+    at:start.use "2013-01-01" ;
+    atold:op-code "DEVELOP" ;
+    dc:identifier "DEVELOP" ;
+    skos:definition "This dataset is currently being assembled. It may be in an incomplete or faulty state."@en ;
+    skos:inScheme atold:dataset-status ;
+    skos:prefLabel "в процес на създаване"@bg,
+        "ve fázi vývoje"@cs,
+        "under udvikling"@da,
+        "im Aufbau"@de,
+        "υπό κατασκευή"@el,
+        "under development"@en,
+        "en fase de elaboración"@es,
+        "töös"@et,
+        "kehitteillä"@fi,
+        "en cours d'élaboration"@fr,
+        "á fhorbairt"@ga,
+        "u izradi"@hr,
+        "kidolgozás alatt"@hu,
+        "in corso di sviluppo"@it,
+        "sudaromas"@lt,
+        "izstrādes stadijā"@lv,
+        "qed jiġi żviluppat"@mt,
+        "in ontwikkeling"@nl,
+        "under utvikling"@no,
+        "prace w toku"@pl,
+        "em desenvolvimento"@pt,
+        "în curs de pregătire"@ro,
+        "vo fáze vývoja"@sk,
+        "v pripravi"@sl,
+        "arbete pågår"@sv ;
+    skos:topConceptOf atold:dataset-status .
+
+<http://publications.europa.eu/resource/authority/dataset-status/DISCONT> a skos:Concept ;
+    at:authority-code "DISCONT" ;
+    at:deprecated "false" ;
+    at:op-code "DISCONT" ;
+    at:start.use "2013-01-01" ;
+    atold:op-code "DISCONT" ;
+    dc:identifier "DISCONT" ;
+    skos:altLabel "interrompue"@fr ;
+    skos:definition "This dataset is no longer produced or updated."@en ;
+    skos:inScheme atold:dataset-status ;
+    skos:prefLabel "временно преустановено"@bg,
+        "zastaveno"@cs,
+        "ophørt"@da,
+        "unterbrochen"@de,
+        "διακοπή"@el,
+        "discontinued"@en,
+        "interrumpido"@es,
+        "lõpetatud"@et,
+        "keskeytetty"@fi,
+        "interrompu"@fr,
+        "scortha"@ga,
+        "obustavljeno"@hr,
+        "szüneteltetve"@hu,
+        "interrotta"@it,
+        "nebeatnaujinama"@lt,
+        "sagatavošana pārtraukta"@lv,
+        "interrott"@mt,
+        "stopgezet"@nl,
+        "avviklet"@no,
+        "przerwano"@pl,
+        "interrompida"@pt,
+        "întreruptă"@ro,
+        "pozastavené"@sk,
+        "začasno prekinjeno"@sl,
+        "har upphört"@sv ;
+    skos:topConceptOf atold:dataset-status .
+
+<http://publications.europa.eu/resource/authority/dataset-status/OP_DATPRO> a skos:Concept ;
+    at:authority-code "OP_DATPRO" ;
+    at:deprecated "false" ;
+    at:op-code "OP_DATPRO" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:dataset-status ;
+    skos:prefLabel "Неокончателни данни"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv ;
+    skos:topConceptOf atold:dataset-status .
+
+<http://publications.europa.eu/resource/authority/dataset-status/WITHDRAWN> a skos:Concept ;
+    at:authority-code "WITHDRAWN" ;
+    at:deprecated "false" ;
+    at:op-code "WITHDRAWN" ;
+    at:start.use "2013-01-01" ;
+    atold:op-code "WITHDRAWN" ;
+    dc:identifier "WITHDRAWN" ;
+    skos:definition "This dataset is no longer meant to be published."@en ;
+    skos:inScheme atold:dataset-status ;
+    skos:prefLabel "оттеглен"@bg,
+        "odstraněn"@cs,
+        "trukket tilbage"@da,
+        "eingestellt"@de,
+        "αποσύρθηκε"@el,
+        "withdrawn"@en,
+        "retirado"@es,
+        "tühistatud"@et,
+        "vedetty pois"@fi,
+        "retiré"@fr,
+        "aistarraingthe"@ga,
+        "obustavljen"@hr,
+        "visszavont"@hu,
+        "ritirato"@it,
+        "atsiimtas"@lt,
+        "atsaukts"@lv,
+        "irtirat"@mt,
+        "ingetrokken"@nl,
+        "trukket tilbake"@no,
+        "wycofany"@pl,
+        "retirado"@pt,
+        "retras"@ro,
+        "odstránený"@sk,
+        "odstranjeno"@sl,
+        "indragen"@sv ;
+    skos:topConceptOf atold:dataset-status .
+
+atold:dataset-status a skos:ConceptScheme ;
+    rdfs:label "Dataset status"@en ;
+    at:prefLabel "Dataset status"@en ;
+    at:table.id "dataset-status" ;
+    at:table.version.number "20220316-0" ;
+    owl:versionInfo "20220316-0" ;
+    skos:prefLabel "Dataset status"@en .
+

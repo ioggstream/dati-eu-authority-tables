@@ -1,0 +1,388 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/public-event-type/CAMP_LAUNCH> a skos:Concept ;
+    at:authority-code "CAMP_LAUNCH" ;
+    at:deprecated "false" ;
+    at:op-code "CAMP_LAUNCH" ;
+    at:start.use "2020-11-01" ;
+    atold:op-code "CAMP_LAUNCH" ;
+    dc:identifier "CAMP_LAUNCH" ;
+    skos:definition "Campaign launches include events with the objective of highlighting the launch of public awareness campaigns, policies and other types of initiatives."@en ;
+    skos:inScheme atold:public-event-type ;
+    skos:prefLabel "Стартиране на кампании"@bg,
+        "Zahájení kampaně"@cs,
+        "Kampagnestart"@da,
+        "Kampagnendebüts"@de,
+        "Έναρξη εκστρατειών"@el,
+        "Campaign launches"@en,
+        "Lanzamiento de la campaña"@es,
+        "Kampaania avaüritused"@et,
+        "Kampanja-avajaiset"@fi,
+        "Lancements de campagnes"@fr,
+        "Seoltaí feachtas"@ga,
+        "Pokretanje kampanje"@hr,
+        "Kampányindító rendezvények"@hu,
+        "Lancio di una campagna"@it,
+        "Kampanijos pradžios renginiai"@lt,
+        "Kampaņas uzsākšana"@lv,
+        "Tnedija ta’ kampanja"@mt,
+        "Campagnestartevenementen"@nl,
+        "Inauguracje kampanii"@pl,
+        "Lançamento da campanha"@pt,
+        "Lansarea unei campanii"@ro,
+        "Kampaň sa začína"@sk,
+        "Začetek kampanje"@sl,
+        "Kampanjlanseringar"@sv ;
+    skos:topConceptOf atold:public-event-type .
+
+<http://publications.europa.eu/resource/authority/public-event-type/COMPETITION_AWARD_CEREMONY> a skos:Concept ;
+    at:authority-code "COMPETITION_AWARD_CEREMONY" ;
+    at:deprecated "false" ;
+    at:op-code "COMPETITION_AWARD_CEREMONY" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "COMPETITION_AWARD_CEREMONY" ;
+    dc:identifier "COMPETITION_AWARD_CEREMONY" ;
+    skos:definition "Competitions and award ceremonies include public events such as award ceremonies, competitions and contests."@en ;
+    skos:inScheme atold:public-event-type ;
+    skos:prefLabel "Конкурси и церемонии по награждаване"@bg,
+        "Soutěže a slavnostní udílení cen"@cs,
+        "Konkurrencer og prisuddelinger"@da,
+        "Wettbewerbe und Preisverleihungen"@de,
+        "Διαγωνισμοί και τελετές απονομής βραβείων"@el,
+        "Competitions and award ceremonies"@en,
+        "Concursos y ceremonias de entrega de premios"@es,
+        "Konkursid ja auhinnatseremooniad"@et,
+        "Kilpailut ja palkintoseremoniat"@fi,
+        "Concours et cérémonies de remise de prix"@fr,
+        "Comórtais agus searmanais bhronnta"@ga,
+        "Natjecanja i svečanosti dodjele nagrada"@hr,
+        "Versenyek és díjátadó ünnepségek"@hu,
+        "Concorsi e cerimonie di premiazione"@it,
+        "Konkursai ir apdovanojimų iškilmės"@lt,
+        "Konkursi un apbalvošanas ceremonijas"@lv,
+        "Kompetizzjonijiet u ċerimonji ta’ premjazzjoni"@mt,
+        "Wedstrijden en prijsuitreikingen"@nl,
+        "Konkursy i ceremonie wręczenia nagród"@pl,
+        "Concursos e cerimónias de entrega de prémios"@pt,
+        "Concursuri și ceremonii de decernare a premiilor"@ro,
+        "Súťaže a slávnostné odovzdávanie cien"@sk,
+        "Natečaji in podelitve nagrad"@sl,
+        "Tävlingar och prisutdelningar"@sv ;
+    skos:topConceptOf atold:public-event-type .
+
+<http://publications.europa.eu/resource/authority/public-event-type/CONFERENCE_SUMMIT> a skos:Concept ;
+    at:authority-code "CONFERENCE_SUMMIT" ;
+    at:deprecated "false" ;
+    at:op-code "CONFERENCE_SUMMIT" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "CONFERENCE_SUMMIT" ;
+    dc:identifier "CONFERENCE_SUMMIT" ;
+    skos:definition "Conferences and summits include public events such as conferences, summits, congresses and colloquiums."@en ;
+    skos:inScheme atold:public-event-type ;
+    skos:prefLabel "Конференции и срещи на високо равнище"@bg,
+        "Konference a summity"@cs,
+        "Konferencer og topmøder"@da,
+        "Konferenzen und Gipfeltreffen"@de,
+        "Διασκέψεις και σύνοδοι κορυφής"@el,
+        "Conferences and summits"@en,
+        "Conferencias y cumbres"@es,
+        "Konverentsid ja tippkohtumised"@et,
+        "Konferenssit ja huippukokoukset"@fi,
+        "Conférences et sommets"@fr,
+        "Comhdhálacha agus cruinnithe mullaigh"@ga,
+        "Konferencije i sastanci na vrhu"@hr,
+        "Konferenciák és csúcstalálkozók"@hu,
+        "Conferenze e vertici"@it,
+        "Konferencijos ir aukščiausiojo lygio susitikimai"@lt,
+        "Konferences un samiti"@lv,
+        "Konferenzi u summits"@mt,
+        "Conferenties en topontmoetingen"@nl,
+        "Konferencje i szczyty"@pl,
+        "Conferências e cimeiras"@pt,
+        "Conferințe și reuniuni la nivel înalt"@ro,
+        "Konferencie a samity"@sk,
+        "Konference in srečanja na vrhu"@sl,
+        "Konferenser och toppmöten"@sv ;
+    skos:topConceptOf atold:public-event-type .
+
+<http://publications.europa.eu/resource/authority/public-event-type/EXHIBITION> a skos:Concept ;
+    at:authority-code "EXHIBITION" ;
+    at:deprecated "false" ;
+    at:op-code "EXHIBITION" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "EXHIBITION" ;
+    dc:identifier "EXHIBITION" ;
+    skos:definition "Exhibitions include public events such as expos, industry exhibitions, cultural events and fairs."@en ;
+    skos:inScheme atold:public-event-type ;
+    skos:prefLabel "Изложения"@bg,
+        "Akce"@cs,
+        "Udstillinger"@da,
+        "Ausstellungen"@de,
+        "Εκθέσεις"@el,
+        "Exhibitions"@en,
+        "Exposiciones"@es,
+        "Näitused"@et,
+        "Näyttelyt"@fi,
+        "Expositions"@fr,
+        "Taispeántais"@ga,
+        "Izložbe"@hr,
+        "Kiállítások"@hu,
+        "Esposizioni"@it,
+        "Parodos"@lt,
+        "Izstādes"@lv,
+        "Wirjiet"@mt,
+        "Tentoonstellingen"@nl,
+        "Wystawy"@pl,
+        "Exposições"@pt,
+        "Expoziții"@ro,
+        "Výstavy"@sk,
+        "Razstave"@sl,
+        "Utställningar"@sv ;
+    skos:topConceptOf atold:public-event-type .
+
+<http://publications.europa.eu/resource/authority/public-event-type/EXPERT_MEETING> a skos:Concept ;
+    at:authority-code "EXPERT_MEETING" ;
+    at:deprecated "false" ;
+    at:op-code "EXPERT_MEETING" ;
+    at:start.use "2022-02-21" ;
+    atold:op-code "EXPERT_MEETING" ;
+    dc:identifier "EXPERT_MEETING" ;
+    skos:definition "Заседания на независими експертни групи, чиито резултати са по-скоро от технически, научен, регулаторен и процедурен, отколкото от политически характер."@bg,
+        "Nezávislá grémia odborníků, jejichž výsledky jsou spíše technické, vědecké, regulační nebo procedurální povahy než politické."@cs,
+        "Møder i uafhængige ekspertpaneler hvis resultater er tekniske, videnskabelige, lovgivningsmæssige eller proceduremæssige, snarere end politiske."@da,
+        "Zusammenkünfte unabhängiger Sachverständigengremien, deren Ergebnisse eher technischer, wissenschaftlicher, rechtlicher oder verfahrenstechnischer als politischer Art sind."@de,
+        "Συνεδριάσεις ανεξάρτητων ομάδων εμπειρογνωμόνων, τα αποτελέσματα των οποίων έχουν τεχνικό, επιστημονικό, κανονιστικό ή διαδικαστικό χαρακτήρα, αντί για πολιτικό."@el,
+        "Meetings of independent expert panels whose outcomes are technical, scientific, regulatory or procedural, rather than political."@en,
+        "Reuniones de grupos de expertos independientes cuyos resultados son técnicos, científicos, reglamentarios o de procedimiento, y no políticos. "@es,
+        "Sõltumatute eksperdirühmade koosolekud, mille tulemused on pigem tehnilised, teaduslikud, regulatiivsed või menetluslikud kui poliitilised. "@et,
+        "Riippumattomien asiantuntijapaneelien kokoukset, joiden tulokset ovat pikemminkin teknisiä, tieteellisiä, sääntelyyn tai menettelyihin liittyviä kuin poliittisia."@fi,
+        "Réunions de groupes d’experts indépendants dont les résultats sont de nature technique, scientifique, réglementaire ou procédurale plutôt que politique. "@fr,
+        "Cruinnithe de phainéil saineolaithe neamhspleácha a bhfuil a dtorthaí teicniúil, eolaíoch, rialaitheach nó nós imeachta, seachas polaitiúil."@ga,
+        "Sastanci neovisnih stručnih skupina čiji su ishodi tehnički, znanstveni, regulatorni ili postupovni, a ne politički. "@hr,
+        "Független szakértői testületek ülései, amelyek eredményei inkább technikai, tudományos, szabályozási vagy eljárási jellegűek, mintsem politikaiak."@hu,
+        "Riunioni di gruppi di esperti indipendenti i cui risultati sono di natura tecnica, scientifica, regolamentare o procedurale, piuttosto che politica."@it,
+        "Nepriklausomų ekspertų grupių posėdžiai, kurių išvados yra ne politinės, o techninės, mokslinės, reguliacinės ar procedūrinės. "@lt,
+        "Neatkarīgu ekspertu grupu sanāksmes, kuru rezultāti ir tehniski, zinātniski, regulatīvi vai procesuāli, nevis politiski. "@lv,
+        "Laqgħat ta’ gruppi ta’ esperti indipendenti li l-eżiti tagħhom huma tekniċi, xjentifiċi, regolatorji jew proċedurali, aktar milli politiċi."@mt,
+        "Vergaderingen van onafhankelijke panels van deskundigen waarvan de uitkomst niet zozeer politiek, maar eerder technisch, wetenschappelijk, regelgevend of procedureel is. "@nl,
+        "Spotkania paneli niezależnych ekspertów, których wyniki są raczej techniczne, naukowe, regulacyjne lub proceduralne niż polityczne. "@pl,
+        "Reuniões de grupos de peritos independentes cujos resultados são de natureza técnica, científica, regulamentar ou processual e não tanto política."@pt,
+        "Reuniuni ale grupurilor de experți independenți, ale căror rezultate sunt de natură tehnică, științifică, normativă sau procedurală, mai degrabă decât politică. "@ro,
+        "Zasadnutia nezávislých expertných panelov, ktorých výstupy sú technické, vedecké, regulačné alebo procedurálne, nie politické."@sk,
+        "Sestanki neodvisnih strokovnih odborov, katerih rezultati so tehnični, znanstveni, regulativni ali postopkovni, ne politični. "@sl,
+        "Möten med oberoende expertpaneler för att diskutera tekniska, vetenskapliga, regleringsmässiga eller förfarandemässiga frågor snarare än politiska."@sv ;
+    skos:inScheme atold:public-event-type ;
+    skos:prefLabel "Експертни заседания"@bg,
+        "Zasedání odborníků"@cs,
+        "Ekspertmøder"@da,
+        "Expertentreffen"@de,
+        "Συνεδριάσεις εμπειρογνωμόνων"@el,
+        "Expert meetings"@en,
+        "Reuniones de expertos"@es,
+        "Ekspertide koosolekud"@et,
+        "Asiantuntijakokoukset"@fi,
+        "Réunions d'experts "@fr,
+        "Cruinnithe saineolaithe"@ga,
+        "Sastanci stručnjaka"@hr,
+        "Szakértői értekezletek"@hu,
+        "Riunioni di esperti"@it,
+        "Ekspertų posėdžiai"@lt,
+        "Ekspertu sanāksmes"@lv,
+        "Laqgħat ta’ esperti"@mt,
+        "Vergaderingen van deskundigen"@nl,
+        "Spotkania ekspertów"@pl,
+        "Reuniuni ale experților"@pt,
+        "Reuniões de peritos"@pt,
+        "Zasadnutia expertov"@sk,
+        "Sestanki strokovnjakov"@sl,
+        "Expertmöten"@sv ;
+    skos:topConceptOf atold:public-event-type .
+
+<http://publications.europa.eu/resource/authority/public-event-type/INFO_DAY> a skos:Concept ;
+    at:authority-code "INFO_DAY" ;
+    at:deprecated "false" ;
+    at:op-code "INFO_DAY" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "INFO_DAY" ;
+    dc:identifier "INFO_DAY" ;
+    skos:definition "Info days include public events such as open days, information days, information meetings and networking events."@en ;
+    skos:inScheme atold:public-event-type ;
+    skos:prefLabel "Информационни дни"@bg,
+        "Informační dny"@cs,
+        "Infodage"@da,
+        "Info-Tage"@de,
+        "Ημερίδες ενημέρωσης"@el,
+        "Info days"@en,
+        "Jornadas informativas"@es,
+        "Teabepäevad"@et,
+        "Infopäivät"@fi,
+        "Journées d’information"@fr,
+        "Laethanta eolais"@ga,
+        "Dani informiranja"@hr,
+        "Tájékoztató napok"@hu,
+        "Giornate d'informazione"@it,
+        "Informacinės dienos"@lt,
+        "Infodienas"@lv,
+        "Jiem ta’ informazzjoni"@mt,
+        "Infodagen"@nl,
+        "Dni informacyjne"@pl,
+        "Jornadas de informação"@pt,
+        "Zile de informare"@ro,
+        "Informačné dni"@sk,
+        "Informativni dnevi"@sl,
+        "Informationsdagar"@sv ;
+    skos:topConceptOf atold:public-event-type .
+
+<http://publications.europa.eu/resource/authority/public-event-type/PARTNER_MEETING> a skos:Concept ;
+    at:authority-code "PARTNER_MEETING" ;
+    at:deprecated "false" ;
+    at:op-code "PARTNER_MEETING" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "PARTNER_MEETING" ;
+    dc:identifier "PARTNER_MEETING" ;
+    skos:definition "Partner meetings include public events such as stakeholder meetings."@en ;
+    skos:inScheme atold:public-event-type ;
+    skos:prefLabel "Срещи с партньори"@bg,
+        "Setkání partnerských subjektů"@cs,
+        "Partnermøder"@da,
+        "Veranstaltungen mit Partnern"@de,
+        "Συναντήσεις εταίρων"@el,
+        "Partner meetings"@en,
+        "Reuniones de socios"@es,
+        "Kohtumised partneritega"@et,
+        "Kumppanikokoukset"@fi,
+        "Réunions de partenaires"@fr,
+        "Cruinnithe comhpháirtíochta"@ga,
+        "Partnerski sastanci"@hr,
+        "Partneri találkozók"@hu,
+        "Riunioni dei partner"@it,
+        "Partnerių susitikimai"@lt,
+        "Partneru sanāksmes"@lv,
+        "Laqgħat tal-imsieħba"@mt,
+        "Vergaderingen met partners"@nl,
+        "Spotkania partnerskie"@pl,
+        "Reuniões de parceiros"@pt,
+        "Reuniuni ale partenerilor"@ro,
+        "Stretnutia partnerských subjektov"@sk,
+        "Partnerski sestanki"@sl,
+        "Möten med samarbetspartner"@sv ;
+    skos:topConceptOf atold:public-event-type .
+
+<http://publications.europa.eu/resource/authority/public-event-type/POLITICAL_MEETING> a skos:Concept ;
+    at:authority-code "POLITICAL_MEETING" ;
+    at:deprecated "false" ;
+    at:op-code "POLITICAL_MEETING" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "POLITICAL_MEETING" ;
+    dc:identifier "POLITICAL_MEETING" ;
+    skos:definition "Political meetings include political events involving the public."@en ;
+    skos:inScheme atold:public-event-type ;
+    skos:prefLabel "Политически срещи"@bg,
+        "Politická setkání"@cs,
+        "Politiske møder"@da,
+        "Politische Veranstaltungen"@de,
+        "Πολιτικές εκδηλώσεις"@el,
+        "Political meetings"@en,
+        "Reuniones políticas"@es,
+        "Poliitilised kohtumised"@et,
+        "Poliittiset kokoukset"@fi,
+        "Réunions politiques"@fr,
+        "Cruinnithe polaitiúla"@ga,
+        "Politički sastanci"@hr,
+        "Politikai ülések"@hu,
+        "Riunioni politiche"@it,
+        "Politiniai susitikimai"@lt,
+        "Politiskas sanāksmes"@lv,
+        "Laqgħat politiċi"@mt,
+        "Politieke vergaderingen"@nl,
+        "Spotkania polityczne"@pl,
+        "Reuniões políticas"@pt,
+        "Reuniuni politice"@ro,
+        "Politické stretnutia"@sk,
+        "Politični sestanki"@sl,
+        "Politiska möten"@sv ;
+    skos:topConceptOf atold:public-event-type .
+
+<http://publications.europa.eu/resource/authority/public-event-type/PUBLIC_DEBATE> a skos:Concept ;
+    at:authority-code "PUBLIC_DEBATE" ;
+    at:deprecated "false" ;
+    at:op-code "PUBLIC_DEBATE" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "PUBLIC_DEBATE" ;
+    dc:identifier "PUBLIC_DEBATE" ;
+    skos:definition "Public debates include public events such as public debates, dialogues, forums and public meetings."@en ;
+    skos:inScheme atold:public-event-type ;
+    skos:prefLabel "Публични дебати"@bg,
+        "Veřejné diskuse"@cs,
+        "Offentlige debatter"@da,
+        "Öffentliche Veranstaltungen"@de,
+        "Δημόσιες συζητήσεις"@el,
+        "Public debates"@en,
+        "Debates públicos"@es,
+        "Avalikud arutelud"@et,
+        "Julkiset keskustelutilaisuudet"@fi,
+        "Débats publics"@fr,
+        "Díospóireachtaí poiblí"@ga,
+        "Javne debate"@hr,
+        "Nyilvános viták"@hu,
+        "Dibattiti pubblici"@it,
+        "Vieši debatai"@lt,
+        "Atklātas debates"@lv,
+        "Dibattiti pubbliċi"@mt,
+        "Openbare debatten"@nl,
+        "Debaty publiczne"@pl,
+        "Debates públicos"@pt,
+        "Dezbateri publice"@ro,
+        "Verejné diskusie"@sk,
+        "Javne razprave"@sl,
+        "Offentliga debatter"@sv ;
+    skos:topConceptOf atold:public-event-type .
+
+<http://publications.europa.eu/resource/authority/public-event-type/TRAINING_WORKSHOP> a skos:Concept ;
+    at:authority-code "TRAINING_WORKSHOP" ;
+    at:deprecated "false" ;
+    at:op-code "TRAINING_WORKSHOP" ;
+    at:start.use "1958-01-01" ;
+    atold:op-code "TRAINING_WORKSHOP" ;
+    dc:identifier "TRAINING_WORKSHOP" ;
+    skos:definition "Training and workshops include public events such as training, summer schools, webinars, workshops and seminars."@en ;
+    skos:inScheme atold:public-event-type ;
+    skos:prefLabel "Обучения и семинари"@bg,
+        "Odborná příprava a semináře"@cs,
+        "Kurser og workshopper"@da,
+        "Schulungen und Workshops"@de,
+        "Εκπαιδευτικά σεμινάρια και εργαστήρια"@el,
+        "Training and workshops"@en,
+        "Formación y talleres"@es,
+        "Koolitused ja seminarid"@et,
+        "Koulutus ja työpajat"@fi,
+        "Formations et ateliers"@fr,
+        "Oiliúint agus ceardlanna"@ga,
+        "Tečajevi i radionice"@hr,
+        "Képzések és műhelytalálkozók"@hu,
+        "Formazione e seminari"@it,
+        "Mokymas ir praktiniai seminarai"@lt,
+        "Mācības un semināri"@lv,
+        "Taħriġ u workshops"@mt,
+        "Opleidingen en workshops"@nl,
+        "Szkolenia i warsztaty"@pl,
+        "Formação e seminários"@pt,
+        "Cursuri de formare și seminare de lucru"@ro,
+        "Odborná príprava a semináre"@sk,
+        "Usposabljanja in delavnice"@sl,
+        "Kurser och seminarier"@sv ;
+    skos:topConceptOf atold:public-event-type .
+
+atold:public-event-type a skos:ConceptScheme ;
+    rdfs:label "Public event type"@en ;
+    at:prefLabel "Public event type"@en ;
+    at:table.id "public-event-type" ;
+    at:table.version.number "20220615-0" ;
+    owl:versionInfo "20220615-0" ;
+    skos:prefLabel "Public event type"@en .
+

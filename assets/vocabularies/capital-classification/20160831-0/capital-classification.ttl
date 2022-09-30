@@ -1,0 +1,65 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/capital-classification/CAP_COU> a skos:Concept ;
+    at:authority-code "CAP_COU" ;
+    at:deprecated "false" ;
+    at:op-code "CAP_COU" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "CAP_COU" ;
+    dc:identifier "CAP_COU" ;
+    skos:inScheme atold:capital-classification ;
+    skos:prefLabel "Country capital"@en .
+
+<http://publications.europa.eu/resource/authority/capital-classification/CAP_NON> a skos:Concept ;
+    at:authority-code "CAP_NON" ;
+    at:deprecated "false" ;
+    at:op-code "CAP_NON" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "CAP_NON" ;
+    dc:identifier "CAP_NON" ;
+    skos:inScheme atold:capital-classification ;
+    skos:prefLabel "Non-capital"@en .
+
+<http://publications.europa.eu/resource/authority/capital-classification/OP_DATPRO> a skos:Concept ;
+    at:op-code "OP_DATPRO" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:capital-classification ;
+    skos:prefLabel "НЕОКОНЧАТЕЛНИ ДАННИ"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv .
+
+atold:capital-classification a skos:ConceptScheme ;
+    rdfs:label "Capital classification"@en ;
+    at:prefLabel "Capital classification"@en ;
+    at:table.id "capital-classification" ;
+    at:table.version.number "20160831-0" ;
+    owl:versionInfo "20160831-0" ;
+    skos:prefLabel "Capital classification"@en .
+

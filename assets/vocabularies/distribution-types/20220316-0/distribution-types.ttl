@@ -1,0 +1,219 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE> a skos:Concept ;
+    at:authority-code "DOWNLOADABLE_FILE" ;
+    at:deprecated "false" ;
+    at:op-code "DOWNLOADABLE_FILE" ;
+    at:start.use "2013-01-01" ;
+    atold:op-code "DOWNLOADABLE_FILE" ;
+    dc:identifier "DOWNLOADABLE_FILE" ;
+    skos:definition "A downloadable file for the dataset."@en ;
+    skos:inScheme atold:distribution-type ;
+    skos:prefLabel "Файл за сваляне"@bg,
+        "Soubor, který lze stáhnout"@cs,
+        "Fil, som kan downloades"@da,
+        "Herunterladbare Datei"@de,
+        "Μεταφορτώσιμο αρχείο"@el,
+        "Downloadable file"@en,
+        "Archivo descargable"@es,
+        "Allalaetav fail"@et,
+        "Ladattavissa oleva tiedosto"@fi,
+        "Fichier téléchargeable"@fr,
+        "Comhad in‑íoslódáilte"@ga,
+        "Datoteka za preuzimanje"@hr,
+        "Letölthető fájl"@hu,
+        "File scaricabile"@it,
+        "Rinkmena, kurią galima parsisiųsti"@lt,
+        "Lejupielādējama datne"@lv,
+        "Fajl li jista' jiġi ddawnlowdjat"@mt,
+        "Downloadbaar bestand"@nl,
+        "Nedlastbar fil"@no,
+        "Plik do pobrania"@pl,
+        "Ficheiro descarregável"@pt,
+        "Fișier descărcabil"@ro,
+        "Prevzateľný súbor"@sk,
+        "Prenosljiva datoteka"@sl,
+        "Nedladdningsbar fil"@sv ;
+    skos:topConceptOf atold:distribution-type .
+
+<http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO> a skos:Concept ;
+    at:authority-code "FEED_INFO" ;
+    at:deprecated "false" ;
+    at:op-code "FEED_INFO" ;
+    at:start.use "2013-01-01" ;
+    atold:op-code "FEED_INFO" ;
+    dc:identifier "FEED_INFO" ;
+    skos:definition "A resource that provides an information feed, e.g. RSS feed."@en ;
+    skos:inScheme atold:distribution-type ;
+    skos:prefLabel "Информационен канал"@bg,
+        "Informační kanál"@cs,
+        "Informationsfeed"@da,
+        "Informations-Feed"@de,
+        "Ροή πληροφοριών"@el,
+        "Information feed"@en,
+        "Flujo de información"@es,
+        "Infovoog"@et,
+        "Tietosyöte"@fi,
+        "Fil d'information"@fr,
+        "Fotha eolais"@ga,
+        "Izvor informacija"@hr,
+        "Információs csatorna"@hu,
+        "Feed di informazioni"@it,
+        "Informacijos sklaidos kanalas"@lt,
+        "Informācijas plūsma"@lv,
+        "Sors ta' informazzjoni"@mt,
+        "Informatiefeed"@nl,
+        "Informasjonsfeed"@no,
+        "Kanał informacyjny"@pl,
+        "Fluxo de informação"@pt,
+        "Flux de informații"@ro,
+        "Informačný kanál"@sk,
+        "Informacijski kanal"@sl,
+        "Informationsflöde"@sv ;
+    skos:topConceptOf atold:distribution-type .
+
+<http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION> a skos:Concept ;
+    at:authority-code "VISUALIZATION" ;
+    at:deprecated "false" ;
+    at:op-code "VISUALIZATION" ;
+    at:start.use "2013-01-01" ;
+    atold:op-code "VISUALIZATION" ;
+    dc:identifier "VISUALIZATION" ;
+    skos:changeNote "See email sent by Agnieszka ZAJAC on 20160527."@en ;
+    skos:definition "A visualization of the dataset."@en ;
+    skos:historyNote "EU Open Data Portal needed this concept as a distribution type instead of a documentation type."@en ;
+    skos:inScheme atold:distribution-type ;
+    skos:prefLabel "Визуализация"@bg,
+        "Vizualizace"@cs,
+        "Visualisering"@da,
+        "Visualisierung"@de,
+        "Οπτική εμφάνιση"@el,
+        "Visualization"@en,
+        "Visualización"@es,
+        "Visuaalne kuju"@et,
+        "Visualisointi"@fi,
+        "Visualisation"@fr,
+        "Amharcléiriú"@ga,
+        "Vizualizacija"@hr,
+        "Megjelenítés"@hu,
+        "Visualizzazione"@it,
+        "Vizualizacija"@lt,
+        "Vizualizācija"@lv,
+        "Viżwalizzazzjoni"@mt,
+        "Visualisatie"@nl,
+        "Visualisering"@no,
+        "Wizualizacja"@pl,
+        "Visualização"@pt,
+        "Vizualizare"@ro,
+        "Vizualizácia"@sk,
+        "Vizualizacija"@sl,
+        "Visualisering"@sv ;
+    skos:topConceptOf atold:distribution-type .
+
+<http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE> a skos:Concept ;
+    at:authority-code "WEB_SERVICE" ;
+    at:deprecated "false" ;
+    at:op-code "WEB_SERVICE" ;
+    at:start.use "2013-01-01" ;
+    atold:op-code "WEB_SERVICE" ;
+    dc:identifier "WEB_SERVICE" ;
+    skos:altLabel "Уеб услуга"@bg,
+        "Webová služba"@cs,
+        "Webtjeneste"@da,
+        "Web-Service"@de,
+        "Διαδικτυακή υπηρεσία"@el,
+        "Web service"@en,
+        "Servicio web"@es,
+        "Veebiteenus"@et,
+        "Verkkopalvelu"@fi,
+        "Service web"@fr,
+        "Seirbhís gréasáin"@ga,
+        "Web-usluga"@hr,
+        "Webszolgáltatás"@hu,
+        "Servizio web"@it,
+        "Saityno paslauga"@lt,
+        "Tīmekļa pakalpojums"@lv,
+        "Servizz tal-Web"@mt,
+        "Webservice"@nl,
+        "Webservice"@no,
+        "Usługa sieciowa"@pl,
+        "Serviço web"@pt,
+        "Serviciu web"@ro,
+        "Webová služba"@sk,
+        "Spletna storitev"@sl,
+        "Webbtjänstgränssnitt"@sv ;
+    skos:definition "A resource that holds a web service to the dataset."@en ;
+    skos:inScheme atold:distribution-type ;
+    skos:prefLabel "Уеб услуга/API"@bg,
+        "Internetová služba / API"@cs,
+        "Webtjeneste/API"@da,
+        "Web-Dienst/API"@de,
+        "Διαδικτυακή υπηρεσία/API"@el,
+        "Web service/API"@en,
+        "Servicio web/API"@es,
+        "Veebiteenus/API"@et,
+        "Verkkopalvelu/API"@fi,
+        "Service web/API"@fr,
+        "Seirbhís gréasáin/API"@ga,
+        "Internetska usluga / API"@hr,
+        "Webszolgáltatás/API"@hu,
+        "Servizio web/API"@it,
+        "Saityno paslauga / API sąsaja"@lt,
+        "Tīmekļa pakalpojums/API"@lv,
+        "Servizz web/API"@mt,
+        "Webservice/API"@nl,
+        "Usługa sieciowa / API"@pl,
+        "Serviço Web/API"@pt,
+        "Serviciu web/API"@ro,
+        "Webová služba/API"@sk,
+        "Spletna storitev/API"@sl,
+        "Webbtjänst/API"@sv ;
+    skos:topConceptOf atold:distribution-type .
+
+<http://publications.europa.eu/resource/authority/distribution-types/OP_DATPRO> a skos:Concept ;
+    at:authority-code "OP_DATPRO" ;
+    at:deprecated "false" ;
+    at:op-code "OP_DATPRO" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:distribution-type ;
+    skos:prefLabel "НЕОКОНЧАТЕЛНИ ДАННИ"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv ;
+    skos:topConceptOf atold:distribution-type .
+
+atold:distribution-type a skos:ConceptScheme ;
+    rdfs:label "Distribution type"@en ;
+    at:prefLabel "Distribution type"@en ;
+    at:table.id "distribution-type" ;
+    at:table.version.number "20220316-0" ;
+    owl:versionInfo "20220316-0" ;
+    skos:prefLabel "Distribution type"@en .
+

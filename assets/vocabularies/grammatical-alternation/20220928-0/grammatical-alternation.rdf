@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:at="http://publications.europa.eu/ontology/authority/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:atold="http://publications.europa.eu/resource/authority/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xml:base="http://publications.europa.eu/resource/authority/grammatical-alternation">
+   <skos:ConceptScheme rdf:about="http://publications.europa.eu/resource/authority/grammatical-alternation"
+                       at:table.id="grammatical-alternation"
+                       at:table.version.number="20220928-0">
+      <at:prefLabel xml:lang="en">Grammatical alternation</at:prefLabel>
+      <rdfs:label xml:lang="en">Grammatical alternation</rdfs:label>
+      <owl:versionInfo>20220928-0</owl:versionInfo>
+      <skos:prefLabel xml:lang="en">Grammatical alternation</skos:prefLabel>
+   </skos:ConceptScheme>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/grammatical-alternation/C"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Съгласна</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">V případě souhlásky</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Konsonant</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Konsonant</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Σύμφωνο</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Consonant</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Consonante</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Konsonant</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Konsonantti</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Consonne</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Consain</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Suglasnik</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Mássalhangzó</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Consonante</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Priebalsė</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Līdzskanis</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Konsonanti</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Medeklinker</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Spółgłoskowy</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Consoante</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Consoană</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Spoluhláska</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Soglasnik</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Konsonant</skos:prefLabel>
+      <at:authority-code>C</at:authority-code>
+      <at:op-code>C</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>C</atold:op-code>
+      <dc:identifier>C</dc:identifier>
+      <skos:definition xml:lang="en">Number form used in Maltese before words of more than one syllable beginning with a consonant and before words of more than two syllables beginning with two consonants.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/grammatical-alternation"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/grammatical-alternation"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/grammatical-alternation/OP_DATPRO"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Неокончателни данни</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Předběžné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Midlertidige data</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Vorläufige Daten</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Προσωρινά δεδομένα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Provisional data</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Datos provisionales</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Esialgsed andmed</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Alustavat tiedot</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Données provisoires</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Sonraí sealadacha</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Privremeni podaci</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Ideiglenes adatok</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Dati provvisori</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Laikinieji duomenys</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Provizoriski dati</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Dejta provviżorja</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Voorlopige gegevens</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Dane tymczasowe</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Dados provisórios</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Date provizorii</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Predbežné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Začasni podatki</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Tillfälliga uppgifter</skos:prefLabel>
+      <at:authority-code>OP_DATPRO</at:authority-code>
+      <at:op-code>OP_DATPRO</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>OP_DATPRO</atold:op-code>
+      <dc:identifier>OP_DATPRO</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/grammatical-alternation"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/grammatical-alternation"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/grammatical-alternation/V"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Гласна</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">V případě samohlásky</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Vokal</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Vokal</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Φωνήεν</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Vowel</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Vocal</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Täishäälik</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Vokaali</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Voyelle</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Guta</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Samoglasnik</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Magánhangzó</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Vocale</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Balsė</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Patskanis</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Vokali</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Klinker</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Samogłoskowy</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Vogal</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Vocală</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Samohláska</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Samoglasnik</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Vokal</skos:prefLabel>
+      <at:authority-code>V</at:authority-code>
+      <at:op-code>V</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>V</atold:op-code>
+      <dc:identifier>V</dc:identifier>
+      <skos:definition xml:lang="en">Number form used in Maltese before words beginning with a vowel, before one-syllable words beginning with one consonant and before two-syllable words beginning with two consonants to which the euphonic vowel i- is added.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/grammatical-alternation"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/grammatical-alternation"/>
+   </skos:Concept>
+</rdf:RDF>

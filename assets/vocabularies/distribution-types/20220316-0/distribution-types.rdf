@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:at="http://publications.europa.eu/ontology/authority/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:atold="http://publications.europa.eu/resource/authority/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xml:base="http://publications.europa.eu/resource/authority/distribution-type">
+   <skos:ConceptScheme rdf:about="http://publications.europa.eu/resource/authority/distribution-type"
+                       at:table.id="distribution-type"
+                       at:table.version.number="20220316-0">
+      <at:prefLabel xml:lang="en">Distribution type</at:prefLabel>
+      <rdfs:label xml:lang="en">Distribution type</rdfs:label>
+      <owl:versionInfo>20220316-0</owl:versionInfo>
+      <skos:prefLabel xml:lang="en">Distribution type</skos:prefLabel>
+   </skos:ConceptScheme>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Файл за сваляне</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Soubor, který lze stáhnout</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Fil, som kan downloades</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Herunterladbare Datei</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Μεταφορτώσιμο αρχείο</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Downloadable file</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Archivo descargable</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Allalaetav fail</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Ladattavissa oleva tiedosto</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Fichier téléchargeable</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Comhad in‑íoslódáilte</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Datoteka za preuzimanje</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Letölthető fájl</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">File scaricabile</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Rinkmena, kurią galima parsisiųsti</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Lejupielādējama datne</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Fajl li jista' jiġi ddawnlowdjat</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Downloadbaar bestand</skos:prefLabel>
+      <skos:prefLabel xml:lang="no">Nedlastbar fil</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Plik do pobrania</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Ficheiro descarregável</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Fișier descărcabil</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Prevzateľný súbor</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Prenosljiva datoteka</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Nedladdningsbar fil</skos:prefLabel>
+      <at:authority-code>DOWNLOADABLE_FILE</at:authority-code>
+      <at:op-code>DOWNLOADABLE_FILE</at:op-code>
+      <at:start.use>2013-01-01</at:start.use>
+      <atold:op-code>DOWNLOADABLE_FILE</atold:op-code>
+      <dc:identifier>DOWNLOADABLE_FILE</dc:identifier>
+      <skos:definition xml:lang="en">A downloadable file for the dataset.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/distribution-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/distribution-type"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Информационен канал</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Informační kanál</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Informationsfeed</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Informations-Feed</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Ροή πληροφοριών</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Information feed</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Flujo de información</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Infovoog</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Tietosyöte</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Fil d'information</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Fotha eolais</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Izvor informacija</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Információs csatorna</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Feed di informazioni</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Informacijos sklaidos kanalas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Informācijas plūsma</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Sors ta' informazzjoni</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Informatiefeed</skos:prefLabel>
+      <skos:prefLabel xml:lang="no">Informasjonsfeed</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Kanał informacyjny</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Fluxo de informação</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Flux de informații</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Informačný kanál</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Informacijski kanal</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Informationsflöde</skos:prefLabel>
+      <at:authority-code>FEED_INFO</at:authority-code>
+      <at:op-code>FEED_INFO</at:op-code>
+      <at:start.use>2013-01-01</at:start.use>
+      <atold:op-code>FEED_INFO</atold:op-code>
+      <dc:identifier>FEED_INFO</dc:identifier>
+      <skos:definition xml:lang="en">A resource that provides an information feed, e.g. RSS feed.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/distribution-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/distribution-type"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Визуализация</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Vizualizace</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Visualisering</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Visualisierung</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Οπτική εμφάνιση</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Visualization</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Visualización</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Visuaalne kuju</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Visualisointi</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Visualisation</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Amharcléiriú</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Vizualizacija</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Megjelenítés</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Visualizzazione</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Vizualizacija</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Vizualizācija</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Viżwalizzazzjoni</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Visualisatie</skos:prefLabel>
+      <skos:prefLabel xml:lang="no">Visualisering</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Wizualizacja</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Visualização</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Vizualizare</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Vizualizácia</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Vizualizacija</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Visualisering</skos:prefLabel>
+      <at:authority-code>VISUALIZATION</at:authority-code>
+      <at:op-code>VISUALIZATION</at:op-code>
+      <at:start.use>2013-01-01</at:start.use>
+      <atold:op-code>VISUALIZATION</atold:op-code>
+      <dc:identifier>VISUALIZATION</dc:identifier>
+      <skos:definition xml:lang="en">A visualization of the dataset.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/distribution-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/distribution-type"/>
+      <skos:changeNote xml:lang="en">See email sent by Agnieszka ZAJAC on 20160527.</skos:changeNote>
+      <skos:historyNote xml:lang="en">EU Open Data Portal needed this concept as a distribution type instead of a documentation type.</skos:historyNote>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Уеб услуга/API</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Internetová služba / API</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Webtjeneste/API</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Web-Dienst/API</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Διαδικτυακή υπηρεσία/API</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Web service/API</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Servicio web/API</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Veebiteenus/API</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Verkkopalvelu/API</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Service web/API</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Seirbhís gréasáin/API</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Internetska usluga / API</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Webszolgáltatás/API</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Servizio web/API</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Saityno paslauga / API sąsaja</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Tīmekļa pakalpojums/API</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Servizz web/API</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Webservice/API</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Usługa sieciowa / API</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Serviço Web/API</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Serviciu web/API</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Webová služba/API</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Spletna storitev/API</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Webbtjänst/API</skos:prefLabel>
+      <at:authority-code>WEB_SERVICE</at:authority-code>
+      <at:op-code>WEB_SERVICE</at:op-code>
+      <at:start.use>2013-01-01</at:start.use>
+      <atold:op-code>WEB_SERVICE</atold:op-code>
+      <dc:identifier>WEB_SERVICE</dc:identifier>
+      <skos:definition xml:lang="en">A resource that holds a web service to the dataset.</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/distribution-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/distribution-type"/>
+      <skos:altLabel xml:lang="bg">Уеб услуга</skos:altLabel>
+      <skos:altLabel xml:lang="cs">Webová služba</skos:altLabel>
+      <skos:altLabel xml:lang="da">Webtjeneste</skos:altLabel>
+      <skos:altLabel xml:lang="de">Web-Service</skos:altLabel>
+      <skos:altLabel xml:lang="el">Διαδικτυακή υπηρεσία</skos:altLabel>
+      <skos:altLabel xml:lang="en">Web service</skos:altLabel>
+      <skos:altLabel xml:lang="es">Servicio web</skos:altLabel>
+      <skos:altLabel xml:lang="et">Veebiteenus</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Verkkopalvelu</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Service web</skos:altLabel>
+      <skos:altLabel xml:lang="ga">Seirbhís gréasáin</skos:altLabel>
+      <skos:altLabel xml:lang="hr">Web-usluga</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Webszolgáltatás</skos:altLabel>
+      <skos:altLabel xml:lang="it">Servizio web</skos:altLabel>
+      <skos:altLabel xml:lang="lt">Saityno paslauga</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Tīmekļa pakalpojums</skos:altLabel>
+      <skos:altLabel xml:lang="mt">Servizz tal-Web</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Webservice</skos:altLabel>
+      <skos:altLabel xml:lang="no">Webservice</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Usługa sieciowa</skos:altLabel>
+      <skos:altLabel xml:lang="pt">Serviço web</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Serviciu web</skos:altLabel>
+      <skos:altLabel xml:lang="sk">Webová služba</skos:altLabel>
+      <skos:altLabel xml:lang="sl">Spletna storitev</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Webbtjänstgränssnitt</skos:altLabel>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/distribution-types/OP_DATPRO"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">НЕОКОНЧАТЕЛНИ ДАННИ</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Předběžné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Midlertidige data</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Vorläufige Daten</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Προσωρινά δεδομένα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Provisional data</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Datos provisionales</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Esialgsed andmed</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Alustavat tiedot</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Données provisoires</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Sonraí sealadacha</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Privremeni podaci</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Ideiglenes adatok</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Dati provvisori</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Laikinieji duomenys</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Provizoriski dati</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Dejta provviżorja</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Voorlopige gegevens</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Dane tymczasowe</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Dados provisórios</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Date provizorii</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Predbežné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Začasni podatki</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Tillfälliga uppgifter</skos:prefLabel>
+      <at:authority-code>OP_DATPRO</at:authority-code>
+      <at:op-code>OP_DATPRO</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>OP_DATPRO</atold:op-code>
+      <dc:identifier>OP_DATPRO</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/distribution-type"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/distribution-type"/>
+   </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:at="http://publications.europa.eu/ontology/authority/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:euvoc="http://publications.europa.eu/ontology/euvoc#"
+         xmlns:dct="http://purl.org/dc/terms/"
+         xmlns:atold="http://publications.europa.eu/resource/authority/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xml:base="http://publications.europa.eu/resource/authority/product-form">
+   <skos:ConceptScheme rdf:about="http://publications.europa.eu/resource/authority/product-form"
+                       at:table.id="product-form"
+                       at:table.version.number="20220406-0">
+      <at:prefLabel xml:lang="en">Product form</at:prefLabel>
+      <rdfs:label xml:lang="en">Product form</rdfs:label>
+      <owl:versionInfo>20220406-0</owl:versionInfo>
+      <skos:prefLabel xml:lang="en">Product form</skos:prefLabel>
+   </skos:ConceptScheme>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/product-form/0671fcb193e613f977bcc36b3da32325">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1951-01-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-01</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/ONIX"/>
+      <rdf:value>XF</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/product-form/1191b7193c6e76fbf92f4bbc05c0b66e">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1951-01-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-01</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/ONIX"/>
+      <rdf:value>PJ</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/product-form/147aa612d0cc2bec0560f18aabc181b3">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1951-01-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-01</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/ONIX"/>
+      <rdf:value>BD</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/product-form/484b5db8ec6ec4732d1430099f7a52f9">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1951-01-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-01</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/ONIX"/>
+      <rdf:value>BC</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/product-form/4d91176a8a8d72d2470e9ecbbc6a8c26">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1951-01-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-01</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/ONIX"/>
+      <rdf:value>PM</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/product-form/530f3a6fb460e9e2ad65c36c956b8746">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1951-01-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-01</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/ONIX"/>
+      <rdf:value>DM</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/product-form/6b00a2ee84e53a84f8278dc9bdb111fa">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1951-01-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-01</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/ONIX"/>
+      <rdf:value>PK</rdf:value>
+   </euvoc:XlNotation>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/product-form/9b1a48a2acd133b7de7798fdc1d50e9e">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1951-01-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-01</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/ONIX"/>
+      <rdf:value>BB</rdf:value>
+   </euvoc:XlNotation>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/product-form/ADB"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="en">Audiobook</skos:prefLabel>
+      <skos:prefLabel xml:lang="bg">Аудиокнига</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Audiokniha</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Lydbog</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Hörbuch</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Ηχητικό βιβλίο</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Audiolibro</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Audioraamat</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Äänikirja</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Livre audio</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Closleabhar</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Audioknjiga</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Hangoskönyv</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Audiolibro</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Garso knyga</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Audiogrāmata</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Audiobook</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Audioboek</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Audiobook</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Audiolivro</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Carte audio</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Audiokniha</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Zvočna knjiga</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Ljudbok</skos:prefLabel>
+      <at:authority-code>ADB</at:authority-code>
+      <at:op-code>ADB</at:op-code>
+      <at:start.use>1951-01-01</at:start.use>
+      <atold:op-code>ADB</atold:op-code>
+      <dc:identifier>ADB</dc:identifier>
+      <skos:changeNote xml:lang="en">245 $h, 300 $a, 300 $e ADB</skos:changeNote>
+      <skos:definition xml:lang="en">Audiobook</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/product-form"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/product-form"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/product-form/APP"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="en">Mobile application</skos:prefLabel>
+      <skos:prefLabel xml:lang="bg">Мобилно приложение</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Mobilní aplikace</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Mobilapplikation</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Mobile Anwendung</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Εφαρμογή για κινητές συσκευές</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Aplicación para móvil</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Mobiilirakendus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Mobiilisovellus</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Application mobile</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Feidhmchlár móibíleach</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Mobilna aplikacija</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Mobilalkalmazás</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Applicazione mobile</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Mobilioji programėlė</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Mobilā lietojumprogramma</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Applikazzjoni mobbli</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Mobiele applicatie</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Aplikacja mobilna</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Aplicação móvel</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Aplicație pentru dispozitive mobile</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Mobilná aplikácia</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Mobilna aplikacija</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Mobilapplikation</skos:prefLabel>
+      <at:authority-code>APP</at:authority-code>
+      <at:op-code>APP</at:op-code>
+      <at:start.use>1951-01-01</at:start.use>
+      <atold:op-code>APP</atold:op-code>
+      <dc:identifier>APP</dc:identifier>
+      <skos:changeNote xml:lang="en">245 $h, 300 $a, 300 $e APP</skos:changeNote>
+      <skos:definition xml:lang="en">Mobile application</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/product-form"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/product-form"/>
+      <skos:altLabel xml:lang="da">Mobilapp</skos:altLabel>
+      <skos:altLabel xml:lang="de">Mobile App</skos:altLabel>
+      <skos:altLabel xml:lang="el">Εφαρμογή για κινητά</skos:altLabel>
+      <skos:altLabel xml:lang="en">Mobile app</skos:altLabel>
+      <skos:altLabel xml:lang="es">App para móvil</skos:altLabel>
+      <skos:altLabel xml:lang="fi">Mobiiliappi</skos:altLabel>
+      <skos:altLabel xml:lang="fr">Appli mobile</skos:altLabel>
+      <skos:altLabel xml:lang="ga">Aip mhóibíleach</skos:altLabel>
+      <skos:altLabel xml:lang="hu">Mobilapp</skos:altLabel>
+      <skos:altLabel xml:lang="it">App mobile</skos:altLabel>
+      <skos:altLabel xml:lang="lv">Mobilā lietotne</skos:altLabel>
+      <skos:altLabel xml:lang="mt">App tal-mobile</skos:altLabel>
+      <skos:altLabel xml:lang="nl">Mobiele app</skos:altLabel>
+      <skos:altLabel xml:lang="pl">Aplikacja na telefon</skos:altLabel>
+      <skos:altLabel xml:lang="ro">Aplicație mobilă</skos:altLabel>
+      <skos:altLabel xml:lang="sv">Mobilapp</skos:altLabel>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/product-form/BOOKMARK"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="en">Bookmark</skos:prefLabel>
+      <skos:prefLabel xml:lang="bg">Книгоразделител</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Záložka</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Bogmærke</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Lesezeichen</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Σελιδοδείκτης</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Marcador</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Lisa järjehoidja</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Kirjanmerkki</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Marque-page</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Leabharmharc</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Knjižna oznaka</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Könyvjelző</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Segnalibro</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Pažymėti</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Grāmatzīme</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Markapaġna</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Bladwijzer</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Zakladka</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Marcador</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Semn de carte</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Záložka</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Zaznamek</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Bokmärke</skos:prefLabel>
+      <at:authority-code>BOOKMARK</at:authority-code>
+      <at:op-code>BOOKMARK</at:op-code>
+      <at:start.use>1951-01-01</at:start.use>
+      <atold:op-code>BOOKMARK</atold:op-code>
+      <dc:identifier>BOOKMARK</dc:identifier>
+      <skos:changeNote xml:lang="en">300 $a BKM</skos:changeNote>
+      <skos:changeNote xml:lang="en">ONIX List 150:</skos:changeNote>
+      <skos:definition xml:lang="en">Bookmark</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/product-form"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/product-form"/>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>ONIX</dc:source>
+            <at:legacy-code>PT</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/product-form/ed074a85ebda6cda4b8328681718841f"/>
+   </skos:Concept>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/product-form/ed074a85ebda6cda4b8328681718841f">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1951-01-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-01</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/ONIX"/>
+      <rdf:value>PT</rdf:value>
+   </euvoc:XlNotation>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/product-form/CDROM"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="en">CD-ROM</skos:prefLabel>
+      <skos:prefLabel xml:lang="bg">CD-ROM</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">CD-ROM</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">CD-rom</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">CD-ROM</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">CD-ROM</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">CD-ROM</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">CD-ROM</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">CD-ROM</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">CD-ROM</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">CD-ROM</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">CD-ROM</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">CD-ROM</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">CD-ROM</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">CD-ROM</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">CD-ROM</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">CD-ROM</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Cd-rom</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">CD-ROM</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">CD-ROM</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">CD-ROM</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">CD-ROM</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">CD-ROM</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Cd-rom</skos:prefLabel>
+      <at:authority-code>CDROM</at:authority-code>
+      <at:op-code>CDROM</at:op-code>
+      <at:start.use>1951-01-01</at:start.use>
+      <atold:op-code>CDROM</atold:op-code>
+      <dc:identifier>CDROM</dc:identifier>
+      <skos:changeNote xml:lang="en">$h cd in 245/246 and/or 300 $a CD</skos:changeNote>
+      <skos:definition xml:lang="en">CD-ROM</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/product-form"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/product-form"/>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>ONIX</dc:source>
+            <at:legacy-code>DB</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/product-form/b1b94ef28b1d55a98995ac902cc18d7b"/>
+   </skos:Concept>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/product-form/b1b94ef28b1d55a98995ac902cc18d7b">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1951-01-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-01</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/ONIX"/>
+      <rdf:value>DB</rdf:value>
+   </euvoc:XlNotation>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/product-form/DVDROM"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="en">DVD-ROM</skos:prefLabel>
+      <skos:prefLabel xml:lang="bg">DVD-ROM</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">DVD-ROM</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">DVD</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">DVD-ROM</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">DVD-ROM</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">DVD-ROM</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">DVD-ROM</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">DVD-ROM</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">DVD-ROM</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">DVD-ROM</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">DVD-ROM</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">DVD-ROM</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">DVD-ROM</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">DVD-ROM</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">DVD-ROM</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">DVD-ROM</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Dvd-rom</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">DVD-ROM</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">DVD-ROM</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">DVD-ROM</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">DVD-ROM</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">DVD-ROM</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Dvd-rom</skos:prefLabel>
+      <at:authority-code>DVDROM</at:authority-code>
+      <at:op-code>DVDROM</at:op-code>
+      <at:start.use>1951-01-01</at:start.use>
+      <atold:op-code>DVDROM</atold:op-code>
+      <dc:identifier>DVDROM</dc:identifier>
+      <skos:changeNote xml:lang="en">$h dvd in 245/246 and/or 300 $a DVD</skos:changeNote>
+      <skos:definition xml:lang="en">DVD-ROM</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/product-form"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/product-form"/>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>ONIX</dc:source>
+            <at:legacy-code>DI</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/product-form/d8a98cde3dff00e643536b51333a97d2"/>
+   </skos:Concept>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/product-form/d8a98cde3dff00e643536b51333a97d2">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1951-01-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-01</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/ONIX"/>
+      <rdf:value>DI</rdf:value>
+   </euvoc:XlNotation>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/product-form/FOLDER"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Папка</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Složka</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Pjece</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Ordner</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Φάκελος</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Folder</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Expediente</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Kaust</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Kansio</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Dossier</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Fillteán</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Fascikl</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Mappa</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Cartella</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Aplankas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Mape</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Folder</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Omslag</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Folder</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Pasta</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Dosar</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Spisový obal</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Mapa</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Mapp</skos:prefLabel>
+      <at:authority-code>FOLDER</at:authority-code>
+      <at:op-code>FOLDER</at:op-code>
+      <at:start.use>1951-01-01</at:start.use>
+      <atold:op-code>FOLDER</atold:op-code>
+      <dc:identifier>FOLDER</dc:identifier>
+      <skos:changeNote xml:lang="en">300 $a FOL</skos:changeNote>
+      <skos:changeNote xml:lang="en">ONIX List 150: Wallet or folder (containing loose sheets etc): it is preferable to code the contents and treat ʻwalletʼ as packaging (List 80), but if this is not possible the product as a whole may be coded as a 'wallet'.</skos:changeNote>
+      <skos:definition xml:lang="en">Folder containing sheets</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/product-form"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/product-form"/>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>ONIX</dc:source>
+            <at:legacy-code>PM</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/product-form/4d91176a8a8d72d2470e9ecbbc6a8c26"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/product-form/LEAFLET"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="ga">Fillteán</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Leaflet</skos:prefLabel>
+      <skos:prefLabel xml:lang="bg">Брошура</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Prospekt</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Folder</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Broschüre</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">φυλλάδιο</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Folleto</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Reklaamleht</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Esite</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Dépliant</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Letak</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Szórólap</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Opuscolo</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Lapelis</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Lapiņa</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Fuljett</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Brochure</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Druczek</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Folheto</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Frunzişoară</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Prospekt</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Letak</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Folder</skos:prefLabel>
+      <at:authority-code>LEAFLET</at:authority-code>
+      <at:op-code>LEAFLET</at:op-code>
+      <at:start.use>1951-01-01</at:start.use>
+      <atold:op-code>LEAFLET</atold:op-code>
+      <dc:identifier>LEAFLET</dc:identifier>
+      <skos:changeNote xml:lang="en">No $h in 245/246, 300 $a DEP</skos:changeNote>
+      <skos:definition xml:lang="en">Leaflet</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/product-form"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/product-form"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/product-form/OP_DATPRO"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Неокончателни данни</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Předběžné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Midlertidige data</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Vorläufige Daten</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Προσωρινά δεδομένα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Provisional data</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Datos provisionales</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Esialgsed andmed</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Alustavat tiedot</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Données provisoires</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Sonraí sealadacha</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Privremeni podaci</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Ideiglenes adatok</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Dati provvisori</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Laikinieji duomenys</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Provizoriski dati</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Dejta provviżorja</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Voorlopige gegevens</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Dane tymczasowe</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Dados provisórios</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Date provizorii</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Predbežné údaje</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Začasni podatki</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Tillfälliga uppgifter</skos:prefLabel>
+      <at:authority-code>OP_DATPRO</at:authority-code>
+      <at:op-code>OP_DATPRO</at:op-code>
+      <at:start.use>1952-07-23</at:start.use>
+      <atold:op-code>OP_DATPRO</atold:op-code>
+      <dc:identifier>OP_DATPRO</dc:identifier>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/product-form"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/product-form"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/product-form/POSTCARD"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="en">Postcard</skos:prefLabel>
+      <skos:prefLabel xml:lang="bg">Пощенска картичка</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Pohlednice</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Postkort</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Postkarte</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Κάρτα</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Tarjeta postal</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Postkaart</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Postikortti</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Carte postale</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Cárta Poist</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Dopisnica</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Képeslap</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Cartolina</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Atvirukas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Pastkarte</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Kartolina</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Ansichtkaart</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Pocztówka</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Postal</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Carte poștală</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Pohľadnica</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Razglednica</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Vykort</skos:prefLabel>
+      <at:authority-code>POSTCARD</at:authority-code>
+      <at:op-code>POSTCARD</at:op-code>
+      <at:start.use>1951-01-01</at:start.use>
+      <atold:op-code>POSTCARD</atold:op-code>
+      <dc:identifier>POSTCARD</dc:identifier>
+      <skos:changeNote xml:lang="en">ONIX List 150:</skos:changeNote>
+      <skos:changeNote xml:lang="en">No $h in 245/246, 300 $a CART</skos:changeNote>
+      <skos:definition xml:lang="en">Postcard</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/product-form"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/product-form"/>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>ONIX</dc:source>
+            <at:legacy-code>PJ</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/product-form/1191b7193c6e76fbf92f4bbc05c0b66e"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/product-form/POSTER"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Плакат</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Plakát</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Plakat</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Plakat</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Αφίσα</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Poster</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Cartel</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Juliste</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Affiche</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Póstaer</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Plakat</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Poszter</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Manifesto</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Plakatas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Plakāts</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Poster</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Poster</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Plakat</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Cartaz</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Afiș</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Plagát</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Plakat</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Affisch</skos:prefLabel>
+      <at:authority-code>POSTER</at:authority-code>
+      <at:op-code>POSTER</at:op-code>
+      <at:start.use>1951-01-01</at:start.use>
+      <atold:op-code>POSTER</atold:op-code>
+      <dc:identifier>POSTER</dc:identifier>
+      <skos:changeNote xml:lang="en">020 $a (ISBN) and 300 $a POS</skos:changeNote>
+      <skos:changeNote xml:lang="en">ONIX List 150: Poster for retail sale - see also XF.</skos:changeNote>
+      <skos:definition xml:lang="en">Poster with ISBN</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/product-form"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/product-form"/>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>ONIX</dc:source>
+            <at:legacy-code>PK</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/product-form/6b00a2ee84e53a84f8278dc9bdb111fa"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/product-form/POSTER_PROM"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Плакат, рекламен</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Plakát, propagační</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Reklameplakat</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Werbeplakat</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Αφίσα, προωθητική</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Poster, promotional</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Cartel promocional</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Reklaamplakat</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Mainosjuliste</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Affiche, promotionnelle</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Póstaer promóisin</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Plakat, promidžba</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Poszter, promóciós</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Manifesto, promozionale</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Plakatas, reklaminis</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Plakāts, reklāma</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Poster, promozzjonali</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Reclameposter</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Plakat promocyjny</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Cartaz promocional</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Afiș, promoțional</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Plagát, propagačný</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Plakat, promocijski</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Reklamaffisch</skos:prefLabel>
+      <at:authority-code>POSTER_PROM</at:authority-code>
+      <at:op-code>POSTER_PROM</at:op-code>
+      <at:start.use>1951-01-01</at:start.use>
+      <atold:op-code>POSTER_PROM</atold:op-code>
+      <dc:identifier>POSTER_PROM</dc:identifier>
+      <skos:changeNote xml:lang="en">No 020 $a (ISBN) and 300 $a POS</skos:changeNote>
+      <skos:changeNote xml:lang="en">ONIX List 150: Promotional poster for display, not for sale – see also PK.</skos:changeNote>
+      <skos:definition xml:lang="en">Poster without ISBN (for publicity)</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/product-form"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/product-form"/>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>ONIX</dc:source>
+            <at:legacy-code>XF</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/product-form/0671fcb193e613f977bcc36b3da32325"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/product-form/PRINT"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Печатно издание</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Tištěná podoba</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Trykt</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Druck</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Eκτύπωση</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Print</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Impreso</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Trukis</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Painettu</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Imprimé</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Tiskano izdanje</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Nyomtatott</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Stampato</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Spausdinta</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Drukāts</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Stampa</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Gedrukt</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Druk</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Impresso</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Imprimare</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Tlačené vydanie</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Tiskana izdaja</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Tryckt</skos:prefLabel>
+      <at:authority-code>PRINT</at:authority-code>
+      <at:op-code>PRINT</at:op-code>
+      <at:start.use>1951-01-01</at:start.use>
+      <atold:op-code>PRINT</atold:op-code>
+      <dc:identifier>PRINT</dc:identifier>
+      <skos:changeNote xml:lang="en">No $h in 245/246</skos:changeNote>
+      <skos:changeNote xml:lang="en">ONIX List 150: Book - detail unspecified</skos:changeNote>
+      <skos:definition xml:lang="en">Print publication for which no further details are yet available</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/product-form"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/product-form"/>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>ONIX</dc:source>
+            <at:legacy-code>BA</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/product-form/a1ca1b9c4cd71aa30645f16894b088ff"/>
+   </skos:Concept>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/product-form/a1ca1b9c4cd71aa30645f16894b088ff">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1951-01-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-01</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/ONIX"/>
+      <rdf:value>BA</rdf:value>
+   </euvoc:XlNotation>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/product-form/PRINT_HRDCV"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="en">Print (hardcover)</skos:prefLabel>
+      <at:authority-code>PRINT_HRDCV</at:authority-code>
+      <at:op-code>PRINT_HRDCV</at:op-code>
+      <at:start.use>1951-01-01</at:start.use>
+      <atold:op-code>PRINT_HRDCV</atold:op-code>
+      <dc:identifier>PRINT_HRDCV</dc:identifier>
+      <skos:changeNote xml:lang="en">No $h in 245/246, 300 $d RE</skos:changeNote>
+      <skos:changeNote xml:lang="en">ONIX List 150: Hardback or cased book.</skos:changeNote>
+      <skos:definition xml:lang="en">Hardcover</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/product-form"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/product-form"/>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>ONIX</dc:source>
+            <at:legacy-code>BB</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/product-form/9b1a48a2acd133b7de7798fdc1d50e9e"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/product-form/PRINT_LOSL"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="en">Print (looseleaf)</skos:prefLabel>
+      <at:authority-code>PRINT_LOSL</at:authority-code>
+      <at:op-code>PRINT_LOSL</at:op-code>
+      <at:start.use>1951-01-01</at:start.use>
+      <atold:op-code>PRINT_LOSL</atold:op-code>
+      <dc:identifier>PRINT_LOSL</dc:identifier>
+      <skos:changeNote xml:lang="en">No $h in 245/246, 300 $d FM</skos:changeNote>
+      <skos:changeNote xml:lang="en">ONIX List 150: Loose-leaf book.</skos:changeNote>
+      <skos:definition xml:lang="en">Looseleaf</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/product-form"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/product-form"/>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>ONIX</dc:source>
+            <at:legacy-code>BD</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/product-form/147aa612d0cc2bec0560f18aabc181b3"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/product-form/PRINT_RGBD"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="en">Print (ringbinder)</skos:prefLabel>
+      <at:authority-code>PRINT_RGBD</at:authority-code>
+      <at:op-code>PRINT_RGBD</at:op-code>
+      <at:start.use>1951-01-01</at:start.use>
+      <atold:op-code>PRINT_RGBD</atold:op-code>
+      <dc:identifier>PRINT_RGBD</dc:identifier>
+      <skos:changeNote xml:lang="en">No $h in 245/246, 300 $d CL</skos:changeNote>
+      <skos:changeNote xml:lang="en">ONIX List 150: Spiral, comb or coil bound book.</skos:changeNote>
+      <skos:definition xml:lang="en">Ringbinder</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/product-form"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/product-form"/>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>ONIX</dc:source>
+            <at:legacy-code>BE</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/product-form/e3c93b6c4eb730d995145cc28f5f0d10"/>
+   </skos:Concept>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/product-form/e3c93b6c4eb730d995145cc28f5f0d10">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1951-01-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-01</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/ONIX"/>
+      <rdf:value>BE</rdf:value>
+   </euvoc:XlNotation>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/product-form/PRINT_SFTCV"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="en">Print (softcover)</skos:prefLabel>
+      <at:authority-code>PRINT_SFTCV</at:authority-code>
+      <at:op-code>PRINT_SFTCV</at:op-code>
+      <at:start.use>1951-01-01</at:start.use>
+      <atold:op-code>PRINT_SFTCV</atold:op-code>
+      <dc:identifier>PRINT_SFTCV</dc:identifier>
+      <skos:changeNote xml:lang="en">No $h in 245/246, 300 $d BR</skos:changeNote>
+      <skos:changeNote xml:lang="en">ONIX List 150: Paperback or other softback book.</skos:changeNote>
+      <skos:definition xml:lang="en">Softcover</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/product-form"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/product-form"/>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>ONIX</dc:source>
+            <at:legacy-code>BC</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/product-form/484b5db8ec6ec4732d1430099f7a52f9"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/product-form/PRINT_STPL"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="en">Print (stapled)</skos:prefLabel>
+      <at:authority-code>PRINT_STPL</at:authority-code>
+      <at:op-code>PRINT_STPL</at:op-code>
+      <at:start.use>1951-01-01</at:start.use>
+      <atold:op-code>PRINT_STPL</atold:op-code>
+      <dc:identifier>PRINT_STPL</dc:identifier>
+      <skos:changeNote xml:lang="en">No $h in 245/246, 300 $d AG</skos:changeNote>
+      <skos:changeNote xml:lang="en">ONIX List 150: Pamphlet or brochure, stapled; German ʻgeheftetʼ.</skos:changeNote>
+      <skos:definition xml:lang="en">Stapled</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/product-form"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/product-form"/>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>ONIX</dc:source>
+            <at:legacy-code>BF</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/product-form/cfb92e7f3a6e9f0ba5acf7ed812b3b78"/>
+   </skos:Concept>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/product-form/cfb92e7f3a6e9f0ba5acf7ed812b3b78">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1951-01-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-01</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/ONIX"/>
+      <rdf:value>BF</rdf:value>
+   </euvoc:XlNotation>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/product-form/SHEET_MAP"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">Карта</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Mapa</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">Kort over ark</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">Karte</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Μη αναδιπλούμενος χάρτης</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">Sheet map</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Mapa</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">Lehe kaart</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">Karttalehti</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Carte</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Léarscáil leatháin</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Zemljovid</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">Posztertérkép</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Cartina su foglio</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">Dokumentų aplankas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">Lapas karte</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">Folja ta’ mappa</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">Landkaart</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Mapa (arkusz)</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Mapa</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Hartă a foilor</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Mapa</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Zemljevid</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Kartblad</skos:prefLabel>
+      <at:authority-code>SHEET_MAP</at:authority-code>
+      <at:op-code>SHEET_MAP</at:op-code>
+      <at:start.use>1951-01-01</at:start.use>
+      <atold:op-code>SHEET_MAP</atold:op-code>
+      <dc:identifier>SHEET_MAP</dc:identifier>
+      <skos:changeNote xml:lang="en">$h map in 245/246 and/or 300 $a MAP</skos:changeNote>
+      <skos:definition xml:lang="en">Map</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/product-form"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/product-form"/>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>ONIX</dc:source>
+            <at:legacy-code>CA</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/product-form/d9f68e990041a171fcc10a6b3fc836cc"/>
+   </skos:Concept>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/product-form/d9f68e990041a171fcc10a6b3fc836cc">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1951-01-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-01</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/ONIX"/>
+      <rdf:value>CA</rdf:value>
+   </euvoc:XlNotation>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/product-form/USB_FD"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">USB устройство</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Paměťová jednotka USB</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">USB-flashdrev</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">USB-Speicher-Stick</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Μονάδα flash USB</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">USB flash drive</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Memoria USB</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">USB-mälupulk</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">USB-muisti</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Clé USB à mémoire flash</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Flaistiomántán USB</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">USB flash memorija</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">USB-flash-tároló</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Chiave USB</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">USB atmintukas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">USB zibatmiņa</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">USB flash drive</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">USB-stick</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Pamięć USB</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Memória USB</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Unitate flash USB</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">USB flash disk</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Pomnilniški ključek USB</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Usb-minne</skos:prefLabel>
+      <at:authority-code>USB_FD</at:authority-code>
+      <at:op-code>USB_FD</at:op-code>
+      <at:start.use>1951-01-01</at:start.use>
+      <atold:op-code>USB_FD</atold:op-code>
+      <dc:identifier>USB_FD</dc:identifier>
+      <skos:changeNote xml:lang="en">$h er in 245/246 and 300 $a USB</skos:changeNote>
+      <skos:definition xml:lang="en">USB</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/product-form"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/product-form"/>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>ONIX</dc:source>
+            <at:legacy-code>DM</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/product-form/530f3a6fb460e9e2ad65c36c956b8746"/>
+   </skos:Concept>
+   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/product-form/VIDEO_VHS"
+                 at:deprecated="false">
+      <skos:prefLabel xml:lang="bg">VHS видеоматериал</skos:prefLabel>
+      <skos:prefLabel xml:lang="cs">Video VHS</skos:prefLabel>
+      <skos:prefLabel xml:lang="da">VHS-video</skos:prefLabel>
+      <skos:prefLabel xml:lang="de">VHS-video</skos:prefLabel>
+      <skos:prefLabel xml:lang="el">Βίντεο VHS</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">VHS Video</skos:prefLabel>
+      <skos:prefLabel xml:lang="es">Vídeo VHS</skos:prefLabel>
+      <skos:prefLabel xml:lang="et">VHS-video</skos:prefLabel>
+      <skos:prefLabel xml:lang="fi">VHS-video</skos:prefLabel>
+      <skos:prefLabel xml:lang="fr">Vidéo VHS</skos:prefLabel>
+      <skos:prefLabel xml:lang="ga">Físeán VHS</skos:prefLabel>
+      <skos:prefLabel xml:lang="hr">Videozapis VHS-a</skos:prefLabel>
+      <skos:prefLabel xml:lang="hu">VHS-videó</skos:prefLabel>
+      <skos:prefLabel xml:lang="it">Video VHS</skos:prefLabel>
+      <skos:prefLabel xml:lang="lt">VHS vaizdo įrašas</skos:prefLabel>
+      <skos:prefLabel xml:lang="lv">VHS video</skos:prefLabel>
+      <skos:prefLabel xml:lang="mt">VHS video</skos:prefLabel>
+      <skos:prefLabel xml:lang="nl">VHS-video</skos:prefLabel>
+      <skos:prefLabel xml:lang="pl">Kaseta wideo (VHS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="pt">Videocassete (VHS)</skos:prefLabel>
+      <skos:prefLabel xml:lang="ro">Video VHS</skos:prefLabel>
+      <skos:prefLabel xml:lang="sk">Video VHS</skos:prefLabel>
+      <skos:prefLabel xml:lang="sl">Videoposnetek VHS</skos:prefLabel>
+      <skos:prefLabel xml:lang="sv">Vhs-film</skos:prefLabel>
+      <at:authority-code>VIDEO_VHS</at:authority-code>
+      <at:op-code>VIDEO_VHS</at:op-code>
+      <at:start.use>1951-01-01</at:start.use>
+      <atold:op-code>VIDEO_VHS</atold:op-code>
+      <dc:identifier>VIDEO_VHS</dc:identifier>
+      <skos:changeNote xml:lang="en">$h vid or ENRV in 245/246</skos:changeNote>
+      <skos:changeNote xml:lang="en">ONIX List 150: VHS videotape: specify TV standard in List 78.</skos:changeNote>
+      <skos:definition xml:lang="en">Video</skos:definition>
+      <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/product-form"/>
+      <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/product-form"/>
+      <at:op-mapped-code>
+         <at:MappedCode>
+            <dc:source>ONIX</dc:source>
+            <at:legacy-code>VJ</at:legacy-code>
+         </at:MappedCode>
+      </at:op-mapped-code>
+      <skos:notation rdf:resource="http://publications.europa.eu/resource/authority/product-form/be076a1d95f6665ecf3e0dca3d051702"/>
+   </skos:Concept>
+   <euvoc:XlNotation rdf:about="http://publications.europa.eu/resource/authority/product-form/be076a1d95f6665ecf3e0dca3d051702">
+      <rdf:type rdf:resource="http://publications.europa.eu/ontology/euvoc#XlNotation"/>
+      <euvoc:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1951-01-01</euvoc:startDate>
+      <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-01</dct:created>
+      <dct:type rdf:resource="http://publications.europa.eu/resource/authority/notation-type/ONIX"/>
+      <rdf:value>VJ</rdf:value>
+   </euvoc:XlNotation>
+</rdf:RDF>

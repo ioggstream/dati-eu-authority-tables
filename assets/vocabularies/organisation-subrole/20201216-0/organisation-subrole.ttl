@@ -1,0 +1,442 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/organisation-subrole/OP_DATPRO> a skos:Concept ;
+    at:op-code "OP_DATPRO" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:organisation-subrole ;
+    skos:prefLabel "НЕОКОНЧАТЕЛНИ ДАННИ"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv .
+
+<http://publications.europa.eu/resource/authority/organisation-subrole/bud-pay> a skos:Concept ;
+    at:authority-code "bud-pay" ;
+    at:deprecated "false" ;
+    at:op-code "bud-pay" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "bud-pay" ;
+    dc:identifier "bud-pay" ;
+    skos:inScheme atold:organisation-subrole ;
+    skos:prefLabel "Организация, чийто бюджет се използва за плащане за поръчката"@bg,
+        "Organizace, z jejíhož rozpočtu je zakázka placena"@cs,
+        "Organisation, hvis budget anvendes til at betale for kontrakten"@da,
+        "Organisation, aus deren Mitteln der Auftrag bezahlt wird"@de,
+        "Οργανισμός του οποίου ο προϋπολογισμός χρησιμοποιείται για την πληρωμή της σύμβασης"@el,
+        "Organisation whose budget is used to pay for the contract"@en,
+        "Organización cuyo presupuesto se utiliza para pagar el contrato"@es,
+        "Organisatsioon, kelle eelarvet kasutatakse lepingu eest tasumiseks"@et,
+        "Organisaatio, jonka talousarviota käytetään sopimuksen maksamiseen"@fi,
+        "Organisation dont le budget est utilisé pour payer le marché"@fr,
+        "Eagraíocht a n-úsáidtear a buiséad chun íoc as an gconradh"@ga,
+        "Organizacija iz čijih se proračunskih sredstava plaća ugovor"@hr,
+        "Az a szervezet, amelynek költségvetését a szerződés kifizetésére használják"@hu,
+        "Organizzazione dal cui bilancio è finanziato l'appalto"@it,
+        "Organizacija, iš kurios biudžeto mokama pagal sutartį"@lt,
+        "Organizācija, kuras budžetu izmanto, lai samaksātu par līgumu"@lv,
+        "Organizzazzjoni li l-baġit tagħha jintuża għall-pagament tal-kuntratt"@mt,
+        "Organisatie waarvan het budget wordt gebruikt om voor de opdracht te betalen"@nl,
+        "Organizacja, której budżet jest wykorzystywany do sfinansowania umowy"@pl,
+        "Organização cujo orçamento é utilizado para pagar o contrato"@pt,
+        "Organizația al cărei buget este utilizat pentru plata contractului"@ro,
+        "Organizácia, ktorej rozpočet sa používa na úhradu zákazky"@sk,
+        "Organizacija, katere proračunska sredstva se uporabljajo za plačilo naročila"@sl,
+        "Organisation vars budget används för att betala för kontraktet"@sv .
+
+<http://publications.europa.eu/resource/authority/organisation-subrole/exec-pay> a skos:Concept ;
+    at:authority-code "exec-pay" ;
+    at:deprecated "false" ;
+    at:op-code "exec-pay" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "exec-pay" ;
+    dc:identifier "exec-pay" ;
+    skos:inScheme atold:organisation-subrole ;
+    skos:prefLabel "Организация, която извършва плащането"@bg,
+        "Organizace provádějící platbu"@cs,
+        "Organisation, der udfører betalingen"@da,
+        "Organisation, die die Zahlung ausführt"@de,
+        "Οργανισμός που εκτελεί την πληρωμή"@el,
+        "Organisation executing the payment"@en,
+        "Organización que ejecuta el pago"@es,
+        "Makset teostav organisatsioon"@et,
+        "Maksun suorittava organisaatio"@fi,
+        "Organisation qui exécute le paiement"@fr,
+        "Eagraíocht a dhéanann an íocaíocht"@ga,
+        "Organizacija koja izvršava plaćanje"@hr,
+        "Fizetést végző szervezet"@hu,
+        "Organizzazione che esegue il pagamento"@it,
+        "Organizacija, atliekanti mokėjimus"@lt,
+        "Organizācija, kas izpilda maksājumu"@lv,
+        "Organizzazzjoni li twettaq il-pagament"@mt,
+        "Organisatie die de betaling uitvoert"@nl,
+        "Organizacja realizująca płatność"@pl,
+        "Organização que executa o pagamento"@pt,
+        "Organizația care execută plata"@ro,
+        "Organizácia vykonávajúca platbu"@sk,
+        "Organizacija, ki izvede plačilo"@sl,
+        "Organisation som verkställer betalningen"@sv .
+
+<http://publications.europa.eu/resource/authority/organisation-subrole/group-lead> a skos:Concept ;
+    at:authority-code "group-lead" ;
+    at:deprecated "false" ;
+    at:op-code "group-lead" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "group-lead" ;
+    dc:identifier "group-lead" ;
+    skos:inScheme atold:organisation-subrole ;
+    skos:prefLabel "Водач на група"@bg,
+        "Vedoucí skupiny"@cs,
+        "Gruppeleder"@da,
+        "Federführendes Mitglied"@de,
+        "Επικεφαλής ομάδας"@el,
+        "Group leader"@en,
+        "Jefe de grupo"@es,
+        "Rühmajuht"@et,
+        "Ryhmänvetäjä"@fi,
+        "Chef de groupe"@fr,
+        "Ceannaire grúpa"@ga,
+        "Vođa skupine"@hr,
+        "Csoportvezető"@hu,
+        "Capofila"@it,
+        "Grupės vadovas"@lt,
+        "Grupas vadītājs"@lv,
+        "Mexxej ta' grupp"@mt,
+        "Groepsleider"@nl,
+        "Lider grupy"@pl,
+        "Líder do grupo"@pt,
+        "Lider de grup"@ro,
+        "Vedúci subjekt skupiny"@sk,
+        "Vodja skupine"@sl,
+        "Gruppledare"@sv .
+
+<http://publications.europa.eu/resource/authority/organisation-subrole/info-prov> a skos:Concept ;
+    at:authority-code "info-prov" ;
+    at:deprecated "false" ;
+    at:op-code "info-prov" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "info-prov" ;
+    dc:identifier "info-prov" ;
+    skos:inScheme atold:organisation-subrole ;
+    skos:prefLabel "Организация, която предоставя допълнителна информация за процедурата за възлагане"@bg,
+        "Organizace poskytující další informace o zadávacím řízení"@cs,
+        "Organisation, der leverer supplerende oplysninger om udbudsproceduren"@da,
+        "Organisation, die zusätzliche Informationen über das Vergabeverfahren bereitstellt"@de,
+        "Οργανισμός παροχής πρόσθετων πληροφοριών σχετικά με τη διαδικασία δημόσιων συμβάσεων"@el,
+        "Organisation providing additional information about the procurement procedure"@en,
+        "Organización que proporciona información adicional sobre el procedimiento de contratación"@es,
+        "Organisatsioon, mis annab lisateavet hankemenetluse kohta"@et,
+        "Hankintamenettelystä lisätietoja antava organisaatio"@fi,
+        "Organisation qui fournit des informations complémentaires sur la procédure de passation de marché"@fr,
+        "Eagraíocht a sholáthraíonn faisnéis bhreise faoin nós imeachta soláthair"@ga,
+        "Organizacija koja pruža dodatne informacije o postupku javne nabave"@hr,
+        "A közbeszerzési eljárással kapcsolatban további információt nyújtó szervezet"@hu,
+        "Organizzazione alla quale rivolgersi per informazioni complementari sulla procedura di appalto"@it,
+        "Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą"@lt,
+        "Organizācija, kas sniedz papildu informāciju par iepirkuma procedūru"@lv,
+        "Organizzazzjoni li tipprovdi informazzjoni addizzjonali dwar il-proċedura tal-akkwist"@mt,
+        "Organisatie die nadere inlichtingen over de aanbestedingsprocedure verstrekt"@nl,
+        "Organizacja udzielająca dodatkowych informacji na temat postępowania o udzielenie zamówienia"@pl,
+        "Organização que fornece informações adicionais sobre o processo de adjudicação"@pt,
+        "Organizația care furnizează informații suplimentare cu privire la procedura de achiziții"@ro,
+        "Organizácia poskytujúca doplňujúce informácie o postupe verejného obstarávania"@sk,
+        "Organizacija, ki daje na voljo dodatne informacije o postopku za oddajo javnega naročila"@sl,
+        "Organisation som ger kompletterande information om upphandlingsförfarandet"@sv .
+
+<http://publications.europa.eu/resource/authority/organisation-subrole/lim-prov> a skos:Concept ;
+    at:authority-code "lim-prov" ;
+    at:deprecated "true" ;
+    at:end.use "2020-12-15" ;
+    at:op-code "lim-prov" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "lim-prov" ;
+    dc:identifier "lim-prov" ;
+    skos:inScheme atold:organisation-subrole ;
+    skos:prefLabel "Организация, която предоставя повече информация за сроковете за процедурите за преразглеждане (обжалване)"@bg,
+        "Organizace poskytující další informace o lhůtách pro podání návrhů na přezkum"@cs,
+        "Organisation, der leverer yderligere oplysninger om tidsfristerne for klageprocedurerne"@da,
+        "Organisation, die weitere Informationen über die Fristen für die Nachprüfungsverfahren bereitstellt"@de,
+        "Οργανισμός παροχής περισσότερων πληροφοριών σχετικά με τις προθεσμίες των διαδικασιών προσφυγής"@el,
+        "Organisation providing more information on the time limits for review procedures"@en,
+        "Organización que proporciona más información sobre los plazos para los procedimientos de recurso"@es,
+        "Organisatsioon, mis annab lisateavet läbivaatamismenetluse tähtaegade kohta"@et,
+        "Muutoksenhakumenettelyjen määräajoista lisätietoja tarjoava organisaatio"@fi,
+        "Organisation qui fournit des précisions concernant les délais d’introduction des recours"@fr,
+        "Eagraíocht a sholáthraíonn tuilleadh faisnéise faoi na teorainneacha ama a bhaineann le nósanna imeachta athbhreithnithe"@ga,
+        "Organizacija koja pruža više informacija o rokovima za postupke preispitivanja (pravne zaštite)"@hr,
+        "A felülvizsgálati eljárások határidejével kapcsolatban további információt nyújtó szervezet"@hu,
+        "Organizzazione alla quale rivolgersi per informazioni complementari sui termini per le procedure di ricorso"@it,
+        "Organizacija, teikianti daugiau informacijos apie peržiūros procedūrų terminus"@lt,
+        "Organizācija, kas sniedz sīkāku informāciju par pārskatīšanas procedūru termiņiem"@lv,
+        "Organizzazzjoni li tipprovdi iktar informazzjoni dwar il-limiti ta’ żmien għall-proċeduri tar-rieżami"@mt,
+        "Organisatie die meer informatie geeft over de termijnen voor beroepsprocedures"@nl,
+        "Organizacja udzielająca dodatkowych informacji na temat terminów procedur odwoławczych"@pl,
+        "Organização que fornece mais informações sobre os prazos dos procedimentos de recurso"@pt,
+        "Organizația care furnizează mai multe informații cu privire la termenele pentru căile de atac"@ro,
+        "Organizácia poskytujúca ďalšie informácie o lehotách pre postupy preskúmania"@sk,
+        "Organizacija, ki daje dodatne informacije o rokih revizijskih postopkov"@sl,
+        "Organisation som ger mer information om tidsfristerna för prövningsförfaranden"@sv .
+
+<http://publications.europa.eu/resource/authority/organisation-subrole/offl-acc> a skos:Concept ;
+    at:authority-code "offl-acc" ;
+    at:deprecated "false" ;
+    at:op-code "offl-acc" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "offl-acc" ;
+    dc:identifier "offl-acc" ;
+    skos:inScheme atold:organisation-subrole ;
+    skos:prefLabel "Организация, която предоставя достъп до документацията за поръчката без връзка с интернет"@bg,
+        "Organizace poskytující přístup k zadávací dokumentaci v režimu offline"@cs,
+        "Organisation, der sikrer adgang til udbudsdokumenterne offline"@da,
+        "Organisation, die einen Offline-Zugang zu den Vergabeunterlagen bereitstellt"@de,
+        "Οργανισμός παροχής εκτός διαδικτύου πρόσβασης στα έγγραφα της δημόσιας σύμβασης"@el,
+        "Organisation providing offline access to the procurement documents"@en,
+        "Organización que proporciona acceso fuera de línea a los documentos de la contratación"@es,
+        "Hankedokumentidele internetivälist juurdepääsu pakkuv organisatsioon"@et,
+        "Hankinta-asiakirjoja offline-tilassa tarjoava organisaatio"@fi,
+        "Organisation qui fournit un accès hors-ligne aux documents de marché"@fr,
+        "Eagraíocht a sholáthraíonn rochtain as líne ar na doiciméid soláthair"@ga,
+        "Organizacija koja osigurava izvanmrežni pristup dokumentaciji o nabavi"@hr,
+        "A közbeszerzési dokumentumokhoz offline hozzáférést biztosító szervezet"@hu,
+        "Organizzazione alla quale rivolgersi per l'accesso offline ai documenti di gara"@it,
+        "Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų"@lt,
+        "Organizācija, kas nodrošina bezsaistes piekļuvi iepirkuma procedūras dokumentiem"@lv,
+        "Organizzazzjoni li tipprovdi aċċess offline għad-dokumenti tal-akkwist"@mt,
+        "Organisatie die offlinetoegang verleent tot de aanbestedingsstukken"@nl,
+        "Organizacja zapewniająca dostęp offline do dokumentów zamówienia"@pl,
+        "Organização que fornece acesso fora de linha aos documentos do concurso"@pt,
+        "Organizația care oferă acces offline la documentele achiziției"@ro,
+        "Organizácia poskytujúca offline prístup k súťažným podkladom"@sk,
+        "Organizacija, ki omogoča nespletni dostop do dokumentov v zvezi z oddajo javnega naročila"@sl,
+        "Organisation som ger offlineåtkomst till upphandlingsdokumenten"@sv .
+
+<http://publications.europa.eu/resource/authority/organisation-subrole/processor> a skos:Concept ;
+    at:authority-code "processor" ;
+    at:deprecated "false" ;
+    at:op-code "processor" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "processor" ;
+    dc:identifier "processor" ;
+    skos:inScheme atold:organisation-subrole ;
+    skos:prefLabel "Организация, която обработва офертите"@bg,
+        "Organizace zpracovávající nabídky"@cs,
+        "Organisation, der behandler tilbud"@da,
+        "Organisation, die Angebote bearbeitet"@de,
+        "Οργανισμός επεξεργασίας των προσφορών"@el,
+        "Organisation processing tenders"@en,
+        "Organización que tramita ofertas"@es,
+        "Pakkumusi menetlev organisatsioon"@et,
+        "Tarjouksia käsittelevä organisaatio"@fi,
+        "Organisation qui traite les offres"@fr,
+        "Eagraíocht a phróiseálann tairiscintí"@ga,
+        "Organizacija koja obrađuje ponude"@hr,
+        "Ajánlatokat feldolgozó szervezet"@hu,
+        "Organizzazione che tratta le offerte"@it,
+        "Organizacija, tvarkanti pasiūlymus"@lt,
+        "Organizācija, kas apstrādā piedāvājumus"@lv,
+        "Organizzazzjoni li tipproċessa l-offerti"@mt,
+        "Organisatie die inschrijvingen verwerkt"@nl,
+        "Organizacja rozpatrująca oferty"@pl,
+        "Organização responsável pelo tratamento das propostas"@pt,
+        "Organizația care prelucrează ofertele"@ro,
+        "Organizácia spracúvajúca ponuky"@sk,
+        "Organizacija, ki obdeluje ponudbe"@sl,
+        "Organisation som behandlar anbud"@sv .
+
+<http://publications.europa.eu/resource/authority/organisation-subrole/recepient> a skos:Concept ;
+    at:authority-code "recepient" ;
+    at:deprecated "false" ;
+    at:op-code "recepient" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "recepient" ;
+    dc:identifier "recepient" ;
+    skos:inScheme atold:organisation-subrole ;
+    skos:prefLabel "Организация, която получава офертите"@bg,
+        "Organizace přijímající nabídky"@cs,
+        "Organisation, der modtager tilbud"@da,
+        "Organisation, die Angebote entgegennimmt"@de,
+        "Οργανισμός παραλαβής των προσφορών"@el,
+        "Organisation receiving tenders"@en,
+        "Organización que recibe ofertas"@es,
+        "Pakkumusi vastu võttev organisatsioon"@et,
+        "Tarjouksia vastaanottava organisaatio"@fi,
+        "Organisation qui reçoit les offres"@fr,
+        "Eagraíocht a fhaigheann tairiscintí"@ga,
+        "Organizacija koja prima ponude"@hr,
+        "Ajánlatokat fogadó szervezet"@hu,
+        "Organizzazione che riceve le offerte"@it,
+        "Organizacija, priimanti pasiūlymus"@lt,
+        "Organizācija, kas saņem piedāvājumus"@lv,
+        "Organizzazzjoni li tirċievi l-offerti"@mt,
+        "Organisatie die inschrijvingen ontvangt"@nl,
+        "Organizacja przyjmująca oferty"@pl,
+        "Organização que recebe as propostas"@pt,
+        "Organizația care primește ofertele"@ro,
+        "Organizácia prijímajúca ponuky"@sk,
+        "Organizacija, ki prejema ponudbe"@sl,
+        "Organisation som mottar anbud"@sv .
+
+<http://publications.europa.eu/resource/authority/organisation-subrole/req-proc> a skos:Concept ;
+    at:authority-code "req-proc" ;
+    at:deprecated "false" ;
+    at:op-code "req-proc" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "req-proc" ;
+    dc:identifier "req-proc" ;
+    skos:inScheme atold:organisation-subrole ;
+    skos:prefLabel "Организация, която обработва заявленията за участие"@bg,
+        "Organizace zpracovávající žádosti o účast"@cs,
+        "Organisation, der behandler ansøgninger om deltagelse"@da,
+        "Organisation, die Teilnahmeanträge bearbeitet"@de,
+        "Οργανισμός επεξεργασίας αιτήσεων συμμετοχής"@el,
+        "Organisation processing requests to participate"@en,
+        "Organización que tramita solicitudes de participación"@es,
+        "Organisatsioon, mis menetleb osalemistaotlusi"@et,
+        "Osallistumishakemuksia käsittelevä organisaatio"@fi,
+        "Organisation qui traite les demandes de participation"@fr,
+        "Eagraíocht a phróiseálann iarratais ar rannpháirtíocht"@ga,
+        "Organizacija koja obrađuje zahtjeve za sudjelovanje"@hr,
+        "Részvételi jelentkezéseket feldolgozó szervezet"@hu,
+        "Organizzazione che tratta le domande di partecipazione"@it,
+        "Organizacija, tvarkanti dalyvavimo prašymus"@lt,
+        "Organizācija, kas apstrādā dalības pieprasījumus"@lv,
+        "Organizzazzjoni li tipproċessa t-talbiet għall-parteċipazzjoni"@mt,
+        "Organisatie die verzoeken tot deelname verwerkt"@nl,
+        "Organizacja rozpatrująca wnioski o dopuszczenie do udziału"@pl,
+        "Organização que trata os pedidos de participação"@pt,
+        "Organizația care prelucrează cererile de participare"@ro,
+        "Organizácia spracúvajúca žiadosti o účasť"@sk,
+        "Organizacija, ki obdeluje prijave za sodelovanje"@sl,
+        "Organisation som behandlar anbudsansökningar"@sv .
+
+<http://publications.europa.eu/resource/authority/organisation-subrole/req-recep> a skos:Concept ;
+    at:authority-code "req-recep" ;
+    at:deprecated "false" ;
+    at:op-code "req-recep" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "req-recep" ;
+    dc:identifier "req-recep" ;
+    skos:inScheme atold:organisation-subrole ;
+    skos:prefLabel "Организация, която получава заявленията за участие"@bg,
+        "Organizace přijímající žádosti o účast"@cs,
+        "Organisation, der modtager ansøgninger om deltagelse"@da,
+        "Organisation, die Teilnahmeanträge entgegennimmt"@de,
+        "Οργανισμός παραλαβής αιτήσεων συμμετοχής"@el,
+        "Organisation receiving requests to participate"@en,
+        "Organización que recibe solicitudes de participación"@es,
+        "Organisatsioon, millele laekuvad osalemistaotlused"@et,
+        "Osallistumishakemuksia vastaanottava organisaatio"@fi,
+        "Organisation qui reçoit les demandes de participation"@fr,
+        "Eagraíocht a fhaigheann iarratais ar rannpháirtíocht"@ga,
+        "Organizacija koja prima zahtjeve za sudjelovanje"@hr,
+        "Részvételi jelentkezéseket fogadó szervezet"@hu,
+        "Organizzazione che riceve le domande di partecipazione"@it,
+        "Organizacija, priimanti dalyvavimo prašymus"@lt,
+        "Organizācija, kas saņem dalības pieprasījumus"@lv,
+        "Organizzazzjoni li tirċievi t-talbiet għall-parteċipazzjoni"@mt,
+        "Organisatie die verzoeken tot deelname ontvangt"@nl,
+        "Organizacja przyjmująca wnioski o dopuszczenie do udziału"@pl,
+        "Organização que recebe pedidos de participação"@pt,
+        "Organizația care primește cererile de participare"@ro,
+        "Organizácia prijímajúca žiadosti o účasť"@sk,
+        "Organizacija, ki prejema prijave za sodelovanje"@sl,
+        "Organisation som mottar anbudsansökningar"@sv .
+
+<http://publications.europa.eu/resource/authority/organisation-subrole/rev-info> a skos:Concept ;
+    at:authority-code "rev-info" ;
+    at:deprecated "false" ;
+    at:op-code "rev-info" ;
+    at:start.use "2020-12-16" ;
+    atold:op-code "rev-info" ;
+    dc:identifier "rev-info" ;
+    skos:inScheme atold:organisation-subrole ;
+    skos:prefLabel "Организация, предоставяща повече информация за процедурите за преглед (обжалване)"@bg,
+        "Organizace poskytující další informace o podání návrhů na přezkum"@cs,
+        "Organisation, der leverer yderligere oplysninger om klageprocedurerne"@da,
+        "Organisation, die weitere Informationen für die Nachprüfungsverfahren bereitstellt"@de,
+        "Οργανισμός παροχής περισσότερων πληροφοριών των διαδικασιών προσφυγής"@el,
+        "Organisation providing more information on the review procedures"@en,
+        "Organización que proporciona más información sobre los procedimientos de recurso"@es,
+        "Organisatsioon, mis annab lisateavet läbivaatamismenetluse kohta"@et,
+        "Muutoksenhakumenettelyjen määräajoista lisätietoja tarjoava organisaatio"@fi,
+        "Organisation qui fournit des précisions concernant l'introduction des recours"@fr,
+        "Eagraíocht a sholáthraíonn tuilleadh faisnéise faoi na nósanna imeachta athbhreithnithe"@ga,
+        "Organizacija koja pruža više informacija o postupcima preispitivanja (pravne zaštite)"@hr,
+        "A felülvizsgálati eljárásokról további információkat nyújtó szervezet"@hu,
+        "Organizzazione alla quale rivolgersi per informazioni complementari sulle procedure di ricorso"@it,
+        "Organizacija, teikianti daugiau informacijos apie peržiūros procedūras"@lt,
+        "Organizācija, kas sniedz sīkāku informāciju par pārskatīšanas procedūru"@lv,
+        "Organizzazzjoni li tipprovdi iktar informazzjoni dwar proċeduri tar-rieżami"@mt,
+        "Organisatie die meer informatie geeft over beroepsprocedures"@nl,
+        "Organizacja udzielająca dodatkowych informacji na temat procedur odwoławczych"@pl,
+        "Organização que fornece mais informações sobre os procedimentos de recurso"@pt,
+        "Organizația care furnizează mai multe informații cu privire la căile de atac"@ro,
+        "Organizácia poskytujúca ďalšie informácie o postupy preskúmania"@sk,
+        "Organizacija, ki daje dodatne informacije o revizijskih postopkih"@sl,
+        "Organisation som ger mer information om prövningsförfaranden"@sv .
+
+<http://publications.europa.eu/resource/authority/organisation-subrole/signatory> a skos:Concept ;
+    at:authority-code "signatory" ;
+    at:deprecated "false" ;
+    at:op-code "signatory" ;
+    at:start.use "2019-09-18" ;
+    atold:op-code "signatory" ;
+    dc:identifier "signatory" ;
+    skos:inScheme atold:organisation-subrole ;
+    skos:prefLabel "Организация, която подписва договора"@bg,
+        "Organizace podepisující smlouvu"@cs,
+        "Organisation, der undertegner kontrakten"@da,
+        "Organisation, die den Auftrag unterzeichnet"@de,
+        "Οργανισμός που υπογράφει τη σύμβαση"@el,
+        "Organisation signing the contract"@en,
+        "Organización que firma el contrato"@es,
+        "Lepingu allkirjastav organisatsioon"@et,
+        "Sopimuksen allekirjoittava organisaatio"@fi,
+        "Organisation qui signe le marché"@fr,
+        "Eagraíocht atá ag síniú an chonartha"@ga,
+        "Organizacija koja potpisuje ugovor"@hr,
+        "Szerződést aláíró szervezet"@hu,
+        "Organizzazione che firma il contratto di appalto"@it,
+        "Organizacija, pasirašanti sutartį"@lt,
+        "Organizācija, kas paraksta līgumu"@lv,
+        "Organizzazzjoni li tiffirma l-kuntratt"@mt,
+        "Organisatie die het contract ondertekent"@nl,
+        "Organizacja podpisująca umowę"@pl,
+        "Organização que assina o contrato"@pt,
+        "Organizația care semnează contractul"@ro,
+        "Organizácia podpisujúca zmluvu"@sk,
+        "Organizacija, ki podpiše pogodbo"@sl,
+        "Organisation som undertecknar kontraktet"@sv .
+
+atold:organisation-subrole a skos:ConceptScheme ;
+    rdfs:label "Organisation subrole"@en ;
+    at:prefLabel "Organisation subrole"@en ;
+    at:table.id "organisation-subrole" ;
+    at:table.version.number "20201216-0" ;
+    owl:versionInfo "20201216-0" ;
+    skos:prefLabel "Organisation subrole"@en .
+

@@ -1,0 +1,271 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/concept-status/CANDIDATE> a skos:Concept ;
+    at:authority-code "CANDIDATE" ;
+    at:deprecated "false" ;
+    at:op-code "CANDIDATE" ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "CANDIDATE" ;
+    dc:identifier "CANDIDATE" ;
+    skos:definition "The \"CANDIDATE\" status indicates that the code/concept has been proposed for approval or sent for information to the IMMC. Once the code/concept is approved its status will become \"CURRENT\". It is only used for internal management purposes and will not be published."@en,
+        "Le statut \"CANDIDATE\" indique que le code/concept a été soumis pour approbation ou envoyé pour information à l'IMMC. Une fois le code/concept approuvé, son statut devient \"CURRENT\"."@fr ;
+    skos:inScheme atold:concept-status ;
+    skos:prefLabel "candidate"@en ;
+    skos:topConceptOf atold:concept-status .
+
+<http://publications.europa.eu/resource/authority/concept-status/CANDIDATE_DEPRECATED> a skos:Concept ;
+    at:authority-code "CANDIDATE_DEPRECATED" ;
+    at:deprecated "false" ;
+    at:op-code "CANDIDATE_DEPRECATED" ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "CANDIDATE_DEPRECATED" ;
+    dc:identifier "CANDIDATE_DEPRECATED" ;
+    skos:definition "The \"CANDIDATE_DEPRECATED\" status indicates that the code/concept has been proposed for approval or sent for information to the IMMC and will become \"DEPRECATED\" after approval. It is only used for internal management purposes and will not be published."@en,
+        "Le statut \"CANDIDATE_ DEPRECATED\" indique que le code/concept a été soumis pour approbation ou envoyé pour information à l'IMMC. Une fois le code/concept approuvé, son statut devient \"DEPRECATED\"."@fr ;
+    skos:inScheme atold:concept-status ;
+    skos:prefLabel "candidate.deprecated"@en ;
+    skos:topConceptOf atold:concept-status .
+
+<http://publications.europa.eu/resource/authority/concept-status/CURRENT> a skos:Concept ;
+    at:authority-code "CURRENT" ;
+    at:deprecated "false" ;
+    at:op-code "CURRENT" ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "CURRENT" ;
+    dc:identifier "CURRENT" ;
+    skos:definition "The \"CURRENT\" status indicates that the code/concept is in force and has been approved by the IMMC. This is the version of the code/concept to be used in the present timespan."@en,
+        "Le statut \"CURRENT\" indique que le code/concept est en vigueur et a été approuvé par l'IMMC. C'est la version du code à utiliser dans la période de temps présente."@fr ;
+    skos:inScheme atold:concept-status ;
+    skos:prefLabel "актуално"@bg,
+        "stávájící"@cs,
+        "gældende"@da,
+        "aktuell"@de,
+        "ισχύει"@el,
+        "current"@en,
+        "actual"@es,
+        "praegune"@et,
+        "nykyinen"@fi,
+        "en vigueur"@fr,
+        "i bhfeidhm"@ga,
+        "trenutačni"@hr,
+        "aktuális"@hu,
+        "attuale"@it,
+        "dabartinis"@lt,
+        "pašreizējs"@lv,
+        "attwali"@mt,
+        "actueel"@nl,
+        "obecny"@pl,
+        "comum"@pt,
+        "actual"@ro,
+        "súčasný"@sk,
+        "sedanje"@sl,
+        "gällande"@sv ;
+    skos:topConceptOf atold:concept-status .
+
+<http://publications.europa.eu/resource/authority/concept-status/DEPRECATED> a skos:Concept ;
+    at:authority-code "DEPRECATED" ;
+    at:deprecated "false" ;
+    at:op-code "DEPRECATED" ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "DEPRECATED" ;
+    dc:identifier "DEPRECATED" ;
+    skos:definition "The \"DEPRECATED\" status indicates that the code/concept is no longer in force and should not be used outside the given timespan."@en,
+        "Le statut \"DEPRECATED\" indique que le code/concept n'est plus en vigueur et ne doit être utilisé que dans la période de temps indiquée."@fr ;
+    skos:inScheme atold:concept-status ;
+    skos:prefLabel "неактуално"@bg,
+        "zastaralé"@cs,
+        "frarådet"@da,
+        "veraltet"@de,
+        "δεν ισχύει πλέον"@el,
+        "deprecated"@en,
+        "desaconsejado"@es,
+        "vananenud"@et,
+        "hylätty"@fi,
+        "obsolète"@fr,
+        "dímholta"@ga,
+        "smijenjeni"@hr,
+        "elavult"@hu,
+        "sconsigliato"@it,
+        "nerekomenduojamas"@lt,
+        "novecojis"@lv,
+        "deprekat"@mt,
+        "verouderd"@nl,
+        "nieaktualny"@pl,
+        "utilização desaconselhada"@pt,
+        "nerecomandat"@ro,
+        "zastaraný"@sk,
+        "zastarano"@sl,
+        "föråldrad"@sv ;
+    skos:topConceptOf atold:concept-status .
+
+<http://publications.europa.eu/resource/authority/concept-status/DRAFT> a skos:Concept ;
+    at:authority-code "DRAFT" ;
+    at:deprecated "false" ;
+    at:op-code "DRAFT" ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "DRAFT" ;
+    dc:identifier "DRAFT" ;
+    skos:definition "The \"DRAFT\" status is used for the preparation of the code/concept that will become \"CANDIDATE\". It is only used for internal management purposes and will not be published."@en,
+        "Le statut \"DRAFT\" est utilisé lors de la préparation du code/concept qui deviendra \"CANDIDATE\". Il est utilisé uniquement à des fins de gestion interne et ne sera pas publié."@fr ;
+    skos:inScheme atold:concept-status ;
+    skos:prefLabel "draft"@en ;
+    skos:topConceptOf atold:concept-status .
+
+<http://publications.europa.eu/resource/authority/concept-status/DRAFT_DEPRECATED> a skos:Concept ;
+    at:authority-code "DRAFT_DEPRECATED" ;
+    at:deprecated "false" ;
+    at:op-code "DRAFT_DEPRECATED" ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "DRAFT_DEPRECATED" ;
+    dc:identifier "DRAFT_DEPRECATED" ;
+    skos:definition "The \"DRAFT_DEPRECATED\" status is used for the preparation of the code/concept that will become \"CANDIDATE_DEPRECATED\". It is only used for internal management purposes and will not be published."@en,
+        "Le statut \"DRAFT_DEPRECATED\" est utilisé lors de la préparation du code/concept qui deviendra \"CANDIDATE_DEPRECATED\". Il est utilisé uniquement à des fins de gestion interne et ne sera pas publié."@fr ;
+    skos:inScheme atold:concept-status ;
+    skos:prefLabel "draft.deprecated"@en ;
+    skos:topConceptOf atold:concept-status .
+
+<http://publications.europa.eu/resource/authority/concept-status/OP_DATPRO> a skos:Concept ;
+    at:authority-code "OP_DATPRO" ;
+    at:deprecated "false" ;
+    at:op-code "OP_DATPRO" ;
+    at:start.use "1952-07-23" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:concept-status ;
+    skos:prefLabel "НЕОКОНЧАТЕЛНИ ДАННИ"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv ;
+    skos:topConceptOf atold:concept-status .
+
+<http://publications.europa.eu/resource/authority/concept-status/PLANNED> a skos:Concept ;
+    at:authority-code "PLANNED" ;
+    at:deprecated "false" ;
+    at:op-code "PLANNED" ;
+    at:start.use "2021-12-20" ;
+    atold:op-code "PLANNED" ;
+    dc:identifier "PLANNED" ;
+    skos:definition "The \"PLANNED\" status indicates that the code/concept does not exist yet, it is only a future plan and may become current one day. The start date of such concepts is the date of the proposal, e.g. of a preparatory document, not the supposed future date of the realisation."@en ;
+    skos:inScheme atold:concept-status ;
+    skos:prefLabel "planned"@en ;
+    skos:topConceptOf atold:concept-status .
+
+<http://publications.europa.eu/resource/authority/concept-status/RETIRED> a skos:Concept ;
+    at:authority-code "RETIRED" ;
+    at:deprecated "false" ;
+    at:op-code "RETIRED" ;
+    at:start.use "2009-12-01" ;
+    atold:op-code "RETIRED" ;
+    dc:identifier "RETIRED" ;
+    skos:definition "The \"RETIRED\" status indicates that the code/concept has been withdrawn and should no longer be used. If a successor is indicated use this code/concept instead."@en,
+        "Le statut \"RETIRED\" indique que le code/concep t a été retiré et ne doit plus être utilisé. Si un code/concept successeur est indiqué, il devra être utilisé en remplacement."@fr ;
+    skos:inScheme atold:concept-status ;
+    skos:prefLabel "отменено"@bg,
+        "již nepoužívané"@cs,
+        "forældet"@da,
+        "nicht mehr in Gebrauch"@de,
+        "έχει καταργηθεί"@el,
+        "retired"@en,
+        "retirado"@es,
+        "kehtetu"@et,
+        "poistettu käytöstä"@fi,
+        "supprimé"@fr,
+        "as feidhm"@ga,
+        "umirovljeni"@hr,
+        "visszavonva"@hu,
+        "ritirato"@it,
+        "panaikintas"@lt,
+        "atcelts"@lv,
+        "irtirat"@mt,
+        "niet meer in gebruik"@nl,
+        "wycofany"@pl,
+        "reformado"@pt,
+        "retras"@ro,
+        "nepoužíva sa"@sk,
+        "umaknjeno"@sl,
+        "borttagen"@sv ;
+    skos:topConceptOf atold:concept-status .
+
+<http://publications.europa.eu/resource/authority/concept-status/REVISED> a skos:Concept ;
+    at:authority-code "REVISED" ;
+    at:deprecated "false" ;
+    at:op-code "REVISED" ;
+    at:start.use "2018-02-20" ;
+    atold:op-code "REVISED" ;
+    dc:identifier "REVISED" ;
+    skos:definition "The \"REVISED\" status indicates that a new record with updated labels for an existing code was created. As the code was already checked by the IMMC, there is no need to inform or submit it again for approval by the committee. The status will become \"CURRENT\" before publication. It is only used for internal management purposes and will not be published."@en ;
+    skos:inScheme atold:concept-status ;
+    skos:prefLabel "revised"@en ;
+    skos:topConceptOf atold:concept-status .
+
+<http://publications.europa.eu/resource/authority/concept-status/REVISED_DEPRECATED> a skos:Concept ;
+    at:authority-code "REVISED_DEPRECATED" ;
+    at:deprecated "false" ;
+    at:op-code "REVISED_DEPRECATED" ;
+    at:start.use "2018-02-20" ;
+    atold:op-code "REVISED_DEPRECATED" ;
+    dc:identifier "REVISED_DEPRECATED" ;
+    skos:definition "The \"REVISED_DEPRECATED\" status indicates that a new record with labels which are no longer valid for an existing code was created. As the code was already checked by the IMMC, there is no need to inform or submit it again for approval by the committee. The status will become \"DEPRECATED\" before publication. It is only used for internal management purposes and will not be published."@en ;
+    skos:inScheme atold:concept-status ;
+    skos:prefLabel "revised.deprecated"@en ;
+    skos:topConceptOf atold:concept-status .
+
+<http://publications.europa.eu/resource/authority/concept-status/WAITING> a skos:Concept ;
+    at:authority-code "WAITING" ;
+    at:deprecated "false" ;
+    at:op-code "WAITING" ;
+    at:start.use "2015-07-01" ;
+    atold:op-code "WAITING" ;
+    dc:identifier "WAITING" ;
+    skos:definition "The \"WAITING\" status indicates that the \"CANDIDATE\" code/concept has been sent for approval to the IMMC and remains at this stage as long as that approval has not been given. It is only used for internal management purposes and will not be published."@en,
+        "Le statut \"WAITING\" indique que le code/concept \"CANDIDATE\" a été envoyé à l'IMMC pour approbation et reste à ce niveau aussi longtemps que l'approbation n'a pas été donnée. Il est utilisé uniquement à des fins de gestion interne et ne sera pas publié."@fr ;
+    skos:inScheme atold:concept-status ;
+    skos:prefLabel "waiting"@en ;
+    skos:topConceptOf atold:concept-status .
+
+<http://publications.europa.eu/resource/authority/concept-status/WAITING_DEPRECATED> a skos:Concept ;
+    at:authority-code "WAITING_DEPRECATED" ;
+    at:deprecated "false" ;
+    at:op-code "WAITING_DEPRECATED" ;
+    at:start.use "2015-07-03" ;
+    atold:op-code "WAITING_DEPRECATED" ;
+    dc:identifier "WAITING_DEPRECATED" ;
+    skos:definition "The \"WAITING_DEPRECATED\" status indicates that the \"CANDIDATE_DEPRECATED\" code/concept has been sent for approval to the IMMC and remains at this stage as long as that approval has not been given. It is only used for internal management purposes and will not be published."@en,
+        "Le statut \"WAITING_DEPRECATED\" indique que le code/concept \"CANDIDATE_DEPRECATED\" a été envoyé à l'IMMC pour approbation et reste à ce niveau aussi longtemps que l'approbation n'a pas été donnée. Il est utilisé uniquement à des fins de gestion interne et ne sera pas publié."@fr ;
+    skos:inScheme atold:concept-status ;
+    skos:prefLabel "waiting.deprecated"@en ;
+    skos:topConceptOf atold:concept-status .
+
+atold:concept-status a skos:ConceptScheme ;
+    rdfs:label "Concept status"@en ;
+    at:prefLabel "Concept status"@en ;
+    at:table.id "concept-status" ;
+    at:table.version.number "20220316-0" ;
+    owl:versionInfo "20220316-0" ;
+    skos:prefLabel "Concept status"@en .
+

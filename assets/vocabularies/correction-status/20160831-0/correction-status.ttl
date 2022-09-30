@@ -1,0 +1,105 @@
+@prefix at: <http://publications.europa.eu/ontology/authority/> .
+@prefix atold: <http://publications.europa.eu/resource/authority/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://publications.europa.eu/resource/authority/correction-status/CORR> a skos:Concept ;
+    at:authority-code "CORR" ;
+    at:deprecated "false" ;
+    at:op-code "CORR" ;
+    at:start.use "2014-07-28" ;
+    atold:op-code "CORR" ;
+    dc:identifier "CORR" ;
+    skos:inScheme atold:correction-status ;
+    skos:prefLabel "corrected"@en .
+
+<http://publications.europa.eu/resource/authority/correction-status/CORR_ISG> a skos:Concept ;
+    at:authority-code "CORR_ISG" ;
+    at:deprecated "false" ;
+    at:op-code "CORR_ISG" ;
+    at:start.use "2014-07-28" ;
+    atold:op-code "CORR_ISG" ;
+    dc:identifier "CORR_ISG" ;
+    skos:inScheme atold:correction-status ;
+    skos:prefLabel "corrected for ISG"@en .
+
+<http://publications.europa.eu/resource/authority/correction-status/NOT_APPL> a skos:Concept ;
+    at:authority-code "NOT_APPL" ;
+    at:deprecated "false" ;
+    at:op-code "NOT_APPL" ;
+    at:start.use "2014-07-28" ;
+    atold:op-code "NOT_APPL" ;
+    dc:identifier "NOT_APPL" ;
+    skos:inScheme atold:correction-status ;
+    skos:prefLabel "not applicable"@en .
+
+<http://publications.europa.eu/resource/authority/correction-status/NOT_CHNG> a skos:Concept ;
+    at:authority-code "NOT_CHNG" ;
+    at:deprecated "false" ;
+    at:op-code "NOT_CHNG" ;
+    at:start.use "2014-07-28" ;
+    atold:op-code "NOT_CHNG" ;
+    dc:identifier "NOT_CHNG" ;
+    skos:inScheme atold:correction-status ;
+    skos:prefLabel "do not change"@en .
+
+<http://publications.europa.eu/resource/authority/correction-status/NOT_CORR> a skos:Concept ;
+    at:authority-code "NOT_CORR" ;
+    at:deprecated "false" ;
+    at:op-code "NOT_CORR" ;
+    at:start.use "2014-07-28" ;
+    atold:op-code "NOT_CORR" ;
+    dc:identifier "NOT_CORR" ;
+    skos:inScheme atold:correction-status ;
+    skos:prefLabel "not corrected"@en .
+
+<http://publications.europa.eu/resource/authority/correction-status/OP_DATPRO> a skos:Concept ;
+    at:op-code "OP_DATPRO" ;
+    atold:op-code "OP_DATPRO" ;
+    dc:identifier "OP_DATPRO" ;
+    skos:inScheme atold:correction-status ;
+    skos:prefLabel "НЕОКОНЧАТЕЛНИ ДАННИ"@bg,
+        "Předběžné údaje"@cs,
+        "Midlertidige data"@da,
+        "Vorläufige Daten"@de,
+        "Προσωρινά δεδομένα"@el,
+        "Provisional data"@en,
+        "Datos provisionales"@es,
+        "Esialgsed andmed"@et,
+        "Alustavat tiedot"@fi,
+        "Données provisoires"@fr,
+        "Sonraí sealadacha"@ga,
+        "Privremeni podaci"@hr,
+        "Ideiglenes adatok"@hu,
+        "Dati provvisori"@it,
+        "Laikinieji duomenys"@lt,
+        "Provizoriski dati"@lv,
+        "Dejta provviżorja"@mt,
+        "Voorlopige gegevens"@nl,
+        "Dane tymczasowe"@pl,
+        "Dados provisórios"@pt,
+        "Date provizorii"@ro,
+        "Predbežné údaje"@sk,
+        "Začasni podatki"@sl,
+        "Tillfälliga uppgifter"@sv .
+
+<http://publications.europa.eu/resource/authority/correction-status/UNDER> a skos:Concept ;
+    at:authority-code "UNDER" ;
+    at:deprecated "false" ;
+    at:op-code "UNDER" ;
+    at:start.use "2014-07-28" ;
+    atold:op-code "UNDER" ;
+    dc:identifier "UNDER" ;
+    skos:inScheme atold:correction-status ;
+    skos:prefLabel "under check"@en .
+
+atold:correction-status a skos:ConceptScheme ;
+    rdfs:label "Correction status"@en ;
+    at:prefLabel "Correction status"@en ;
+    at:table.id "correction-status" ;
+    at:table.version.number "20160831-0" ;
+    owl:versionInfo "20160831-0" ;
+    skos:prefLabel "Correction status"@en .
+
