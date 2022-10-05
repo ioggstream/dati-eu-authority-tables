@@ -23,7 +23,7 @@ jobs:
     - name: Harvest files
       run: |-
         pip3 install tox
-        rm assets -rf && mkdir assets -p
+        rm assets -rf && mkdir assets -p && echo -e "*.jsonld\n*.json" > assets/.gitignore
         tox -e run
 
     # Commit and push all changed files.

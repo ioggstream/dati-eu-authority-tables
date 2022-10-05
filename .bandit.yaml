@@ -13,3 +13,7 @@ exclude_dirs:
  - .github
  - venv
  - tests
+
+assert_used:
+ skips:
+ - "*.py"

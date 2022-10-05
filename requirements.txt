@@ -1,3 +1,7 @@
-rdflib
 click
+frictionless
+pandas
+pyld
+pyyaml
+rdflib
 requests
