@@ -1,0 +1,215 @@
+url;deprecated;valid_until;valid_from;id;label_en;label_it
+http://publications.europa.eu/resource/authority/event/ADD_byCOM;false;;1967-07-01;ADD_byCOM;Addendum;Addendum
+http://publications.europa.eu/resource/authority/event/ADP_ACTDENO_byCONSIL;true;1967-07-01;1967-06-30;ADP_ACTDENO_byCONSIL;Proposed act deemed not adopted;Atto proposto considerato non adottato
+http://publications.europa.eu/resource/authority/event/ADP_ACTDENO_byEP_CONSIL;false;;1967-07-01;ADP_ACTDENO_byEP_CONSIL;Proposed act deemed not adopted;Atto proposto considerato non adottato
+http://publications.europa.eu/resource/authority/event/ADP_ACT_byCOM;false;;1967-07-01;ADP_ACT_byCOM;Adoption of act by Commission;Adozione dell'atto da parte della Commissione
+http://publications.europa.eu/resource/authority/event/ADP_BUDAME_byCONSIL;true;2012-06-13;1967-07-01;ADP_BUDAME_byCONSIL;Council: adoption of amended budget;
+http://publications.europa.eu/resource/authority/event/ADP_CCPOSR1CONSIL_byCOM;false;;1967-07-01;ADP_CCPOSR1CONSIL_byCOM;Adoption by Commission of its communication on Council’s position at 1st reading;Adozione, da parte della Commissione, della comunicazione sulla posizione del Consiglio in prima lettura
+http://publications.europa.eu/resource/authority/event/ADP_COMPOS_byCONSIL;false;;1967-07-01;ADP_COMPOS_byCONSIL;Adoption of common position by Council;Adozione della posizione comune da parte del Consiglio
+http://publications.europa.eu/resource/authority/event/ADP_DCLCOMPOS_byCOM;false;;1967-07-01;ADP_DCLCOMPOS_byCOM;Adoption by Commission of declaration on common position;Adozione di dichiarazione della Commissione su posizione comune
+http://publications.europa.eu/resource/authority/event/ADP_FRM_byCONSIL;false;;1967-07-01;ADP_FRM_byCONSIL;Adoption by Council;Adozione da parte del Consiglio
+http://publications.europa.eu/resource/authority/event/ADP_NO_R3_byCONSIL;false;;2009-12-01;ADP_NO_R3_byCONSIL;Non-adoption by the Council at 3rd reading;Non adozione da parte del Consiglio in terza lettura
+http://publications.europa.eu/resource/authority/event/ADP_NO_R3_byEP;false;;2009-12-01;ADP_NO_R3_byEP;EP non-adoption at 3rd reading;Non adozione da parte del PE in terza lettura
+http://publications.europa.eu/resource/authority/event/ADP_NO_byCONSIL;false;;1967-07-01;ADP_NO_byCONSIL;No adoption by Council;Mancata adozione da parte del Consiglio
+http://publications.europa.eu/resource/authority/event/ADP_OPR2AMEPE_byCOM;false;;1967-07-01;ADP_OPR2AMEPE_byCOM;Adoption by Commission of opinion on EP amendments on 2nd reading;Adozione di parere della Commissione su emendamenti del PE in seconda lettura
+http://publications.europa.eu/resource/authority/event/ADP_PAR_byCONSIL;false;;1967-07-01;ADP_PAR_byCONSIL;Partial adoption by Council;Adozione parziale da parte del Consiglio
+http://publications.europa.eu/resource/authority/event/ADP_PLSL_byEESC;false;;1967-07-01;ADP_PLSL_byEESC;Adoption at plenary level;Adozione a livello di sessione plenaria
+http://publications.europa.eu/resource/authority/event/ADP_POSR1CONSIL_byCOM;true;2002-06-30;1967-07-01;ADP_POSR1CONSIL_byCOM;Adoption by Commission of Council’s position 1st reading;
+http://publications.europa.eu/resource/authority/event/ADP_PROPAME_byCOM;false;;1967-07-01;ADP_PROPAME_byCOM;Adoption by Commission of amended proposal;Adozione di proposta modificata da parte della Commissione
+http://publications.europa.eu/resource/authority/event/ADP_PROREEX_byCOM;false;;1967-07-01;ADP_PROREEX_byCOM;Adoption by Commission of re-examined proposal;Adozione di proposta riesaminata da parte della Commissione
+http://publications.europa.eu/resource/authority/event/ADP_R1_POS_byCONSIL;false;;2009-12-01;ADP_R1_POS_byCONSIL;Council’s position at 1st reading and statement of reasons;Posizione del Consiglio in prima lettura e motivazione
+http://publications.europa.eu/resource/authority/event/ADP_R1_POS_byEP;false;;2009-12-01;ADP_R1_POS_byEP;EP position at 1st reading;Posizione del PE in prima lettura
+http://publications.europa.eu/resource/authority/event/ADP_R1_byCONSIL;true;2009-11-30;1967-07-01;ADP_R1_byCONSIL;Adoption of Council’s position at 1st reading;Adozione della posizione del Consiglio in prima lettura
+http://publications.europa.eu/resource/authority/event/ADP_R3_byCONSIL;false;;2009-12-01;ADP_R3_byCONSIL;Adoption by the Council at 3rd reading;Adozione da parte del Consiglio in terza lettura
+http://publications.europa.eu/resource/authority/event/ADP_R3_byEP;false;;2009-12-01;ADP_R3_byEP;EP adoption at 3rd reading;Adozione da parte del PE in terza lettura
+http://publications.europa.eu/resource/authority/event/ADP_SL_byEESC;false;;1967-07-01;ADP_SL_byEESC;Adoption at section level;Adozione a livello di sezione
+http://publications.europa.eu/resource/authority/event/ADP_byCOM;false;;1967-07-01;ADP_byCOM;Adoption by Commission;Adozione da parte della Commissione
+http://publications.europa.eu/resource/authority/event/ADP_byEP;true;2018-10-16;1967-07-01;ADP_byEP;Adoption by EP;Adozione da parte del PE
+http://publications.europa.eu/resource/authority/event/AGR_COMPOS_byCONSIL;false;;1967-07-01;AGR_COMPOS_byCONSIL;Agreement on Council common position;Accordo politico posizione comune del Consiglio
+http://publications.europa.eu/resource/authority/event/AGR_byCONSIL;false;;1967-07-01;AGR_byCONSIL;Council agreement;Accordo politico Consiglio
+http://publications.europa.eu/resource/authority/event/AMEND_R1_byEP;false;;2009-12-01;AMEND_R1_byEP;EP position at 1st reading with amendments;Posizione del PE in 1ª lettura con emendamenti
+http://publications.europa.eu/resource/authority/event/AMEND_R2_byEP;false;;2009-12-01;AMEND_R2_byEP;EP amendments at 2nd reading to the Council’s position;Emendamenti alla posizione del Consiglio da parte del PE in seconda lettura
+http://publications.europa.eu/resource/authority/event/AMEND_byEP;false;;1967-07-01;AMEND_byEP;EP amendments;Emendamenti del Parlamento europeo
+http://publications.europa.eu/resource/authority/event/APPLICATION_PRO;false;;1952-07-23;APPLICATION_PRO;Provisional application;Applicazione provvisoria
+http://publications.europa.eu/resource/authority/event/APPL_END;false;;1952-07-23;APPL_END;End of applicability;Fine dell’applicabilità
+http://publications.europa.eu/resource/authority/event/APPL_START;false;;1952-07-23;APPL_START;Start of applicability;Inizio dell’applicabilità
+http://publications.europa.eu/resource/authority/event/APR_JT_byCMT_CONC;false;;2009-12-01;APR_JT_byCMT_CONC;Approval by the Conciliation Committee of a joint text;Approvazione di un progetto comune da parte del comitato di conciliazione
+http://publications.europa.eu/resource/authority/event/APR_NO_JT_byCMT_CONC;false;;2009-12-01;APR_NO_JT_byCMT_CONC;Non-approval by the Conciliation Committee of a joint text;Non approvazione di un progetto comune da parte del comitato di conciliazione
+http://publications.europa.eu/resource/authority/event/APR_NO_R2_byCONSIL;false;;2009-12-01;APR_NO_R2_byCONSIL;Non-approval by the Council of the EP amendments at 2nd reading;Non approvazione degli emendamenti del PE da parte del Consiglio in seconda lettura
+http://publications.europa.eu/resource/authority/event/APR_NO_byEP;true;2018-10-16;1967-07-01;APR_NO_byEP;Not approved by EP;Mancata approvazione da parte del PE
+http://publications.europa.eu/resource/authority/event/APR_PARR1_byCONSIL;false;;1967-07-01;APR_PARR1_byCONSIL;Council partial approval on 1st reading;Approvazione parziale del Consiglio in prima lettura
+http://publications.europa.eu/resource/authority/event/APR_PARR2_byCONSIL;false;;1967-07-01;APR_PARR2_byCONSIL;Council partial approval on 2nd reading;Approvazione parziale da parte del Consiglio in seconda lettura
+http://publications.europa.eu/resource/authority/event/APR_R1_byCONSIL;false;;1967-07-01;APR_R1_byCONSIL;Approval by the Council of the EP position at 1st reading;Approvazione da parte del Consiglio in prima lettura
+http://publications.europa.eu/resource/authority/event/APR_R2_POS_CONSIL_byEP;false;;2009-12-01;APR_R2_POS_CONSIL_byEP;EP approval at 2nd reading of the Council’s position;Approvazione della posizione del Consiglio da parte del PE in seconda lettura
+http://publications.europa.eu/resource/authority/event/APR_R2_byCONSIL;false;;1967-07-01;APR_R2_byCONSIL;Approval by the Council of the EP amendments at 2nd reading;Approvazione da parte del Consiglio in seconda lettura
+http://publications.europa.eu/resource/authority/event/APR_byCOM;false;;1967-07-01;APR_byCOM;Approval by Commission;Approvazione da parte della Commissione
+http://publications.europa.eu/resource/authority/event/ASS_byCONSIL;false;;1967-07-01;ASS_byCONSIL;Council assent;Parere conforme del Consiglio
+http://publications.europa.eu/resource/authority/event/ASS_byEP;true;2018-10-16;1967-07-01;ASS_byEP;EP assent;Parere conforme PE
+http://publications.europa.eu/resource/authority/event/CC_AT_byCOM;false;;1967-07-01;CC_AT_byCOM;Commission communication on the action taken;Comunicazione del Commissione sul seguito dato
+http://publications.europa.eu/resource/authority/event/CC_CD_PUB_OJ;false;;1952-12-30;CC_CD_PUB_OJ;Communication on court decision published in OJ;Comunicazione sullla sentenza della corte pubblicata nella GU
+http://publications.europa.eu/resource/authority/event/CC_FUAC_byEP;true;2018-10-16;1967-07-01;CC_FUAC_byEP;Communication of the Parliament on the follow-up;Comunicazione del PE sul seguito dato
+http://publications.europa.eu/resource/authority/event/CC_NC_PUB_OJ;false;;1952-12-30;CC_NC_PUB_OJ;Communication on new case published in OJ;Comunicazione sul nuovo caso pubblicata nella GU
+http://publications.europa.eu/resource/authority/event/CH_LB_byCOM;false;;1967-07-01;CH_LB_byCOM;Change of legal basis by Commission;Cambiamento base giuridica da parte della Commissione
+http://publications.europa.eu/resource/authority/event/CH_LB_byCONSIL;false;;1967-07-01;CH_LB_byCONSIL;Change of legal basis by Council;Cambiamento base giuridica da parte del Consiglio
+http://publications.europa.eu/resource/authority/event/CH_TLIS_byCOM;false;;1967-07-01;CH_TLIS_byCOM;Changes following entry into force of the Lisbon Treaty;A seguito dell'entrata in vigore del trattato di Lisbona
+http://publications.europa.eu/resource/authority/event/CONC_byCONSIL;false;;1967-07-01;CONC_byCONSIL;Council conclusions;Conclusioni del Consiglio
+http://publications.europa.eu/resource/authority/event/CONF_COMPOS_byCONSIL;false;;1967-07-01;CONF_COMPOS_byCONSIL;Confirmation of common position by Council;Conferma della posizione comune da parte del Consiglio
+http://publications.europa.eu/resource/authority/event/CONS_ofCMT_MON_byCONSIL;false;;1967-07-01;CONS_ofCMT_MON_byCONSIL;Consultation of Monetary Committee by Council;Consultazione del Comitato monetario da parte del Consiglio
+http://publications.europa.eu/resource/authority/event/CONS_ofCURIA_byCONSIL;false;;1967-07-01;CONS_ofCURIA_byCONSIL;Consultation of Court of Justice by Council;Consultazione della Corte di giustizia da parte del Consiglio
+http://publications.europa.eu/resource/authority/event/CONS_ofECA_byCONSIL;false;;1967-07-01;CONS_ofECA_byCONSIL;Consultation of Court of Auditors by Council;Consultazione della Corte dei Conti da parte del Consiglio
+http://publications.europa.eu/resource/authority/event/CONS_ofECB_byCONSIL;false;;1998-06-01;CONS_ofECB_byCONSIL;Consultation of the European Central Bank by the Council;Consultazione della Banca centrale europea da parte del Consiglio
+http://publications.europa.eu/resource/authority/event/CONS_ofEESC_byCOM;false;;2002-07-01;CONS_ofEESC_byCOM;Consultation of European Economic and Social Committee by Commission;Consultazione del Comitato economico e sociale europeo da parte della Commissione
+http://publications.europa.eu/resource/authority/event/CONS_ofEESC_byCONSIL;false;;2002-07-01;CONS_ofEESC_byCONSIL;Consultation of European Economic and Social Committee;Consultazione del Comitato economico e sociale europeo da parte del Consiglio
+http://publications.europa.eu/resource/authority/event/CONS_ofEMI_byCONSIL;true;1998-05-31;1994-01-01;CONS_ofEMI_byCONSIL;Consultation of European Monetary Institute by Council;Consultazione dell’Istituto monetario europeo da parte del Consiglio
+http://publications.europa.eu/resource/authority/event/CONS_ofEP_byCOM;false;;1967-07-01;CONS_ofEP_byCOM;Consultation Parliament by Commission;Consultazione del PE da parte della Commissione
+http://publications.europa.eu/resource/authority/event/CONS_ofEP_byCONSIL;false;;1967-07-01;CONS_ofEP_byCONSIL;Consultation of Parliament by Council;Consultazione del PE da parte del Consiglio
+http://publications.europa.eu/resource/authority/event/CONS_ofESC_byCOM;true;2002-06-30;1967-07-01;CONS_ofESC_byCOM;Consultation of Economic and Social Committee by Commission;Consultazione del Comitato economico e sociale da parte della Commissione
+http://publications.europa.eu/resource/authority/event/CONS_ofESC_byCONSIL;true;2002-06-30;1967-07-01;CONS_ofESC_byCONSIL;Consultation of Economic and Social Committee;Consultazione del Comitato economico e sociale da parte del Consiglio
+http://publications.europa.eu/resource/authority/event/CONV_ofCMT_CONC;false;;1967-07-01;CONV_ofCMT_CONC;Convening of the Conciliation Committee;Convocazione del Comitato di conciliazione
+http://publications.europa.eu/resource/authority/event/CONV_ofCMT_CONC_byCONSIL;true;1967-07-01;1967-06-30;CONV_ofCMT_CONC_byCONSIL;Convening of Conciliation Committee;Convocazione del comitato di conciliazione
+http://publications.europa.eu/resource/authority/event/CORR_byCOM;false;;1967-07-01;CORR_byCOM;Corrigendum;Rettifica
+http://publications.europa.eu/resource/authority/event/DAY_SITTING;false;;1952-09-10;DAY_SITTING;Sitting day;Giorno di sessione
+http://publications.europa.eu/resource/authority/event/DEC_BUDACT_byCONSIL;false;;1967-07-01;DEC_BUDACT_byCONSIL;Council decision on budgetary act;Decisione del Consiglio su atto di bilancio
+http://publications.europa.eu/resource/authority/event/DEC_BUDACT_byEP;true;2019-04-24;1967-07-01;DEC_BUDACT_byEP;EP decision on budgetary act;Decisione del PE su atto di bilancio
+http://publications.europa.eu/resource/authority/event/DEC_BUDDIS_byEP;false;;1967-07-01;DEC_BUDDIS_byEP;EP decision on budgetary discharge;Decisione di discarico bilancio da parte del PE
+http://publications.europa.eu/resource/authority/event/DEC_CONC_byCONSIL;true;2012-06-13;1967-07-01;DEC_CONC_byCONSIL;Council: decision, with or without conciliation;
+http://publications.europa.eu/resource/authority/event/DEC_FUAC_byCOM;false;;1967-07-01;DEC_FUAC_byCOM;Decision on follow-up action;Decisione sul seguito da dare
+http://publications.europa.eu/resource/authority/event/DEC_PROCEND_byCONSIL;true;2012-06-13;1967-07-01;DEC_PROCEND_byCONSIL;End of procedure: decision by Council;
+http://publications.europa.eu/resource/authority/event/DEC_PROCONCERT_byCONSIL;false;;1967-07-01;DEC_PROCONCERT_byCONSIL;Decision by Council on concertation procedure;Decisione del Consiglio sulla procedura di concertazione
+http://publications.europa.eu/resource/authority/event/DEC_R3_byCONSIL;false;;1967-07-01;DEC_R3_byCONSIL;Council decision on 3rd reading;Decisione del Consiglio terza lettura
+http://publications.europa.eu/resource/authority/event/DEC_R3_byEP;true;2018-10-16;1967-07-01;DEC_R3_byEP;EP decision on 3rd reading;Decisione del PE terza lettura
+http://publications.europa.eu/resource/authority/event/DEC_RSI_R1_byEP;true;2012-06-13;1967-07-01;DEC_RSI_R1_byEP;EP decision 1st reading or single reading;
+http://publications.europa.eu/resource/authority/event/DEC_SIGN_INT_AGR;false;;1952-07-23;DEC_SIGN_INT_AGR;Decision to sign an international agreement;Decisione di firmare un accordo internazionale
+http://publications.europa.eu/resource/authority/event/DEC_byACP_AMB;false;;1976-04-01;DEC_byACP_AMB;Decision of the ACP-EC Committee of Ambassadors;Decisione del Comitato degli ambasciatori ACP-CE
+http://publications.europa.eu/resource/authority/event/DEC_byACP_MIN;false;;1976-01-01;DEC_byACP_MIN;Decision of the ACP-EC Council of Ministers;Decisione del Consiglio dei ministri ACP-CE
+http://publications.europa.eu/resource/authority/event/DEC_byCMT_CONC;false;;1993-01-01;DEC_byCMT_CONC;Conciliation Committee decision;Decisione del Comitato di conciliazione
+http://publications.europa.eu/resource/authority/event/DEC_byCMT_CONJOIN;true;1967-07-01;1967-06-30;DEC_byCMT_CONJOIN;Joint Committee decision;Decisione del comitato congiunto
+http://publications.europa.eu/resource/authority/event/DEC_byCMT_COOP;false;;1967-07-01;DEC_byCMT_COOP;Decision of the Cooperation Committee;Decisione del Comitato di cooperazione
+http://publications.europa.eu/resource/authority/event/DEC_byCMT_JOIN;false;;1967-07-01;DEC_byCMT_JOIN;Decision of the Joint Committee;Decisione del Comitato congiunto
+http://publications.europa.eu/resource/authority/event/DEC_byCMT_MIX;false;;1967-07-01;DEC_byCMT_MIX;Joint Committee decision;Decisione del comitato congiunto
+http://publications.europa.eu/resource/authority/event/DEC_byCOUN_ASS;false;;1967-07-01;DEC_byCOUN_ASS;Association Council decision;Decisione del Consiglio di associazione
+http://publications.europa.eu/resource/authority/event/DEC_byCOUN_COOP;false;;1967-07-01;DEC_byCOUN_COOP;Cooperation Council decision;Decisione del Consiglio di cooperazione
+http://publications.europa.eu/resource/authority/event/DEC_byCOUN_JOIN;false;;1967-07-01;DEC_byCOUN_JOIN;Joint Council decision;Decisione del Consiglio congiunto
+http://publications.europa.eu/resource/authority/event/DEC_byEP;false;;1967-07-01;DEC_byEP;EP decision;Decisione del Parlamento europeo
+http://publications.europa.eu/resource/authority/event/DELIV_JUDG_ORDER;false;;1952-07-24;DELIV_JUDG_ORDER;Delivery of the Judgment or making of the Order;Pronuncia della sentenza o adozione del'ordinanza
+http://publications.europa.eu/resource/authority/event/DELIV_OPI_VIEW;false;;1952-07-24;DELIV_OPI_VIEW;Delivery of the Opinion or View;Lettura delle conclusioni o presa di posizione
+http://publications.europa.eu/resource/authority/event/DISSEMINATION_REQUEST_FOR_FEEDBACK;false;;2016-02-25;DISSEMINATION_REQUEST_FOR_FEEDBACK;Publication for feedback;Pubblicazione per raccogliere osservazioni
+http://publications.europa.eu/resource/authority/event/DIS_BUDR1_byCONSIL;false;;1967-07-01;DIS_BUDR1_byCONSIL;Discussion of budget by Council on 1st reading;Deliberazione di bilancio del Consiglio in prima lettura
+http://publications.europa.eu/resource/authority/event/DIS_BUDR1_byEP;true;2019-04-24;1967-07-01;DIS_BUDR1_byEP;Discussion of budget by EP on 1st reading;Deliberazione di bilancio del PE in prima lettura
+http://publications.europa.eu/resource/authority/event/DIS_BUDR2_byCONSIL;false;;1967-07-01;DIS_BUDR2_byCONSIL;Discussion of budget by Council on 2nd reading;Deliberazione di bilancio del PE in seconda lettura
+http://publications.europa.eu/resource/authority/event/DIS_BUDR2_byEP;true;2019-04-24;1967-07-01;DIS_BUDR2_byEP;Discussion of budget by EP on 2nd reading;Deliberazione di bilancio del PE in seconda lettura
+http://publications.europa.eu/resource/authority/event/DIS_byCONSIL;false;;1967-07-01;DIS_byCONSIL;Discussions within the Council or its preparatory bodies;Discussioni al Consiglio
+http://publications.europa.eu/resource/authority/event/DOCUMENT_TRANSMISSION;false;;1952-07-23;DOCUMENT_TRANSMISSION;Document transmission;Trasmissione del documento
+http://publications.europa.eu/resource/authority/event/EMPOW_byCOM;false;;1967-07-01;EMPOW_byCOM;Empowerment;Abilitazione
+http://publications.europa.eu/resource/authority/event/EP_COMMITTEE_MEETING;false;;1952-07-23;EP_COMMITTEE_MEETING;European Parliament committee meeting;Riunione della commissione del Parlamento europeo
+http://publications.europa.eu/resource/authority/event/EP_DELEGATION_MEETING;false;;1952-07-23;EP_DELEGATION_MEETING;European Parliament delegation meeting;Riunione della delegazione del Parlamento europeo
+http://publications.europa.eu/resource/authority/event/EP_MEETING_PART;false;;1952-07-23;EP_MEETING_PART;European Parliament meeting part;Parte della riunione del Parlamento europeo
+http://publications.europa.eu/resource/authority/event/EP_PLENARY_PART_SESSION;false;;1952-07-23;EP_PLENARY_PART_SESSION;European Parliament plenary part-session;Tornata del Parlamento europeo
+http://publications.europa.eu/resource/authority/event/EP_PLENARY_SESSION;false;;1952-07-23;EP_PLENARY_SESSION;European Parliament plenary session;Sessione plenaria del Parlamento europeo
+http://publications.europa.eu/resource/authority/event/EP_PLENARY_SITTING;false;;1952-07-23;EP_PLENARY_SITTING;European Parliament plenary sitting;Seduta plenaria del Parlamento europeo
+http://publications.europa.eu/resource/authority/event/INF_RJ_R2_byEP;true;2018-10-16;1967-07-01;INF_RJ_R2_byEP;Information concerning EP rejection on 2nd reading;Comunicazione sul rigetto del PE in seconda lettura
+http://publications.europa.eu/resource/authority/event/INIT_PLANNED;false;;2007-01-01;INIT_PLANNED;Initiative planned;Iniziativa programmata
+http://publications.europa.eu/resource/authority/event/INIT_UPDATED;false;;2018-07-24;INIT_UPDATED;Updated initiative;Iniziativa aggiornata
+http://publications.europa.eu/resource/authority/event/INI_byEUMS;false;;2009-12-01;INI_byEUMS;Member States initiative;Iniziativa degli Statii membri
+http://publications.europa.eu/resource/authority/event/JUDG_byCURIA;true;1952-07-24;1952-07-23;JUDG_byCURIA;Court of Justice judgment;Sentenza della Corte di giustizia
+http://publications.europa.eu/resource/authority/event/OPC_LAUNCHED;false;;2017-10-26;OPC_LAUNCHED;Open public consultation launched;Consultazione pubblica aperta in corso
+http://publications.europa.eu/resource/authority/event/OPI_ASS_byEP_CMT;true;2018-10-16;1967-07-01;OPI_ASS_byEP_CMT;EP Committee opinion on assent;Parere della commissione parlamentare — Parere conforme
+http://publications.europa.eu/resource/authority/event/OPI_BUDACT_byCONSIL;false;;1967-07-01;OPI_BUDACT_byCONSIL;Council opinion on budgetary act;Parere del Consiglio su atto di bilancio
+http://publications.europa.eu/resource/authority/event/OPI_BUDACT_byEP;true;2019-04-24;1967-07-01;OPI_BUDACT_byEP;EP opinion on budgetary act;Parere del PE su atto di bilancio
+http://publications.europa.eu/resource/authority/event/OPI_BUDACT_byEP_CMT;true;2018-10-16;1967-07-01;OPI_BUDACT_byEP_CMT;EP Committee opinion on budgetary act;Parere della commissione parlamentare su atto di bilancio
+http://publications.europa.eu/resource/authority/event/OPI_EXPL_byEESC;true;2016-08-30;2002-07-01;OPI_EXPL_byEESC;European Economic and Social Committee exploratory opinion;Parere esplorativo del Comitato economico e sociale europeo
+http://publications.europa.eu/resource/authority/event/OPI_EXPL_byESC;true;2002-06-30;1967-07-01;OPI_EXPL_byESC;Economic and Social Committee exploratory opinion;Parere esplorativo del Comitato economico e sociale
+http://publications.europa.eu/resource/authority/event/OPI_NO_R2_byEP;true;2018-10-16;1967-07-01;OPI_NO_R2_byEP;No EP opinion on 2nd reading;Mancata pronuncia del PE in seconda lettura
+http://publications.europa.eu/resource/authority/event/OPI_OUT_byCOR;true;2016-08-30;1993-01-12;OPI_OUT_byCOR;Outlook opinion of the Committee of the Regions;Parere di prospettiva del Comitato delle regioni
+http://publications.europa.eu/resource/authority/event/OPI_OWINI_byCOR;true;2016-08-30;1993-11-01;OPI_OWINI_byCOR;Committee of Regions own-initiative opinion;Parere di iniziativa del Comitato delle regioni
+http://publications.europa.eu/resource/authority/event/OPI_OWINI_byECA;false;;1978-01-01;OPI_OWINI_byECA;European Court of Auditors own-initiative opinion;Parere di iniziativa della Corte dei conti
+http://publications.europa.eu/resource/authority/event/OPI_OWINI_byEESC;false;;2002-07-01;OPI_OWINI_byEESC;European Economic and Social Committee own-initiative opinion;Parere di iniziativa del Comitato economico e sociale europeo
+http://publications.europa.eu/resource/authority/event/OPI_OWINI_byESC;true;2002-06-30;1967-07-01;OPI_OWINI_byESC;Economic and Social Committee own-initiative opinion;Parere di iniziativa del Comitato economico e sociale
+http://publications.europa.eu/resource/authority/event/OPI_OWINIbyCOR;true;1993-11-01;1993-10-31;OPI_OWINIbyCOR;Committee of Regions own-initiative opinion;Parere di iniziativa del Comitato delle regioni
+http://publications.europa.eu/resource/authority/event/OPI_R1_byEP;true;2018-10-16;1967-07-01;OPI_R1_byEP;EP opinion on 1st reading;Parere del PE in prima lettura
+http://publications.europa.eu/resource/authority/event/OPI_R1_byEP_CMT;true;2018-10-16;1967-07-01;OPI_R1_byEP_CMT;EP Committee opinion on 1st reading;Parere della commissione parlamentare in prima lettura
+http://publications.europa.eu/resource/authority/event/OPI_R2_byEP;true;2018-10-16;1967-07-01;OPI_R2_byEP;EP opinion on 2nd reading;Parere del PE in seconda lettura
+http://publications.europa.eu/resource/authority/event/OPI_R2_byEP_CMT;true;2018-10-16;1967-07-01;OPI_R2_byEP_CMT;EP Committee opinion on 2nd reading;Parere della commissione parlamentare in seconda lettura
+http://publications.europa.eu/resource/authority/event/OPI_R3_byEP_CMT;true;2018-10-16;1967-07-01;OPI_R3_byEP_CMT;EP Committee opinion on 3rd reading;Parere della commissione parlamentare in terza lettura
+http://publications.europa.eu/resource/authority/event/OPI_RES_byEP_CMT;true;2018-10-16;1967-07-01;OPI_RES_byEP_CMT;EP Committee opinion – resolution;Parere della commissione parlamentare — Risoluzione
+http://publications.europa.eu/resource/authority/event/OPI_RSI_byEP;false;;1967-07-01;OPI_RSI_byEP;EP opinion on single reading;Parere del PE in lettura unica
+http://publications.europa.eu/resource/authority/event/OPI_RSI_byEP_CMT;true;2018-10-16;1967-07-01;OPI_RSI_byEP_CMT;EP Committee opinion on single reading;Parere della commissione parlamentare in lettura unica
+http://publications.europa.eu/resource/authority/event/OPI_byCMT_MON;false;;1997-10-02;OPI_byCMT_MON;Monetary Committee opinion;Parere del Comitato monetario europeo
+http://publications.europa.eu/resource/authority/event/OPI_byCONSIL;false;;1967-07-01;OPI_byCONSIL;Council opinion;Parere del Consiglio
+http://publications.europa.eu/resource/authority/event/OPI_byCOR;false;;1993-11-01;OPI_byCOR;Committee of Regions opinion;Parere del Comitato delle regioni
+http://publications.europa.eu/resource/authority/event/OPI_byCURIA;true;1952-07-24;1952-07-23;OPI_byCURIA;Court of Justice opinion;Parere della Corte di giustizia
+http://publications.europa.eu/resource/authority/event/OPI_byECA;false;;1977-04-28;OPI_byECA;Court of Auditors opinion;Parere della Corte dei conti
+http://publications.europa.eu/resource/authority/event/OPI_byECB;false;;1997-11-10;OPI_byECB;European Central Bank opinion;Parere della Banca centrale europea
+http://publications.europa.eu/resource/authority/event/OPI_byECSC_CMTCSL;true;2002-07-23;1967-07-01;OPI_byECSC_CMTCSL;ECSC Consultative Committee opinion;Parere del Comitato consultivo CECA
+http://publications.europa.eu/resource/authority/event/OPI_byEDPS;false;;2001-01-12;OPI_byEDPS;Opinion of the European Data Protection Supervisor;Parere del Garante europeo della protezione dei dati
+http://publications.europa.eu/resource/authority/event/OPI_byEESC;false;;2002-07-01;OPI_byEESC;European Economic and Social Committee opinion;Parere del Comitato economico e sociale europeo
+http://publications.europa.eu/resource/authority/event/OPI_byEIB;false;;1967-07-01;OPI_byEIB;European Investment Bank opinion;Parere della Banca europea per gli investimenti
+http://publications.europa.eu/resource/authority/event/OPI_byEMI;true;1997-12-31;1994-01-01;OPI_byEMI;European Monetary Institute opinion;Parere dell’Istituto monetario europeo
+http://publications.europa.eu/resource/authority/event/OPI_byESC;true;2002-06-30;1967-07-01;OPI_byESC;Economic and Social Committee opinion;Parere del Comitato economico e sociale
+http://publications.europa.eu/resource/authority/event/OPI_byFRA;false;;2007-03-01;OPI_byFRA;European Union Agency for Fundamental Rights opinion;Parere dell’Agenzia dell'Unione europea per i diritti fondamentali
+http://publications.europa.eu/resource/authority/event/OP_DATPRO;false;;1952-07-23;OP_DATPRO;Provisional data;Dati provvisori
+http://publications.europa.eu/resource/authority/event/POS_AME_R1_byCOM;false;;1967-07-01;POS_AME_R1_byCOM;Commission position on EP amendments on 1st reading;Posizione della Commissione sugli emendamenti del PE in prima lettura
+http://publications.europa.eu/resource/authority/event/POS_AME_R2_byCOM;false;;1967-07-01;POS_AME_R2_byCOM;Commission position on EP amendments on 2nd reading;Posizione della Commissione sugli emendamenti del PE in seconda lettura
+http://publications.europa.eu/resource/authority/event/POS_AME_RSI_byCOM;false;;1967-07-01;POS_AME_RSI_byCOM;Commission position on EP amendments on single reading;Posizione della Commissione sugli emendamenti del PE in lettura unica
+http://publications.europa.eu/resource/authority/event/POS_BUDACT_byEP;false;;2019-04-25;POS_BUDACT_byEP;EP position on draft budgetary act;Parere del PE su un progetto di atto di bilancio
+http://publications.europa.eu/resource/authority/event/PRTC_INT_AGR_END;false;;1952-07-23;PRTC_INT_AGR_END;Participation in an international agreement – end;Partecipazione a un accordo internazionale – fine
+http://publications.europa.eu/resource/authority/event/PRTC_INT_AGR_START;false;;1952-07-23;PRTC_INT_AGR_START;Participation in an international agreement – start;Partecipazione a un accordo internazionale – inizio
+http://publications.europa.eu/resource/authority/event/PUB;true;2012-06-13;1969-01-18;PUB;Publication at the Official Journal;
+http://publications.europa.eu/resource/authority/event/PUB_CFE;false;;2021-02-22;PUB_CFE;Publication of a call for evidence;Pubblicazione di un invito a presentare contributi
+http://publications.europa.eu/resource/authority/event/PUB_DHP;false;;2021-04-12;PUB_DHP;Publication of ‘documents hors procédure’;Pubblicazione di «documents hors procédure»
+http://publications.europa.eu/resource/authority/event/PUB_OJ;false;;1969-01-18;PUB_OJ;Publication in the Official Journal;Pubblicazione nella Gazzetta ufficiale
+http://publications.europa.eu/resource/authority/event/PUB_RM;false;;2016-09-22;PUB_RM;Publication for feedback;Pubblicazione per raccogliere osservazioni
+http://publications.europa.eu/resource/authority/event/PUB_STRATEGY;false;;2015-05-19;PUB_STRATEGY;Publication of a consultation strategy document;Pubblicazione di un documento di strategia della consultazione
+http://publications.europa.eu/resource/authority/event/PUB_SUMMARY;false;;2015-05-19;PUB_SUMMARY;Publication of a summary report on a public consultation;Pubblicazione di una relazione di sintesi su una consultazione pubblica
+http://publications.europa.eu/resource/authority/event/PUB_SWD_STAND;false;;2021-01-21;PUB_SWD_STAND;Publication of a ‘Stand-alone’ staff working document;Pubblicazione di un documento di lavoro dei servizi della Commissione «stand-alone»
+http://publications.europa.eu/resource/authority/event/RAT_INT_AGR;false;;1952-07-23;RAT_INT_AGR;Ratification of an international agreement;Ratifica di un accordo internazionale
+http://publications.europa.eu/resource/authority/event/RECP_COMPOS_byEP;false;;1967-07-01;RECP_COMPOS_byEP;Receipt by EP of Council common position;Ricevimento da parte del PE della posizione comune del Consiglio
+http://publications.europa.eu/resource/authority/event/RECP_byEP;false;;1967-07-01;RECP_byEP;Receipt by the Parliament of the Council’s position at 1st reading;Ricevimento da parte del PE della posizione del Consiglio in prima lettura
+http://publications.europa.eu/resource/authority/event/REF_OF_byEP;true;2012-06-13;1967-07-01;REF_OF_byEP;EP: referral to Committee responsible and Committee asked for opinion;
+http://publications.europa.eu/resource/authority/event/REF_PRE_byEP;true;2012-06-13;1967-07-01;REF_PRE_byEP;EP: document for information, pre-referral;
+http://publications.europa.eu/resource/authority/event/REF_SELF_byCOR;false;;1994-11-01;REF_SELF_byCOR;Self-referral by Committee of Regions;Iniziativa del Comitato delle regioni
+http://publications.europa.eu/resource/authority/event/REP_ASS_byEP_CMT;true;2018-10-16;1967-07-01;REP_ASS_byEP_CMT;EP Committee report on assent;Relazione della commissione parlamentare su parere conforme
+http://publications.europa.eu/resource/authority/event/REP_BUDACT_byEP_CMT;true;2018-10-16;1967-07-01;REP_BUDACT_byEP_CMT;EP Committee report on budgetary act;Relazione della commissione parlamentare su atto di bilancio
+http://publications.europa.eu/resource/authority/event/REP_R1_byEP_CMT;true;2018-10-16;1967-07-01;REP_R1_byEP_CMT;EP Committee report on 1st reading;Relazione della commissione parlamentare in prima lettura
+http://publications.europa.eu/resource/authority/event/REP_R2_byEP_CMT;true;2018-10-16;1967-07-01;REP_R2_byEP_CMT;EP Committee report on 2nd reading;Relazione della commissione parlamentare in seconda lettura
+http://publications.europa.eu/resource/authority/event/REP_R3_byEP_CMT;true;2018-10-16;1967-07-01;REP_R3_byEP_CMT;EP Committee report on 3rd reading;Relazione della commissione parlamentare in terza lettura
+http://publications.europa.eu/resource/authority/event/REP_RES_byEP_CMT;true;2018-10-16;1967-07-01;REP_RES_byEP_CMT;EP Committee report — resolution;Relazione della commissione parlamentare – Risoluzione
+http://publications.europa.eu/resource/authority/event/REP_RSI_byEP_CMT;true;2018-10-16;1967-07-01;REP_RSI_byEP_CMT;EP Committee report on single reading;Relazione della commissione parlamentare in lettura unica
+http://publications.europa.eu/resource/authority/event/REQ_INI_PROCONCERT_byEP;false;;1967-07-01;REQ_INI_PROCONCERT_byEP;Request by EP to initiate concertation procedure;Richiesta del Parlamento europeo di aprire una procedura di concertazione
+http://publications.europa.eu/resource/authority/event/RES_byCONSIL;false;;1967-07-01;RES_byCONSIL;Council resolution;Risoluzione del Consiglio
+http://publications.europa.eu/resource/authority/event/RES_byCOR;true;2016-08-30;1993-11-01;RES_byCOR;Committee of Regions resolution;Risoluzione del Comitato delle regioni
+http://publications.europa.eu/resource/authority/event/RES_byEESC;true;2016-08-30;2002-07-01;RES_byEESC;European Economic and Social Committee resolution;Risoluzione del Comitato economico e sociale europeo
+http://publications.europa.eu/resource/authority/event/RES_byEP;false;;1967-07-01;RES_byEP;EP resolution;Risoluzione del PE
+http://publications.europa.eu/resource/authority/event/RES_byESC;true;2002-06-30;1967-07-01;RES_byESC;Economic and Social Committee resolution;Risoluzione del Comitato economico e sociale
+http://publications.europa.eu/resource/authority/event/RJ_R2_POS_CONSIL_byEP;false;;2009-12-01;RJ_R2_POS_CONSIL_byEP;EP rejection at 2nd reading of the Council’s position;Rigetto della posizione del Consiglio da parte del PE in seconda lettura
+http://publications.europa.eu/resource/authority/event/RJ_byCONSIL;false;;1967-07-01;RJ_byCONSIL;Rejection by Council;Rigetto da parte del Consiglio
+http://publications.europa.eu/resource/authority/event/RJ_byEP;false;;1967-07-01;RJ_byEP;Rejected by EP;Rigetto da parte del PE
+http://publications.europa.eu/resource/authority/event/RPL_IMP_byCOM;false;;1967-07-01;RPL_IMP_byCOM;Implicit replacement;Sostituzione implicita
+http://publications.europa.eu/resource/authority/event/RPL_PAR_byCOM;false;;1967-07-01;RPL_PAR_byCOM;Partial replacement;Sostituzione parziale
+http://publications.europa.eu/resource/authority/event/RPL_byCOM;false;;1967-07-01;RPL_byCOM;Replacement;Sostituzione
+http://publications.europa.eu/resource/authority/event/SIGN_BUD_byEP;false;;1967-07-01;SIGN_BUD_byEP;Signature of budget by EP;Sottoscrizione del bilancio da parte del PE
+http://publications.europa.eu/resource/authority/event/SIGN_INT_AGR;false;;1952-07-23;SIGN_INT_AGR;Signature of an international agreement;Firma di un accordo internazionale
+http://publications.europa.eu/resource/authority/event/SIGN_PAR_byEP_CONSIL;false;;1967-07-01;SIGN_PAR_byEP_CONSIL;Partial signature by EP and Council;Sottoscrizione parziale da parte di PE e Consiglio
+http://publications.europa.eu/resource/authority/event/SIGN_byEP_CONSIL;false;;1967-07-01;SIGN_byEP_CONSIL;Signature by the President of the EP and by the President of the Council;Sottoscrizione del presidente del PE e del presidente del Consiglio
+http://publications.europa.eu/resource/authority/event/START_byEP;true;2012-06-13;1967-07-01;START_byEP;EP: official start of referral or autorisation;
+http://publications.europa.eu/resource/authority/event/SUPP_byCOM;false;;1967-07-01;SUPP_byCOM;Supplement;Complemento
+http://publications.europa.eu/resource/authority/event/TRS_EP_CC_POSR1_byCOM;false;;1967-07-01;TRS_EP_CC_POSR1_byCOM;Transmission to Parliament of Commission communication on Council’s position at 1st reading;Trasmissione al Parlamento della comunicazione della Commissione sulla posizione del Consiglio in prima lettura
+http://publications.europa.eu/resource/authority/event/TRS_EP_DCLCOMPOS_byCOM;false;;1967-07-01;TRS_EP_DCLCOMPOS_byCOM;Transmission to EP of declaration on common position;Trasmissione al PE della dichiarazione su posizione comune
+http://publications.europa.eu/resource/authority/event/TRS_EP_OPIAME_R2_byCOM;false;;1967-07-01;TRS_EP_OPIAME_R2_byCOM;Transmission to EP of Commission opinion on EP amendments on 2nd reading;Trasmissione al PE del parere della Commissione sugli emendamenti del PE in seconda lettura
+http://publications.europa.eu/resource/authority/event/TRS_EP_PROPAME_byCOM;false;;1967-07-01;TRS_EP_PROPAME_byCOM;Transmission to EP of amended proposal;Trasmissione al PE della proposta modificata
+http://publications.europa.eu/resource/authority/event/TRS_EP_PROREEX_byCOM;false;;1967-07-01;TRS_EP_PROREEX_byCOM;Transmission to EP of re-examined proposal;Trasmissione al PE della proposta riesaminata
+http://publications.europa.eu/resource/authority/event/TRS_EP_byCOM;false;;1967-07-01;TRS_EP_byCOM;Transmission to Parliament;Trasmissione al PE
+http://publications.europa.eu/resource/authority/event/TRS_OMB_byCOM;false;;1967-07-01;TRS_OMB_byCOM;Transmission to European Ombudsman;Trasmissione al Mediatore europeo
+http://publications.europa.eu/resource/authority/event/TRS_toCONSIL_CC_R1_byCOM;false;;1967-07-01;TRS_toCONSIL_CC_R1_byCOM;Transmission to Council of Commission communication on Council’s position at 1st reading;Trasmissione al Consiglio della comunicazione della Commissione sulla posizione del Consiglio in prima lettura
+http://publications.europa.eu/resource/authority/event/TRS_toCONSIL_COMPOS_byCOM;false;;1967-07-01;TRS_toCONSIL_COMPOS_byCOM;Transmission to Council of declaration on common position;Trasmissione al Consiglio della dichiarazione su posizione comune
+http://publications.europa.eu/resource/authority/event/TRS_toCONSIL_OP_R2_byCOM;false;;1967-07-01;TRS_toCONSIL_OP_R2_byCOM;Transmission to Council of Commission opinion on EP amendments on 2nd reading;Trasmissione al Consiglio del parere della Commissione su emendamenti del PE in seconda lettura
+http://publications.europa.eu/resource/authority/event/TRS_toCONSIL_PROPAME_byCOM;false;;1967-07-01;TRS_toCONSIL_PROPAME_byCOM;Transmission of the amended proposal to the Council;Trasmissione al Consiglio della proposta modificata
+http://publications.europa.eu/resource/authority/event/TRS_toCONSIL_PROREEX_byCOM;false;;1967-07-01;TRS_toCONSIL_PROREEX_byCOM;Transmission of the re-examined proposal to the Council;Trasmissione al Consiglio della proposta riesaminata
+http://publications.europa.eu/resource/authority/event/TRS_toCONSIL__byCOM;true;1967-07-01;1967-06-30;TRS_toCONSIL__byCOM;Transmission to the European Council;Trasmissione al Consiglio europeo
+http://publications.europa.eu/resource/authority/event/TRS_toCONSIL_byCOM;false;;1967-07-01;TRS_toCONSIL_byCOM;Transmission to Council;Trasmissione al Consiglio
+http://publications.europa.eu/resource/authority/event/TRS_toEP_CONSIL_PROPAME_byCOM;false;;1967-07-01;TRS_toEP_CONSIL_PROPAME_byCOM;Transmission of amended proposal to the European Parliament and to the Council;Trasmissione della proposta modificata al Parlamento europeo e al Consiglio
+http://publications.europa.eu/resource/authority/event/TRS_toEP_CONSIL_PROP_byCOM;false;;1967-07-01;TRS_toEP_CONSIL_PROP_byCOM;Transmission of proposal to the European Parliament and to the Council;Trasmissione della proposta al Parlamento europeo e al Consiglio
+http://publications.europa.eu/resource/authority/event/TRS_toEURCOU_byCOM;false;;1967-07-01;TRS_toEURCOU_byCOM;Transmission to the European Council;Trasmissione al Consiglio europeo
+http://publications.europa.eu/resource/authority/event/WDW_LIS_byCOM;false;;1967-07-01;WDW_LIS_byCOM;Withdrawal by the Commission following entry into force of the Lisbon Treaty;Ritiro da parte della Commissione in seguito all'entrata in vigore del trattato di Lisbona
+http://publications.europa.eu/resource/authority/event/WDW_PAR_byCOM;false;;1967-07-01;WDW_PAR_byCOM;Partial withdrawal by Commission;Ritiro parziale da parte della Commissione
+http://publications.europa.eu/resource/authority/event/WDW_byCOM;false;;1967-07-01;WDW_byCOM;Withdrawal by Commission;Ritiro da parte della Commissione

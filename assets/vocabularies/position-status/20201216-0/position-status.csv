@@ -1,0 +1,12 @@
+url;deprecated;valid_until;valid_from;id;label_en;label_it
+http://publications.europa.eu/resource/authority/position-status/ACTING;false;;2009-12-01;ACTING;Acting;Facente funzioni
+http://publications.europa.eu/resource/authority/position-status/AFF;false;;2009-12-01;AFF;Assignment;Assegnazione
+http://publications.europa.eu/resource/authority/position-status/AI;false;;2009-12-01;AI;Ad Interim;Facente funzioni
+http://publications.europa.eu/resource/authority/position-status/DIS;false;;2009-12-01;DIS;Placed at the disposal;Messo a disposizione
+http://publications.europa.eu/resource/authority/position-status/DISDL;false;;2009-12-01;DISDL;Placed at disposal in a delegation;Messo a disposizione di una delegazione
+http://publications.europa.eu/resource/authority/position-status/HDR;false;;2009-12-01;HDR;Handover;Passaggio delle consegne
+http://publications.europa.eu/resource/authority/position-status/OCUP_NO;false;;2009-12-01;OCUP_NO;Not occupied;Non occupato
+http://publications.europa.eu/resource/authority/position-status/OCUP_SECOM;false;;2009-12-01;OCUP_SECOM;Occupation during a secondment in the institution;Occupazione durante un distaccamento presso l’istituzione
+http://publications.europa.eu/resource/authority/position-status/OP_DATPRO;;;;OP_DATPRO;Provisional data;Dati provvisori
+http://publications.europa.eu/resource/authority/position-status/REPL_TEMP;false;;2009-12-01;REPL_TEMP;Temporary replacement;Sostituzione temporanea
+http://publications.europa.eu/resource/authority/position-status/RESV;false;;2009-12-01;RESV;Reserved;Riservato

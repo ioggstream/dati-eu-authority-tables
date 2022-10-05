@@ -943,11 +943,11 @@
     at:op-code "ISBN_RG" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:affected-table "notation-type" ;
-            at:legacy-code "id-isbn" ;
+            at:legacy-code "id-isbn.old" ;
             dc:source "MDR" ],
         [ a at:MappedCode ;
             at:affected-table "notation-type" ;
-            at:legacy-code "id-isbn.old" ;
+            at:legacy-code "id-isbn" ;
             dc:source "MDR" ] ;
     at:start.use "2000-01-01" ;
     atold:op-code "ISBN_RG" ;
@@ -1471,11 +1471,11 @@
     at:op-code "OP_CAT" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:affected-table "notation-type" ;
-            at:legacy-code "cat.no" ;
+            at:legacy-code "cat.no.old" ;
             dc:source "MDR" ],
         [ a at:MappedCode ;
             at:affected-table "notation-type" ;
-            at:legacy-code "cat.no.old" ;
+            at:legacy-code "cat.no" ;
             dc:source "MDR" ] ;
     at:start.use "1969-01-18" ;
     atold:op-code "OP_CAT" ;

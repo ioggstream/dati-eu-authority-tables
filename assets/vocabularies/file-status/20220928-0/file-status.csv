@@ -1,0 +1,18 @@
+url;deprecated;valid_until;valid_from;id;label_en;label_it
+http://publications.europa.eu/resource/authority/file-status/ADOPTED;false;;2022-09-28;ADOPTED;Adopted;
+http://publications.europa.eu/resource/authority/file-status/FINAL;false;;2022-09-28;FINAL;Final;
+http://publications.europa.eu/resource/authority/file-status/OP_DATPRO;false;;1952-07-23;OP_DATPRO;Provisional data;Dati provvisori
+http://publications.europa.eu/resource/authority/file-status/PROC_COMPLETED;false;;2018-12-12;PROC_COMPLETED;Completed procedure;Procedura completata
+http://publications.europa.eu/resource/authority/file-status/PROC_PENDING;false;;2018-12-12;PROC_PENDING;Pending procedure;Procedura in sospeso
+http://publications.europa.eu/resource/authority/file-status/PROC_WITHDRAWN;false;;2018-12-12;PROC_WITHDRAWN;Withdrawn procedure;Procedura ritirata
+http://publications.europa.eu/resource/authority/file-status/PROP_ACCEPTED;false;;2021-03-17;PROP_ACCEPTED;Accepted proposal;Proposta accettata
+http://publications.europa.eu/resource/authority/file-status/PROP_ACCEPTED_PART;false;;2021-03-17;PROP_ACCEPTED_PART;Partially accepted proposal;Proposta parzialmente accettata
+http://publications.europa.eu/resource/authority/file-status/PROP_ADOPTED;true;2021-03-16;2018-12-12;PROP_ADOPTED;Adopted proposal;Proposta adottata
+http://publications.europa.eu/resource/authority/file-status/PROP_ADOPTED_PART;true;2021-03-16;2018-12-12;PROP_ADOPTED_PART;Partially adopted proposal;Proposta parzialmente adottata
+http://publications.europa.eu/resource/authority/file-status/PROP_PENDING;true;2021-03-16;2018-12-12;PROP_PENDING;Pending proposal;Proposta in sospeso
+http://publications.europa.eu/resource/authority/file-status/PROP_REJECTED;false;;2021-03-17;PROP_REJECTED;Rejected proposal;Proposta respinta
+http://publications.europa.eu/resource/authority/file-status/PROP_SUBMITTED;false;;2021-03-17;PROP_SUBMITTED;Submitted proposal;Proposta presentata
+http://publications.europa.eu/resource/authority/file-status/PROP_WITHDRAWN;false;;2018-12-12;PROP_WITHDRAWN;Withdrawn proposal;Proposta ritirata
+http://publications.europa.eu/resource/authority/file-status/PROP_WITHDRAWN_PART;false;;2018-12-12;PROP_WITHDRAWN_PART;Partially withdrawn proposal;Proposta parzialmente ritirata
+http://publications.europa.eu/resource/authority/file-status/PROVISIONAL;false;;2022-09-28;PROVISIONAL;Provisional;
+http://publications.europa.eu/resource/authority/file-status/REVISED;false;;2022-09-28;REVISED;Revised;

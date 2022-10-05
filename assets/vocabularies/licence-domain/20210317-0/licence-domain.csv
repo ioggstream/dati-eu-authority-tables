@@ -1,0 +1,6 @@
+url;deprecated;valid_until;valid_from;id;label_en;label_it
+http://publications.europa.eu/resource/authority/licence-domain/CODE;false;;1952-07-23;CODE;Code;Code
+http://publications.europa.eu/resource/authority/licence-domain/DATA;false;;1952-07-23;DATA;Data;Dati
+http://publications.europa.eu/resource/authority/licence-domain/METADATA;false;;1952-07-23;METADATA;Metadata;Metadati
+http://publications.europa.eu/resource/authority/licence-domain/OP_DATPRO;;;;OP_DATPRO;Provisional data;Dati provvisori
+http://publications.europa.eu/resource/authority/licence-domain/W_LIT_ART;false;;1952-07-23;W_LIT_ART;Literary and/or artistic works;Opere letterarie e/o artistiche

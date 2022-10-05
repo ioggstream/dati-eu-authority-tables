@@ -2102,13 +2102,13 @@
     at:deprecated "false" ;
     at:op-code "LEAD_CORP" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "FD_607" ;
-            at:legacy-code "1005;CHEFILE" ;
-            dc:source "ATTO.EurLex" ],
-        [ a at:MappedCode ;
             at:affected-table "role" ;
             at:legacy-code "RESP_CORP" ;
-            dc:source "MDR" ] ;
+            dc:source "MDR" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_607" ;
+            at:legacy-code "1005;CHEFILE" ;
+            dc:source "ATTO.EurLex" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "LEAD_CORP" ;
     dc:identifier "LEAD_CORP" ;

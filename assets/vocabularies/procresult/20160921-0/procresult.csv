@@ -1,0 +1,14 @@
+url;deprecated;valid_until;valid_from;id;label_en;label_it
+http://publications.europa.eu/resource/authority/procresult/ADJ;false;;1952-07-24;ADJ;Adjourned;Aggiornato
+http://publications.europa.eu/resource/authority/procresult/APPL_GRANT;false;;1952-07-24;APPL_GRANT;Application granted;Accoglimento
+http://publications.europa.eu/resource/authority/procresult/CONFORM_NON_TREATY;false;;1952-07-24;CONFORM_NON_TREATY;Non-conformity with the Treaty (opinions or rulings);Non conformità con il Trattato (pareri o deliberazioni)
+http://publications.europa.eu/resource/authority/procresult/CONFORM_TREATY;false;;1952-07-24;CONFORM_TREATY;Conformity with the Treaty (opinions or rulings);Conformità con il Trattato (pareri o deliberazioni)
+http://publications.europa.eu/resource/authority/procresult/DISM_GROUNDS_INADM;false;;1952-07-24;DISM_GROUNDS_INADM;Dismissal on grounds of inadmissibility;Rigetto per irricevibilità
+http://publications.europa.eu/resource/authority/procresult/DISM_SUBST_GROUNDS;false;;1952-07-24;DISM_SUBST_GROUNDS;Dismissal on substantive grounds;Rigetto nel merito
+http://publications.europa.eu/resource/authority/procresult/JUDG_INTLC;false;;1952-07-24;JUDG_INTLC;Interlocutory judgment;Sentenza interlocutoria
+http://publications.europa.eu/resource/authority/procresult/JUDG_NOT_PROCEED;false;;1952-07-24;JUDG_NOT_PROCEED;Case not proceeding to judgment;Non luogo a provvedere
+http://publications.europa.eu/resource/authority/procresult/OP_DATPRO;;;;OP_DATPRO;Provisional data;Dati provvisori
+http://publications.europa.eu/resource/authority/procresult/RAD;false;;1952-07-24;RAD;Removal from the register;Cancellazione dal ruolo
+http://publications.europa.eu/resource/authority/procresult/STL_AMI_HEAR;false;;1952-07-24;STL_AMI_HEAR;Amicable settlement made at a hearing;Composizione amichevole raggiunta nel corso di un'udienza
+http://publications.europa.eu/resource/authority/procresult/STL_AMI_INFHEAR;false;;1952-07-24;STL_AMI_INFHEAR;Amicable settlement made at an informal meeting;Composizione amichevole raggiunta nel corso di una riunione informale
+http://publications.europa.eu/resource/authority/procresult/STL_AMI_PARTIES;false;;1952-07-24;STL_AMI_PARTIES;Amicable settlement made between the parties;Composizione amichevole raggiunta tra le parti

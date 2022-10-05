@@ -1,0 +1,5 @@
+url;deprecated;valid_until;valid_from;id;label_en;label_it
+http://publications.europa.eu/resource/authority/accessibility/OP_DATPRO;false;;1952-07-23;OP_DATPRO;Provisional data;Dati provvisori
+http://publications.europa.eu/resource/authority/accessibility/inc;false;;2019-09-18;inc;Accessibility criteria for persons with disabilities are included;Sono compresi criteri di accessibilità per le persone con disabilità
+http://publications.europa.eu/resource/authority/accessibility/n-inc;false;;2019-09-18;n-inc;Accessibility criteria for persons with disabilities are not included because the procurement is not intended for use by natural persons;Non sono compresi criteri di accessibilità per le persone con disabilità perché l'oggetto dell'appalto non è destinato all'uso da parte di persone fisiche
+http://publications.europa.eu/resource/authority/accessibility/n-inc-just;false;;2019-09-18;n-inc-just;Accessibility criteria for persons with disabilities are not included with the following justification;Non sono compresi criteri di accessibilità per le persone con disabilità con la giustificazione seguente

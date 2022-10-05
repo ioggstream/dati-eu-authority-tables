@@ -1,0 +1,8 @@
+url;deprecated;valid_until;valid_from;id;label_en;label_it
+http://publications.europa.eu/resource/authority/access-right/CONFIDENTIAL;false;;2021-03-17;CONFIDENTIAL;confidential;riservato
+http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC;false;;2013-01-01;NON_PUBLIC;non-public;non pubblico
+http://publications.europa.eu/resource/authority/access-right/NORMAL;true;2022-03-16;2009-12-01;NORMAL;normal;normale
+http://publications.europa.eu/resource/authority/access-right/OP_DATPRO;false;;1952-07-23;OP_DATPRO;Provisional data;Dati provvisori
+http://publications.europa.eu/resource/authority/access-right/PUBLIC;false;;2013-01-01;PUBLIC;public;pubblico
+http://publications.europa.eu/resource/authority/access-right/RESTRICTED;false;;2013-01-01;RESTRICTED;restricted;limitato
+http://publications.europa.eu/resource/authority/access-right/SENSITIVE;false;;2020-03-18;SENSITIVE;sensitive;sensibile

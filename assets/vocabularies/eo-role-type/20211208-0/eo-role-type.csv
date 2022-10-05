@@ -1,0 +1,7 @@
+url;deprecated;valid_until;valid_from;id;label_en;label_it
+http://publications.europa.eu/resource/authority/eo-role-type/OP_DATPRO;;;;OP_DATPRO;Provisional data;Dati provvisori
+http://publications.europa.eu/resource/authority/eo-role-type/group-lead;false;;2021-06-16;group-lead;Group leader;Capogruppo
+http://publications.europa.eu/resource/authority/eo-role-type/group-mem;false;;2021-06-16;group-mem;Group member;Membro del gruppo
+http://publications.europa.eu/resource/authority/eo-role-type/oeron;false;;2021-06-16;oeron;Other entity (relied upon);Altro soggetto (sul quale si fa affidamento)
+http://publications.europa.eu/resource/authority/eo-role-type/sole-tenderer;false;;2021-06-16;sole-tenderer;Sole tenderer;Offerente unico
+http://publications.europa.eu/resource/authority/eo-role-type/subcont;false;;2021-06-16;subcont;Subcontractor;Subappaltatore

@@ -1,0 +1,288 @@
+url;deprecated;valid_until;valid_from;id;label_en;label_it
+http://publications.europa.eu/resource/authority/currency/ADF;true;1999-01-01;1990-01-01;ADF;Andorran franc;
+http://publications.europa.eu/resource/authority/currency/ADP;true;1999-01-01;1990-01-01;ADP;Andorran peseta;Peseta andorrana
+http://publications.europa.eu/resource/authority/currency/AED;false;;1990-01-01;AED;UAE dirham;Dirham degli EAU
+http://publications.europa.eu/resource/authority/currency/AFA;true;2002-12-31;1925-01-01;AFA;Afghani;Afghani
+http://publications.europa.eu/resource/authority/currency/AFN;false;;2003-01-01;AFN;Afghani;Afghani
+http://publications.europa.eu/resource/authority/currency/ALK;true;1992-12-31;1926-01-01;ALK;Lek;Lek
+http://publications.europa.eu/resource/authority/currency/ALL;false;;1993-01-01;ALL;Lek;Lek
+http://publications.europa.eu/resource/authority/currency/AMD;false;;1993-11-22;AMD;Dram;Dram
+http://publications.europa.eu/resource/authority/currency/ANG;false;;1990-01-01;ANG;Netherlands Antillean guilder;Fiorino delle Antille olandesi
+http://publications.europa.eu/resource/authority/currency/AOA;false;;2000-01-01;AOA;Kwanza;Kwanza
+http://publications.europa.eu/resource/authority/currency/AON;true;1999-12-31;1990-01-01;AON;New Angolan kwanza;Nuovo kwanza angolano
+http://publications.europa.eu/resource/authority/currency/AOR;true;1999-12-31;1996-01-01;AOR;Angolan kwanza readjustado;Kwanza reajustado angolano
+http://publications.europa.eu/resource/authority/currency/ARA;true;1991-12-31;1985-06-15;ARA;Argentine austral;Austral argentino
+http://publications.europa.eu/resource/authority/currency/ARL;true;1983-05-05;1970-01-01;ARL;Argentine peso ley;
+http://publications.europa.eu/resource/authority/currency/ARM;true;1969-12-31;1952-07-25;ARM;Argentine peso moneda nacional;Peso moneda nacional argentino
+http://publications.europa.eu/resource/authority/currency/ARP;true;1985-06-14;1983-05-06;ARP;Argentine peso argentino;Peso argentino
+http://publications.europa.eu/resource/authority/currency/ARS;false;;1992-01-01;ARS;Argentine peso;Peso argentino
+http://publications.europa.eu/resource/authority/currency/ATS;true;1999-01-01;1952-07-25;ATS;Austrian schilling;Scellino austriaco
+http://publications.europa.eu/resource/authority/currency/AUD;false;;1990-01-01;AUD;Australian dollar;Dollaro australiano
+http://publications.europa.eu/resource/authority/currency/AWG;false;;1986-01-01;AWG;Aruban guilder;Fiorino di Aruba
+http://publications.europa.eu/resource/authority/currency/AZM;true;2005-12-31;1992-08-15;AZM;Azerbaijani manat;Manat azero
+http://publications.europa.eu/resource/authority/currency/AZN;false;;2006-01-01;AZN;Azerbaijan manat;Manat azero
+http://publications.europa.eu/resource/authority/currency/BAM;false;;1995-01-01;BAM;Convertible mark;Marco convertibile
+http://publications.europa.eu/resource/authority/currency/BBD;false;;1990-01-01;BBD;Barbados dollar;Dollaro di Barbados
+http://publications.europa.eu/resource/authority/currency/BDT;false;;1990-01-01;BDT;Taka;Taka
+http://publications.europa.eu/resource/authority/currency/BEF;true;1999-01-01;1952-07-25;BEF;Belgian franc;Franco belga
+http://publications.europa.eu/resource/authority/currency/BGJ;true;1951-12-31;1947-01-01;BGJ;Lev;Lev
+http://publications.europa.eu/resource/authority/currency/BGK;true;1961-12-31;1952-01-01;BGK;Lev;Lev
+http://publications.europa.eu/resource/authority/currency/BGL;true;1999-07-04;1962-01-01;BGL;Lev;Lev
+http://publications.europa.eu/resource/authority/currency/BGN;false;;1999-07-05;BGN;Lev;Lev
+http://publications.europa.eu/resource/authority/currency/BHD;false;;1990-01-01;BHD;Bahraini dinar;Dinaro del Bahrein
+http://publications.europa.eu/resource/authority/currency/BIF;false;;1990-01-01;BIF;Burundi franc;Franco del Burundi
+http://publications.europa.eu/resource/authority/currency/BMD;false;;1990-01-01;BMD;Bermuda dollar;Dollaro delle Bermuda
+http://publications.europa.eu/resource/authority/currency/BND;false;;1990-01-01;BND;Brunei dollar;Dollaro del Brunei
+http://publications.europa.eu/resource/authority/currency/BOB;false;;1987-01-01;BOB;Boliviano;Boliviano
+http://publications.europa.eu/resource/authority/currency/BOP;true;1986-12-31;1963-01-01;BOP;Bolivian peso;Peso boliviano
+http://publications.europa.eu/resource/authority/currency/BOV;false;;1987-01-01;BOV;Mvdol;Mvdol
+http://publications.europa.eu/resource/authority/currency/BRB;true;1985-12-31;1967-01-01;BRB;Cruzeiro novo;Cruzeiro nuovo
+http://publications.europa.eu/resource/authority/currency/BRC;true;1989-01-14;1986-01-01;BRC;Cruzado;Cruzado
+http://publications.europa.eu/resource/authority/currency/BRE;true;1993-07-31;1990-03-16;BRE;Cruzeiro;Cruzeiro
+http://publications.europa.eu/resource/authority/currency/BRL;false;;1994-01-01;BRL;Real;Real
+http://publications.europa.eu/resource/authority/currency/BRN;true;1990-03-15;1989-01-15;BRN;Cruzado novo;Cruzado nuovo
+http://publications.europa.eu/resource/authority/currency/BRR;true;1993-12-31;1993-08-01;BRR;Cruzeiro real;Cruzeiro real
+http://publications.europa.eu/resource/authority/currency/BRZ;true;1967-12-31;1952-07-25;BRZ;Cruzeiro;Cruzeiro
+http://publications.europa.eu/resource/authority/currency/BSD;false;;1990-01-01;BSD;Bahamian dollar;Dollaro delle Bahamas
+http://publications.europa.eu/resource/authority/currency/BTN;false;;1990-01-01;BTN;Ngultrum;Ngultrum
+http://publications.europa.eu/resource/authority/currency/BWP;false;;1990-01-01;BWP;Pula;Pula
+http://publications.europa.eu/resource/authority/currency/BYN;false;;2016-07-01;BYN;Belarusian rouble;Rublo bielorusso
+http://publications.europa.eu/resource/authority/currency/BYR;true;2016-12-31;1992-05-01;BYR;Belarusian rouble;Rublo bielorusso
+http://publications.europa.eu/resource/authority/currency/BZD;false;;1990-01-01;BZD;Belize dollar;Dollaro del Belize
+http://publications.europa.eu/resource/authority/currency/CAD;false;;1950-01-01;CAD;Canadian dollar;Dollaro canadese
+http://publications.europa.eu/resource/authority/currency/CDF;false;;1998-01-01;CDF;Congolese franc;Franco congolese
+http://publications.europa.eu/resource/authority/currency/CHE;false;;2001-01-01;CHE;WIR Euro;WIR Euro
+http://publications.europa.eu/resource/authority/currency/CHF;false;;1990-01-01;CHF;Swiss franc;Franco svizzero
+http://publications.europa.eu/resource/authority/currency/CHW;false;;1934-01-01;CHW;WIR Franc;WIR Franc
+http://publications.europa.eu/resource/authority/currency/CLE;true;1975-09-29;1960-01-01;CLE;Chilean escudo;Escudo cileno
+http://publications.europa.eu/resource/authority/currency/CLF;false;;1967-01-20;CLF;Unidad de Fomento;Unidad de Fomento
+http://publications.europa.eu/resource/authority/currency/CLP;false;;1975-09-30;CLP;Chilean peso;Peso cileno
+http://publications.europa.eu/resource/authority/currency/CNY;false;;1990-01-01;CNY;Renminbi-yuan;Renminbi-yuan
+http://publications.europa.eu/resource/authority/currency/COP;false;;1990-01-01;COP;Colombian peso;Peso colombiano
+http://publications.europa.eu/resource/authority/currency/COU;false;;2000-01-01;COU;Unidad de Valor Real;Unidad de Valor Real
+http://publications.europa.eu/resource/authority/currency/CRC;false;;1990-01-01;CRC;Costa Rican colon;Colón costaricano
+http://publications.europa.eu/resource/authority/currency/CSJ;true;1953-12-31;1945-01-01;CSJ;Czechoslovak koruna;Corona cecoslovacca
+http://publications.europa.eu/resource/authority/currency/CSK;true;1993-02-07;1954-01-01;CSK;Czechoslovak koruna;Corona cecoslovacca
+http://publications.europa.eu/resource/authority/currency/CUC;false;;1990-01-01;CUC;Convertible peso;Peso convertibile
+http://publications.europa.eu/resource/authority/currency/CUP;false;;1990-01-01;CUP;Cuban peso;Peso cubano
+http://publications.europa.eu/resource/authority/currency/CVE;false;;1990-01-01;CVE;Cabo Verde escudo;Escudo capoverdiano
+http://publications.europa.eu/resource/authority/currency/CYP;true;2007-12-31;1952-07-25;CYP;Cypriot pound;Lira sterlina cipriota
+http://publications.europa.eu/resource/authority/currency/CZK;false;;1993-02-08;CZK;Czech koruna;Corona ceca
+http://publications.europa.eu/resource/authority/currency/DDM;true;1990-07-01;1948-06-21;DDM;East-German Mark;Marco della Germania dell’Est
+http://publications.europa.eu/resource/authority/currency/DEM;true;2001-12-31;1952-07-25;DEM;German mark;Marco tedesco
+http://publications.europa.eu/resource/authority/currency/DJF;false;;1990-01-01;DJF;Djibouti franc;Franco di Gibuti
+http://publications.europa.eu/resource/authority/currency/DKK;false;;1990-01-01;DKK;Danish krone;Corona danese
+http://publications.europa.eu/resource/authority/currency/DOP;false;;1990-01-01;DOP;Dominican peso;Peso dominicano
+http://publications.europa.eu/resource/authority/currency/DZD;false;;1990-01-01;DZD;Algerian dinar;Dinar algerino
+http://publications.europa.eu/resource/authority/currency/ECS;true;2000-12-31;1952-07-25;ECS;Ecuadorian sucre;Sucre ecuadoriano
+http://publications.europa.eu/resource/authority/currency/EEK;true;2010-12-31;1992-06-20;EEK;Estonian kroon;Corona estone
+http://publications.europa.eu/resource/authority/currency/EGP;false;;1990-01-01;EGP;Egyptian pound;Lira egiziana
+http://publications.europa.eu/resource/authority/currency/ERN;false;;1997-11-08;ERN;Nakfa;Nakfa
+http://publications.europa.eu/resource/authority/currency/ESP;true;1998-12-31;1952-07-25;ESP;Peseta;Peseta
+http://publications.europa.eu/resource/authority/currency/ETB;false;;1990-01-01;ETB;Birr;Birr
+http://publications.europa.eu/resource/authority/currency/EUR;false;;1999-01-01;EUR;Euro;Euro
+http://publications.europa.eu/resource/authority/currency/FIM;true;1999-01-01;1952-07-25;FIM;Finnish markka;Marco finlandese
+http://publications.europa.eu/resource/authority/currency/FJD;false;;1990-01-01;FJD;Fiji dollar;Dollaro delle Figi
+http://publications.europa.eu/resource/authority/currency/FKP;false;;1990-01-01;FKP;Falkland Islands pound;Sterlina delle Falkland
+http://publications.europa.eu/resource/authority/currency/FRF;true;1999-01-01;1960-01-01;FRF;French franc;Franco francese
+http://publications.europa.eu/resource/authority/currency/GBP;false;;1990-01-01;GBP;Pound sterling;Lira sterlina
+http://publications.europa.eu/resource/authority/currency/GEL;false;;1994-04-05;GEL;Lari;Lari
+http://publications.europa.eu/resource/authority/currency/GHC;true;2006-06-30;1967-01-01;GHC;Cedi;Cedi
+http://publications.europa.eu/resource/authority/currency/GHS;false;;2007-07-01;GHS;Ghana cedi;Cedi ghanese
+http://publications.europa.eu/resource/authority/currency/GIP;false;;1990-01-01;GIP;Gibraltar pound;Sterlina di Gibilterra
+http://publications.europa.eu/resource/authority/currency/GMD;false;;1990-01-01;GMD;Dalasi;Dalasi
+http://publications.europa.eu/resource/authority/currency/GNE;true;1985-12-31;1971-12-01;GNE;Syli;Syli
+http://publications.europa.eu/resource/authority/currency/GNF;false;;1986-01-01;GNF;Guinean franc;Franco della Guinea
+http://publications.europa.eu/resource/authority/currency/GQE;true;1985-12-31;1975-01-01;GQE;Ekwele;Ekuele
+http://publications.europa.eu/resource/authority/currency/GRD;true;2000-12-31;1964-01-01;GRD;Drachma;Dracma
+http://publications.europa.eu/resource/authority/currency/GTQ;false;;1990-01-01;GTQ;Quetzal;Quetzal
+http://publications.europa.eu/resource/authority/currency/GWP;true;1997-12-31;1975-01-01;GWP;Guinea-Bissau peso;Peso della Guinea-Bissau
+http://publications.europa.eu/resource/authority/currency/GYD;false;;1990-01-01;GYD;Guyana dollar;Dollaro della Guyana
+http://publications.europa.eu/resource/authority/currency/HKD;false;;1990-01-01;HKD;Hong Kong dollar;Dollaro di Hong Kong
+http://publications.europa.eu/resource/authority/currency/HNL;false;;1990-01-01;HNL;Lempira;Lempira
+http://publications.europa.eu/resource/authority/currency/HRK;false;;1994-05-30;HRK;Kuna;Kuna
+http://publications.europa.eu/resource/authority/currency/HTG;false;;1990-01-01;HTG;Gourde;Gourde
+http://publications.europa.eu/resource/authority/currency/HUF;false;;1949-08-18;HUF;Forint;Fiorino ungherese
+http://publications.europa.eu/resource/authority/currency/IDR;false;;1990-01-01;IDR;Rupiah;Rupia
+http://publications.europa.eu/resource/authority/currency/IEP;true;1999-01-01;1952-07-25;IEP;Irish pound;Sterlina irlandese
+http://publications.europa.eu/resource/authority/currency/ILP;true;1980-02-23;1948-01-01;ILP;Israeli lira;Lira israeliana
+http://publications.europa.eu/resource/authority/currency/ILR;true;1985-12-31;1980-02-24;ILR;Shekel;Shekel
+http://publications.europa.eu/resource/authority/currency/ILS;false;;1986-01-01;ILS;Shekel;Shekel
+http://publications.europa.eu/resource/authority/currency/INR;false;;1990-01-01;INR;Indian rupee;Rupia indiana
+http://publications.europa.eu/resource/authority/currency/IQD;false;;1990-01-01;IQD;Iraqi dinar;Dinaro iracheno
+http://publications.europa.eu/resource/authority/currency/IRR;false;;1990-01-01;IRR;Iranian rial;Rial iraniano
+http://publications.europa.eu/resource/authority/currency/ISJ;true;1981-12-31;1918-01-01;ISJ;Icelandic old króna;Corona islandese vecchia
+http://publications.europa.eu/resource/authority/currency/ISK;false;;1982-01-01;ISK;Iceland króna;Corona islandese
+http://publications.europa.eu/resource/authority/currency/ITL;true;1999-01-01;1952-07-25;ITL;Italian lira;Lira italiana
+http://publications.europa.eu/resource/authority/currency/JMD;false;;1990-01-01;JMD;Jamaica dollar;Dollaro giamaicano
+http://publications.europa.eu/resource/authority/currency/JOD;false;;1990-01-01;JOD;Jordanian dinar;Dinaro giordano
+http://publications.europa.eu/resource/authority/currency/JPY;false;;1990-01-01;JPY;Yen;Yen
+http://publications.europa.eu/resource/authority/currency/KES;false;;1990-01-01;KES;Kenyan shilling;Scellino del Kenya
+http://publications.europa.eu/resource/authority/currency/KGS;false;;1993-05-10;KGS;Som;Som
+http://publications.europa.eu/resource/authority/currency/KHR;false;;1990-01-01;KHR;Riel;Riel
+http://publications.europa.eu/resource/authority/currency/KMF;false;;1990-01-01;KMF;Comorian franc;Franco comoriano
+http://publications.europa.eu/resource/authority/currency/KPW;false;;1990-01-01;KPW;North Korean won;Won nordcoreano
+http://publications.europa.eu/resource/authority/currency/KRW;false;;1990-01-01;KRW;South Korean won;Won sudcoreano
+http://publications.europa.eu/resource/authority/currency/KWD;false;;1990-01-01;KWD;Kuwaiti dinar;Dinaro kuwaitiano
+http://publications.europa.eu/resource/authority/currency/KYD;false;;1990-01-01;KYD;Cayman Islands dollar;Dollaro delle isole Cayman
+http://publications.europa.eu/resource/authority/currency/KZT;false;;1993-11-15;KZT;Tenge;Tenge
+http://publications.europa.eu/resource/authority/currency/LAJ;true;1979-12-16;1976-01-01;LAJ;Kip;Kip
+http://publications.europa.eu/resource/authority/currency/LAK;false;;1979-12-17;LAK;Kip;Kip
+http://publications.europa.eu/resource/authority/currency/LBP;false;;1990-01-01;LBP;Lebanese pound;Lira libanese
+http://publications.europa.eu/resource/authority/currency/LKR;false;;1990-01-01;LKR;Sri Lankan rupee;Rupia di Sri Lanka
+http://publications.europa.eu/resource/authority/currency/LRD;false;;1990-01-01;LRD;Liberian dollar;Dollaro liberiano
+http://publications.europa.eu/resource/authority/currency/LSL;false;;1990-01-01;LSL;Loti;Loti
+http://publications.europa.eu/resource/authority/currency/LTL;true;2014-12-31;1993-06-25;LTL;Litas;Litas
+http://publications.europa.eu/resource/authority/currency/LUF;true;1999-01-01;1952-07-25;LUF;Luxembourg franc;Franco lussemburghese
+http://publications.europa.eu/resource/authority/currency/LVL;true;2013-12-31;1993-01-01;LVL;Lats;Lats
+http://publications.europa.eu/resource/authority/currency/LYD;false;;1990-01-01;LYD;Libyan dinar;Dinaro libico
+http://publications.europa.eu/resource/authority/currency/MAD;false;;1960-01-01;MAD;Moroccan dirham;Dirham marocchino
+http://publications.europa.eu/resource/authority/currency/MCF;true;1999-01-01;1960-01-01;MCF;Monegasque franc;
+http://publications.europa.eu/resource/authority/currency/MDL;false;;1993-11-29;MDL;Moldovan leu;Leu moldovo
+http://publications.europa.eu/resource/authority/currency/MGA;false;;2005-01-01;MGA;Ariary;Ariary
+http://publications.europa.eu/resource/authority/currency/MGF;true;2004-12-31;1963-07-01;MGF;Malagasy franc;Franco malgascio
+http://publications.europa.eu/resource/authority/currency/MKD;false;;1994-01-01;MKD;Denar;Denar
+http://publications.europa.eu/resource/authority/currency/MKN;true;1993-12-31;1990-01-01;MKN;Denar A/93;
+http://publications.europa.eu/resource/authority/currency/MLF;true;1984-11-30;1962-01-01;MLF;Mali franc;Franco maliano
+http://publications.europa.eu/resource/authority/currency/MMK;false;;1990-01-01;MMK;Kyat;Kyat
+http://publications.europa.eu/resource/authority/currency/MNT;false;;1990-01-01;MNT;Tugrik;Tughrik
+http://publications.europa.eu/resource/authority/currency/MOP;false;;1952-06-16;MOP;Pataca;Pataca
+http://publications.europa.eu/resource/authority/currency/MRO;true;2018-06-30;1990-01-01;MRO;Ouguiya;Ouguiya
+http://publications.europa.eu/resource/authority/currency/MRU;false;;2018-01-01;MRU;Ouguiya;Ouguiya
+http://publications.europa.eu/resource/authority/currency/MTL;true;2007-12-31;1972-01-01;MTL;Maltese lira;Lira maltese
+http://publications.europa.eu/resource/authority/currency/MTP;true;1971-12-31;1952-07-25;MTP;Maltese pound;Sterlina maltese
+http://publications.europa.eu/resource/authority/currency/MUR;false;;1990-01-01;MUR;Mauritian rupee;Rupia mauriziana
+http://publications.europa.eu/resource/authority/currency/MVQ;true;1983-01-21;1961-02-01;MVQ;Maldive rupee;Rupia maldiviana
+http://publications.europa.eu/resource/authority/currency/MVR;false;;1983-01-22;MVR;Rufiyaa;Rupia maldiviana
+http://publications.europa.eu/resource/authority/currency/MWK;false;;1990-01-01;MWK;Malawian kwacha;Kwacha del Malawi
+http://publications.europa.eu/resource/authority/currency/MXN;false;;1994-01-01;MXN;Mexican peso;Peso messicano
+http://publications.europa.eu/resource/authority/currency/MXP;true;1993-12-31;1990-01-01;MXP;Mexican peso;Peso messicano
+http://publications.europa.eu/resource/authority/currency/MXV;false;;1995-01-01;MXV;Mexican Unidad de Inversion;Unidad de Inversion messicana
+http://publications.europa.eu/resource/authority/currency/MYR;false;;1990-01-01;MYR;Ringgit;Ringgit
+http://publications.europa.eu/resource/authority/currency/MZM;true;2006-06-30;1980-01-01;MZM;Metical;Metical
+http://publications.europa.eu/resource/authority/currency/MZN;false;;2006-07-01;MZN;Metical;Metical
+http://publications.europa.eu/resource/authority/currency/NAD;false;;1991-04-30;NAD;Namibian dollar;Dollaro namibiano
+http://publications.europa.eu/resource/authority/currency/NFD;true;1949-12-31;1865-01-01;NFD;Newfoundland dollar;Dollaro di Terranova
+http://publications.europa.eu/resource/authority/currency/NGN;false;;1990-01-01;NGN;Naira;Naira
+http://publications.europa.eu/resource/authority/currency/NIO;false;;1990-01-01;NIO;Córdoba oro;Córdoba oro
+http://publications.europa.eu/resource/authority/currency/NLG;true;1998-12-31;1952-07-25;NLG;Netherlands guilder;Fiorino olandese
+http://publications.europa.eu/resource/authority/currency/NOK;false;;1990-01-01;NOK;Norwegian krone;Corona norvegese
+http://publications.europa.eu/resource/authority/currency/NPR;false;;1990-01-01;NPR;Nepalese rupee;Rupia nepalese
+http://publications.europa.eu/resource/authority/currency/NZD;false;;1990-01-01;NZD;New Zealand dollar;Dollaro neozelandese
+http://publications.europa.eu/resource/authority/currency/OMR;false;;1990-01-01;OMR;Omani rial;Rial omanita
+http://publications.europa.eu/resource/authority/currency/OP_DATPRO;false;;1952-07-23;OP_DATPRO;Provisional data;Dati provvisori
+http://publications.europa.eu/resource/authority/currency/PAB;false;;1990-01-01;PAB;Balboa;Balboa
+http://publications.europa.eu/resource/authority/currency/PEH;true;1985-01-31;1952-07-25;PEH;Sol;Sol
+http://publications.europa.eu/resource/authority/currency/PEI;true;1991-12-31;1985-02-01;PEI;Inti;Inti
+http://publications.europa.eu/resource/authority/currency/PEN;false;;1992-01-01;PEN;Sol;Sol
+http://publications.europa.eu/resource/authority/currency/PGK;false;;1990-01-01;PGK;Kina;Kina
+http://publications.europa.eu/resource/authority/currency/PHP;false;;1990-01-01;PHP;Philippine peso;Peso filippino
+http://publications.europa.eu/resource/authority/currency/PKR;false;;1990-01-01;PKR;Pakistani rupee;Rupia pakistana
+http://publications.europa.eu/resource/authority/currency/PLN;false;;1995-01-01;PLN;Zloty;Zloty
+http://publications.europa.eu/resource/authority/currency/PLZ;true;1994-12-31;1950-01-01;PLZ;Zloty;Zloty
+http://publications.europa.eu/resource/authority/currency/PTE;true;1999-01-01;1911-05-22;PTE;Portuguese escudo;Escudo portoghese
+http://publications.europa.eu/resource/authority/currency/PYG;false;;1990-01-01;PYG;Guaraní;Guarani
+http://publications.europa.eu/resource/authority/currency/QAR;false;;1990-01-01;QAR;Qatari rial;Rial qatariano
+http://publications.europa.eu/resource/authority/currency/ROL;true;2005-06-30;1952-01-28;ROL;Romanian leu;Leu rumeno
+http://publications.europa.eu/resource/authority/currency/RON;false;;2005-07-01;RON;Romanian leu;Leu rumeno
+http://publications.europa.eu/resource/authority/currency/RSD;false;;2003-07-03;RSD;Serbian dinar;Dinaro serbo
+http://publications.europa.eu/resource/authority/currency/RUB;false;;1998-01-01;RUB;Russian rouble;Rublo russo
+http://publications.europa.eu/resource/authority/currency/RUR;true;1997-12-31;1992-01-01;RUR;Russian rouble;Rublo russo
+http://publications.europa.eu/resource/authority/currency/RWF;false;;1990-01-01;RWF;Rwandese franc;Franco ruandese
+http://publications.europa.eu/resource/authority/currency/SAR;false;;1990-01-01;SAR;Saudi riyal;Riyal saudita
+http://publications.europa.eu/resource/authority/currency/SBD;false;;1990-01-01;SBD;Solomon Islands dollar;Dollaro delle Isole Salomone
+http://publications.europa.eu/resource/authority/currency/SCR;false;;1990-01-01;SCR;Seychelles rupee;Rupia delle Seychelles
+http://publications.europa.eu/resource/authority/currency/SDD;true;2007-01-10;1992-06-08;SDD;Sudanese dinar;Dinaro sudanese
+http://publications.europa.eu/resource/authority/currency/SDG;false;;2008-01-01;SDG;Sudanese pound;Sterlina sudanese
+http://publications.europa.eu/resource/authority/currency/SEK;false;;1990-01-01;SEK;Swedish krona;Corona svedese
+http://publications.europa.eu/resource/authority/currency/SGD;false;;1990-01-01;SGD;Singapore dollar;Dollaro di Singapore
+http://publications.europa.eu/resource/authority/currency/SHP;false;;1990-01-01;SHP;Saint Helena pound;Sterlina di Sant’Elena
+http://publications.europa.eu/resource/authority/currency/SIT;true;2007-01-01;1991-10-08;SIT;Slovenian tolar;Tàllero
+http://publications.europa.eu/resource/authority/currency/SKK;true;2009-01-01;1993-02-08;SKK;Slovak koruna;Corona slovacca
+http://publications.europa.eu/resource/authority/currency/SLL;false;;1990-01-01;SLL;Leone;Leone
+http://publications.europa.eu/resource/authority/currency/SML;true;1999-01-01;1952-07-25;SML;San Marinese lira;
+http://publications.europa.eu/resource/authority/currency/SOS;false;;1995-01-01;SOS;Somali shilling;Scellino somalo
+http://publications.europa.eu/resource/authority/currency/SQS;true;1994-01-02;1994-01-01;SQS;Somaliland shilling;Scellino del Somaliland
+http://publications.europa.eu/resource/authority/currency/SRD;false;;2005-01-01;SRD;Surinamese dollar;Dollaro del Suriname
+http://publications.europa.eu/resource/authority/currency/SRG;true;2004-12-31;1990-01-01;SRG;Suriname guilder;Fiorino surinamese
+http://publications.europa.eu/resource/authority/currency/SSP;false;;2011-07-18;SSP;South Sudanese pound;Sterlina sud-sudanese
+http://publications.europa.eu/resource/authority/currency/STD;true;2018-06-30;1990-01-01;STD;Dobra;Dobra
+http://publications.europa.eu/resource/authority/currency/STN;false;;2018-01-01;STN;Dobra;Dobra
+http://publications.europa.eu/resource/authority/currency/SUR;true;1991-12-31;1961-01-01;SUR;Soviet Union rouble;Rublo sovietico
+http://publications.europa.eu/resource/authority/currency/SVC;false;;1919-01-01;SVC;Salvadorian colón;Colón salvadoregno
+http://publications.europa.eu/resource/authority/currency/SYP;false;;1990-01-01;SYP;Syrian pound;Lira sterlina siriana
+http://publications.europa.eu/resource/authority/currency/SZL;false;;1990-01-01;SZL;Lilangeni;Lilangeni
+http://publications.europa.eu/resource/authority/currency/THB;false;;1990-01-01;THB;Baht;Baht
+http://publications.europa.eu/resource/authority/currency/TJR;true;2000-10-29;1995-05-10;TJR;Tajikistani rouble;Rublo tagico
+http://publications.europa.eu/resource/authority/currency/TJS;false;;2000-10-30;TJS;Somoni;Somoni
+http://publications.europa.eu/resource/authority/currency/TMM;true;2008-12-31;1993-10-27;TMM;Turkmen manat;Manat turkmeno
+http://publications.europa.eu/resource/authority/currency/TMT;false;;2009-01-01;TMT;Turkmen manat;Manat turkmeno
+http://publications.europa.eu/resource/authority/currency/TND;false;;1990-01-01;TND;Tunisian dinar;Dinaro tunisino
+http://publications.europa.eu/resource/authority/currency/TOP;false;;1990-01-01;TOP;Pa’anga;Paanga
+http://publications.europa.eu/resource/authority/currency/TPE;true;1976-12-31;1959-01-01;TPE;Portuguese Timorese escudo;Escudo portoghese timorese
+http://publications.europa.eu/resource/authority/currency/TRL;true;2005-12-31;1990-01-01;TRL;Turkish lira;Lira turca
+http://publications.europa.eu/resource/authority/currency/TRY;false;;2006-01-01;TRY;Turkish lira;Lira turca
+http://publications.europa.eu/resource/authority/currency/TTD;false;;1990-01-01;TTD;Trinidad and Tobago dollar;Dollaro di Trinidad e Tobago
+http://publications.europa.eu/resource/authority/currency/TVD;true;1976-01-02;1976-01-01;TVD;Tuvaluan dollar;Dollaro di Tuvalu
+http://publications.europa.eu/resource/authority/currency/TWD;false;;1990-01-01;TWD;New Taiwan dollar;Nuovo dollaro di Taiwan
+http://publications.europa.eu/resource/authority/currency/TZS;false;;1990-01-01;TZS;Tanzanian shilling;Scellino della Tanzania
+http://publications.europa.eu/resource/authority/currency/UAH;false;;1996-09-02;UAH;Hryvnia;Hrivna
+http://publications.europa.eu/resource/authority/currency/UAK;true;1996-09-01;1992-01-10;UAK;Karbovanets;Karbovanec
+http://publications.europa.eu/resource/authority/currency/UGS;true;1987-05-31;1966-01-01;UGS;Uganda shilling;Scellino ugandese
+http://publications.europa.eu/resource/authority/currency/UGX;false;;1987-06-01;UGX;Uganda shilling;Scellino ugandese
+http://publications.europa.eu/resource/authority/currency/USD;false;;1990-01-01;USD;US dollar;Dollaro USA
+http://publications.europa.eu/resource/authority/currency/USN;false;;1990-01-01;USN;US dollar;Dollaro USA
+http://publications.europa.eu/resource/authority/currency/USS;true;2014-03-01;1990-01-01;USS;US dollar;Dollaro USA
+http://publications.europa.eu/resource/authority/currency/UYI;false;;2002-06-01;UYI;Uruguay Peso en Unidades Indexadas;Uruguay Peso en Unidades Indexadas
+http://publications.europa.eu/resource/authority/currency/UYN;true;1993-03-01;1990-01-01;UYN;Uruguay old peso;Peso uruguaiano vecchio
+http://publications.europa.eu/resource/authority/currency/UYU;false;;1993-03-02;UYU;Uruguayan peso;Peso uruguaiano
+http://publications.europa.eu/resource/authority/currency/UYW;false;;2002-06-01;UYW;Unidad Previsional;Unidad Previsional
+http://publications.europa.eu/resource/authority/currency/UZS;false;;1994-07-01;UZS;Sum;Sum
+http://publications.europa.eu/resource/authority/currency/VAL;true;1999-01-01;1952-07-25;VAL;Vatican lira;
+http://publications.europa.eu/resource/authority/currency/VEB;true;2007-12-31;1990-01-01;VEB;Bolívar fuerte;Bolívar forte
+http://publications.europa.eu/resource/authority/currency/VED;false;;2021-10-01;VED;Bolívar digital;Bolívar digitale
+http://publications.europa.eu/resource/authority/currency/VEF;true;2018-08-20;2008-01-01;VEF;Bolívar;Bolivar
+http://publications.europa.eu/resource/authority/currency/VES;false;;2018-08-20;VES;Bolívar soberano;Bolivar sovrano
+http://publications.europa.eu/resource/authority/currency/VNC;true;1978-12-31;1978-05-03;VNC;Old dong;Dong vecchio
+http://publications.europa.eu/resource/authority/currency/VND;false;;1979-01-01;VND;Dong;Dong
+http://publications.europa.eu/resource/authority/currency/VUV;false;;1990-01-01;VUV;Vatu;Vatu
+http://publications.europa.eu/resource/authority/currency/WST;false;;1990-01-01;WST;Tala;Tala
+http://publications.europa.eu/resource/authority/currency/XAF;false;;1990-01-01;XAF;CFA franc (BEAC);Franco CFA (BEAC)
+http://publications.europa.eu/resource/authority/currency/XAG;false;;1978-01-01;XAG;Silver;Argento
+http://publications.europa.eu/resource/authority/currency/XAU;false;;1978-01-01;XAU;Gold;Oro
+http://publications.europa.eu/resource/authority/currency/XBA;false;;1973-01-01;XBA;Bond Markets Unit European Composite Unit (EURCO);Unità composita europea (EURCO) (Unità per il mercato obbligazionario)
+http://publications.europa.eu/resource/authority/currency/XBB;false;;1973-01-01;XBB;Bond Markets Unit European Monetary Unit (E.M.U.-6);Unità monetaria europea (E.M.U.-6) (Unità per il mercato obbligazionario)
+http://publications.europa.eu/resource/authority/currency/XBC;false;;1973-01-01;XBC;Bond Markets Unit European Unit of Account 9 (E.U.A.-9);Unità di acconto europea 9 (E.U.A.-9) (Unità per il mercato obbligazionario)
+http://publications.europa.eu/resource/authority/currency/XBD;false;;1999-01-01;XBD;Bond Markets Unit European Unit of Account 17 (E.U.A.-17);Unità di acconto europea 17 (E.U.A.-17) (Unità per il mercato obbligazionario)
+http://publications.europa.eu/resource/authority/currency/XBT;false;;2009-01-09;XBT;Bitcoin;Bitcoin
+http://publications.europa.eu/resource/authority/currency/XCD;false;;1965-01-01;XCD;East Caribbean dollar;Dollaro dei Caraibi orientali
+http://publications.europa.eu/resource/authority/currency/XDR;false;;1974-07-01;XDR;SDR (Special Drawing Right);DSP (diritto speciale di prelievo)
+http://publications.europa.eu/resource/authority/currency/XEU;true;1999-01-01;1979-03-13;XEU;European Currency Unit;Unità monetaria europea
+http://publications.europa.eu/resource/authority/currency/XOF;false;;1962-01-01;XOF;CFA Franc (BCEAO);Franco CFA (BCEAO)
+http://publications.europa.eu/resource/authority/currency/XPD;false;;1978-01-01;XPD;Palladium;Palladio
+http://publications.europa.eu/resource/authority/currency/XPF;false;;1990-01-01;XPF;CFP franc;Franco CFP
+http://publications.europa.eu/resource/authority/currency/XPT;false;;1978-01-01;XPT;Platinum;Platino
+http://publications.europa.eu/resource/authority/currency/XSU;false;;2010-01-01;XSU;Sucre;Sucre
+http://publications.europa.eu/resource/authority/currency/XTS;false;;1987-01-01;XTS;Code reserved for testing purposes;Codice riservato ai test
+http://publications.europa.eu/resource/authority/currency/XUA;false;;2011-04-07;XUA;ADB Unit of Account;Unità di conto della Banca africana di sviluppo
+http://publications.europa.eu/resource/authority/currency/XXX;false;;1987-01-01;XXX;No currency;Nessuna valuta
+http://publications.europa.eu/resource/authority/currency/YDD;true;1996-06-11;1990-01-01;YDD;South Yemeni dinar;Dinaro dello Yemen del Sud
+http://publications.europa.eu/resource/authority/currency/YER;false;;1996-06-12;YER;Yemeni rial;Rial yemenita
+http://publications.europa.eu/resource/authority/currency/YUD;true;1989-12-31;1966-01-01;YUD;Yugoslav dinar;Nuovo dinaro iugoslavo
+http://publications.europa.eu/resource/authority/currency/YUF;true;1965-12-31;1944-01-01;YUF;Yugoslav dinar;Nuovo dinaro iugoslavo
+http://publications.europa.eu/resource/authority/currency/YUG;true;1994-01-23;1994-01-01;YUG;Yugoslav dinar;
+http://publications.europa.eu/resource/authority/currency/YUM;true;2003-07-02;1994-01-24;YUM;Yugoslav dinar;Nuovo dinaro iugoslavo
+http://publications.europa.eu/resource/authority/currency/YUN;true;1992-06-30;1990-01-01;YUN;Yugoslav dinar;Nuovo dinaro iugoslavo
+http://publications.europa.eu/resource/authority/currency/YUO;true;1993-12-31;1993-10-01;YUO;Yugoslav dinar;
+http://publications.europa.eu/resource/authority/currency/YUR;true;1993-09-30;1992-07-01;YUR;Yugoslav dinar;
+http://publications.europa.eu/resource/authority/currency/YUS;true;1943-12-31;1941-01-01;YUS;Yugoslav dinar;Nuovo dinaro iugoslavo
+http://publications.europa.eu/resource/authority/currency/ZAR;false;;1990-01-01;ZAR;Rand;Rand
+http://publications.europa.eu/resource/authority/currency/ZMK;true;2012-12-31;1990-01-01;ZMK;Zambian kwacha;Kwacha zambiano
+http://publications.europa.eu/resource/authority/currency/ZMW;false;;2013-01-01;ZMW;Zambian kwacha;Kwacha zambiano
+http://publications.europa.eu/resource/authority/currency/ZRN;true;1997-12-31;1993-01-01;ZRN;Zaïrean new zaïre;Nuovo zaire zairese
+http://publications.europa.eu/resource/authority/currency/ZRZ;true;1992-12-31;1967-01-01;ZRZ;Zaïrean zaïre;Zaire zairese
+http://publications.europa.eu/resource/authority/currency/ZWC;true;1980-04-17;1970-02-17;ZWC;Rhodesian dollar;Dollaro rhodesiano
+http://publications.europa.eu/resource/authority/currency/ZWD;true;2006-07-31;1980-04-18;ZWD;Zimbabwe dollar;Dollaro dello Zimbabwe
+http://publications.europa.eu/resource/authority/currency/ZWL;false;;2009-02-03;ZWL;Zimbabwe dollar;Dollaro dello Zimbabwe
+http://publications.europa.eu/resource/authority/currency/ZWN;true;2008-07-31;2006-08-01;ZWN;Zimbabwe dollar;Dollaro dello Zimbabwe
+http://publications.europa.eu/resource/authority/currency/ZWR;true;2009-02-02;2008-08-01;ZWR;Zimbabwe dollar;Dollaro dello Zimbabwe

@@ -1,0 +1,7 @@
+url;deprecated;valid_until;valid_from;id;label_en;label_it
+http://publications.europa.eu/resource/authority/modification-type/DELETION;false;;1952-07-24;DELETION;deletion;cancellazione
+http://publications.europa.eu/resource/authority/modification-type/INSERTION;false;;1952-07-24;INSERTION;insertion;inserimento
+http://publications.europa.eu/resource/authority/modification-type/OP_DATPRO;;;;OP_DATPRO;Provisional data;Dati provvisori
+http://publications.europa.eu/resource/authority/modification-type/RENUMBERING;false;;1952-07-24;RENUMBERING;renumbering;rinumerazione
+http://publications.europa.eu/resource/authority/modification-type/REPEAL;false;;1952-07-24;REPEAL;repeal;abrogazione
+http://publications.europa.eu/resource/authority/modification-type/REPLACEMENT;false;;1952-07-24;REPLACEMENT;replacement;sostituzione

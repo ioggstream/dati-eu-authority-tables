@@ -1,0 +1,6 @@
+url;deprecated;valid_until;valid_from;id;label_en;label_it
+http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE;false;;2021-12-08;AVAILABLE;available;disponibile
+http://publications.europa.eu/resource/authority/planned-availability/EXPERIMENTAL;false;;2021-12-08;EXPERIMENTAL;experimental;sperimentale
+http://publications.europa.eu/resource/authority/planned-availability/OP_DATPRO;false;;1952-07-23;OP_DATPRO;Provisional data;Dati provvisori
+http://publications.europa.eu/resource/authority/planned-availability/STABLE;false;;2021-12-08;STABLE;stable;stabile
+http://publications.europa.eu/resource/authority/planned-availability/TEMPORARY;false;;2021-12-08;TEMPORARY;temporary;temporaneo

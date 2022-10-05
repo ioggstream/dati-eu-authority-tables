@@ -1,0 +1,7 @@
+url;deprecated;valid_until;valid_from;id;label_en;label_it
+http://publications.europa.eu/resource/authority/procedure-phase/CONCILIA;false;;2009-12-01;CONCILIA;Conciliation;Conciliazione
+http://publications.europa.eu/resource/authority/procedure-phase/INI_LEGIS;false;;2009-12-01;INI_LEGIS;Legislative initiative;Iniziativa legislativa
+http://publications.europa.eu/resource/authority/procedure-phase/OP_DATPRO;;;;OP_DATPRO;Provisional data;Dati provvisori
+http://publications.europa.eu/resource/authority/procedure-phase/RDG1;false;;2009-12-01;RDG1;First reading;Prima lettura
+http://publications.europa.eu/resource/authority/procedure-phase/RDG2;false;;2009-12-01;RDG2;Second reading;Seconda lettura
+http://publications.europa.eu/resource/authority/procedure-phase/RDG3;false;;2009-12-01;RDG3;Third reading;Terza lettura

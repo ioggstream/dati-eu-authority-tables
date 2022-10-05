@@ -1,0 +1,14 @@
+url;deprecated;valid_until;valid_from;id;label_en;label_it
+http://publications.europa.eu/resource/authority/organisation-subrole/OP_DATPRO;;;;OP_DATPRO;Provisional data;Dati provvisori
+http://publications.europa.eu/resource/authority/organisation-subrole/bud-pay;false;;2019-09-18;bud-pay;Organisation whose budget is used to pay for the contract;Organizzazione dal cui bilancio è finanziato l'appalto
+http://publications.europa.eu/resource/authority/organisation-subrole/exec-pay;false;;2019-09-18;exec-pay;Organisation executing the payment;Organizzazione che esegue il pagamento
+http://publications.europa.eu/resource/authority/organisation-subrole/group-lead;false;;2019-09-18;group-lead;Group leader;Capofila
+http://publications.europa.eu/resource/authority/organisation-subrole/info-prov;false;;2019-09-18;info-prov;Organisation providing additional information about the procurement procedure;Organizzazione alla quale rivolgersi per informazioni complementari sulla procedura di appalto
+http://publications.europa.eu/resource/authority/organisation-subrole/lim-prov;true;2020-12-15;2019-09-18;lim-prov;Organisation providing more information on the time limits for review procedures;Organizzazione alla quale rivolgersi per informazioni complementari sui termini per le procedure di ricorso
+http://publications.europa.eu/resource/authority/organisation-subrole/offl-acc;false;;2019-09-18;offl-acc;Organisation providing offline access to the procurement documents;Organizzazione alla quale rivolgersi per l'accesso offline ai documenti di gara
+http://publications.europa.eu/resource/authority/organisation-subrole/processor;false;;2019-09-18;processor;Organisation processing tenders;Organizzazione che tratta le offerte
+http://publications.europa.eu/resource/authority/organisation-subrole/recepient;false;;2019-09-18;recepient;Organisation receiving tenders;Organizzazione che riceve le offerte
+http://publications.europa.eu/resource/authority/organisation-subrole/req-proc;false;;2019-09-18;req-proc;Organisation processing requests to participate;Organizzazione che tratta le domande di partecipazione
+http://publications.europa.eu/resource/authority/organisation-subrole/req-recep;false;;2019-09-18;req-recep;Organisation receiving requests to participate;Organizzazione che riceve le domande di partecipazione
+http://publications.europa.eu/resource/authority/organisation-subrole/rev-info;false;;2020-12-16;rev-info;Organisation providing more information on the review procedures;Organizzazione alla quale rivolgersi per informazioni complementari sulle procedure di ricorso
+http://publications.europa.eu/resource/authority/organisation-subrole/signatory;false;;2019-09-18;signatory;Organisation signing the contract;Organizzazione che firma il contratto di appalto

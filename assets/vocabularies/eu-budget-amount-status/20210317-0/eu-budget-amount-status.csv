@@ -1,0 +1,5 @@
+url;deprecated;valid_until;valid_from;id;label_en;label_it
+http://publications.europa.eu/resource/authority/eu-budget-amount-status/ADOPTED;false;;1958-01-01;ADOPTED;Adopted;Adottato
+http://publications.europa.eu/resource/authority/eu-budget-amount-status/AMENDED;false;;1958-01-01;AMENDED;Amended;Modificato
+http://publications.europa.eu/resource/authority/eu-budget-amount-status/OP_DATPRO;;;;OP_DATPRO;Provisional data;Dati provvisori
+http://publications.europa.eu/resource/authority/eu-budget-amount-status/OUTTURN;false;;1958-01-01;OUTTURN;Outturn;Esecuzione

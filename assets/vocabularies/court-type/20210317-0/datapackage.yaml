@@ -1,0 +1,46 @@
+name: court-type
+resources:
+- dialect:
+    keyed: true
+  format: inline
+  hashing: md5
+  name: court-type
+  path: court-type.csv
+  profile: tabular-data-resource
+  schema:
+    fields:
+    - name: url
+      type: string
+    - name: '@type'
+      type: string
+    - name: deprecated
+      type: boolean
+    - name: valid_until
+      type: date
+    - name: valid_from
+      type: date
+    - name: id
+      type: string
+    - name: label_en
+      type: string
+    - name: label_it
+      type: string
+    x-jsonld-context:
+      '@vocab': http://publications.europa.eu/ontology/authority/
+      dc: http://purl.org/dc/elements/1.1/
+      deprecated: {}
+      id:
+        '@id': dc:identifier
+      label_en:
+        '@id': skos:prefLabel
+        '@language': en
+      label_it:
+        '@id': skos:prefLabel
+        '@language': it
+      owl: http://www.w3.org/2002/07/owl#
+      skos: http://www.w3.org/2004/02/skos/core#
+      url: '@id'
+      valid_from: start.use
+      valid_until: end.use
+    x-jsonld-type: skos:Concept
+  scheme: ''

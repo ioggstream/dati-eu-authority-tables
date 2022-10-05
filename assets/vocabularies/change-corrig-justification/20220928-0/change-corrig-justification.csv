@@ -1,0 +1,9 @@
+url;deprecated;valid_until;valid_from;id;label_en;label_it
+http://publications.europa.eu/resource/authority/change-corrig-justification/OP_DATPRO;false;;1952-07-23;OP_DATPRO;Provisional data;Dati provvisori
+http://publications.europa.eu/resource/authority/change-corrig-justification/cancel;false;;2019-09-18;cancel;Notice cancelled;Avviso annullato
+http://publications.europa.eu/resource/authority/change-corrig-justification/cancel-intent;false;;2019-09-18;cancel-intent;Cancellation intention;Previsto annullamento
+http://publications.europa.eu/resource/authority/change-corrig-justification/cor-buy;false;;2019-09-18;cor-buy;Buyer correction;Rettifica errore committente
+http://publications.europa.eu/resource/authority/change-corrig-justification/cor-esen;false;;2019-09-18;cor-esen;eSender correction;Rettifica errore eSender
+http://publications.europa.eu/resource/authority/change-corrig-justification/cor-pub;false;;2019-09-18;cor-pub;Publisher correction;Rettifica errore editore
+http://publications.europa.eu/resource/authority/change-corrig-justification/info-release;false;;2019-09-18;info-release;Information now available;Informazioni ora disponibili
+http://publications.europa.eu/resource/authority/change-corrig-justification/update-add;false;;2019-09-18;update-add;Information updated;Aggiornamento informazioni

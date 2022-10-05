@@ -1,0 +1,5 @@
+url;deprecated;valid_until;valid_from;id;label_en;label_it
+http://publications.europa.eu/resource/authority/applicability/OP_DATPRO;;;;OP_DATPRO;Provisional data;Dati provvisori
+http://publications.europa.eu/resource/authority/applicability/no;false;;2019-09-18;no;No;No
+http://publications.europa.eu/resource/authority/applicability/not-known;false;;2019-09-18;not-known;Not yet known;Non ancora noto
+http://publications.europa.eu/resource/authority/applicability/yes;false;;2019-09-18;yes;Yes;Sì

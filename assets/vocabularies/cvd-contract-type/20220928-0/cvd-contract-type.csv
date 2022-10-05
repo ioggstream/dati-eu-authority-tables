@@ -1,0 +1,5 @@
+url;deprecated;valid_until;valid_from;id;label_en;label_it
+http://publications.europa.eu/resource/authority/cvd-contract-type/OP_DATPRO;false;;1952-07-23;OP_DATPRO;Provisional data;Dati provvisori
+http://publications.europa.eu/resource/authority/cvd-contract-type/oth-serv-contr;false;;2022-06-15;oth-serv-contr;Other service contract;Altro contratto di servizi
+http://publications.europa.eu/resource/authority/cvd-contract-type/pass-tran-serv;false;;2022-06-15;pass-tran-serv;Passenger road transport services;Servizi di trasporto di passeggeri su strada
+http://publications.europa.eu/resource/authority/cvd-contract-type/veh-acq;false;;2022-06-15;veh-acq;Vehicle purchase, lease or rent;Acquisto, leasing o locazione di veicoli

@@ -1,0 +1,19 @@
+url;deprecated;valid_until;valid_from;id;label_en;label_it
+http://publications.europa.eu/resource/authority/label-type/ABRIDGEDLABEL;false;;2014-11-26;ABRIDGEDLABEL;abridged;abbreviato
+http://publications.europa.eu/resource/authority/label-type/ACRONYM;false;;2012-07-05;ACRONYM;acronym;acronimo
+http://publications.europa.eu/resource/authority/label-type/ADJECTIVE;false;;2012-07-05;ADJECTIVE;adjectival;aggettivo
+http://publications.europa.eu/resource/authority/label-type/ALTERNATIVELABEL;false;;2012-07-05;ALTERNATIVELABEL;alternative;alternativa
+http://publications.europa.eu/resource/authority/label-type/ATTOLABEL;true;2019-09-17;2018-02-28;ATTOLABEL;ATTO;
+http://publications.europa.eu/resource/authority/label-type/COUNTLABEL;false;;2014-11-26;COUNTLABEL;count;conteggio
+http://publications.europa.eu/resource/authority/label-type/CURRENCYSUBUNIT;false;;2012-07-05;CURRENCYSUBUNIT;subunit;sottounità
+http://publications.europa.eu/resource/authority/label-type/DEMONYM;false;;2018-02-22;DEMONYM;demonym;demonimo
+http://publications.europa.eu/resource/authority/label-type/FORMLABEL;true;2019-09-17;2018-02-28;FORMLABEL;form;
+http://publications.europa.eu/resource/authority/label-type/GRAMMATICAL;false;;2021-06-16;GRAMMATICAL;grammatical;grammaticale
+http://publications.europa.eu/resource/authority/label-type/LONGLABEL;false;;2012-07-05;LONGLABEL;long;lunga
+http://publications.europa.eu/resource/authority/label-type/OFFICIALLABEL;false;;2012-07-05;OFFICIALLABEL;official;ufficiale
+http://publications.europa.eu/resource/authority/label-type/OP_DATPRO;false;;1952-07-23;OP_DATPRO;Provisional data;Dati provvisori
+http://publications.europa.eu/resource/authority/label-type/ORIGINALLABEL;false;;2012-07-05;ORIGINALLABEL;original;originale
+http://publications.europa.eu/resource/authority/label-type/ORTHOGRAPHICAL;false;;2021-06-16;ORTHOGRAPHICAL;orthographical;ortografica
+http://publications.europa.eu/resource/authority/label-type/SHORTLABEL;false;;2012-07-05;SHORTLABEL;short;breve
+http://publications.europa.eu/resource/authority/label-type/STANDARDLABEL;false;;2012-07-05;STANDARDLABEL;preferred;preferita
+http://publications.europa.eu/resource/authority/label-type/SYMBOL;false;;2019-02-20;SYMBOL;symbol;simbolo

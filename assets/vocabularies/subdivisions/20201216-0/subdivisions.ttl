@@ -115,11 +115,11 @@
     at:deprecated "false" ;
     at:op-code "ANX" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "AX" ;
-            dc:source "FORMEX" ],
-        [ a at:MappedCode ;
             at:legacy-code "N" ;
-            dc:source "CJ" ] ;
+            dc:source "CJ" ],
+        [ a at:MappedCode ;
+            at:legacy-code "AX" ;
+            dc:source "FORMEX" ] ;
     at:start.use "2015-03-18" ;
     atold:op-code "ANX" ;
     dc:identifier "ANX" ;
@@ -434,10 +434,10 @@
     at:op-code "CPT" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "CH" ;
-            dc:source "CJ" ],
+            dc:source "FORMEX" ],
         [ a at:MappedCode ;
             at:legacy-code "CH" ;
-            dc:source "FORMEX" ] ;
+            dc:source "CJ" ] ;
     at:start.use "2015-03-18" ;
     atold:op-code "CPT" ;
     dc:identifier "CPT" ;
@@ -1234,11 +1234,11 @@
     at:deprecated "false" ;
     at:op-code "PBL" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "PB" ;
-            dc:source "FORMEX" ],
-        [ a at:MappedCode ;
             at:legacy-code "PR" ;
-            dc:source "CJ" ] ;
+            dc:source "CJ" ],
+        [ a at:MappedCode ;
+            at:legacy-code "PB" ;
+            dc:source "FORMEX" ] ;
     at:start.use "2015-03-18" ;
     atold:op-code "PBL" ;
     dc:identifier "PBL" ;
@@ -1381,11 +1381,11 @@
     at:deprecated "false" ;
     at:op-code "PRT" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "PART" ;
-            dc:source "CJ" ],
-        [ a at:MappedCode ;
             at:legacy-code "PR" ;
-            dc:source "FORMEX" ] ;
+            dc:source "FORMEX" ],
+        [ a at:MappedCode ;
+            at:legacy-code "PART" ;
+            dc:source "CJ" ] ;
     at:start.use "2015-03-18" ;
     atold:op-code "PRT" ;
     dc:identifier "PRT" ;
@@ -1876,11 +1876,11 @@
     at:deprecated "false" ;
     at:op-code "TIT" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "TIT" ;
-            dc:source "CJ" ],
-        [ a at:MappedCode ;
             at:legacy-code "TI" ;
-            dc:source "FORMEX" ] ;
+            dc:source "FORMEX" ],
+        [ a at:MappedCode ;
+            at:legacy-code "TIT" ;
+            dc:source "CJ" ] ;
     at:start.use "2015-03-18" ;
     atold:op-code "TIT" ;
     dc:identifier "TIT" ;

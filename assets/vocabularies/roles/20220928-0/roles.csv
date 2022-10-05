@@ -1,0 +1,111 @@
+url;deprecated;valid_until;valid_from;id;label_en;label_it
+http://publications.europa.eu/resource/authority/role/ADDRESSEE;false;;1952-07-24;ADDRESSEE;Addressee;Destinatario
+http://publications.europa.eu/resource/authority/role/ADDRESSEE_ACT;false;;1952-07-24;ADDRESSEE_ACT;Addressee for formal act;Destinatario di atto ufficiale
+http://publications.europa.eu/resource/authority/role/ADDRESSEE_CONSULT;false;;1952-07-24;ADDRESSEE_CONSULT;Addressee for consultation;Destinatario di consultazione
+http://publications.europa.eu/resource/authority/role/ADDRESSEE_CONSULT_MANDATORY;false;;1952-07-24;ADDRESSEE_CONSULT_MANDATORY;Addressee for mandatory consultation;Destinatario di consultazione obbligatoria
+http://publications.europa.eu/resource/authority/role/ADDRESSEE_CONSULT_OPTION;false;;1952-07-24;ADDRESSEE_CONSULT_OPTION;Addressee for optional consultation;Destinatario di consultazione facoltativa
+http://publications.europa.eu/resource/authority/role/ADDRESSEE_INFO;false;;1952-07-24;ADDRESSEE_INFO;Addressee for information;Destinatario a titolo informativo
+http://publications.europa.eu/resource/authority/role/ADDRESSEE_MANDATORY;false;;2016-06-10;ADDRESSEE_MANDATORY;Mandatory addressee;Destinatario obbligatorio
+http://publications.europa.eu/resource/authority/role/ADVOC;false;;1952-07-24;ADVOC;Advocate;Avvocato
+http://publications.europa.eu/resource/authority/role/ADVOC_G;false;;1952-07-24;ADVOC_G;Advocate-General;Avvocato generale
+http://publications.europa.eu/resource/authority/role/ALLY;false;;2021-09-29;ALLY;Ally;Apparentato
+http://publications.europa.eu/resource/authority/role/ASSOC_CORP;false;;1952-07-24;ASSOC_CORP;Associated service;Servizio associato
+http://publications.europa.eu/resource/authority/role/ASSOC_JUDGE;false;;1952-07-24;ASSOC_JUDGE;Associate judge;Giudice assessore
+http://publications.europa.eu/resource/authority/role/AUT;false;;1952-07-24;AUT;Author;Autore
+http://publications.europa.eu/resource/authority/role/AUTHORI;false;;1952-07-24;AUTHORI;Authorising entity;Entità preposta all’autorizzazione
+http://publications.europa.eu/resource/authority/role/AUT_OPIN;false;;1952-07-24;AUT_OPIN;Author of opinion;Autore del parere
+http://publications.europa.eu/resource/authority/role/AUT_REPORT;false;;1952-07-24;AUT_REPORT;Author of report;Autore della relazione
+http://publications.europa.eu/resource/authority/role/CHAIR;false;;1952-07-24;CHAIR;Chairman;Presidente
+http://publications.europa.eu/resource/authority/role/CHAIR_BUREAU;false;;1962-03-30;CHAIR_BUREAU;Chair of the Bureau;Presidente dell'ufficio di presidenza
+http://publications.europa.eu/resource/authority/role/CHAIR_CMT;false;;1952-07-24;CHAIR_CMT;Committee Chair;Presidente della commissione
+http://publications.europa.eu/resource/authority/role/CHAIR_CO;false;;1952-07-24;CHAIR_CO;Co-Chair;Copresidente
+http://publications.europa.eu/resource/authority/role/CHAIR_DEP;false;;1952-07-24;CHAIR_DEP;Deputy Chair;Vicepresidente
+http://publications.europa.eu/resource/authority/role/CHAIR_VICE;false;;1952-07-24;CHAIR_VICE;Vice-Chairman;Vicepresidente
+http://publications.europa.eu/resource/authority/role/CHAIR_VICE_FIRST;false;;2021-09-29;CHAIR_VICE_FIRST;First Vice-Chair;primo vicepresidente
+http://publications.europa.eu/resource/authority/role/CHAIR_VICE_FIRST_MEM_BU;false;;2021-09-29;CHAIR_VICE_FIRST_MEM_BU;First Vice-Chair/Member of the Bureau;Primo vicepresidente/Membro dell’ufficio di presidenza
+http://publications.europa.eu/resource/authority/role/CHAIR_VICE_MEM_BU;false;;1962-03-30;CHAIR_VICE_MEM_BU;Vice-Chair/Member of the Bureau;Vicepresidente/Membro dell’ufficio di presidenza
+http://publications.europa.eu/resource/authority/role/CMT_OPIN;false;;1952-07-24;CMT_OPIN;Parliamentary committee for opinion;Commissione parlamentare competente per parere
+http://publications.europa.eu/resource/authority/role/CMT_OPIN_ASSOC;false;;1952-07-24;CMT_OPIN_ASSOC;Associated parliamentary committee for opinion;Commissione parlamentare associata per parere
+http://publications.europa.eu/resource/authority/role/CMT_RESP;false;;1952-07-24;CMT_RESP;Parliamentary committee responsible;Commissione parlamentare competente per il merito
+http://publications.europa.eu/resource/authority/role/COLLECTOR;false;;2018-06-11;COLLECTOR;Collector;Raccoglitore
+http://publications.europa.eu/resource/authority/role/COMPILER;false;;1952-07-24;COMPILER;Compiler;Compilatore
+http://publications.europa.eu/resource/authority/role/CONTRIB;false;;1952-07-24;CONTRIB;Contributor;Contributore
+http://publications.europa.eu/resource/authority/role/DEPOSITOR;false;;2021-09-29;DEPOSITOR;Depositor;Depositante
+http://publications.europa.eu/resource/authority/role/DEPOSITORY;false;;2021-09-29;DEPOSITORY;Depository;Depositario
+http://publications.europa.eu/resource/authority/role/DIR_COM_REGISTRY;false;;2020-10-21;DIR_COM_REGISTRY;Director of the Registry;Direttore della cancelleria
+http://publications.europa.eu/resource/authority/role/DIR_EXEC;false;;1952-07-24;DIR_EXEC;Executive Director;Direttore esecutivo
+http://publications.europa.eu/resource/authority/role/DIR_GEN;false;;1952-07-24;DIR_GEN;Director-General;Direttore generale
+http://publications.europa.eu/resource/authority/role/EDITOR;false;;1952-07-24;EDITOR;Editor;Redattore
+http://publications.europa.eu/resource/authority/role/EMP_OFF_DIR_REGISTRY;false;;2020-10-21;EMP_OFF_DIR_REGISTRY;Registry official empowered to sign on behalf of the Director of the Registry;Funzionario della cancelleria abilitato a firmare per conto del direttore della cancelleria
+http://publications.europa.eu/resource/authority/role/EU_ATC;false;;2011-04-05;EU_ATC;EU Anti-Trafficking Coordinator;Coordinatore anti-tratta dell’UE
+http://publications.europa.eu/resource/authority/role/FORM_COURT;false;;1952-07-24;FORM_COURT;Formation of the Court;Collegio giudicante
+http://publications.europa.eu/resource/authority/role/HEAR_OFF;false;;1990-01-01;HEAR_OFF;Hearing officer;Consigliere-auditore
+http://publications.europa.eu/resource/authority/role/ILLUSTR;false;;2009-12-01;ILLUSTR;Illustrator;Illustratore
+http://publications.europa.eu/resource/authority/role/INTERV;false;;1952-07-24;INTERV;Intervener;Interveniente
+http://publications.europa.eu/resource/authority/role/JUDGE;false;;1952-07-24;JUDGE;Judge;Giudice
+http://publications.europa.eu/resource/authority/role/JUDGE_RAPP;false;;1952-07-24;JUDGE_RAPP;Judge-Rapporteur;Giudice relatore
+http://publications.europa.eu/resource/authority/role/LEAD_CORP;false;;1952-07-24;LEAD_CORP;Leading service;Servizio capofila
+http://publications.europa.eu/resource/authority/role/LEAD_JOINT_CORP;false;;1952-07-24;LEAD_JOINT_CORP;Joint leading service;Servizio corresponsabile
+http://publications.europa.eu/resource/authority/role/LEAD_JOINT_PERS;false;;1952-07-24;LEAD_JOINT_PERS;Joint leading person;Persona corresponsabile
+http://publications.europa.eu/resource/authority/role/LEAD_PERS;false;;1952-07-24;LEAD_PERS;Leading person;Persona responsabile
+http://publications.europa.eu/resource/authority/role/MEDIATOR;false;;1952-07-24;MEDIATOR;Mediator;Mediatore
+http://publications.europa.eu/resource/authority/role/MEMBER;false;;1952-07-24;MEMBER;Member;Membro
+http://publications.europa.eu/resource/authority/role/MEMBER_ALT;false;;1952-07-24;MEMBER_ALT;Alternate member;Membro supplente
+http://publications.europa.eu/resource/authority/role/MEMBER_BUREAU;false;;1962-03-30;MEMBER_BUREAU;Member of the Bureau;Membro dell’ufficio di presidenza
+http://publications.europa.eu/resource/authority/role/MEMBER_COM;false;;1965-04-08;MEMBER_COM;Member of the Commission;Membro della Commissione
+http://publications.europa.eu/resource/authority/role/MEMBER_EP;false;;1952-07-24;MEMBER_EP;Member of Parliament;Eurodeputato
+http://publications.europa.eu/resource/authority/role/MEMBER_REPORT;false;;1992-02-07;MEMBER_REPORT;Reporting Member;Membro relatore
+http://publications.europa.eu/resource/authority/role/MEMB_BUREAU_ENLARG;false;;1962-03-30;MEMB_BUREAU_ENLARG;Member of the enlarged Bureau;Membro dell’Ufficio di presidenza ampliato
+http://publications.europa.eu/resource/authority/role/NARRATOR;false;;2022-04-06;NARRATOR;Narrator;Narratore
+http://publications.europa.eu/resource/authority/role/NRT;false;;2022-04-06;NRT;Audiobook narrator;Narratore di audiobook
+http://publications.europa.eu/resource/authority/role/OBSERVER;false;;2021-09-29;OBSERVER;Observer;Osservatore
+http://publications.europa.eu/resource/authority/role/OBSERVER_SUBST;false;;2021-09-29;OBSERVER_SUBST;Substitute observer;Osservatore sostituto
+http://publications.europa.eu/resource/authority/role/OMBUDSMAN;false;;1995-07-12;OMBUDSMAN;European Ombudsman;Mediatore europeo
+http://publications.europa.eu/resource/authority/role/OPERATOR;false;;2018-06-11;OPERATOR;Operator;Operatore
+http://publications.europa.eu/resource/authority/role/OP_DATPRO;false;;1952-07-23;OP_DATPRO;Provisional data;Dati provvisori
+http://publications.europa.eu/resource/authority/role/PRESID;false;;1952-07-24;PRESID;President;Presidente
+http://publications.europa.eu/resource/authority/role/PRESID_ACTING;false;;1952-07-24;PRESID_ACTING;Acting President;Presidente ad interim
+http://publications.europa.eu/resource/authority/role/PRESID_CHAMB;false;;1952-07-24;PRESID_CHAMB;President of the Chamber;Presidente di sezione
+http://publications.europa.eu/resource/authority/role/PRESID_CMT;false;;1952-07-24;PRESID_CMT;President of the Committee;Presidente del Comitato
+http://publications.europa.eu/resource/authority/role/PRESID_CO;false;;1952-07-24;PRESID_CO;Co-President;Copresidente
+http://publications.europa.eu/resource/authority/role/PRESID_COM;false;;1965-04-08;PRESID_COM;President of the European Commission;Presidente della Commissione europea
+http://publications.europa.eu/resource/authority/role/PRESID_CONSIL;false;;1952-07-24;PRESID_CONSIL;President of the Council;Presidente del Consiglio
+http://publications.europa.eu/resource/authority/role/PRESID_COR;false;;1992-02-07;PRESID_COR;President of the Committee of the Regions;Presidente del Comitato delle regioni
+http://publications.europa.eu/resource/authority/role/PRESID_CURIA;false;;1952-07-24;PRESID_CURIA;President of the Court of Justice;Presidente della Corte di giustizia
+http://publications.europa.eu/resource/authority/role/PRESID_ECA;false;;1992-02-07;PRESID_ECA;President of the Court of Auditors;Presidente della Corte dei conti
+http://publications.europa.eu/resource/authority/role/PRESID_EP;false;;1952-07-24;PRESID_EP;President of the European Parliament;Presidente del Parlamento europeo
+http://publications.europa.eu/resource/authority/role/PRESID_EURCOU;false;;1975-10-03;PRESID_EURCOU;President of the European Council;Presidente del Consiglio europeo
+http://publications.europa.eu/resource/authority/role/PRESID_VICE;false;;1952-07-24;PRESID_VICE;Vice-President;Vicepresidente
+http://publications.europa.eu/resource/authority/role/PRESID_VICE_COM;false;;1965-04-08;PRESID_VICE_COM;Vice-President of the European Commission;Vicepresidente della Commissione europea
+http://publications.europa.eu/resource/authority/role/PRESID_VICE_EP;false;;1952-07-24;PRESID_VICE_EP;Vice-President of the European Parliament;Vicepresidente del Parlamento europeo
+http://publications.europa.eu/resource/authority/role/PRESID_VICE_EXEC;false;;2019-12-01;PRESID_VICE_EXEC;Executive Vice-President;Vicepresidente esecutivo
+http://publications.europa.eu/resource/authority/role/PRESID_VICE_FIRST;false;;1952-07-24;PRESID_VICE_FIRST;First Vice-President;Primo vicepresidente
+http://publications.europa.eu/resource/authority/role/PRESID_VICE_SECOND;false;;2021-09-29;PRESID_VICE_SECOND;Second Vice-President;Secondo vicepresidente
+http://publications.europa.eu/resource/authority/role/PRESID_VICE_STOA_EP;false;;2021-09-29;PRESID_VICE_STOA_EP;EP Vice-President responsible for STOA;Vicepresidente del PE con responsabilità per lo STOA
+http://publications.europa.eu/resource/authority/role/PRINTER;false;;1952-07-24;PRINTER;Printer;Stampatore
+http://publications.europa.eu/resource/authority/role/PUBLISHER;false;;1952-07-24;PUBLISHER;Publisher;Editore
+http://publications.europa.eu/resource/authority/role/QUAESTOR;false;;1952-07-24;QUAESTOR;Quaestor;Questore
+http://publications.europa.eu/resource/authority/role/RAPP;false;;1952-07-24;RAPP;Rapporteur;Relatore
+http://publications.europa.eu/resource/authority/role/RAPP_CO;false;;1952-07-24;RAPP_CO;Co-rapporteur;Correlatore
+http://publications.europa.eu/resource/authority/role/RAPP_GEN;false;;1952-07-24;RAPP_GEN;Rapporteur-general;Relatore generale
+http://publications.europa.eu/resource/authority/role/RAPP_OPIN;false;;1952-07-24;RAPP_OPIN;Rapporteur for the opinion;Relatore per parere
+http://publications.europa.eu/resource/authority/role/REGISTRAR;false;;1952-07-24;REGISTRAR;Registrar;Cancelliere
+http://publications.europa.eu/resource/authority/role/REPR_GOV;false;;1952-07-24;REPR_GOV;Representatives of the Governments of the Member States;Rappresentanti dei governi degli Stati membri
+http://publications.europa.eu/resource/authority/role/REPR_HIGH;false;;2009-12-01;REPR_HIGH;High Representative of the Union;Alto rappresentante dell’Unione
+http://publications.europa.eu/resource/authority/role/REPR_PERM;false;;1965-04-08;REPR_PERM;Permanent representatives;Rappresentanti permanenti
+http://publications.europa.eu/resource/authority/role/RESP_CORP;true;2012-08-02;1952-07-24;RESP_CORP;Leading service;Servizio responsabile in via principale
+http://publications.europa.eu/resource/authority/role/RESP_INST;false;;2012-01-01;RESP_INST;Responsible institution;Istituzione responsabile
+http://publications.europa.eu/resource/authority/role/RESP_JOINT_CORP;true;2012-08-02;1952-07-24;RESP_JOINT_CORP;Joint leading service;Servizio congiuntamente responsabile
+http://publications.europa.eu/resource/authority/role/RESP_JOINT_PERS;true;2012-08-02;1952-07-24;RESP_JOINT_PERS;Joint leading person;Persona congiuntamente responsabile
+http://publications.europa.eu/resource/authority/role/RESP_PERS;true;2012-08-02;1952-07-24;RESP_PERS;Leading person;Responsabile
+http://publications.europa.eu/resource/authority/role/SECR_BUREAU;false;;1962-03-30;SECR_BUREAU;Secretary to the Bureau;Segretario dell’Uff. di presidenza
+http://publications.europa.eu/resource/authority/role/SEC_GEN;false;;1952-07-24;SEC_GEN;Secretary-General;Segretario generale
+http://publications.europa.eu/resource/authority/role/SIGN;false;;1952-07-24;SIGN;Signatory;Firmatario
+http://publications.europa.eu/resource/authority/role/SPEAK;false;;1952-07-24;SPEAK;Speaker;Oratore
+http://publications.europa.eu/resource/authority/role/TAKING_OVER;false;;1952-07-24;TAKING_OVER;Taking over;Responsabile
+http://publications.europa.eu/resource/authority/role/TENDER;false;;1952-07-24;TENDER;Tenderer;Offerente
+http://publications.europa.eu/resource/authority/role/TRANSL;false;;1952-07-24;TRANSL;Translator;Traduttore
+http://publications.europa.eu/resource/authority/role/TREASURER;false;;1952-07-24;TREASURER;Treasurer;Tesoriere
+http://publications.europa.eu/resource/authority/role/TREASURER_CO;false;;1952-07-24;TREASURER_CO;Co-treasurer;Cotesoriere
+http://publications.europa.eu/resource/authority/role/TREASURER_DEP;false;;2021-09-29;TREASURER_DEP;Deputy Treasurer;Tesoriere aggiunto
+http://publications.europa.eu/resource/authority/role/TREA_CHAIR_VICE_MEM_BU;false;;2021-09-29;TREA_CHAIR_VICE_MEM_BU;Treasurer/Vice-Chair/Member of the Bureau;Tesoriere/Vicepresidente/Membro dell’ufficio di presidenza

@@ -1,0 +1,7 @@
+url;deprecated;valid_until;valid_from;id;label_en;label_it
+http://publications.europa.eu/resource/authority/economic-operator-size/OP_DATPRO;;;;OP_DATPRO;Provisional data;Dati provvisori
+http://publications.europa.eu/resource/authority/economic-operator-size/large;false;;2019-09-18;large;Large;Grande impresa
+http://publications.europa.eu/resource/authority/economic-operator-size/medium;false;;2019-09-18;medium;Medium;Media impresa
+http://publications.europa.eu/resource/authority/economic-operator-size/micro;false;;2019-09-18;micro;Micro;Microimpresa
+http://publications.europa.eu/resource/authority/economic-operator-size/small;false;;2019-09-18;small;Small;Piccola impresa
+http://publications.europa.eu/resource/authority/economic-operator-size/sme;false;;2019-09-18;sme;Micro, small, or medium;Microimpresa, piccola o media impresa

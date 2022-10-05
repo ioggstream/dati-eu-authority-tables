@@ -24,12 +24,12 @@
             dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:affected-table "FD_609" ;
-            at:legacy-code "(ACC;10000)" ;
-            dc:source "PreLex" ],
+            at:legacy-code "ACC" ;
+            dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:affected-table "FD_609" ;
-            at:legacy-code "ACC" ;
-            dc:source "ATTO" ] ;
+            at:legacy-code "(ACC;10000)" ;
+            dc:source "PreLex" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "ACC" ;
     dc:identifier "ACC" ;
@@ -70,26 +70,26 @@
     at:op-code "APP" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:affected-table "FD_609" ;
-            at:legacy-code "APP" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "APP" ;
-            dc:source "EP" ],
+            at:legacy-code "(APP;1030)" ;
+            dc:source "PreLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_609" ;
             at:legacy-code "APP" ;
             dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "APP" ;
-            dc:source "EP" ],
         [ a at:MappedCode ;
             at:affected-table "FD_609" ;
             at:legacy-code "(APP;1030)" ;
             dc:source "PreLex" ],
         [ a at:MappedCode ;
+            at:legacy-code "APP" ;
+            dc:source "EP" ],
+        [ a at:MappedCode ;
             at:affected-table "FD_609" ;
-            at:legacy-code "(APP;1030)" ;
-            dc:source "PreLex" ] ;
+            at:legacy-code "APP" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "APP" ;
+            dc:source "EP" ] ;
     at:start.use "2009-12-01" ;
     atold:op-code "APP" ;
     dc:identifier "APP" ;
@@ -131,16 +131,12 @@
     at:end.use "2009-11-30" ;
     at:op-code "AVC" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "(AVC;1020)" ;
+            dc:source "PreLex" ],
+        [ a at:MappedCode ;
             at:legacy-code "AVC" ;
             dc:source "EP" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_609" ;
-            at:legacy-code "(AVC;1020)" ;
-            dc:source "PreLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_609" ;
-            at:legacy-code "(AVC;1020)" ;
-            dc:source "PreLex" ],
         [ a at:MappedCode ;
             at:legacy-code "AVC" ;
             dc:source "EP" ],
@@ -148,6 +144,10 @@
             at:affected-table "FD_609" ;
             at:legacy-code "AVC" ;
             dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "(AVC;1020)" ;
+            dc:source "PreLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_609" ;
             at:legacy-code "AVC" ;
@@ -239,16 +239,16 @@
     at:op-code "CNB" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:affected-table "FD_609" ;
+            at:legacy-code "CNB" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "CNB" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
             at:legacy-code "(CNB;100000)" ;
             dc:source "PreLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_609" ;
-            at:legacy-code "CNB" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_609" ;
-            at:legacy-code "CNB" ;
-            dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:affected-table "FD_609" ;
             at:legacy-code "(CNB;100000)" ;
@@ -299,16 +299,16 @@
             dc:source "PreLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_609" ;
-            at:legacy-code "CNC" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_609" ;
-            at:legacy-code "CNC" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_609" ;
             at:legacy-code "(CNC;100060)" ;
-            dc:source "PreLex" ] ;
+            dc:source "PreLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "CNC" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "CNC" ;
+            dc:source "ATTO" ] ;
     at:start.use "1993-11-01" ;
     atold:op-code "CNC" ;
     dc:identifier "CNC" ;
@@ -350,6 +350,13 @@
     at:end.use "2009-11-30" ;
     at:op-code "CNS" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "CNS" ;
+            dc:source "EP" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "(CNS_OLD;1016)" ;
+            dc:source "PreLex" ],
+        [ a at:MappedCode ;
             at:affected-table "FD_609" ;
             at:legacy-code "(CNS_OLD;1016)" ;
             dc:source "PreLex" ],
@@ -357,20 +364,13 @@
             at:legacy-code "CNS" ;
             dc:source "EP" ],
         [ a at:MappedCode ;
-            at:legacy-code "CNS" ;
-            dc:source "EP" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_609" ;
             at:legacy-code "CNS_OLD" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:affected-table "FD_609" ;
             at:legacy-code "CNS_OLD" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_609" ;
-            at:legacy-code "(CNS_OLD;1016)" ;
-            dc:source "PreLex" ] ;
+            dc:source "ATTO" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "CNS" ;
     dc:identifier "CNS" ;
@@ -414,20 +414,20 @@
     at:op-code "COD" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:affected-table "FD_609" ;
-            at:legacy-code "COD_OLD" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_609" ;
-            at:legacy-code "COD_OLD" ;
-            dc:source "ATTO" ],
+            at:legacy-code "(COD_OLD;1011)" ;
+            dc:source "PreLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_609" ;
             at:legacy-code "(COD_OLD;1011)" ;
             dc:source "PreLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_609" ;
-            at:legacy-code "(COD_OLD;1011)" ;
-            dc:source "PreLex" ] ;
+            at:legacy-code "COD_OLD" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "COD_OLD" ;
+            dc:source "ATTO" ] ;
     at:start.use "1993-11-01" ;
     atold:op-code "COD" ;
     dc:identifier "COD" ;
@@ -587,9 +587,8 @@
     at:deprecated "false" ;
     at:op-code "NLE" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "FD_609" ;
             at:legacy-code "NLE" ;
-            dc:source "ATTO" ],
+            dc:source "EP" ],
         [ a at:MappedCode ;
             at:affected-table "FD_609" ;
             at:legacy-code "(NLE;1035)" ;
@@ -606,8 +605,9 @@
             at:legacy-code "(NLE;1035)" ;
             dc:source "PreLex" ],
         [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
             at:legacy-code "NLE" ;
-            dc:source "EP" ] ;
+            dc:source "ATTO" ] ;
     at:start.use "2009-12-01" ;
     atold:op-code "NLE" ;
     dc:identifier "NLE" ;
@@ -652,9 +652,11 @@
             at:legacy-code "COD" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
-            at:affected-table "FD_609" ;
-            at:legacy-code "(COD;1010)" ;
-            dc:source "PreLex" ],
+            at:legacy-code "COD" ;
+            dc:source "EP" ],
+        [ a at:MappedCode ;
+            at:legacy-code "COD" ;
+            dc:source "EP" ],
         [ a at:MappedCode ;
             at:affected-table "FD_609" ;
             at:legacy-code "(COD;1010)" ;
@@ -664,11 +666,9 @@
             at:legacy-code "COD" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
-            at:legacy-code "COD" ;
-            dc:source "EP" ],
-        [ a at:MappedCode ;
-            at:legacy-code "COD" ;
-            dc:source "EP" ] ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "(COD;1010)" ;
+            dc:source "PreLex" ] ;
     at:start.use "2009-12-01" ;
     atold:op-code "OLP" ;
     dc:identifier "OLP" ;
@@ -745,16 +745,16 @@
     at:op-code "PRT" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:affected-table "FD_609" ;
-            at:legacy-code "(PRT;1025)" ;
-            dc:source "PreLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_609" ;
-            at:legacy-code "(PRT;1025)" ;
-            dc:source "PreLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_609" ;
             at:legacy-code "PRT" ;
             dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "(PRT;1025)" ;
+            dc:source "PreLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
+            at:legacy-code "(PRT;1025)" ;
+            dc:source "PreLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_609" ;
             at:legacy-code "PRT" ;
@@ -802,8 +802,9 @@
             at:legacy-code "(CNS;1015)" ;
             dc:source "PreLex" ],
         [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
             at:legacy-code "CNS" ;
-            dc:source "EP" ],
+            dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:affected-table "FD_609" ;
             at:legacy-code "(CNS;1015)" ;
@@ -816,9 +817,8 @@
             at:legacy-code "CNS" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
-            at:affected-table "FD_609" ;
             at:legacy-code "CNS" ;
-            dc:source "ATTO" ] ;
+            dc:source "EP" ] ;
     at:start.use "2009-12-01" ;
     atold:op-code "SLP" ;
     dc:identifier "SLP" ;
@@ -865,15 +865,15 @@
             dc:source "EP" ],
         [ a at:MappedCode ;
             at:affected-table "FD_609" ;
+            at:legacy-code "(SYN;1005)" ;
+            dc:source "PreLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_609" ;
             at:legacy-code "SYN" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:legacy-code "SYN" ;
             dc:source "EP" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_609" ;
-            at:legacy-code "(SYN;1005)" ;
-            dc:source "PreLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_609" ;
             at:legacy-code "SYN" ;

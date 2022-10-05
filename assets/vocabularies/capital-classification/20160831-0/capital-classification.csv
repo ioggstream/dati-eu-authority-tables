@@ -1,0 +1,4 @@
+url;deprecated;valid_until;valid_from;id;label_en;label_it
+http://publications.europa.eu/resource/authority/capital-classification/CAP_COU;false;;1952-07-23;CAP_COU;Country capital;
+http://publications.europa.eu/resource/authority/capital-classification/CAP_NON;false;;1952-07-23;CAP_NON;Non-capital;
+http://publications.europa.eu/resource/authority/capital-classification/OP_DATPRO;;;;OP_DATPRO;Provisional data;Dati provvisori

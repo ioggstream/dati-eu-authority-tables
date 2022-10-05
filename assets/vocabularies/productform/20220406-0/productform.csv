@@ -1,0 +1,21 @@
+url;deprecated;valid_until;valid_from;id;label_en;label_it
+http://publications.europa.eu/resource/authority/product-form/ADB;false;;1951-01-01;ADB;Audiobook;Audiolibro
+http://publications.europa.eu/resource/authority/product-form/APP;false;;1951-01-01;APP;Mobile application;Applicazione mobile
+http://publications.europa.eu/resource/authority/product-form/BOOKMARK;false;;1951-01-01;BOOKMARK;Bookmark;Segnalibro
+http://publications.europa.eu/resource/authority/product-form/CDROM;false;;1951-01-01;CDROM;CD-ROM;CD-ROM
+http://publications.europa.eu/resource/authority/product-form/DVDROM;false;;1951-01-01;DVDROM;DVD-ROM;DVD-ROM
+http://publications.europa.eu/resource/authority/product-form/FOLDER;false;;1951-01-01;FOLDER;Folder;Cartella
+http://publications.europa.eu/resource/authority/product-form/LEAFLET;false;;1951-01-01;LEAFLET;Leaflet;Opuscolo
+http://publications.europa.eu/resource/authority/product-form/OP_DATPRO;false;;1952-07-23;OP_DATPRO;Provisional data;Dati provvisori
+http://publications.europa.eu/resource/authority/product-form/POSTCARD;false;;1951-01-01;POSTCARD;Postcard;Cartolina
+http://publications.europa.eu/resource/authority/product-form/POSTER;false;;1951-01-01;POSTER;Poster;Manifesto
+http://publications.europa.eu/resource/authority/product-form/POSTER_PROM;false;;1951-01-01;POSTER_PROM;Poster, promotional;Manifesto, promozionale
+http://publications.europa.eu/resource/authority/product-form/PRINT;false;;1951-01-01;PRINT;Print;Stampato
+http://publications.europa.eu/resource/authority/product-form/PRINT_HRDCV;false;;1951-01-01;PRINT_HRDCV;Print (hardcover);
+http://publications.europa.eu/resource/authority/product-form/PRINT_LOSL;false;;1951-01-01;PRINT_LOSL;Print (looseleaf);
+http://publications.europa.eu/resource/authority/product-form/PRINT_RGBD;false;;1951-01-01;PRINT_RGBD;Print (ringbinder);
+http://publications.europa.eu/resource/authority/product-form/PRINT_SFTCV;false;;1951-01-01;PRINT_SFTCV;Print (softcover);
+http://publications.europa.eu/resource/authority/product-form/PRINT_STPL;false;;1951-01-01;PRINT_STPL;Print (stapled);
+http://publications.europa.eu/resource/authority/product-form/SHEET_MAP;false;;1951-01-01;SHEET_MAP;Sheet map;Cartina su foglio
+http://publications.europa.eu/resource/authority/product-form/USB_FD;false;;1951-01-01;USB_FD;USB flash drive;Chiave USB
+http://publications.europa.eu/resource/authority/product-form/VIDEO_VHS;false;;1951-01-01;VIDEO_VHS;VHS Video;Video VHS

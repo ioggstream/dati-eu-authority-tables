@@ -1,0 +1,9 @@
+url;deprecated;valid_until;valid_from;id;label_en;label_it
+http://publications.europa.eu/resource/authority/form-type/OP_DATPRO;false;;1952-07-23;OP_DATPRO;Provisional data;Dati provvisori
+http://publications.europa.eu/resource/authority/form-type/bri;false;;2021-09-29;bri;Business registration information;Informazioni sulla registrazione delle imprese
+http://publications.europa.eu/resource/authority/form-type/change;false;;2019-09-18;change;Change;Rettifica
+http://publications.europa.eu/resource/authority/form-type/competition;false;;2019-09-18;competition;Competition;Gara
+http://publications.europa.eu/resource/authority/form-type/cont-modif;false;;2019-09-18;cont-modif;Contract modification;Modifica dell'appalto
+http://publications.europa.eu/resource/authority/form-type/dir-awa-pre;false;;2019-09-18;dir-awa-pre;Direct award preannouncement;Preavviso di aggiudicazione diretta
+http://publications.europa.eu/resource/authority/form-type/planning;false;;2019-09-18;planning;Planning;Programmazione
+http://publications.europa.eu/resource/authority/form-type/result;false;;2019-09-18;result;Result;Risultati

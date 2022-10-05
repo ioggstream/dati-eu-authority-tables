@@ -1,0 +1,7 @@
+url;deprecated;valid_until;valid_from;id;label_en;label_it
+http://publications.europa.eu/resource/authority/human-sex/FEMALE;false;;2015-05-06;FEMALE;female;femminile
+http://publications.europa.eu/resource/authority/human-sex/MALE;false;;2015-05-06;MALE;male;maschile
+http://publications.europa.eu/resource/authority/human-sex/NAP;false;;2015-05-06;NAP;not applicable;non pertinente
+http://publications.europa.eu/resource/authority/human-sex/NKN;false;;2015-05-06;NKN;not known;ignoto
+http://publications.europa.eu/resource/authority/human-sex/NST;false;;2020-11-26;NST;not stated;non dichiarato
+http://publications.europa.eu/resource/authority/humansexes/OP_DATPRO;false;;1952-07-23;OP_DATPRO;Provisional data;Dati provvisori

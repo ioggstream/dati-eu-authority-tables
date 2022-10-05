@@ -1,0 +1,14 @@
+url;deprecated;valid_until;valid_from;id;label_en;label_it
+http://publications.europa.eu/resource/authority/concept-status/CANDIDATE;false;;2009-12-01;CANDIDATE;candidate;
+http://publications.europa.eu/resource/authority/concept-status/CANDIDATE_DEPRECATED;false;;2009-12-01;CANDIDATE_DEPRECATED;candidate.deprecated;
+http://publications.europa.eu/resource/authority/concept-status/CURRENT;false;;2009-12-01;CURRENT;current;attuale
+http://publications.europa.eu/resource/authority/concept-status/DEPRECATED;false;;2009-12-01;DEPRECATED;deprecated;sconsigliato
+http://publications.europa.eu/resource/authority/concept-status/DRAFT;false;;2009-12-01;DRAFT;draft;
+http://publications.europa.eu/resource/authority/concept-status/DRAFT_DEPRECATED;false;;2009-12-01;DRAFT_DEPRECATED;draft.deprecated;
+http://publications.europa.eu/resource/authority/concept-status/OP_DATPRO;false;;1952-07-23;OP_DATPRO;Provisional data;Dati provvisori
+http://publications.europa.eu/resource/authority/concept-status/PLANNED;false;;2021-12-20;PLANNED;planned;
+http://publications.europa.eu/resource/authority/concept-status/RETIRED;false;;2009-12-01;RETIRED;retired;ritirato
+http://publications.europa.eu/resource/authority/concept-status/REVISED;false;;2018-02-20;REVISED;revised;
+http://publications.europa.eu/resource/authority/concept-status/REVISED_DEPRECATED;false;;2018-02-20;REVISED_DEPRECATED;revised.deprecated;
+http://publications.europa.eu/resource/authority/concept-status/WAITING;false;;2015-07-01;WAITING;waiting;
+http://publications.europa.eu/resource/authority/concept-status/WAITING_DEPRECATED;false;;2015-07-03;WAITING_DEPRECATED;waiting.deprecated;

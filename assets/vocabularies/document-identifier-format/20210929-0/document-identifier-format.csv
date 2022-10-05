@@ -1,0 +1,5 @@
+url;deprecated;valid_until;valid_from;id;label_en;label_it
+http://publications.europa.eu/resource/authority/document-identifier-format/COM_NUMBER;false;;2021-05-11;COM_NUMBER;COM number;Numero COM
+http://publications.europa.eu/resource/authority/document-identifier-format/CSL_NUMBER;false;;2021-05-11;CSL_NUMBER;CSL number;Numero CSL
+http://publications.europa.eu/resource/authority/document-identifier-format/OP_DATPRO;false;;1952-07-23;OP_DATPRO;Provisional data;Dati provvisori
+http://publications.europa.eu/resource/authority/document-identifier-format/SESSION_NUMBER;false;;2021-05-11;SESSION_NUMBER;Session number;Numero sessione

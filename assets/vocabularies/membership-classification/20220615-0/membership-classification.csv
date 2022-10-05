@@ -1,0 +1,9 @@
+url;deprecated;valid_until;valid_from;id;label_en;label_it
+http://publications.europa.eu/resource/authority/membership-classification/EEA;false;;1994-01-01;EEA;European Economic Area;Spazio economico europeo
+http://publications.europa.eu/resource/authority/membership-classification/EFTA;false;;1960-01-04;EFTA;European Free Trade Association;Associazione europea di libero scambio
+http://publications.europa.eu/resource/authority/membership-classification/EU;false;;1951-01-01;EU;European Union;Unione europea
+http://publications.europa.eu/resource/authority/membership-classification/EURO;false;;1999-01-01;EURO;Euro area;Zona euro
+http://publications.europa.eu/resource/authority/membership-classification/NATO;false;;1949-04-04;NATO;North Atlantic Treaty Organization;Organizzazione del trattato del Nord Atlantico
+http://publications.europa.eu/resource/authority/membership-classification/OP_DATPRO;false;;1952-07-23;OP_DATPRO;Provisional data;Dati provvisori
+http://publications.europa.eu/resource/authority/membership-classification/OTHER;false;;1951-01-01;OTHER;Other;Altro
+http://publications.europa.eu/resource/authority/membership-classification/SCHENGEN;false;;1995-03-26;SCHENGEN;Schengen area;Spazio Schengen

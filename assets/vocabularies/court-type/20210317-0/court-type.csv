@@ -1,0 +1,8 @@
+url;deprecated;valid_until;valid_from;id;label_en;label_it
+http://publications.europa.eu/resource/authority/court-type/EUR_CJ;false;;1952-07-24;EUR_CJ;Court of Justice;Corte di giustizia
+http://publications.europa.eu/resource/authority/court-type/EUR_CST;true;2016-08-31;2004-11-09;EUR_CST;Civil Service Tribunal;Tribunale della funzione pubblica
+http://publications.europa.eu/resource/authority/court-type/EUR_GC;false;;2009-12-01;EUR_GC;General Court;Tribunale
+http://publications.europa.eu/resource/authority/court-type/NAT_COURT_APPEAL;false;;1952-07-24;NAT_COURT_APPEAL;Court of appeal;Corte di appello
+http://publications.europa.eu/resource/authority/court-type/NAT_COURT_FIRST_INSTANCE;false;;1952-07-24;NAT_COURT_FIRST_INSTANCE;Court of first instance;Tribunale di primo grado
+http://publications.europa.eu/resource/authority/court-type/NAT_COURT_SUPREME;false;;1952-07-24;NAT_COURT_SUPREME;Supreme court;Corte suprema
+http://publications.europa.eu/resource/authority/court-type/OP_DATPRO;false;;1952-07-23;OP_DATPRO;Provisional data;Dati provvisori

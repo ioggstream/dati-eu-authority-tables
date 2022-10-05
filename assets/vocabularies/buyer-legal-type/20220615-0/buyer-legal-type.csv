@@ -1,0 +1,24 @@
+url;deprecated;valid_until;valid_from;id;label_en;label_it
+http://publications.europa.eu/resource/authority/buyer-legal-type/OP_DATPRO;false;;1952-07-23;OP_DATPRO;Provisional data;Dati provvisori
+http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl;false;;2019-09-18;body-pl;Body governed by public law;Organismo di diritto pubblico
+http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-cga;false;;2019-09-18;body-pl-cga;Body governed by public law, controlled by a central government authority;Organismo di diritto pubblico controllato da un'autorità governativa centrale
+http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-la;false;;2019-09-18;body-pl-la;Body governed by public law, controlled by a local authority;Organismo di diritto pubblico controllato da un'autorità locale
+http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-ra;false;;2019-09-18;body-pl-ra;Body governed by public law, controlled by a regional authority;Organismo di diritto pubblico controllato da un'autorità regionale
+http://publications.europa.eu/resource/authority/buyer-legal-type/cga;false;;2019-09-18;cga;Central government authority;Autorità governativa centrale
+http://publications.europa.eu/resource/authority/buyer-legal-type/def-cont;false;;2019-09-18;def-cont;Defence contractor;Appaltatore nel settore della difesa
+http://publications.europa.eu/resource/authority/buyer-legal-type/eu-ins-bod-ag;false;;2019-09-18;eu-ins-bod-ag;EU institution, body or agency;Istituzione, organo o agenzia dell’UE
+http://publications.europa.eu/resource/authority/buyer-legal-type/eu-int-org;true;2019-09-17;2019-09-16;eu-int-org;European Institution/Agency or International Organisation;Istituzione/agenzia europea o organizzazione internazionale
+http://publications.europa.eu/resource/authority/buyer-legal-type/grp-p-aut;false;;2021-12-08;grp-p-aut;Group of public authorities;Gruppo di autorità pubbliche
+http://publications.europa.eu/resource/authority/buyer-legal-type/int-org;false;;2019-09-18;int-org;International organisation;Organizzazione internazionale
+http://publications.europa.eu/resource/authority/buyer-legal-type/la;false;;2019-09-18;la;Local authority;Autorità locale
+http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub;false;;2019-09-18;org-sub;Organisation awarding a contract subsidised by a contracting authority;Organizzazione che aggiudica un appalto sovvenzionato da un'amministrazione aggiudicatrice
+http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-cga;false;;2019-09-18;org-sub-cga;Organisation awarding a contract subsidised by a central government authority;Organizzazione che aggiudica un appalto sovvenzionato da un'autorità governativa centrale
+http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-la;false;;2019-09-18;org-sub-la;Organisation awarding a contract subsidised by a local authority;Organizzazione che aggiudica un appalto sovvenzionato da un'autorità locale
+http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-ra;false;;2019-09-18;org-sub-ra;Organisation awarding a contract subsidised by a regional authority;Organizzazione che aggiudica un appalto sovvenzionato da un'autorità regionale
+http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert;false;;2019-09-18;pub-undert;Public undertaking;Impresa pubblica
+http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-cga;false;;2019-09-18;pub-undert-cga;Public undertaking, controlled by a central government authority;Impresa pubblica controllata da un'autorità governativa centrale
+http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-la;false;;2019-09-18;pub-undert-la;Public undertaking, controlled by a local authority;Impresa pubblica controllata da un'autorità locale
+http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-ra;false;;2019-09-18;pub-undert-ra;Public undertaking, controlled by a regional authority;Impresa pubblica controllata da un'autorità regionale
+http://publications.europa.eu/resource/authority/buyer-legal-type/ra;false;;2019-09-18;ra;Regional authority;Autorità regionale
+http://publications.europa.eu/resource/authority/buyer-legal-type/rl-aut;true;2019-09-17;2019-09-16;rl-aut;Regional or local authority;Autorità regionale o locale
+http://publications.europa.eu/resource/authority/buyer-legal-type/spec-rights-entity;false;;2019-09-18;spec-rights-entity;Entity with special or exclusive rights;Ente dotato di diritti speciali o esclusivi

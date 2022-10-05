@@ -1,0 +1,4 @@
+url;deprecated;valid_until;valid_from;id;label_en;label_it
+http://publications.europa.eu/resource/authority/number-fixed/OP_DATPRO;false;;1952-07-23;OP_DATPRO;Provisional data;Dati provvisori
+http://publications.europa.eu/resource/authority/number-fixed/fix-tot;false;;2019-09-18;fix-tot;Fixed value (total);Valore fisso (totale)
+http://publications.europa.eu/resource/authority/number-fixed/fix-unit;false;;2019-09-18;fix-unit;Fixed value (per unit);Valore fisso (per unità)
