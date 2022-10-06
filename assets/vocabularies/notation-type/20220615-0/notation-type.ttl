@@ -1471,11 +1471,11 @@
     at:op-code "OP_CAT" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:affected-table "notation-type" ;
-            at:legacy-code "cat.no.old" ;
+            at:legacy-code "cat.no" ;
             dc:source "MDR" ],
         [ a at:MappedCode ;
             at:affected-table "notation-type" ;
-            at:legacy-code "cat.no" ;
+            at:legacy-code "cat.no.old" ;
             dc:source "MDR" ] ;
     at:start.use "1969-01-18" ;
     atold:op-code "OP_CAT" ;

@@ -54,16 +54,16 @@
     at:deprecated "false" ;
     at:op-code "ACT" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "ACT" ;
-            dc:source "PLANJO_CODES" ],
+            at:affected-table "FD_612" ;
+            at:legacy-code "100060;ACTE" ;
+            dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "ACT" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
-            at:affected-table "FD_612" ;
-            at:legacy-code "100060;ACTE" ;
-            dc:source "ATTO" ] ;
+            at:legacy-code "ACT" ;
+            dc:source "PLANJO_CODES" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "ACT" ;
     dc:identifier "ACT" ;
@@ -213,15 +213,15 @@
     at:deprecated "false" ;
     at:op-code "ACT_DRAFT" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "FD_612" ;
-            at:legacy-code "100040;PROJACT" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
             at:legacy-code "ACT_DRAFT" ;
             dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "ACT_DRAFT" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_612" ;
+            at:legacy-code "100040;PROJACT" ;
             dc:source "ATTO" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "ACT_DRAFT" ;
@@ -346,19 +346,19 @@
     at:deprecated "false" ;
     at:op-code "ACT_OTHER" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "ACT_OTHER" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "OTHER" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
-            at:legacy-code "ACT_OTHER" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
-            at:legacy-code "OTHER" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "AUTRE" ;
-            dc:source "ATTO" ] ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "OTHER" ;
+            dc:source "PLANJO_CODES" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "ACT_OTHER" ;
     dc:identifier "ACT_OTHER" ;
@@ -410,12 +410,12 @@
     at:deprecated "false" ;
     at:op-code "ACT_PREP" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "ACT_PREP" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "C2" ;
-            dc:source "ATTO" ] ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "ACT_PREP" ;
+            dc:source "PLANJO_CODES" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "ACT_PREP" ;
     dc:identifier "ACT_PREP" ;
@@ -748,12 +748,12 @@
     at:deprecated "false" ;
     at:op-code "AGREE_AMEND" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "AGREE_AMEND" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "AMENDEMENT" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "AGREE_AMEND" ;
-            dc:source "PLANJO_CODES" ] ;
+            dc:source "ATTO" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "AGREE_AMEND" ;
     dc:identifier "AGREE_AMEND" ;
@@ -791,12 +791,12 @@
     at:deprecated "false" ;
     at:op-code "AGREE_EUMS" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "FD_030" ;
-            at:legacy-code "AGREE_EUMS" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_612" ;
             at:legacy-code "1015;ACCEM" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_030" ;
+            at:legacy-code "AGREE_EUMS" ;
             dc:source "ATTO" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "AGREE_EUMS" ;
@@ -858,12 +858,12 @@
     at:deprecated "false" ;
     at:op-code "AGREE_EUMS_DRAFT" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "FD_030" ;
-            at:legacy-code "AGREE_EUMS_DRAFT" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_612" ;
             at:legacy-code "1020;PACCEM" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_030" ;
+            at:legacy-code "AGREE_EUMS_DRAFT" ;
             dc:source "ATTO" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "AGREE_EUMS_DRAFT" ;
@@ -907,12 +907,12 @@
             at:legacy-code "AGREE_INTERINSTIT" ;
             dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
-            at:legacy-code "AGR" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_612" ;
             at:legacy-code "1025;ACCIN" ;
             dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "AGR" ;
+            dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "AGREE_INTERINSTIT" ;
@@ -983,16 +983,16 @@
     at:deprecated "false" ;
     at:op-code "AGREE_INTERINSTIT_DRAFT" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "FD_030" ;
             at:legacy-code "AGREE_INTERINSTIT_DRAFT" ;
-            dc:source "ATTO" ],
+            dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:affected-table "FD_612" ;
             at:legacy-code "1030;PACCIN" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
+            at:affected-table "FD_030" ;
             at:legacy-code "AGREE_INTERINSTIT_DRAFT" ;
-            dc:source "PLANJO_CODES" ] ;
+            dc:source "ATTO" ] ;
     at:start.use "1987-07-01" ;
     atold:op-code "AGREE_INTERINSTIT_DRAFT" ;
     dc:identifier "AGREE_INTERINSTIT_DRAFT" ;
@@ -1031,12 +1031,12 @@
     at:deprecated "false" ;
     at:op-code "AGREE_INTERNAL" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "AGREE_INTERNAL" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "ACCINTERNE" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "AGREE_INTERNAL" ;
-            dc:source "PLANJO_CODES" ] ;
+            dc:source "ATTO" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "AGREE_INTERNAL" ;
     dc:identifier "AGREE_INTERNAL" ;
@@ -1078,19 +1078,19 @@
     at:deprecated "false" ;
     at:op-code "AGREE_INTERNATION" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "AGR" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_612" ;
-            at:legacy-code "1005;ACC" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
             at:legacy-code "AGREE_INTERNATION" ;
             dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "ACCORD" ;
             dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_612" ;
+            at:legacy-code "1005;ACC" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "AGR" ;
+            dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "ACCORDUE" ;
@@ -1210,12 +1210,12 @@
     at:deprecated "false" ;
     at:op-code "AGREE_PROT" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "AGREE_PROT" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "PRO-ACC" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "AGREE_PROT" ;
-            dc:source "PLANJO_CODES" ] ;
+            dc:source "ATTO" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "AGREE_PROT" ;
     dc:identifier "AGREE_PROT" ;
@@ -1329,12 +1329,12 @@
     at:deprecated "false" ;
     at:op-code "AGREE_VEREINB" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "AGREE_VEREINB" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "AGREE_VEREINB" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "AGREE_VEREINB" ;
-            dc:source "PLANJO_CODES" ] ;
+            dc:source "ATTO" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "AGREE_VEREINB" ;
     dc:identifier "AGREE_VEREINB" ;
@@ -1372,15 +1372,15 @@
     at:deprecated "false" ;
     at:op-code "AID_STATE" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "FD_030" ;
-            at:legacy-code "AID_STATE" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
             at:legacy-code "AID_STATE" ;
             dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:legacy-code "STATE.AID" ;
-            dc:source "PLANJO_CODES" ] ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_030" ;
+            at:legacy-code "AID_STATE" ;
+            dc:source "ATTO" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "AID_STATE" ;
     dc:identifier "AID_STATE" ;
@@ -1422,10 +1422,10 @@
     at:deprecated "false" ;
     at:op-code "AMEND_PROP" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "AMEND_PROP" ;
+            at:legacy-code "AM.PROP" ;
             dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
-            at:legacy-code "AM.PROP" ;
+            at:legacy-code "AMEND_PROP" ;
             dc:source "PLANJO_CODES" ] ;
     at:start.use "2010-01-12" ;
     atold:op-code "AMEND_PROP" ;
@@ -1511,10 +1511,10 @@
     at:deprecated "false" ;
     at:op-code "AMEND_PROP_DIR" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "AM.PROP.DIR" ;
+            at:legacy-code "AMEND_PROP_DIR" ;
             dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
-            at:legacy-code "AMEND_PROP_DIR" ;
+            at:legacy-code "AM.PROP.DIR" ;
             dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:affected-table "FD_030" ;
@@ -1609,16 +1609,16 @@
             dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:affected-table "PUB_NOT" ;
+            at:legacy-code "U_ANN" ;
+            dc:source "PUB" ],
+        [ a at:MappedCode ;
+            at:affected-table "PUB_NOT" ;
             at:legacy-code "L_ANN" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "ANNEX" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:affected-table "PUB_NOT" ;
-            at:legacy-code "U_ANN" ;
-            dc:source "PUB" ] ;
+            dc:source "ATTO" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "ANNEX" ;
     dc:identifier "ANNEX" ;
@@ -1755,12 +1755,12 @@
     at:deprecated "false" ;
     at:op-code "ANNOUNC" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "ANNOUNC" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "ANN" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "ANNOUNC" ;
-            dc:source "PLANJO_CODES" ] ;
+            dc:source "ATTO" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "ANNOUNC" ;
     dc:identifier "ANNOUNC" ;
@@ -1951,12 +1951,12 @@
     at:deprecated "false" ;
     at:op-code "ASSENT" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "ASSENT" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "CONF" ;
             dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "ASSENT" ;
-            dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:affected-table "FD_612" ;
             at:legacy-code "1070;AVCS" ;
@@ -2004,12 +2004,12 @@
     at:deprecated "false" ;
     at:op-code "ASSENT_REQ" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "FD_612" ;
-            at:legacy-code "1065;DAVCS" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "ASSENT_REQ" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_612" ;
+            at:legacy-code "1065;DAVCS" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:legacy-code "ASSENT_REQ" ;
@@ -2087,15 +2087,15 @@
     at:deprecated "false" ;
     at:op-code "BALANCE" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_030" ;
+            at:legacy-code "BILAN" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
             at:legacy-code "BALANCE" ;
             dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "BILANJOC" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_030" ;
-            at:legacy-code "BILAN" ;
             dc:source "ATTO" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "BALANCE" ;
@@ -2170,16 +2170,16 @@
     at:deprecated "false" ;
     at:op-code "BUDGET" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "FD_030" ;
-            at:legacy-code "BUDGET" ;
+            at:affected-table "FD_612" ;
+            at:legacy-code "1320;B" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:affected-table "FD_612" ;
             at:legacy-code "1340;BCECA" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
-            at:affected-table "FD_612" ;
-            at:legacy-code "1320;B" ;
+            at:affected-table "FD_030" ;
+            at:legacy-code "BUDGET" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:legacy-code "BUDGET" ;
@@ -2291,16 +2291,16 @@
             at:legacy-code "1335;PRBCECA" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
-            at:legacy-code "BUDGET_DRAFT" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "BUDGET_DRAFT" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:affected-table "FD_612" ;
             at:legacy-code "1310;PRB" ;
-            dc:source "ATTO" ] ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "BUDGET_DRAFT" ;
+            dc:source "PLANJO_CODES" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "BUDGET_DRAFT" ;
     dc:identifier "BUDGET_DRAFT" ;
@@ -2340,12 +2340,12 @@
     at:deprecated "false" ;
     at:op-code "BUDGET_DRAFT_PRELIM" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "BUDGET_DRAFT_PRELIM" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
             at:affected-table "FD_612" ;
             at:legacy-code "1300;APRB" ;
             dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "BUDGET_DRAFT_PRELIM" ;
-            dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "BUDGET_DRAFT_PRELIM" ;
@@ -2388,16 +2388,16 @@
     at:deprecated "false" ;
     at:op-code "BUDGET_DRAFT_PRELIM_SUPPL" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_030" ;
+            at:legacy-code "BUDGET_DRAFT_PRELIM_SUPPL" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
             at:affected-table "FD_612" ;
             at:legacy-code "1305;APRBRS" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:legacy-code "BUDGET_DRAFT_PRELIM_SUPPL" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_030" ;
-            at:legacy-code "BUDGET_DRAFT_PRELIM_SUPPL" ;
-            dc:source "ATTO" ] ;
+            dc:source "PLANJO_CODES" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "BUDGET_DRAFT_PRELIM_SUPPL" ;
     dc:identifier "BUDGET_DRAFT_PRELIM_SUPPL" ;
@@ -2439,12 +2439,12 @@
             at:legacy-code "BUDGET_DRAFT_SUPPL_AMEND" ;
             dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
-            at:affected-table "FD_030" ;
-            at:legacy-code "BUDGET_DRAFT_SUPPL_AMEND" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_612" ;
             at:legacy-code "1315;PRBRS" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_030" ;
+            at:legacy-code "BUDGET_DRAFT_SUPPL_AMEND" ;
             dc:source "ATTO" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "BUDGET_DRAFT_SUPPL_AMEND" ;
@@ -2484,16 +2484,16 @@
     at:deprecated "false" ;
     at:op-code "BUDGET_SUPPL_AMEND" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "BUDGET_SUPPL_AMEND" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "BUDGET_SUPPL_AMEND" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:affected-table "FD_612" ;
             at:legacy-code "1325;BRS" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "BUDGET_SUPPL_AMEND" ;
-            dc:source "PLANJO_CODES" ] ;
+            dc:source "ATTO" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "BUDGET_SUPPL_AMEND" ;
     dc:identifier "BUDGET_SUPPL_AMEND" ;
@@ -2532,12 +2532,12 @@
     at:deprecated "false" ;
     at:op-code "CALL_EXPR_INTEREST" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "CALL_EXPR_INTEREST" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "CALL_EXPR_INTEREST" ;
-            dc:source "ATTO" ] ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "CALL_EXPR_INTEREST" ;
+            dc:source "PLANJO_CODES" ] ;
     at:start.use "1987-07-01" ;
     atold:op-code "CALL_EXPR_INTEREST" ;
     dc:identifier "CALL_EXPR_INTEREST" ;
@@ -2968,12 +2968,12 @@
     at:deprecated "false" ;
     at:op-code "COMMUNIC" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "COMMUNIC" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
             at:affected-table "FD_612" ;
             at:legacy-code "1075;CO" ;
             dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "COMMUNIC" ;
-            dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "COMMUNIC" ;
@@ -3022,12 +3022,12 @@
     at:deprecated "false" ;
     at:op-code "COMMUNIC_DRAFT" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "FD_030" ;
-            at:legacy-code "COMMUNIC_DRAFT" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_612" ;
             at:legacy-code "1080;PCO" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_030" ;
+            at:legacy-code "COMMUNIC_DRAFT" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:legacy-code "COMMUNIC_DRAFT" ;
@@ -3070,12 +3070,12 @@
     at:deprecated "false" ;
     at:op-code "COMMUNIC_POSIT" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "COMMUNIC_POSIT" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "COMMUNIC_POSIT" ;
-            dc:source "ATTO" ] ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "COMMUNIC_POSIT" ;
+            dc:source "PLANJO_CODES" ] ;
     at:start.use "1987-07-01" ;
     atold:op-code "COMMUNIC_POSIT" ;
     dc:identifier "COMMUNIC_POSIT" ;
@@ -3117,12 +3117,12 @@
             at:legacy-code "COM.POS" ;
             dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
+            at:legacy-code "COMPOS" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "POCO" ;
             dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "COMPOS" ;
-            dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:affected-table "FD_612" ;
             at:legacy-code "1195;PC" ;
@@ -3213,12 +3213,12 @@
     at:deprecated "false" ;
     at:op-code "COMPOS_AMEND" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "COMPOS_AMEND" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "PMD" ;
-            dc:source "ATTO" ] ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "COMPOS_AMEND" ;
+            dc:source "PLANJO_CODES" ] ;
     at:start.use "1987-07-01" ;
     atold:op-code "COMPOS_AMEND" ;
     dc:identifier "COMPOS_AMEND" ;
@@ -3260,12 +3260,12 @@
             at:legacy-code "COMPOS_DRAFT" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
-            at:legacy-code "COMPOS_DRAFT" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_612" ;
             at:legacy-code "1185;PPC" ;
-            dc:source "ATTO" ] ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "COMPOS_DRAFT" ;
+            dc:source "PLANJO_CODES" ] ;
     at:start.use "1987-07-01" ;
     atold:op-code "COMPOS_DRAFT" ;
     dc:identifier "COMPOS_DRAFT" ;
@@ -3347,12 +3347,12 @@
     at:deprecated "false" ;
     at:op-code "COMPOS_RJ_CONFIRM" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "COMPOS_RJ_CONFIRM" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "COMPOS_RJ_CONFIRM" ;
-            dc:source "ATTO" ] ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "COMPOS_RJ_CONFIRM" ;
+            dc:source "PLANJO_CODES" ] ;
     at:start.use "1987-07-01" ;
     atold:op-code "COMPOS_RJ_CONFIRM" ;
     dc:identifier "COMPOS_RJ_CONFIRM" ;
@@ -3505,10 +3505,6 @@
     at:deprecated "false" ;
     at:op-code "CONS_TEXT" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "FD_375" ;
-            at:legacy-code "CL_VERSION" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "VC" ;
             dc:source "ATTO" ],
@@ -3519,6 +3515,10 @@
         [ a at:MappedCode ;
             at:affected-table "FD_557" ;
             at:legacy-code "ROLE_TXCS" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_375" ;
+            at:legacy-code "CL_VERSION" ;
             dc:source "ATTO" ] ;
     at:start.use "1992-12-12" ;
     atold:op-code "CONS_TEXT" ;
@@ -3642,11 +3642,14 @@
     at:op-code "CORRIGENDUM" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:affected-table "PUB_NOT" ;
-            at:legacy-code "CORR_U" ;
+            at:legacy-code "CORR_L" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
+            at:legacy-code "CORRIGENDUM" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
             at:affected-table "PUB_NOT" ;
-            at:legacy-code "CORR_L" ;
+            at:legacy-code "CORR_U" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
             at:legacy-code "CORRIGENDA" ;
@@ -3654,10 +3657,7 @@
         [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "C-C" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "CORRIGENDUM" ;
-            dc:source "PLANJO_CODES" ] ;
+            dc:source "ATTO" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "CORRIGENDUM" ;
     dc:identifier "CORRIGENDUM" ;
@@ -3870,17 +3870,17 @@
     at:deprecated "false" ;
     at:op-code "DEC" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "DEC.EEA" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
-            at:legacy-code "DEC" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "DECBES" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:legacy-code "DEC.ECSC" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
+            at:legacy-code "DEC" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
+            at:legacy-code "DEC.EEA" ;
             dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:affected-table "FD_612" ;
@@ -3953,16 +3953,16 @@
     at:deprecated "false" ;
     at:op-code "DECLAR" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "FD_030" ;
-            at:legacy-code "DECLARATION" ;
-            dc:source "ATTO" ],
+            at:legacy-code "DECLAR" ;
+            dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:affected-table "FD_612" ;
             at:legacy-code "1110;DCL" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
-            at:legacy-code "DECLAR" ;
-            dc:source "PLANJO_CODES" ] ;
+            at:affected-table "FD_030" ;
+            at:legacy-code "DECLARATION" ;
+            dc:source "ATTO" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "DECLAR" ;
     dc:identifier "DECLAR" ;
@@ -4003,16 +4003,16 @@
     at:deprecated "false" ;
     at:op-code "DECLAR_DRAFT" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "FD_030" ;
             at:legacy-code "DECLAR_DRAFT" ;
-            dc:source "ATTO" ],
+            dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:affected-table "FD_612" ;
             at:legacy-code "1115;PDCL" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
+            at:affected-table "FD_030" ;
             at:legacy-code "DECLAR_DRAFT" ;
-            dc:source "PLANJO_CODES" ] ;
+            dc:source "ATTO" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "DECLAR_DRAFT" ;
     dc:identifier "DECLAR_DRAFT" ;
@@ -4051,12 +4051,12 @@
     at:deprecated "false" ;
     at:op-code "DEC_DRAFT" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "DEC_DRAFT" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "PJDECB" ;
             dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "DEC_DRAFT" ;
+            dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:affected-table "FD_612" ;
             at:legacy-code "1100;PDC" ;
@@ -4102,25 +4102,25 @@
     at:op-code "DEC_ENTSCHEID" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:affected-table "FD_030" ;
-            at:legacy-code "DEPH" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_030" ;
-            at:legacy-code "DECISION" ;
+            at:legacy-code "DEC" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:legacy-code "DEC" ;
             dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:affected-table "FD_030" ;
-            at:legacy-code "DEC" ;
+            at:legacy-code "DECKSG" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:legacy-code "DEC_ENTSCHEID" ;
             dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:affected-table "FD_030" ;
-            at:legacy-code "DECKSG" ;
+            at:legacy-code "DECISION" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_030" ;
+            at:legacy-code "DEPH" ;
             dc:source "ATTO" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "DEC_ENTSCHEID" ;
@@ -4255,12 +4255,12 @@
     at:deprecated "false" ;
     at:op-code "DEC_IMPL" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "DECIMPL" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "DECIMP" ;
             dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "DECIMPL" ;
-            dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:legacy-code "DEC_IMPL" ;
             dc:source "PLANJO_CODES" ] ;
@@ -4345,12 +4345,12 @@
     at:deprecated "false" ;
     at:op-code "DEC_REVIEW" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "A_Doc_Ref" ;
-            dc:source "CJ" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "DEC_REVIEW" ;
-            dc:source "ATTO" ] ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "A_Doc_Ref" ;
+            dc:source "CJ" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "DEC_REVIEW" ;
     dc:identifier "DEC_REVIEW" ;
@@ -4389,19 +4389,19 @@
     at:op-code "DIR" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:affected-table "FD_030" ;
-            at:legacy-code "DIRECTIVE" ;
+            at:legacy-code "DIR" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:affected-table "FD_030" ;
-            at:legacy-code "DIR" ;
+            at:legacy-code "DIRECTIVE" ;
             dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "DIR" ;
+            dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:affected-table "FD_612" ;
             at:legacy-code "1120;DI" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "DIR" ;
-            dc:source "PLANJO_CODES" ] ;
+            dc:source "ATTO" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "DIR" ;
     dc:identifier "DIR" ;
@@ -4468,16 +4468,16 @@
     at:deprecated "false" ;
     at:op-code "DIR_DRAFT" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "FD_030" ;
-            at:legacy-code "PJDIR" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_612" ;
             at:legacy-code "1135;PDI" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:legacy-code "DIR_DRAFT" ;
-            dc:source "PLANJO_CODES" ] ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_030" ;
+            at:legacy-code "PJDIR" ;
+            dc:source "ATTO" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "DIR_DRAFT" ;
     dc:identifier "DIR_DRAFT" ;
@@ -4520,12 +4520,12 @@
             at:legacy-code "DIRIMP" ;
             dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
-            at:legacy-code "DIR_IMPL" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "DIRIMP" ;
-            dc:source "ATTO" ] ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "DIR_IMPL" ;
+            dc:source "PLANJO_CODES" ] ;
     at:start.use "2009-12-01" ;
     atold:op-code "DIR_IMPL" ;
     dc:identifier "DIR_IMPL" ;
@@ -5048,12 +5048,12 @@
             at:legacy-code "EXCH_RATE" ;
             dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
+            at:legacy-code "ECU.D" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "EXCH_RATE" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "ECU.D" ;
-            dc:source "PLANJO_CODES" ] ;
+            dc:source "ATTO" ] ;
     at:start.use "1987-07-01" ;
     atold:op-code "EXCH_RATE" ;
     dc:identifier "EXCH_RATE" ;
@@ -5708,11 +5708,11 @@
             at:legacy-code "SAISIE" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
-            at:legacy-code "GARNISHEE_ORDER" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
             at:legacy-code "A_Doc_Ref" ;
             dc:source "CJ" ],
+        [ a at:MappedCode ;
+            at:legacy-code "GARNISHEE_ORDER" ;
+            dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:legacy-code "O_Doc_Ref" ;
             dc:source "CJ" ] ;
@@ -5896,14 +5896,14 @@
     at:deprecated "false" ;
     at:op-code "GUIDELINE_GEN" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "GUIDELINE_GEN" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "GUIDELINE_GEN" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:legacy-code "GENGUID" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
+            at:legacy-code "GUIDELINE_GEN" ;
             dc:source "PLANJO_CODES" ] ;
     at:start.use "1987-07-01" ;
     atold:op-code "GUIDELINE_GEN" ;
@@ -6187,12 +6187,12 @@
     at:deprecated "false" ;
     at:op-code "INFO_COMMUNIC" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "INFO_COMMUNIC" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "C1" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "INFO_COMMUNIC" ;
-            dc:source "PLANJO_CODES" ] ;
+            dc:source "ATTO" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "INFO_COMMUNIC" ;
     dc:identifier "INFO_COMMUNIC" ;
@@ -6303,12 +6303,12 @@
             at:legacy-code "INFO_JUDICIAL" ;
             dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
-            at:legacy-code "INFO.CJT" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "COMMUNIC_COURT" ;
-            dc:source "ATTO" ] ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "INFO.CJT" ;
+            dc:source "PLANJO_CODES" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "INFO_JUDICIAL" ;
     dc:identifier "INFO_JUDICIAL" ;
@@ -6782,14 +6782,14 @@
             at:legacy-code "1035;ACT" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
-            at:legacy-code "JOINT_ACTION" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "ACTCO" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:legacy-code "JOINT.ACT" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
+            at:legacy-code "JOINT_ACTION" ;
             dc:source "PLANJO_CODES" ] ;
     at:start.use "2009-12-01" ;
     atold:op-code "JOINT_ACTION" ;
@@ -6832,16 +6832,16 @@
     at:deprecated "false" ;
     at:op-code "JOINT_ACTION_DRAFT" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "JOINT_ACTION_DRAFT" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "JOINT_ACTION_DRAFT" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:affected-table "FD_612" ;
             at:legacy-code "1040;PACT" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "JOINT_ACTION_DRAFT" ;
-            dc:source "PLANJO_CODES" ] ;
+            dc:source "ATTO" ] ;
     at:start.use "2009-12-01" ;
     atold:op-code "JOINT_ACTION_DRAFT" ;
     dc:identifier "JOINT_ACTION_DRAFT" ;
@@ -7149,12 +7149,12 @@
     at:deprecated "false" ;
     at:op-code "JOINT_IMPACT_ASSESS_SUM" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "JOINT_IMPACT_ASSESS_SUM" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "JOINT_IMPACT_ASSESS_SUM" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "JOINT_IMPACT_ASSESS_SUM" ;
-            dc:source "PLANJO_CODES" ] ;
+            dc:source "ATTO" ] ;
     at:start.use "2009-12-01" ;
     atold:op-code "JOINT_IMPACT_ASSESS_SUM" ;
     dc:identifier "JOINT_IMPACT_ASSESS_SUM" ;
@@ -7338,12 +7338,12 @@
     at:deprecated "false" ;
     at:op-code "JOINT_PROP_DEC" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "JOINT_PROP_DEC" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "JOINT_PROP_DEC" ;
-            dc:source "ATTO" ] ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "JOINT_PROP_DEC" ;
+            dc:source "PLANJO_CODES" ] ;
     at:start.use "2009-12-01" ;
     atold:op-code "JOINT_PROP_DEC" ;
     dc:identifier "JOINT_PROP_DEC" ;
@@ -7382,12 +7382,12 @@
     at:deprecated "false" ;
     at:op-code "JOINT_PROP_DIR" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "JOINT_PROP_DIR" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "JOINT_PROP_DIR" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "JOINT_PROP_DIR" ;
-            dc:source "PLANJO_CODES" ] ;
+            dc:source "ATTO" ] ;
     at:start.use "2009-12-01" ;
     atold:op-code "JOINT_PROP_DIR" ;
     dc:identifier "JOINT_PROP_DIR" ;
@@ -7426,12 +7426,12 @@
     at:deprecated "false" ;
     at:op-code "JOINT_PROP_REG" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "JOINT_PROP_REG" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "JOINT_PROP_REG" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "JOINT_PROP_REG" ;
-            dc:source "PLANJO_CODES" ] ;
+            dc:source "ATTO" ] ;
     at:start.use "2009-12-01" ;
     atold:op-code "JOINT_PROP_REG" ;
     dc:identifier "JOINT_PROP_REG" ;
@@ -7470,12 +7470,12 @@
     at:deprecated "false" ;
     at:op-code "JOINT_REPORT" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "JOINT_REPORT" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "JOINT_REPORT" ;
-            dc:source "ATTO" ] ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "JOINT_REPORT" ;
+            dc:source "PLANJO_CODES" ] ;
     at:start.use "2009-12-01" ;
     atold:op-code "JOINT_REPORT" ;
     dc:identifier "JOINT_REPORT" ;
@@ -7715,12 +7715,12 @@
     at:deprecated "false" ;
     at:op-code "JOINT_TEXT_RJ" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "JOINT_TEXT_RJ" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "PCRJ" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "JOINT_TEXT_RJ" ;
-            dc:source "PLANJO_CODES" ] ;
+            dc:source "ATTO" ] ;
     at:start.use "2009-12-01" ;
     atold:op-code "JOINT_TEXT_RJ" ;
     dc:identifier "JOINT_TEXT_RJ" ;
@@ -7845,12 +7845,12 @@
     at:deprecated "false" ;
     at:op-code "LEGIS_SUM" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "LEGIS_SUM" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "LEGIS_SUM" ;
-            dc:source "ATTO" ] ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "LEGIS_SUM" ;
+            dc:source "PLANJO_CODES" ] ;
     at:start.use "1987-07-01" ;
     atold:op-code "LEGIS_SUM" ;
     dc:identifier "LEGIS_SUM" ;
@@ -7889,12 +7889,12 @@
     at:deprecated "false" ;
     at:op-code "LET" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "LET" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
             at:affected-table "FD_612" ;
             at:legacy-code "1160;LT" ;
             dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "LET" ;
-            dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "LET" ;
@@ -7972,12 +7972,12 @@
     at:deprecated "false" ;
     at:op-code "LET_AMEND" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "LET_AMEND" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "LET_AMEND" ;
             dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "LET_AMEND" ;
-            dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:affected-table "FD_612" ;
             at:legacy-code "1330;LR" ;
@@ -8056,15 +8056,15 @@
     at:deprecated "false" ;
     at:op-code "LIST" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "LIST" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
             at:legacy-code "LIST.COM" ;
             dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "LISTE" ;
-            dc:source "ATTO" ] ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "LIST" ;
+            dc:source "PLANJO_CODES" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "LIST" ;
     dc:identifier "LIST" ;
@@ -8393,12 +8393,12 @@
             at:legacy-code "MEMORANDUM" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
+            at:legacy-code "MEMORANDUM" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
             at:affected-table "FD_612" ;
             at:legacy-code "1175;MM" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "MEMORANDUM" ;
-            dc:source "PLANJO_CODES" ] ;
+            dc:source "ATTO" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "MEMORANDUM" ;
     dc:identifier "MEMORANDUM" ;
@@ -8437,12 +8437,12 @@
     at:deprecated "false" ;
     at:op-code "MEMORANDUM_UNDERST" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "MEMORANDUM_UNDERST" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "MEM_UNDERS" ;
-            dc:source "ATTO" ] ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "MEMORANDUM_UNDERST" ;
+            dc:source "PLANJO_CODES" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "MEMORANDUM_UNDERST" ;
     dc:identifier "MEMORANDUM_UNDERST" ;
@@ -8481,15 +8481,15 @@
     at:deprecated "false" ;
     at:op-code "MINUTES" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "MP.ACP.EU" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
             at:legacy-code "MINUTES" ;
             dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "MIN" ;
             dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "MP.ACP.EU" ;
-            dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:legacy-code "MP.EP" ;
             dc:source "PLANJO_CODES" ] ;
@@ -8806,19 +8806,19 @@
     at:deprecated "false" ;
     at:op-code "NOTE" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "FD_612" ;
-            at:legacy-code "1180;NT" ;
-            dc:source "ATTO" ],
+            at:legacy-code "NOTE" ;
+            dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:affected-table "PUB_DIV" ;
             at:legacy-code "NOTE" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:legacy-code "NOTE" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "NOTE" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_612" ;
+            at:legacy-code "1180;NT" ;
             dc:source "ATTO" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "NOTE" ;
@@ -9133,12 +9133,12 @@
     at:deprecated "false" ;
     at:op-code "NOTIF" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "NOTIF" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "NOTIF" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "NOTIF" ;
-            dc:source "PLANJO_CODES" ] ;
+            dc:source "ATTO" ] ;
     at:start.use "1987-07-01" ;
     atold:op-code "NOTIF" ;
     dc:identifier "NOTIF" ;
@@ -9302,18 +9302,12 @@
     at:deprecated "false" ;
     at:op-code "OPIN" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "OP.COM.COM" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
-            at:legacy-code "OP.COM.CDR" ;
+            at:legacy-code "OP.COM.OTHER" ;
             dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:affected-table "FD_612" ;
             at:legacy-code "1045;AV" ;
             dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "OP.COM.OTHER" ;
-            dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:legacy-code "OP.COM.BCE" ;
             dc:source "PLANJO_CODES" ],
@@ -9321,12 +9315,18 @@
             at:legacy-code "OP.COM.CES" ;
             dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
+            at:affected-table "FD_030" ;
+            at:legacy-code "AVIS" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
             at:legacy-code "OPIN" ;
             dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
-            at:affected-table "FD_030" ;
-            at:legacy-code "AVIS" ;
-            dc:source "ATTO" ] ;
+            at:legacy-code "OP.COM.COM" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
+            at:legacy-code "OP.COM.CDR" ;
+            dc:source "PLANJO_CODES" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "OPIN" ;
     dc:identifier "OPIN" ;
@@ -9706,12 +9706,12 @@
     at:deprecated "false" ;
     at:op-code "OPIN_EXPLOR" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "OPIN_EXPLOR" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "EXPLOOP" ;
-            dc:source "ATTO" ] ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "OPIN_EXPLOR" ;
+            dc:source "PLANJO_CODES" ] ;
     at:start.use "2009-12-01" ;
     atold:op-code "OPIN_EXPLOR" ;
     dc:identifier "OPIN_EXPLOR" ;
@@ -9890,15 +9890,15 @@
     at:deprecated "false" ;
     at:op-code "OPIN_JUR" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "OPIN_JUR" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
             at:legacy-code "V_Doc_Ref" ;
             dc:source "CJ" ],
         [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "OPIN_JUR" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "OPIN_JUR" ;
-            dc:source "PLANJO_CODES" ] ;
+            dc:source "ATTO" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "OPIN_JUR" ;
     dc:identifier "OPIN_JUR" ;
@@ -10026,12 +10026,12 @@
     at:deprecated "false" ;
     at:op-code "OPIN_PROP_AMEND" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "OPIN_PROP_AMEND" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "AVIS=MD" ;
-            dc:source "ATTO" ] ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "OPIN_PROP_AMEND" ;
+            dc:source "PLANJO_CODES" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "OPIN_PROP_AMEND" ;
     dc:identifier "OPIN_PROP_AMEND" ;
@@ -10069,12 +10069,12 @@
     at:deprecated "false" ;
     at:op-code "OPIN_PROP_RJ" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "OPIN_PROP_RJ" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "AVIS=RJ" ;
-            dc:source "ATTO" ] ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "OPIN_PROP_RJ" ;
+            dc:source "PLANJO_CODES" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "OPIN_PROP_RJ" ;
     dc:identifier "OPIN_PROP_RJ" ;
@@ -10260,15 +10260,15 @@
     at:deprecated "false" ;
     at:op-code "ORDER" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "FD_030" ;
-            at:legacy-code "ORDONNANCE" ;
-            dc:source "ATTO" ],
+            at:legacy-code "O_Doc_Ref" ;
+            dc:source "CJ" ],
         [ a at:MappedCode ;
             at:legacy-code "ORDER" ;
             dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
-            at:legacy-code "O_Doc_Ref" ;
-            dc:source "CJ" ] ;
+            at:affected-table "FD_030" ;
+            at:legacy-code "ORDONNANCE" ;
+            dc:source "ATTO" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "ORDER" ;
     dc:identifier "ORDER" ;
@@ -10349,23 +10349,23 @@
             at:legacy-code "1060;AVPE" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
-            at:affected-table "FD_612" ;
-            at:legacy-code "100180;AVCESE" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_612" ;
-            at:legacy-code "1050;AVCR" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
             at:legacy-code "OWNINI_OPIN" ;
             dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_612" ;
+            at:legacy-code "1055;AVCES" ;
+            dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "IAVIS" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:affected-table "FD_612" ;
-            at:legacy-code "1055;AVCES" ;
+            at:legacy-code "1050;AVCR" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_612" ;
+            at:legacy-code "100180;AVCESE" ;
             dc:source "ATTO" ] ;
     at:start.use "2010-01-12" ;
     atold:op-code "OWNINI_OPIN" ;
@@ -10644,8 +10644,9 @@
     at:deprecated "false" ;
     at:op-code "PAPER_GREEN" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "GREENPA" ;
-            dc:source "PLANJO_CODES" ],
+            at:affected-table "FD_612" ;
+            at:legacy-code "1165;LV" ;
+            dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:legacy-code "PAPER_GREEN" ;
             dc:source "PLANJO_CODES" ],
@@ -10654,9 +10655,8 @@
             at:legacy-code "GREENPA" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
-            at:affected-table "FD_612" ;
-            at:legacy-code "1165;LV" ;
-            dc:source "ATTO" ] ;
+            at:legacy-code "GREENPA" ;
+            dc:source "PLANJO_CODES" ] ;
     at:start.use "1987-07-01" ;
     atold:op-code "PAPER_GREEN" ;
     dc:identifier "PAPER_GREEN" ;
@@ -10771,14 +10771,14 @@
             at:legacy-code "1170;LB" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
+            at:legacy-code "PAPER_WHITE" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "WHITEPA" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:legacy-code "WHITEPA" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
-            at:legacy-code "PAPER_WHITE" ;
             dc:source "PLANJO_CODES" ] ;
     at:start.use "1987-07-01" ;
     atold:op-code "PAPER_WHITE" ;
@@ -10872,12 +10872,12 @@
     at:deprecated "false" ;
     at:op-code "PETITION" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "PETITION" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "PETITION" ;
-            dc:source "ATTO" ] ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "PETITION" ;
+            dc:source "PLANJO_CODES" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "PETITION" ;
     dc:identifier "PETITION" ;
@@ -11056,12 +11056,12 @@
     at:deprecated "false" ;
     at:op-code "POSIT" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "POSIT" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "PO" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "POSIT" ;
-            dc:source "PLANJO_CODES" ] ;
+            dc:source "ATTO" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "POSIT" ;
     dc:identifier "POSIT" ;
@@ -11222,12 +11222,12 @@
     at:deprecated "false" ;
     at:op-code "POSIT_RJ" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "POSIT_RJ" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "POSIT_RJ" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "POSIT_RJ" ;
-            dc:source "PLANJO_CODES" ] ;
+            dc:source "ATTO" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "POSIT_RJ" ;
     dc:identifier "POSIT_RJ" ;
@@ -11265,12 +11265,12 @@
     at:deprecated "false" ;
     at:op-code "POSIT_RJ_CONF" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "POSIT_RJ_CONF" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "POSIT_RJ_CONF" ;
-            dc:source "ATTO" ] ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "POSIT_RJ_CONF" ;
+            dc:source "PLANJO_CODES" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "POSIT_RJ_CONF" ;
     dc:identifier "POSIT_RJ_CONF" ;
@@ -11461,14 +11461,14 @@
     at:deprecated "false" ;
     at:op-code "PROC_INTERNAL" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "PROC" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "REGINT" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:legacy-code "PROC_INTERNAL" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
+            at:legacy-code "PROC" ;
             dc:source "PLANJO_CODES" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "PROC_INTERNAL" ;
@@ -11571,15 +11571,15 @@
     at:deprecated "false" ;
     at:op-code "PROC_RULES" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "FD_030" ;
-            at:legacy-code "PROC" ;
-            dc:source "ATTO" ],
+            at:legacy-code "PROC_RULES" ;
+            dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:legacy-code "PROC" ;
             dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
-            at:legacy-code "PROC_RULES" ;
-            dc:source "PLANJO_CODES" ] ;
+            at:affected-table "FD_030" ;
+            at:legacy-code "PROC" ;
+            dc:source "ATTO" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "PROC_RULES" ;
     dc:identifier "PROC_RULES" ;
@@ -11622,15 +11622,15 @@
     at:deprecated "false" ;
     at:op-code "PROGRAM" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "FD_612" ;
-            at:legacy-code "1200;PRG" ;
+            at:affected-table "FD_030" ;
+            at:legacy-code "PROGRAMME" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:legacy-code "PROGRAM" ;
             dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
-            at:affected-table "FD_030" ;
-            at:legacy-code "PROGRAMME" ;
+            at:affected-table "FD_612" ;
+            at:legacy-code "1200;PRG" ;
             dc:source "ATTO" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "PROGRAM" ;
@@ -11740,13 +11740,12 @@
     at:deprecated "false" ;
     at:op-code "PROP_ACT" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "FD_030" ;
-            at:legacy-code "PRODIV" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_612" ;
             at:legacy-code "100020;PRACT" ;
             dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "PROP_ACT" ;
+            dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:legacy-code "PROP.OTHER" ;
             dc:source "PLANJO_CODES" ],
@@ -11754,8 +11753,9 @@
             at:legacy-code "PROPOSAL" ;
             dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
-            at:legacy-code "PROP_ACT" ;
-            dc:source "PLANJO_CODES" ] ;
+            at:affected-table "FD_030" ;
+            at:legacy-code "PRODIV" ;
+            dc:source "ATTO" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "PROP_ACT" ;
     dc:identifier "PROP_ACT" ;
@@ -11869,12 +11869,12 @@
     at:deprecated "false" ;
     at:op-code "PROP_COMPOS" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "PROP_COMPOS" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "PROP_COMPOS" ;
             dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "PROP_COMPOS" ;
+            dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:affected-table "FD_612" ;
             at:legacy-code "1190;PRPC" ;
@@ -11917,23 +11917,23 @@
     at:deprecated "false" ;
     at:op-code "PROP_DEC" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "PROP_DEC" ;
-            dc:source "PLANJO_CODES" ],
+            at:affected-table "FD_612" ;
+            at:legacy-code "1095;PRDC" ;
+            dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "PDEC" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
+            at:legacy-code "PROP.DEC" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
+            at:legacy-code "PROP_DEC" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "PDECB" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_612" ;
-            at:legacy-code "1095;PRDC" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "PROP.DEC" ;
-            dc:source "PLANJO_CODES" ] ;
+            dc:source "ATTO" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "PROP_DEC" ;
     dc:identifier "PROP_DEC" ;
@@ -11979,12 +11979,12 @@
             at:legacy-code "10000;PROPDECLAR" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
-            at:legacy-code "PROP_DECLAR" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "PROP_DECLAR" ;
-            dc:source "ATTO" ] ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "PROP_DECLAR" ;
+            dc:source "PLANJO_CODES" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "PROP_DECLAR" ;
     dc:identifier "PROP_DECLAR" ;
@@ -12072,15 +12072,15 @@
     at:op-code "PROP_DEC_IMPL" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:affected-table "FD_030" ;
+            at:legacy-code "PROP_DEC_IMPL" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_030" ;
             at:legacy-code "PDECIMP" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:legacy-code "PROP_DEC_IMPL" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_030" ;
-            at:legacy-code "PROP_DEC_IMPL" ;
-            dc:source "ATTO" ] ;
+            dc:source "PLANJO_CODES" ] ;
     at:start.use "2009-12-01" ;
     atold:op-code "PROP_DEC_IMPL" ;
     dc:identifier "PROP_DEC_IMPL" ;
@@ -12158,9 +12158,6 @@
     at:deprecated "false" ;
     at:op-code "PROP_DIR" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "PROP_DIR" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_612" ;
             at:legacy-code "1130;PRDI" ;
             dc:source "ATTO" ],
@@ -12170,6 +12167,9 @@
             dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:legacy-code "PROP.DIR" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
+            at:legacy-code "PROP_DIR" ;
             dc:source "PLANJO_CODES" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "PROP_DIR" ;
@@ -12254,12 +12254,12 @@
     at:deprecated "false" ;
     at:op-code "PROP_DRAFT" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "PROP_DRAFT" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
             at:affected-table "FD_612" ;
             at:legacy-code "100120;PPR" ;
             dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "PROP_DRAFT" ;
-            dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "PROP_DRAFT" ;
@@ -12302,15 +12302,15 @@
     at:deprecated "false" ;
     at:op-code "PROP_JOINT_ACTION" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_030" ;
+            at:legacy-code "PROP_JOINT_ACTION" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
             at:legacy-code "PROP_JOINT_ACTION" ;
             dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:affected-table "FD_612" ;
             at:legacy-code "100100;PROPACT" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_030" ;
-            at:legacy-code "PROP_JOINT_ACTION" ;
             dc:source "ATTO" ] ;
     at:start.use "2009-12-01" ;
     atold:op-code "PROP_JOINT_ACTION" ;
@@ -12350,12 +12350,12 @@
     at:deprecated "false" ;
     at:op-code "PROP_OPIN" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "PROP_OPIN" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "PROP_OPIN" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "PROP_OPIN" ;
-            dc:source "PLANJO_CODES" ] ;
+            dc:source "ATTO" ] ;
     at:start.use "2013-05-21" ;
     atold:op-code "PROP_OPIN" ;
     dc:identifier "PROP_OPIN" ;
@@ -12395,16 +12395,16 @@
     at:deprecated "false" ;
     at:op-code "PROP_RECO" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_030" ;
+            at:legacy-code "PROP_RECO" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
             at:affected-table "FD_612" ;
             at:legacy-code "1235;PRRC" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:legacy-code "PROP_RECO" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_030" ;
-            at:legacy-code "PROP_RECO" ;
-            dc:source "ATTO" ] ;
+            dc:source "PLANJO_CODES" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "PROP_RECO" ;
     dc:identifier "PROP_RECO" ;
@@ -12443,6 +12443,9 @@
     at:deprecated "false" ;
     at:op-code "PROP_REG" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "PROP.REG" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "PREGL" ;
             dc:source "ATTO" ],
@@ -12450,9 +12453,6 @@
             at:affected-table "FD_612" ;
             at:legacy-code "1260;PRRG" ;
             dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "PROP.REG" ;
-            dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:legacy-code "PROP_REG" ;
             dc:source "PLANJO_CODES" ] ;
@@ -12496,12 +12496,12 @@
     at:deprecated "false" ;
     at:op-code "PROP_REG_IMPL" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "PROP_REG_IMPL" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "PREGIMP" ;
-            dc:source "ATTO" ] ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "PROP_REG_IMPL" ;
+            dc:source "PLANJO_CODES" ] ;
     at:start.use "2009-12-01" ;
     atold:op-code "PROP_REG_IMPL" ;
     dc:identifier "PROP_REG_IMPL" ;
@@ -12542,12 +12542,12 @@
             at:legacy-code "PROP_RES" ;
             dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
-            at:affected-table "FD_612" ;
-            at:legacy-code "1275;PRRS" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "PROP_RES" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_612" ;
+            at:legacy-code "1275;PRRS" ;
             dc:source "ATTO" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "PROP_RES" ;
@@ -12587,16 +12587,16 @@
     at:deprecated "false" ;
     at:op-code "PROT" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "PROT" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
             at:affected-table "FD_612" ;
             at:legacy-code "1205;PROT" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "PROTOCOLE" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "PROT" ;
-            dc:source "PLANJO_CODES" ] ;
+            dc:source "ATTO" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "PROT" ;
     dc:identifier "PROT" ;
@@ -12635,15 +12635,15 @@
     at:deprecated "false" ;
     at:op-code "PROT_DRAFT" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "FD_612" ;
-            at:legacy-code "1210;PRT" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
             at:legacy-code "PROT_DRAFT" ;
             dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "PROT_DRAFT" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_612" ;
+            at:legacy-code "1210;PRT" ;
             dc:source "ATTO" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "PROT_DRAFT" ;
@@ -12754,12 +12754,12 @@
     at:deprecated "false" ;
     at:op-code "QUEST_ORAL" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "QUEST_ORAL" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "QUESTO" ;
-            dc:source "ATTO" ] ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "QUEST_ORAL" ;
+            dc:source "PLANJO_CODES" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "QUEST_ORAL" ;
     dc:identifier "QUEST_ORAL" ;
@@ -12951,19 +12951,19 @@
             at:legacy-code "RECO" ;
             dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
-            at:affected-table "FD_612" ;
-            at:legacy-code "1220;RC" ;
-            dc:source "ATTO" ],
+            at:legacy-code "REC" ;
+            dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "RECOMM" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
-            at:legacy-code "REC" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "RECKSG" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_612" ;
+            at:legacy-code "1220;RC" ;
             dc:source "ATTO" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "RECO" ;
@@ -13034,15 +13034,15 @@
     at:deprecated "false" ;
     at:op-code "RECO_DEC" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_612" ;
+            at:legacy-code "1105;RCDC" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
             at:legacy-code "RECO_DEC" ;
             dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "RCDEC" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_612" ;
-            at:legacy-code "1105;RCDC" ;
             dc:source "ATTO" ] ;
     at:start.use "1987-07-01" ;
     atold:op-code "RECO_DEC" ;
@@ -13130,15 +13130,15 @@
     at:deprecated "false" ;
     at:op-code "RECO_DRAFT" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_030" ;
+            at:legacy-code "PJRECOM" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
             at:legacy-code "RECO_DRAFT" ;
             dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:affected-table "FD_612" ;
             at:legacy-code "1230;PRC" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_030" ;
-            at:legacy-code "PJRECOM" ;
             dc:source "ATTO" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "RECO_DRAFT" ;
@@ -13178,12 +13178,12 @@
     at:deprecated "false" ;
     at:op-code "RECO_OPIN" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "RECO_OPIN" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
             at:affected-table "FD_612" ;
             at:legacy-code "100140;RCA" ;
             dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "RECO_OPIN" ;
-            dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "RECO_OPIN" ;
@@ -13230,12 +13230,12 @@
             at:legacy-code "RECO_RECO" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
+            at:legacy-code "RECO_RECO" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
             at:affected-table "FD_612" ;
             at:legacy-code "1240;RCRC" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "RECO_RECO" ;
-            dc:source "PLANJO_CODES" ] ;
+            dc:source "ATTO" ] ;
     at:start.use "1987-07-01" ;
     atold:op-code "RECO_RECO" ;
     dc:identifier "RECO_RECO" ;
@@ -13274,12 +13274,12 @@
     at:deprecated "false" ;
     at:op-code "RECO_REG" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "RECO_REG" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
             at:affected-table "FD_612" ;
             at:legacy-code "1265;RERG" ;
             dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "RECO_REG" ;
-            dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "RECO_REG" ;
@@ -13370,15 +13370,15 @@
     at:deprecated "false" ;
     at:op-code "RECRUIT" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_030" ;
+            at:legacy-code "RECRUIT" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
             at:legacy-code "COMPETITION" ;
             dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:legacy-code "RECRUIT" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_030" ;
-            at:legacy-code "RECRUIT" ;
-            dc:source "ATTO" ] ;
+            dc:source "PLANJO_CODES" ] ;
     at:start.use "1967-07-01" ;
     atold:op-code "RECRUIT" ;
     dc:identifier "RECRUIT" ;
@@ -13599,12 +13599,12 @@
     at:deprecated "false" ;
     at:op-code "REG" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "FD_030" ;
-            at:legacy-code "REPH" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_612" ;
             at:legacy-code "1245;RG" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_030" ;
+            at:legacy-code "REPH" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:legacy-code "REG" ;
@@ -13685,12 +13685,12 @@
     at:deprecated "false" ;
     at:op-code "REG_DRAFT" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "REG_DRAFT" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_612" ;
             at:legacy-code "1255;PRJREG" ;
             dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "REG_DRAFT" ;
+            dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "PJREGL" ;
@@ -13734,12 +13734,12 @@
     at:deprecated "false" ;
     at:op-code "REG_FINANC" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "REG_FINANC" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "REGFINANC" ;
-            dc:source "ATTO" ] ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "REG_FINANC" ;
+            dc:source "PLANJO_CODES" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "REG_FINANC" ;
     dc:identifier "REG_FINANC" ;
@@ -13778,19 +13778,19 @@
     at:deprecated "false" ;
     at:op-code "REG_IMPL" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "REG_IMPL" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
             at:legacy-code "REGIMP" ;
             dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:affected-table "FD_030" ;
-            at:legacy-code "REPHIMP" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_030" ;
             at:legacy-code "REGIMP" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
-            at:legacy-code "REG_IMPL" ;
-            dc:source "PLANJO_CODES" ] ;
+            at:affected-table "FD_030" ;
+            at:legacy-code "REPHIMP" ;
+            dc:source "ATTO" ] ;
     at:start.use "2009-12-01" ;
     atold:op-code "REG_IMPL" ;
     dc:identifier "REG_IMPL" ;
@@ -13875,14 +13875,14 @@
             at:legacy-code "1215;RA" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
+            at:legacy-code "REPORT" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "RAPPORT" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:legacy-code "RAPPORT" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
-            at:legacy-code "REPORT" ;
             dc:source "PLANJO_CODES" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "REPORT" ;
@@ -14185,12 +14185,12 @@
     at:deprecated "false" ;
     at:op-code "REPORT_PERIOD" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "REPORT_PERIOD" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_612" ;
             at:legacy-code "1155;EP" ;
             dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "REPORT_PERIOD" ;
+            dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "REPORT_PERIOD" ;
@@ -14306,16 +14306,16 @@
     at:deprecated "false" ;
     at:op-code "REPORT_SPECIAL" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_DIV" ;
-            at:legacy-code "SPE_REP" ;
-            dc:source "PUB" ],
+            at:affected-table "FD_030" ;
+            at:legacy-code "REPORT_SPECIAL" ;
+            dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:legacy-code "REPORT_SPECIAL" ;
             dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
-            at:affected-table "FD_030" ;
-            at:legacy-code "REPORT_SPECIAL" ;
-            dc:source "ATTO" ] ;
+            at:affected-table "PUB_DIV" ;
+            at:legacy-code "SPE_REP" ;
+            dc:source "PUB" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "REPORT_SPECIAL" ;
     dc:identifier "REPORT_SPECIAL" ;
@@ -14463,19 +14463,19 @@
     at:deprecated "false" ;
     at:op-code "RES" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "RES" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
             at:affected-table "FD_612" ;
             at:legacy-code "1285;RS" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_030" ;
-            at:legacy-code "RESOLUTION" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:legacy-code "RESOLUTION" ;
             dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
-            at:legacy-code "RES" ;
-            dc:source "PLANJO_CODES" ] ;
+            at:affected-table "FD_030" ;
+            at:legacy-code "RESOLUTION" ;
+            dc:source "ATTO" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "RES" ;
     dc:identifier "RES" ;
@@ -14594,10 +14594,10 @@
             at:legacy-code "20000;RES" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
-            at:legacy-code "RES_LEGIS" ;
+            at:legacy-code "RESOLUTION" ;
             dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
-            at:legacy-code "RESOLUTION" ;
+            at:legacy-code "RES_LEGIS" ;
             dc:source "PLANJO_CODES" ] ;
     at:start.use "1987-01-01" ;
     atold:op-code "RES_LEGIS" ;
@@ -14738,12 +14738,12 @@
     at:deprecated "false" ;
     at:op-code "RULING" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "RULING" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "RULING" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "RULING" ;
-            dc:source "PLANJO_CODES" ] ;
+            dc:source "ATTO" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "RULING" ;
     dc:identifier "RULING" ;
@@ -15086,12 +15086,12 @@
     at:deprecated "false" ;
     at:op-code "STRATEGY_COMMON" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "STRATEGY_COMMON" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "STRCO" ;
-            dc:source "ATTO" ] ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "STRATEGY_COMMON" ;
+            dc:source "PLANJO_CODES" ] ;
     at:start.use "1999-05-01" ;
     atold:op-code "STRATEGY_COMMON" ;
     dc:identifier "STRATEGY_COMMON" ;
@@ -15404,15 +15404,15 @@
     at:deprecated "false" ;
     at:op-code "SWD" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "FD_612" ;
-            at:legacy-code "1150;DTS" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
             at:legacy-code "SWD" ;
             dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "SWD" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_612" ;
+            at:legacy-code "1150;DTS" ;
             dc:source "ATTO" ] ;
     at:start.use "2009-12-01" ;
     atold:op-code "SWD" ;
@@ -15523,18 +15523,18 @@
     at:deprecated "false" ;
     at:op-code "THIRDPARTY_PROCEED" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "A_Doc_Ref" ;
+            dc:source "CJ" ],
+        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "TIERCE" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
-            at:legacy-code "A_Doc_Ref" ;
-            dc:source "CJ" ],
+            at:legacy-code "THIRDPARTY_PROCEED" ;
+            dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:legacy-code "O_Doc_Ref" ;
-            dc:source "CJ" ],
-        [ a at:MappedCode ;
-            at:legacy-code "THIRDPARTY_PROCEED" ;
-            dc:source "PLANJO_CODES" ] ;
+            dc:source "CJ" ] ;
     at:start.use "1959-07-12" ;
     atold:op-code "THIRDPARTY_PROCEED" ;
     dc:identifier "THIRDPARTY_PROCEED" ;
@@ -15736,15 +15736,15 @@
     at:deprecated "false" ;
     at:op-code "TREATY" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "FD_612" ;
-            at:legacy-code "1295;TR" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
             at:legacy-code "TREATY" ;
             dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "TREATY" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_612" ;
+            at:legacy-code "1295;TR" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:affected-table "FD_030" ;
@@ -15813,16 +15813,16 @@
     at:deprecated "false" ;
     at:op-code "TREATY_DRAFT" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_030" ;
             at:legacy-code "TREATY_DRAFT" ;
-            dc:source "PLANJO_CODES" ],
+            dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:affected-table "FD_612" ;
             at:legacy-code "1290;PTR" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
-            at:affected-table "FD_030" ;
             at:legacy-code "TREATY_DRAFT" ;
-            dc:source "ATTO" ] ;
+            dc:source "PLANJO_CODES" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "TREATY_DRAFT" ;
     dc:identifier "TREATY_DRAFT" ;
@@ -15982,11 +15982,11 @@
             at:legacy-code "VIEW_AG" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
-            at:legacy-code "C_Doc_Ref" ;
-            dc:source "CJ" ],
-        [ a at:MappedCode ;
             at:legacy-code "VIEW_AG" ;
-            dc:source "PLANJO_CODES" ] ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
+            at:legacy-code "C_Doc_Ref" ;
+            dc:source "CJ" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "VIEW_AG" ;
     dc:identifier "VIEW_AG" ;
@@ -16338,20 +16338,20 @@
     at:deprecated "false" ;
     at:op-code "WORK_DOC" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:affected-table "FD_612" ;
+            at:legacy-code "1145;DT" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
             at:legacy-code "WORK_DOC" ;
             dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
-            at:affected-table "PUB_DIV" ;
-            at:legacy-code "WD" ;
-            dc:source "PUB" ],
         [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "WORK_DOC" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
-            at:affected-table "FD_612" ;
-            at:legacy-code "1145;DT" ;
-            dc:source "ATTO" ] ;
+            at:affected-table "PUB_DIV" ;
+            at:legacy-code "WD" ;
+            dc:source "PUB" ] ;
     at:start.use "2009-12-01" ;
     atold:op-code "WORK_DOC" ;
     dc:identifier "WORK_DOC" ;
@@ -19057,14 +19057,14 @@
     at:deprecated "false" ;
     at:op-code "DEC_DEL" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "DEC_DEL" ;
+            dc:source "PLANJO_CODES" ],
+        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "DECDEL" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:legacy-code "DECDEL" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
-            at:legacy-code "DEC_DEL" ;
             dc:source "PLANJO_CODES" ] ;
     at:start.use "2009-12-01" ;
     atold:op-code "DEC_DEL" ;
@@ -19177,12 +19177,12 @@
     at:deprecated "false" ;
     at:op-code "DIR_DEL" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "DIRDEL" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "DIRDEL" ;
             dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "DIRDEL" ;
+            dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:legacy-code "DIR_DEL" ;
             dc:source "PLANJO_CODES" ] ;
@@ -19297,12 +19297,12 @@
     at:deprecated "false" ;
     at:op-code "INFO_JUR" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "INFO_JUR" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "INFO_JUR" ;
             dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "INFO_JUR" ;
+            dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:legacy-code "F_Doc_Ref" ;
             dc:source "CJ" ] ;
@@ -19346,9 +19346,6 @@
     at:deprecated "false" ;
     at:op-code "JUDG" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "JUDGMENT" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
             at:legacy-code "A_Doc_Ref" ;
             dc:source "CJ" ],
         [ a at:MappedCode ;
@@ -19357,7 +19354,10 @@
         [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "ARRET" ;
-            dc:source "ATTO" ] ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "JUDGMENT" ;
+            dc:source "PLANJO_CODES" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "JUDG" ;
     dc:identifier "JUDG" ;
@@ -19444,12 +19444,12 @@
     at:deprecated "false" ;
     at:op-code "NOTICE_CONTRACT" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "NOTICE_CONTRACT" ;
-            dc:source "PLANJO_CODES" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "CONTRACT_NOTICE" ;
-            dc:source "ATTO" ] ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "NOTICE_CONTRACT" ;
+            dc:source "PLANJO_CODES" ] ;
     at:start.use "1987-07-01" ;
     atold:op-code "NOTICE_CONTRACT" ;
     dc:identifier "NOTICE_CONTRACT" ;
@@ -19488,10 +19488,10 @@
     at:deprecated "false" ;
     at:op-code "NOTICE_INFO" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "NOTICE" ;
+            at:legacy-code "NOTICE_INFO" ;
             dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
-            at:legacy-code "NOTICE_INFO" ;
+            at:legacy-code "NOTICE" ;
             dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:affected-table "FD_030" ;
@@ -19591,15 +19591,15 @@
     at:deprecated "false" ;
     at:op-code "NOTICE_READER" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "FD_030" ;
             at:legacy-code "NOTICE_READER" ;
-            dc:source "ATTO" ],
+            dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
             at:legacy-code "RDINFO" ;
             dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
+            at:affected-table "FD_030" ;
             at:legacy-code "NOTICE_READER" ;
-            dc:source "PLANJO_CODES" ] ;
+            dc:source "ATTO" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "NOTICE_READER" ;
     dc:identifier "NOTICE_READER" ;
@@ -19926,14 +19926,14 @@
     at:deprecated "false" ;
     at:op-code "SUM_JUR" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "M_Doc_Ref" ;
-            dc:source "CJ" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_030" ;
             at:legacy-code "SUM_JUR" ;
             dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:legacy-code "I_Doc_Ref" ;
+            dc:source "CJ" ],
+        [ a at:MappedCode ;
+            at:legacy-code "M_Doc_Ref" ;
             dc:source "CJ" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "SUM_JUR" ;
@@ -21863,10 +21863,10 @@
     at:deprecated "false" ;
     at:op-code "CASE_LAW" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "CASE" ;
+            at:legacy-code "CASE_LAW" ;
             dc:source "PLANJO_CODES" ],
         [ a at:MappedCode ;
-            at:legacy-code "CASE_LAW" ;
+            at:legacy-code "CASE" ;
             dc:source "PLANJO_CODES" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "CASE_LAW" ;

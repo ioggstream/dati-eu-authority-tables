@@ -3695,13 +3695,13 @@
     at:deprecated "false" ;
     at:op-code "DEC_byCMT_MIX" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "event" ;
-            at:legacy-code "DEC_byCMT_CONJOIN" ;
-            dc:source "MDR" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_613" ;
             at:legacy-code "DECOMIX" ;
-            dc:source "ATTO" ] ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:affected-table "event" ;
+            at:legacy-code "DEC_byCMT_CONJOIN" ;
+            dc:source "MDR" ] ;
     at:start.use "1967-07-01" ;
     atold:op-code "DEC_byCMT_MIX" ;
     dc:identifier "DEC_byCMT_MIX" ;

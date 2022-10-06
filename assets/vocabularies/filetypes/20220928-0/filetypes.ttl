@@ -40,10 +40,10 @@
     at:deprecated "false" ;
     at:op-code "AAC" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code ".ass" ;
+            at:legacy-code ".aac" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
-            at:legacy-code ".aac" ;
+            at:legacy-code ".ass" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
             at:legacy-code ".loas" ;
@@ -64,10 +64,10 @@
     at:deprecated "false" ;
     at:op-code "AKN4EU" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code ".xml" ;
+            at:legacy-code ".akn" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
-            at:legacy-code ".akn" ;
+            at:legacy-code ".xml" ;
             dc:source "file-extension" ] ;
     at:start.use "2019-06-20" ;
     atold:op-code "AKN4EU" ;
@@ -121,10 +121,10 @@
     at:deprecated "false" ;
     at:op-code "APPX" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code ".appx" ;
+            at:legacy-code ".appxbundle" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
-            at:legacy-code ".appxbundle" ;
+            at:legacy-code ".appx" ;
             dc:source "file-extension" ] ;
     at:start.use "2012-10-26" ;
     atold:op-code "APPX" ;
@@ -214,23 +214,23 @@
     at:deprecated "false" ;
     at:op-code "AZW" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "application/vnd.amazon.ebook" ;
-            dc:source "mime-type-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code "false" ;
-            dc:source "is-textual-cellar" ],
-        [ a at:MappedCode ;
             at:legacy-code "240" ;
             dc:source "priority-weight-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code ".azw" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
+            at:legacy-code "amz" ;
+            dc:source "manifestation-type-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code "false" ;
+            dc:source "is-textual-cellar" ],
+        [ a at:MappedCode ;
             at:legacy-code "AMZ" ;
             dc:source "eudor-type-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code "amz" ;
-            dc:source "manifestation-type-cellar" ] ;
+            at:legacy-code "application/vnd.amazon.ebook" ;
+            dc:source "mime-type-cellar" ] ;
     at:start.use "2012-09-01" ;
     atold:op-code "AZW" ;
     dc:identifier "AZW" ;
@@ -302,10 +302,10 @@
     at:deprecated "false" ;
     at:op-code "BWF" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code ".wav" ;
+            at:legacy-code ".bwf" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
-            at:legacy-code ".bwf" ;
+            at:legacy-code ".wav" ;
             dc:source "file-extension" ] ;
     at:start.use "2001-07-01" ;
     atold:op-code "BWF" ;
@@ -338,9 +338,6 @@
             at:legacy-code "7" ;
             dc:source "priority-weight-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code "true" ;
-            dc:source "is-textual-cellar" ],
-        [ a at:MappedCode ;
             at:legacy-code ".css" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
@@ -348,7 +345,10 @@
             dc:source "manifestation-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "text/css" ;
-            dc:source "mime-type-cellar" ] ;
+            dc:source "mime-type-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code "true" ;
+            dc:source "is-textual-cellar" ] ;
     at:start.use "2012-09-01" ;
     atold:op-code "CSS" ;
     dc:identifier "CSS" ;
@@ -386,10 +386,10 @@
     at:deprecated "false" ;
     at:op-code "DAPK" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code ".xapk" ;
+            at:legacy-code ".apk" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
-            at:legacy-code ".apk" ;
+            at:legacy-code ".xapk" ;
             dc:source "file-extension" ] ;
     at:start.use "2022-04-06" ;
     atold:op-code "DAPK" ;
@@ -404,11 +404,11 @@
     at:deprecated "false" ;
     at:op-code "DBF" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code ".dbf" ;
-            dc:source "file-extension" ],
-        [ a at:MappedCode ;
             at:legacy-code "true" ;
-            dc:source "is-nonPropExt" ] ;
+            dc:source "is-nonPropExt" ],
+        [ a at:MappedCode ;
+            at:legacy-code ".dbf" ;
+            dc:source "file-extension" ] ;
     at:start.use "2013-09-18" ;
     atold:op-code "DBF" ;
     dc:identifier "DBF" ;
@@ -498,23 +498,23 @@
     at:deprecated "false" ;
     at:op-code "DOC" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "doc" ;
-            dc:source "manifestation-type-cellar" ],
-        [ a at:MappedCode ;
             at:legacy-code "false" ;
             dc:source "is-textual-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code ".doc" ;
-            dc:source "file-extension" ],
+            at:legacy-code "doc" ;
+            dc:source "manifestation-type-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code "DOC" ;
-            dc:source "eudor-type-cellar" ],
+            at:legacy-code "application/msword" ;
+            dc:source "mime-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "290" ;
             dc:source "priority-weight-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code "application/msword" ;
-            dc:source "mime-type-cellar" ] ;
+            at:legacy-code "DOC" ;
+            dc:source "eudor-type-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code ".doc" ;
+            dc:source "file-extension" ] ;
     at:start.use "2012-09-01" ;
     atold:op-code "DOC" ;
     dc:identifier "DOC" ;
@@ -528,23 +528,23 @@
     at:deprecated "false" ;
     at:op-code "DOCX" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "docx" ;
-            dc:source "manifestation-type-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code "220" ;
-            dc:source "priority-weight-cellar" ],
+            at:legacy-code "application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml" ;
+            dc:source "mime-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "DOC" ;
             dc:source "eudor-type-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code "application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml" ;
-            dc:source "mime-type-cellar" ],
+            at:legacy-code "220" ;
+            dc:source "priority-weight-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code "false" ;
+            dc:source "is-textual-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code ".docx" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
-            at:legacy-code "false" ;
-            dc:source "is-textual-cellar" ] ;
+            at:legacy-code "docx" ;
+            dc:source "manifestation-type-cellar" ] ;
     at:start.use "2012-09-01" ;
     atold:op-code "DOCX" ;
     dc:identifier "DOCX" ;
@@ -576,11 +576,11 @@
     at:deprecated "false" ;
     at:op-code "DTD_XML" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "application/xml-dtd" ;
-            dc:source "mime-type-cellar" ],
-        [ a at:MappedCode ;
             at:legacy-code ".dtd" ;
-            dc:source "file-extension" ] ;
+            dc:source "file-extension" ],
+        [ a at:MappedCode ;
+            at:legacy-code "application/xml-dtd" ;
+            dc:source "mime-type-cellar" ] ;
     at:start.use "2012-09-01" ;
     atold:op-code "DTD_XML" ;
     dc:identifier "DTD_XML" ;
@@ -669,11 +669,11 @@
     at:deprecated "false" ;
     at:op-code "EPS" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "application/postscript" ;
-            dc:source "mime-type-cellar" ],
-        [ a at:MappedCode ;
             at:legacy-code ".eps" ;
-            dc:source "file-extension" ] ;
+            dc:source "file-extension" ],
+        [ a at:MappedCode ;
+            at:legacy-code "application/postscript" ;
+            dc:source "mime-type-cellar" ] ;
     at:start.use "2012-09-01" ;
     atold:op-code "EPS" ;
     dc:identifier "EPS" ;
@@ -686,14 +686,8 @@
     at:deprecated "false" ;
     at:op-code "EPUB" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "application/epub+zip" ;
-            dc:source "mime-type-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code ".epub" ;
-            dc:source "file-extension" ],
-        [ a at:MappedCode ;
-            at:legacy-code "EPUB" ;
-            dc:source "eudor-type-cellar" ],
+            at:legacy-code "false" ;
+            dc:source "is-textual-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "epub" ;
             dc:source "manifestation-type-cellar" ],
@@ -701,8 +695,14 @@
             at:legacy-code "210" ;
             dc:source "priority-weight-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code "false" ;
-            dc:source "is-textual-cellar" ] ;
+            at:legacy-code "application/epub+zip" ;
+            dc:source "mime-type-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code ".epub" ;
+            dc:source "file-extension" ],
+        [ a at:MappedCode ;
+            at:legacy-code "EPUB" ;
+            dc:source "eudor-type-cellar" ] ;
     at:start.use "2012-09-01" ;
     atold:op-code "EPUB" ;
     dc:identifier "EPUB" ;
@@ -716,17 +716,17 @@
     at:deprecated "false" ;
     at:op-code "ETSI_XML" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "application/xml;type=etsi" ;
-            dc:source "mime-type-cellar" ],
+            at:legacy-code "true" ;
+            dc:source "is-nonPropExt" ],
         [ a at:MappedCode ;
             at:legacy-code "true" ;
             dc:source "is-machine-readable" ],
         [ a at:MappedCode ;
-            at:legacy-code "true" ;
-            dc:source "is-nonPropExt" ],
-        [ a at:MappedCode ;
             at:legacy-code ".xml" ;
             dc:source "file-extension" ],
+        [ a at:MappedCode ;
+            at:legacy-code "application/xml;type=etsi" ;
+            dc:source "mime-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "etsi_xml" ;
             dc:source "manifestation-type-cellar" ] ;
@@ -761,23 +761,23 @@
             at:legacy-code "FMXV2" ;
             dc:source "eudor-type-cellar" ],
         [ a at:MappedCode ;
+            at:legacy-code "fmx2" ;
+            dc:source "manifestation-type-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code "174" ;
+            dc:source "priority-weight-cellar" ],
+        [ a at:MappedCode ;
             at:legacy-code "true" ;
             dc:source "is-textual-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code "text/sgml;type=fmx2" ;
-            dc:source "mime-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "application/xml;type=fmx2" ;
             dc:source "mime-type-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code "fmx2" ;
-            dc:source "manifestation-type-cellar" ],
-        [ a at:MappedCode ;
             at:legacy-code ".xml" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
-            at:legacy-code "174" ;
-            dc:source "priority-weight-cellar" ] ;
+            at:legacy-code "text/sgml;type=fmx2" ;
+            dc:source "mime-type-cellar" ] ;
     at:start.use "1989-01-01" ;
     atold:op-code "FMX2" ;
     dc:identifier "FMX2" ;
@@ -792,23 +792,23 @@
     at:end.use "2004-04-30" ;
     at:op-code "FMX3" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "FMXV3" ;
-            dc:source "eudor-type-cellar" ],
+            at:legacy-code "application/xml;type=fmx3" ;
+            dc:source "mime-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "text/sgml;type=fmx3" ;
             dc:source "mime-type-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code "FMXV3" ;
+            dc:source "eudor-type-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code ".xml" ;
+            dc:source "file-extension" ],
         [ a at:MappedCode ;
             at:legacy-code "175" ;
             dc:source "priority-weight-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "fmx3" ;
             dc:source "manifestation-type-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code "application/xml;type=fmx3" ;
-            dc:source "mime-type-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code ".xml" ;
-            dc:source "file-extension" ],
         [ a at:MappedCode ;
             at:legacy-code "true" ;
             dc:source "is-textual-cellar" ] ;
@@ -825,6 +825,9 @@
     at:deprecated "false" ;
     at:op-code "FMX4" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code ".xml" ;
+            dc:source "file-extension" ],
+        [ a at:MappedCode ;
             at:legacy-code "true" ;
             dc:source "is-textual-cellar" ],
         [ a at:MappedCode ;
@@ -836,9 +839,6 @@
         [ a at:MappedCode ;
             at:legacy-code "fmx4" ;
             dc:source "manifestation-type-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code ".xml" ;
-            dc:source "file-extension" ],
         [ a at:MappedCode ;
             at:legacy-code "FMXV4" ;
             dc:source "eudor-type-cellar" ] ;
@@ -855,11 +855,11 @@
     at:deprecated "false" ;
     at:op-code "FMX4_ZIP" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code ".zip" ;
-            dc:source "file-extension" ],
-        [ a at:MappedCode ;
             at:legacy-code "application/zip;type=fmx4" ;
-            dc:source "mime-type-cellar" ] ;
+            dc:source "mime-type-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code ".zip" ;
+            dc:source "file-extension" ] ;
     at:start.use "2020-12-16" ;
     atold:op-code "FMX4_ZIP" ;
     dc:identifier "FMX4_ZIP" ;
@@ -888,32 +888,32 @@
     at:deprecated "false" ;
     at:op-code "GEOJSON" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "true" ;
-            dc:source "is-textual-cellar" ],
+            at:legacy-code ".json" ;
+            dc:source "file-extension" ],
         [ a at:MappedCode ;
             at:legacy-code "application/geo+json" ;
             dc:source "mime-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "true" ;
-            dc:source "is-nonPropExt" ],
-        [ a at:MappedCode ;
-            at:legacy-code ".json" ;
-            dc:source "file-extension" ],
+            dc:source "is-textual-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "true" ;
             dc:source "is-machine-readable" ],
         [ a at:MappedCode ;
-            at:legacy-code "15" ;
-            dc:source "priority-weight-cellar" ],
+            at:legacy-code "true" ;
+            dc:source "is-nonPropExt" ],
         [ a at:MappedCode ;
-            at:legacy-code "GeoJSON" ;
-            dc:source "eudor-type-cellar" ],
+            at:legacy-code "geojson" ;
+            dc:source "manifestation-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code ".geojson" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
-            at:legacy-code "geojson" ;
-            dc:source "manifestation-type-cellar" ] ;
+            at:legacy-code "GeoJSON" ;
+            dc:source "eudor-type-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code "15" ;
+            dc:source "priority-weight-cellar" ] ;
     at:start.use "2016-08-01" ;
     atold:op-code "GEOJSON" ;
     dc:identifier "GEOJSON" ;
@@ -942,14 +942,8 @@
     at:deprecated "false" ;
     at:op-code "GIF" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code ".gif" ;
-            dc:source "file-extension" ],
-        [ a at:MappedCode ;
-            at:legacy-code "false" ;
-            dc:source "is-textual-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code "gif" ;
-            dc:source "manifestation-type-cellar" ],
+            at:legacy-code "GIF" ;
+            dc:source "eudor-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "20" ;
             dc:source "priority-weight-cellar" ],
@@ -957,8 +951,14 @@
             at:legacy-code "image/gif" ;
             dc:source "mime-type-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code "GIF" ;
-            dc:source "eudor-type-cellar" ] ;
+            at:legacy-code "gif" ;
+            dc:source "manifestation-type-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code ".gif" ;
+            dc:source "file-extension" ],
+        [ a at:MappedCode ;
+            at:legacy-code "false" ;
+            dc:source "is-textual-cellar" ] ;
     at:start.use "2012-09-01" ;
     atold:op-code "GIF" ;
     dc:identifier "GIF" ;
@@ -1002,11 +1002,14 @@
     at:deprecated "false" ;
     at:op-code "GPKG" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "gpkg" ;
-            dc:source "manifestation-type-cellar" ],
+            at:legacy-code "true" ;
+            dc:source "is-machine-readable" ],
         [ a at:MappedCode ;
             at:legacy-code "application/geopackage+sqlite3" ;
             dc:source "mime-type-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code ".gpkg" ;
+            dc:source "file-extension" ],
         [ a at:MappedCode ;
             at:legacy-code "370" ;
             dc:source "priority-weight-cellar" ],
@@ -1014,14 +1017,11 @@
             at:legacy-code "false" ;
             dc:source "is-textual-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code ".gpkg" ;
-            dc:source "file-extension" ],
-        [ a at:MappedCode ;
             at:legacy-code "true" ;
-            dc:source "is-machine-readable" ],
+            dc:source "is-nonPropExt" ],
         [ a at:MappedCode ;
-            at:legacy-code "true" ;
-            dc:source "is-nonPropExt" ] ;
+            at:legacy-code "gpkg" ;
+            dc:source "manifestation-type-cellar" ] ;
     at:start.use "2014-02-13" ;
     atold:op-code "GPKG" ;
     dc:identifier "GPKG" ;
@@ -1076,14 +1076,14 @@
     at:deprecated "false" ;
     at:op-code "GZIP" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "gzip" ;
-            dc:source "manifestation-type-cellar" ],
+            at:legacy-code "true" ;
+            dc:source "is-nonPropExt" ],
         [ a at:MappedCode ;
             at:legacy-code "application/x-gzip" ;
             dc:source "mime-type-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code "true" ;
-            dc:source "is-nonPropExt" ],
+            at:legacy-code "gzip" ;
+            dc:source "manifestation-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code ".gz" ;
             dc:source "file-extension" ] ;
@@ -1102,26 +1102,26 @@
             at:legacy-code ".he2" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
+            at:legacy-code ".h4" ;
+            dc:source "file-extension" ],
+        [ a at:MappedCode ;
             at:legacy-code ".he5" ;
+            dc:source "file-extension" ],
+        [ a at:MappedCode ;
+            at:legacy-code ".hdf4" ;
+            dc:source "file-extension" ],
+        [ a at:MappedCode ;
+            at:legacy-code "application/x-hdf" ;
+            dc:source "mime-type-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code ".hdf" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
             at:legacy-code ".hdf5" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
             at:legacy-code ".h5" ;
-            dc:source "file-extension" ],
-        [ a at:MappedCode ;
-            at:legacy-code ".h4" ;
-            dc:source "file-extension" ],
-        [ a at:MappedCode ;
-            at:legacy-code ".hdf4" ;
-            dc:source "file-extension" ],
-        [ a at:MappedCode ;
-            at:legacy-code ".hdf" ;
-            dc:source "file-extension" ],
-        [ a at:MappedCode ;
-            at:legacy-code "application/x-hdf" ;
-            dc:source "mime-type-cellar" ] ;
+            dc:source "file-extension" ] ;
     at:start.use "1990-01-01" ;
     atold:op-code "HDF" ;
     dc:identifier "HDF" ;
@@ -1150,29 +1150,29 @@
     at:deprecated "false" ;
     at:op-code "HTML" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "320" ;
-            dc:source "priority-weight-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code "text/html" ;
-            dc:source "mime-type-cellar" ],
+            at:legacy-code "true" ;
+            dc:source "is-nonPropExt" ],
         [ a at:MappedCode ;
             at:legacy-code ".htm" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
+            at:legacy-code "text/html" ;
+            dc:source "mime-type-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code "HTML" ;
+            dc:source "eudor-type-cellar" ],
+        [ a at:MappedCode ;
             at:legacy-code "true" ;
             dc:source "is-textual-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code ".html" ;
-            dc:source "file-extension" ],
+            at:legacy-code "320" ;
+            dc:source "priority-weight-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "html" ;
             dc:source "manifestation-type-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code "true" ;
-            dc:source "is-nonPropExt" ],
-        [ a at:MappedCode ;
-            at:legacy-code "HTML" ;
-            dc:source "eudor-type-cellar" ] ;
+            at:legacy-code ".html" ;
+            dc:source "file-extension" ] ;
     at:start.use "2012-09-01" ;
     atold:op-code "HTML" ;
     dc:identifier "HTML" ;
@@ -1186,23 +1186,23 @@
     at:deprecated "false" ;
     at:op-code "HTML5" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code ".htm" ;
-            dc:source "file-extension" ],
-        [ a at:MappedCode ;
-            at:legacy-code "true" ;
-            dc:source "is-textual-cellar" ],
-        [ a at:MappedCode ;
             at:legacy-code "315" ;
             dc:source "priority-weight-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code "html5" ;
-            dc:source "manifestation-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code ".html" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
             at:legacy-code "text/html;type=html5" ;
-            dc:source "mime-type-cellar" ] ;
+            dc:source "mime-type-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code "true" ;
+            dc:source "is-textual-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code ".htm" ;
+            dc:source "file-extension" ],
+        [ a at:MappedCode ;
+            at:legacy-code "html5" ;
+            dc:source "manifestation-type-cellar" ] ;
     at:start.use "2008-01-22" ;
     atold:op-code "HTML5" ;
     dc:identifier "HTML5" ;
@@ -1216,26 +1216,26 @@
     at:deprecated "false" ;
     at:op-code "HTML_SIMPL" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "html_simplified" ;
-            dc:source "manifestation-type-cellar" ],
-        [ a at:MappedCode ;
             at:legacy-code "310" ;
             dc:source "priority-weight-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code ".htm" ;
-            dc:source "file-extension" ],
-        [ a at:MappedCode ;
-            at:legacy-code "true" ;
-            dc:source "is-textual-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code "HTML" ;
-            dc:source "eudor-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "text/html;type=simplified" ;
             dc:source "mime-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code ".html" ;
-            dc:source "file-extension" ] ;
+            dc:source "file-extension" ],
+        [ a at:MappedCode ;
+            at:legacy-code "html_simplified" ;
+            dc:source "manifestation-type-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code "true" ;
+            dc:source "is-textual-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code ".htm" ;
+            dc:source "file-extension" ],
+        [ a at:MappedCode ;
+            at:legacy-code "HTML" ;
+            dc:source "eudor-type-cellar" ] ;
     at:start.use "2012-09-01" ;
     atold:op-code "HTML_SIMPL" ;
     dc:identifier "HTML_SIMPL" ;
@@ -1250,22 +1250,22 @@
     at:op-code "ICS" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "true" ;
-            dc:source "is-nonPropExt" ],
-        [ a at:MappedCode ;
-            at:legacy-code ".ifb" ;
-            dc:source "file-extension" ],
-        [ a at:MappedCode ;
-            at:legacy-code ".ics" ;
-            dc:source "file-extension" ],
-        [ a at:MappedCode ;
-            at:legacy-code "true" ;
             dc:source "is-machine-readable" ],
         [ a at:MappedCode ;
             at:legacy-code ".icalendar" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
+            at:legacy-code ".ics" ;
+            dc:source "file-extension" ],
+        [ a at:MappedCode ;
+            at:legacy-code ".ifb" ;
+            dc:source "file-extension" ],
+        [ a at:MappedCode ;
             at:legacy-code ".ical" ;
-            dc:source "file-extension" ] ;
+            dc:source "file-extension" ],
+        [ a at:MappedCode ;
+            at:legacy-code "true" ;
+            dc:source "is-nonPropExt" ] ;
     at:start.use "1998-01-01" ;
     atold:op-code "ICS" ;
     dc:identifier "ICS" ;
@@ -1279,20 +1279,20 @@
     at:deprecated "false" ;
     at:op-code "IMMC_XML" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "IMMC_XML" ;
-            dc:source "eudor-type-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code "application/xml;type=immc" ;
-            dc:source "mime-type-cellar" ],
+            at:legacy-code "true" ;
+            dc:source "is-textual-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "immc_xml" ;
             dc:source "manifestation-type-cellar" ],
         [ a at:MappedCode ;
+            at:legacy-code "application/xml;type=immc" ;
+            dc:source "mime-type-cellar" ],
+        [ a at:MappedCode ;
             at:legacy-code "_immc.xml" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
-            at:legacy-code "true" ;
-            dc:source "is-textual-cellar" ] ;
+            at:legacy-code "IMMC_XML" ;
+            dc:source "eudor-type-cellar" ] ;
     at:start.use "2016-04-08" ;
     atold:op-code "IMMC_XML" ;
     dc:identifier "IMMC_XML" ;
@@ -1320,11 +1320,11 @@
     at:deprecated "false" ;
     at:op-code "IPA" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "ipa" ;
-            dc:source "manifestation-type-cellar" ],
-        [ a at:MappedCode ;
             at:legacy-code ".ipa" ;
             dc:source "file-extension" ],
+        [ a at:MappedCode ;
+            at:legacy-code "ipa" ;
+            dc:source "manifestation-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "application/zip;type=ipa" ;
             dc:source "mime-type-cellar" ] ;
@@ -1404,26 +1404,26 @@
     at:deprecated "false" ;
     at:op-code "JPEG" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code ".jpg" ;
-            dc:source "file-extension" ],
-        [ a at:MappedCode ;
-            at:legacy-code "JPEG" ;
-            dc:source "eudor-type-cellar" ],
+            at:legacy-code "image/jpeg" ;
+            dc:source "mime-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "false" ;
             dc:source "is-textual-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code ".jpeg" ;
-            dc:source "file-extension" ],
-        [ a at:MappedCode ;
             at:legacy-code "170" ;
             dc:source "priority-weight-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code "image/jpeg" ;
-            dc:source "mime-type-cellar" ],
-        [ a at:MappedCode ;
             at:legacy-code "jepg" ;
-            dc:source "manifestation-type-cellar" ] ;
+            dc:source "manifestation-type-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code ".jpeg" ;
+            dc:source "file-extension" ],
+        [ a at:MappedCode ;
+            at:legacy-code ".jpg" ;
+            dc:source "file-extension" ],
+        [ a at:MappedCode ;
+            at:legacy-code "JPEG" ;
+            dc:source "eudor-type-cellar" ] ;
     at:start.use "2012-09-01" ;
     atold:op-code "JPEG" ;
     dc:identifier "JPEG" ;
@@ -1436,14 +1436,14 @@
     at:deprecated "false" ;
     at:op-code "JPEG2000" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code ".jp2" ;
+            dc:source "file-extension" ],
+        [ a at:MappedCode ;
             at:legacy-code ".jpg2" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
             at:legacy-code "true" ;
-            dc:source "is-nonPropExt" ],
-        [ a at:MappedCode ;
-            at:legacy-code ".jp2" ;
-            dc:source "file-extension" ] ;
+            dc:source "is-nonPropExt" ] ;
     at:start.use "2000-01-01" ;
     atold:op-code "JPEG2000" ;
     dc:identifier "JPEG2000" ;
@@ -1457,20 +1457,20 @@
     at:deprecated "false" ;
     at:op-code "JS" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code ".js" ;
-            dc:source "file-extension" ],
-        [ a at:MappedCode ;
             at:legacy-code "6" ;
             dc:source "priority-weight-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code "text/javascript" ;
-            dc:source "mime-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "true" ;
             dc:source "is-textual-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "js" ;
-            dc:source "manifestation-type-cellar" ] ;
+            dc:source "manifestation-type-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code "text/javascript" ;
+            dc:source "mime-type-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code ".js" ;
+            dc:source "file-extension" ] ;
     at:start.use "1995-12-04" ;
     atold:op-code "JS" ;
     dc:identifier "JS" ;
@@ -1528,11 +1528,11 @@
             at:legacy-code "true" ;
             dc:source "is-nonPropExt" ],
         [ a at:MappedCode ;
-            at:legacy-code ".kml" ;
-            dc:source "file-extension" ],
-        [ a at:MappedCode ;
             at:legacy-code "true" ;
-            dc:source "is-machine-readable" ] ;
+            dc:source "is-machine-readable" ],
+        [ a at:MappedCode ;
+            at:legacy-code ".kml" ;
+            dc:source "file-extension" ] ;
     at:start.use "2013-09-18" ;
     atold:op-code "KML" ;
     dc:identifier "KML" ;
@@ -1549,11 +1549,11 @@
             at:legacy-code "true" ;
             dc:source "is-nonPropExt" ],
         [ a at:MappedCode ;
-            at:legacy-code ".kmz" ;
-            dc:source "file-extension" ],
-        [ a at:MappedCode ;
             at:legacy-code "true" ;
-            dc:source "is-machine-readable" ] ;
+            dc:source "is-machine-readable" ],
+        [ a at:MappedCode ;
+            at:legacy-code ".kmz" ;
+            dc:source "file-extension" ] ;
     at:start.use "2013-11-27" ;
     atold:op-code "KMZ" ;
     dc:identifier "KMZ" ;
@@ -1611,10 +1611,10 @@
     at:deprecated "false" ;
     at:op-code "LHA" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code ".lha" ;
+            at:legacy-code ".lzh" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
-            at:legacy-code ".lzh" ;
+            at:legacy-code ".lha" ;
             dc:source "file-extension" ] ;
     at:start.use "1988-01-01" ;
     atold:op-code "LHA" ;
@@ -1759,11 +1759,11 @@
     at:deprecated "false" ;
     at:op-code "METS_ZIP" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "application/zip;type=mets" ;
-            dc:source "mime-type-cellar" ],
-        [ a at:MappedCode ;
             at:legacy-code ".zip" ;
-            dc:source "file-extension" ] ;
+            dc:source "file-extension" ],
+        [ a at:MappedCode ;
+            at:legacy-code "application/zip;type=mets" ;
+            dc:source "mime-type-cellar" ] ;
     at:start.use "2003-10-27" ;
     atold:op-code "METS_ZIP" ;
     dc:identifier "METS_ZIP" ;
@@ -1777,10 +1777,10 @@
     at:deprecated "false" ;
     at:op-code "MHTML" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code ".mhtml" ;
+            at:legacy-code ".mht" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
-            at:legacy-code ".mht" ;
+            at:legacy-code ".mhtml" ;
             dc:source "file-extension" ] ;
     at:start.use "1999-03-01" ;
     atold:op-code "MHTML" ;
@@ -1813,26 +1813,26 @@
     at:deprecated "false" ;
     at:op-code "MOBI" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "160" ;
-            dc:source "priority-weight-cellar" ],
-        [ a at:MappedCode ;
             at:legacy-code ".mobi" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
-            at:legacy-code "MOBI" ;
-            dc:source "eudor-type-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code "mobi" ;
-            dc:source "manifestation-type-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code "false" ;
-            dc:source "is-textual-cellar" ],
+            at:legacy-code "application/x-mobipocket-ebook" ;
+            dc:source "mime-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code ".prc" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
-            at:legacy-code "application/x-mobipocket-ebook" ;
-            dc:source "mime-type-cellar" ] ;
+            at:legacy-code "160" ;
+            dc:source "priority-weight-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code "false" ;
+            dc:source "is-textual-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code "mobi" ;
+            dc:source "manifestation-type-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code "MOBI" ;
+            dc:source "eudor-type-cellar" ] ;
     at:start.use "2012-09-01" ;
     atold:op-code "MOBI" ;
     dc:identifier "MOBI" ;
@@ -1864,17 +1864,17 @@
             at:legacy-code "true" ;
             dc:source "is-textual-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code ".mp3" ;
-            dc:source "file-extension" ],
+            at:legacy-code "mp3" ;
+            dc:source "manifestation-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "audio/mp3" ;
             dc:source "mime-type-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code "mp3" ;
-            dc:source "manifestation-type-cellar" ],
-        [ a at:MappedCode ;
             at:legacy-code "11" ;
-            dc:source "priority-weight-cellar" ] ;
+            dc:source "priority-weight-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code ".mp3" ;
+            dc:source "file-extension" ] ;
     at:start.use "1991-12-06" ;
     atold:op-code "MP3" ;
     dc:identifier "MP3" ;
@@ -1888,19 +1888,19 @@
     at:deprecated "false" ;
     at:op-code "MPEG2" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "mp2" ;
-            dc:source "file-extension" ],
-        [ a at:MappedCode ;
             at:legacy-code "mpg" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
-            at:legacy-code ".mpeg" ;
+            at:legacy-code "m2v" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
             at:legacy-code "mp3" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
-            at:legacy-code "m2v" ;
+            at:legacy-code "mp2" ;
+            dc:source "file-extension" ],
+        [ a at:MappedCode ;
+            at:legacy-code ".mpeg" ;
             dc:source "file-extension" ] ;
     at:start.use "2000-12-01" ;
     atold:op-code "MPEG2" ;
@@ -1915,29 +1915,29 @@
     at:deprecated "false" ;
     at:op-code "MPEG4" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "video/mp4" ;
-            dc:source "mime-type-cellar" ],
+            at:legacy-code "mp4" ;
+            dc:source "manifestation-type-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code "true" ;
-            dc:source "is-textual-cellar" ],
+            at:legacy-code "audio/mp4" ;
+            dc:source "mime-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "12" ;
             dc:source "priority-weight-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "mp4" ;
-            dc:source "manifestation-type-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code "mp4" ;
             dc:source "file-extension" ],
-        [ a at:MappedCode ;
-            at:legacy-code "audio/mp4" ;
-            dc:source "mime-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "mpg" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
             at:legacy-code ".mpeg" ;
-            dc:source "file-extension" ] ;
+            dc:source "file-extension" ],
+        [ a at:MappedCode ;
+            at:legacy-code "true" ;
+            dc:source "is-textual-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code "video/mp4" ;
+            dc:source "mime-type-cellar" ] ;
     at:start.use "2001-10-11" ;
     atold:op-code "MPEG4" ;
     dc:identifier "MPEG4" ;
@@ -1954,10 +1954,10 @@
             at:legacy-code "mp4" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
-            at:legacy-code "mpg" ;
+            at:legacy-code ".mpeg" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
-            at:legacy-code ".mpeg" ;
+            at:legacy-code "mpg" ;
             dc:source "file-extension" ] ;
     at:start.use "2003-05-30" ;
     atold:op-code "MPEG4_AVC" ;
@@ -1999,10 +1999,10 @@
     at:deprecated "false" ;
     at:op-code "MSI" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code ".msi" ;
+            at:legacy-code ".msp" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
-            at:legacy-code ".msp" ;
+            at:legacy-code ".msi" ;
             dc:source "file-extension" ] ;
     at:start.use "1999-08-31" ;
     atold:op-code "MSI" ;
@@ -2048,19 +2048,19 @@
     at:op-code "NETCDF" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "true" ;
+            dc:source "is-nonPropExt" ],
+        [ a at:MappedCode ;
+            at:legacy-code "true" ;
             dc:source "is-machine-readable" ],
         [ a at:MappedCode ;
             at:legacy-code ".nc" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
-            at:legacy-code ".cdf" ;
-            dc:source "file-extension" ],
-        [ a at:MappedCode ;
-            at:legacy-code "true" ;
-            dc:source "is-nonPropExt" ],
-        [ a at:MappedCode ;
             at:legacy-code "application/x-netcdf" ;
-            dc:source "mime-type-cellar" ] ;
+            dc:source "mime-type-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code ".cdf" ;
+            dc:source "file-extension" ] ;
     at:start.use "1990-01-01" ;
     atold:op-code "NETCDF" ;
     dc:identifier "NETCDF" ;
@@ -2184,14 +2184,14 @@
     at:deprecated "false" ;
     at:op-code "ODS" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code ".ods" ;
-            dc:source "file-extension" ],
+            at:legacy-code "true" ;
+            dc:source "is-machine-readable" ],
         [ a at:MappedCode ;
             at:legacy-code "true" ;
             dc:source "is-nonPropExt" ],
         [ a at:MappedCode ;
-            at:legacy-code "true" ;
-            dc:source "is-machine-readable" ] ;
+            at:legacy-code ".ods" ;
+            dc:source "file-extension" ] ;
     at:start.use "2013-11-27" ;
     atold:op-code "ODS" ;
     dc:identifier "ODS" ;
@@ -2205,11 +2205,11 @@
     at:deprecated "false" ;
     at:op-code "ODT" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code ".odt" ;
-            dc:source "file-extension" ],
-        [ a at:MappedCode ;
             at:legacy-code "application/vnd.oasis.opendocument.text" ;
-            dc:source "mime-type-cellar" ] ;
+            dc:source "mime-type-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code ".odt" ;
+            dc:source "file-extension" ] ;
     at:start.use "2012-09-01" ;
     atold:op-code "ODT" ;
     dc:identifier "ODT" ;
@@ -2268,13 +2268,13 @@
     at:deprecated "false" ;
     at:op-code "OWL" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code ".owx" ;
+            at:legacy-code ".owl" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
             at:legacy-code ".rdf" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
-            at:legacy-code ".owl" ;
+            at:legacy-code ".owx" ;
             dc:source "file-extension" ] ;
     at:start.use "2012-09-01" ;
     atold:op-code "OWL" ;
@@ -2289,23 +2289,23 @@
     at:deprecated "false" ;
     at:op-code "PDF" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "230" ;
-            dc:source "priority-weight-cellar" ],
+            at:legacy-code "application/pdf;type=pdf1x" ;
+            dc:source "mime-type-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code "PDF" ;
+            dc:source "eudor-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code ".pdf" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
-            at:legacy-code "application/pdf;type=pdf1x" ;
-            dc:source "mime-type-cellar" ],
-        [ a at:MappedCode ;
             at:legacy-code "false" ;
             dc:source "is-textual-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code "pdf" ;
-            dc:source "manifestation-type-cellar" ],
+            at:legacy-code "230" ;
+            dc:source "priority-weight-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code "PDF" ;
-            dc:source "eudor-type-cellar" ] ;
+            at:legacy-code "pdf" ;
+            dc:source "manifestation-type-cellar" ] ;
     at:start.use "2012-09-01" ;
     atold:op-code "PDF" ;
     dc:identifier "PDF" ;
@@ -2319,8 +2319,17 @@
     at:deprecated "false" ;
     at:op-code "PDF1X" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code ".pdf" ;
-            dc:source "file-extension" ],
+            at:legacy-code "application/pdf;type=pdf1x" ;
+            dc:source "mime-type-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code "application/pdf" ;
+            dc:source "mime-type-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code "pdf1x" ;
+            dc:source "manifestation-type-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code "PDF" ;
+            dc:source "eudor-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "false" ;
             dc:source "is-textual-cellar" ],
@@ -2328,17 +2337,8 @@
             at:legacy-code "280" ;
             dc:source "priority-weight-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code "PDF" ;
-            dc:source "eudor-type-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code "pdf1x" ;
-            dc:source "manifestation-type-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code "application/pdf" ;
-            dc:source "mime-type-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code "application/pdf;type=pdf1x" ;
-            dc:source "mime-type-cellar" ] ;
+            at:legacy-code ".pdf" ;
+            dc:source "file-extension" ] ;
     at:start.use "2012-09-01" ;
     atold:op-code "PDF1X" ;
     dc:identifier "PDF1X" ;
@@ -2352,23 +2352,23 @@
     at:deprecated "false" ;
     at:op-code "PDFA1A" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "application/pdf;type=pdfa1a" ;
+            dc:source "mime-type-cellar" ],
+        [ a at:MappedCode ;
             at:legacy-code "270" ;
             dc:source "priority-weight-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code "false" ;
-            dc:source "is-textual-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code "pdfa1a" ;
-            dc:source "manifestation-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "PDF" ;
             dc:source "eudor-type-cellar" ],
         [ a at:MappedCode ;
+            at:legacy-code "false" ;
+            dc:source "is-textual-cellar" ],
+        [ a at:MappedCode ;
             at:legacy-code ".pdf" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
-            at:legacy-code "application/pdf;type=pdfa1a" ;
-            dc:source "mime-type-cellar" ] ;
+            at:legacy-code "pdfa1a" ;
+            dc:source "manifestation-type-cellar" ] ;
     at:start.use "2012-09-01" ;
     atold:op-code "PDFA1A" ;
     dc:identifier "PDFA1A" ;
@@ -2382,23 +2382,23 @@
     at:deprecated "false" ;
     at:op-code "PDFA1B" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "260" ;
-            dc:source "priority-weight-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code ".pdf" ;
-            dc:source "file-extension" ],
-        [ a at:MappedCode ;
-            at:legacy-code "false" ;
-            dc:source "is-textual-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code "application/pdf;type=pdfa1b" ;
-            dc:source "mime-type-cellar" ],
+            at:legacy-code "PDF" ;
+            dc:source "eudor-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "pdfa1b" ;
             dc:source "manifestation-type-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code "PDF" ;
-            dc:source "eudor-type-cellar" ] ;
+            at:legacy-code "false" ;
+            dc:source "is-textual-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code ".pdf" ;
+            dc:source "file-extension" ],
+        [ a at:MappedCode ;
+            at:legacy-code "260" ;
+            dc:source "priority-weight-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code "application/pdf;type=pdfa1b" ;
+            dc:source "mime-type-cellar" ] ;
     at:start.use "2012-09-01" ;
     atold:op-code "PDFA1B" ;
     dc:identifier "PDFA1B" ;
@@ -2412,8 +2412,8 @@
     at:deprecated "false" ;
     at:op-code "PDFA2A" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "application/pdf;type=pdfa2a" ;
-            dc:source "mime-type-cellar" ],
+            at:legacy-code "pdfa2a" ;
+            dc:source "manifestation-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "false" ;
             dc:source "is-textual-cellar" ],
@@ -2421,14 +2421,14 @@
             at:legacy-code "PDF" ;
             dc:source "eudor-type-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code "248" ;
-            dc:source "priority-weight-cellar" ],
-        [ a at:MappedCode ;
             at:legacy-code ".pdf" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
-            at:legacy-code "pdfa2a" ;
-            dc:source "manifestation-type-cellar" ] ;
+            at:legacy-code "248" ;
+            dc:source "priority-weight-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code "application/pdf;type=pdfa2a" ;
+            dc:source "mime-type-cellar" ] ;
     at:start.use "2011-07-01" ;
     atold:op-code "PDFA2A" ;
     dc:identifier "PDFA2A" ;
@@ -2441,9 +2441,6 @@
     at:deprecated "false" ;
     at:op-code "PDFA2B" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "pdfa2b" ;
-            dc:source "manifestation-type-cellar" ],
-        [ a at:MappedCode ;
             at:legacy-code "246" ;
             dc:source "priority-weight-cellar" ],
         [ a at:MappedCode ;
@@ -2452,6 +2449,9 @@
         [ a at:MappedCode ;
             at:legacy-code "false" ;
             dc:source "is-textual-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code "pdfa2b" ;
+            dc:source "manifestation-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code ".pdf" ;
             dc:source "file-extension" ],
@@ -2470,23 +2470,23 @@
     at:deprecated "false" ;
     at:op-code "PDFA3" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code ".pdf" ;
-            dc:source "file-extension" ],
+            at:legacy-code "244" ;
+            dc:source "priority-weight-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "PDF" ;
             dc:source "eudor-type-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code "application/pdf;type=pdfa3" ;
-            dc:source "mime-type-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code "false" ;
-            dc:source "is-textual-cellar" ],
-        [ a at:MappedCode ;
             at:legacy-code "pdfa3" ;
             dc:source "manifestation-type-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code "244" ;
-            dc:source "priority-weight-cellar" ] ;
+            at:legacy-code "application/pdf;type=pdfa3" ;
+            dc:source "mime-type-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code ".pdf" ;
+            dc:source "file-extension" ],
+        [ a at:MappedCode ;
+            at:legacy-code "false" ;
+            dc:source "is-textual-cellar" ] ;
     at:start.use "2012-12-15" ;
     atold:op-code "PDFA3" ;
     dc:identifier "PDFA3" ;
@@ -2514,23 +2514,23 @@
     at:deprecated "false" ;
     at:op-code "PDFX" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "PDF" ;
+            dc:source "eudor-type-cellar" ],
+        [ a at:MappedCode ;
             at:legacy-code ".pdf" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
             at:legacy-code "application/pdf;type=pdfx" ;
             dc:source "mime-type-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code "250" ;
-            dc:source "priority-weight-cellar" ],
+            at:legacy-code "false" ;
+            dc:source "is-textual-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "pdfx" ;
             dc:source "manifestation-type-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code "false" ;
-            dc:source "is-textual-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code "PDF" ;
-            dc:source "eudor-type-cellar" ] ;
+            at:legacy-code "250" ;
+            dc:source "priority-weight-cellar" ] ;
     at:start.use "2001-12-01" ;
     atold:op-code "PDFX" ;
     dc:identifier "PDFX" ;
@@ -2544,15 +2544,6 @@
     at:deprecated "false" ;
     at:op-code "PDFX1A" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "application/pdf;type=pdfx1a" ;
-            dc:source "mime-type-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code "pdfx1a" ;
-            dc:source "manifestation-type-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code ".pdf" ;
-            dc:source "file-extension" ],
-        [ a at:MappedCode ;
             at:legacy-code "false" ;
             dc:source "is-textual-cellar" ],
         [ a at:MappedCode ;
@@ -2560,7 +2551,16 @@
             dc:source "priority-weight-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "PDF" ;
-            dc:source "eudor-type-cellar" ] ;
+            dc:source "eudor-type-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code ".pdf" ;
+            dc:source "file-extension" ],
+        [ a at:MappedCode ;
+            at:legacy-code "application/pdf;type=pdfx1a" ;
+            dc:source "mime-type-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code "pdfx1a" ;
+            dc:source "manifestation-type-cellar" ] ;
     at:start.use "2001-12-01" ;
     atold:op-code "PDFX1A" ;
     dc:identifier "PDFX1A" ;
@@ -2573,6 +2573,15 @@
     at:deprecated "false" ;
     at:op-code "PDFX2A" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "false" ;
+            dc:source "is-textual-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code "PDF" ;
+            dc:source "eudor-type-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code "pdfx2a" ;
+            dc:source "manifestation-type-cellar" ],
+        [ a at:MappedCode ;
             at:legacy-code "application/pdf;type=pdfx2a" ;
             dc:source "mime-type-cellar" ],
         [ a at:MappedCode ;
@@ -2580,16 +2589,7 @@
             dc:source "priority-weight-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code ".pdf" ;
-            dc:source "file-extension" ],
-        [ a at:MappedCode ;
-            at:legacy-code "PDF" ;
-            dc:source "eudor-type-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code "false" ;
-            dc:source "is-textual-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code "pdfx2a" ;
-            dc:source "manifestation-type-cellar" ] ;
+            dc:source "file-extension" ] ;
     at:start.use "2003-12-01" ;
     atold:op-code "PDFX2A" ;
     dc:identifier "PDFX2A" ;
@@ -2602,23 +2602,23 @@
     at:deprecated "false" ;
     at:op-code "PDFX4" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "application/pdf;type=pdfx4" ;
-            dc:source "mime-type-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code "241" ;
-            dc:source "priority-weight-cellar" ],
+            at:legacy-code "false" ;
+            dc:source "is-textual-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "pdfx4" ;
             dc:source "manifestation-type-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code "false" ;
-            dc:source "is-textual-cellar" ],
-        [ a at:MappedCode ;
             at:legacy-code "PDF" ;
             dc:source "eudor-type-cellar" ],
         [ a at:MappedCode ;
+            at:legacy-code "application/pdf;type=pdfx4" ;
+            dc:source "mime-type-cellar" ],
+        [ a at:MappedCode ;
             at:legacy-code ".pdf" ;
-            dc:source "file-extension" ] ;
+            dc:source "file-extension" ],
+        [ a at:MappedCode ;
+            at:legacy-code "241" ;
+            dc:source "priority-weight-cellar" ] ;
     at:start.use "2008-03-01" ;
     atold:op-code "PDFX4" ;
     dc:identifier "PDFX4" ;
@@ -2631,6 +2631,9 @@
     at:deprecated "false" ;
     at:op-code "PL" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code ".pm" ;
+            dc:source "file-extension" ],
+        [ a at:MappedCode ;
             at:legacy-code ".t" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
@@ -2638,9 +2641,6 @@
             dc:source "file-extension" ],
         [ a at:MappedCode ;
             at:legacy-code ".pod" ;
-            dc:source "file-extension" ],
-        [ a at:MappedCode ;
-            at:legacy-code ".pm" ;
             dc:source "file-extension" ] ;
     at:start.use "1987-12-18" ;
     atold:op-code "PL" ;
@@ -2654,26 +2654,26 @@
     at:deprecated "false" ;
     at:op-code "PNG" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "png" ;
-            dc:source "manifestation-type-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code "false" ;
-            dc:source "is-textual-cellar" ],
-        [ a at:MappedCode ;
             at:legacy-code "image/png" ;
             dc:source "mime-type-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code "true" ;
-            dc:source "is-nonPropExt" ],
-        [ a at:MappedCode ;
-            at:legacy-code "PNG" ;
-            dc:source "eudor-type-cellar" ],
+            at:legacy-code "png" ;
+            dc:source "manifestation-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code ".png" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
+            at:legacy-code "true" ;
+            dc:source "is-nonPropExt" ],
+        [ a at:MappedCode ;
             at:legacy-code "10" ;
-            dc:source "priority-weight-cellar" ] ;
+            dc:source "priority-weight-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code "false" ;
+            dc:source "is-textual-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code "PNG" ;
+            dc:source "eudor-type-cellar" ] ;
     at:start.use "2012-09-01" ;
     atold:op-code "PNG" ;
     dc:identifier "PNG" ;
@@ -2687,11 +2687,11 @@
     at:deprecated "false" ;
     at:op-code "PPS" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code ".pps" ;
-            dc:source "file-extension" ],
-        [ a at:MappedCode ;
             at:legacy-code "application/vnd.ms-powerpoint" ;
-            dc:source "mime-type-cellar" ] ;
+            dc:source "mime-type-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code ".pps" ;
+            dc:source "file-extension" ] ;
     at:start.use "2012-09-01" ;
     atold:op-code "PPS" ;
     dc:identifier "PPS" ;
@@ -2708,6 +2708,12 @@
             at:legacy-code "ppsx" ;
             dc:source "manifestation-type-cellar" ],
         [ a at:MappedCode ;
+            at:legacy-code "DOC" ;
+            dc:source "eudor-type-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code "false" ;
+            dc:source "is-textual-cellar" ],
+        [ a at:MappedCode ;
             at:legacy-code "150" ;
             dc:source "priority-weight-cellar" ],
         [ a at:MappedCode ;
@@ -2715,13 +2721,7 @@
             dc:source "mime-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code ".ppsx" ;
-            dc:source "file-extension" ],
-        [ a at:MappedCode ;
-            at:legacy-code "DOC" ;
-            dc:source "eudor-type-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code "false" ;
-            dc:source "is-textual-cellar" ] ;
+            dc:source "file-extension" ] ;
     at:start.use "2012-09-01" ;
     atold:op-code "PPSX" ;
     dc:identifier "PPSX" ;
@@ -2735,23 +2735,23 @@
     at:deprecated "false" ;
     at:op-code "PPT" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "140" ;
+            dc:source "priority-weight-cellar" ],
+        [ a at:MappedCode ;
             at:legacy-code ".ppt" ;
             dc:source "file-extension" ],
+        [ a at:MappedCode ;
+            at:legacy-code "false" ;
+            dc:source "is-textual-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code "DOC" ;
+            dc:source "eudor-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "ppt" ;
             dc:source "manifestation-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "application/vnd.ms-powerpoint" ;
-            dc:source "mime-type-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code "DOC" ;
-            dc:source "eudor-type-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code "false" ;
-            dc:source "is-textual-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code "140" ;
-            dc:source "priority-weight-cellar" ] ;
+            dc:source "mime-type-cellar" ] ;
     at:start.use "2012-09-01" ;
     atold:op-code "PPT" ;
     dc:identifier "PPT" ;
@@ -2765,23 +2765,23 @@
     at:deprecated "false" ;
     at:op-code "PPTX" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "130" ;
-            dc:source "priority-weight-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code "false" ;
-            dc:source "is-textual-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code "DOC" ;
-            dc:source "eudor-type-cellar" ],
+            at:legacy-code ".pptx" ;
+            dc:source "file-extension" ],
         [ a at:MappedCode ;
             at:legacy-code "application/vnd.openxmlformats-officedocument.presentationml.presentation" ;
             dc:source "mime-type-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code ".pptx" ;
-            dc:source "file-extension" ],
+            at:legacy-code "false" ;
+            dc:source "is-textual-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "pptx" ;
-            dc:source "manifestation-type-cellar" ] ;
+            dc:source "manifestation-type-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code "130" ;
+            dc:source "priority-weight-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code "DOC" ;
+            dc:source "eudor-type-cellar" ] ;
     at:start.use "2012-09-01" ;
     atold:op-code "PPTX" ;
     dc:identifier "PPTX" ;
@@ -2852,16 +2852,16 @@
     at:deprecated "false" ;
     at:op-code "RAR" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code ".rar" ;
+            at:legacy-code ".r01" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
-            at:legacy-code ".r00" ;
+            at:legacy-code ".rar" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
             at:legacy-code ".rev" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
-            at:legacy-code ".r01" ;
+            at:legacy-code ".r00" ;
             dc:source "file-extension" ] ;
     at:start.use "1993-03-01" ;
     atold:op-code "RAR" ;
@@ -2891,11 +2891,11 @@
     at:deprecated "false" ;
     at:op-code "RDFA" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "true" ;
-            dc:source "is-machine-readable" ],
-        [ a at:MappedCode ;
             at:legacy-code ".rdfa" ;
-            dc:source "file-extension" ] ;
+            dc:source "file-extension" ],
+        [ a at:MappedCode ;
+            at:legacy-code "true" ;
+            dc:source "is-machine-readable" ] ;
     at:start.use "2006-03-10" ;
     atold:op-code "RDFA" ;
     dc:identifier "RDFA" ;
@@ -2910,13 +2910,13 @@
     at:op-code "RDF_N_QUADS" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "true" ;
-            dc:source "is-machine-readable" ],
+            dc:source "is-nonPropExt" ],
         [ a at:MappedCode ;
             at:legacy-code ".nq" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
             at:legacy-code "true" ;
-            dc:source "is-nonPropExt" ] ;
+            dc:source "is-machine-readable" ] ;
     at:start.use "2013-04-09" ;
     atold:op-code "RDF_N_QUADS" ;
     dc:identifier "RDF_N_QUADS" ;
@@ -2930,8 +2930,14 @@
     at:deprecated "false" ;
     at:op-code "RDF_N_TRIPLES" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "118" ;
-            dc:source "priority-weight-cellar" ],
+            at:legacy-code "rdf_n_triples" ;
+            dc:source "manifestation-type-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code "true" ;
+            dc:source "is-machine-readable" ],
+        [ a at:MappedCode ;
+            at:legacy-code ".nt" ;
+            dc:source "file-extension" ],
         [ a at:MappedCode ;
             at:legacy-code "true" ;
             dc:source "is-nonPropExt" ],
@@ -2939,14 +2945,8 @@
             at:legacy-code "true" ;
             dc:source "is-textual-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code ".nt" ;
-            dc:source "file-extension" ],
-        [ a at:MappedCode ;
-            at:legacy-code "true" ;
-            dc:source "is-machine-readable" ],
-        [ a at:MappedCode ;
-            at:legacy-code "rdf_n_triples" ;
-            dc:source "manifestation-type-cellar" ],
+            at:legacy-code "118" ;
+            dc:source "priority-weight-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "application/n-triples" ;
             dc:source "mime-type-cellar" ] ;
@@ -3002,10 +3002,10 @@
     at:deprecated "false" ;
     at:op-code "RDF_TRIX" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code ".xml" ;
+            at:legacy-code ".trix" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
-            at:legacy-code ".trix" ;
+            at:legacy-code ".xml" ;
             dc:source "file-extension" ] ;
     at:start.use "2004-05-13" ;
     atold:op-code "RDF_TRIX" ;
@@ -3021,22 +3021,22 @@
     at:op-code "RDF_TURTLE" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "true" ;
-            dc:source "is-textual-cellar" ],
+            dc:source "is-machine-readable" ],
         [ a at:MappedCode ;
             at:legacy-code "text/turtle" ;
             dc:source "mime-type-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code "true" ;
-            dc:source "is-machine-readable" ],
-        [ a at:MappedCode ;
-            at:legacy-code "true" ;
-            dc:source "is-nonPropExt" ],
+            at:legacy-code ".ttl" ;
+            dc:source "file-extension" ],
         [ a at:MappedCode ;
             at:legacy-code "119" ;
             dc:source "priority-weight-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code ".ttl" ;
-            dc:source "file-extension" ],
+            at:legacy-code "true" ;
+            dc:source "is-nonPropExt" ],
+        [ a at:MappedCode ;
+            at:legacy-code "true" ;
+            dc:source "is-textual-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "rdf_turtle" ;
             dc:source "manifestation-type-cellar" ] ;
@@ -3053,14 +3053,14 @@
     at:deprecated "false" ;
     at:op-code "RDF_XML" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "true" ;
-            dc:source "is-machine-readable" ],
+            at:legacy-code "RDF" ;
+            dc:source "eudor-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code ".rdf" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
-            at:legacy-code "rdf" ;
-            dc:source "manifestation-type-cellar" ],
+            at:legacy-code "true" ;
+            dc:source "is-machine-readable" ],
         [ a at:MappedCode ;
             at:legacy-code "true" ;
             dc:source "is-nonPropExt" ],
@@ -3068,8 +3068,8 @@
             at:legacy-code "120" ;
             dc:source "priority-weight-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code "RDF" ;
-            dc:source "eudor-type-cellar" ],
+            at:legacy-code "rdf" ;
+            dc:source "manifestation-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "true" ;
             dc:source "is-textual-cellar" ],
@@ -3116,17 +3116,17 @@
     at:deprecated "false" ;
     at:op-code "RSS" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "true" ;
+            dc:source "is-machine-readable" ],
+        [ a at:MappedCode ;
             at:legacy-code ".rss" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
             at:legacy-code "true" ;
-            dc:source "is-machine-readable" ],
+            dc:source "is-nonPropExt" ],
         [ a at:MappedCode ;
             at:legacy-code ".xml" ;
-            dc:source "file-extension" ],
-        [ a at:MappedCode ;
-            at:legacy-code "true" ;
-            dc:source "is-nonPropExt" ] ;
+            dc:source "file-extension" ] ;
     at:start.use "2013-11-27" ;
     atold:op-code "RSS" ;
     dc:identifier "RSS" ;
@@ -3140,26 +3140,26 @@
     at:deprecated "false" ;
     at:op-code "RTF" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "rtf" ;
-            dc:source "manifestation-type-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code "text/rtf" ;
-            dc:source "mime-type-cellar" ],
-        [ a at:MappedCode ;
             at:legacy-code "true" ;
-            dc:source "is-nonPropExt" ],
+            dc:source "is-textual-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "110" ;
             dc:source "priority-weight-cellar" ],
         [ a at:MappedCode ;
+            at:legacy-code "DOC" ;
+            dc:source "eudor-type-cellar" ],
+        [ a at:MappedCode ;
             at:legacy-code ".rtf" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
-            at:legacy-code "true" ;
-            dc:source "is-textual-cellar" ],
+            at:legacy-code "text/rtf" ;
+            dc:source "mime-type-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code "DOC" ;
-            dc:source "eudor-type-cellar" ] ;
+            at:legacy-code "rtf" ;
+            dc:source "manifestation-type-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code "true" ;
+            dc:source "is-nonPropExt" ] ;
     at:start.use "2012-09-01" ;
     atold:op-code "RTF" ;
     dc:identifier "RTF" ;
@@ -3224,17 +3224,14 @@
     at:deprecated "false" ;
     at:op-code "SGML" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "SGML" ;
-            dc:source "eudor-type-cellar" ],
+            at:legacy-code "true" ;
+            dc:source "is-textual-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "text/sgml" ;
             dc:source "mime-type-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code ".sgml" ;
+            at:legacy-code ".sgm" ;
             dc:source "file-extension" ],
-        [ a at:MappedCode ;
-            at:legacy-code "true" ;
-            dc:source "is-textual-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "sgml" ;
             dc:source "manifestation-type-cellar" ],
@@ -3242,8 +3239,11 @@
             at:legacy-code "100" ;
             dc:source "priority-weight-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code ".sgm" ;
-            dc:source "file-extension" ] ;
+            at:legacy-code ".sgml" ;
+            dc:source "file-extension" ],
+        [ a at:MappedCode ;
+            at:legacy-code "SGML" ;
+            dc:source "eudor-type-cellar" ] ;
     at:start.use "2012-09-01" ;
     atold:op-code "SGML" ;
     dc:identifier "SGML" ;
@@ -3257,10 +3257,10 @@
     at:deprecated "false" ;
     at:op-code "SHP" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code ".shp" ;
+            at:legacy-code ".dbf" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
-            at:legacy-code ".dbf" ;
+            at:legacy-code ".shp" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
             at:legacy-code "true" ;
@@ -3299,26 +3299,26 @@
     at:deprecated "false" ;
     at:op-code "SPARQLQ" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code ".sparqlq" ;
+            dc:source "file-extension" ],
+        [ a at:MappedCode ;
+            at:legacy-code "sparqlq" ;
+            dc:source "manifestation-type-cellar" ],
+        [ a at:MappedCode ;
             at:legacy-code ".rq" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
             at:legacy-code "SPARQLQ" ;
             dc:source "eudor-type-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code ".sparqlq" ;
-            dc:source "file-extension" ],
-        [ a at:MappedCode ;
             at:legacy-code "90" ;
             dc:source "priority-weight-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code "application/sparql-query" ;
-            dc:source "mime-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "true" ;
             dc:source "is-textual-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code "sparqlq" ;
-            dc:source "manifestation-type-cellar" ] ;
+            at:legacy-code "application/sparql-query" ;
+            dc:source "mime-type-cellar" ] ;
     at:start.use "2012-09-01" ;
     atold:op-code "SPARQLQ" ;
     dc:identifier "SPARQLQ" ;
@@ -3332,26 +3332,26 @@
     at:deprecated "false" ;
     at:op-code "SPARQLQRES" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "application/sparql-results+xml" ;
-            dc:source "mime-type-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code "80" ;
-            dc:source "priority-weight-cellar" ],
-        [ a at:MappedCode ;
             at:legacy-code "sparqlqr" ;
             dc:source "manifestation-type-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code "true" ;
-            dc:source "is-textual-cellar" ],
+            at:legacy-code ".srx" ;
+            dc:source "file-extension" ],
         [ a at:MappedCode ;
             at:legacy-code ".sparqlqr" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
+            at:legacy-code "application/sparql-results+xml" ;
+            dc:source "mime-type-cellar" ],
+        [ a at:MappedCode ;
             at:legacy-code "SPARQLQR" ;
             dc:source "eudor-type-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code ".srx" ;
-            dc:source "file-extension" ] ;
+            at:legacy-code "80" ;
+            dc:source "priority-weight-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code "true" ;
+            dc:source "is-textual-cellar" ] ;
     at:start.use "2012-09-01" ;
     atold:op-code "SPARQLQRES" ;
     dc:identifier "SPARQLQRES" ;
@@ -3459,11 +3459,11 @@
             at:legacy-code "application/x-tar" ;
             dc:source "mime-type-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code ".tar" ;
-            dc:source "file-extension" ],
-        [ a at:MappedCode ;
             at:legacy-code "true" ;
-            dc:source "is-nonPropExt" ] ;
+            dc:source "is-nonPropExt" ],
+        [ a at:MappedCode ;
+            at:legacy-code ".tar" ;
+            dc:source "file-extension" ] ;
     at:start.use "2012-09-01" ;
     atold:op-code "TAR" ;
     dc:identifier "TAR" ;
@@ -3507,32 +3507,32 @@
     at:deprecated "false" ;
     at:op-code "TIFF" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code ".tiff" ;
-            dc:source "file-extension" ],
-        [ a at:MappedCode ;
-            at:legacy-code "70" ;
-            dc:source "priority-weight-cellar" ],
+            at:legacy-code "TIFF" ;
+            dc:source "eudor-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "true" ;
             dc:source "is-nonPropExt" ],
         [ a at:MappedCode ;
-            at:legacy-code "false" ;
-            dc:source "is-textual-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code ".tif" ;
-            dc:source "file-extension" ],
+            at:legacy-code "image/tiff" ;
+            dc:source "mime-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "image/tiff-fx" ;
             dc:source "mime-type-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code "image/tiff" ;
-            dc:source "mime-type-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code "TIFF" ;
-            dc:source "eudor-type-cellar" ],
-        [ a at:MappedCode ;
             at:legacy-code "tiff" ;
-            dc:source "manifestation-type-cellar" ] ;
+            dc:source "manifestation-type-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code "false" ;
+            dc:source "is-textual-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code "70" ;
+            dc:source "priority-weight-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code ".tif" ;
+            dc:source "file-extension" ],
+        [ a at:MappedCode ;
+            at:legacy-code ".tiff" ;
+            dc:source "file-extension" ] ;
     at:start.use "2012-09-01" ;
     atold:op-code "TIFF" ;
     dc:identifier "TIFF" ;
@@ -3546,11 +3546,11 @@
     at:deprecated "false" ;
     at:op-code "TIFF_FX" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "image/tiff-fx" ;
-            dc:source "mime-type-cellar" ],
-        [ a at:MappedCode ;
             at:legacy-code ".tif" ;
             dc:source "file-extension" ],
+        [ a at:MappedCode ;
+            at:legacy-code "image/tiff-fx" ;
+            dc:source "mime-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code ".tiff" ;
             dc:source "file-extension" ] ;
@@ -3567,11 +3567,11 @@
     at:deprecated "false" ;
     at:op-code "TMX" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code ".xml" ;
-            dc:source "file-extension" ],
-        [ a at:MappedCode ;
             at:legacy-code "application/xml" ;
-            dc:source "mime-type-cellar" ] ;
+            dc:source "mime-type-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code ".xml" ;
+            dc:source "file-extension" ] ;
     at:start.use "1997-11-25" ;
     atold:op-code "TMX" ;
     dc:identifier "TMX" ;
@@ -3585,13 +3585,13 @@
     at:deprecated "false" ;
     at:op-code "TSV" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code ".tsv" ;
+            dc:source "file-extension" ],
+        [ a at:MappedCode ;
             at:legacy-code "true" ;
             dc:source "is-nonPropExt" ],
         [ a at:MappedCode ;
             at:legacy-code ".tab" ;
-            dc:source "file-extension" ],
-        [ a at:MappedCode ;
-            at:legacy-code ".tsv" ;
             dc:source "file-extension" ] ;
     at:start.use "2013-10-02" ;
     atold:op-code "TSV" ;
@@ -3607,25 +3607,25 @@
     at:op-code "TXT" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "true" ;
-            dc:source "is-nonPropExt" ],
+            dc:source "is-textual-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code ".txt" ;
-            dc:source "file-extension" ],
+            at:legacy-code "text/plain" ;
+            dc:source "mime-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "TXT" ;
             dc:source "eudor-type-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code "300" ;
-            dc:source "priority-weight-cellar" ],
+            at:legacy-code "true" ;
+            dc:source "is-nonPropExt" ],
         [ a at:MappedCode ;
             at:legacy-code "txt" ;
             dc:source "manifestation-type-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code "true" ;
-            dc:source "is-textual-cellar" ],
+            at:legacy-code "300" ;
+            dc:source "priority-weight-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code "text/plain" ;
-            dc:source "mime-type-cellar" ] ;
+            at:legacy-code ".txt" ;
+            dc:source "file-extension" ] ;
     at:start.use "2012-09-01" ;
     atold:op-code "TXT" ;
     dc:identifier "TXT" ;
@@ -3666,23 +3666,23 @@
     at:deprecated "false" ;
     at:op-code "WARC" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "application/warc" ;
-            dc:source "mime-type-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code ".warc" ;
-            dc:source "file-extension" ],
+            at:legacy-code "warc" ;
+            dc:source "manifestation-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "false" ;
             dc:source "is-textual-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code "WARC" ;
-            dc:source "eudor-type-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code "warc" ;
-            dc:source "manifestation-type-cellar" ],
-        [ a at:MappedCode ;
             at:legacy-code "25" ;
-            dc:source "priority-weight-cellar" ] ;
+            dc:source "priority-weight-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code ".warc" ;
+            dc:source "file-extension" ],
+        [ a at:MappedCode ;
+            at:legacy-code "application/warc" ;
+            dc:source "mime-type-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code "WARC" ;
+            dc:source "eudor-type-cellar" ] ;
     at:start.use "2009-05-15" ;
     atold:op-code "WARC" ;
     dc:identifier "WARC" ;
@@ -3711,10 +3711,10 @@
     at:deprecated "false" ;
     at:op-code "WAV" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code ".wav" ;
+            at:legacy-code ".wave" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
-            at:legacy-code ".wave" ;
+            at:legacy-code ".wav" ;
             dc:source "file-extension" ] ;
     at:start.use "1991-08-01" ;
     atold:op-code "WAV" ;
@@ -3800,32 +3800,32 @@
     at:deprecated "false" ;
     at:op-code "XHTML" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "HTML" ;
+            dc:source "eudor-type-cellar" ],
+        [ a at:MappedCode ;
             at:legacy-code ".xht" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
-            at:legacy-code ".xhtml" ;
+            at:legacy-code "application/xhtml+xml" ;
+            dc:source "mime-type-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code ".html" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
             at:legacy-code "xhtml" ;
             dc:source "manifestation-type-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code "360" ;
-            dc:source "priority-weight-cellar" ],
-        [ a at:MappedCode ;
             at:legacy-code ".htm" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
-            at:legacy-code ".html" ;
+            at:legacy-code ".xhtml" ;
             dc:source "file-extension" ],
-        [ a at:MappedCode ;
-            at:legacy-code "HTML" ;
-            dc:source "eudor-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "true" ;
             dc:source "is-textual-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code "application/xhtml+xml" ;
-            dc:source "mime-type-cellar" ] ;
+            at:legacy-code "360" ;
+            dc:source "priority-weight-cellar" ] ;
     at:start.use "2012-09-01" ;
     atold:op-code "XHTML" ;
     dc:identifier "XHTML" ;
@@ -3839,26 +3839,26 @@
     at:deprecated "false" ;
     at:op-code "XHTML5" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "true" ;
-            dc:source "is-textual-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code ".htm" ;
-            dc:source "file-extension" ],
-        [ a at:MappedCode ;
             at:legacy-code ".html" ;
-            dc:source "file-extension" ],
-        [ a at:MappedCode ;
-            at:legacy-code ".xht" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
             at:legacy-code "312" ;
             dc:source "priority-weight-cellar" ],
         [ a at:MappedCode ;
+            at:legacy-code ".xhtml" ;
+            dc:source "file-extension" ],
+        [ a at:MappedCode ;
+            at:legacy-code ".htm" ;
+            dc:source "file-extension" ],
+        [ a at:MappedCode ;
+            at:legacy-code ".xht" ;
+            dc:source "file-extension" ],
+        [ a at:MappedCode ;
             at:legacy-code "application/xhtml+xml;type=xhtml5" ;
             dc:source "mime-type-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code ".xhtml" ;
-            dc:source "file-extension" ],
+            at:legacy-code "true" ;
+            dc:source "is-textual-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "xhtml5" ;
             dc:source "manifestation-type-cellar" ] ;
@@ -3875,31 +3875,31 @@
     at:deprecated "false" ;
     at:op-code "XHTML_SIMPL" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code ".htm" ;
-            dc:source "file-extension" ],
+            at:legacy-code "xhtml_simplified" ;
+            dc:source "manifestation-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "application/xhtml+xml;type=simplified" ;
             dc:source "mime-type-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code ".html" ;
-            dc:source "file-extension" ],
-        [ a at:MappedCode ;
             at:legacy-code "true" ;
             dc:source "is-textual-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code "350" ;
-            dc:source "priority-weight-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code "xhtml_simplified" ;
-            dc:source "manifestation-type-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code "HTML" ;
-            dc:source "eudor-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code ".xhtml" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
+            at:legacy-code "350" ;
+            dc:source "priority-weight-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code ".htm" ;
+            dc:source "file-extension" ],
+        [ a at:MappedCode ;
+            at:legacy-code "HTML" ;
+            dc:source "eudor-type-cellar" ],
+        [ a at:MappedCode ;
             at:legacy-code ".xht" ;
+            dc:source "file-extension" ],
+        [ a at:MappedCode ;
+            at:legacy-code ".html" ;
             dc:source "file-extension" ] ;
     at:start.use "2012-09-01" ;
     atold:op-code "XHTML_SIMPL" ;
@@ -3929,8 +3929,17 @@
     at:deprecated "false" ;
     at:op-code "XLS" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "DOC" ;
-            dc:source "eudor-type-cellar" ],
+            at:legacy-code "60" ;
+            dc:source "priority-weight-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code "application/vnd.ms-excel" ;
+            dc:source "mime-type-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code "true" ;
+            dc:source "is-machine-readable" ],
+        [ a at:MappedCode ;
+            at:legacy-code ".xls" ;
+            dc:source "file-extension" ],
         [ a at:MappedCode ;
             at:legacy-code "false" ;
             dc:source "is-textual-cellar" ],
@@ -3938,17 +3947,8 @@
             at:legacy-code "xls" ;
             dc:source "manifestation-type-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code "application/vnd.ms-excel" ;
-            dc:source "mime-type-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code ".xls" ;
-            dc:source "file-extension" ],
-        [ a at:MappedCode ;
-            at:legacy-code "60" ;
-            dc:source "priority-weight-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code "true" ;
-            dc:source "is-machine-readable" ] ;
+            at:legacy-code "DOC" ;
+            dc:source "eudor-type-cellar" ] ;
     at:start.use "2012-09-01" ;
     atold:op-code "XLS" ;
     dc:identifier "XLS" ;
@@ -3992,26 +3992,26 @@
     at:deprecated "false" ;
     at:op-code "XLSX" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "false" ;
-            dc:source "is-textual-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code "xlsx" ;
-            dc:source "manifestation-type-cellar" ],
-        [ a at:MappedCode ;
             at:legacy-code "true" ;
             dc:source "is-machine-readable" ],
-        [ a at:MappedCode ;
-            at:legacy-code "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" ;
-            dc:source "mime-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "50" ;
             dc:source "priority-weight-cellar" ],
         [ a at:MappedCode ;
+            at:legacy-code "xlsx" ;
+            dc:source "manifestation-type-cellar" ],
+        [ a at:MappedCode ;
             at:legacy-code ".xlsx" ;
             dc:source "file-extension" ],
         [ a at:MappedCode ;
+            at:legacy-code "false" ;
+            dc:source "is-textual-cellar" ],
+        [ a at:MappedCode ;
             at:legacy-code "DOC" ;
-            dc:source "eudor-type-cellar" ] ;
+            dc:source "eudor-type-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" ;
+            dc:source "mime-type-cellar" ] ;
     at:start.use "2012-09-01" ;
     atold:op-code "XLSX" ;
     dc:identifier "XLSX" ;
@@ -4025,29 +4025,29 @@
     at:deprecated "false" ;
     at:op-code "XML" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "5" ;
-            dc:source "priority-weight-cellar" ],
+            at:legacy-code "application/xml" ;
+            dc:source "mime-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "XML" ;
             dc:source "eudor-type-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code "xml" ;
-            dc:source "manifestation-type-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code "true" ;
-            dc:source "is-textual-cellar" ],
-        [ a at:MappedCode ;
             at:legacy-code "true" ;
             dc:source "is-nonPropExt" ],
-        [ a at:MappedCode ;
-            at:legacy-code "application/xml" ;
-            dc:source "mime-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "true" ;
             dc:source "is-machine-readable" ],
         [ a at:MappedCode ;
+            at:legacy-code "xml" ;
+            dc:source "manifestation-type-cellar" ],
+        [ a at:MappedCode ;
             at:legacy-code ".xml" ;
-            dc:source "file-extension" ] ;
+            dc:source "file-extension" ],
+        [ a at:MappedCode ;
+            at:legacy-code "5" ;
+            dc:source "priority-weight-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code "true" ;
+            dc:source "is-textual-cellar" ] ;
     at:start.use "2012-09-01" ;
     atold:op-code "XML" ;
     dc:identifier "XML" ;
@@ -4076,23 +4076,23 @@
     at:deprecated "false" ;
     at:op-code "XSLT" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "xslt" ;
-            dc:source "manifestation-type-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code ".xsl" ;
-            dc:source "file-extension" ],
-        [ a at:MappedCode ;
             at:legacy-code "true" ;
             dc:source "is-textual-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "XSLT" ;
             dc:source "eudor-type-cellar" ],
         [ a at:MappedCode ;
-            at:legacy-code ".xslt" ;
-            dc:source "file-extension" ],
+            at:legacy-code "xslt" ;
+            dc:source "manifestation-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "40" ;
             dc:source "priority-weight-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code ".xslt" ;
+            dc:source "file-extension" ],
+        [ a at:MappedCode ;
+            at:legacy-code ".xsl" ;
+            dc:source "file-extension" ],
         [ a at:MappedCode ;
             at:legacy-code "application/xslt+xml" ;
             dc:source "mime-type-cellar" ] ;
@@ -4109,11 +4109,11 @@
     at:deprecated "false" ;
     at:op-code "XYZ" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "chemical/x-pdb" ;
-            dc:source "mime-type-cellar" ],
-        [ a at:MappedCode ;
             at:legacy-code ".xyz" ;
-            dc:source "file-extension" ] ;
+            dc:source "file-extension" ],
+        [ a at:MappedCode ;
+            at:legacy-code "chemical/x-pdb" ;
+            dc:source "mime-type-cellar" ] ;
     at:start.use "2010-10-10" ;
     atold:op-code "XYZ" ;
     dc:identifier "XYZ" ;
@@ -4174,11 +4174,17 @@
     at:deprecated "false" ;
     at:op-code "ZIP" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "zip" ;
-            dc:source "manifestation-type-cellar" ],
+            at:legacy-code "30" ;
+            dc:source "priority-weight-cellar" ],
+        [ a at:MappedCode ;
+            at:legacy-code "true" ;
+            dc:source "is-nonPropExt" ],
         [ a at:MappedCode ;
             at:legacy-code ".zip" ;
             dc:source "file-extension" ],
+        [ a at:MappedCode ;
+            at:legacy-code "zip" ;
+            dc:source "manifestation-type-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "ZIP" ;
             dc:source "eudor-type-cellar" ],
@@ -4187,13 +4193,7 @@
             dc:source "is-textual-cellar" ],
         [ a at:MappedCode ;
             at:legacy-code "application/zip" ;
-            dc:source "mime-type-cellar" ],
-        [ a at:MappedCode ;
-            at:legacy-code "true" ;
-            dc:source "is-nonPropExt" ],
-        [ a at:MappedCode ;
-            at:legacy-code "30" ;
-            dc:source "priority-weight-cellar" ] ;
+            dc:source "mime-type-cellar" ] ;
     at:start.use "2012-09-01" ;
     atold:op-code "ZIP" ;
     dc:identifier "ZIP" ;

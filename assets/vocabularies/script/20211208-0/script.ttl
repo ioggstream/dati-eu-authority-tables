@@ -49,11 +49,11 @@
     at:deprecated "false" ;
     at:op-code "ARABIC" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "160" ;
-            dc:source "iso-15924-num" ],
-        [ a at:MappedCode ;
             at:legacy-code "Arab" ;
-            dc:source "iso-15924-alpha-4" ] ;
+            dc:source "iso-15924-alpha-4" ],
+        [ a at:MappedCode ;
+            at:legacy-code "160" ;
+            dc:source "iso-15924-num" ] ;
     at:start.use "2012-07-05" ;
     atold:op-code "ARABIC" ;
     dc:identifier "ARABIC" ;
@@ -166,11 +166,11 @@
     at:deprecated "false" ;
     at:op-code "BRAILLE" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "Brai" ;
-            dc:source "iso-15924-alpha-4" ],
-        [ a at:MappedCode ;
             at:legacy-code "570" ;
-            dc:source "iso-15924-num" ] ;
+            dc:source "iso-15924-num" ],
+        [ a at:MappedCode ;
+            at:legacy-code "Brai" ;
+            dc:source "iso-15924-alpha-4" ] ;
     at:start.use "2012-07-05" ;
     atold:op-code "BRAILLE" ;
     dc:identifier "BRAILLE" ;
@@ -283,11 +283,11 @@
     at:deprecated "false" ;
     at:op-code "ETHIOPIC" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "Ethi" ;
-            dc:source "iso-15924-alpha-4" ],
-        [ a at:MappedCode ;
             at:legacy-code "430" ;
-            dc:source "iso-15924-num" ] ;
+            dc:source "iso-15924-num" ],
+        [ a at:MappedCode ;
+            at:legacy-code "Ethi" ;
+            dc:source "iso-15924-alpha-4" ] ;
     at:start.use "2012-07-05" ;
     atold:op-code "ETHIOPIC" ;
     dc:identifier "ETHIOPIC" ;
@@ -400,11 +400,11 @@
     at:deprecated "false" ;
     at:op-code "GUJARATI" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "Gujr" ;
-            dc:source "iso-15924-alpha-4" ],
-        [ a at:MappedCode ;
             at:legacy-code "320" ;
-            dc:source "iso-15924-num" ] ;
+            dc:source "iso-15924-num" ],
+        [ a at:MappedCode ;
+            at:legacy-code "Gujr" ;
+            dc:source "iso-15924-alpha-4" ] ;
     at:start.use "2012-07-05" ;
     atold:op-code "GUJARATI" ;
     dc:identifier "GUJARATI" ;
@@ -478,11 +478,11 @@
     at:deprecated "false" ;
     at:op-code "HAN" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "500" ;
-            dc:source "iso-15924-num" ],
-        [ a at:MappedCode ;
             at:legacy-code "Hani" ;
-            dc:source "iso-15924-alpha-4" ] ;
+            dc:source "iso-15924-alpha-4" ],
+        [ a at:MappedCode ;
+            at:legacy-code "500" ;
+            dc:source "iso-15924-num" ] ;
     at:start.use "2012-07-05" ;
     atold:op-code "HAN" ;
     dc:identifier "HAN" ;
@@ -673,11 +673,11 @@
     at:deprecated "false" ;
     at:op-code "KATAKANA" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "411" ;
-            dc:source "iso-15924-num" ],
-        [ a at:MappedCode ;
             at:legacy-code "Kana" ;
-            dc:source "iso-15924-alpha-4" ] ;
+            dc:source "iso-15924-alpha-4" ],
+        [ a at:MappedCode ;
+            at:legacy-code "411" ;
+            dc:source "iso-15924-num" ] ;
     at:start.use "2012-07-05" ;
     atold:op-code "KATAKANA" ;
     dc:identifier "KATAKANA" ;
@@ -751,11 +751,11 @@
     at:deprecated "false" ;
     at:op-code "LAO" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "Laoo" ;
-            dc:source "iso-15924-alpha-4" ],
-        [ a at:MappedCode ;
             at:legacy-code "356" ;
-            dc:source "iso-15924-num" ] ;
+            dc:source "iso-15924-num" ],
+        [ a at:MappedCode ;
+            at:legacy-code "Laoo" ;
+            dc:source "iso-15924-alpha-4" ] ;
     at:start.use "2012-07-05" ;
     atold:op-code "LAO" ;
     dc:identifier "LAO" ;
@@ -790,11 +790,11 @@
     at:deprecated "false" ;
     at:op-code "LATIN" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "215" ;
-            dc:source "iso-15924-num" ],
-        [ a at:MappedCode ;
             at:legacy-code "Latn" ;
-            dc:source "iso-15924-alpha-4" ] ;
+            dc:source "iso-15924-alpha-4" ],
+        [ a at:MappedCode ;
+            at:legacy-code "215" ;
+            dc:source "iso-15924-num" ] ;
     at:start.use "1952-07-23" ;
     atold:op-code "LATIN" ;
     dc:identifier "LATIN" ;
@@ -829,11 +829,11 @@
     at:deprecated "false" ;
     at:op-code "MALAYALAM" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "347" ;
-            dc:source "iso-15924-num" ],
-        [ a at:MappedCode ;
             at:legacy-code "Mlym" ;
-            dc:source "iso-15924-alpha-4" ] ;
+            dc:source "iso-15924-alpha-4" ],
+        [ a at:MappedCode ;
+            at:legacy-code "347" ;
+            dc:source "iso-15924-num" ] ;
     at:start.use "2012-07-05" ;
     atold:op-code "MALAYALAM" ;
     dc:identifier "MALAYALAM" ;
@@ -868,11 +868,11 @@
     at:deprecated "false" ;
     at:op-code "MONGOLIAN" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "145" ;
-            dc:source "iso-15924-num" ],
-        [ a at:MappedCode ;
             at:legacy-code "Mong" ;
-            dc:source "iso-15924-alpha-4" ] ;
+            dc:source "iso-15924-alpha-4" ],
+        [ a at:MappedCode ;
+            at:legacy-code "145" ;
+            dc:source "iso-15924-num" ] ;
     at:start.use "2012-07-05" ;
     atold:op-code "MONGOLIAN" ;
     dc:identifier "MONGOLIAN" ;
@@ -1054,11 +1054,11 @@
     at:deprecated "false" ;
     at:op-code "TAMIL" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "346" ;
-            dc:source "iso-15924-num" ],
-        [ a at:MappedCode ;
             at:legacy-code "Taml" ;
-            dc:source "iso-15924-alpha-4" ] ;
+            dc:source "iso-15924-alpha-4" ],
+        [ a at:MappedCode ;
+            at:legacy-code "346" ;
+            dc:source "iso-15924-num" ] ;
     at:start.use "2012-07-05" ;
     atold:op-code "TAMIL" ;
     dc:identifier "TAMIL" ;

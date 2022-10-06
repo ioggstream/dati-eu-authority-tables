@@ -124,14 +124,14 @@
     at:deprecated "false" ;
     at:op-code "ADG" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "BAT-LUX-ADG" ;
-            dc:source "COMREF" ],
+            at:legacy-code "ADG" ;
+            dc:source "EP" ],
         [ a at:MappedCode ;
             at:legacy-code "BAT-LUX-ADG" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
-            at:legacy-code "ADG" ;
-            dc:source "EP" ] ;
+            at:legacy-code "BAT-LUX-ADG" ;
+            dc:source "COMREF" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "ADG" ;
     dc:identifier "ADG" ;
@@ -242,10 +242,10 @@
     at:op-code "ANNAKATU18" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "AK18" ;
-            dc:source "WHOISWHO" ],
+            dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "AK18" ;
-            dc:source "COMREF" ] ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "ANNAKATU18" ;
     dc:identifier "ANNAKATU18" ;
@@ -305,10 +305,10 @@
     at:op-code "ARIA" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "ARIA" ;
-            dc:source "WHOISWHO" ],
+            dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "ARIA" ;
-            dc:source "COMREF" ] ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "2015-01-01" ;
     atold:op-code "ARIA" ;
     dc:identifier "ARIA" ;
@@ -342,13 +342,13 @@
     at:op-code "ASP" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "ASP" ;
-            dc:source "EP" ],
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "ASP" ;
             dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "ASP" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "EP" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "ASP" ;
     dc:identifier "ASP" ;
@@ -387,11 +387,11 @@
     at:deprecated "false" ;
     at:op-code "ATR" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "ATRI" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
             at:legacy-code "ATR" ;
             dc:source "EP" ],
+        [ a at:MappedCode ;
+            at:legacy-code "ATRI" ;
+            dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "ATRI" ;
             dc:source "WHOISWHO" ] ;
@@ -595,10 +595,10 @@
     at:op-code "B100" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "B100" ;
-            dc:source "COMREF" ],
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "B100" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "COMREF" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "B100" ;
     dc:identifier "B100" ;
@@ -776,14 +776,14 @@
     at:deprecated "false" ;
     at:op-code "BECH" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "BEC" ;
-            dc:source "EP" ],
-        [ a at:MappedCode ;
             at:legacy-code "BECH" ;
             dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "BECH" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "BEC" ;
+            dc:source "EP" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "BECH" ;
     dc:identifier "BECH" ;
@@ -797,10 +797,10 @@
     at:op-code "BEI" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "BEI" ;
-            dc:source "WHOISWHO" ],
+            dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "BEI" ;
-            dc:source "COMREF" ],
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "BEI" ;
             dc:source "EP" ] ;
@@ -909,10 +909,10 @@
     at:op-code "BOUR" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "BOUR" ;
-            dc:source "WHOISWHO" ],
+            dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "BOUR" ;
-            dc:source "COMREF" ] ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "BOUR" ;
     dc:identifier "BOUR" ;
@@ -940,14 +940,14 @@
     at:deprecated "false" ;
     at:op-code "BQL" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "BQL" ;
+            dc:source "EP" ],
+        [ a at:MappedCode ;
             at:legacy-code "BAT-BXL-BQL" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "BAT-BXL-BQL" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "BQL" ;
-            dc:source "EP" ] ;
+            dc:source "COMREF" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "BQL" ;
     dc:identifier "BQL" ;
@@ -1105,10 +1105,10 @@
     at:op-code "BU33" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "BU33" ;
-            dc:source "WHOISWHO" ],
+            dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "BU33" ;
-            dc:source "COMREF" ] ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "BU33" ;
     dc:identifier "BU33" ;
@@ -1121,10 +1121,10 @@
     at:op-code "BU5" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "BU-5" ;
-            dc:source "WHOISWHO" ],
+            dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "BU-5" ;
-            dc:source "COMREF" ] ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "BU5" ;
     dc:identifier "BU5" ;
@@ -1137,10 +1137,10 @@
     at:op-code "BU9" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "BU-9" ;
-            dc:source "WHOISWHO" ],
+            dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "BU-9" ;
-            dc:source "COMREF" ] ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "BU9" ;
     dc:identifier "BU9" ;
@@ -1153,10 +1153,10 @@
     at:op-code "BUILD_C" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "C" ;
-            dc:source "COMREF" ],
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "C" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "COMREF" ] ;
     at:start.use "1994-02-12" ;
     atold:op-code "BUILD_C" ;
     dc:identifier "BUILD_C" ;
@@ -1171,10 +1171,10 @@
     at:op-code "BUILD_T" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "T" ;
-            dc:source "WHOISWHO" ],
+            dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "T" ;
-            dc:source "COMREF" ] ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "1999-01-01" ;
     atold:op-code "BUILD_T" ;
     dc:identifier "BUILD_T" ;
@@ -1219,10 +1219,10 @@
     at:op-code "C107" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "C107" ;
-            dc:source "WHOISWHO" ],
+            dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "C107" ;
-            dc:source "COMREF" ] ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "C107" ;
     dc:identifier "C107" ;
@@ -1235,10 +1235,10 @@
     at:op-code "C115" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "C115" ;
-            dc:source "COMREF" ],
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "C115" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "COMREF" ] ;
     at:start.use "2011-10-14" ;
     atold:op-code "C115" ;
     dc:identifier "C115" ;
@@ -1251,10 +1251,10 @@
     at:op-code "C150" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "C150" ;
-            dc:source "COMREF" ],
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "C150" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "COMREF" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "C150" ;
     dc:identifier "C150" ;
@@ -1267,10 +1267,10 @@
     at:op-code "C158" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "C158" ;
-            dc:source "COMREF" ],
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "C158" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "COMREF" ] ;
     at:start.use "1986-01-01" ;
     atold:op-code "C158" ;
     dc:identifier "C158" ;
@@ -1431,14 +1431,14 @@
     at:deprecated "false" ;
     at:op-code "CHAR" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "CHA" ;
-            dc:source "EP" ],
-        [ a at:MappedCode ;
             at:legacy-code "CHAR" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "CHAR" ;
-            dc:source "COMREF" ] ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "CHA" ;
+            dc:source "EP" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "CHAR" ;
     dc:identifier "CHAR" ;
@@ -1503,10 +1503,10 @@
     at:op-code "CJ_TOA" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "TA" ;
-            dc:source "COMREF" ],
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "TA" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "COMREF" ] ;
     at:start.use "2008-07-15" ;
     atold:op-code "CJ_TOA" ;
     dc:identifier "CJ_TOA" ;
@@ -1521,10 +1521,10 @@
     at:op-code "CJ_TOB" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "TB" ;
-            dc:source "COMREF" ],
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "TB" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "COMREF" ] ;
     at:start.use "2008-11-01" ;
     atold:op-code "CJ_TOB" ;
     dc:identifier "CJ_TOB" ;
@@ -1621,10 +1621,10 @@
     at:op-code "COVE2" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "COV2" ;
-            dc:source "COMREF" ],
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "COV2" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "COMREF" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "COVE2" ;
     dc:identifier "COVE2" ;
@@ -1637,13 +1637,13 @@
     at:op-code "CPE1" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "CPE" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "CPE" ;
             dc:source "EP" ],
         [ a at:MappedCode ;
             at:legacy-code "CPE" ;
-            dc:source "COMREF" ] ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "CPE" ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "CPE1" ;
     dc:identifier "CPE1" ;
@@ -1673,10 +1673,10 @@
     at:op-code "CPE3" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "CPE3" ;
-            dc:source "WHOISWHO" ],
+            dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "CPE3" ;
-            dc:source "COMREF" ] ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "CPE3" ;
     dc:identifier "CPE3" ;
@@ -1690,10 +1690,10 @@
     at:op-code "CPE4" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "CPE4" ;
-            dc:source "WHOISWHO" ],
+            dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "CPE4" ;
-            dc:source "COMREF" ] ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "CPE4" ;
     dc:identifier "CPE4" ;
@@ -1706,10 +1706,10 @@
     at:op-code "CPE5" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "CPE5" ;
-            dc:source "COMREF" ],
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "CPE5" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "COMREF" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "CPE5" ;
     dc:identifier "CPE5" ;
@@ -1722,10 +1722,10 @@
     at:op-code "CSM1" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "CSM1" ;
-            dc:source "WHOISWHO" ],
+            dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "CSM1" ;
-            dc:source "COMREF" ] ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "CSM1" ;
     dc:identifier "CSM1" ;
@@ -1771,10 +1771,10 @@
     at:op-code "DAV1" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "DAV1" ;
-            dc:source "COMREF" ],
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "DAV1" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "COMREF" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "DAV1" ;
     dc:identifier "DAV1" ;
@@ -1797,10 +1797,10 @@
     at:op-code "DM24" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "DM24" ;
-            dc:source "COMREF" ],
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "DM24" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "COMREF" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "DM24" ;
     dc:identifier "DM24" ;
@@ -1813,10 +1813,10 @@
     at:op-code "DM28" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "DM28" ;
-            dc:source "WHOISWHO" ],
+            dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "DM28" ;
-            dc:source "COMREF" ] ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "DM28" ;
     dc:identifier "DM28" ;
@@ -1894,14 +1894,14 @@
     at:end.use "2016-09-30" ;
     at:op-code "EAS" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "CCBX" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
             at:legacy-code "EAS" ;
             dc:source "EP" ],
         [ a at:MappedCode ;
             at:legacy-code "CCBX" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "CCBX" ;
-            dc:source "COMREF" ] ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "EAS" ;
     dc:identifier "EAS" ;
@@ -1914,14 +1914,14 @@
     at:deprecated "false" ;
     at:op-code "EBRC" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "EBRC" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
             at:legacy-code "WIN" ;
             dc:source "EP" ],
         [ a at:MappedCode ;
             at:legacy-code "EBRC" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "EBRC" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "COMREF" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "EBRC" ;
     dc:identifier "EBRC" ;
@@ -1953,10 +1953,10 @@
     at:op-code "EE2" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "BAT-LUX-" ;
-            dc:source "COMREF" ],
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "BAT-LUX-" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "COMREF" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "EE2" ;
     dc:identifier "EE2" ;
@@ -1973,11 +1973,11 @@
             at:legacy-code "EEAS" ;
             dc:source "COMREF" ],
         [ a at:MappedCode ;
-            at:legacy-code "SAE" ;
-            dc:source "EP" ],
-        [ a at:MappedCode ;
             at:legacy-code "EEAS" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "SAE" ;
+            dc:source "EP" ] ;
     at:start.use "2011-10-14" ;
     atold:op-code "EEAS" ;
     dc:identifier "EEAS" ;
@@ -2049,10 +2049,10 @@
     at:op-code "ERA" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "ERA" ;
-            dc:source "COMREF" ],
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "ERA" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "COMREF" ] ;
     at:start.use "1988-10-05" ;
     atold:op-code "ERA" ;
     dc:identifier "ERA" ;
@@ -2137,11 +2137,11 @@
             at:legacy-code "MAEU" ;
             dc:source "COMREF" ],
         [ a at:MappedCode ;
-            at:legacy-code "LUX" ;
-            dc:source "EP" ],
-        [ a at:MappedCode ;
             at:legacy-code "MAEU" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "LUX" ;
+            dc:source "EP" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "EUROPE" ;
     dc:identifier "EUROPE" ;
@@ -2176,10 +2176,10 @@
     at:op-code "F101" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "F101" ;
-            dc:source "WHOISWHO" ],
+            dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "F101" ;
-            dc:source "COMREF" ] ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "F101" ;
     dc:identifier "F101" ;
@@ -2232,10 +2232,10 @@
     at:op-code "FISR" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "FISR" ;
-            dc:source "WHOISWHO" ],
+            dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "FISR" ;
-            dc:source "COMREF" ] ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "FISR" ;
     dc:identifier "FISR" ;
@@ -2274,10 +2274,10 @@
     at:op-code "G12" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "G-12" ;
-            dc:source "WHOISWHO" ],
+            dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "G-12" ;
-            dc:source "COMREF" ] ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "G12" ;
     dc:identifier "G12" ;
@@ -2359,10 +2359,10 @@
     at:op-code "GASP" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "GASP" ;
-            dc:source "COMREF" ],
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "GASP" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "COMREF" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "GASP" ;
     dc:identifier "GASP" ;
@@ -2393,10 +2393,10 @@
             dc:source "EP" ],
         [ a at:MappedCode ;
             at:legacy-code "GEOS" ;
-            dc:source "COMREF" ],
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "GEOS" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "COMREF" ] ;
     at:start.use "2004-02-01" ;
     atold:op-code "GEOS" ;
     dc:identifier "GEOS" ;
@@ -2512,10 +2512,10 @@
     at:op-code "GUIM" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "GUIM" ;
-            dc:source "COMREF" ],
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "GUIM" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "COMREF" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "GUIM" ;
     dc:identifier "GUIM" ;
@@ -2584,10 +2584,10 @@
     at:op-code "HEI" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "HEI" ;
-            dc:source "WHOISWHO" ],
+            dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "HEI" ;
-            dc:source "COMREF" ] ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "HEI" ;
     dc:identifier "HEI" ;
@@ -2626,10 +2626,10 @@
     at:op-code "HTWG" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "HTWG" ;
-            dc:source "WHOISWHO" ],
+            dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "HTWG" ;
-            dc:source "COMREF" ] ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "HTWG" ;
     dc:identifier "HTWG" ;
@@ -2652,10 +2652,10 @@
     at:op-code "INFOPARKE" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "INFK" ;
-            dc:source "WHOISWHO" ],
+            dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "INFK" ;
-            dc:source "COMREF" ] ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "INFOPARKE" ;
     dc:identifier "INFOPARKE" ;
@@ -2712,10 +2712,10 @@
     at:op-code "J30" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "J-30" ;
-            dc:source "WHOISWHO" ],
+            dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "J-30" ;
-            dc:source "COMREF" ] ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "J30" ;
     dc:identifier "J30" ;
@@ -2744,10 +2744,10 @@
     at:op-code "J59" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "J-59" ;
-            dc:source "COMREF" ],
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "J-59" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "COMREF" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "J59" ;
     dc:identifier "J59" ;
@@ -2760,10 +2760,10 @@
     at:op-code "J70" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "J-70" ;
-            dc:source "COMREF" ],
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "J-70" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "COMREF" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "J70" ;
     dc:identifier "J70" ;
@@ -2792,10 +2792,10 @@
     at:op-code "J99" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "J-99" ;
-            dc:source "COMREF" ],
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "J-99" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "COMREF" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "J99" ;
     dc:identifier "J99" ;
@@ -2817,14 +2817,14 @@
     at:deprecated "false" ;
     at:op-code "JAN" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "JAN" ;
-            dc:source "EP" ],
+            at:legacy-code "BAT-BXL-JAN" ;
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "BAT-BXL-JAN" ;
             dc:source "COMREF" ],
         [ a at:MappedCode ;
-            at:legacy-code "BAT-BXL-JAN" ;
-            dc:source "WHOISWHO" ] ;
+            at:legacy-code "JAN" ;
+            dc:source "EP" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "JAN" ;
     dc:identifier "JAN" ;
@@ -2870,13 +2870,13 @@
     at:op-code "JDE" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "JDE" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "JDE" ;
             dc:source "EP" ],
         [ a at:MappedCode ;
             at:legacy-code "JDE" ;
-            dc:source "COMREF" ] ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "JDE" ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "JDE" ;
     dc:identifier "JDE" ;
@@ -2890,10 +2890,10 @@
     at:op-code "JFK" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "BAT-LUX-JFK" ;
-            dc:source "COMREF" ],
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "BAT-LUX-JFK" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "COMREF" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "JFK" ;
     dc:identifier "JFK" ;
@@ -2906,10 +2906,10 @@
     at:op-code "JL" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "J--L" ;
-            dc:source "WHOISWHO" ],
+            dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "J--L" ;
-            dc:source "COMREF" ] ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "JL" ;
     dc:identifier "JL" ;
@@ -2923,13 +2923,13 @@
     at:op-code "JMO" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "JMO" ;
-            dc:source "COMREF" ],
+            dc:source "EP" ],
         [ a at:MappedCode ;
             at:legacy-code "JMO" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "JMO" ;
-            dc:source "EP" ] ;
+            dc:source "COMREF" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "JMO" ;
     dc:identifier "JMO" ;
@@ -2943,71 +2943,71 @@
     at:deprecated "false" ;
     at:op-code "JRCGEEL" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "210" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "020" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "050" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "222" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "020" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "040" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "010" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "222" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "110" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "210" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "050" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "200" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
             at:legacy-code "110" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "200" ;
             dc:source "COMREF" ],
         [ a at:MappedCode ;
-            at:legacy-code "060" ;
+            at:legacy-code "010" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "110" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "040" ;
             dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "190" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "222" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "200" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "020" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "222" ;
+            dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "130" ;
             dc:source "COMREF" ],
         [ a at:MappedCode ;
+            at:legacy-code "210" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "190" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
             at:legacy-code "060" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "060" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "210" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "040" ;
             dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "010" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
-            at:legacy-code "190" ;
-            dc:source "WHOISWHO" ],
+            at:legacy-code "050" ;
+            dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "130" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
-            at:legacy-code "040" ;
+            at:legacy-code "020" ;
             dc:source "COMREF" ],
         [ a at:MappedCode ;
-            at:legacy-code "190" ;
-            dc:source "COMREF" ] ;
+            at:legacy-code "050" ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "1960-05-01" ;
     atold:op-code "JRCGEEL" ;
     dc:identifier "JRCGEEL" ;
@@ -3019,203 +3019,53 @@
     at:deprecated "false" ;
     at:op-code "JRCISP" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "51" ;
+            at:legacy-code "59A" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
-            at:legacy-code "26" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "74" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "5L" ;
+            at:legacy-code "54B" ;
             dc:source "COMREF" ],
         [ a at:MappedCode ;
-            at:legacy-code "59K" ;
+            at:legacy-code "11O" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
-            at:legacy-code "28F" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "46" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "28F" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "18" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "48" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "59R" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "14" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "59J" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "4" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "40A" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "18" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "40" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "83A" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "6A" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "63" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "23" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "8" ;
+            at:legacy-code "6B" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "8G" ;
             dc:source "COMREF" ],
         [ a at:MappedCode ;
-            at:legacy-code "74" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "14A" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "84" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "73" ;
+            at:legacy-code "6" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
-            at:legacy-code "29B" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "68B" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "101" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "72" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "36" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "5A" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "50A" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "45" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "36B" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "26B" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "45M" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "8D" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "36" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "66" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "20H" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "26A" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "18P" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "62A" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "54B" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "45M" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "54B" ;
+            at:legacy-code "33B" ;
             dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "59K" ;
             dc:source "COMREF" ],
         [ a at:MappedCode ;
-            at:legacy-code "GRD" ;
+            at:legacy-code "36D" ;
             dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "29B" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "9D" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "16A" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "67" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "59U" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "6" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "66" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "59A" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "GRD" ;
-            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "58A" ;
             dc:source "COMREF" ],
         [ a at:MappedCode ;
-            at:legacy-code "59A" ;
+            at:legacy-code "17B" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
-            at:legacy-code "40" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "24D" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "36B" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "20H" ;
+            at:legacy-code "45" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
-            at:legacy-code "36D" ;
+            at:legacy-code "54B" ;
             dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "68B" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "69C" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "50A" ;
+            dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "59R" ;
             dc:source "WHOISWHO" ],
@@ -3223,269 +3073,419 @@
             at:legacy-code "55" ;
             dc:source "COMREF" ],
         [ a at:MappedCode ;
-            at:legacy-code "18P" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "6B" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "78B" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "1D" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "72" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "17B" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "1" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "84A" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "11O" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "59U" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "45" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "1" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "65" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "17" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "48" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "15F" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "6A" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "27" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "78B" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "63" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "44" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "23" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "26A" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "58A" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "59" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "68" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "42A" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "68" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "59J" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "40A" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "83A" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "59" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "8D" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "16A" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "6B" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "33B" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "42A" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "27" ;
+            at:legacy-code "5L" ;
             dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "26B" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "20A" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "72C" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "84A" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "24D" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "64" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "82" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "65" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "20A" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "9D" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "68B" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "33B" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "14D" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "4" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "72C" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "81" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "50A" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "26" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "73" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "36C" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "84" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "46" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "14D" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "17B" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "14" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "15F" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "51" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "36D" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "55" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "69C" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "101" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "82" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "11O" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "8G" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
-            at:legacy-code "36C" ;
+            at:legacy-code "68" ;
             dc:source "COMREF" ],
         [ a at:MappedCode ;
-            at:legacy-code "17" ;
+            at:legacy-code "82" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
-            at:legacy-code "5A" ;
+            at:legacy-code "42A" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "1D" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "9D" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "8" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "65" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "67" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "6A" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "11O" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "20H" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "8D" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "72C" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "36B" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "15F" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "83A" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "72C" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "26A" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "GRD" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "5L" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "51" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "27" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "40" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "20A" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "58A" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "66" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "51" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "83A" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "74" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "14" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "63" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "81" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "55" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "100" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "5A" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "6A" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "36C" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "8" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "14A" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "18" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "46" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "65" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "42A" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "28F" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "27" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "9D" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "1" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "74" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "64" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "63" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "14D" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "29B" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "48" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "20H" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "67" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "GRD" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "23" ;
             dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "44" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
-            at:legacy-code "1D" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "6" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "69C" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "62A" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "14A" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "5L" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "64" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "67" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "81" ;
+            at:legacy-code "68B" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "100" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
-            at:legacy-code "8" ;
-            dc:source "COMREF" ] ;
+            at:legacy-code "17B" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "26" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "36B" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "4" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "59U" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "5A" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "81" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "45" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "66" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "46" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "101" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "59J" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "16A" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "29B" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "68" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "36" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "44" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "45M" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "24D" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "40" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "50A" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "59U" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "59K" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "64" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "18P" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "18P" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "14" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "26" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "26B" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "84" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "59" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "78B" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "6" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "16A" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "40A" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "73" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "73" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "84A" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "78B" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "69C" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "18" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "17" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "59J" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "36D" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "62A" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "59" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "28F" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "72" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "33B" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "84" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "101" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "36" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "45M" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "8D" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "59R" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "23" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "17" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "24D" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "4" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "72" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "1D" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "15F" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "20A" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "1" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "84A" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "6B" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "14A" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "36C" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "48" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "40A" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "82" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "59A" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "14D" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "62A" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "26A" ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "1959-07-22" ;
     atold:op-code "JRCISP" ;
     dc:identifier "JRCISP" ;
@@ -3497,70 +3497,37 @@
     at:deprecated "false" ;
     at:op-code "JRCKARLS" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "KA-K" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "KA-L" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "KA-N" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "KA-B" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "KA-T" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "KA-A" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "KA-C" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "KA-M" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "KA-B" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "KA-E" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
             at:legacy-code "KA-H" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "K-A" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
-            at:legacy-code "K-A" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "KA-M" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "KA-K" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "KA-T" ;
-            dc:source "COMREF" ],
+            at:legacy-code "KA-A" ;
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "KA-D" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
-            at:legacy-code "KA-A" ;
+            at:legacy-code "KA-B" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
-            at:legacy-code "KA-C" ;
+            at:legacy-code "KA-H" ;
             dc:source "COMREF" ],
         [ a at:MappedCode ;
+            at:legacy-code "KA-K" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "KA-T" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "KA-M" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "KA-N" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
             at:legacy-code "KA-F" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "KA-G" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "KA-E" ;
             dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "KA-O" ;
@@ -3569,23 +3536,56 @@
             at:legacy-code "KA-G" ;
             dc:source "COMREF" ],
         [ a at:MappedCode ;
+            at:legacy-code "KA-B" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "KA-L" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "KA-F" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "KA-E" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "KA-C" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "KA-D" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
             at:legacy-code "KA-O" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
-            at:legacy-code "KA-H" ;
+            at:legacy-code "KA-C" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "KA-G" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "KA-A" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "KA-K" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "K-A" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "KA-T" ;
             dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "KA-L" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "KA-N" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "KA-D" ;
             dc:source "COMREF" ],
         [ a at:MappedCode ;
-            at:legacy-code "KA-F" ;
-            dc:source "COMREF" ] ;
+            at:legacy-code "KA-M" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "KA-E" ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "1965-04-01" ;
     atold:op-code "JRCKARLS" ;
     dc:identifier "JRCKARLS" ;
@@ -3597,52 +3597,79 @@
     at:deprecated "false" ;
     at:op-code "JRCPETT" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "P113" ;
+            at:legacy-code "P321" ;
             dc:source "COMREF" ],
         [ a at:MappedCode ;
-            at:legacy-code "P329" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "P340" ;
+            at:legacy-code "P324" ;
             dc:source "COMREF" ],
         [ a at:MappedCode ;
-            at:legacy-code "P322" ;
+            at:legacy-code "P300" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "P105" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "P311" ;
             dc:source "COMREF" ],
         [ a at:MappedCode ;
-            at:legacy-code "P106" ;
+            at:legacy-code "P328" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "P325" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "P310" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "P328" ;
             dc:source "COMREF" ],
         [ a at:MappedCode ;
-            at:legacy-code "P330" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "P101" ;
+            at:legacy-code "P103" ;
             dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "P150" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "P340" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "P303" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "P309" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "P102" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "P000" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "P000" ;
-            dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "P314" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
-            at:legacy-code "P312" ;
+            at:legacy-code "P106" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "P325" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "P101" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "P311" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "P309" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "P107" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "P308" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "P113" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "P322" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "P113" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "P327" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "P319" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "P321" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "P310" ;
             dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "P319" ;
@@ -3651,172 +3678,145 @@
             at:legacy-code "P332" ;
             dc:source "COMREF" ],
         [ a at:MappedCode ;
-            at:legacy-code "P319" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "P107" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "P105" ;
+            at:legacy-code "P303" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
-            at:legacy-code "P328" ;
+            at:legacy-code "P150" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "P320" ;
             dc:source "COMREF" ],
         [ a at:MappedCode ;
-            at:legacy-code "P313" ;
-            dc:source "COMREF" ],
+            at:legacy-code "P317" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "P101" ;
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "P300" ;
             dc:source "COMREF" ],
         [ a at:MappedCode ;
-            at:legacy-code "P310" ;
+            at:legacy-code "P340" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
-            at:legacy-code "P324" ;
+            at:legacy-code "P315" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
-            at:legacy-code "P310" ;
+            at:legacy-code "P308" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "P314" ;
             dc:source "COMREF" ],
         [ a at:MappedCode ;
-            at:legacy-code "P324" ;
-            dc:source "COMREF" ],
+            at:legacy-code "P323" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "P316" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "P104" ;
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "P105" ;
             dc:source "COMREF" ],
         [ a at:MappedCode ;
-            at:legacy-code "P328" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "P322" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "P308" ;
+            at:legacy-code "P329" ;
             dc:source "COMREF" ],
         [ a at:MappedCode ;
-            at:legacy-code "P106" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "P327" ;
+            at:legacy-code "P315" ;
             dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "P323" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "P323" ;
-            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "P303" ;
             dc:source "COMREF" ],
         [ a at:MappedCode ;
+            at:legacy-code "P116" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "P106" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "P324" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
             at:legacy-code "P318" ;
             dc:source "COMREF" ],
         [ a at:MappedCode ;
-            at:legacy-code "P321" ;
+            at:legacy-code "P318" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
-            at:legacy-code "P313" ;
+            at:legacy-code "P102" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "P320" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "P000" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "P317" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "P116" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "P312" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "P332" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "P330" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "P316" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "P102" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "P325" ;
             dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "P340" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "P000" ;
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "P104" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "P300" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "P107" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "P113" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "P320" ;
             dc:source "COMREF" ],
         [ a at:MappedCode ;
-            at:legacy-code "P116" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "P327" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "P321" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "P311" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "P312" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "P103" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "P101" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "P325" ;
+            at:legacy-code "P313" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "P309" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "P308" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
-            at:legacy-code "P315" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "P332" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "P329" ;
+            at:legacy-code "P313" ;
             dc:source "COMREF" ],
         [ a at:MappedCode ;
-            at:legacy-code "P316" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "P314" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "P317" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "P315" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "P103" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "P317" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "P311" ;
+            at:legacy-code "P330" ;
             dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "P150" ;
             dc:source "COMREF" ],
         [ a at:MappedCode ;
-            at:legacy-code "P104" ;
+            at:legacy-code "P102" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "P107" ;
             dc:source "COMREF" ],
         [ a at:MappedCode ;
-            at:legacy-code "P116" ;
+            at:legacy-code "P103" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "P329" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
-            at:legacy-code "P320" ;
+            at:legacy-code "P327" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
-            at:legacy-code "P318" ;
+            at:legacy-code "P323" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "P322" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "P312" ;
             dc:source "WHOISWHO" ] ;
     at:start.use "1962-11-16" ;
     atold:op-code "JRCPETT" ;
@@ -3830,10 +3830,10 @@
     at:op-code "JRCSEVI" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "EXPO" ;
-            dc:source "COMREF" ],
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "EXPO" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "COMREF" ] ;
     at:start.use "2002-01-01" ;
     atold:op-code "JRCSEVI" ;
     dc:identifier "JRCSEVI" ;
@@ -3871,13 +3871,13 @@
     at:op-code "K1K2K3" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "BAT-LUX-ECA-K1K2" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "BAT-LUX-ECA-K1K2" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "ALD" ;
-            dc:source "EP" ] ;
+            dc:source "EP" ],
+        [ a at:MappedCode ;
+            at:legacy-code "BAT-LUX-ECA-K1K2" ;
+            dc:source "COMREF" ] ;
     at:start.use "1985-01-01" ;
     atold:op-code "K1K2K3" ;
     dc:identifier "K1K2K3" ;
@@ -3968,10 +3968,10 @@
             dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "KAD" ;
-            dc:source "EP" ],
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "KAD" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "EP" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "KAD" ;
     dc:identifier "KAD" ;
@@ -4007,10 +4007,10 @@
     at:op-code "KAISERS29" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "ECB_2" ;
-            dc:source "COMREF" ],
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "ECB_2" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "COMREF" ] ;
     at:start.use "1997-11-10" ;
     atold:op-code "KAISERS29" ;
     dc:identifier "KAISERS29" ;
@@ -4083,10 +4083,10 @@
     at:op-code "KORT" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "KORT" ;
-            dc:source "COMREF" ],
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "KORT" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "COMREF" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "KORT" ;
     dc:identifier "KORT" ;
@@ -4135,10 +4135,10 @@
     at:op-code "L102" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "L102" ;
-            dc:source "COMREF" ],
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "L102" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "COMREF" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "L102" ;
     dc:identifier "L102" ;
@@ -4151,10 +4151,10 @@
     at:op-code "L130" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "L130" ;
-            dc:source "COMREF" ],
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "L130" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "COMREF" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "L130" ;
     dc:identifier "L130" ;
@@ -4167,10 +4167,10 @@
     at:op-code "L145" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "BAT-BXL-L-145" ;
-            dc:source "WHOISWHO" ],
+            dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "BAT-BXL-L-145" ;
-            dc:source "COMREF" ] ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "L145" ;
     dc:identifier "L145" ;
@@ -4183,10 +4183,10 @@
     at:op-code "L15" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "L-15" ;
-            dc:source "WHOISWHO" ],
+            dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "L-15" ;
-            dc:source "COMREF" ] ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "2013-06-21" ;
     atold:op-code "L15" ;
     dc:identifier "L15" ;
@@ -4215,10 +4215,10 @@
     at:op-code "L56" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "L-56" ;
-            dc:source "COMREF" ],
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "L-56" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "COMREF" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "L56" ;
     dc:identifier "L56" ;
@@ -4394,10 +4394,10 @@
             dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "LOW" ;
-            dc:source "WHOISWHO" ],
+            dc:source "EP" ],
         [ a at:MappedCode ;
             at:legacy-code "LOW" ;
-            dc:source "EP" ] ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "LOW" ;
     dc:identifier "LOW" ;
@@ -4427,10 +4427,10 @@
     at:op-code "LX40" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "LX40" ;
-            dc:source "COMREF" ],
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "LX40" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "COMREF" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "LX40" ;
     dc:identifier "LX40" ;
@@ -4443,10 +4443,10 @@
     at:op-code "LX46" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "LX46" ;
-            dc:source "WHOISWHO" ],
+            dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "LX46" ;
-            dc:source "COMREF" ] ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "LX46" ;
     dc:identifier "LX46" ;
@@ -4459,10 +4459,10 @@
     at:op-code "MADO" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "MADO" ;
-            dc:source "COMREF" ],
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "MADO" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "COMREF" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "MADO" ;
     dc:identifier "MADO" ;
@@ -4503,10 +4503,10 @@
     at:op-code "MARECHALFOCH3" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "ORGA" ;
-            dc:source "COMREF" ],
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "ORGA" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "COMREF" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "MARECHALFOCH3" ;
     dc:identifier "MARECHALFOCH3" ;
@@ -4539,10 +4539,10 @@
     at:op-code "MER" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "MER" ;
-            dc:source "COMREF" ],
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "MER" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "COMREF" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "MER" ;
     dc:identifier "MER" ;
@@ -4555,10 +4555,10 @@
     at:op-code "MERO" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "MERO" ;
-            dc:source "COMREF" ],
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "MERO" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "COMREF" ] ;
     at:start.use "2016-11-30" ;
     atold:op-code "MERO" ;
     dc:identifier "MERO" ;
@@ -4643,10 +4643,10 @@
     at:op-code "MON34" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "MO34" ;
-            dc:source "COMREF" ],
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "MO34" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "COMREF" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "MON34" ;
     dc:identifier "MON34" ;
@@ -4659,10 +4659,10 @@
     at:op-code "MON59" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "MO59" ;
-            dc:source "WHOISWHO" ],
+            dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "MO59" ;
-            dc:source "COMREF" ] ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "MON59" ;
     dc:identifier "MON59" ;
@@ -4676,13 +4676,13 @@
     at:op-code "MON63" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "MO63" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "MO63" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "MON" ;
-            dc:source "EP" ],
-        [ a at:MappedCode ;
-            at:legacy-code "MO63" ;
-            dc:source "COMREF" ] ;
+            dc:source "EP" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "MON63" ;
     dc:identifier "MON63" ;
@@ -4695,14 +4695,14 @@
     at:deprecated "false" ;
     at:op-code "MON70" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "M070" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
             at:legacy-code "MTY" ;
             dc:source "EP" ],
         [ a at:MappedCode ;
             at:legacy-code "M070" ;
-            dc:source "COMREF" ] ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "M070" ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "MON70" ;
     dc:identifier "MON70" ;
@@ -4736,10 +4736,10 @@
     at:op-code "MTCBLOCKA" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "MTCA" ;
-            dc:source "COMREF" ],
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "MTCA" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "COMREF" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "MTCBLOCKA" ;
     dc:identifier "MTCBLOCKA" ;
@@ -4954,10 +4954,10 @@
     at:op-code "ORBN" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "ORBN" ;
-            dc:source "COMREF" ],
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "ORBN" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "COMREF" ] ;
     at:start.use "1986-07-01" ;
     atold:op-code "ORBN" ;
     dc:identifier "ORBN" ;
@@ -5036,13 +5036,13 @@
     at:op-code "PE_TOA" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "BAT-LUX-TOAP" ;
-            dc:source "WHOISWHO" ],
+            dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "TOA" ;
             dc:source "EP" ],
         [ a at:MappedCode ;
             at:legacy-code "BAT-LUX-TOAP" ;
-            dc:source "COMREF" ] ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "PE_TOA" ;
     dc:identifier "PE_TOA" ;
@@ -5077,14 +5077,14 @@
     at:deprecated "false" ;
     at:op-code "PFL" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "BAT-STR-PFL" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
             at:legacy-code "PFL" ;
             dc:source "EP" ],
         [ a at:MappedCode ;
             at:legacy-code "BAT-STR-PFL" ;
-            dc:source "COMREF" ] ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "BAT-STR-PFL" ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "PFL" ;
     dc:identifier "PFL" ;
@@ -5100,11 +5100,11 @@
     at:deprecated "false" ;
     at:op-code "PHS" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "BAT-BXL-PHS" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
             at:legacy-code "PHS" ;
             dc:source "EP" ],
+        [ a at:MappedCode ;
+            at:legacy-code "BAT-BXL-PHS" ;
+            dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "BAT-BXL-PHS" ;
             dc:source "WHOISWHO" ] ;
@@ -5188,14 +5188,14 @@
     at:deprecated "false" ;
     at:op-code "PRE" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "PRE" ;
-            dc:source "EP" ],
+            at:legacy-code "BAT-LUX-PRE" ;
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "BAT-LUX-PRE" ;
             dc:source "COMREF" ],
         [ a at:MappedCode ;
-            at:legacy-code "BAT-LUX-PRE" ;
-            dc:source "WHOISWHO" ] ;
+            at:legacy-code "PRE" ;
+            dc:source "EP" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "PRE" ;
     dc:identifier "PRE" ;
@@ -5273,13 +5273,13 @@
     at:op-code "RAVALA4" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "RAV4" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "RAV4" ;
             dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "TAL" ;
-            dc:source "EP" ] ;
+            dc:source "EP" ],
+        [ a at:MappedCode ;
+            at:legacy-code "RAV4" ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "RAVALA4" ;
     dc:identifier "RAVALA4" ;
@@ -5351,10 +5351,10 @@
     at:op-code "REM" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "REM" ;
-            dc:source "COMREF" ],
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "REM" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "COMREF" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "REM" ;
     dc:identifier "REM" ;
@@ -5385,11 +5385,11 @@
             at:legacy-code "BAT-BXL-RMD" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
-            at:legacy-code "RMD" ;
-            dc:source "EP" ],
-        [ a at:MappedCode ;
             at:legacy-code "BAT-BXL-RMD" ;
-            dc:source "COMREF" ] ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "RMD" ;
+            dc:source "EP" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "RMD" ;
     dc:identifier "RMD" ;
@@ -5475,10 +5475,10 @@
     at:op-code "SC15" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "SC15" ;
-            dc:source "WHOISWHO" ],
+            dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "SC15" ;
-            dc:source "COMREF" ] ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "SC15" ;
     dc:identifier "SC15" ;
@@ -5507,10 +5507,10 @@
     at:op-code "SC29" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "SC29" ;
-            dc:source "WHOISWHO" ],
+            dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "SC29" ;
-            dc:source "COMREF" ] ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "SC29" ;
     dc:identifier "SC29" ;
@@ -5523,13 +5523,13 @@
     at:op-code "SCH" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "SCH" ;
-            dc:source "EP" ],
-        [ a at:MappedCode ;
-            at:legacy-code "SCH" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "SCH" ;
-            dc:source "COMREF" ] ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "SCH" ;
+            dc:source "EP" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "SCH" ;
     dc:identifier "SCH" ;
@@ -5553,13 +5553,13 @@
     at:op-code "SDM" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "SDM" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "SDM" ;
             dc:source "EP" ],
         [ a at:MappedCode ;
             at:legacy-code "SDM" ;
-            dc:source "WHOISWHO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "SDM" ;
-            dc:source "COMREF" ] ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "SDM" ;
     dc:identifier "SDM" ;
@@ -5574,11 +5574,11 @@
     at:deprecated "false" ;
     at:op-code "SDME" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "SQM" ;
-            dc:source "EP" ],
-        [ a at:MappedCode ;
             at:legacy-code "SDME" ;
             dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "SQM" ;
+            dc:source "EP" ],
         [ a at:MappedCode ;
             at:legacy-code "SDME" ;
             dc:source "COMREF" ] ;
@@ -5597,13 +5597,13 @@
     at:op-code "SEN" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "BAT-LUX-SEN" ;
+            dc:source "WHOISWHO" ],
+        [ a at:MappedCode ;
+            at:legacy-code "BAT-LUX-SEN" ;
             dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "SEN" ;
-            dc:source "EP" ],
-        [ a at:MappedCode ;
-            at:legacy-code "BAT-LUX-SEN" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "EP" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "SEN" ;
     dc:identifier "SEN" ;
@@ -5728,10 +5728,10 @@
     at:op-code "SPA2" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "SPA2" ;
-            dc:source "WHOISWHO" ],
+            dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "SPA2" ;
-            dc:source "COMREF" ] ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "SPA2" ;
     dc:identifier "SPA2" ;
@@ -5848,10 +5848,10 @@
     at:op-code "T2" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "T2" ;
-            dc:source "COMREF" ],
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "T2" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "COMREF" ] ;
     at:start.use "2016-05-01" ;
     atold:op-code "T2" ;
     dc:identifier "T2" ;
@@ -5875,10 +5875,10 @@
     at:op-code "TAUNUSTOR2" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "ECB_3" ;
-            dc:source "COMREF" ],
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "ECB_3" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "COMREF" ] ;
     at:start.use "1997-11-10" ;
     atold:op-code "TAUNUSTOR2" ;
     dc:identifier "TAUNUSTOR2" ;
@@ -5948,10 +5948,10 @@
     at:op-code "THM" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "TM" ;
-            dc:source "COMREF" ],
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "TM" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "COMREF" ] ;
     at:start.use "1993-02-12" ;
     atold:op-code "THM" ;
     dc:identifier "THM" ;
@@ -6010,10 +6010,10 @@
     at:op-code "TORRESDIAGONALB3" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "TDB3" ;
-            dc:source "WHOISWHO" ],
+            dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "TDB3" ;
-            dc:source "COMREF" ] ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "TORRESDIAGONALB3" ;
     dc:identifier "TORRESDIAGONALB3" ;
@@ -6211,10 +6211,10 @@
     at:op-code "VM18" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "VM18" ;
-            dc:source "COMREF" ],
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "VM18" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "COMREF" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "VM18" ;
     dc:identifier "VM18" ;
@@ -6227,10 +6227,10 @@
     at:op-code "VM2" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "VM-2" ;
-            dc:source "WHOISWHO" ],
+            dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "VM-2" ;
-            dc:source "COMREF" ] ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "VM2" ;
     dc:identifier "VM2" ;
@@ -6277,10 +6277,10 @@
     at:op-code "W910" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "W910" ;
-            dc:source "WHOISWHO" ],
+            dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "W910" ;
-            dc:source "COMREF" ] ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "W910" ;
     dc:identifier "W910" ;
@@ -6293,10 +6293,10 @@
     at:op-code "WALI" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "WALI" ;
-            dc:source "WHOISWHO" ],
+            dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "WALI" ;
-            dc:source "COMREF" ] ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "2006-06-21" ;
     atold:op-code "WALI" ;
     dc:identifier "WALI" ;
@@ -6318,14 +6318,14 @@
     at:deprecated "false" ;
     at:op-code "WAY" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "WAY" ;
+            dc:source "EP" ],
+        [ a at:MappedCode ;
             at:legacy-code "BAT-BXL-WAY" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "BAT-BXL-WAY" ;
-            dc:source "COMREF" ],
-        [ a at:MappedCode ;
-            at:legacy-code "WAY" ;
-            dc:source "EP" ] ;
+            dc:source "COMREF" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "WAY" ;
     dc:identifier "WAY" ;
@@ -6339,10 +6339,10 @@
     at:op-code "WETSTRAAT223" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "ECB_4" ;
-            dc:source "WHOISWHO" ],
+            dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "ECB_4" ;
-            dc:source "COMREF" ] ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "1997-11-10" ;
     atold:op-code "WETSTRAAT223" ;
     dc:identifier "WETSTRAAT223" ;
@@ -6366,13 +6366,13 @@
     at:op-code "WIB" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "BAT-BXL-WIB" ;
+            dc:source "COMREF" ],
+        [ a at:MappedCode ;
+            at:legacy-code "BAT-BXL-WIB" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "WIB" ;
-            dc:source "EP" ],
-        [ a at:MappedCode ;
-            at:legacy-code "BAT-BXL-WIB" ;
-            dc:source "COMREF" ] ;
+            dc:source "EP" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "WIB" ;
     dc:identifier "WIB" ;
@@ -6388,13 +6388,13 @@
     at:op-code "WIC" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "WIC" ;
-            dc:source "EP" ],
+            dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "WIC" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "WIC" ;
-            dc:source "COMREF" ] ;
+            dc:source "EP" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "WIC" ;
     dc:identifier "WIC" ;
@@ -6424,10 +6424,10 @@
     at:op-code "WIE" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "W-50" ;
-            dc:source "WHOISWHO" ],
+            dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "W-50" ;
-            dc:source "COMREF" ],
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "WIE" ;
             dc:source "EP" ] ;
@@ -6444,10 +6444,10 @@
     at:op-code "WILS" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "WILS" ;
-            dc:source "COMREF" ],
+            dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:legacy-code "WILS" ;
-            dc:source "WHOISWHO" ] ;
+            dc:source "COMREF" ] ;
     at:start.use "1958-01-01" ;
     atold:op-code "WILS" ;
     dc:identifier "WILS" ;
@@ -6476,10 +6476,10 @@
     at:op-code "WIND" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:legacy-code "WIND" ;
-            dc:source "WHOISWHO" ],
+            dc:source "COMREF" ],
         [ a at:MappedCode ;
             at:legacy-code "WIND" ;
-            dc:source "COMREF" ] ;
+            dc:source "WHOISWHO" ] ;
     at:start.use "2007-12-01" ;
     atold:op-code "WIND" ;
     dc:identifier "WIND" ;
