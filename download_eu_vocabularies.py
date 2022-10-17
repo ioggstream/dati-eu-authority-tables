@@ -167,7 +167,7 @@ def to_csv(url, src_file):
 
     df = pd.json_normalize(out, meta=[])
     df.drop(columns=["@type"], inplace=True)
-    df.to_csv(dest_csv, index=False, sep=";", header=True, quotechar='"')
+    df.to_csv(dest_csv, index=False, sep=",", header=True, quotechar='"')
     return url, src_file.with_suffix(".csv")
 
 
