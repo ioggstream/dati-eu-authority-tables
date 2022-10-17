@@ -1,4 +1,4 @@
-url;deprecated;valid_until;valid_from;id;label_en;label_it
-http://publications.europa.eu/resource/authority/eu-budget-status/CONT;false;;1958-01-01;CONT;Continuation;Prosecuzione
-http://publications.europa.eu/resource/authority/eu-budget-status/NEW;false;;1958-01-01;NEW;New;Nuovo
-http://publications.europa.eu/resource/authority/eu-budget-status/OP_DATPRO;false;;1952-07-23;OP_DATPRO;Provisional data;Dati provvisori
+url,deprecated,valid_until,valid_from,id,label_en,label_it
+http://publications.europa.eu/resource/authority/eu-budget-status/CONT,false,,1958-01-01,CONT,Continuation,Prosecuzione
+http://publications.europa.eu/resource/authority/eu-budget-status/NEW,false,,1958-01-01,NEW,New,Nuovo
+http://publications.europa.eu/resource/authority/eu-budget-status/OP_DATPRO,false,,1952-07-23,OP_DATPRO,Provisional data,Dati provvisori

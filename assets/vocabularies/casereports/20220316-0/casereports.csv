@@ -1,5 +1,5 @@
-url;deprecated;valid_until;valid_from;id;label_en;label_it
-http://publications.europa.eu/resource/authority/case-report/REPORT_CASE_1;false;;2015-01-01;REPORT_CASE_1;General Reports – Court of Justice;Raccolta generale – Corte di giustizia
-http://publications.europa.eu/resource/authority/case-report/REPORT_CASE_2;false;;2015-01-01;REPORT_CASE_2;General Reports – General Court;Raccolta generale – Tribunale
-http://publications.europa.eu/resource/authority/case-report/REPORT_CASE_STAFF;false;;2005-01-01;REPORT_CASE_STAFF;Reports of Staff Cases;Raccolta della funzione pubblica
-http://publications.europa.eu/resource/authority/casereports/OP_DATPRO;false;;1952-07-23;OP_DATPRO;Provisional data;Dati provvisori
+url,deprecated,valid_until,valid_from,id,label_en,label_it
+http://publications.europa.eu/resource/authority/case-report/REPORT_CASE_1,false,,2015-01-01,REPORT_CASE_1,General Reports – Court of Justice,Raccolta generale – Corte di giustizia
+http://publications.europa.eu/resource/authority/case-report/REPORT_CASE_2,false,,2015-01-01,REPORT_CASE_2,General Reports – General Court,Raccolta generale – Tribunale
+http://publications.europa.eu/resource/authority/case-report/REPORT_CASE_STAFF,false,,2005-01-01,REPORT_CASE_STAFF,Reports of Staff Cases,Raccolta della funzione pubblica
+http://publications.europa.eu/resource/authority/casereports/OP_DATPRO,false,,1952-07-23,OP_DATPRO,Provisional data,Dati provvisori

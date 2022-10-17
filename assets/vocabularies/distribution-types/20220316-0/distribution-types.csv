@@ -1,6 +1,6 @@
-url;deprecated;valid_until;valid_from;id;label_en;label_it
-http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE;false;;2013-01-01;DOWNLOADABLE_FILE;Downloadable file;File scaricabile
-http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO;false;;2013-01-01;FEED_INFO;Information feed;Feed di informazioni
-http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION;false;;2013-01-01;VISUALIZATION;Visualization;Visualizzazione
-http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE;false;;2013-01-01;WEB_SERVICE;Web service/API;Servizio web/API
-http://publications.europa.eu/resource/authority/distribution-types/OP_DATPRO;false;;1952-07-23;OP_DATPRO;Provisional data;Dati provvisori
+url,deprecated,valid_until,valid_from,id,label_en,label_it
+http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE,false,,2013-01-01,DOWNLOADABLE_FILE,Downloadable file,File scaricabile
+http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO,false,,2013-01-01,FEED_INFO,Information feed,Feed di informazioni
+http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION,false,,2013-01-01,VISUALIZATION,Visualization,Visualizzazione
+http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE,false,,2013-01-01,WEB_SERVICE,Web service/API,Servizio web/API
+http://publications.europa.eu/resource/authority/distribution-types/OP_DATPRO,false,,1952-07-23,OP_DATPRO,Provisional data,Dati provvisori

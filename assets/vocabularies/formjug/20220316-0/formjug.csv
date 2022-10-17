@@ -1,51 +1,51 @@
-url;deprecated;valid_until;valid_from;id;label_en;label_it
-http://publications.europa.eu/resource/authority/formjug/CHAMB_01_C;false;;1952-07-24;CHAMB_01_C;First Chamber;Prima Sezione
-http://publications.europa.eu/resource/authority/formjug/CHAMB_01_F;false;;2004-11-02;CHAMB_01_F;First Chamber;Prima Sezione
-http://publications.europa.eu/resource/authority/formjug/CHAMB_01_T;false;;1988-01-01;CHAMB_01_T;First Chamber;Prima Sezione
-http://publications.europa.eu/resource/authority/formjug/CHAMB_02_C;false;;1952-07-24;CHAMB_02_C;Second Chamber;Seconda Sezione
-http://publications.europa.eu/resource/authority/formjug/CHAMB_02_F;false;;2004-11-02;CHAMB_02_F;Second Chamber;Seconda Sezione
-http://publications.europa.eu/resource/authority/formjug/CHAMB_02_T;false;;1988-01-01;CHAMB_02_T;Second Chamber;Seconda Sezione
-http://publications.europa.eu/resource/authority/formjug/CHAMB_03_C;false;;1952-07-24;CHAMB_03_C;Third Chamber;Terza Sezione
-http://publications.europa.eu/resource/authority/formjug/CHAMB_03_F;false;;2004-11-02;CHAMB_03_F;Third Chamber;Terza Sezione
-http://publications.europa.eu/resource/authority/formjug/CHAMB_03_T;false;;1988-01-01;CHAMB_03_T;Third Chamber;Terza Sezione
-http://publications.europa.eu/resource/authority/formjug/CHAMB_04_C;false;;1952-07-24;CHAMB_04_C;Fourth Chamber;Quarta Sezione
-http://publications.europa.eu/resource/authority/formjug/CHAMB_04_T;false;;1988-01-01;CHAMB_04_T;Fourth Chamber;Quarta Sezione
-http://publications.europa.eu/resource/authority/formjug/CHAMB_05_C;false;;1952-07-24;CHAMB_05_C;Fifth Chamber;Quinta Sezione
-http://publications.europa.eu/resource/authority/formjug/CHAMB_05_T;false;;1988-01-01;CHAMB_05_T;Fifth Chamber;Quinta Sezione
-http://publications.europa.eu/resource/authority/formjug/CHAMB_06_C;false;;1952-07-24;CHAMB_06_C;Sixth Chamber;Sesta Sezione
-http://publications.europa.eu/resource/authority/formjug/CHAMB_06_T;false;;1988-01-01;CHAMB_06_T;Sixth Chamber;Sesta Sezione
-http://publications.europa.eu/resource/authority/formjug/CHAMB_07_C;false;;1952-07-24;CHAMB_07_C;Seventh Chamber;Settima Sezione
-http://publications.europa.eu/resource/authority/formjug/CHAMB_07_T;false;;1988-01-01;CHAMB_07_T;Seventh Chamber;Settima Sezione
-http://publications.europa.eu/resource/authority/formjug/CHAMB_08_C;false;;1952-07-24;CHAMB_08_C;Eighth Chamber;Ottava Sezione
-http://publications.europa.eu/resource/authority/formjug/CHAMB_08_T;false;;1988-01-01;CHAMB_08_T;Eighth Chamber;Ottava Sezione
-http://publications.europa.eu/resource/authority/formjug/CHAMB_09_C;false;;1952-07-24;CHAMB_09_C;Ninth Chamber;Nona Sezione
-http://publications.europa.eu/resource/authority/formjug/CHAMB_10_C;false;;1952-07-24;CHAMB_10_C;Tenth Chamber;Decima Sezione
-http://publications.europa.eu/resource/authority/formjug/CHAMB_APPEAL_T;false;;1988-01-01;CHAMB_APPEAL_T;Appeals Chamber;Sezione delle impugnazioni
-http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_01_T;false;;1988-01-01;CHAMB_EXTD_01_T;First Chamber, Extended Composition;Prima Sezione ampliata
-http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_02_T;false;;1988-01-01;CHAMB_EXTD_02_T;Second Chamber, Extended Composition;Seconda Sezione ampliata
-http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_03_T;false;;1988-01-01;CHAMB_EXTD_03_T;Third Chamber, Extended Composition;Terza Sezione ampliata
-http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_04_T;false;;1988-01-01;CHAMB_EXTD_04_T;Fourth Chamber, Extended Composition;Quarta Sezione ampliata
-http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_05_T;false;;1988-01-01;CHAMB_EXTD_05_T;Fifth Chamber, Extended Composition;Quinta Sezione ampliata
-http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_06_T;false;;1988-01-01;CHAMB_EXTD_06_T;Sixth Chamber, Extended Composition;Sesta Sezione ampliata
-http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_07_T;false;;1988-01-01;CHAMB_EXTD_07_T;Seventh Chamber, Extended Composition;Settima Sezione ampliata
-http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_08_T;false;;1988-01-01;CHAMB_EXTD_08_T;Eighth Chamber, Extended Composition;Ottava Sezione ampliata
-http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_09_T;false;;2013-09-16;CHAMB_EXTD_09_T;Ninth Chamber, Extended Composition;Nona Sezione ampliata
-http://publications.europa.eu/resource/authority/formjug/CHAMB_GD_C;false;;1952-07-24;CHAMB_GD_C;Grand Chamber;Grande Sezione
-http://publications.europa.eu/resource/authority/formjug/CHAMB_GD_T;false;;1988-01-01;CHAMB_GD_T;Grand Chamber;Grande Sezione
-http://publications.europa.eu/resource/authority/formjug/CHAMB_REVIEW_C;false;;1952-07-24;CHAMB_REVIEW_C;Special Chamber (review);Sezione speciale (riesame)
-http://publications.europa.eu/resource/authority/formjug/FULL_COURT_C;false;;1952-07-24;FULL_COURT_C;Full Court;Plenum
-http://publications.europa.eu/resource/authority/formjug/FULL_COURT_F;false;;2004-11-02;FULL_COURT_F;Full Court;Seduta plenaria
-http://publications.europa.eu/resource/authority/formjug/FULL_COURT_T;false;;1988-01-01;FULL_COURT_T;Full Court;Plenum
-http://publications.europa.eu/resource/authority/formjug/JUDGE_HEAR;false;;1952-07-24;JUDGE_HEAR;Judge hearing applications for interim measures;Giudice dei procedimenti sommari
-http://publications.europa.eu/resource/authority/formjug/JUDGE_SINGL;false;;1952-07-24;JUDGE_SINGL;Single Judge;Giudice unico
-http://publications.europa.eu/resource/authority/formjug/OP_DATPRO;false;;1952-07-23;OP_DATPRO;Provisional data;Dati provvisori
-http://publications.europa.eu/resource/authority/formjug/PLEN_SMALL_05_02_C;false;;1952-07-24;PLEN_SMALL_05_02_C;Small plenary V+II;Piccolo plenum V+II
-http://publications.europa.eu/resource/authority/formjug/PLEN_SMALL_05_04_C;false;;1952-07-24;PLEN_SMALL_05_04_C;Small plenary V+IV;Piccolo plenum V+IV
-http://publications.europa.eu/resource/authority/formjug/PLEN_SMALL_06_01_C;false;;1952-07-24;PLEN_SMALL_06_01_C;Small plenary VI+I;Piccolo plenum VI+I
-http://publications.europa.eu/resource/authority/formjug/PLEN_SMALL_06_03_C;false;;1952-07-24;PLEN_SMALL_06_03_C;Small plenary VI+III;Piccolo plenum VI+III
-http://publications.europa.eu/resource/authority/formjug/PLEN_SMALL_C;false;;1952-07-24;PLEN_SMALL_C;Small plenary;Piccolo plenum
-http://publications.europa.eu/resource/authority/formjug/PRESID_C;false;;1952-07-24;PRESID_C;President of the Chamber;Presidente di sezione
-http://publications.europa.eu/resource/authority/formjug/PRESID_F;false;;2004-11-02;PRESID_F;President of the Chamber;Presidente di sezione
-http://publications.europa.eu/resource/authority/formjug/PRESID_T;false;;1988-01-01;PRESID_T;President of the Chamber;Presidente di sezione
-http://publications.europa.eu/resource/authority/formjug/PRESID_VICE_C;false;;1952-07-24;PRESID_VICE_C;Vice-President;Vicepresidente
-http://publications.europa.eu/resource/authority/formjug/PRESID_VICE_T;false;;1988-01-01;PRESID_VICE_T;Vice-President;Vicepresidente
+url,deprecated,valid_until,valid_from,id,label_en,label_it
+http://publications.europa.eu/resource/authority/formjug/CHAMB_01_C,false,,1952-07-24,CHAMB_01_C,First Chamber,Prima Sezione
+http://publications.europa.eu/resource/authority/formjug/CHAMB_01_F,false,,2004-11-02,CHAMB_01_F,First Chamber,Prima Sezione
+http://publications.europa.eu/resource/authority/formjug/CHAMB_01_T,false,,1988-01-01,CHAMB_01_T,First Chamber,Prima Sezione
+http://publications.europa.eu/resource/authority/formjug/CHAMB_02_C,false,,1952-07-24,CHAMB_02_C,Second Chamber,Seconda Sezione
+http://publications.europa.eu/resource/authority/formjug/CHAMB_02_F,false,,2004-11-02,CHAMB_02_F,Second Chamber,Seconda Sezione
+http://publications.europa.eu/resource/authority/formjug/CHAMB_02_T,false,,1988-01-01,CHAMB_02_T,Second Chamber,Seconda Sezione
+http://publications.europa.eu/resource/authority/formjug/CHAMB_03_C,false,,1952-07-24,CHAMB_03_C,Third Chamber,Terza Sezione
+http://publications.europa.eu/resource/authority/formjug/CHAMB_03_F,false,,2004-11-02,CHAMB_03_F,Third Chamber,Terza Sezione
+http://publications.europa.eu/resource/authority/formjug/CHAMB_03_T,false,,1988-01-01,CHAMB_03_T,Third Chamber,Terza Sezione
+http://publications.europa.eu/resource/authority/formjug/CHAMB_04_C,false,,1952-07-24,CHAMB_04_C,Fourth Chamber,Quarta Sezione
+http://publications.europa.eu/resource/authority/formjug/CHAMB_04_T,false,,1988-01-01,CHAMB_04_T,Fourth Chamber,Quarta Sezione
+http://publications.europa.eu/resource/authority/formjug/CHAMB_05_C,false,,1952-07-24,CHAMB_05_C,Fifth Chamber,Quinta Sezione
+http://publications.europa.eu/resource/authority/formjug/CHAMB_05_T,false,,1988-01-01,CHAMB_05_T,Fifth Chamber,Quinta Sezione
+http://publications.europa.eu/resource/authority/formjug/CHAMB_06_C,false,,1952-07-24,CHAMB_06_C,Sixth Chamber,Sesta Sezione
+http://publications.europa.eu/resource/authority/formjug/CHAMB_06_T,false,,1988-01-01,CHAMB_06_T,Sixth Chamber,Sesta Sezione
+http://publications.europa.eu/resource/authority/formjug/CHAMB_07_C,false,,1952-07-24,CHAMB_07_C,Seventh Chamber,Settima Sezione
+http://publications.europa.eu/resource/authority/formjug/CHAMB_07_T,false,,1988-01-01,CHAMB_07_T,Seventh Chamber,Settima Sezione
+http://publications.europa.eu/resource/authority/formjug/CHAMB_08_C,false,,1952-07-24,CHAMB_08_C,Eighth Chamber,Ottava Sezione
+http://publications.europa.eu/resource/authority/formjug/CHAMB_08_T,false,,1988-01-01,CHAMB_08_T,Eighth Chamber,Ottava Sezione
+http://publications.europa.eu/resource/authority/formjug/CHAMB_09_C,false,,1952-07-24,CHAMB_09_C,Ninth Chamber,Nona Sezione
+http://publications.europa.eu/resource/authority/formjug/CHAMB_10_C,false,,1952-07-24,CHAMB_10_C,Tenth Chamber,Decima Sezione
+http://publications.europa.eu/resource/authority/formjug/CHAMB_APPEAL_T,false,,1988-01-01,CHAMB_APPEAL_T,Appeals Chamber,Sezione delle impugnazioni
+http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_01_T,false,,1988-01-01,CHAMB_EXTD_01_T,"First Chamber, Extended Composition",Prima Sezione ampliata
+http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_02_T,false,,1988-01-01,CHAMB_EXTD_02_T,"Second Chamber, Extended Composition",Seconda Sezione ampliata
+http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_03_T,false,,1988-01-01,CHAMB_EXTD_03_T,"Third Chamber, Extended Composition",Terza Sezione ampliata
+http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_04_T,false,,1988-01-01,CHAMB_EXTD_04_T,"Fourth Chamber, Extended Composition",Quarta Sezione ampliata
+http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_05_T,false,,1988-01-01,CHAMB_EXTD_05_T,"Fifth Chamber, Extended Composition",Quinta Sezione ampliata
+http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_06_T,false,,1988-01-01,CHAMB_EXTD_06_T,"Sixth Chamber, Extended Composition",Sesta Sezione ampliata
+http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_07_T,false,,1988-01-01,CHAMB_EXTD_07_T,"Seventh Chamber, Extended Composition",Settima Sezione ampliata
+http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_08_T,false,,1988-01-01,CHAMB_EXTD_08_T,"Eighth Chamber, Extended Composition",Ottava Sezione ampliata
+http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_09_T,false,,2013-09-16,CHAMB_EXTD_09_T,"Ninth Chamber, Extended Composition",Nona Sezione ampliata
+http://publications.europa.eu/resource/authority/formjug/CHAMB_GD_C,false,,1952-07-24,CHAMB_GD_C,Grand Chamber,Grande Sezione
+http://publications.europa.eu/resource/authority/formjug/CHAMB_GD_T,false,,1988-01-01,CHAMB_GD_T,Grand Chamber,Grande Sezione
+http://publications.europa.eu/resource/authority/formjug/CHAMB_REVIEW_C,false,,1952-07-24,CHAMB_REVIEW_C,Special Chamber (review),Sezione speciale (riesame)
+http://publications.europa.eu/resource/authority/formjug/FULL_COURT_C,false,,1952-07-24,FULL_COURT_C,Full Court,Plenum
+http://publications.europa.eu/resource/authority/formjug/FULL_COURT_F,false,,2004-11-02,FULL_COURT_F,Full Court,Seduta plenaria
+http://publications.europa.eu/resource/authority/formjug/FULL_COURT_T,false,,1988-01-01,FULL_COURT_T,Full Court,Plenum
+http://publications.europa.eu/resource/authority/formjug/JUDGE_HEAR,false,,1952-07-24,JUDGE_HEAR,Judge hearing applications for interim measures,Giudice dei procedimenti sommari
+http://publications.europa.eu/resource/authority/formjug/JUDGE_SINGL,false,,1952-07-24,JUDGE_SINGL,Single Judge,Giudice unico
+http://publications.europa.eu/resource/authority/formjug/OP_DATPRO,false,,1952-07-23,OP_DATPRO,Provisional data,Dati provvisori
+http://publications.europa.eu/resource/authority/formjug/PLEN_SMALL_05_02_C,false,,1952-07-24,PLEN_SMALL_05_02_C,Small plenary V+II,Piccolo plenum V+II
+http://publications.europa.eu/resource/authority/formjug/PLEN_SMALL_05_04_C,false,,1952-07-24,PLEN_SMALL_05_04_C,Small plenary V+IV,Piccolo plenum V+IV
+http://publications.europa.eu/resource/authority/formjug/PLEN_SMALL_06_01_C,false,,1952-07-24,PLEN_SMALL_06_01_C,Small plenary VI+I,Piccolo plenum VI+I
+http://publications.europa.eu/resource/authority/formjug/PLEN_SMALL_06_03_C,false,,1952-07-24,PLEN_SMALL_06_03_C,Small plenary VI+III,Piccolo plenum VI+III
+http://publications.europa.eu/resource/authority/formjug/PLEN_SMALL_C,false,,1952-07-24,PLEN_SMALL_C,Small plenary,Piccolo plenum
+http://publications.europa.eu/resource/authority/formjug/PRESID_C,false,,1952-07-24,PRESID_C,President of the Chamber,Presidente di sezione
+http://publications.europa.eu/resource/authority/formjug/PRESID_F,false,,2004-11-02,PRESID_F,President of the Chamber,Presidente di sezione
+http://publications.europa.eu/resource/authority/formjug/PRESID_T,false,,1988-01-01,PRESID_T,President of the Chamber,Presidente di sezione
+http://publications.europa.eu/resource/authority/formjug/PRESID_VICE_C,false,,1952-07-24,PRESID_VICE_C,Vice-President,Vicepresidente
+http://publications.europa.eu/resource/authority/formjug/PRESID_VICE_T,false,,1988-01-01,PRESID_VICE_T,Vice-President,Vicepresidente

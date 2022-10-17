@@ -2189,13 +2189,13 @@
     at:deprecated "false" ;
     at:op-code "LEAD_JOINT_PERS" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "FD_608" ;
-            at:legacy-code "1010;CORESP" ;
-            dc:source "ATTO.EurLex" ],
-        [ a at:MappedCode ;
             at:affected-table "role" ;
             at:legacy-code "RESP_JOINT_PERS" ;
-            dc:source "MDR" ] ;
+            dc:source "MDR" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_608" ;
+            at:legacy-code "1010;CORESP" ;
+            dc:source "ATTO.EurLex" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "LEAD_JOINT_PERS" ;
     dc:identifier "LEAD_JOINT_PERS" ;

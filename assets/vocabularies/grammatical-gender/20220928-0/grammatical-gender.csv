@@ -1,8 +1,8 @@
-url;deprecated;valid_until;valid_from;id;label_en;label_it
-http://publications.europa.eu/resource/authority/grammatical-gender/F;false;;1952-07-23;F;Feminine;Femminile
-http://publications.europa.eu/resource/authority/grammatical-gender/G;false;;2021-02-18;G;Generic;Generico
-http://publications.europa.eu/resource/authority/grammatical-gender/M;false;;1952-07-23;M;Masculine;Maschile
-http://publications.europa.eu/resource/authority/grammatical-gender/N;false;;1952-07-23;N;Neuter;Neutro
-http://publications.europa.eu/resource/authority/grammatical-gender/OP_DATPRO;false;;1952-07-23;OP_DATPRO;Provisional data;Dati provvisori
-http://publications.europa.eu/resource/authority/grammatical-gender/U;false;;1952-07-23;U;Utrum;Comune
-http://publications.europa.eu/resource/authority/grammatical-gender/Z;false;;2021-02-18;Z;No gender;Nessun genere
+url,deprecated,valid_until,valid_from,id,label_en,label_it
+http://publications.europa.eu/resource/authority/grammatical-gender/F,false,,1952-07-23,F,Feminine,Femminile
+http://publications.europa.eu/resource/authority/grammatical-gender/G,false,,2021-02-18,G,Generic,Generico
+http://publications.europa.eu/resource/authority/grammatical-gender/M,false,,1952-07-23,M,Masculine,Maschile
+http://publications.europa.eu/resource/authority/grammatical-gender/N,false,,1952-07-23,N,Neuter,Neutro
+http://publications.europa.eu/resource/authority/grammatical-gender/OP_DATPRO,false,,1952-07-23,OP_DATPRO,Provisional data,Dati provvisori
+http://publications.europa.eu/resource/authority/grammatical-gender/U,false,,1952-07-23,U,Utrum,Comune
+http://publications.europa.eu/resource/authority/grammatical-gender/Z,false,,2021-02-18,Z,No gender,Nessun genere

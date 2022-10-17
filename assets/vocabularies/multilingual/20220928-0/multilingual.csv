@@ -1,431 +1,431 @@
-url;deprecated;valid_until;valid_from;id;label_en;label_it
-http://publications.europa.eu/resource/authority/multilingual/010;false;;2014-04-06;010;English, Finnish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/020;false;;2014-04-07;020;Bulgarian, Czech, Danish, Dutch, English, Estonian, German, Greek, Finnish, French, Hungarian, Icelandic, Irish, Italian, Lithuanian, Maltese, Norwegian, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/030;false;;2015-01-28;030;Arabic, Bulgarian, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Irish, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/040;false;;2014-10-24;040;Arabic, English, French, Portuguese;
-http://publications.europa.eu/resource/authority/multilingual/050;false;;2015-06-03;050;Albanian, Bulgarian, Czech, Croatian, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Italian, Latvian, Lithuanian, Macedonian, Maltese, Polish, Portuguese, Romanian, Serbian, Slovak, Slovenian, Spanish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/060;false;;2015-10-21;060;Arabic, Bulgarian, Chinese, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Irish, Italian, Japanese, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Russian, Slovak, Slovenian, Spanish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/070;false;;2015-11-18;070;English, French, German, Romanian;
-http://publications.europa.eu/resource/authority/multilingual/080;false;;2015-12-02;080;Bulgarian, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Icelandic, Italian, Latvian, Lithuanian, Maltese, Norwegian, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/090;false;;2015-12-07;090;Arabic, English, Kurdish;
-http://publications.europa.eu/resource/authority/multilingual/100;false;;2011-09-27;100;English, Greek, Turkish;
-http://publications.europa.eu/resource/authority/multilingual/110;false;;2007-01-22;110;Bulgarian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/120;false;;2007-01-22;120;Bulgarian, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/130;false;;2007-02-03;130;Arabic, Chinese, English, French, German, Japanese, Portuguese, Russian, Spanish, Turkish;
-http://publications.europa.eu/resource/authority/multilingual/140;false;;2007-06-25;140;Bulgarian, Czech, Danish, Dutch, English, Esperanto, Estonian, Finnish, French, German, Greek, Hungarian, Icelandic, Irish, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romani, Romanian, Russian, Slovak, Slovenian, Spanish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/150;false;;2007-07-19;150;Bosnian, Croatian, Serbian;
-http://publications.europa.eu/resource/authority/multilingual/160;false;;2007-09-11;160;English, Sinhala, Tamil;
-http://publications.europa.eu/resource/authority/multilingual/170;false;;2008-06-10;170;English, French, German, Italian, Polish, Portuguese, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/180;false;;2007-06-13;180;Bulgarian, Czech, English, Estonian, French, German, Greek, Hungarian, Latvian, Lithuanian, Maltese, Polish, Romanian, Slovak, Slovenian;
-http://publications.europa.eu/resource/authority/multilingual/190;false;;2008-09-10;190;English, French, German, Italian, Portuguese, Russian, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/1A0;false;;1950-01-01;1A0;Danish, Dutch, English, French, German, Greek, Irish, Italian, Portuguese, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/1B0;false;;1950-01-01;1B0;Danish, Dutch, English, French, German, Greek, Italian, Latin, Portuguese, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/1C0;false;;1950-01-01;1C0;Catalan, Danish, Dutch, English, French, German, Greek, Italian, Portuguese, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/1D0;false;;1950-01-01;1D0;Danish, Dutch, English, French, German, Greek, Irish, Italian, Latin, Portuguese, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/1E0;false;;1950-01-01;1E0;Danish, Dutch, English, French, German, Greek, Italian, Portuguese, Spanish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/1F0;false;;1950-01-01;1F0;Danish, Dutch, English, Finnish, French, German, Greek, Italian, Portuguese, Spanish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/1G0;false;;1950-01-01;1G0;Danish, Dutch, English, Finnish, French, German, Italian, Portuguese, Spanish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/1H0;false;;1950-01-01;1H0;Danish, Dutch, English, Finnish, French, German, Greek, Italian, Latin, Portuguese, Spanish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/1J0;false;;1950-01-01;1J0;Danish, Dutch, English, Finnish, French, German, Greek, Irish, Italian, Portuguese, Spanish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/1K0;false;;1950-01-01;1K0;Danish, Dutch, English, Finnish, French, German, Greek, Irish, Italian, Luxembourgish, Portuguese, Spanish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/1L0;false;;1950-01-01;1L0;Dutch, English, Finnish, French, German, Greek, Italian, Portuguese, Spanish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/1M0;false;;1950-01-01;1M0;Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Slovak, Slovenian, Spanish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/1N0;false;;1950-01-01;1N0;Czech, English, Estonian, Hungarian, Latvian, Lithuanian, Maltese, Polish, Slovak, Slovenian;
-http://publications.europa.eu/resource/authority/multilingual/1P0;false;;1950-01-01;1P0;Czech, English, Estonian, French, German, Greek, Hungarian, Latvian, Lithuanian, Maltese, Polish, Slovak, Slovenian;
-http://publications.europa.eu/resource/authority/multilingual/1Q0;false;;1950-01-01;1Q0;Bulgarian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Icelandic, Italian, Latvian, Lithuanian, Norwegian, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish, Turkish;
-http://publications.europa.eu/resource/authority/multilingual/1R0;false;;1950-01-01;1R0;Bulgarian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Icelandic, Italian, Latvian, Lithuanian, Maltese, Norwegian, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish, Turkish;
-http://publications.europa.eu/resource/authority/multilingual/1S0;false;;1950-01-01;1S0;Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Italian, Latvian, Lithuanian, Polish, Portuguese, Slovak, Slovenian, Spanish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/1T0;false;;1950-01-01;1T0;Bulgarian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish, Turkish;
-http://publications.europa.eu/resource/authority/multilingual/1U0;false;;1950-01-01;1U0;Czech, English, Estonian, Greek, Hungarian, Latvian, Lithuanian, Maltese, Polish, Slovak, Slovenian;
-http://publications.europa.eu/resource/authority/multilingual/1V0;false;;1950-01-01;1V0;Danish, Dutch, English, Finnish, French, German, Greek, Hungarian, Italian, Latvian, Portuguese, Slovenian, Spanish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/1W0;false;;1950-01-01;1W0;Danish, Dutch, English, Finnish, French, German, Greek, Italian, Polish, Portuguese, Spanish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/1X0;false;;1950-01-01;1X0;Bulgarian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/1Y0;false;;2007-06-06;1Y0;Czech, Danish, Dutch, English, Esperanto, Estonian, Finnish, French, German, Greek, Hungarian, Icelandic, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romani, Russian, Slovak, Slovenian, Spanish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/1Z0;false;;1950-01-01;1Z0;Czech, English, French, German, Greek, Hungarian, Italian, Polish, Portuguese, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/200;false;;2009-01-12;200;Arabic, Chinese, English, French, German, Italian, Japanese, Portuguese, Russian, Spanish, Turkish;
-http://publications.europa.eu/resource/authority/multilingual/210;false;;2007-01-26;210;Chinese, Japanese;
-http://publications.europa.eu/resource/authority/multilingual/220;false;;2008-01-21;220;Bulgarian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Irish, Italian, Latvian, Lithuanian, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/230;false;;1950-01-01;230;Bulgarian, English;
-http://publications.europa.eu/resource/authority/multilingual/240;false;;1950-01-01;240;Czech, English;
-http://publications.europa.eu/resource/authority/multilingual/250;false;;1950-01-01;250;French, Latin;
-http://publications.europa.eu/resource/authority/multilingual/260;false;;1950-01-01;260;English, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/270;false;;1950-01-01;270;English, Finnish;
-http://publications.europa.eu/resource/authority/multilingual/280;false;;1950-01-01;280;Finnish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/290;false;;1950-01-01;290;English, Russian;
-http://publications.europa.eu/resource/authority/multilingual/2A0;false;;1950-01-01;2A0;English, French;
-http://publications.europa.eu/resource/authority/multilingual/2B0;false;;1950-01-01;2B0;French, German;
-http://publications.europa.eu/resource/authority/multilingual/2C0;false;;1950-01-01;2C0;English, German;
-http://publications.europa.eu/resource/authority/multilingual/2D0;false;;1950-01-01;2D0;French, Italian;
-http://publications.europa.eu/resource/authority/multilingual/2E0;false;;1950-01-01;2E0;Dutch, French;
-http://publications.europa.eu/resource/authority/multilingual/2F0;false;;1950-01-01;2F0;German, Italian;
-http://publications.europa.eu/resource/authority/multilingual/2G0;false;;1950-01-01;2G0;Danish, Dutch;
-http://publications.europa.eu/resource/authority/multilingual/2H0;false;;1950-01-01;2H0;Dutch, German;
-http://publications.europa.eu/resource/authority/multilingual/2I0;false;;1950-01-01;2I0;Danish, English;
-http://publications.europa.eu/resource/authority/multilingual/2J0;false;;1950-01-01;2J0;Danish, Italian;
-http://publications.europa.eu/resource/authority/multilingual/2K0;false;;1950-01-01;2K0;English, Italian;
-http://publications.europa.eu/resource/authority/multilingual/2L0;false;;1950-01-01;2L0;English, Irish;
-http://publications.europa.eu/resource/authority/multilingual/2M0;false;;1950-01-01;2M0;Dutch, English;
-http://publications.europa.eu/resource/authority/multilingual/2N0;false;;1950-01-01;2N0;Danish, French;
-http://publications.europa.eu/resource/authority/multilingual/2P0;false;;1950-01-01;2P0;German, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/2Q0;false;;1950-01-01;2Q0;French, Portuguese;
-http://publications.europa.eu/resource/authority/multilingual/2R0;false;;1950-01-01;2R0;Dutch, Italian;
-http://publications.europa.eu/resource/authority/multilingual/2S0;false;;1950-01-01;2S0;English, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/2T0;false;;1950-01-01;2T0;Italian, Portuguese;
-http://publications.europa.eu/resource/authority/multilingual/2U0;false;;1950-01-01;2U0;Danish, Greek;
-http://publications.europa.eu/resource/authority/multilingual/2V0;false;;1950-01-01;2V0;English, Portuguese;
-http://publications.europa.eu/resource/authority/multilingual/2W0;false;;1950-01-01;2W0;English, Greek;
-http://publications.europa.eu/resource/authority/multilingual/2X0;false;;1950-01-01;2X0;French, Greek;
-http://publications.europa.eu/resource/authority/multilingual/2Y0;false;;1950-01-01;2Y0;French, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/2Z0;false;;1950-01-01;2Z0;French, Russian;
-http://publications.europa.eu/resource/authority/multilingual/300;false;;2007-02-20;300;Estonian, Latvian, Lithuanian;
-http://publications.europa.eu/resource/authority/multilingual/310;false;;2007-10-30;310;German, Italian, Polish;
-http://publications.europa.eu/resource/authority/multilingual/320;false;;2007-10-30;320;Bulgarian, Maltese, Romanian;
-http://publications.europa.eu/resource/authority/multilingual/330;false;;2007-10-30;330;Czech, Hungarian, Portuguese;
-http://publications.europa.eu/resource/authority/multilingual/340;false;;2007-10-30;340;Dutch, Greek, Slovenian;
-http://publications.europa.eu/resource/authority/multilingual/350;false;;2009-03-17;350;English, Lithuanian, Polish;
-http://publications.europa.eu/resource/authority/multilingual/360;false;;2009-05-19;360;Arabic, English, French, German, Italian, Portuguese, Russian, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/370;false;;2009-08-21;370;Chinese, English, French, Portuguese, Russian, Spanish, Ukrainian;
-http://publications.europa.eu/resource/authority/multilingual/380;false;;2009-08-21;380;Arabic, Bulgarian, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Irish, Italian, Latvian, Lithuanian, Macedonian, Maltese, Polish, Portuguese, Romanian, Russian, Serbian, Slovak, Slovenian, Spanish, Swedish, Turkish;
-http://publications.europa.eu/resource/authority/multilingual/390;false;;2009-09-14;390;English, Montenegrin;
-http://publications.europa.eu/resource/authority/multilingual/3A0;false;;1950-01-01;3A0;English, French, German;
-http://publications.europa.eu/resource/authority/multilingual/3B0;false;;1950-01-01;3B0;English, German, Italian;
-http://publications.europa.eu/resource/authority/multilingual/3C0;false;;1950-01-01;3C0;Dutch, English, German;
-http://publications.europa.eu/resource/authority/multilingual/3D0;false;;1950-01-01;3D0;Dutch, English, French;
-http://publications.europa.eu/resource/authority/multilingual/3E0;false;;1950-01-01;3E0;Danish, German, Italian;
-http://publications.europa.eu/resource/authority/multilingual/3F0;false;;1950-01-01;3F0;Dutch, French, German;
-http://publications.europa.eu/resource/authority/multilingual/3G0;false;;1950-01-01;3G0;Danish, English, Italian;
-http://publications.europa.eu/resource/authority/multilingual/3H0;false;;1950-01-01;3H0;English, French, Italian;
-http://publications.europa.eu/resource/authority/multilingual/3I0;false;;1950-01-01;3I0;Danish, English, German;
-http://publications.europa.eu/resource/authority/multilingual/3J0;false;;1950-01-01;3J0;English, French, Greek;
-http://publications.europa.eu/resource/authority/multilingual/3K0;false;;1950-01-01;3K0;English, French, Portuguese;
-http://publications.europa.eu/resource/authority/multilingual/3L0;false;;1950-01-01;3L0;English, French, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/3M0;false;;1950-01-01;3M0;Italian, Portuguese, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/3N0;false;;1950-01-01;3N0;Danish, Dutch, Greek;
-http://publications.europa.eu/resource/authority/multilingual/3P0;false;;1950-01-01;3P0;Greek, Portuguese, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/3Q0;false;;1950-01-01;3Q0;English, German, Greek;
-http://publications.europa.eu/resource/authority/multilingual/3R0;false;;1950-01-01;3R0;French, Portuguese, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/3S0;false;;1950-01-01;3S0;Danish, Finnish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/3T0;false;;1950-01-01;3T0;English, Portuguese, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/3U0;false;;1950-01-01;3U0;Arabic, English, French;
-http://publications.europa.eu/resource/authority/multilingual/3V0;false;;1950-01-01;3V0;Danish, English, French;
-http://publications.europa.eu/resource/authority/multilingual/3W0;false;;1950-01-01;3W0;English, French, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/3X0;false;;1950-01-01;3X0;English, Finnish, French;
-http://publications.europa.eu/resource/authority/multilingual/3Y0;false;;1950-01-01;3Y0;French, German, Luxembourgish;
-http://publications.europa.eu/resource/authority/multilingual/3Z0;false;;2007-02-20;3Z0;German, Hungarian, Polish;
-http://publications.europa.eu/resource/authority/multilingual/400;false;;1950-01-01;400;Czech, English, Greek, Polish;
-http://publications.europa.eu/resource/authority/multilingual/410;false;;1950-01-01;410;English, Italian, Portuguese, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/420;false;;1950-01-01;420;English, French, Greek, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/430;false;;1950-01-01;430;Arabic, English, French, Russian;
-http://publications.europa.eu/resource/authority/multilingual/440;false;;2007-02-25;440;Dutch, English, French, Portuguese;
-http://publications.europa.eu/resource/authority/multilingual/450;false;;2007-02-25;450;Greek, Italian, Maltese, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/460;false;;2007-02-25;460;Bulgarian, English, Irish, Romanian;
-http://publications.europa.eu/resource/authority/multilingual/470;false;;2007-12-12;470;Bulgarian, French, Romanian, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/480;false;;2012-11-13;480;Czech, German, English, French, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/490;false;;2009-08-04;490;Bulgarian, English, French, German, Italian, Lithuanian, Polish, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/4A0;false;;1950-01-01;4A0;English, French, German, Italian;
-http://publications.europa.eu/resource/authority/multilingual/4B0;false;;1950-01-01;4B0;Dutch, English, French, German;
-http://publications.europa.eu/resource/authority/multilingual/4C0;false;;1950-01-01;4C0;Danish, English, French, German;
-http://publications.europa.eu/resource/authority/multilingual/4D0;false;;1950-01-01;4D0;English, French, German, Russian;
-http://publications.europa.eu/resource/authority/multilingual/4E0;false;;1950-01-01;4E0;Danish, Dutch, English, French;
-http://publications.europa.eu/resource/authority/multilingual/4F0;false;;1950-01-01;4F0;English, French, Italian, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/4G0;false;;1950-01-01;4G0;Dutch, French, German, Italian;
-http://publications.europa.eu/resource/authority/multilingual/4H0;false;;1950-01-01;4H0;English, French, German, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/4I0;false;;1950-01-01;4I0;German, Italian, Portuguese, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/4J0;false;;1950-01-01;4J0;English, French, Portuguese, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/4K0;false;;1950-01-01;4K0;English, French, German, Greek;
-http://publications.europa.eu/resource/authority/multilingual/4L0;false;;1950-01-01;4L0;Dutch, French, Italian, Portuguese;
-http://publications.europa.eu/resource/authority/multilingual/4M0;false;;1950-01-01;4M0;Dutch, English, French, Greek;
-http://publications.europa.eu/resource/authority/multilingual/4N0;true;2005-03-14;1950-01-01;4N0;Dutch, English, French, Greek;
-http://publications.europa.eu/resource/authority/multilingual/4P0;false;;1950-01-01;4P0;Danish, Finnish, German, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/4Q0;false;;1950-01-01;4Q0;Dutch, English, Greek, Italian;
-http://publications.europa.eu/resource/authority/multilingual/4R0;false;;1950-01-01;4R0;Danish, English, Finnish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/4S0;false;;1950-01-01;4S0;English, Finnish, German, Italian;
-http://publications.europa.eu/resource/authority/multilingual/4T0;false;;1950-01-01;4T0;Dutch, French, Greek, Italian;
-http://publications.europa.eu/resource/authority/multilingual/4U0;false;;1950-01-01;4U0;English, French, Greek, Italian;
-http://publications.europa.eu/resource/authority/multilingual/4V0;false;;1950-01-01;4V0;English, Finnish, French, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/4W0;false;;1950-01-01;4W0;Estonian, Latvian, Lithuanian, Polish;
-http://publications.europa.eu/resource/authority/multilingual/4X0;false;;1950-01-01;4X0;French, Italian, Portuguese, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/4Y0;false;;1950-01-01;4Y0;Dutch, English, Greek, Maltese;
-http://publications.europa.eu/resource/authority/multilingual/4Z0;false;;1950-01-01;4Z0;Czech, Hungarian, Slovak, Slovenian;
-http://publications.europa.eu/resource/authority/multilingual/500;false;;2009-09-16;500;English, Macedonian;
-http://publications.europa.eu/resource/authority/multilingual/510;false;;2009-09-16;510;English, Serbian;
-http://publications.europa.eu/resource/authority/multilingual/520;false;;2009-09-16;520;Bosnian, English;
-http://publications.europa.eu/resource/authority/multilingual/530;false;;2009-09-16;530;Albanian, English;
-http://publications.europa.eu/resource/authority/multilingual/540;false;;2009-10-06;540;Dutch, English, French, German, Italian, Polish, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/550;false;;2009-10-23;550;English, Kazakh, Russian;
-http://publications.europa.eu/resource/authority/multilingual/560;false;;2010-02-05;560;Arabic, English, French, German, Italian, Portuguese, Russian, Spanish, Turkish;
-http://publications.europa.eu/resource/authority/multilingual/570;false;;2010-07-28;570;Dutch, English, French, German, Italian, Portuguese, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/580;false;;2011-06-28;580;Bulgarian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Icelandic, Italian, Latvian, Lithuanian, Maltese, Norwegian, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/590;false;;2011-07-26;590;English, French, German, Hungarian, Polish, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/5A0;false;;1950-01-01;5A0;Dutch, English, French, German, Italian;
-http://publications.europa.eu/resource/authority/multilingual/5B0;false;;1950-01-01;5B0;Danish, English, French, German, Italian;
-http://publications.europa.eu/resource/authority/multilingual/5C0;false;;1950-01-01;5C0;Danish, Dutch, French, German, Italian;
-http://publications.europa.eu/resource/authority/multilingual/5D0;false;;1950-01-01;5D0;English, French, German, Italian, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/5E0;false;;1950-01-01;5E0;Dutch, Danish, English, French, Greek;
-http://publications.europa.eu/resource/authority/multilingual/5F0;false;;1950-01-01;5F0;Arabic, English, French, German, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/5G0;false;;1950-01-01;5G0;Danish, English, French, German, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/5H0;false;;1950-01-01;5H0;Danish, English, German, Greek, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/5I0;false;;1950-01-01;5I0;French, Greek, Italian, Portuguese, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/5J0;false;;1950-01-01;5J0;English, French, German, Portuguese, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/5K0;false;;1950-01-01;5K0;English, French, Italian, Portuguese, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/5L0;false;;1950-01-01;5L0;English, French, Italian, Polish, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/5M0;false;;1950-01-01;5M0;Czech, Greek, Hungarian, Polish, Portuguese;
-http://publications.europa.eu/resource/authority/multilingual/5N0;false;;2007-01-26;5N0;English, French, German, Russian, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/5P0;false;;1950-01-01;5P0;English, Kazakh, Russian;
-http://publications.europa.eu/resource/authority/multilingual/5Q0;false;;2011-12-15;5Q0;Bulgarian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Italian, Latvian, Lithuanian, Norwegian, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/5R0;false;;2012-05-24;5R0;Danish, Dutch, English, Estonian, Finnish, French, German, Italian, Polish, Portuguese, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/5S0;false;;2012-07-03;5S0;Bulgarian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Icelandic, Irish, Italian, Latvian, Lithuanian, Maltese, Norwegian, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Turkish;
-http://publications.europa.eu/resource/authority/multilingual/5T0;false;;2012-10-09;5T0;Bulgarian, Czech, Dutch, English, Estonian, Finnish, French, German, Italian, Polish, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/5U0;false;;2013-02-06;5U0;Dutch, English, French, German, Greek, Italian, Polish, Portuguese, Spanish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/5V0;false;;2013-11-11;5V0;Arabic, Chinese, English, French, German, Hindi, Italian, Japanese, Persian, Portuguese, Russian, Serbian, Spanish, Turkish, Vietnamese;
-http://publications.europa.eu/resource/authority/multilingual/5W0;false;;2013-11-20;5W0;Bulgarian, Croatian, Romanian, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/5X0;false;;2013-11-20;5X0;Dutch, English, French, Italian, Polish, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/5Y0;false;;2013-11-25;5Y0;Czech, Hungarian, Polish, Slovak, Slovenian;
-http://publications.europa.eu/resource/authority/multilingual/5Z0;false;;2013-11-25;5Z0;Danish, English, Finnish, Irish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/600;false;;2011-10-10;600;Bulgarian, English, Hungarian, Romanian;
-http://publications.europa.eu/resource/authority/multilingual/610;false;;2011-10-10;610;Czech, English, Polish, Slovak;
-http://publications.europa.eu/resource/authority/multilingual/620;false;;2011-10-10;620;English, Greek, Maltese, Slovenian;
-http://publications.europa.eu/resource/authority/multilingual/630;false;;2011-10-10;630;English, Estonian, Latvian, Lithuanian;
-http://publications.europa.eu/resource/authority/multilingual/640;false;;2011-10-28;640;Albanian, English, Serbian;
-http://publications.europa.eu/resource/authority/multilingual/650;false;;2012-10-12;650;English, French, German, Serbian;
-http://publications.europa.eu/resource/authority/multilingual/660;false;;2013-03-02;660;English, French, German, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/670;false;;2013-12-02;670;French, Italian, Maltese, Portuguese, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/680;false;;2014-04-07;680;English, Vietnamese;
-http://publications.europa.eu/resource/authority/multilingual/690;false;;2016-01-13;690;Bulgarian, Czech, Croatian, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Italian, Latvian, Lithuanian, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/6A0;false;;1950-01-01;6A0;Danish, Dutch, English, French, German, Italian;
-http://publications.europa.eu/resource/authority/multilingual/6B0;false;;1950-01-01;6B0;Dutch, English, French, German, Italian, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/6C0;false;;1950-01-01;6C0;Dutch, English, French, German, Italian, Portuguese;
-http://publications.europa.eu/resource/authority/multilingual/6D0;false;;1950-01-01;6D0;Danish, English, French, German, Greek, Italian;
-http://publications.europa.eu/resource/authority/multilingual/6E0;false;;1950-01-01;6E0;Danish, Dutch, Greek, Italian, Portuguese, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/6F0;false;;1950-01-01;6F0;English, French, German, Italian, Portuguese, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/6G0;false;;1950-01-01;6G0;Danish, Dutch, English, Finnish, German, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/6H0;false;;1950-01-01;6H0;Dutch, English, French, German, Portuguese, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/6I0;false;;1950-01-01;6I0;English, French, German, Greek, Portuguese, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/6J0;false;;1950-01-01;6J0;English, French, Greek, Italian, Portuguese, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/6K0;false;;1950-01-01;6K0;Czech, English, French, German, Hungarian, Polish;
-http://publications.europa.eu/resource/authority/multilingual/6L0;false;;1950-01-01;6L0;English, French, German, Italian, Polish, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/6M0;false;;1950-01-01;6M0;English, French, German, Greek, Italian, Portuguese;
-http://publications.europa.eu/resource/authority/multilingual/6N0;false;;2007-01-22;6N0;Chinese, English, French, German, Russian, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/6P0;false;;2007-02-16;6P0;English, French, German, Polish, Romanian, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/6Q0;false;;2016-02-19;6Q0;Catalan, English, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/6R0;false;;2016-04-08;6R0;Catalan, English;
-http://publications.europa.eu/resource/authority/multilingual/6S0;false;;2016-05-30;6S0;English, French, Slovak;
-http://publications.europa.eu/resource/authority/multilingual/6T0;false;;2016-06-09;6T0;Dutch, German, English, Estonian, Finnish, French, Italian, Latvian, Lithuanian, Portuguese, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/6U0;false;;2016-08-01;6U0;Arabic, English, Greek, Pashto, Persian, Urdu;
-http://publications.europa.eu/resource/authority/multilingual/6V0;false;;2016-08-10;6V0;Dutch, English, Estonian, Finnish, French, German, Greek, Italian, Latvian, Lithuanian, Portuguese, Slovak, Slovenian, Spanish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/6W0;false;;2016-11-17;6W0;Arabic, English, Tigrinya;
-http://publications.europa.eu/resource/authority/multilingual/6X0;false;;2017-01-09;6X0;Portuguese, Tetum;
-http://publications.europa.eu/resource/authority/multilingual/6Y0;false;;2017-03-24;6Y0;Czech, French;
-http://publications.europa.eu/resource/authority/multilingual/6Z0;false;;2017-06-08;6Z0;English, French, German, Italian, Polish;
-http://publications.europa.eu/resource/authority/multilingual/700;false;;2017-07-04;700;Czech, Dutch, English, Estonian, French, German, Greek, Latvian, Lithuanian, Polish, Slovenian, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/710;false;;2017-07-04;710;Czech, Dutch, English, Estonian, French, German, Greek, Latvian, Lithuanian, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/720;false;;2017-07-04;720;Dutch, English, French, German, Greek, Italian, Portuguese, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/730;false;;2017-07-04;730;Danish, English, German, Greek, Italian, Portuguese, Spanish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/740;false;;2017-07-04;740;Danish, English, French, German, Greek, Italian, Portuguese, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/750;false;;2017-07-04;750;Bulgarian, Dutch, English, Estonian, Lithuanian, Polish, Slovenian, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/760;false;;2017-07-04;760;Dutch, English, French, Greek, Italian, Portuguese, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/770;false;;2017-07-04;770;English, Estonian, Finnish, French, Greek, Lithuanian, Slovak;
-http://publications.europa.eu/resource/authority/multilingual/780;false;;2017-07-04;780;Dutch, English, French, German, Greek, Portuguese, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/790;false;;2017-07-04;790;Dutch, English, French, Italian, Portuguese, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/7A0;false;;1950-01-01;7A0;Danish, Dutch, English, French, German, Italian, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/7B0;false;;1950-01-01;7B0;Danish, Dutch, English, French, German, Italian, Portuguese;
-http://publications.europa.eu/resource/authority/multilingual/7C0;false;;1950-01-01;7C0;Danish, Dutch, English, French, German, Greek, Italian;
-http://publications.europa.eu/resource/authority/multilingual/7D0;false;;1950-01-01;7D0;Danish, Dutch, English, French, German, Italian, Latin;
-http://publications.europa.eu/resource/authority/multilingual/7E0;false;;1950-01-01;7E0;Danish, Dutch, German, Greek, Italian, Portuguese, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/7F0;false;;1950-01-01;7F0;English, French, German, Greek, Italian, Portuguese, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/7G0;false;;1950-01-01;7G0;Czech, English, French, German, Hungarian, Polish, Slovak;
-http://publications.europa.eu/resource/authority/multilingual/7H0;false;;1950-01-01;7H0;Czech, Dutch, Greek, Hungarian, Portuguese, Romanian, Slovak;
-http://publications.europa.eu/resource/authority/multilingual/7I0;false;;2008-12-03;7I0;Arabic, Croatian, English, Russian, Serbian, Turkish, Ukrainian;
-http://publications.europa.eu/resource/authority/multilingual/7J0;false;;2017-07-04;7J0;English, Finnish, French, Greek, Lithuanian, Slovak;
-http://publications.europa.eu/resource/authority/multilingual/7K0;false;;2017-07-04;7K0;Dutch, English, French, German, Greek, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/7L0;false;;2017-07-04;7L0;Dutch, English, French, German, Greek, Italian;
-http://publications.europa.eu/resource/authority/multilingual/7M0;false;;2017-07-04;7M0;Dutch, English, Finnish, German, Greek, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/7N0;false;;2017-07-04;7N0;Danish, English, Finnish, French, Spanish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/7P0;false;;2017-07-04;7P0;Czech, English, French, German, Slovak, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/7Q0;false;;2017-07-04;7Q0;English, French, Italian, Portuguese, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/7R0;false;;2017-07-04;7R0;Dutch, English, French, Italian, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/7S0;false;;2017-07-04;7S0;English, French, Hungarian, Slovak, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/7T0;false;;2017-07-04;7T0;English, Estonian, Finnish, Lithuanian, Slovak;
-http://publications.europa.eu/resource/authority/multilingual/7U0;false;;2017-07-04;7U0;Dutch, English, French, Greek, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/7V0;false;;2017-07-04;7V0;Dutch, English, French, Greek, Portuguese;
-http://publications.europa.eu/resource/authority/multilingual/7W0;false;;2017-07-04;7W0;English, French, Greek, Lithuanian, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/7X0;false;;2017-07-04;7X0;English, German, Italian, Lithuanian, Maltese;
-http://publications.europa.eu/resource/authority/multilingual/7Y0;false;;2017-07-04;7Y0;English, French, German, Spanish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/7Z0;false;;2017-07-04;7Z0;Dutch, English, French, German, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/800;false;;2017-07-04;800;English, Finnish, French, German, Italian;
-http://publications.europa.eu/resource/authority/multilingual/810;false;;2017-07-04;810;French, German, Greek, Italian, Portuguese;
-http://publications.europa.eu/resource/authority/multilingual/820;false;;2017-07-04;820;English, French, German, Greek, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/830;false;;2017-07-04;830;Danish, English, French, Italian, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/840;false;;2017-07-04;840;Danish, English, German, Greek, Latvian;
-http://publications.europa.eu/resource/authority/multilingual/850;false;;2017-07-04;850;Finnish, French, Italian, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/860;false;;2017-07-04;860;English, French, Portuguese, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/870;false;;2017-07-04;870;English, French, Polish, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/880;false;;2017-07-04;880;English, French, Polish, Portuguese;
-http://publications.europa.eu/resource/authority/multilingual/890;false;;2017-07-04;890;Dutch, English, French, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/8A0;false;;1950-01-01;8A0;Danish, Dutch, English, French, German, Greek, Italian, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/8B0;false;;1950-01-01;8B0;Danish, Dutch, French, German, Greek, Italian, Portuguese, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/8C0;false;;1950-01-01;8C0;Danish, Dutch, English, French, German, Italian, Portuguese, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/8D0;false;;1950-01-01;8D0;Czech, English, French, German, Hungarian, Italian, Polish, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/8E0;false;;2007-04-04;8E0;Czech, Dutch, English, French, German, Hungarian, Italian, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/8F0;false;;2011-04-01;8F0;Danish, Dutch, Greek, Finnish, Italian, Portuguese, Spanish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/8G0;false;;2017-07-04;8G0;English, French, Latvian, Polish;
-http://publications.europa.eu/resource/authority/multilingual/8H0;false;;2017-07-04;8H0;Dutch, English, French, Italian;
-http://publications.europa.eu/resource/authority/multilingual/8I0;false;;2017-07-04;8I0;Dutch, French, German, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/8J0;false;;2017-07-04;8J0;Dutch, French, German, Portuguese;
-http://publications.europa.eu/resource/authority/multilingual/8K0;false;;2017-07-04;8K0;English, German, Polish, Portuguese;
-http://publications.europa.eu/resource/authority/multilingual/8L0;false;;2017-07-04;8L0;Dutch, English, German, Italian;
-http://publications.europa.eu/resource/authority/multilingual/8M0;false;;2017-07-04;8M0;English, French, German, Polish;
-http://publications.europa.eu/resource/authority/multilingual/8N0;false;;2017-07-04;8N0;Danish, English, French, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/8P0;false;;2017-07-04;8P0;Danish, English, French, Portuguese;
-http://publications.europa.eu/resource/authority/multilingual/8Q0;false;;2017-07-04;8Q0;Danish, English, German, Slovenian;
-http://publications.europa.eu/resource/authority/multilingual/8R0;false;;2017-07-04;8R0;Czech, English, French, German;
-http://publications.europa.eu/resource/authority/multilingual/8S0;false;;2017-07-04;8S0;Dutch, French, Polish;
-http://publications.europa.eu/resource/authority/multilingual/8T0;false;;2017-07-04;8T0;French, Italian, Portuguese;
-http://publications.europa.eu/resource/authority/multilingual/8U0;false;;2017-07-04;8U0;French, Italian, Polish;
-http://publications.europa.eu/resource/authority/multilingual/8V0;false;;2017-07-04;8V0;Dutch, French, Italian;
-http://publications.europa.eu/resource/authority/multilingual/8W0;false;;2017-07-04;8W0;English, Polish, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/8X0;false;;2017-07-04;8X0;English, Polish, Portuguese;
-http://publications.europa.eu/resource/authority/multilingual/8Y0;false;;2017-07-04;8Y0;Dutch, English, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/8Z0;false;;2017-07-04;8Z0;Dutch, English, Portuguese;
-http://publications.europa.eu/resource/authority/multilingual/900;false;;2017-07-04;900;Dutch, English, Polish;
-http://publications.europa.eu/resource/authority/multilingual/910;false;;2017-07-04;910;English, Italian, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/920;false;;2017-07-04;920;English, French, Slovenian;
-http://publications.europa.eu/resource/authority/multilingual/930;false;;2017-07-04;930;English, French, Polish;
-http://publications.europa.eu/resource/authority/multilingual/940;false;;2017-07-04;940;English, French, Lithuanian;
-http://publications.europa.eu/resource/authority/multilingual/950;false;;2017-07-04;950;English, French, Hungarian;
-http://publications.europa.eu/resource/authority/multilingual/960;false;;2017-07-04;960;English, Estonian, French;
-http://publications.europa.eu/resource/authority/multilingual/970;false;;2017-07-04;970;French, Greek, Italian;
-http://publications.europa.eu/resource/authority/multilingual/980;false;;2017-07-04;980;English, Greek, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/990;false;;2017-07-04;990;Finnish, French, German;
-http://publications.europa.eu/resource/authority/multilingual/9A0;false;;1950-01-01;9A0;Danish, Dutch, English, French, German, Greek, Italian, Portuguese, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/9B0;false;;1950-01-01;9B0;Danish, Dutch, English, Finnish, French, Greek, Italian, Portuguese, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/9C0;false;;1950-01-01;9C0;Czech, Estonian, Hungarian, Latvian, Lithuanian, Maltese, Polish, Slovak, Slovenian;
-http://publications.europa.eu/resource/authority/multilingual/9D0;false;;1950-01-01;9D0;Danish, Estonian, Finnish, Irish, Latvian, Lithuanian, Maltese, Slovenian, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/9E0;false;;2011-04-09;9E0;Arabic, Bulgarian, Chinese, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Irish, Italian, Japanese, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Russian, Slovak, Slovenian, Spanish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/9F0;false;;2017-07-04;9F0;English, German, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/9G0;false;;2017-07-04;9G0;English, German, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/9H0;false;;2017-07-04;9H0;Czech, French, Slovak;
-http://publications.europa.eu/resource/authority/multilingual/9I0;false;;2017-07-04;9I0;Czech, English, French;
-http://publications.europa.eu/resource/authority/multilingual/9J0;false;;2017-07-04;9J0;Bulgarian, English, Romanian;
-http://publications.europa.eu/resource/authority/multilingual/9K0;false;;2017-07-04;9K0;Bulgarian, English, French;
-http://publications.europa.eu/resource/authority/multilingual/9L0;false;;2017-07-04;9L0;French, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/9M0;false;;2017-07-04;9M0;French, Slovenian;
-http://publications.europa.eu/resource/authority/multilingual/9N0;false;;2017-07-04;9N0;French, Slovak;
-http://publications.europa.eu/resource/authority/multilingual/9P0;false;;2017-07-04;9P0;French, Romanian;
-http://publications.europa.eu/resource/authority/multilingual/9Q0;false;;2017-07-04;9Q0;French, Polish;
-http://publications.europa.eu/resource/authority/multilingual/9R0;false;;2017-07-04;9R0;French, Maltese;
-http://publications.europa.eu/resource/authority/multilingual/9S0;false;;2017-07-04;9S0;French, Lithuanian;
-http://publications.europa.eu/resource/authority/multilingual/9T0;false;;2017-07-04;9T0;French, Latvian;
-http://publications.europa.eu/resource/authority/multilingual/9U0;false;;2017-07-04;9U0;French, Hungarian;
-http://publications.europa.eu/resource/authority/multilingual/9V0;false;;2017-07-04;9V0;Croatian, French;
-http://publications.europa.eu/resource/authority/multilingual/9W0;false;;2017-07-04;9W0;French, Irish;
-http://publications.europa.eu/resource/authority/multilingual/9X0;false;;2017-07-04;9X0;Finnish, French;
-http://publications.europa.eu/resource/authority/multilingual/9Y0;false;;2017-07-04;9Y0;Estonian, French;
-http://publications.europa.eu/resource/authority/multilingual/9Z0;false;;2017-07-04;9Z0;English, Northern Sami;
-http://publications.europa.eu/resource/authority/multilingual/A00;false;;2017-07-04;A00;English, Ewe;
-http://publications.europa.eu/resource/authority/multilingual/A10;false;;1950-01-01;A10;English, Mongolian;
-http://publications.europa.eu/resource/authority/multilingual/A20;false;;2006-11-30;A20;English, French;
-http://publications.europa.eu/resource/authority/multilingual/A30;false;;1950-01-01;A30;Portuguese, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/A40;false;;1950-01-01;A40;English, Japanese;
-http://publications.europa.eu/resource/authority/multilingual/A50;false;;1950-01-01;A50;Chinese, English;
-http://publications.europa.eu/resource/authority/multilingual/A60;false;;1950-01-01;A60;Azerbaijani, English;
-http://publications.europa.eu/resource/authority/multilingual/A70;false;;1950-01-01;A70;English, Ukrainian;
-http://publications.europa.eu/resource/authority/multilingual/A80;false;;1950-01-01;A80;Arabic, English;
-http://publications.europa.eu/resource/authority/multilingual/A90;false;;1950-01-01;A90;English, Hindi;
-http://publications.europa.eu/resource/authority/multilingual/B00;false;;2017-07-04;B00;English, Norwegian;
-http://publications.europa.eu/resource/authority/multilingual/B10;false;;1950-01-01;B10;English, Estonian;
-http://publications.europa.eu/resource/authority/multilingual/B20;false;;1950-01-01;B20;English, Hungarian;
-http://publications.europa.eu/resource/authority/multilingual/B30;false;;1950-01-01;B30;English, Latvian;
-http://publications.europa.eu/resource/authority/multilingual/B40;false;;1950-01-01;B40;English, Lithuanian;
-http://publications.europa.eu/resource/authority/multilingual/B50;false;;1950-01-01;B50;English, Maltese;
-http://publications.europa.eu/resource/authority/multilingual/B60;false;;1950-01-01;B60;English, Romanian;
-http://publications.europa.eu/resource/authority/multilingual/B70;false;;1950-01-01;B70;English, Slovenian;
-http://publications.europa.eu/resource/authority/multilingual/B80;false;;1950-01-01;B80;English, Polish;
-http://publications.europa.eu/resource/authority/multilingual/B90;false;;1950-01-01;B90;English, Slovak;
-http://publications.europa.eu/resource/authority/multilingual/C00;false;;2017-07-04;C00;German, Kirundi;
-http://publications.europa.eu/resource/authority/multilingual/C10;false;;1950-01-01;C10;English, Turkish;
-http://publications.europa.eu/resource/authority/multilingual/C20;false;;2007-10-02;C20;Arabic, Chinese;
-http://publications.europa.eu/resource/authority/multilingual/C30;false;;2007-11-13;C30;Catalan, Irish;
-http://publications.europa.eu/resource/authority/multilingual/C40;false;;2007-11-21;C40;Czech, Slovak;
-http://publications.europa.eu/resource/authority/multilingual/C50;false;;2007-11-21;C50;Latvian, Lithuanian;
-http://publications.europa.eu/resource/authority/multilingual/C60;false;;2007-11-21;C60;Italian, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/C70;false;;2007-11-21;C70;Dutch, Polish;
-http://publications.europa.eu/resource/authority/multilingual/C80;false;;2007-11-21;C80;Estonian, Finnish;
-http://publications.europa.eu/resource/authority/multilingual/C90;false;;2007-11-21;C90;Greek, Hungarian;
-http://publications.europa.eu/resource/authority/multilingual/D00;false;;2017-07-04;D00;Arabic, Bulgarian;
-http://publications.europa.eu/resource/authority/multilingual/D10;false;;2006-11-03;D10;Bulgarian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Scottish Gaelic, Slovak, Slovenian, Spanish, Swedish, Turkish, Welsh;
-http://publications.europa.eu/resource/authority/multilingual/D20;false;;2006-11-22;D20;Bulgarian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Irish, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/D30;false;;2008-11-27;D30;Bulgarian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Irish, Italian, Latvian, Lithuanian, Luxembourgish, Maltese, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/D40;false;;2008-12-08;D40;Dutch, English, Finnish, French, German, Greek, Italian, Portuguese, Slovak, Slovenian, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/D50;false;;2011-07-22;D50;Bulgarian, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Irish, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Spanish, Slovak, Slovenian, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/D60;false;;2017-08-08;D60;Bulgarian, French;
-http://publications.europa.eu/resource/authority/multilingual/D70;false;;2017-12-14;D70;Arabic, English, French, Pashto, Tigrinya, Urdu;
-http://publications.europa.eu/resource/authority/multilingual/D80;false;;2018-01-15;D80;English, German, Italian, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/D90;false;;2018-01-29;D90;English, Estonian, Finnish, German, Latvian, Lithuanian, Polish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/E00;false;;1957-03-25;E00;EU official languages: Bulgarian, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Irish, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish;Lingue ufficiali dell’UE: bulgaro, ceco, croato, danese, estone, finlandese, francese, greco, inglese, irlandese, italiano, lettone, lituano, maltese, neerlandese, polacco, portoghese, rumeno, slovacco, sloveno, spagnolo, svedese, tedesco, ungherese
-http://publications.europa.eu/resource/authority/multilingual/E10;false;;2007-11-21;E10;Danish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/E20;false;;2007-12-06;E20;Arabic, Chinese, English, French, Portuguese, Russian, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/E30;false;;2008-03-26;E30;Czech, English, French, German, Greek, Italian, Polish, Romanian, Slovenian, Spanish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/E40;false;;2008-04-10;E40;Bulgarian, Greek, Romanian;
-http://publications.europa.eu/resource/authority/multilingual/E50;false;;2008-07-28;E50;English, Romani;
-http://publications.europa.eu/resource/authority/multilingual/E60;false;;2010-11-08;E60;English, French, German, Italian, Portuguese, Russian, Spanish, Turkish;
-http://publications.europa.eu/resource/authority/multilingual/E70;false;;2013-07-03;E70;English, Finnish;
-http://publications.europa.eu/resource/authority/multilingual/E80;false;;2013-07-03;E80;Croatian, English;
-http://publications.europa.eu/resource/authority/multilingual/E90;false;;2018-02-08;E90;Croatian, English, Polish;
-http://publications.europa.eu/resource/authority/multilingual/F00;false;;2014-09-16;F00;Bulgarian, Hungarian, Romanian;
-http://publications.europa.eu/resource/authority/multilingual/F10;false;;2014-09-16;F10;Czech, English, Slovak;
-http://publications.europa.eu/resource/authority/multilingual/F20;false;;2014-09-16;F20;Danish, English, Estonian;
-http://publications.europa.eu/resource/authority/multilingual/F30;false;;2014-09-16;F30;English, Greek, Maltese;
-http://publications.europa.eu/resource/authority/multilingual/F40;false;;2018-03-08;F40;English, French, German, Italian, Portuguese, Romanian, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/F50;false;;2014-09-16;F50;English, Latvian, Russian;
-http://publications.europa.eu/resource/authority/multilingual/F60;false;;2014-09-16;F60;Lithuanian, Polish, Russian;
-http://publications.europa.eu/resource/authority/multilingual/F70;false;;2014-09-16;F70;Croatian, English, Slovenian;
-http://publications.europa.eu/resource/authority/multilingual/F80;false;;2018-03-20;F80;Albanian, Bosnian, Bulgarian, English, Estonian, French, German, Greek, Hungarian, Icelandic, Latvian, Lithuanian, Luxembourgish, Macedonian, Maltese, Montenegrin, Polish, Romanian, Serbian, Slovene, Spanish, Swedish, Turkish;
-http://publications.europa.eu/resource/authority/multilingual/F90;false;;2018-04-23;F90;Czech, Dutch, English, French, German, Italian, Polish, Portuguese, Spanish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/G00;false;;2019-05-08;G00;English, Finnish, French, Georgian, German, Greek, Hungarian, Italian, Lithuanian, Polish, Romanian, Ukrainian;
-http://publications.europa.eu/resource/authority/multilingual/G10;false;;2019-05-22;G10;English, German, Portuguese;
-http://publications.europa.eu/resource/authority/multilingual/G20;false;;2019-06-27;G20;English, German, Italian, Romanian, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/G30;false;;2019-06-27;G30;English, French, German, Hungarian, Italian, Romanian;
-http://publications.europa.eu/resource/authority/multilingual/G40;false;;2019-08-28;G40;English, Polish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/G50;false;;2019-09-06;G50;Albanian, Arabic, English, French, Kurdish, Pashto, Persian, Russian, Serbian, Spanish, Tigrinya, Urdu;
-http://publications.europa.eu/resource/authority/multilingual/G60;false;;2019-11-25;G60;English, Greek, Polish;
-http://publications.europa.eu/resource/authority/multilingual/G70;false;;2019-12-20;G70;English, French, German, Greek, Italian, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/G80;false;;2020-01-16;G80;English, German, Greek, Italian, Romanian, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/G90;false;;2020-02-27;G90;Dutch, English, Hungarian;
-http://publications.europa.eu/resource/authority/multilingual/H00;false;;2020-03-13;H00;Bulgarian, English, German;
-http://publications.europa.eu/resource/authority/multilingual/H10;false;;2020-04-24;H10;Albanian, Bosnian, Catalan, Croatian, Danish, English, Estonian, French, German, Greek, Macedonian, Montenegrin, Norwegian;
-http://publications.europa.eu/resource/authority/multilingual/H20;false;;2020-05-13;H20;Croatian, English, German;
-http://publications.europa.eu/resource/authority/multilingual/H30;false;;2020-06-22;H30;Dutch, English, German, Greek, Italian, Portuguese, Romanian, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/H40;false;;2020-09-15;H40;German, Polish;
-http://publications.europa.eu/resource/authority/multilingual/H50;false;;2021-05-28;H50;Albanian, Arabic, Armenian, Bulgarian, Czech, Dutch, English, French, Icelandic, Latvian, Maltese, Portuguese, Serbian, Slovenian, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/H60;false;;2022-02-11;H60;Dutch, English, German, Greek, Irish, Italian, Lithuanian, Romanian, Slovak, Spanish;
-http://publications.europa.eu/resource/authority/multilingual/H70;false;;2022-02-22;H70;Czech, Dutch, English, French, German, Polish;
-http://publications.europa.eu/resource/authority/multilingual/H80;false;;2022-02-23;H80;Bulgarian, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Icelandic, Irish, Italian, Latvian, Lithuanian, Maltese, Norwegian, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish;
-http://publications.europa.eu/resource/authority/multilingual/H90;false;;2022-03-16;H90;Dari, English;
-http://publications.europa.eu/resource/authority/multilingual/J00;false;;2022-03-21;J00;French, Ukrainian;
-http://publications.europa.eu/resource/authority/multilingual/J10;false;;2022-03-25;J10;German, Ukrainian;
-http://publications.europa.eu/resource/authority/multilingual/J20;false;;2022-03-25;J20;Polish, Ukrainian;
-http://publications.europa.eu/resource/authority/multilingual/J30;false;;2022-03-25;J30;Italian, Ukrainian;
-http://publications.europa.eu/resource/authority/multilingual/J40;false;;2022-03-25;J40;Dutch, Ukrainian;
-http://publications.europa.eu/resource/authority/multilingual/J50;false;;2022-03-25;J50;Hungarian, Ukrainian;
-http://publications.europa.eu/resource/authority/multilingual/J60;false;;2022-03-25;J60;Romanian, Ukrainian;
-http://publications.europa.eu/resource/authority/multilingual/J70;false;;2022-03-25;J70;Slovak, Ukrainian;
-http://publications.europa.eu/resource/authority/multilingual/J80;false;;2022-03-25;J80;Czech, Ukrainian;
-http://publications.europa.eu/resource/authority/multilingual/J90;false;;2022-03-25;J90;Estonian, Ukrainian;
-http://publications.europa.eu/resource/authority/multilingual/K00;false;;2022-03-25;K00;Bulgarian, Ukrainian;
-http://publications.europa.eu/resource/authority/multilingual/K10;false;;2022-03-30;K10;Arabic, French;
-http://publications.europa.eu/resource/authority/multilingual/K20;false;;2022-04-01;K20;Croatian, Ukrainian;
-http://publications.europa.eu/resource/authority/multilingual/K30;false;;2022-04-01;K30;Danish, Ukrainian;
-http://publications.europa.eu/resource/authority/multilingual/K40;false;;2022-04-01;K40;Finnish, Ukrainian;
-http://publications.europa.eu/resource/authority/multilingual/K50;false;;2022-04-01;K50;Greek, Ukrainian;
-http://publications.europa.eu/resource/authority/multilingual/K60;false;;2022-04-01;K60;Irish, Ukrainian;
-http://publications.europa.eu/resource/authority/multilingual/K70;false;;2022-04-01;K70;Latvian, Ukrainian;
-http://publications.europa.eu/resource/authority/multilingual/K80;false;;2022-04-01;K80;Lithuanian, Ukrainian;
-http://publications.europa.eu/resource/authority/multilingual/K90;false;;2022-04-01;K90;Maltese, Ukrainian;
-http://publications.europa.eu/resource/authority/multilingual/L00;false;;2022-04-01;L00;Portuguese, Ukrainian;
-http://publications.europa.eu/resource/authority/multilingual/L10;false;;2022-04-01;L10;Slovenian, Ukrainian;
-http://publications.europa.eu/resource/authority/multilingual/L20;false;;2022-04-01;L20;Spanish, Ukrainian;
-http://publications.europa.eu/resource/authority/multilingual/L30;false;;2022-04-01;L30;Swedish, Ukrainian;
-http://publications.europa.eu/resource/authority/multilingual/L40;false;;2022-05-04;L40;Bosnian, Dutch, English, French, Georgian, German, Greek, Irish, Italian, Lithuanian, Macedonian, Norwegian, Romanian, Slovak, Spanish, Ukrainian;
-http://publications.europa.eu/resource/authority/multilingual/L50;false;;2022-08-11;L50;Catalan, Ukrainian;
-http://publications.europa.eu/resource/authority/multilingual/OP_DATPRO;false;;1952-07-23;OP_DATPRO;Provisional data;Dati provvisori
+url,deprecated,valid_until,valid_from,id,label_en,label_it
+http://publications.europa.eu/resource/authority/multilingual/010,false,,2014-04-06,010,"English, Finnish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/020,false,,2014-04-07,020,"Bulgarian, Czech, Danish, Dutch, English, Estonian, German, Greek, Finnish, French, Hungarian, Icelandic, Irish, Italian, Lithuanian, Maltese, Norwegian, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/030,false,,2015-01-28,030,"Arabic, Bulgarian, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Irish, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/040,false,,2014-10-24,040,"Arabic, English, French, Portuguese",
+http://publications.europa.eu/resource/authority/multilingual/050,false,,2015-06-03,050,"Albanian, Bulgarian, Czech, Croatian, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Italian, Latvian, Lithuanian, Macedonian, Maltese, Polish, Portuguese, Romanian, Serbian, Slovak, Slovenian, Spanish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/060,false,,2015-10-21,060,"Arabic, Bulgarian, Chinese, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Irish, Italian, Japanese, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Russian, Slovak, Slovenian, Spanish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/070,false,,2015-11-18,070,"English, French, German, Romanian",
+http://publications.europa.eu/resource/authority/multilingual/080,false,,2015-12-02,080,"Bulgarian, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Icelandic, Italian, Latvian, Lithuanian, Maltese, Norwegian, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/090,false,,2015-12-07,090,"Arabic, English, Kurdish",
+http://publications.europa.eu/resource/authority/multilingual/100,false,,2011-09-27,100,"English, Greek, Turkish",
+http://publications.europa.eu/resource/authority/multilingual/110,false,,2007-01-22,110,"Bulgarian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/120,false,,2007-01-22,120,"Bulgarian, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/130,false,,2007-02-03,130,"Arabic, Chinese, English, French, German, Japanese, Portuguese, Russian, Spanish, Turkish",
+http://publications.europa.eu/resource/authority/multilingual/140,false,,2007-06-25,140,"Bulgarian, Czech, Danish, Dutch, English, Esperanto, Estonian, Finnish, French, German, Greek, Hungarian, Icelandic, Irish, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romani, Romanian, Russian, Slovak, Slovenian, Spanish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/150,false,,2007-07-19,150,"Bosnian, Croatian, Serbian",
+http://publications.europa.eu/resource/authority/multilingual/160,false,,2007-09-11,160,"English, Sinhala, Tamil",
+http://publications.europa.eu/resource/authority/multilingual/170,false,,2008-06-10,170,"English, French, German, Italian, Polish, Portuguese, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/180,false,,2007-06-13,180,"Bulgarian, Czech, English, Estonian, French, German, Greek, Hungarian, Latvian, Lithuanian, Maltese, Polish, Romanian, Slovak, Slovenian",
+http://publications.europa.eu/resource/authority/multilingual/190,false,,2008-09-10,190,"English, French, German, Italian, Portuguese, Russian, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/1A0,false,,1950-01-01,1A0,"Danish, Dutch, English, French, German, Greek, Irish, Italian, Portuguese, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/1B0,false,,1950-01-01,1B0,"Danish, Dutch, English, French, German, Greek, Italian, Latin, Portuguese, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/1C0,false,,1950-01-01,1C0,"Catalan, Danish, Dutch, English, French, German, Greek, Italian, Portuguese, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/1D0,false,,1950-01-01,1D0,"Danish, Dutch, English, French, German, Greek, Irish, Italian, Latin, Portuguese, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/1E0,false,,1950-01-01,1E0,"Danish, Dutch, English, French, German, Greek, Italian, Portuguese, Spanish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/1F0,false,,1950-01-01,1F0,"Danish, Dutch, English, Finnish, French, German, Greek, Italian, Portuguese, Spanish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/1G0,false,,1950-01-01,1G0,"Danish, Dutch, English, Finnish, French, German, Italian, Portuguese, Spanish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/1H0,false,,1950-01-01,1H0,"Danish, Dutch, English, Finnish, French, German, Greek, Italian, Latin, Portuguese, Spanish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/1J0,false,,1950-01-01,1J0,"Danish, Dutch, English, Finnish, French, German, Greek, Irish, Italian, Portuguese, Spanish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/1K0,false,,1950-01-01,1K0,"Danish, Dutch, English, Finnish, French, German, Greek, Irish, Italian, Luxembourgish, Portuguese, Spanish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/1L0,false,,1950-01-01,1L0,"Dutch, English, Finnish, French, German, Greek, Italian, Portuguese, Spanish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/1M0,false,,1950-01-01,1M0,"Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Slovak, Slovenian, Spanish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/1N0,false,,1950-01-01,1N0,"Czech, English, Estonian, Hungarian, Latvian, Lithuanian, Maltese, Polish, Slovak, Slovenian",
+http://publications.europa.eu/resource/authority/multilingual/1P0,false,,1950-01-01,1P0,"Czech, English, Estonian, French, German, Greek, Hungarian, Latvian, Lithuanian, Maltese, Polish, Slovak, Slovenian",
+http://publications.europa.eu/resource/authority/multilingual/1Q0,false,,1950-01-01,1Q0,"Bulgarian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Icelandic, Italian, Latvian, Lithuanian, Norwegian, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish, Turkish",
+http://publications.europa.eu/resource/authority/multilingual/1R0,false,,1950-01-01,1R0,"Bulgarian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Icelandic, Italian, Latvian, Lithuanian, Maltese, Norwegian, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish, Turkish",
+http://publications.europa.eu/resource/authority/multilingual/1S0,false,,1950-01-01,1S0,"Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Italian, Latvian, Lithuanian, Polish, Portuguese, Slovak, Slovenian, Spanish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/1T0,false,,1950-01-01,1T0,"Bulgarian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish, Turkish",
+http://publications.europa.eu/resource/authority/multilingual/1U0,false,,1950-01-01,1U0,"Czech, English, Estonian, Greek, Hungarian, Latvian, Lithuanian, Maltese, Polish, Slovak, Slovenian",
+http://publications.europa.eu/resource/authority/multilingual/1V0,false,,1950-01-01,1V0,"Danish, Dutch, English, Finnish, French, German, Greek, Hungarian, Italian, Latvian, Portuguese, Slovenian, Spanish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/1W0,false,,1950-01-01,1W0,"Danish, Dutch, English, Finnish, French, German, Greek, Italian, Polish, Portuguese, Spanish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/1X0,false,,1950-01-01,1X0,"Bulgarian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/1Y0,false,,2007-06-06,1Y0,"Czech, Danish, Dutch, English, Esperanto, Estonian, Finnish, French, German, Greek, Hungarian, Icelandic, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romani, Russian, Slovak, Slovenian, Spanish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/1Z0,false,,1950-01-01,1Z0,"Czech, English, French, German, Greek, Hungarian, Italian, Polish, Portuguese, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/200,false,,2009-01-12,200,"Arabic, Chinese, English, French, German, Italian, Japanese, Portuguese, Russian, Spanish, Turkish",
+http://publications.europa.eu/resource/authority/multilingual/210,false,,2007-01-26,210,"Chinese, Japanese",
+http://publications.europa.eu/resource/authority/multilingual/220,false,,2008-01-21,220,"Bulgarian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Irish, Italian, Latvian, Lithuanian, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/230,false,,1950-01-01,230,"Bulgarian, English",
+http://publications.europa.eu/resource/authority/multilingual/240,false,,1950-01-01,240,"Czech, English",
+http://publications.europa.eu/resource/authority/multilingual/250,false,,1950-01-01,250,"French, Latin",
+http://publications.europa.eu/resource/authority/multilingual/260,false,,1950-01-01,260,"English, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/270,false,,1950-01-01,270,"English, Finnish",
+http://publications.europa.eu/resource/authority/multilingual/280,false,,1950-01-01,280,"Finnish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/290,false,,1950-01-01,290,"English, Russian",
+http://publications.europa.eu/resource/authority/multilingual/2A0,false,,1950-01-01,2A0,"English, French",
+http://publications.europa.eu/resource/authority/multilingual/2B0,false,,1950-01-01,2B0,"French, German",
+http://publications.europa.eu/resource/authority/multilingual/2C0,false,,1950-01-01,2C0,"English, German",
+http://publications.europa.eu/resource/authority/multilingual/2D0,false,,1950-01-01,2D0,"French, Italian",
+http://publications.europa.eu/resource/authority/multilingual/2E0,false,,1950-01-01,2E0,"Dutch, French",
+http://publications.europa.eu/resource/authority/multilingual/2F0,false,,1950-01-01,2F0,"German, Italian",
+http://publications.europa.eu/resource/authority/multilingual/2G0,false,,1950-01-01,2G0,"Danish, Dutch",
+http://publications.europa.eu/resource/authority/multilingual/2H0,false,,1950-01-01,2H0,"Dutch, German",
+http://publications.europa.eu/resource/authority/multilingual/2I0,false,,1950-01-01,2I0,"Danish, English",
+http://publications.europa.eu/resource/authority/multilingual/2J0,false,,1950-01-01,2J0,"Danish, Italian",
+http://publications.europa.eu/resource/authority/multilingual/2K0,false,,1950-01-01,2K0,"English, Italian",
+http://publications.europa.eu/resource/authority/multilingual/2L0,false,,1950-01-01,2L0,"English, Irish",
+http://publications.europa.eu/resource/authority/multilingual/2M0,false,,1950-01-01,2M0,"Dutch, English",
+http://publications.europa.eu/resource/authority/multilingual/2N0,false,,1950-01-01,2N0,"Danish, French",
+http://publications.europa.eu/resource/authority/multilingual/2P0,false,,1950-01-01,2P0,"German, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/2Q0,false,,1950-01-01,2Q0,"French, Portuguese",
+http://publications.europa.eu/resource/authority/multilingual/2R0,false,,1950-01-01,2R0,"Dutch, Italian",
+http://publications.europa.eu/resource/authority/multilingual/2S0,false,,1950-01-01,2S0,"English, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/2T0,false,,1950-01-01,2T0,"Italian, Portuguese",
+http://publications.europa.eu/resource/authority/multilingual/2U0,false,,1950-01-01,2U0,"Danish, Greek",
+http://publications.europa.eu/resource/authority/multilingual/2V0,false,,1950-01-01,2V0,"English, Portuguese",
+http://publications.europa.eu/resource/authority/multilingual/2W0,false,,1950-01-01,2W0,"English, Greek",
+http://publications.europa.eu/resource/authority/multilingual/2X0,false,,1950-01-01,2X0,"French, Greek",
+http://publications.europa.eu/resource/authority/multilingual/2Y0,false,,1950-01-01,2Y0,"French, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/2Z0,false,,1950-01-01,2Z0,"French, Russian",
+http://publications.europa.eu/resource/authority/multilingual/300,false,,2007-02-20,300,"Estonian, Latvian, Lithuanian",
+http://publications.europa.eu/resource/authority/multilingual/310,false,,2007-10-30,310,"German, Italian, Polish",
+http://publications.europa.eu/resource/authority/multilingual/320,false,,2007-10-30,320,"Bulgarian, Maltese, Romanian",
+http://publications.europa.eu/resource/authority/multilingual/330,false,,2007-10-30,330,"Czech, Hungarian, Portuguese",
+http://publications.europa.eu/resource/authority/multilingual/340,false,,2007-10-30,340,"Dutch, Greek, Slovenian",
+http://publications.europa.eu/resource/authority/multilingual/350,false,,2009-03-17,350,"English, Lithuanian, Polish",
+http://publications.europa.eu/resource/authority/multilingual/360,false,,2009-05-19,360,"Arabic, English, French, German, Italian, Portuguese, Russian, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/370,false,,2009-08-21,370,"Chinese, English, French, Portuguese, Russian, Spanish, Ukrainian",
+http://publications.europa.eu/resource/authority/multilingual/380,false,,2009-08-21,380,"Arabic, Bulgarian, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Irish, Italian, Latvian, Lithuanian, Macedonian, Maltese, Polish, Portuguese, Romanian, Russian, Serbian, Slovak, Slovenian, Spanish, Swedish, Turkish",
+http://publications.europa.eu/resource/authority/multilingual/390,false,,2009-09-14,390,"English, Montenegrin",
+http://publications.europa.eu/resource/authority/multilingual/3A0,false,,1950-01-01,3A0,"English, French, German",
+http://publications.europa.eu/resource/authority/multilingual/3B0,false,,1950-01-01,3B0,"English, German, Italian",
+http://publications.europa.eu/resource/authority/multilingual/3C0,false,,1950-01-01,3C0,"Dutch, English, German",
+http://publications.europa.eu/resource/authority/multilingual/3D0,false,,1950-01-01,3D0,"Dutch, English, French",
+http://publications.europa.eu/resource/authority/multilingual/3E0,false,,1950-01-01,3E0,"Danish, German, Italian",
+http://publications.europa.eu/resource/authority/multilingual/3F0,false,,1950-01-01,3F0,"Dutch, French, German",
+http://publications.europa.eu/resource/authority/multilingual/3G0,false,,1950-01-01,3G0,"Danish, English, Italian",
+http://publications.europa.eu/resource/authority/multilingual/3H0,false,,1950-01-01,3H0,"English, French, Italian",
+http://publications.europa.eu/resource/authority/multilingual/3I0,false,,1950-01-01,3I0,"Danish, English, German",
+http://publications.europa.eu/resource/authority/multilingual/3J0,false,,1950-01-01,3J0,"English, French, Greek",
+http://publications.europa.eu/resource/authority/multilingual/3K0,false,,1950-01-01,3K0,"English, French, Portuguese",
+http://publications.europa.eu/resource/authority/multilingual/3L0,false,,1950-01-01,3L0,"English, French, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/3M0,false,,1950-01-01,3M0,"Italian, Portuguese, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/3N0,false,,1950-01-01,3N0,"Danish, Dutch, Greek",
+http://publications.europa.eu/resource/authority/multilingual/3P0,false,,1950-01-01,3P0,"Greek, Portuguese, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/3Q0,false,,1950-01-01,3Q0,"English, German, Greek",
+http://publications.europa.eu/resource/authority/multilingual/3R0,false,,1950-01-01,3R0,"French, Portuguese, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/3S0,false,,1950-01-01,3S0,"Danish, Finnish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/3T0,false,,1950-01-01,3T0,"English, Portuguese, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/3U0,false,,1950-01-01,3U0,"Arabic, English, French",
+http://publications.europa.eu/resource/authority/multilingual/3V0,false,,1950-01-01,3V0,"Danish, English, French",
+http://publications.europa.eu/resource/authority/multilingual/3W0,false,,1950-01-01,3W0,"English, French, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/3X0,false,,1950-01-01,3X0,"English, Finnish, French",
+http://publications.europa.eu/resource/authority/multilingual/3Y0,false,,1950-01-01,3Y0,"French, German, Luxembourgish",
+http://publications.europa.eu/resource/authority/multilingual/3Z0,false,,2007-02-20,3Z0,"German, Hungarian, Polish",
+http://publications.europa.eu/resource/authority/multilingual/400,false,,1950-01-01,400,"Czech, English, Greek, Polish",
+http://publications.europa.eu/resource/authority/multilingual/410,false,,1950-01-01,410,"English, Italian, Portuguese, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/420,false,,1950-01-01,420,"English, French, Greek, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/430,false,,1950-01-01,430,"Arabic, English, French, Russian",
+http://publications.europa.eu/resource/authority/multilingual/440,false,,2007-02-25,440,"Dutch, English, French, Portuguese",
+http://publications.europa.eu/resource/authority/multilingual/450,false,,2007-02-25,450,"Greek, Italian, Maltese, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/460,false,,2007-02-25,460,"Bulgarian, English, Irish, Romanian",
+http://publications.europa.eu/resource/authority/multilingual/470,false,,2007-12-12,470,"Bulgarian, French, Romanian, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/480,false,,2012-11-13,480,"Czech, German, English, French, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/490,false,,2009-08-04,490,"Bulgarian, English, French, German, Italian, Lithuanian, Polish, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/4A0,false,,1950-01-01,4A0,"English, French, German, Italian",
+http://publications.europa.eu/resource/authority/multilingual/4B0,false,,1950-01-01,4B0,"Dutch, English, French, German",
+http://publications.europa.eu/resource/authority/multilingual/4C0,false,,1950-01-01,4C0,"Danish, English, French, German",
+http://publications.europa.eu/resource/authority/multilingual/4D0,false,,1950-01-01,4D0,"English, French, German, Russian",
+http://publications.europa.eu/resource/authority/multilingual/4E0,false,,1950-01-01,4E0,"Danish, Dutch, English, French",
+http://publications.europa.eu/resource/authority/multilingual/4F0,false,,1950-01-01,4F0,"English, French, Italian, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/4G0,false,,1950-01-01,4G0,"Dutch, French, German, Italian",
+http://publications.europa.eu/resource/authority/multilingual/4H0,false,,1950-01-01,4H0,"English, French, German, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/4I0,false,,1950-01-01,4I0,"German, Italian, Portuguese, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/4J0,false,,1950-01-01,4J0,"English, French, Portuguese, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/4K0,false,,1950-01-01,4K0,"English, French, German, Greek",
+http://publications.europa.eu/resource/authority/multilingual/4L0,false,,1950-01-01,4L0,"Dutch, French, Italian, Portuguese",
+http://publications.europa.eu/resource/authority/multilingual/4M0,false,,1950-01-01,4M0,"Dutch, English, French, Greek",
+http://publications.europa.eu/resource/authority/multilingual/4N0,true,2005-03-14,1950-01-01,4N0,"Dutch, English, French, Greek",
+http://publications.europa.eu/resource/authority/multilingual/4P0,false,,1950-01-01,4P0,"Danish, Finnish, German, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/4Q0,false,,1950-01-01,4Q0,"Dutch, English, Greek, Italian",
+http://publications.europa.eu/resource/authority/multilingual/4R0,false,,1950-01-01,4R0,"Danish, English, Finnish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/4S0,false,,1950-01-01,4S0,"English, Finnish, German, Italian",
+http://publications.europa.eu/resource/authority/multilingual/4T0,false,,1950-01-01,4T0,"Dutch, French, Greek, Italian",
+http://publications.europa.eu/resource/authority/multilingual/4U0,false,,1950-01-01,4U0,"English, French, Greek, Italian",
+http://publications.europa.eu/resource/authority/multilingual/4V0,false,,1950-01-01,4V0,"English, Finnish, French, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/4W0,false,,1950-01-01,4W0,"Estonian, Latvian, Lithuanian, Polish",
+http://publications.europa.eu/resource/authority/multilingual/4X0,false,,1950-01-01,4X0,"French, Italian, Portuguese, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/4Y0,false,,1950-01-01,4Y0,"Dutch, English, Greek, Maltese",
+http://publications.europa.eu/resource/authority/multilingual/4Z0,false,,1950-01-01,4Z0,"Czech, Hungarian, Slovak, Slovenian",
+http://publications.europa.eu/resource/authority/multilingual/500,false,,2009-09-16,500,"English, Macedonian",
+http://publications.europa.eu/resource/authority/multilingual/510,false,,2009-09-16,510,"English, Serbian",
+http://publications.europa.eu/resource/authority/multilingual/520,false,,2009-09-16,520,"Bosnian, English",
+http://publications.europa.eu/resource/authority/multilingual/530,false,,2009-09-16,530,"Albanian, English",
+http://publications.europa.eu/resource/authority/multilingual/540,false,,2009-10-06,540,"Dutch, English, French, German, Italian, Polish, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/550,false,,2009-10-23,550,"English, Kazakh, Russian",
+http://publications.europa.eu/resource/authority/multilingual/560,false,,2010-02-05,560,"Arabic, English, French, German, Italian, Portuguese, Russian, Spanish, Turkish",
+http://publications.europa.eu/resource/authority/multilingual/570,false,,2010-07-28,570,"Dutch, English, French, German, Italian, Portuguese, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/580,false,,2011-06-28,580,"Bulgarian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Icelandic, Italian, Latvian, Lithuanian, Maltese, Norwegian, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/590,false,,2011-07-26,590,"English, French, German, Hungarian, Polish, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/5A0,false,,1950-01-01,5A0,"Dutch, English, French, German, Italian",
+http://publications.europa.eu/resource/authority/multilingual/5B0,false,,1950-01-01,5B0,"Danish, English, French, German, Italian",
+http://publications.europa.eu/resource/authority/multilingual/5C0,false,,1950-01-01,5C0,"Danish, Dutch, French, German, Italian",
+http://publications.europa.eu/resource/authority/multilingual/5D0,false,,1950-01-01,5D0,"English, French, German, Italian, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/5E0,false,,1950-01-01,5E0,"Dutch, Danish, English, French, Greek",
+http://publications.europa.eu/resource/authority/multilingual/5F0,false,,1950-01-01,5F0,"Arabic, English, French, German, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/5G0,false,,1950-01-01,5G0,"Danish, English, French, German, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/5H0,false,,1950-01-01,5H0,"Danish, English, German, Greek, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/5I0,false,,1950-01-01,5I0,"French, Greek, Italian, Portuguese, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/5J0,false,,1950-01-01,5J0,"English, French, German, Portuguese, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/5K0,false,,1950-01-01,5K0,"English, French, Italian, Portuguese, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/5L0,false,,1950-01-01,5L0,"English, French, Italian, Polish, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/5M0,false,,1950-01-01,5M0,"Czech, Greek, Hungarian, Polish, Portuguese",
+http://publications.europa.eu/resource/authority/multilingual/5N0,false,,2007-01-26,5N0,"English, French, German, Russian, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/5P0,false,,1950-01-01,5P0,"English, Kazakh, Russian",
+http://publications.europa.eu/resource/authority/multilingual/5Q0,false,,2011-12-15,5Q0,"Bulgarian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Italian, Latvian, Lithuanian, Norwegian, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/5R0,false,,2012-05-24,5R0,"Danish, Dutch, English, Estonian, Finnish, French, German, Italian, Polish, Portuguese, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/5S0,false,,2012-07-03,5S0,"Bulgarian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Icelandic, Irish, Italian, Latvian, Lithuanian, Maltese, Norwegian, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Turkish",
+http://publications.europa.eu/resource/authority/multilingual/5T0,false,,2012-10-09,5T0,"Bulgarian, Czech, Dutch, English, Estonian, Finnish, French, German, Italian, Polish, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/5U0,false,,2013-02-06,5U0,"Dutch, English, French, German, Greek, Italian, Polish, Portuguese, Spanish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/5V0,false,,2013-11-11,5V0,"Arabic, Chinese, English, French, German, Hindi, Italian, Japanese, Persian, Portuguese, Russian, Serbian, Spanish, Turkish, Vietnamese",
+http://publications.europa.eu/resource/authority/multilingual/5W0,false,,2013-11-20,5W0,"Bulgarian, Croatian, Romanian, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/5X0,false,,2013-11-20,5X0,"Dutch, English, French, Italian, Polish, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/5Y0,false,,2013-11-25,5Y0,"Czech, Hungarian, Polish, Slovak, Slovenian",
+http://publications.europa.eu/resource/authority/multilingual/5Z0,false,,2013-11-25,5Z0,"Danish, English, Finnish, Irish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/600,false,,2011-10-10,600,"Bulgarian, English, Hungarian, Romanian",
+http://publications.europa.eu/resource/authority/multilingual/610,false,,2011-10-10,610,"Czech, English, Polish, Slovak",
+http://publications.europa.eu/resource/authority/multilingual/620,false,,2011-10-10,620,"English, Greek, Maltese, Slovenian",
+http://publications.europa.eu/resource/authority/multilingual/630,false,,2011-10-10,630,"English, Estonian, Latvian, Lithuanian",
+http://publications.europa.eu/resource/authority/multilingual/640,false,,2011-10-28,640,"Albanian, English, Serbian",
+http://publications.europa.eu/resource/authority/multilingual/650,false,,2012-10-12,650,"English, French, German, Serbian",
+http://publications.europa.eu/resource/authority/multilingual/660,false,,2013-03-02,660,"English, French, German, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/670,false,,2013-12-02,670,"French, Italian, Maltese, Portuguese, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/680,false,,2014-04-07,680,"English, Vietnamese",
+http://publications.europa.eu/resource/authority/multilingual/690,false,,2016-01-13,690,"Bulgarian, Czech, Croatian, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Italian, Latvian, Lithuanian, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/6A0,false,,1950-01-01,6A0,"Danish, Dutch, English, French, German, Italian",
+http://publications.europa.eu/resource/authority/multilingual/6B0,false,,1950-01-01,6B0,"Dutch, English, French, German, Italian, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/6C0,false,,1950-01-01,6C0,"Dutch, English, French, German, Italian, Portuguese",
+http://publications.europa.eu/resource/authority/multilingual/6D0,false,,1950-01-01,6D0,"Danish, English, French, German, Greek, Italian",
+http://publications.europa.eu/resource/authority/multilingual/6E0,false,,1950-01-01,6E0,"Danish, Dutch, Greek, Italian, Portuguese, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/6F0,false,,1950-01-01,6F0,"English, French, German, Italian, Portuguese, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/6G0,false,,1950-01-01,6G0,"Danish, Dutch, English, Finnish, German, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/6H0,false,,1950-01-01,6H0,"Dutch, English, French, German, Portuguese, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/6I0,false,,1950-01-01,6I0,"English, French, German, Greek, Portuguese, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/6J0,false,,1950-01-01,6J0,"English, French, Greek, Italian, Portuguese, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/6K0,false,,1950-01-01,6K0,"Czech, English, French, German, Hungarian, Polish",
+http://publications.europa.eu/resource/authority/multilingual/6L0,false,,1950-01-01,6L0,"English, French, German, Italian, Polish, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/6M0,false,,1950-01-01,6M0,"English, French, German, Greek, Italian, Portuguese",
+http://publications.europa.eu/resource/authority/multilingual/6N0,false,,2007-01-22,6N0,"Chinese, English, French, German, Russian, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/6P0,false,,2007-02-16,6P0,"English, French, German, Polish, Romanian, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/6Q0,false,,2016-02-19,6Q0,"Catalan, English, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/6R0,false,,2016-04-08,6R0,"Catalan, English",
+http://publications.europa.eu/resource/authority/multilingual/6S0,false,,2016-05-30,6S0,"English, French, Slovak",
+http://publications.europa.eu/resource/authority/multilingual/6T0,false,,2016-06-09,6T0,"Dutch, German, English, Estonian, Finnish, French, Italian, Latvian, Lithuanian, Portuguese, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/6U0,false,,2016-08-01,6U0,"Arabic, English, Greek, Pashto, Persian, Urdu",
+http://publications.europa.eu/resource/authority/multilingual/6V0,false,,2016-08-10,6V0,"Dutch, English, Estonian, Finnish, French, German, Greek, Italian, Latvian, Lithuanian, Portuguese, Slovak, Slovenian, Spanish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/6W0,false,,2016-11-17,6W0,"Arabic, English, Tigrinya",
+http://publications.europa.eu/resource/authority/multilingual/6X0,false,,2017-01-09,6X0,"Portuguese, Tetum",
+http://publications.europa.eu/resource/authority/multilingual/6Y0,false,,2017-03-24,6Y0,"Czech, French",
+http://publications.europa.eu/resource/authority/multilingual/6Z0,false,,2017-06-08,6Z0,"English, French, German, Italian, Polish",
+http://publications.europa.eu/resource/authority/multilingual/700,false,,2017-07-04,700,"Czech, Dutch, English, Estonian, French, German, Greek, Latvian, Lithuanian, Polish, Slovenian, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/710,false,,2017-07-04,710,"Czech, Dutch, English, Estonian, French, German, Greek, Latvian, Lithuanian, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/720,false,,2017-07-04,720,"Dutch, English, French, German, Greek, Italian, Portuguese, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/730,false,,2017-07-04,730,"Danish, English, German, Greek, Italian, Portuguese, Spanish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/740,false,,2017-07-04,740,"Danish, English, French, German, Greek, Italian, Portuguese, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/750,false,,2017-07-04,750,"Bulgarian, Dutch, English, Estonian, Lithuanian, Polish, Slovenian, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/760,false,,2017-07-04,760,"Dutch, English, French, Greek, Italian, Portuguese, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/770,false,,2017-07-04,770,"English, Estonian, Finnish, French, Greek, Lithuanian, Slovak",
+http://publications.europa.eu/resource/authority/multilingual/780,false,,2017-07-04,780,"Dutch, English, French, German, Greek, Portuguese, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/790,false,,2017-07-04,790,"Dutch, English, French, Italian, Portuguese, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/7A0,false,,1950-01-01,7A0,"Danish, Dutch, English, French, German, Italian, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/7B0,false,,1950-01-01,7B0,"Danish, Dutch, English, French, German, Italian, Portuguese",
+http://publications.europa.eu/resource/authority/multilingual/7C0,false,,1950-01-01,7C0,"Danish, Dutch, English, French, German, Greek, Italian",
+http://publications.europa.eu/resource/authority/multilingual/7D0,false,,1950-01-01,7D0,"Danish, Dutch, English, French, German, Italian, Latin",
+http://publications.europa.eu/resource/authority/multilingual/7E0,false,,1950-01-01,7E0,"Danish, Dutch, German, Greek, Italian, Portuguese, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/7F0,false,,1950-01-01,7F0,"English, French, German, Greek, Italian, Portuguese, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/7G0,false,,1950-01-01,7G0,"Czech, English, French, German, Hungarian, Polish, Slovak",
+http://publications.europa.eu/resource/authority/multilingual/7H0,false,,1950-01-01,7H0,"Czech, Dutch, Greek, Hungarian, Portuguese, Romanian, Slovak",
+http://publications.europa.eu/resource/authority/multilingual/7I0,false,,2008-12-03,7I0,"Arabic, Croatian, English, Russian, Serbian, Turkish, Ukrainian",
+http://publications.europa.eu/resource/authority/multilingual/7J0,false,,2017-07-04,7J0,"English, Finnish, French, Greek, Lithuanian, Slovak",
+http://publications.europa.eu/resource/authority/multilingual/7K0,false,,2017-07-04,7K0,"Dutch, English, French, German, Greek, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/7L0,false,,2017-07-04,7L0,"Dutch, English, French, German, Greek, Italian",
+http://publications.europa.eu/resource/authority/multilingual/7M0,false,,2017-07-04,7M0,"Dutch, English, Finnish, German, Greek, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/7N0,false,,2017-07-04,7N0,"Danish, English, Finnish, French, Spanish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/7P0,false,,2017-07-04,7P0,"Czech, English, French, German, Slovak, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/7Q0,false,,2017-07-04,7Q0,"English, French, Italian, Portuguese, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/7R0,false,,2017-07-04,7R0,"Dutch, English, French, Italian, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/7S0,false,,2017-07-04,7S0,"English, French, Hungarian, Slovak, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/7T0,false,,2017-07-04,7T0,"English, Estonian, Finnish, Lithuanian, Slovak",
+http://publications.europa.eu/resource/authority/multilingual/7U0,false,,2017-07-04,7U0,"Dutch, English, French, Greek, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/7V0,false,,2017-07-04,7V0,"Dutch, English, French, Greek, Portuguese",
+http://publications.europa.eu/resource/authority/multilingual/7W0,false,,2017-07-04,7W0,"English, French, Greek, Lithuanian, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/7X0,false,,2017-07-04,7X0,"English, German, Italian, Lithuanian, Maltese",
+http://publications.europa.eu/resource/authority/multilingual/7Y0,false,,2017-07-04,7Y0,"English, French, German, Spanish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/7Z0,false,,2017-07-04,7Z0,"Dutch, English, French, German, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/800,false,,2017-07-04,800,"English, Finnish, French, German, Italian",
+http://publications.europa.eu/resource/authority/multilingual/810,false,,2017-07-04,810,"French, German, Greek, Italian, Portuguese",
+http://publications.europa.eu/resource/authority/multilingual/820,false,,2017-07-04,820,"English, French, German, Greek, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/830,false,,2017-07-04,830,"Danish, English, French, Italian, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/840,false,,2017-07-04,840,"Danish, English, German, Greek, Latvian",
+http://publications.europa.eu/resource/authority/multilingual/850,false,,2017-07-04,850,"Finnish, French, Italian, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/860,false,,2017-07-04,860,"English, French, Portuguese, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/870,false,,2017-07-04,870,"English, French, Polish, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/880,false,,2017-07-04,880,"English, French, Polish, Portuguese",
+http://publications.europa.eu/resource/authority/multilingual/890,false,,2017-07-04,890,"Dutch, English, French, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/8A0,false,,1950-01-01,8A0,"Danish, Dutch, English, French, German, Greek, Italian, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/8B0,false,,1950-01-01,8B0,"Danish, Dutch, French, German, Greek, Italian, Portuguese, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/8C0,false,,1950-01-01,8C0,"Danish, Dutch, English, French, German, Italian, Portuguese, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/8D0,false,,1950-01-01,8D0,"Czech, English, French, German, Hungarian, Italian, Polish, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/8E0,false,,2007-04-04,8E0,"Czech, Dutch, English, French, German, Hungarian, Italian, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/8F0,false,,2011-04-01,8F0,"Danish, Dutch, Greek, Finnish, Italian, Portuguese, Spanish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/8G0,false,,2017-07-04,8G0,"English, French, Latvian, Polish",
+http://publications.europa.eu/resource/authority/multilingual/8H0,false,,2017-07-04,8H0,"Dutch, English, French, Italian",
+http://publications.europa.eu/resource/authority/multilingual/8I0,false,,2017-07-04,8I0,"Dutch, French, German, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/8J0,false,,2017-07-04,8J0,"Dutch, French, German, Portuguese",
+http://publications.europa.eu/resource/authority/multilingual/8K0,false,,2017-07-04,8K0,"English, German, Polish, Portuguese",
+http://publications.europa.eu/resource/authority/multilingual/8L0,false,,2017-07-04,8L0,"Dutch, English, German, Italian",
+http://publications.europa.eu/resource/authority/multilingual/8M0,false,,2017-07-04,8M0,"English, French, German, Polish",
+http://publications.europa.eu/resource/authority/multilingual/8N0,false,,2017-07-04,8N0,"Danish, English, French, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/8P0,false,,2017-07-04,8P0,"Danish, English, French, Portuguese",
+http://publications.europa.eu/resource/authority/multilingual/8Q0,false,,2017-07-04,8Q0,"Danish, English, German, Slovenian",
+http://publications.europa.eu/resource/authority/multilingual/8R0,false,,2017-07-04,8R0,"Czech, English, French, German",
+http://publications.europa.eu/resource/authority/multilingual/8S0,false,,2017-07-04,8S0,"Dutch, French, Polish",
+http://publications.europa.eu/resource/authority/multilingual/8T0,false,,2017-07-04,8T0,"French, Italian, Portuguese",
+http://publications.europa.eu/resource/authority/multilingual/8U0,false,,2017-07-04,8U0,"French, Italian, Polish",
+http://publications.europa.eu/resource/authority/multilingual/8V0,false,,2017-07-04,8V0,"Dutch, French, Italian",
+http://publications.europa.eu/resource/authority/multilingual/8W0,false,,2017-07-04,8W0,"English, Polish, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/8X0,false,,2017-07-04,8X0,"English, Polish, Portuguese",
+http://publications.europa.eu/resource/authority/multilingual/8Y0,false,,2017-07-04,8Y0,"Dutch, English, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/8Z0,false,,2017-07-04,8Z0,"Dutch, English, Portuguese",
+http://publications.europa.eu/resource/authority/multilingual/900,false,,2017-07-04,900,"Dutch, English, Polish",
+http://publications.europa.eu/resource/authority/multilingual/910,false,,2017-07-04,910,"English, Italian, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/920,false,,2017-07-04,920,"English, French, Slovenian",
+http://publications.europa.eu/resource/authority/multilingual/930,false,,2017-07-04,930,"English, French, Polish",
+http://publications.europa.eu/resource/authority/multilingual/940,false,,2017-07-04,940,"English, French, Lithuanian",
+http://publications.europa.eu/resource/authority/multilingual/950,false,,2017-07-04,950,"English, French, Hungarian",
+http://publications.europa.eu/resource/authority/multilingual/960,false,,2017-07-04,960,"English, Estonian, French",
+http://publications.europa.eu/resource/authority/multilingual/970,false,,2017-07-04,970,"French, Greek, Italian",
+http://publications.europa.eu/resource/authority/multilingual/980,false,,2017-07-04,980,"English, Greek, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/990,false,,2017-07-04,990,"Finnish, French, German",
+http://publications.europa.eu/resource/authority/multilingual/9A0,false,,1950-01-01,9A0,"Danish, Dutch, English, French, German, Greek, Italian, Portuguese, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/9B0,false,,1950-01-01,9B0,"Danish, Dutch, English, Finnish, French, Greek, Italian, Portuguese, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/9C0,false,,1950-01-01,9C0,"Czech, Estonian, Hungarian, Latvian, Lithuanian, Maltese, Polish, Slovak, Slovenian",
+http://publications.europa.eu/resource/authority/multilingual/9D0,false,,1950-01-01,9D0,"Danish, Estonian, Finnish, Irish, Latvian, Lithuanian, Maltese, Slovenian, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/9E0,false,,2011-04-09,9E0,"Arabic, Bulgarian, Chinese, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Irish, Italian, Japanese, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Russian, Slovak, Slovenian, Spanish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/9F0,false,,2017-07-04,9F0,"English, German, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/9G0,false,,2017-07-04,9G0,"English, German, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/9H0,false,,2017-07-04,9H0,"Czech, French, Slovak",
+http://publications.europa.eu/resource/authority/multilingual/9I0,false,,2017-07-04,9I0,"Czech, English, French",
+http://publications.europa.eu/resource/authority/multilingual/9J0,false,,2017-07-04,9J0,"Bulgarian, English, Romanian",
+http://publications.europa.eu/resource/authority/multilingual/9K0,false,,2017-07-04,9K0,"Bulgarian, English, French",
+http://publications.europa.eu/resource/authority/multilingual/9L0,false,,2017-07-04,9L0,"French, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/9M0,false,,2017-07-04,9M0,"French, Slovenian",
+http://publications.europa.eu/resource/authority/multilingual/9N0,false,,2017-07-04,9N0,"French, Slovak",
+http://publications.europa.eu/resource/authority/multilingual/9P0,false,,2017-07-04,9P0,"French, Romanian",
+http://publications.europa.eu/resource/authority/multilingual/9Q0,false,,2017-07-04,9Q0,"French, Polish",
+http://publications.europa.eu/resource/authority/multilingual/9R0,false,,2017-07-04,9R0,"French, Maltese",
+http://publications.europa.eu/resource/authority/multilingual/9S0,false,,2017-07-04,9S0,"French, Lithuanian",
+http://publications.europa.eu/resource/authority/multilingual/9T0,false,,2017-07-04,9T0,"French, Latvian",
+http://publications.europa.eu/resource/authority/multilingual/9U0,false,,2017-07-04,9U0,"French, Hungarian",
+http://publications.europa.eu/resource/authority/multilingual/9V0,false,,2017-07-04,9V0,"Croatian, French",
+http://publications.europa.eu/resource/authority/multilingual/9W0,false,,2017-07-04,9W0,"French, Irish",
+http://publications.europa.eu/resource/authority/multilingual/9X0,false,,2017-07-04,9X0,"Finnish, French",
+http://publications.europa.eu/resource/authority/multilingual/9Y0,false,,2017-07-04,9Y0,"Estonian, French",
+http://publications.europa.eu/resource/authority/multilingual/9Z0,false,,2017-07-04,9Z0,"English, Northern Sami",
+http://publications.europa.eu/resource/authority/multilingual/A00,false,,2017-07-04,A00,"English, Ewe",
+http://publications.europa.eu/resource/authority/multilingual/A10,false,,1950-01-01,A10,"English, Mongolian",
+http://publications.europa.eu/resource/authority/multilingual/A20,false,,2006-11-30,A20,"English, French",
+http://publications.europa.eu/resource/authority/multilingual/A30,false,,1950-01-01,A30,"Portuguese, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/A40,false,,1950-01-01,A40,"English, Japanese",
+http://publications.europa.eu/resource/authority/multilingual/A50,false,,1950-01-01,A50,"Chinese, English",
+http://publications.europa.eu/resource/authority/multilingual/A60,false,,1950-01-01,A60,"Azerbaijani, English",
+http://publications.europa.eu/resource/authority/multilingual/A70,false,,1950-01-01,A70,"English, Ukrainian",
+http://publications.europa.eu/resource/authority/multilingual/A80,false,,1950-01-01,A80,"Arabic, English",
+http://publications.europa.eu/resource/authority/multilingual/A90,false,,1950-01-01,A90,"English, Hindi",
+http://publications.europa.eu/resource/authority/multilingual/B00,false,,2017-07-04,B00,"English, Norwegian",
+http://publications.europa.eu/resource/authority/multilingual/B10,false,,1950-01-01,B10,"English, Estonian",
+http://publications.europa.eu/resource/authority/multilingual/B20,false,,1950-01-01,B20,"English, Hungarian",
+http://publications.europa.eu/resource/authority/multilingual/B30,false,,1950-01-01,B30,"English, Latvian",
+http://publications.europa.eu/resource/authority/multilingual/B40,false,,1950-01-01,B40,"English, Lithuanian",
+http://publications.europa.eu/resource/authority/multilingual/B50,false,,1950-01-01,B50,"English, Maltese",
+http://publications.europa.eu/resource/authority/multilingual/B60,false,,1950-01-01,B60,"English, Romanian",
+http://publications.europa.eu/resource/authority/multilingual/B70,false,,1950-01-01,B70,"English, Slovenian",
+http://publications.europa.eu/resource/authority/multilingual/B80,false,,1950-01-01,B80,"English, Polish",
+http://publications.europa.eu/resource/authority/multilingual/B90,false,,1950-01-01,B90,"English, Slovak",
+http://publications.europa.eu/resource/authority/multilingual/C00,false,,2017-07-04,C00,"German, Kirundi",
+http://publications.europa.eu/resource/authority/multilingual/C10,false,,1950-01-01,C10,"English, Turkish",
+http://publications.europa.eu/resource/authority/multilingual/C20,false,,2007-10-02,C20,"Arabic, Chinese",
+http://publications.europa.eu/resource/authority/multilingual/C30,false,,2007-11-13,C30,"Catalan, Irish",
+http://publications.europa.eu/resource/authority/multilingual/C40,false,,2007-11-21,C40,"Czech, Slovak",
+http://publications.europa.eu/resource/authority/multilingual/C50,false,,2007-11-21,C50,"Latvian, Lithuanian",
+http://publications.europa.eu/resource/authority/multilingual/C60,false,,2007-11-21,C60,"Italian, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/C70,false,,2007-11-21,C70,"Dutch, Polish",
+http://publications.europa.eu/resource/authority/multilingual/C80,false,,2007-11-21,C80,"Estonian, Finnish",
+http://publications.europa.eu/resource/authority/multilingual/C90,false,,2007-11-21,C90,"Greek, Hungarian",
+http://publications.europa.eu/resource/authority/multilingual/D00,false,,2017-07-04,D00,"Arabic, Bulgarian",
+http://publications.europa.eu/resource/authority/multilingual/D10,false,,2006-11-03,D10,"Bulgarian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Scottish Gaelic, Slovak, Slovenian, Spanish, Swedish, Turkish, Welsh",
+http://publications.europa.eu/resource/authority/multilingual/D20,false,,2006-11-22,D20,"Bulgarian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Irish, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/D30,false,,2008-11-27,D30,"Bulgarian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Irish, Italian, Latvian, Lithuanian, Luxembourgish, Maltese, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/D40,false,,2008-12-08,D40,"Dutch, English, Finnish, French, German, Greek, Italian, Portuguese, Slovak, Slovenian, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/D50,false,,2011-07-22,D50,"Bulgarian, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Irish, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Spanish, Slovak, Slovenian, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/D60,false,,2017-08-08,D60,"Bulgarian, French",
+http://publications.europa.eu/resource/authority/multilingual/D70,false,,2017-12-14,D70,"Arabic, English, French, Pashto, Tigrinya, Urdu",
+http://publications.europa.eu/resource/authority/multilingual/D80,false,,2018-01-15,D80,"English, German, Italian, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/D90,false,,2018-01-29,D90,"English, Estonian, Finnish, German, Latvian, Lithuanian, Polish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/E00,false,,1957-03-25,E00,"EU official languages: Bulgarian, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Irish, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish","Lingue ufficiali dell’UE: bulgaro, ceco, croato, danese, estone, finlandese, francese, greco, inglese, irlandese, italiano, lettone, lituano, maltese, neerlandese, polacco, portoghese, rumeno, slovacco, sloveno, spagnolo, svedese, tedesco, ungherese"
+http://publications.europa.eu/resource/authority/multilingual/E10,false,,2007-11-21,E10,"Danish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/E20,false,,2007-12-06,E20,"Arabic, Chinese, English, French, Portuguese, Russian, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/E30,false,,2008-03-26,E30,"Czech, English, French, German, Greek, Italian, Polish, Romanian, Slovenian, Spanish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/E40,false,,2008-04-10,E40,"Bulgarian, Greek, Romanian",
+http://publications.europa.eu/resource/authority/multilingual/E50,false,,2008-07-28,E50,"English, Romani",
+http://publications.europa.eu/resource/authority/multilingual/E60,false,,2010-11-08,E60,"English, French, German, Italian, Portuguese, Russian, Spanish, Turkish",
+http://publications.europa.eu/resource/authority/multilingual/E70,false,,2013-07-03,E70,"English, Finnish",
+http://publications.europa.eu/resource/authority/multilingual/E80,false,,2013-07-03,E80,"Croatian, English",
+http://publications.europa.eu/resource/authority/multilingual/E90,false,,2018-02-08,E90,"Croatian, English, Polish",
+http://publications.europa.eu/resource/authority/multilingual/F00,false,,2014-09-16,F00,"Bulgarian, Hungarian, Romanian",
+http://publications.europa.eu/resource/authority/multilingual/F10,false,,2014-09-16,F10,"Czech, English, Slovak",
+http://publications.europa.eu/resource/authority/multilingual/F20,false,,2014-09-16,F20,"Danish, English, Estonian",
+http://publications.europa.eu/resource/authority/multilingual/F30,false,,2014-09-16,F30,"English, Greek, Maltese",
+http://publications.europa.eu/resource/authority/multilingual/F40,false,,2018-03-08,F40,"English, French, German, Italian, Portuguese, Romanian, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/F50,false,,2014-09-16,F50,"English, Latvian, Russian",
+http://publications.europa.eu/resource/authority/multilingual/F60,false,,2014-09-16,F60,"Lithuanian, Polish, Russian",
+http://publications.europa.eu/resource/authority/multilingual/F70,false,,2014-09-16,F70,"Croatian, English, Slovenian",
+http://publications.europa.eu/resource/authority/multilingual/F80,false,,2018-03-20,F80,"Albanian, Bosnian, Bulgarian, English, Estonian, French, German, Greek, Hungarian, Icelandic, Latvian, Lithuanian, Luxembourgish, Macedonian, Maltese, Montenegrin, Polish, Romanian, Serbian, Slovene, Spanish, Swedish, Turkish",
+http://publications.europa.eu/resource/authority/multilingual/F90,false,,2018-04-23,F90,"Czech, Dutch, English, French, German, Italian, Polish, Portuguese, Spanish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/G00,false,,2019-05-08,G00,"English, Finnish, French, Georgian, German, Greek, Hungarian, Italian, Lithuanian, Polish, Romanian, Ukrainian",
+http://publications.europa.eu/resource/authority/multilingual/G10,false,,2019-05-22,G10,"English, German, Portuguese",
+http://publications.europa.eu/resource/authority/multilingual/G20,false,,2019-06-27,G20,"English, German, Italian, Romanian, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/G30,false,,2019-06-27,G30,"English, French, German, Hungarian, Italian, Romanian",
+http://publications.europa.eu/resource/authority/multilingual/G40,false,,2019-08-28,G40,"English, Polish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/G50,false,,2019-09-06,G50,"Albanian, Arabic, English, French, Kurdish, Pashto, Persian, Russian, Serbian, Spanish, Tigrinya, Urdu",
+http://publications.europa.eu/resource/authority/multilingual/G60,false,,2019-11-25,G60,"English, Greek, Polish",
+http://publications.europa.eu/resource/authority/multilingual/G70,false,,2019-12-20,G70,"English, French, German, Greek, Italian, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/G80,false,,2020-01-16,G80,"English, German, Greek, Italian, Romanian, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/G90,false,,2020-02-27,G90,"Dutch, English, Hungarian",
+http://publications.europa.eu/resource/authority/multilingual/H00,false,,2020-03-13,H00,"Bulgarian, English, German",
+http://publications.europa.eu/resource/authority/multilingual/H10,false,,2020-04-24,H10,"Albanian, Bosnian, Catalan, Croatian, Danish, English, Estonian, French, German, Greek, Macedonian, Montenegrin, Norwegian",
+http://publications.europa.eu/resource/authority/multilingual/H20,false,,2020-05-13,H20,"Croatian, English, German",
+http://publications.europa.eu/resource/authority/multilingual/H30,false,,2020-06-22,H30,"Dutch, English, German, Greek, Italian, Portuguese, Romanian, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/H40,false,,2020-09-15,H40,"German, Polish",
+http://publications.europa.eu/resource/authority/multilingual/H50,false,,2021-05-28,H50,"Albanian, Arabic, Armenian, Bulgarian, Czech, Dutch, English, French, Icelandic, Latvian, Maltese, Portuguese, Serbian, Slovenian, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/H60,false,,2022-02-11,H60,"Dutch, English, German, Greek, Irish, Italian, Lithuanian, Romanian, Slovak, Spanish",
+http://publications.europa.eu/resource/authority/multilingual/H70,false,,2022-02-22,H70,"Czech, Dutch, English, French, German, Polish",
+http://publications.europa.eu/resource/authority/multilingual/H80,false,,2022-02-23,H80,"Bulgarian, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Icelandic, Irish, Italian, Latvian, Lithuanian, Maltese, Norwegian, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish",
+http://publications.europa.eu/resource/authority/multilingual/H90,false,,2022-03-16,H90,"Dari, English",
+http://publications.europa.eu/resource/authority/multilingual/J00,false,,2022-03-21,J00,"French, Ukrainian",
+http://publications.europa.eu/resource/authority/multilingual/J10,false,,2022-03-25,J10,"German, Ukrainian",
+http://publications.europa.eu/resource/authority/multilingual/J20,false,,2022-03-25,J20,"Polish, Ukrainian",
+http://publications.europa.eu/resource/authority/multilingual/J30,false,,2022-03-25,J30,"Italian, Ukrainian",
+http://publications.europa.eu/resource/authority/multilingual/J40,false,,2022-03-25,J40,"Dutch, Ukrainian",
+http://publications.europa.eu/resource/authority/multilingual/J50,false,,2022-03-25,J50,"Hungarian, Ukrainian",
+http://publications.europa.eu/resource/authority/multilingual/J60,false,,2022-03-25,J60,"Romanian, Ukrainian",
+http://publications.europa.eu/resource/authority/multilingual/J70,false,,2022-03-25,J70,"Slovak, Ukrainian",
+http://publications.europa.eu/resource/authority/multilingual/J80,false,,2022-03-25,J80,"Czech, Ukrainian",
+http://publications.europa.eu/resource/authority/multilingual/J90,false,,2022-03-25,J90,"Estonian, Ukrainian",
+http://publications.europa.eu/resource/authority/multilingual/K00,false,,2022-03-25,K00,"Bulgarian, Ukrainian",
+http://publications.europa.eu/resource/authority/multilingual/K10,false,,2022-03-30,K10,"Arabic, French",
+http://publications.europa.eu/resource/authority/multilingual/K20,false,,2022-04-01,K20,"Croatian, Ukrainian",
+http://publications.europa.eu/resource/authority/multilingual/K30,false,,2022-04-01,K30,"Danish, Ukrainian",
+http://publications.europa.eu/resource/authority/multilingual/K40,false,,2022-04-01,K40,"Finnish, Ukrainian",
+http://publications.europa.eu/resource/authority/multilingual/K50,false,,2022-04-01,K50,"Greek, Ukrainian",
+http://publications.europa.eu/resource/authority/multilingual/K60,false,,2022-04-01,K60,"Irish, Ukrainian",
+http://publications.europa.eu/resource/authority/multilingual/K70,false,,2022-04-01,K70,"Latvian, Ukrainian",
+http://publications.europa.eu/resource/authority/multilingual/K80,false,,2022-04-01,K80,"Lithuanian, Ukrainian",
+http://publications.europa.eu/resource/authority/multilingual/K90,false,,2022-04-01,K90,"Maltese, Ukrainian",
+http://publications.europa.eu/resource/authority/multilingual/L00,false,,2022-04-01,L00,"Portuguese, Ukrainian",
+http://publications.europa.eu/resource/authority/multilingual/L10,false,,2022-04-01,L10,"Slovenian, Ukrainian",
+http://publications.europa.eu/resource/authority/multilingual/L20,false,,2022-04-01,L20,"Spanish, Ukrainian",
+http://publications.europa.eu/resource/authority/multilingual/L30,false,,2022-04-01,L30,"Swedish, Ukrainian",
+http://publications.europa.eu/resource/authority/multilingual/L40,false,,2022-05-04,L40,"Bosnian, Dutch, English, French, Georgian, German, Greek, Irish, Italian, Lithuanian, Macedonian, Norwegian, Romanian, Slovak, Spanish, Ukrainian",
+http://publications.europa.eu/resource/authority/multilingual/L50,false,,2022-08-11,L50,"Catalan, Ukrainian",
+http://publications.europa.eu/resource/authority/multilingual/OP_DATPRO,false,,1952-07-23,OP_DATPRO,Provisional data,Dati provvisori

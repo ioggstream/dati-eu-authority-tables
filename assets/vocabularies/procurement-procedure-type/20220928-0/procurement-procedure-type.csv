@@ -1,11 +1,11 @@
-url;deprecated;valid_until;valid_from;id;label_en;label_it
-http://publications.europa.eu/resource/authority/procurement-procedure-type/OP_DATPRO;false;;1952-07-23;OP_DATPRO;Provisional data;Dati provvisori
-http://publications.europa.eu/resource/authority/procurement-procedure-type/comp-dial;false;;2019-09-18;comp-dial;Competitive dialogue;Dialogo competitivo
-http://publications.europa.eu/resource/authority/procurement-procedure-type/comp-tend;false;;2021-06-16;comp-tend;Competitive tendering;Procedura di gara
-http://publications.europa.eu/resource/authority/procurement-procedure-type/innovation;false;;2019-09-18;innovation;Innovation partnership;Partenariato per l'innovazione
-http://publications.europa.eu/resource/authority/procurement-procedure-type/neg-w-call;false;;2019-09-18;neg-w-call;Negotiated with prior publication of a call for competition / competitive with negotiation;Negoziata con previa indizione di gara / competitiva con negoziazione
-http://publications.europa.eu/resource/authority/procurement-procedure-type/neg-wo-call;false;;2019-09-18;neg-wo-call;Negotiated without prior call for competition;Negoziata senza previa indizione di gara
-http://publications.europa.eu/resource/authority/procurement-procedure-type/open;false;;2019-09-18;open;Open;Aperta
-http://publications.europa.eu/resource/authority/procurement-procedure-type/oth-mult;false;;2019-09-18;oth-mult;Other multiple stage procedure;Altra procedura a più fasi
-http://publications.europa.eu/resource/authority/procurement-procedure-type/oth-single;false;;2019-09-18;oth-single;Other single stage procedure;Altra procedura a fase unica
-http://publications.europa.eu/resource/authority/procurement-procedure-type/restricted;false;;2019-09-18;restricted;Restricted;Ristretta
+url,deprecated,valid_until,valid_from,id,label_en,label_it
+http://publications.europa.eu/resource/authority/procurement-procedure-type/OP_DATPRO,false,,1952-07-23,OP_DATPRO,Provisional data,Dati provvisori
+http://publications.europa.eu/resource/authority/procurement-procedure-type/comp-dial,false,,2019-09-18,comp-dial,Competitive dialogue,Dialogo competitivo
+http://publications.europa.eu/resource/authority/procurement-procedure-type/comp-tend,false,,2021-06-16,comp-tend,Competitive tendering,Procedura di gara
+http://publications.europa.eu/resource/authority/procurement-procedure-type/innovation,false,,2019-09-18,innovation,Innovation partnership,Partenariato per l'innovazione
+http://publications.europa.eu/resource/authority/procurement-procedure-type/neg-w-call,false,,2019-09-18,neg-w-call,Negotiated with prior publication of a call for competition / competitive with negotiation,Negoziata con previa indizione di gara / competitiva con negoziazione
+http://publications.europa.eu/resource/authority/procurement-procedure-type/neg-wo-call,false,,2019-09-18,neg-wo-call,Negotiated without prior call for competition,Negoziata senza previa indizione di gara
+http://publications.europa.eu/resource/authority/procurement-procedure-type/open,false,,2019-09-18,open,Open,Aperta
+http://publications.europa.eu/resource/authority/procurement-procedure-type/oth-mult,false,,2019-09-18,oth-mult,Other multiple stage procedure,Altra procedura a più fasi
+http://publications.europa.eu/resource/authority/procurement-procedure-type/oth-single,false,,2019-09-18,oth-single,Other single stage procedure,Altra procedura a fase unica
+http://publications.europa.eu/resource/authority/procurement-procedure-type/restricted,false,,2019-09-18,restricted,Restricted,Ristretta

@@ -1,9 +1,9 @@
-url;deprecated;valid_until;valid_from;id;label_en;label_it
-http://publications.europa.eu/resource/authority/product-status/DEVELOPMENT;false;;2021-08-30;DEVELOPMENT;in development;in fase di sviluppo
-http://publications.europa.eu/resource/authority/product-status/MVP;false;;2021-08-30;MVP;minimum viable product;prodotto minimo funzionante
-http://publications.europa.eu/resource/authority/product-status/OP_DATPRO;false;;1952-07-23;OP_DATPRO;Provisional data;Dati provvisori
-http://publications.europa.eu/resource/authority/product-status/PHASED_OUT;false;;2021-08-30;PHASED_OUT;phased out;non più in uso
-http://publications.europa.eu/resource/authority/product-status/PRODUCTION;false;;2021-08-30;PRODUCTION;in production;in fase di produzione
-http://publications.europa.eu/resource/authority/product-status/PRODUCT_CONCEPT;false;;2021-08-30;PRODUCT_CONCEPT;product concept;concetto del prodotto
-http://publications.europa.eu/resource/authority/product-status/PROTOTYPE;false;;2021-08-30;PROTOTYPE;prototype;prototipo
-http://publications.europa.eu/resource/authority/product-status/TESTING;false;;2021-08-30;TESTING;in test;in fase di test
+url,deprecated,valid_until,valid_from,id,label_en,label_it
+http://publications.europa.eu/resource/authority/product-status/DEVELOPMENT,false,,2021-08-30,DEVELOPMENT,in development,in fase di sviluppo
+http://publications.europa.eu/resource/authority/product-status/MVP,false,,2021-08-30,MVP,minimum viable product,prodotto minimo funzionante
+http://publications.europa.eu/resource/authority/product-status/OP_DATPRO,false,,1952-07-23,OP_DATPRO,Provisional data,Dati provvisori
+http://publications.europa.eu/resource/authority/product-status/PHASED_OUT,false,,2021-08-30,PHASED_OUT,phased out,non più in uso
+http://publications.europa.eu/resource/authority/product-status/PRODUCTION,false,,2021-08-30,PRODUCTION,in production,in fase di produzione
+http://publications.europa.eu/resource/authority/product-status/PRODUCT_CONCEPT,false,,2021-08-30,PRODUCT_CONCEPT,product concept,concetto del prodotto
+http://publications.europa.eu/resource/authority/product-status/PROTOTYPE,false,,2021-08-30,PROTOTYPE,prototype,prototipo
+http://publications.europa.eu/resource/authority/product-status/TESTING,false,,2021-08-30,TESTING,in test,in fase di test

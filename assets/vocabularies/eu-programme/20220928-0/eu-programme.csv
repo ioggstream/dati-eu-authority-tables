@@ -1,146 +1,146 @@
-url;deprecated;valid_until;valid_from;id;label_en;label_it
-http://publications.europa.eu/resource/authority/eu-programme/AFIS2020;false;;2014-01-01;AFIS2020;Anti Fraud Information System (AFIS);Sistema d’informazione antifrode (AFIS)
-http://publications.europa.eu/resource/authority/eu-programme/AGR;false;;2014-01-01;AGR;European Agricultural Guarantee Fund (after transfers between EAGF and EAFRD);Fondo europeo agricolo di garanzia (dopo trasferimenti tra FEAGA e FEASR)
-http://publications.europa.eu/resource/authority/eu-programme/AGRNET;true;2014-01-02;2014-01-01;AGRNET;Net transfer between EAGF and EAFRD;Trasferimento netto tra FEAGA e FEASR
-http://publications.europa.eu/resource/authority/eu-programme/AMF;false;;2014-01-01;AMF;Asylum, Migration and Integration Fund (AMF);Fondo Asilo, migrazione e integrazione
-http://publications.europa.eu/resource/authority/eu-programme/AMIF;false;;2021-01-01;AMIF;Asylum and Migration Fund (AMIF);Fondo Asilo e migrazione (AMF)
-http://publications.europa.eu/resource/authority/eu-programme/ANTIFRAUD;false;;2021-01-01;ANTIFRAUD;EU Anti-Fraud Programme;Programma antifrode dell’UE
-http://publications.europa.eu/resource/authority/eu-programme/BMVI;false;;2021-01-01;BMVI;Integrated Border Management Fund (IBMF) – instrument for border management and visa (BMVi);Fondo per la gestione integrata delle frontiere (IBMF) - Strumento per la gestione delle frontiere e i visti (BMVI)
-http://publications.europa.eu/resource/authority/eu-programme/CCEI;false;;2021-01-01;CCEI;Integrated Border Management Fund (IBMF) – Instrument for financial support for customs control equipment (CCEi);Fondo per la gestione integrata delle frontiere (IBMF) - Strumento di sostegno finanziario relativo alle attrezzature per il controllo doganale (CCEI)
-http://publications.europa.eu/resource/authority/eu-programme/CDF2020;false;;2014-01-01;CDF2020;Rights, equality and citizenship programme;Programma Diritti, uguaglianza e cittadinanza
-http://publications.europa.eu/resource/authority/eu-programme/CEF;false;;2014-01-01;CEF;Connecting Europe Facility (CEF);Meccanismo per collegare l’Europa (CEF)
-http://publications.europa.eu/resource/authority/eu-programme/CEF_2021;false;;2021-01-01;CEF_2021;Connecting Europe Facility (CEF);Meccanismo per collegare l’Europa (MCE)
-http://publications.europa.eu/resource/authority/eu-programme/CERV;false;;2021-01-01;CERV;Citizens, Equality, Rights and Values;Cittadini, uguaglianza, diritti e valori
-http://publications.europa.eu/resource/authority/eu-programme/CF;false;;2014-01-01;CF;Cohesion Fund (CF);Fondo di coesione (FC)
-http://publications.europa.eu/resource/authority/eu-programme/CFSP2020;false;;2014-01-01;CFSP2020;Common foreign and security policy (CFSP);Politica estera e di sicurezza comune (PESC)
-http://publications.europa.eu/resource/authority/eu-programme/CFSP_2021;false;;2021-01-01;CFSP_2021;Common Foreign and Security Policy (CFSP);Politica estera e di sicurezza comune (PESC)
-http://publications.europa.eu/resource/authority/eu-programme/CF_2021;false;;2021-01-01;CF_2021;Cohesion Fund (CF);Fondo di coesione (FC)
-http://publications.europa.eu/resource/authority/eu-programme/CF_DET;false;;2014-01-01;CF_DET;Contribution from the Cohesion Fund to the CEF programme;Contributo del Fondo di coesione al programma CEF
-http://publications.europa.eu/resource/authority/eu-programme/CIFP_07_13;false;;2007-01-01;CIFP_07_13;Competitiveness and Innovation Framework Programme;Programma quadro per la competitività e l’innovazione
-http://publications.europa.eu/resource/authority/eu-programme/CIT2020;false;;2014-01-01;CIT2020;Europe for Citizens;Europa per i cittadini
-http://publications.europa.eu/resource/authority/eu-programme/COMPREG;false;;2014-01-01;COMPREG;Competitiveness (more developed regions);Competitività (regioni più sviluppate)
-http://publications.europa.eu/resource/authority/eu-programme/CONS;false;;2014-01-01;CONS;Consumer programme;Programma «Consumatori»
-http://publications.europa.eu/resource/authority/eu-programme/COPERNICUS;false;;2014-01-01;COPERNICUS;European Earth Observation Programme (Copernicus);Programma europeo di osservazione della terra (Copernicus)
-http://publications.europa.eu/resource/authority/eu-programme/COSME;false;;2014-01-01;COSME;Programme for the competitiveness of enterprises and small and medium-sized enterprises (COSME);Programma per la competitività delle imprese e le PMI (COSME)
-http://publications.europa.eu/resource/authority/eu-programme/CPM_H3;false;;2014-01-01;CPM_H3;Union Civil Protection Mechanism — Member States;Meccanismo di protezione civile dell’Unione — Stati membri
-http://publications.europa.eu/resource/authority/eu-programme/CPM_H4;false;;2014-01-01;CPM_H4;Union Civil Protection Mechanism — Outside EU;Meccanismo di protezione civile dell’Unione — Al di fuori dell’UE
-http://publications.europa.eu/resource/authority/eu-programme/CREA;false;;2014-01-01;CREA;Creative Europe programme;Programma «Europa creativa»
-http://publications.europa.eu/resource/authority/eu-programme/CREATIVEEU;false;;2021-01-01;CREATIVEEU;Creative Europe;Europa creativa
-http://publications.europa.eu/resource/authority/eu-programme/CUST2020;false;;2014-01-01;CUST2020;Action programme for customs in the European Union (Customs 2020);Programma d’azione per la dogana nell’Unione europea (Dogane 2020)
-http://publications.europa.eu/resource/authority/eu-programme/CUSTOMS;false;;2021-01-01;CUSTOMS;Cooperation in the field of customs (CUSTOMS);Cooperazione nel settore doganale (DOGANE)
-http://publications.europa.eu/resource/authority/eu-programme/DCI2020;false;;2014-01-01;DCI2020;Development Cooperation Instrument (DCI);Strumento di cooperazione allo sviluppo (DCI)
-http://publications.europa.eu/resource/authority/eu-programme/DIGITALEU;false;;2021-01-01;DIGITALEU;Digital Europe Programme;Programma Europa digitale
-http://publications.europa.eu/resource/authority/eu-programme/E4A;false;;2014-01-01;E4A;The Union programme for education, training, youth and sport (Erasmus+);Programma dell’Unione per l’istruzione, la formazione, la gioventù e lo sport (Erasmus+)
-http://publications.europa.eu/resource/authority/eu-programme/EAFRD;false;;2014-01-01;EAFRD;European Agricultural Fund for Rural Development (after transfers between EAGF and EAFRD);Fondo europeo agricolo per lo sviluppo rurale (dopo trasferimenti tra FEAGA e FEASR)
-http://publications.europa.eu/resource/authority/eu-programme/EAFRD2020;false;;2014-01-01;EAFRD2020;European Agricultural Fund for Rural Development (EAFRD);Fondo europeo agricolo per lo sviluppo rurale (FEASR)
-http://publications.europa.eu/resource/authority/eu-programme/EAFRD_2021;false;;2021-01-01;EAFRD_2021;European Agricultural Fund for Rural Development (EAFRD);Fondo europeo agricolo per lo sviluppo rurale (FEASR)
-http://publications.europa.eu/resource/authority/eu-programme/EAGF2020;false;;2014-01-01;EAGF2020;European Agricultural Guarantee Fund (EAGF);Fondo europeo agricolo di garanzia (FEAGA)
-http://publications.europa.eu/resource/authority/eu-programme/EAGF_2021;false;;2021-01-01;EAGF_2021;European Agricultural Guarantee Fund (EAGF);Fondo europeo agricolo di garanzia (FEAGA)
-http://publications.europa.eu/resource/authority/eu-programme/EAR2020;false;;2014-01-01;EAR2020;Emergency Aid Reserve (EAR);Riserva per aiuti d’urgenza
-http://publications.europa.eu/resource/authority/eu-programme/EDF;false;;2021-01-01;EDF;European Defence Fund (EDF);Fondo europeo per la difesa (FED)
-http://publications.europa.eu/resource/authority/eu-programme/EDIDP;false;;2019-01-01;EDIDP;European Defence Industrial Development Programme;Programma europeo di sviluppo del settore industriale della difesa
-http://publications.europa.eu/resource/authority/eu-programme/EERP;true;2013-12-31;2009-01-01;EERP;Energy projects to aid economic recovery (EERP);Progetti energetici per sostenere la ripresa economica
-http://publications.europa.eu/resource/authority/eu-programme/EFSD;false;;2017-01-01;EFSD;European Fund for Sustainable Development (EFSD);Fondo europeo per lo sviluppo sostenibile (EFSD)
-http://publications.europa.eu/resource/authority/eu-programme/EFSI;false;;2015-01-01;EFSI;European Fund for Strategic Investments (EFSI);Fondo europeo per gli investimenti strategici (FEIS)
-http://publications.europa.eu/resource/authority/eu-programme/EGF2020;false;;2014-01-01;EGF2020;European Globalisation Adjustment Fund (EGF);Fondo europeo di adeguamento alla globalizzazione (FEG)
-http://publications.europa.eu/resource/authority/eu-programme/EGF_2021;false;;2021-01-01;EGF_2021;European Globalisation Adjustment Fund (EGF);Fondo europeo di adeguamento alla globalizzazione (FEG)
-http://publications.europa.eu/resource/authority/eu-programme/EIDHR2020;false;;2014-01-01;EIDHR2020;European Instrument for Democracy and Human Rights (EIDHR);Strumento europeo per la democrazia e i diritti umani (EIDHR)
-http://publications.europa.eu/resource/authority/eu-programme/EINS;false;;2021-01-01;EINS;European Instrument for Nuclear Safety (EINS);Strumento europeo per la sicurezza nucleare (EINS)
-http://publications.europa.eu/resource/authority/eu-programme/EMFAF;false;;2021-01-01;EMFAF;European Maritime, Fisheries and Aquaculture Fund (EMFAF);Fondo europeo per gli affari marittimi, la pesca e l’acquacoltura (FEAMPA)
-http://publications.europa.eu/resource/authority/eu-programme/EMFF2020;false;;2014-01-01;EMFF2020;European Maritime and Fisheries Fund (EMFF);Fondo europeo per gli affari marittimi e la pesca (FEAMP)
-http://publications.europa.eu/resource/authority/eu-programme/EMFF_2021;false;;2021-01-01;EMFF_2021;European Maritime and Fisheries Fund (EMFF);Fondo europeo per gli affari marittimi e la pesca (FEAMP)
-http://publications.europa.eu/resource/authority/eu-programme/ENI;false;;2014-01-01;ENI;European Neighbourhood Instrument (ENI);Strumento europeo di vicinato (ENI)
-http://publications.europa.eu/resource/authority/eu-programme/EPF;false;;2021-01-01;EPF;European Peace Facility;Strumento europeo per la pace
-http://publications.europa.eu/resource/authority/eu-programme/ERASMUS_PLUS;false;;2021-01-01;ERASMUS_PLUS;Erasmus+;Erasmus+
-http://publications.europa.eu/resource/authority/eu-programme/ERDF;false;;2014-01-01;ERDF;European Regional Development Fund (ERDF);Fondo europeo di sviluppo regionale (FESR)
-http://publications.europa.eu/resource/authority/eu-programme/ERDF_2021;false;;2021-01-01;ERDF_2021;European Regional Development Fund (ERDF);Fondo europeo di sviluppo regionale (FESR)
-http://publications.europa.eu/resource/authority/eu-programme/ESC;false;;2018-01-01;ESC;European Solidarity Corps (ESC);Corpo europeo di solidarietà (ESC)
-http://publications.europa.eu/resource/authority/eu-programme/ESC_2021;false;;2021-01-01;ESC_2021;European Solidarity Corps (ESC);Corpo europeo di solidarietà (ESC)
-http://publications.europa.eu/resource/authority/eu-programme/ESF;false;;2014-01-01;ESF;European Social Fund (ESF);Fondo sociale europeo (FSE)
-http://publications.europa.eu/resource/authority/eu-programme/ESF_PLUS;false;;2021-01-01;ESF_PLUS;European Social Fund Plus (ESF+);Fondo sociale europeo Plus (FSE+)
-http://publications.europa.eu/resource/authority/eu-programme/ESI_2021;false;;2021-01-01;ESI_2021;Instrument for emergency support within the Union (ESI);Strumento per il sostegno di emergenza all’interno dell’Unione (ESI)
-http://publications.europa.eu/resource/authority/eu-programme/ESP2017;false;;2013-01-01;ESP2017;European statistical programme (ESP);Programma statistico europeo
-http://publications.europa.eu/resource/authority/eu-programme/ESP2020;false;;2013-01-01;ESP2020;European statistical programme (ESP);Programma statistico europeo
-http://publications.europa.eu/resource/authority/eu-programme/EU4HEALTH;false;;2021-01-01;EU4HEALTH;EU4Health Programme;Programma «UE per la salute»
-http://publications.europa.eu/resource/authority/eu-programme/EUAV;false;;2014-01-01;EUAV;EU Aid Volunteers initiative (EUAV);Iniziativa Volontari dell’Unione per l’aiuto umanitario (VUAU)
-http://publications.europa.eu/resource/authority/eu-programme/EURATOM;false;;2014-01-01;EURATOM;Euratom research and training programme;Programma Euratom di ricerca e formazione
-http://publications.europa.eu/resource/authority/eu-programme/EURATOM_07_13;false;;2007-01-01;EURATOM_07_13;Euratom Research and Training Programme (2007–2013);Programma Euratom di ricerca e formazione (2007-2013)
-http://publications.europa.eu/resource/authority/eu-programme/EURATOM_19_20;false;;2019-01-01;EURATOM_19_20;Euratom Research and Training Programme (2019–2020);Programma Euratom di ricerca e formazione (2019-2020)
-http://publications.europa.eu/resource/authority/eu-programme/EURATOM_21_27;false;;2021-01-01;EURATOM_21_27;Euratom Research and Training Programme;Programma Euratom di ricerca e formazione
-http://publications.europa.eu/resource/authority/eu-programme/EURI;false;;2021-01-01;EURI;European Union Recovery Instrument (EURI);Strumento dell’Unione europea per la ripresa (EURI)
-http://publications.europa.eu/resource/authority/eu-programme/EURODAC2020;false;;2014-01-01;EURODAC2020;Comparison of fingerprints for the effective application of the Dublin Convention (EURODAC);Confronto delle impronte digitali per l’efficace applicazione della convenzione di Dublino (Eurodac)
-http://publications.europa.eu/resource/authority/eu-programme/EUSF2020;false;;2014-01-01;EUSF2020;European Union Solidarity Fund (EUSF);Fondo di solidarietà dell’Unione europea (FSUE)
-http://publications.europa.eu/resource/authority/eu-programme/EUSF_2021;false;;2021-01-01;EUSF_2021;European Union Solidarity Fund (EUSF);Fondo di solidarietà dell’Unione europea (FSUE)
-http://publications.europa.eu/resource/authority/eu-programme/EUSF_H3;false;;2014-01-01;EUSF_H3;European Union Solidarity Fund (EUSF) — Member States;Fondo di solidarietà dell’Unione europea (FSUE) — Stati membri
-http://publications.europa.eu/resource/authority/eu-programme/EUSF_H4;false;;2014-01-01;EUSF_H4;European Union Solidarity Fund (EUSF) — Countries negotiating for accession;Fondo di solidarietà dell’Unione europea (FSUE) — Stati in fase di negoziato d’adesione
-http://publications.europa.eu/resource/authority/eu-programme/FEAD;false;;2014-01-01;FEAD;Fund for European Aid to the Most Deprived (FEAD);Fondo di aiuti europei agli indigenti (FEAD)
-http://publications.europa.eu/resource/authority/eu-programme/FF2020;false;;2014-01-01;FF2020;Food and feed;Alimenti e mangimi
-http://publications.europa.eu/resource/authority/eu-programme/FINSER2020;false;;2014-01-01;FINSER2020;Specific activities in the field of financial reporting and auditing;Attività specifiche nel campo delle relazioni finanziarie e della revisione dei conti
-http://publications.europa.eu/resource/authority/eu-programme/FISC2020;false;;2014-01-01;FISC2020;Action programme for taxation in the European Union (Fiscalis 2020);Programma d’azione per l’imposizione fiscale nell’Unione europea (Fiscalis 2020)
-http://publications.europa.eu/resource/authority/eu-programme/FISCALIS;false;;2021-01-01;FISCALIS;Cooperation in the field of taxation (FISCALIS);Cooperazione nel settore fiscale (FISCALIS)
-http://publications.europa.eu/resource/authority/eu-programme/FP6;false;;2001-01-01;FP6;Sixth Framework Programme for Research and Innovation;Sesto programma quadro di ricerca e innovazione
-http://publications.europa.eu/resource/authority/eu-programme/FP7;false;;2007-01-01;FP7;Seventh Framework Programme for Research and Innovation;Settimo programma quadro di ricerca e innovazione
-http://publications.europa.eu/resource/authority/eu-programme/GAL2014;false;;2014-01-01;GAL2014;Implementation and exploitation of European satellite navigation systems (EGNOS and Galileo);Realizzazione e funzionamento dei sistemi europei di navigazione satellitare (EGNOS e Galileo)
-http://publications.europa.eu/resource/authority/eu-programme/GRLD2020;false;;2014-01-01;GRLD2020;EU cooperation with Greenland;Cooperazione dell’UE con la Groenlandia
-http://publications.europa.eu/resource/authority/eu-programme/H2020;false;;2014-01-01;H2020;The framework programme for research and innovation (Horizon 2020);Programma quadro per la ricerca e l’innovazione (Orizzonte 2020)
-http://publications.europa.eu/resource/authority/eu-programme/HEALTH;false;;2014-01-01;HEALTH;Union's action in the field of health (Health programme);Azione unionale nel campo della salute (programma sulla salute)
-http://publications.europa.eu/resource/authority/eu-programme/HERC3;false;;2014-01-01;HERC3;Programme to promote activities in the field of the protection of the European Union's financial interests (Hercule III);Programma per la promozione di azioni nel settore della tutela degli interessi finanziari dell’Unione europea (Hercule III)
-http://publications.europa.eu/resource/authority/eu-programme/HFR2015;false;;2012-01-01;HFR2015;Supplementary high flux reactor (HFR) programmes;Programmi supplementari sul reattore comunitario ad alto flusso (HFR)
-http://publications.europa.eu/resource/authority/eu-programme/HFR_09_11;false;;2009-01-01;HFR_09_11;Supplementary High Flux Reactor (HFR) programmes;
-http://publications.europa.eu/resource/authority/eu-programme/HFR_16_19;false;;2016-01-01;HFR_16_19;Supplementary High Flux Reactor (HFR) programmes (2016–2019);
-http://publications.europa.eu/resource/authority/eu-programme/HFR_20_23;false;;2020-01-01;HFR_20_23;Supplementary High Flux Reactor (HFR) programmes (2020–2023);
-http://publications.europa.eu/resource/authority/eu-programme/HORIZONEU;false;;2021-01-01;HORIZONEU;Horizon Europe – the Framework Programme for Research and Innovation;Orizzonte Europa – il programma quadro di ricerca e innovazione
-http://publications.europa.eu/resource/authority/eu-programme/HUMA2020;false;;2014-01-01;HUMA2020;Humanitarian aid;Aiuti umanitari
-http://publications.europa.eu/resource/authority/eu-programme/HUMA_2021;false;;2021-01-01;HUMA_2021;Humanitarian Aid (HUMA);Aiuti umanitari (HUMA)
-http://publications.europa.eu/resource/authority/eu-programme/ICFS;false;;2017-01-01;ICFS;Enhancing consumers involvement in EU policy making in the field of financial services;Rafforzare il coinvolgimento dei consumatori nella definizione delle politiche dell’Unione nel settore dei servizi finanziari
-http://publications.europa.eu/resource/authority/eu-programme/IES;false;;2016-01-01;IES;Instrument for emergency support within the Union;Strumento per il sostegno di emergenza all’interno dell’Unione
-http://publications.europa.eu/resource/authority/eu-programme/IF;false;;2021-01-01;IF;Innovation Fund (IF));Fondo per l’innovazione (IF)
-http://publications.europa.eu/resource/authority/eu-programme/IFS2020;false;;2014-01-01;IFS2020;Instrument contributing to Stability and Peace (IcSP);Strumento inteso a contribuire alla stabilità e alla pace
-http://publications.europa.eu/resource/authority/eu-programme/INSC2020;false;;2014-01-01;INSC2020;Instrument for Nuclear Safety Cooperation (INSC);Strumento per la cooperazione in materia di sicurezza nucleare (INSC)
-http://publications.europa.eu/resource/authority/eu-programme/INVESTEU;false;;2021-01-01;INVESTEU;InvestEU Programme;Programma InvestEU
-http://publications.europa.eu/resource/authority/eu-programme/IPA2;false;;2014-01-01;IPA2;Instrument for Pre-accession Assistance (IPA II);Strumento di assistenza pre-adesione (IPA II)
-http://publications.europa.eu/resource/authority/eu-programme/IPAIII;false;;2021-01-01;IPAIII;Instrument for Pre-accession assistance (IPA III);Strumento per l’assistenza preadesione (IPA III)
-http://publications.europa.eu/resource/authority/eu-programme/ISA2015;false;;2010-01-01;ISA2015;Interoperability Solutions for European Public Administrations (ISA);Soluzioni di interoperabilità per le pubbliche amministrazioni europee (ISA)
-http://publications.europa.eu/resource/authority/eu-programme/ISA2020;false;;2016-01-01;ISA2020;Interoperability Solutions for European public administrations, businesses and citizens (ISA2);Soluzioni di interoperabilità per le pubbliche amministrazioni europee, le imprese e i cittadini (ISA2)
-http://publications.europa.eu/resource/authority/eu-programme/ISF;false;;2014-01-01;ISF;Internal Security Fund (ISF);Fondo Scurezza interna
-http://publications.europa.eu/resource/authority/eu-programme/ISF_2021;false;;2021-01-01;ISF_2021;Internal Security Fund (ISF);Fondo sicurezza interna
-http://publications.europa.eu/resource/authority/eu-programme/ITER;false;;2014-01-01;ITER;International thermonuclear experimental reactor (ITER);Reattore termonucleare sperimentale internazionale (ITER)
-http://publications.europa.eu/resource/authority/eu-programme/ITER_19_20;false;;2019-01-01;ITER_19_20;International Thermonuclear Experimental Reactor (ITER);Reattore termonucleare sperimentale internazionale (ITER)
-http://publications.europa.eu/resource/authority/eu-programme/ITER_2021;false;;2021-01-01;ITER_2021;International Thermonuclear Experimental Reactor (ITER);Reattore termonucleare sperimentale internazionale (ITER)
-http://publications.europa.eu/resource/authority/eu-programme/JTF;false;;2021-01-01;JTF;Just Transition Fund;Fondo per una transizione giusta
-http://publications.europa.eu/resource/authority/eu-programme/JUST;false;;2014-01-01;JUST;Justice programme;Programma «Giustizia»
-http://publications.europa.eu/resource/authority/eu-programme/JUSTICE;false;;2021-01-01;JUSTICE;Justice Programme;Programma Giustizia
-http://publications.europa.eu/resource/authority/eu-programme/LIFE2020;false;;2014-01-01;LIFE2020;Programme for the Environment and Climate Action (LIFE);Programma per l’ambiente e azione per il clima (LIFE)
-http://publications.europa.eu/resource/authority/eu-programme/LIFE_2021;false;;2021-01-01;LIFE_2021;Programme for the Environment and Climate Action (LIFE);Programma per l’ambiente e azione per il clima (LIFE)
-http://publications.europa.eu/resource/authority/eu-programme/LOAN2020;false;;2014-01-01;LOAN2020;Guarantee Fund for external actions;Fondo di garanzia per le azioni esterne
-http://publications.europa.eu/resource/authority/eu-programme/MFA;false;;2014-01-01;MFA;Macro financial assistance (MFA);Assistenza macrofinanziaria
-http://publications.europa.eu/resource/authority/eu-programme/MM_2021;false;;2021-01-01;MM_2021;Military mobility;Mobilità militare
-http://publications.europa.eu/resource/authority/eu-programme/ND;false;;2014-01-01;ND;Nuclear decommissioning assistance programmes in Bulgaria, Lithuania and Slovakia;Programmi di assistenza alla disattivazione nucleare in Bulgaria, Lituania e Slovacchia
-http://publications.europa.eu/resource/authority/eu-programme/NDICI;false;;2021-01-01;NDICI;Neighbourhood, Development and International Cooperation Instrument (NDICI);Strumento di vicinato, cooperazione allo sviluppo e cooperazione internazionale (NDICI)
-http://publications.europa.eu/resource/authority/eu-programme/ND_LITH;false;;2021-01-01;ND_LITH;Nuclear decommissioning assistance programmes (Lithuania);Disattivazione nucleare (Lituania)
-http://publications.europa.eu/resource/authority/eu-programme/ND_OTHER;false;;2021-01-01;ND_OTHER;Nuclear Safety and decommissioning (incl. for Bulgaria and Slovakia);Sicurezza nucleare e disattivazione (anche per Bulgaria e Slovacchia)
-http://publications.europa.eu/resource/authority/eu-programme/OCT;false;;2021-01-01;OCT;Overseas Countries and Territories (OCT) (including Greenland);Paesi e territori d’oltremare (PTOM) (compresa la Groenlandia)
-http://publications.europa.eu/resource/authority/eu-programme/OP_DATPRO;false;;1952-07-23;OP_DATPRO;Provisional data;Dati provvisori
-http://publications.europa.eu/resource/authority/eu-programme/OUTREG;false;;2014-01-01;OUTREG;Outermost and sparsely populated regions;Regioni ultraperiferiche e scarsamente popolate
-http://publications.europa.eu/resource/authority/eu-programme/PERI2020;false;;2014-01-01;PERI2020;Exchange, assistance and training programme for the protection of the euro against counterfeiting (Pericles 2020);Programma di scambi, assistenza e formazione per la protezione dell’euro contro la falsificazione (Pericles 2020)
-http://publications.europa.eu/resource/authority/eu-programme/PERICLES;false;;2021-01-01;PERICLES;Protection of the euro against counterfeiting (the ‘Pericles IV programme’);Protezione dell’euro contro la contraffazione monetaria («programma Pericle IV»)
-http://publications.europa.eu/resource/authority/eu-programme/PI;false;;2014-01-01;PI;Partnership instrument for cooperation with third countries (PI);Strumento di partenariato per la cooperazione con i paesi terzi
-http://publications.europa.eu/resource/authority/eu-programme/PSCI;false;;2014-01-01;PSCI;European Union programme for employment and social innovation (EaSI);Programma dell’Unione europea per l’occupazione e l’innovazione sociale (EaSI)
-http://publications.europa.eu/resource/authority/eu-programme/PSLF_JTM2021;false;;2021-01-01;PSLF_JTM2021;Public sector loan facility under the Just Transition Mechanism (JTM);Strumento di prestito per il settore pubblico nel quadro del meccanismo per una transizione giusta
-http://publications.europa.eu/resource/authority/eu-programme/REGCONV;false;;2014-01-01;REGCONV;Regional convergence (less developed regions);Convergenza regionale (regioni meno sviluppate)
-http://publications.europa.eu/resource/authority/eu-programme/RESCEU;false;;2021-01-01;RESCEU;Union Civil Protection Mechanism (rescEU);Meccanismo di protezione civile dell’Unione (rescEU)
-http://publications.europa.eu/resource/authority/eu-programme/RFMOs;false;;2014-01-01;RFMOs;Compulsory contributions to regional fisheries management organisations (RFMOs) and to other international organisations;Contributi obbligatori delle organizzazioni regionali di gestione della pesca (ORGP) e di altre organizzazioni internazionali
-http://publications.europa.eu/resource/authority/eu-programme/RIGHTS_2021;false;;2021-01-01;RIGHTS_2021;Rights and Values Programme;Programma Diritti e valori
-http://publications.europa.eu/resource/authority/eu-programme/RRF;false;;2021-01-01;RRF;European Recovery and Resilience Facility (incl. Technical Support Instrument);Dispositivo europeo per la ripresa e la resilienza (compreso lo strumento di assistenza tecnica)
-http://publications.europa.eu/resource/authority/eu-programme/SEAR_2021;false;;2021-01-01;SEAR_2021;Solidarity and Emergency Aid Reserve (SEAR);Riserva di solidarietà e per gli aiuti d’urgenza
-http://publications.europa.eu/resource/authority/eu-programme/SFAs;false;;2014-01-01;SFAs;Sustainable Fisheries Partnership Agreements (SFPAs);Accordi di partenariato nel settore della pesca sostenibile (APPS)
-http://publications.europa.eu/resource/authority/eu-programme/SINGLEMKT;false;;2021-01-01;SINGLEMKT;Single Market Programme, including COSME, ISA2, ESP, consumer involvement in fin. Services, financial reporting, Health, Food and Feed, consumer programme;Programma per il mercato unico, comprendente COSME, ISA2, ESP, coinvolgimento dei consumatori nei servizi finanziari, informativa finanziaria, salute, alimenti e mangimi, programma Consumatori
-http://publications.europa.eu/resource/authority/eu-programme/SIS2020;false;;2014-01-01;SIS2020;Schengen Information System (SIS);Sistema d’informazione Schengen (SIS)
-http://publications.europa.eu/resource/authority/eu-programme/SPACE;false;;2021-01-01;SPACE;European Space Programme;Programma spaziale europeo
-http://publications.europa.eu/resource/authority/eu-programme/TA_IA;false;;2014-01-01;TA_IA;Technical assistance and innovative actions;Assistenza tecnica e azioni innovative
-http://publications.europa.eu/resource/authority/eu-programme/TCC;false;;2014-01-01;TCC;Instrument of financial support for encouraging the economic development of the Turkish Cypriot community (TCC);Strumento di sostegno finanziario per promuovere lo sviluppo economico della comunità turco-cipriota
-http://publications.europa.eu/resource/authority/eu-programme/TCC_2021;false;;2021-01-01;TCC_2021;Support to the Turkish Cypriot Community;Sostegno alla comunità turco-cipriota
-http://publications.europa.eu/resource/authority/eu-programme/TERRCOOP;false;;2014-01-01;TERRCOOP;European territorial cooperation;Cooperazione territoriale europea
-http://publications.europa.eu/resource/authority/eu-programme/TRANSREG;false;;2014-01-01;TRANSREG;Transition regions;Regioni in transizione
-http://publications.europa.eu/resource/authority/eu-programme/VIS2020;false;;2014-01-01;VIS2020;Visa Information System (VIS);Sistema di informazione sui visti (VIS)
-http://publications.europa.eu/resource/authority/eu-programme/YEI;false;;2014-01-01;YEI;Youth employment initiative (specific top-up allocation);Iniziativa a favore dell’occupazione giovanile (dotazione complementare specifica)
+url,deprecated,valid_until,valid_from,id,label_en,label_it
+http://publications.europa.eu/resource/authority/eu-programme/AFIS2020,false,,2014-01-01,AFIS2020,Anti Fraud Information System (AFIS),Sistema d’informazione antifrode (AFIS)
+http://publications.europa.eu/resource/authority/eu-programme/AGR,false,,2014-01-01,AGR,European Agricultural Guarantee Fund (after transfers between EAGF and EAFRD),Fondo europeo agricolo di garanzia (dopo trasferimenti tra FEAGA e FEASR)
+http://publications.europa.eu/resource/authority/eu-programme/AGRNET,true,2014-01-02,2014-01-01,AGRNET,Net transfer between EAGF and EAFRD,Trasferimento netto tra FEAGA e FEASR
+http://publications.europa.eu/resource/authority/eu-programme/AMF,false,,2014-01-01,AMF,"Asylum, Migration and Integration Fund (AMF)","Fondo Asilo, migrazione e integrazione"
+http://publications.europa.eu/resource/authority/eu-programme/AMIF,false,,2021-01-01,AMIF,Asylum and Migration Fund (AMIF),Fondo Asilo e migrazione (AMF)
+http://publications.europa.eu/resource/authority/eu-programme/ANTIFRAUD,false,,2021-01-01,ANTIFRAUD,EU Anti-Fraud Programme,Programma antifrode dell’UE
+http://publications.europa.eu/resource/authority/eu-programme/BMVI,false,,2021-01-01,BMVI,Integrated Border Management Fund (IBMF) – instrument for border management and visa (BMVi),Fondo per la gestione integrata delle frontiere (IBMF) - Strumento per la gestione delle frontiere e i visti (BMVI)
+http://publications.europa.eu/resource/authority/eu-programme/CCEI,false,,2021-01-01,CCEI,Integrated Border Management Fund (IBMF) – Instrument for financial support for customs control equipment (CCEi),Fondo per la gestione integrata delle frontiere (IBMF) - Strumento di sostegno finanziario relativo alle attrezzature per il controllo doganale (CCEI)
+http://publications.europa.eu/resource/authority/eu-programme/CDF2020,false,,2014-01-01,CDF2020,"Rights, equality and citizenship programme","Programma Diritti, uguaglianza e cittadinanza"
+http://publications.europa.eu/resource/authority/eu-programme/CEF,false,,2014-01-01,CEF,Connecting Europe Facility (CEF),Meccanismo per collegare l’Europa (CEF)
+http://publications.europa.eu/resource/authority/eu-programme/CEF_2021,false,,2021-01-01,CEF_2021,Connecting Europe Facility (CEF),Meccanismo per collegare l’Europa (MCE)
+http://publications.europa.eu/resource/authority/eu-programme/CERV,false,,2021-01-01,CERV,"Citizens, Equality, Rights and Values","Cittadini, uguaglianza, diritti e valori"
+http://publications.europa.eu/resource/authority/eu-programme/CF,false,,2014-01-01,CF,Cohesion Fund (CF),Fondo di coesione (FC)
+http://publications.europa.eu/resource/authority/eu-programme/CFSP2020,false,,2014-01-01,CFSP2020,Common foreign and security policy (CFSP),Politica estera e di sicurezza comune (PESC)
+http://publications.europa.eu/resource/authority/eu-programme/CFSP_2021,false,,2021-01-01,CFSP_2021,Common Foreign and Security Policy (CFSP),Politica estera e di sicurezza comune (PESC)
+http://publications.europa.eu/resource/authority/eu-programme/CF_2021,false,,2021-01-01,CF_2021,Cohesion Fund (CF),Fondo di coesione (FC)
+http://publications.europa.eu/resource/authority/eu-programme/CF_DET,false,,2014-01-01,CF_DET,Contribution from the Cohesion Fund to the CEF programme,Contributo del Fondo di coesione al programma CEF
+http://publications.europa.eu/resource/authority/eu-programme/CIFP_07_13,false,,2007-01-01,CIFP_07_13,Competitiveness and Innovation Framework Programme,Programma quadro per la competitività e l’innovazione
+http://publications.europa.eu/resource/authority/eu-programme/CIT2020,false,,2014-01-01,CIT2020,Europe for Citizens,Europa per i cittadini
+http://publications.europa.eu/resource/authority/eu-programme/COMPREG,false,,2014-01-01,COMPREG,Competitiveness (more developed regions),Competitività (regioni più sviluppate)
+http://publications.europa.eu/resource/authority/eu-programme/CONS,false,,2014-01-01,CONS,Consumer programme,Programma «Consumatori»
+http://publications.europa.eu/resource/authority/eu-programme/COPERNICUS,false,,2014-01-01,COPERNICUS,European Earth Observation Programme (Copernicus),Programma europeo di osservazione della terra (Copernicus)
+http://publications.europa.eu/resource/authority/eu-programme/COSME,false,,2014-01-01,COSME,Programme for the competitiveness of enterprises and small and medium-sized enterprises (COSME),Programma per la competitività delle imprese e le PMI (COSME)
+http://publications.europa.eu/resource/authority/eu-programme/CPM_H3,false,,2014-01-01,CPM_H3,Union Civil Protection Mechanism — Member States,Meccanismo di protezione civile dell’Unione — Stati membri
+http://publications.europa.eu/resource/authority/eu-programme/CPM_H4,false,,2014-01-01,CPM_H4,Union Civil Protection Mechanism — Outside EU,Meccanismo di protezione civile dell’Unione — Al di fuori dell’UE
+http://publications.europa.eu/resource/authority/eu-programme/CREA,false,,2014-01-01,CREA,Creative Europe programme,Programma «Europa creativa»
+http://publications.europa.eu/resource/authority/eu-programme/CREATIVEEU,false,,2021-01-01,CREATIVEEU,Creative Europe,Europa creativa
+http://publications.europa.eu/resource/authority/eu-programme/CUST2020,false,,2014-01-01,CUST2020,Action programme for customs in the European Union (Customs 2020),Programma d’azione per la dogana nell’Unione europea (Dogane 2020)
+http://publications.europa.eu/resource/authority/eu-programme/CUSTOMS,false,,2021-01-01,CUSTOMS,Cooperation in the field of customs (CUSTOMS),Cooperazione nel settore doganale (DOGANE)
+http://publications.europa.eu/resource/authority/eu-programme/DCI2020,false,,2014-01-01,DCI2020,Development Cooperation Instrument (DCI),Strumento di cooperazione allo sviluppo (DCI)
+http://publications.europa.eu/resource/authority/eu-programme/DIGITALEU,false,,2021-01-01,DIGITALEU,Digital Europe Programme,Programma Europa digitale
+http://publications.europa.eu/resource/authority/eu-programme/E4A,false,,2014-01-01,E4A,"The Union programme for education, training, youth and sport (Erasmus+)","Programma dell’Unione per l’istruzione, la formazione, la gioventù e lo sport (Erasmus+)"
+http://publications.europa.eu/resource/authority/eu-programme/EAFRD,false,,2014-01-01,EAFRD,European Agricultural Fund for Rural Development (after transfers between EAGF and EAFRD),Fondo europeo agricolo per lo sviluppo rurale (dopo trasferimenti tra FEAGA e FEASR)
+http://publications.europa.eu/resource/authority/eu-programme/EAFRD2020,false,,2014-01-01,EAFRD2020,European Agricultural Fund for Rural Development (EAFRD),Fondo europeo agricolo per lo sviluppo rurale (FEASR)
+http://publications.europa.eu/resource/authority/eu-programme/EAFRD_2021,false,,2021-01-01,EAFRD_2021,European Agricultural Fund for Rural Development (EAFRD),Fondo europeo agricolo per lo sviluppo rurale (FEASR)
+http://publications.europa.eu/resource/authority/eu-programme/EAGF2020,false,,2014-01-01,EAGF2020,European Agricultural Guarantee Fund (EAGF),Fondo europeo agricolo di garanzia (FEAGA)
+http://publications.europa.eu/resource/authority/eu-programme/EAGF_2021,false,,2021-01-01,EAGF_2021,European Agricultural Guarantee Fund (EAGF),Fondo europeo agricolo di garanzia (FEAGA)
+http://publications.europa.eu/resource/authority/eu-programme/EAR2020,false,,2014-01-01,EAR2020,Emergency Aid Reserve (EAR),Riserva per aiuti d’urgenza
+http://publications.europa.eu/resource/authority/eu-programme/EDF,false,,2021-01-01,EDF,European Defence Fund (EDF),Fondo europeo per la difesa (FED)
+http://publications.europa.eu/resource/authority/eu-programme/EDIDP,false,,2019-01-01,EDIDP,European Defence Industrial Development Programme,Programma europeo di sviluppo del settore industriale della difesa
+http://publications.europa.eu/resource/authority/eu-programme/EERP,true,2013-12-31,2009-01-01,EERP,Energy projects to aid economic recovery (EERP),Progetti energetici per sostenere la ripresa economica
+http://publications.europa.eu/resource/authority/eu-programme/EFSD,false,,2017-01-01,EFSD,European Fund for Sustainable Development (EFSD),Fondo europeo per lo sviluppo sostenibile (EFSD)
+http://publications.europa.eu/resource/authority/eu-programme/EFSI,false,,2015-01-01,EFSI,European Fund for Strategic Investments (EFSI),Fondo europeo per gli investimenti strategici (FEIS)
+http://publications.europa.eu/resource/authority/eu-programme/EGF2020,false,,2014-01-01,EGF2020,European Globalisation Adjustment Fund (EGF),Fondo europeo di adeguamento alla globalizzazione (FEG)
+http://publications.europa.eu/resource/authority/eu-programme/EGF_2021,false,,2021-01-01,EGF_2021,European Globalisation Adjustment Fund (EGF),Fondo europeo di adeguamento alla globalizzazione (FEG)
+http://publications.europa.eu/resource/authority/eu-programme/EIDHR2020,false,,2014-01-01,EIDHR2020,European Instrument for Democracy and Human Rights (EIDHR),Strumento europeo per la democrazia e i diritti umani (EIDHR)
+http://publications.europa.eu/resource/authority/eu-programme/EINS,false,,2021-01-01,EINS,European Instrument for Nuclear Safety (EINS),Strumento europeo per la sicurezza nucleare (EINS)
+http://publications.europa.eu/resource/authority/eu-programme/EMFAF,false,,2021-01-01,EMFAF,"European Maritime, Fisheries and Aquaculture Fund (EMFAF)","Fondo europeo per gli affari marittimi, la pesca e l’acquacoltura (FEAMPA)"
+http://publications.europa.eu/resource/authority/eu-programme/EMFF2020,false,,2014-01-01,EMFF2020,European Maritime and Fisheries Fund (EMFF),Fondo europeo per gli affari marittimi e la pesca (FEAMP)
+http://publications.europa.eu/resource/authority/eu-programme/EMFF_2021,false,,2021-01-01,EMFF_2021,European Maritime and Fisheries Fund (EMFF),Fondo europeo per gli affari marittimi e la pesca (FEAMP)
+http://publications.europa.eu/resource/authority/eu-programme/ENI,false,,2014-01-01,ENI,European Neighbourhood Instrument (ENI),Strumento europeo di vicinato (ENI)
+http://publications.europa.eu/resource/authority/eu-programme/EPF,false,,2021-01-01,EPF,European Peace Facility,Strumento europeo per la pace
+http://publications.europa.eu/resource/authority/eu-programme/ERASMUS_PLUS,false,,2021-01-01,ERASMUS_PLUS,Erasmus+,Erasmus+
+http://publications.europa.eu/resource/authority/eu-programme/ERDF,false,,2014-01-01,ERDF,European Regional Development Fund (ERDF),Fondo europeo di sviluppo regionale (FESR)
+http://publications.europa.eu/resource/authority/eu-programme/ERDF_2021,false,,2021-01-01,ERDF_2021,European Regional Development Fund (ERDF),Fondo europeo di sviluppo regionale (FESR)
+http://publications.europa.eu/resource/authority/eu-programme/ESC,false,,2018-01-01,ESC,European Solidarity Corps (ESC),Corpo europeo di solidarietà (ESC)
+http://publications.europa.eu/resource/authority/eu-programme/ESC_2021,false,,2021-01-01,ESC_2021,European Solidarity Corps (ESC),Corpo europeo di solidarietà (ESC)
+http://publications.europa.eu/resource/authority/eu-programme/ESF,false,,2014-01-01,ESF,European Social Fund (ESF),Fondo sociale europeo (FSE)
+http://publications.europa.eu/resource/authority/eu-programme/ESF_PLUS,false,,2021-01-01,ESF_PLUS,European Social Fund Plus (ESF+),Fondo sociale europeo Plus (FSE+)
+http://publications.europa.eu/resource/authority/eu-programme/ESI_2021,false,,2021-01-01,ESI_2021,Instrument for emergency support within the Union (ESI),Strumento per il sostegno di emergenza all’interno dell’Unione (ESI)
+http://publications.europa.eu/resource/authority/eu-programme/ESP2017,false,,2013-01-01,ESP2017,European statistical programme (ESP),Programma statistico europeo
+http://publications.europa.eu/resource/authority/eu-programme/ESP2020,false,,2013-01-01,ESP2020,European statistical programme (ESP),Programma statistico europeo
+http://publications.europa.eu/resource/authority/eu-programme/EU4HEALTH,false,,2021-01-01,EU4HEALTH,EU4Health Programme,Programma «UE per la salute»
+http://publications.europa.eu/resource/authority/eu-programme/EUAV,false,,2014-01-01,EUAV,EU Aid Volunteers initiative (EUAV),Iniziativa Volontari dell’Unione per l’aiuto umanitario (VUAU)
+http://publications.europa.eu/resource/authority/eu-programme/EURATOM,false,,2014-01-01,EURATOM,Euratom research and training programme,Programma Euratom di ricerca e formazione
+http://publications.europa.eu/resource/authority/eu-programme/EURATOM_07_13,false,,2007-01-01,EURATOM_07_13,Euratom Research and Training Programme (2007–2013),Programma Euratom di ricerca e formazione (2007-2013)
+http://publications.europa.eu/resource/authority/eu-programme/EURATOM_19_20,false,,2019-01-01,EURATOM_19_20,Euratom Research and Training Programme (2019–2020),Programma Euratom di ricerca e formazione (2019-2020)
+http://publications.europa.eu/resource/authority/eu-programme/EURATOM_21_27,false,,2021-01-01,EURATOM_21_27,Euratom Research and Training Programme,Programma Euratom di ricerca e formazione
+http://publications.europa.eu/resource/authority/eu-programme/EURI,false,,2021-01-01,EURI,European Union Recovery Instrument (EURI),Strumento dell’Unione europea per la ripresa (EURI)
+http://publications.europa.eu/resource/authority/eu-programme/EURODAC2020,false,,2014-01-01,EURODAC2020,Comparison of fingerprints for the effective application of the Dublin Convention (EURODAC),Confronto delle impronte digitali per l’efficace applicazione della convenzione di Dublino (Eurodac)
+http://publications.europa.eu/resource/authority/eu-programme/EUSF2020,false,,2014-01-01,EUSF2020,European Union Solidarity Fund (EUSF),Fondo di solidarietà dell’Unione europea (FSUE)
+http://publications.europa.eu/resource/authority/eu-programme/EUSF_2021,false,,2021-01-01,EUSF_2021,European Union Solidarity Fund (EUSF),Fondo di solidarietà dell’Unione europea (FSUE)
+http://publications.europa.eu/resource/authority/eu-programme/EUSF_H3,false,,2014-01-01,EUSF_H3,European Union Solidarity Fund (EUSF) — Member States,Fondo di solidarietà dell’Unione europea (FSUE) — Stati membri
+http://publications.europa.eu/resource/authority/eu-programme/EUSF_H4,false,,2014-01-01,EUSF_H4,European Union Solidarity Fund (EUSF) — Countries negotiating for accession,Fondo di solidarietà dell’Unione europea (FSUE) — Stati in fase di negoziato d’adesione
+http://publications.europa.eu/resource/authority/eu-programme/FEAD,false,,2014-01-01,FEAD,Fund for European Aid to the Most Deprived (FEAD),Fondo di aiuti europei agli indigenti (FEAD)
+http://publications.europa.eu/resource/authority/eu-programme/FF2020,false,,2014-01-01,FF2020,Food and feed,Alimenti e mangimi
+http://publications.europa.eu/resource/authority/eu-programme/FINSER2020,false,,2014-01-01,FINSER2020,Specific activities in the field of financial reporting and auditing,Attività specifiche nel campo delle relazioni finanziarie e della revisione dei conti
+http://publications.europa.eu/resource/authority/eu-programme/FISC2020,false,,2014-01-01,FISC2020,Action programme for taxation in the European Union (Fiscalis 2020),Programma d’azione per l’imposizione fiscale nell’Unione europea (Fiscalis 2020)
+http://publications.europa.eu/resource/authority/eu-programme/FISCALIS,false,,2021-01-01,FISCALIS,Cooperation in the field of taxation (FISCALIS),Cooperazione nel settore fiscale (FISCALIS)
+http://publications.europa.eu/resource/authority/eu-programme/FP6,false,,2001-01-01,FP6,Sixth Framework Programme for Research and Innovation,Sesto programma quadro di ricerca e innovazione
+http://publications.europa.eu/resource/authority/eu-programme/FP7,false,,2007-01-01,FP7,Seventh Framework Programme for Research and Innovation,Settimo programma quadro di ricerca e innovazione
+http://publications.europa.eu/resource/authority/eu-programme/GAL2014,false,,2014-01-01,GAL2014,Implementation and exploitation of European satellite navigation systems (EGNOS and Galileo),Realizzazione e funzionamento dei sistemi europei di navigazione satellitare (EGNOS e Galileo)
+http://publications.europa.eu/resource/authority/eu-programme/GRLD2020,false,,2014-01-01,GRLD2020,EU cooperation with Greenland,Cooperazione dell’UE con la Groenlandia
+http://publications.europa.eu/resource/authority/eu-programme/H2020,false,,2014-01-01,H2020,The framework programme for research and innovation (Horizon 2020),Programma quadro per la ricerca e l’innovazione (Orizzonte 2020)
+http://publications.europa.eu/resource/authority/eu-programme/HEALTH,false,,2014-01-01,HEALTH,Union's action in the field of health (Health programme),Azione unionale nel campo della salute (programma sulla salute)
+http://publications.europa.eu/resource/authority/eu-programme/HERC3,false,,2014-01-01,HERC3,Programme to promote activities in the field of the protection of the European Union's financial interests (Hercule III),Programma per la promozione di azioni nel settore della tutela degli interessi finanziari dell’Unione europea (Hercule III)
+http://publications.europa.eu/resource/authority/eu-programme/HFR2015,false,,2012-01-01,HFR2015,Supplementary high flux reactor (HFR) programmes,Programmi supplementari sul reattore comunitario ad alto flusso (HFR)
+http://publications.europa.eu/resource/authority/eu-programme/HFR_09_11,false,,2009-01-01,HFR_09_11,Supplementary High Flux Reactor (HFR) programmes,
+http://publications.europa.eu/resource/authority/eu-programme/HFR_16_19,false,,2016-01-01,HFR_16_19,Supplementary High Flux Reactor (HFR) programmes (2016–2019),
+http://publications.europa.eu/resource/authority/eu-programme/HFR_20_23,false,,2020-01-01,HFR_20_23,Supplementary High Flux Reactor (HFR) programmes (2020–2023),
+http://publications.europa.eu/resource/authority/eu-programme/HORIZONEU,false,,2021-01-01,HORIZONEU,Horizon Europe – the Framework Programme for Research and Innovation,Orizzonte Europa – il programma quadro di ricerca e innovazione
+http://publications.europa.eu/resource/authority/eu-programme/HUMA2020,false,,2014-01-01,HUMA2020,Humanitarian aid,Aiuti umanitari
+http://publications.europa.eu/resource/authority/eu-programme/HUMA_2021,false,,2021-01-01,HUMA_2021,Humanitarian Aid (HUMA),Aiuti umanitari (HUMA)
+http://publications.europa.eu/resource/authority/eu-programme/ICFS,false,,2017-01-01,ICFS,Enhancing consumers involvement in EU policy making in the field of financial services,Rafforzare il coinvolgimento dei consumatori nella definizione delle politiche dell’Unione nel settore dei servizi finanziari
+http://publications.europa.eu/resource/authority/eu-programme/IES,false,,2016-01-01,IES,Instrument for emergency support within the Union,Strumento per il sostegno di emergenza all’interno dell’Unione
+http://publications.europa.eu/resource/authority/eu-programme/IF,false,,2021-01-01,IF,Innovation Fund (IF)),Fondo per l’innovazione (IF)
+http://publications.europa.eu/resource/authority/eu-programme/IFS2020,false,,2014-01-01,IFS2020,Instrument contributing to Stability and Peace (IcSP),Strumento inteso a contribuire alla stabilità e alla pace
+http://publications.europa.eu/resource/authority/eu-programme/INSC2020,false,,2014-01-01,INSC2020,Instrument for Nuclear Safety Cooperation (INSC),Strumento per la cooperazione in materia di sicurezza nucleare (INSC)
+http://publications.europa.eu/resource/authority/eu-programme/INVESTEU,false,,2021-01-01,INVESTEU,InvestEU Programme,Programma InvestEU
+http://publications.europa.eu/resource/authority/eu-programme/IPA2,false,,2014-01-01,IPA2,Instrument for Pre-accession Assistance (IPA II),Strumento di assistenza pre-adesione (IPA II)
+http://publications.europa.eu/resource/authority/eu-programme/IPAIII,false,,2021-01-01,IPAIII,Instrument for Pre-accession assistance (IPA III),Strumento per l’assistenza preadesione (IPA III)
+http://publications.europa.eu/resource/authority/eu-programme/ISA2015,false,,2010-01-01,ISA2015,Interoperability Solutions for European Public Administrations (ISA),Soluzioni di interoperabilità per le pubbliche amministrazioni europee (ISA)
+http://publications.europa.eu/resource/authority/eu-programme/ISA2020,false,,2016-01-01,ISA2020,"Interoperability Solutions for European public administrations, businesses and citizens (ISA2)","Soluzioni di interoperabilità per le pubbliche amministrazioni europee, le imprese e i cittadini (ISA2)"
+http://publications.europa.eu/resource/authority/eu-programme/ISF,false,,2014-01-01,ISF,Internal Security Fund (ISF),Fondo Scurezza interna
+http://publications.europa.eu/resource/authority/eu-programme/ISF_2021,false,,2021-01-01,ISF_2021,Internal Security Fund (ISF),Fondo sicurezza interna
+http://publications.europa.eu/resource/authority/eu-programme/ITER,false,,2014-01-01,ITER,International thermonuclear experimental reactor (ITER),Reattore termonucleare sperimentale internazionale (ITER)
+http://publications.europa.eu/resource/authority/eu-programme/ITER_19_20,false,,2019-01-01,ITER_19_20,International Thermonuclear Experimental Reactor (ITER),Reattore termonucleare sperimentale internazionale (ITER)
+http://publications.europa.eu/resource/authority/eu-programme/ITER_2021,false,,2021-01-01,ITER_2021,International Thermonuclear Experimental Reactor (ITER),Reattore termonucleare sperimentale internazionale (ITER)
+http://publications.europa.eu/resource/authority/eu-programme/JTF,false,,2021-01-01,JTF,Just Transition Fund,Fondo per una transizione giusta
+http://publications.europa.eu/resource/authority/eu-programme/JUST,false,,2014-01-01,JUST,Justice programme,Programma «Giustizia»
+http://publications.europa.eu/resource/authority/eu-programme/JUSTICE,false,,2021-01-01,JUSTICE,Justice Programme,Programma Giustizia
+http://publications.europa.eu/resource/authority/eu-programme/LIFE2020,false,,2014-01-01,LIFE2020,Programme for the Environment and Climate Action (LIFE),Programma per l’ambiente e azione per il clima (LIFE)
+http://publications.europa.eu/resource/authority/eu-programme/LIFE_2021,false,,2021-01-01,LIFE_2021,Programme for the Environment and Climate Action (LIFE),Programma per l’ambiente e azione per il clima (LIFE)
+http://publications.europa.eu/resource/authority/eu-programme/LOAN2020,false,,2014-01-01,LOAN2020,Guarantee Fund for external actions,Fondo di garanzia per le azioni esterne
+http://publications.europa.eu/resource/authority/eu-programme/MFA,false,,2014-01-01,MFA,Macro financial assistance (MFA),Assistenza macrofinanziaria
+http://publications.europa.eu/resource/authority/eu-programme/MM_2021,false,,2021-01-01,MM_2021,Military mobility,Mobilità militare
+http://publications.europa.eu/resource/authority/eu-programme/ND,false,,2014-01-01,ND,"Nuclear decommissioning assistance programmes in Bulgaria, Lithuania and Slovakia","Programmi di assistenza alla disattivazione nucleare in Bulgaria, Lituania e Slovacchia"
+http://publications.europa.eu/resource/authority/eu-programme/NDICI,false,,2021-01-01,NDICI,"Neighbourhood, Development and International Cooperation Instrument (NDICI)","Strumento di vicinato, cooperazione allo sviluppo e cooperazione internazionale (NDICI)"
+http://publications.europa.eu/resource/authority/eu-programme/ND_LITH,false,,2021-01-01,ND_LITH,Nuclear decommissioning assistance programmes (Lithuania),Disattivazione nucleare (Lituania)
+http://publications.europa.eu/resource/authority/eu-programme/ND_OTHER,false,,2021-01-01,ND_OTHER,Nuclear Safety and decommissioning (incl. for Bulgaria and Slovakia),Sicurezza nucleare e disattivazione (anche per Bulgaria e Slovacchia)
+http://publications.europa.eu/resource/authority/eu-programme/OCT,false,,2021-01-01,OCT,Overseas Countries and Territories (OCT) (including Greenland),Paesi e territori d’oltremare (PTOM) (compresa la Groenlandia)
+http://publications.europa.eu/resource/authority/eu-programme/OP_DATPRO,false,,1952-07-23,OP_DATPRO,Provisional data,Dati provvisori
+http://publications.europa.eu/resource/authority/eu-programme/OUTREG,false,,2014-01-01,OUTREG,Outermost and sparsely populated regions,Regioni ultraperiferiche e scarsamente popolate
+http://publications.europa.eu/resource/authority/eu-programme/PERI2020,false,,2014-01-01,PERI2020,"Exchange, assistance and training programme for the protection of the euro against counterfeiting (Pericles 2020)","Programma di scambi, assistenza e formazione per la protezione dell’euro contro la falsificazione (Pericles 2020)"
+http://publications.europa.eu/resource/authority/eu-programme/PERICLES,false,,2021-01-01,PERICLES,Protection of the euro against counterfeiting (the ‘Pericles IV programme’),Protezione dell’euro contro la contraffazione monetaria («programma Pericle IV»)
+http://publications.europa.eu/resource/authority/eu-programme/PI,false,,2014-01-01,PI,Partnership instrument for cooperation with third countries (PI),Strumento di partenariato per la cooperazione con i paesi terzi
+http://publications.europa.eu/resource/authority/eu-programme/PSCI,false,,2014-01-01,PSCI,European Union programme for employment and social innovation (EaSI),Programma dell’Unione europea per l’occupazione e l’innovazione sociale (EaSI)
+http://publications.europa.eu/resource/authority/eu-programme/PSLF_JTM2021,false,,2021-01-01,PSLF_JTM2021,Public sector loan facility under the Just Transition Mechanism (JTM),Strumento di prestito per il settore pubblico nel quadro del meccanismo per una transizione giusta
+http://publications.europa.eu/resource/authority/eu-programme/REGCONV,false,,2014-01-01,REGCONV,Regional convergence (less developed regions),Convergenza regionale (regioni meno sviluppate)
+http://publications.europa.eu/resource/authority/eu-programme/RESCEU,false,,2021-01-01,RESCEU,Union Civil Protection Mechanism (rescEU),Meccanismo di protezione civile dell’Unione (rescEU)
+http://publications.europa.eu/resource/authority/eu-programme/RFMOs,false,,2014-01-01,RFMOs,Compulsory contributions to regional fisheries management organisations (RFMOs) and to other international organisations,Contributi obbligatori delle organizzazioni regionali di gestione della pesca (ORGP) e di altre organizzazioni internazionali
+http://publications.europa.eu/resource/authority/eu-programme/RIGHTS_2021,false,,2021-01-01,RIGHTS_2021,Rights and Values Programme,Programma Diritti e valori
+http://publications.europa.eu/resource/authority/eu-programme/RRF,false,,2021-01-01,RRF,European Recovery and Resilience Facility (incl. Technical Support Instrument),Dispositivo europeo per la ripresa e la resilienza (compreso lo strumento di assistenza tecnica)
+http://publications.europa.eu/resource/authority/eu-programme/SEAR_2021,false,,2021-01-01,SEAR_2021,Solidarity and Emergency Aid Reserve (SEAR),Riserva di solidarietà e per gli aiuti d’urgenza
+http://publications.europa.eu/resource/authority/eu-programme/SFAs,false,,2014-01-01,SFAs,Sustainable Fisheries Partnership Agreements (SFPAs),Accordi di partenariato nel settore della pesca sostenibile (APPS)
+http://publications.europa.eu/resource/authority/eu-programme/SINGLEMKT,false,,2021-01-01,SINGLEMKT,"Single Market Programme, including COSME, ISA2, ESP, consumer involvement in fin. Services, financial reporting, Health, Food and Feed, consumer programme","Programma per il mercato unico, comprendente COSME, ISA2, ESP, coinvolgimento dei consumatori nei servizi finanziari, informativa finanziaria, salute, alimenti e mangimi, programma Consumatori"
+http://publications.europa.eu/resource/authority/eu-programme/SIS2020,false,,2014-01-01,SIS2020,Schengen Information System (SIS),Sistema d’informazione Schengen (SIS)
+http://publications.europa.eu/resource/authority/eu-programme/SPACE,false,,2021-01-01,SPACE,European Space Programme,Programma spaziale europeo
+http://publications.europa.eu/resource/authority/eu-programme/TA_IA,false,,2014-01-01,TA_IA,Technical assistance and innovative actions,Assistenza tecnica e azioni innovative
+http://publications.europa.eu/resource/authority/eu-programme/TCC,false,,2014-01-01,TCC,Instrument of financial support for encouraging the economic development of the Turkish Cypriot community (TCC),Strumento di sostegno finanziario per promuovere lo sviluppo economico della comunità turco-cipriota
+http://publications.europa.eu/resource/authority/eu-programme/TCC_2021,false,,2021-01-01,TCC_2021,Support to the Turkish Cypriot Community,Sostegno alla comunità turco-cipriota
+http://publications.europa.eu/resource/authority/eu-programme/TERRCOOP,false,,2014-01-01,TERRCOOP,European territorial cooperation,Cooperazione territoriale europea
+http://publications.europa.eu/resource/authority/eu-programme/TRANSREG,false,,2014-01-01,TRANSREG,Transition regions,Regioni in transizione
+http://publications.europa.eu/resource/authority/eu-programme/VIS2020,false,,2014-01-01,VIS2020,Visa Information System (VIS),Sistema di informazione sui visti (VIS)
+http://publications.europa.eu/resource/authority/eu-programme/YEI,false,,2014-01-01,YEI,Youth employment initiative (specific top-up allocation),Iniziativa a favore dell’occupazione giovanile (dotazione complementare specifica)

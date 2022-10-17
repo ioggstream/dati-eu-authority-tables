@@ -1,8 +1,8 @@
-url;deprecated;valid_until;valid_from;id;label_en;label_it
-http://publications.europa.eu/resource/authority/position-type/CONTR;false;;1958-01-01;CONTR;contractual;contrattuale
-http://publications.europa.eu/resource/authority/position-type/OP_DATPRO;;;;OP_DATPRO;Provisional data;Dati provvisori
-http://publications.europa.eu/resource/authority/position-type/OTHER;false;;1958-01-01;OTHER;other;altro
-http://publications.europa.eu/resource/authority/position-type/PERM;false;;1958-01-01;PERM;permanent;permanente
-http://publications.europa.eu/resource/authority/position-type/SNE;false;;1958-01-01;SNE;seconded national expert;esperto nazionale distaccato
-http://publications.europa.eu/resource/authority/position-type/TEMP;false;;1958-01-01;TEMP;temporary;temporaneo
-http://publications.europa.eu/resource/authority/position-type/TRAINEE;false;;1958-01-01;TRAINEE;trainee;tirocinante
+url,deprecated,valid_until,valid_from,id,label_en,label_it
+http://publications.europa.eu/resource/authority/position-type/CONTR,false,,1958-01-01,CONTR,contractual,contrattuale
+http://publications.europa.eu/resource/authority/position-type/OP_DATPRO,,,,OP_DATPRO,Provisional data,Dati provvisori
+http://publications.europa.eu/resource/authority/position-type/OTHER,false,,1958-01-01,OTHER,other,altro
+http://publications.europa.eu/resource/authority/position-type/PERM,false,,1958-01-01,PERM,permanent,permanente
+http://publications.europa.eu/resource/authority/position-type/SNE,false,,1958-01-01,SNE,seconded national expert,esperto nazionale distaccato
+http://publications.europa.eu/resource/authority/position-type/TEMP,false,,1958-01-01,TEMP,temporary,temporaneo
+http://publications.europa.eu/resource/authority/position-type/TRAINEE,false,,1958-01-01,TRAINEE,trainee,tirocinante

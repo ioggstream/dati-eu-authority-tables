@@ -1,9 +1,9 @@
-url;deprecated;valid_until;valid_from;id;label_en;label_it
-http://publications.europa.eu/resource/authority/legal-act-domain/CFSP;false;;1993-11-01;CFSP;CFSP;PESC
-http://publications.europa.eu/resource/authority/legal-act-domain/EC;true;2009-11-30;1993-11-01;EC;EC;CE
-http://publications.europa.eu/resource/authority/legal-act-domain/ECSC;true;1993-10-31;1952-07-23;ECSC;ECSC;CECA
-http://publications.europa.eu/resource/authority/legal-act-domain/EEC;true;1993-10-31;1958-01-01;EEC;EEC;CEE
-http://publications.europa.eu/resource/authority/legal-act-domain/EU;false;;2009-12-01;EU;EU;UE
-http://publications.europa.eu/resource/authority/legal-act-domain/EURATOM;false;;1958-01-01;EURATOM;Euratom;Euratom
-http://publications.europa.eu/resource/authority/legal-act-domain/JHA;true;2009-11-30;1993-11-01;JHA;JHA;GAI
-http://publications.europa.eu/resource/authority/legal-act-domain/OP_DATPRO;false;;1952-07-23;OP_DATPRO;Provisional data;Dati provvisori
+url,deprecated,valid_until,valid_from,id,label_en,label_it
+http://publications.europa.eu/resource/authority/legal-act-domain/CFSP,false,,1993-11-01,CFSP,CFSP,PESC
+http://publications.europa.eu/resource/authority/legal-act-domain/EC,true,2009-11-30,1993-11-01,EC,EC,CE
+http://publications.europa.eu/resource/authority/legal-act-domain/ECSC,true,1993-10-31,1952-07-23,ECSC,ECSC,CECA
+http://publications.europa.eu/resource/authority/legal-act-domain/EEC,true,1993-10-31,1958-01-01,EEC,EEC,CEE
+http://publications.europa.eu/resource/authority/legal-act-domain/EU,false,,2009-12-01,EU,EU,UE
+http://publications.europa.eu/resource/authority/legal-act-domain/EURATOM,false,,1958-01-01,EURATOM,Euratom,Euratom
+http://publications.europa.eu/resource/authority/legal-act-domain/JHA,true,2009-11-30,1993-11-01,JHA,JHA,GAI
+http://publications.europa.eu/resource/authority/legal-act-domain/OP_DATPRO,false,,1952-07-23,OP_DATPRO,Provisional data,Dati provvisori

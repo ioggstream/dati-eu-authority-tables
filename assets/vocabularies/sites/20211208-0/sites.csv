@@ -1,405 +1,405 @@
-url;deprecated;valid_until;valid_from;id;label_en;skos:prefLabel;label_it
-http://publications.europa.eu/resource/authority/site/19THSTREET700;false;;1997-11-10;19THSTREET700;19th Street 700;;
-http://publications.europa.eu/resource/authority/site/20AVANDREPROTHIN;false;;2019-03-30;20AVANDREPROTHIN;Europlaza;;
-http://publications.europa.eu/resource/authority/site/3RDAVENUE666;false;;1958-01-01;3RDAVENUE666;3rd avenue 666;;
-http://publications.europa.eu/resource/authority/site/416HANGANGDAERO;false;;2017-12-01;416HANGANGDAERO;416 Hangang-daero;;
-http://publications.europa.eu/resource/authority/site/4TAAVE2DACALLE;false;;1958-01-01;4TAAVE2DACALLE;4ta Ave – 2da Calle;;
-http://publications.europa.eu/resource/authority/site/5TAAVENIDA2007;false;;1958-01-01;5TAAVENIDA2007;5ta avenida 2007;;
-http://publications.europa.eu/resource/authority/site/5TAAVENIDA5_55;false;;1958-01-01;5TAAVENIDA5_55;5ta avenida 5-55;;
-http://publications.europa.eu/resource/authority/site/A73;true;2005-01-01;1958-01-01;A73;;;
-http://publications.europa.eu/resource/authority/site/ABABUSCENT;false;;1958-01-01;ABABUSCENT;ABA Business Centre;;
-http://publications.europa.eu/resource/authority/site/ADALSTR6;false;;1958-01-01;ADALSTR6;Adalstraeti 6;;
-http://publications.europa.eu/resource/authority/site/ADG;false;;1958-01-01;ADG;Alcide De Gasperi building;;
-http://publications.europa.eu/resource/authority/site/ADHAMOV74;false;;1958-01-01;ADHAMOV74;Adhamov 74;;
-http://publications.europa.eu/resource/authority/site/ALAMEERAHBASMA;false;;1958-01-01;ALAMEERAHBASMA;Al-Ameerah Basma;;
-http://publications.europa.eu/resource/authority/site/ALVA9;false;;1958-01-01;ALVA9;Alva 9;;
-http://publications.europa.eu/resource/authority/site/AMALIAS8;false;;1958-01-01;AMALIAS8;Amalias 8;;
-http://publications.europa.eu/resource/authority/site/AMERICA404;false;;1958-01-01;AMERICA404;America 404;;
-http://publications.europa.eu/resource/authority/site/AMIRTEMUR107B;false;;1958-01-01;AMIRTEMUR107B;Amir Temur Street 107 B;;
-http://publications.europa.eu/resource/authority/site/AN;false;;2008-07-14;AN;;;
-http://publications.europa.eu/resource/authority/site/AN88;true;2017-03-31;1958-01-01;AN88;;;
-http://publications.europa.eu/resource/authority/site/ANNAKATU18;false;;1958-01-01;ANNAKATU18;Annakatu 18;;
-http://publications.europa.eu/resource/authority/site/ANX;true;;1958-01-01;ANX;Annex Building North-East (A-NE);;
-http://publications.europa.eu/resource/authority/site/ARCBUILDING;false;;1958-01-01;ARCBUILDING;Arc building;;
-http://publications.europa.eu/resource/authority/site/AREA18ROUNDABOUT;false;;1958-01-01;AREA18ROUNDABOUT;Area 18 Roundabout;;
-http://publications.europa.eu/resource/authority/site/ARGENTINIERSTRASSE26;false;;1958-01-01;ARGENTINIERSTRASSE26;Argentinierstrasse26;;
-http://publications.europa.eu/resource/authority/site/ARIA;false;;2015-01-01;ARIA;Ariane building;;
-http://publications.europa.eu/resource/authority/site/ARKANA18;false;;1958-01-01;ARKANA18;Arkana 18;;
-http://publications.europa.eu/resource/authority/site/ARTIGAS1300;false;;1958-01-01;ARTIGAS1300;Artigas 1300;;
-http://publications.europa.eu/resource/authority/site/ASP;false;;1958-01-01;ASP;Altiero Spinelli;;
-http://publications.europa.eu/resource/authority/site/ASPAZIJAS28;false;;1958-01-01;ASPAZIJAS28;Aspazijas 28;;
-http://publications.europa.eu/resource/authority/site/ATLANTICROAD74;false;;1958-01-01;ATLANTICROAD74;Atlantic Road 74;;
-http://publications.europa.eu/resource/authority/site/ATR;false;;1958-01-01;ATR;Atrium 1 and 2;;
-http://publications.europa.eu/resource/authority/site/AUGUSTACESARCA4_6;false;;1958-01-01;AUGUSTACESARCA4_6;Augusta Cesarca 4-6;;
-http://publications.europa.eu/resource/authority/site/AUXENCEICKONGA;false;;1958-01-01;AUXENCEICKONGA;Impasse Auxence Ickonga;;
-http://publications.europa.eu/resource/authority/site/AVBARTHBOGANDA;false;;1958-01-01;AVBARTHBOGANDA;Avenue Barthélémy Boganda;;
-http://publications.europa.eu/resource/authority/site/AVCLOZEL;false;;1958-01-01;AVCLOZEL;Av. Clozel;;
-http://publications.europa.eu/resource/authority/site/AVCOSTANERA300;false;;1958-01-01;AVCOSTANERA300;Avenida Costanera 300;;
-http://publications.europa.eu/resource/authority/site/AVENUEDUMOUNIO;false;;1958-01-01;AVENUEDUMOUNIO;Avenue du Mounio;;
-http://publications.europa.eu/resource/authority/site/AVEUROPA4;false;;1958-01-01;AVEUROPA4;Avenida de Europa 4;;
-http://publications.europa.eu/resource/authority/site/AVKWAMENKRUMAH;false;;1958-01-01;AVKWAMENKRUMAH;Avenue Kwame N'Krumah;;
-http://publications.europa.eu/resource/authority/site/AVLINCOLN1063;false;;1958-01-01;AVLINCOLN1063;Av. Abraham Lincoln 1063;;
-http://publications.europa.eu/resource/authority/site/AVMENDANA;false;;1958-01-01;AVMENDANA;Mendana Avenue;;
-http://publications.europa.eu/resource/authority/site/AVORELLANAE11_160;false;;1958-01-01;AVORELLANAE11_160;Av. Orellana E11-160;;
-http://publications.europa.eu/resource/authority/site/AVORINOCO;false;;1958-01-01;AVORINOCO;Avenida Orinoco;;
-http://publications.europa.eu/resource/authority/site/AVRICARDOLYON222;false;;1958-01-01;AVRICARDOLYON222;Av. Ricardo Lyon 222;;
-http://publications.europa.eu/resource/authority/site/AVROTARYINTER;false;;1958-01-01;AVROTARYINTER;Avenida Rotary International;;
-http://publications.europa.eu/resource/authority/site/AVSUFFREN100;false;;1958-01-01;AVSUFFREN100;Av Suffren 100;;
-http://publications.europa.eu/resource/authority/site/AVTERRASSONFOUGERES;false;;1958-01-01;AVTERRASSONFOUGERES;Avenue Terrasson de Fougères;;
-http://publications.europa.eu/resource/authority/site/AYACUCHO1537;false;;1958-01-01;AYACUCHO1537;Ayacucho 1537;;
-http://publications.europa.eu/resource/authority/site/AYALA6819;false;;1958-01-01;AYALA6819;Ayala 6819;;
-http://publications.europa.eu/resource/authority/site/B100;false;;1958-01-01;B100;;;
-http://publications.europa.eu/resource/authority/site/B135;true;;1958-01-01;B135;European Court of Auditors;;Corte dei conti europea
-http://publications.europa.eu/resource/authority/site/B232;false;;1958-01-01;B232;;;
-http://publications.europa.eu/resource/authority/site/B28;false;;1958-01-01;B28;;;
-http://publications.europa.eu/resource/authority/site/B68;false;;1958-01-01;B68;CoR/EESC;;CdR/CESE
-http://publications.europa.eu/resource/authority/site/BAIRRODAPENHA;false;;1958-01-01;BAIRRODAPENHA;Bairro da Penha;;
-http://publications.europa.eu/resource/authority/site/BARBUSSE2;false;;1958-01-01;BARBUSSE2;Barbusse 2;;
-http://publications.europa.eu/resource/authority/site/BATIMJARDIN;false;;1958-01-01;BATIMJARDIN;Jardin building;;
-http://publications.europa.eu/resource/authority/site/BAUDDHALOKA389;false;;1958-01-01;BAUDDHALOKA389;Bauddhaloka 389;;
-http://publications.europa.eu/resource/authority/site/BD4;false;;1958-01-01;BD4;BD4;;
-http://publications.europa.eu/resource/authority/site/BECH;false;;1958-01-01;BECH;Bech building;;
-http://publications.europa.eu/resource/authority/site/BEI;false;;1958-01-01;BEI;European Investment Bank;;Banca europea per gli investimenti
-http://publications.europa.eu/resource/authority/site/BELAUNDE332;false;;1958-01-01;BELAUNDE332;Belaunde 332;;
-http://publications.europa.eu/resource/authority/site/BERCY201_203;false;;2019-11-22;BERCY201_203;Bercy 201-203;;
-http://publications.europa.eu/resource/authority/site/BERL;false;;1958-01-01;BERL;;;
-http://publications.europa.eu/resource/authority/site/BMT;false;;2016-11-01;BMT;Belmont Court;;
-http://publications.europa.eu/resource/authority/site/BORNO19;false;;1958-01-01;BORNO19;Borno 19;;
-http://publications.europa.eu/resource/authority/site/BOULEVARD30JUIN;false;;1958-01-01;BOULEVARD30JUIN;Boulevard 30 juin;;
-http://publications.europa.eu/resource/authority/site/BOUR;false;;1958-01-01;BOUR;;;
-http://publications.europa.eu/resource/authority/site/BOUR2;false;;1958-01-01;BOUR2;;;
-http://publications.europa.eu/resource/authority/site/BQL;false;;1958-01-01;BQL;European Parliament Office in Belgium;;Ufficio del Parlamento europeo in Belgio
-http://publications.europa.eu/resource/authority/site/BRE2;false;;1958-01-01;BRE2;;;
-http://publications.europa.eu/resource/authority/site/BREY;false;;1958-01-01;BREY;;;
-http://publications.europa.eu/resource/authority/site/BSPHAUS;false;;1958-01-01;BSPHAUS;BSP Haus;;
-http://publications.europa.eu/resource/authority/site/BU1;false;;1958-01-01;BU1;;;
-http://publications.europa.eu/resource/authority/site/BU24;false;;1958-01-01;BU24;;;
-http://publications.europa.eu/resource/authority/site/BU25;false;;1958-01-01;BU25;;;
-http://publications.europa.eu/resource/authority/site/BU29;false;;1958-01-01;BU29;;;
-http://publications.europa.eu/resource/authority/site/BU31;false;;1958-01-01;BU31;;;
-http://publications.europa.eu/resource/authority/site/BU33;false;;1958-01-01;BU33;;;
-http://publications.europa.eu/resource/authority/site/BU5;false;;1958-01-01;BU5;;;
-http://publications.europa.eu/resource/authority/site/BU9;false;;1958-01-01;BU9;;;
-http://publications.europa.eu/resource/authority/site/BUILD_C;false;;1994-02-12;BUILD_C;C Building;;
-http://publications.europa.eu/resource/authority/site/BUILD_T;false;;1999-01-01;BUILD_T;T building;;
-http://publications.europa.eu/resource/authority/site/BUNDESGASSE18;false;;1958-01-01;BUNDESGASSE18;Bundesgasse 18;;
-http://publications.europa.eu/resource/authority/site/BVS;false;;1958-01-01;BVS;Bertha von Suttner;;
-http://publications.europa.eu/resource/authority/site/C107;false;;1958-01-01;C107;;;
-http://publications.europa.eu/resource/authority/site/C115;false;;2011-10-14;C115;;;
-http://publications.europa.eu/resource/authority/site/C150;false;;1958-01-01;C150;;;
-http://publications.europa.eu/resource/authority/site/C158;false;;1986-01-01;C158;;;
-http://publications.europa.eu/resource/authority/site/C25;false;;1958-01-01;C25;;;
-http://publications.europa.eu/resource/authority/site/CALLE116;false;;1958-01-01;CALLE116;Calle 116;;
-http://publications.europa.eu/resource/authority/site/CALLE53MARBELLA;false;;1958-01-01;CALLE53MARBELLA;Calle 53 Marbella;;
-http://publications.europa.eu/resource/authority/site/CANTONMENTS81;false;;1958-01-01;CANTONMENTS81;Cantonments 81;;
-http://publications.europa.eu/resource/authority/site/CAPEVERDEROAD;false;;1958-01-01;CAPEVERDEROAD;Cape-Verde Road;;
-http://publications.europa.eu/resource/authority/site/CARLOMAGNO1A;false;;1958-01-01;CARLOMAGNO1A;Carlo Magno 1A;;
-http://publications.europa.eu/resource/authority/site/CASPIAN2;false;;1958-01-01;CASPIAN2;Caspian 2;;
-http://publications.europa.eu/resource/authority/site/CASTELLANA46;false;;1958-01-01;CASTELLANA46;Castellana 46;;
-http://publications.europa.eu/resource/authority/site/CCAB;false;;1958-01-01;CCAB;Albert Borschette Centre;;
-http://publications.europa.eu/resource/authority/site/CCO;true;;1958-01-01;CCO;Conference Centre — Kirchberg;;
-http://publications.europa.eu/resource/authority/site/CDMA;false;;1958-01-01;CDMA;;;
-http://publications.europa.eu/resource/authority/site/CHAHARISEDARAT;false;;1958-01-01;CHAHARISEDARAT;Chahari Sedarat;;
-http://publications.europa.eu/resource/authority/site/CHAR;false;;1958-01-01;CHAR;Charlemagne;;
-http://publications.europa.eu/resource/authority/site/CHURCHILL30;true;2019-03-10;1958-01-01;CHURCHILL30;Churchill 30;;
-http://publications.europa.eu/resource/authority/site/CIH;false;;1958-01-01;CIH;Demeurslaan 132;;
-http://publications.europa.eu/resource/authority/site/CITEOUA;false;;1958-01-01;CITEOUA;Cité OUA;;
-http://publications.europa.eu/resource/authority/site/CJ_PALAIS;false;;2008-12-04;CJ_PALAIS;;;
-http://publications.europa.eu/resource/authority/site/CJ_TOA;false;;2008-07-15;CJ_TOA;Tower A;;
-http://publications.europa.eu/resource/authority/site/CJ_TOB;false;;2008-11-01;CJ_TOB;Tower B;;
-http://publications.europa.eu/resource/authority/site/CLOV;false;;1958-01-01;CLOV;;;
-http://publications.europa.eu/resource/authority/site/COE;false;;1958-01-01;COE;Council of Europe;;
-http://publications.europa.eu/resource/authority/site/COLE;false;;1958-01-01;COLE;;;
-http://publications.europa.eu/resource/authority/site/COLEAHLANSEBOUNDJI;false;;1958-01-01;COLEAHLANSEBOUNDJI;Coléah Lanséboundji;;
-http://publications.europa.eu/resource/authority/site/CONSTITUTION167;false;;1958-01-01;CONSTITUTION167;Constitution 167;;
-http://publications.europa.eu/resource/authority/site/COVE;false;;1958-01-01;COVE;;;
-http://publications.europa.eu/resource/authority/site/COVE2;false;;1958-01-01;COVE2;;;
-http://publications.europa.eu/resource/authority/site/CPE1;false;;1958-01-01;CPE1;Interinstitutional Children’s Centre;;
-http://publications.europa.eu/resource/authority/site/CPE2;false;;1958-01-01;CPE2;;;
-http://publications.europa.eu/resource/authority/site/CPE3;false;;1958-01-01;CPE3;;;
-http://publications.europa.eu/resource/authority/site/CPE4;true;2012-12-31;1958-01-01;CPE4;;;
-http://publications.europa.eu/resource/authority/site/CPE5;false;;1958-01-01;CPE5;;;
-http://publications.europa.eu/resource/authority/site/CSM1;false;;1958-01-01;CSM1;;;
-http://publications.europa.eu/resource/authority/site/CSM2;true;2016-11-29;1958-01-01;CSM2;;;
-http://publications.europa.eu/resource/authority/site/DAIL;false;;1958-01-01;DAIL;;;
-http://publications.europa.eu/resource/authority/site/DAV1;false;;1958-01-01;DAV1;;;
-http://publications.europa.eu/resource/authority/site/DAWSON18;false;;1958-01-01;DAWSON18;Dawson 18;;
-http://publications.europa.eu/resource/authority/site/DM24;false;;1958-01-01;DM24;;;
-http://publications.europa.eu/resource/authority/site/DM28;false;;1958-01-01;DM28;;;
-http://publications.europa.eu/resource/authority/site/DOMBENOUADAH;false;;1958-01-01;DOMBENOUADAH;Domaine Benouadah;;
-http://publications.europa.eu/resource/authority/site/DONGZHIMENWAIDAIJIE15;false;;1958-01-01;DONGZHIMENWAIDAIJIE15;Dongzhimenwai Daijie 15;;
-http://publications.europa.eu/resource/authority/site/DRB;false;;1958-01-01;DRB;Drosbach building;;
-http://publications.europa.eu/resource/authority/site/DUBLINROAD74_76;false;;1958-01-01;DUBLINROAD74_76;Dublin Road 74-76;;
-http://publications.europa.eu/resource/authority/site/DUNAJSKA20;false;;1958-01-01;DUNAJSKA20;Dunajska 20;;
-http://publications.europa.eu/resource/authority/site/EAS;true;2016-09-30;1958-01-01;EAS;Eastman;;
-http://publications.europa.eu/resource/authority/site/EBRC;false;;1958-01-01;EBRC;Resilience Centre;;
-http://publications.europa.eu/resource/authority/site/EE1;false;;1958-01-01;EE1;European School I — Kirchberg;;
-http://publications.europa.eu/resource/authority/site/EE2;false;;1958-01-01;EE2;European School II — Bertrange;;
-http://publications.europa.eu/resource/authority/site/EEAS;false;;2011-10-14;EEAS;EEAS Building;;
-http://publications.europa.eu/resource/authority/site/EISENHOWER73;false;;1958-01-01;EISENHOWER73;Eisenhower 73;;
-http://publications.europa.eu/resource/authority/site/EKI;false;;2008-06-02;EKI;EKI;;
-http://publications.europa.eu/resource/authority/site/ENGELS34A;false;;1958-01-01;ENGELS34A;Engels 34 A;;
-http://publications.europa.eu/resource/authority/site/EP_BRU_PRESS;false;;1958-01-01;EP_BRU_PRESS;European Parliament – Press Service;;
-http://publications.europa.eu/resource/authority/site/EP_SXB;false;;1958-01-01;EP_SXB;European Parliament Office in Strasbourg;;
-http://publications.europa.eu/resource/authority/site/ERA;false;;1988-10-05;ERA;;;
-http://publications.europa.eu/resource/authority/site/ERHARDT27;false;;1958-01-01;ERHARDT27;Erhardt 27;;
-http://publications.europa.eu/resource/authority/site/ERKINDIK21;false;;1958-01-01;ERKINDIK21;Erkindik 21;;
-http://publications.europa.eu/resource/authority/site/ER_RIAD;false;;1958-01-01;ER_RIAD;Boulevard Er-Riad;;
-http://publications.europa.eu/resource/authority/site/ETHNIKISANTISTASEOS72;false;;2021-07-01;ETHNIKISANTISTASEOS72;Ethnikis Antistaseos 72;;
-http://publications.europa.eu/resource/authority/site/ETIHADTOWER;false;;1958-01-01;ETIHADTOWER;Etihad Tower;;
-http://publications.europa.eu/resource/authority/site/EUFO1;false;;1958-01-01;EUFO1;Euroforum;;
-http://publications.europa.eu/resource/authority/site/EUROPE;false;;1958-01-01;EUROPE;House of Europe (MAEU);;
-http://publications.europa.eu/resource/authority/site/EUROPE123;false;;1958-01-01;EUROPE123;Europe 123;;
-http://publications.europa.eu/resource/authority/site/EYLAU12;false;;1958-01-01;EYLAU12;Eylau 12;;
-http://publications.europa.eu/resource/authority/site/F101;false;;1958-01-01;F101;;;
-http://publications.europa.eu/resource/authority/site/FEI;true;1958-01-01;1957-12-31;FEI;European Investment Fund;;Fondo europeo per gli investimenti
-http://publications.europa.eu/resource/authority/site/FISR;false;;1958-01-01;FISR;;;
-http://publications.europa.eu/resource/authority/site/FRIK21;false;;1958-01-01;FRIK21;Frik 21;;
-http://publications.europa.eu/resource/authority/site/G1;false;;1958-01-01;G1;;;
-http://publications.europa.eu/resource/authority/site/G12;false;;1958-01-01;G12;;;
-http://publications.europa.eu/resource/authority/site/G6;false;;1958-01-01;G6;;;
-http://publications.europa.eu/resource/authority/site/GAL;false;;2008-07-14;GAL;;;
-http://publications.europa.eu/resource/authority/site/GAMHORIA10;false;;1958-01-01;GAMHORIA10;Gamhoria 10;;
-http://publications.europa.eu/resource/authority/site/GARCIABARBON4;false;;1958-01-01;GARCIABARBON4;Odriozola building;;
-http://publications.europa.eu/resource/authority/site/GARDENROAD33;false;;1958-01-01;GARDENROAD33;Garden Road 33;;
-http://publications.europa.eu/resource/authority/site/GASP;true;2015-05-31;1958-01-01;GASP;;;
-http://publications.europa.eu/resource/authority/site/GEDIMINO16;false;;1958-01-01;GEDIMINO16;Gedimino 16;;
-http://publications.europa.eu/resource/authority/site/GEOS;true;2014-02-01;2004-02-01;GEOS;GEOS;;
-http://publications.europa.eu/resource/authority/site/GOL;true;2016-09-30;1958-01-01;GOL;Goldbell;;
-http://publications.europa.eu/resource/authority/site/GOTHERSGADE115;false;;1958-01-01;GOTHERSGADE115;Gothersgade 115;;
-http://publications.europa.eu/resource/authority/site/GRACIA90;false;;1958-01-01;GRACIA90;Gràcía 90;;
-http://publications.europa.eu/resource/authority/site/GRAN;false;;2002-03-14;GRAN;Dunsany, Grange;;
-http://publications.europa.eu/resource/authority/site/GRANDPRE64;false;;1958-01-01;GRANDPRE64;Grand-Pré 64;;
-http://publications.europa.eu/resource/authority/site/GRANDPRE66;false;;1958-01-01;GRANDPRE66;Grand-Pré 66;;
-http://publications.europa.eu/resource/authority/site/GRENELLE103;true;2019-11-21;1958-01-01;GRENELLE103;Grenelle 103;;
-http://publications.europa.eu/resource/authority/site/GUIM;false;;1958-01-01;GUIM;;;
-http://publications.europa.eu/resource/authority/site/HANNINGTON17_23;false;;1958-01-01;HANNINGTON17_23;Hannington Road 17-23;;
-http://publications.europa.eu/resource/authority/site/HARBORDRIVE490;false;;1958-01-01;HARBORDRIVE490;Harbor drive 490;;
-http://publications.europa.eu/resource/authority/site/HASSANII12;false;;1958-01-01;HASSANII12;Hassan II 12;;
-http://publications.europa.eu/resource/authority/site/HASTINGSMAINROAD;false;;1958-01-01;HASTINGSMAINROAD;Hastings Main Road;;
-http://publications.europa.eu/resource/authority/site/HAV;false;;2013-01-01;HAV;Václav Havel;;
-http://publications.europa.eu/resource/authority/site/HEI;false;;1958-01-01;HEI;;;
-http://publications.europa.eu/resource/authority/site/HLEDANCENTRE;false;;1958-01-01;HLEDANCENTRE;Hledan Centre;;
-http://publications.europa.eu/resource/authority/site/HTC;false;;1958-01-01;HTC;;;
-http://publications.europa.eu/resource/authority/site/HTWG;false;;1958-01-01;HTWG;;;
-http://publications.europa.eu/resource/authority/site/IAK;false;;2016-01-01;IAK;;;
-http://publications.europa.eu/resource/authority/site/INFOPARKE;false;;1958-01-01;INFOPARKE;Infopark Building E;;
-http://publications.europa.eu/resource/authority/site/IPE3;false;;1958-01-01;IPE3;IPE 3;;
-http://publications.europa.eu/resource/authority/site/IVNOVEMBRE149;false;;1958-01-01;IVNOVEMBRE149;IV Novembre 149;;
-http://publications.europa.eu/resource/authority/site/J27;false;;1958-01-01;J27;;;
-http://publications.europa.eu/resource/authority/site/J30;false;;1958-01-01;J30;;;
-http://publications.europa.eu/resource/authority/site/J54;false;;1958-01-01;J54;;;
-http://publications.europa.eu/resource/authority/site/J59;false;;1958-01-01;J59;;;
-http://publications.europa.eu/resource/authority/site/J70;false;;1958-01-01;J70;;;
-http://publications.europa.eu/resource/authority/site/J79;false;;1958-01-01;J79;;;
-http://publications.europa.eu/resource/authority/site/J99;false;;1958-01-01;J99;;;
-http://publications.europa.eu/resource/authority/site/JALANTUNRAZAK207;false;;1958-01-01;JALANTUNRAZAK207;Jalan Tun Razak 207;;
-http://publications.europa.eu/resource/authority/site/JAN;false;;1958-01-01;JAN;József Antall;;
-http://publications.europa.eu/resource/authority/site/JANOVSKEHO438;false;;1958-01-01;JANOVSKEHO438;Janovskeho 438;;
-http://publications.europa.eu/resource/authority/site/JASNA14_16;false;;1958-01-01;JASNA14_16;Jasna 14/16;;
-http://publications.europa.eu/resource/authority/site/JDE;false;;1958-01-01;JDE;Jacques Delors;;
-http://publications.europa.eu/resource/authority/site/JFK;true;;1958-01-01;JFK;;;
-http://publications.europa.eu/resource/authority/site/JL;false;;1958-01-01;JL;;;
-http://publications.europa.eu/resource/authority/site/JMO;true;2017-06-30;1958-01-01;JMO;Jean Monnet building;;
-http://publications.europa.eu/resource/authority/site/JRCGEEL;false;;1960-05-01;JRCGEEL;Geel site;;
-http://publications.europa.eu/resource/authority/site/JRCISP;false;;1959-07-22;JRCISP;Ispra site;;
-http://publications.europa.eu/resource/authority/site/JRCKARLS;false;;1965-04-01;JRCKARLS;Karlsruhe site;;
-http://publications.europa.eu/resource/authority/site/JRCPETT;false;;1962-11-16;JRCPETT;Petten site;;
-http://publications.europa.eu/resource/authority/site/JRCSEVI;false;;2002-01-01;JRCSEVI;Expo building;;
-http://publications.europa.eu/resource/authority/site/JULIUSNYERERE;false;;1958-01-01;JULIUSNYERERE;Avenida Julius Nyerere;;
-http://publications.europa.eu/resource/authority/site/JUNGMANNOVA24;false;;1958-01-01;JUNGMANNOVA24;Jungmannova 24;;
-http://publications.europa.eu/resource/authority/site/K1K2K3;false;;1985-01-01;K1K2K3;European Court of Auditors;;Corte dei conti europea
-http://publications.europa.eu/resource/authority/site/K7;true;;1958-01-01;K7;T building;;
-http://publications.europa.eu/resource/authority/site/K8;true;;1958-01-01;K8;;;
-http://publications.europa.eu/resource/authority/site/K9;true;;1958-01-01;K9;Translation;;
-http://publications.europa.eu/resource/authority/site/KAD;false;;1958-01-01;KAD;Konrad Adenauer;;
-http://publications.europa.eu/resource/authority/site/KADASHEVSKAYA14;false;;1958-01-01;KADASHEVSKAYA14;Kadashevskaya 14;;
-http://publications.europa.eu/resource/authority/site/KADENAUER3;false;;1958-01-01;KADENAUER3;Konrad Adenauer 3;;
-http://publications.europa.eu/resource/authority/site/KAISERS29;false;;1997-11-10;KAISERS29;Kaiserstraße 29;;
-http://publications.europa.eu/resource/authority/site/KARADZICA12;false;;1958-01-01;KARADZICA12;Karadzica 12;;
-http://publications.europa.eu/resource/authority/site/KEBELE10ROOSEVELT;false;;1958-01-01;KEBELE10ROOSEVELT;Kebele 10 Roosevelt;;
-http://publications.europa.eu/resource/authority/site/KEELUNG333;false;;1958-01-01;KEELUNG333;Keelung 333;;
-http://publications.europa.eu/resource/authority/site/KLINGENBERG7A;false;;1958-01-01;KLINGENBERG7A;Klingenberg 7A;;
-http://publications.europa.eu/resource/authority/site/KOGALNICEANU12;false;;1958-01-01;KOGALNICEANU12;Kogalniceanu 12;;
-http://publications.europa.eu/resource/authority/site/KONGENSNYTORV6;false;;1958-01-01;KONGENSNYTORV6;Kongens Nytorv 6;;
-http://publications.europa.eu/resource/authority/site/KORT;false;;1958-01-01;KORT;Archives;;
-http://publications.europa.eu/resource/authority/site/KOSMONAVTOV62;false;;1958-01-01;KOSMONAVTOV62;Kosmonavtov 62;;
-http://publications.europa.eu/resource/authority/site/KOSOVOSTREET1;false;;1958-01-01;KOSOVOSTREET1;Kosovo Street 1;;
-http://publications.europa.eu/resource/authority/site/KSTREET2175;false;;1958-01-01;KSTREET2175;K Street 2175;;
-http://publications.europa.eu/resource/authority/site/L102;false;;1958-01-01;L102;;;
-http://publications.europa.eu/resource/authority/site/L130;false;;1958-01-01;L130;;;
-http://publications.europa.eu/resource/authority/site/L145;false;;1958-01-01;L145;;;
-http://publications.europa.eu/resource/authority/site/L15;false;;2013-06-21;L15;;;
-http://publications.europa.eu/resource/authority/site/L41;false;;1958-01-01;L41;;;
-http://publications.europa.eu/resource/authority/site/L56;false;;1958-01-01;L56;;;
-http://publications.europa.eu/resource/authority/site/L86;false;;1958-01-01;L86;;;
-http://publications.europa.eu/resource/authority/site/LACBIWA;false;;1958-01-01;LACBIWA;Lac Biwa;;
-http://publications.europa.eu/resource/authority/site/LACC;false;;2015-01-01;LACC;Laccolith building;;
-http://publications.europa.eu/resource/authority/site/LACWINDERMERE;false;;1958-01-01;LACWINDERMERE;Lac Windermere;;
-http://publications.europa.eu/resource/authority/site/LARGOJEANMONNET;false;;1958-01-01;LARGOJEANMONNET;Largo Jean Monnet;;
-http://publications.europa.eu/resource/authority/site/LASCAR31;false;;1958-01-01;LASCAR31;Lascar 31;;
-http://publications.europa.eu/resource/authority/site/LEFRANCQ120;false;;1958-01-01;LEFRANCQ120;Lefrancq 120;;
-http://publications.europa.eu/resource/authority/site/LEICESTERPEAK;false;;1958-01-01;LEICESTERPEAK;Leicester Peak, Regent;;
-http://publications.europa.eu/resource/authority/site/LINDEN78;false;;1958-01-01;LINDEN78;Linden 78;;
-http://publications.europa.eu/resource/authority/site/LKI;false;;2016-01-01;LKI;LKI;;
-http://publications.europa.eu/resource/authority/site/LOSANGELESBV4899;false;;1958-01-01;LOSANGELESBV4899;Los Angeles Boulevard 4899;;
-http://publications.europa.eu/resource/authority/site/LOTCOCOTIERS;false;;1958-01-01;LOTCOCOTIERS;Lotissement des Cocotiers;;
-http://publications.europa.eu/resource/authority/site/LOVOHAZ35;false;;1958-01-01;LOVOHAZ35;Lövőház 35;;
-http://publications.europa.eu/resource/authority/site/LOW;false;;1958-01-01;LOW;Louise Weiss;;
-http://publications.europa.eu/resource/authority/site/LOWERMOUNT12_14;false;;1958-01-01;LOWERMOUNT12_14;Lower Mount 12-14;;
-http://publications.europa.eu/resource/authority/site/LX40;false;;1958-01-01;LX40;;;
-http://publications.europa.eu/resource/authority/site/LX46;false;;1958-01-01;LX46;;;
-http://publications.europa.eu/resource/authority/site/MADO;false;;1958-01-01;MADO;;;
-http://publications.europa.eu/resource/authority/site/MAGENTA59;false;;1958-01-01;MAGENTA59;Magenta 59;;
-http://publications.europa.eu/resource/authority/site/MALMINKATU16;false;;1958-01-01;MALMINKATU16;Malminkatu 16;;
-http://publications.europa.eu/resource/authority/site/MARECHALFOCH3;false;;1958-01-01;MARECHALFOCH3;Marechal Foch 3;;
-http://publications.europa.eu/resource/authority/site/MARSATEKLAI192;false;;1958-01-01;MARSATEKLAI192;Marsa Teklai 192;;
-http://publications.europa.eu/resource/authority/site/MEIEROVICA14;false;;1958-01-01;MEIEROVICA14;Meierovica 14;;
-http://publications.europa.eu/resource/authority/site/MER;false;;1958-01-01;MER;;;
-http://publications.europa.eu/resource/authority/site/MERO;false;;2016-11-30;MERO;Merode;;
-http://publications.europa.eu/resource/authority/site/METCALFE150;false;;1958-01-01;METCALFE150;Metcalfe 150;;
-http://publications.europa.eu/resource/authority/site/MHE;false;;2017-01-01;MHE;House of European History;;
-http://publications.europa.eu/resource/authority/site/MINAMIAZABU;false;;1958-01-01;MINAMIAZABU;Minami-Azabu;;
-http://publications.europa.eu/resource/authority/site/MIRIBILLA;false;;1958-01-01;MIRIBILLA;Miribilla building;;
-http://publications.europa.eu/resource/authority/site/MOLL150;false;;1958-01-01;MOLL150;avenue MOLL 150;;
-http://publications.europa.eu/resource/authority/site/MON15;false;;2016-10-19;MON15;Montoyer 15;;
-http://publications.europa.eu/resource/authority/site/MON34;false;;1958-01-01;MON34;;;
-http://publications.europa.eu/resource/authority/site/MON59;false;;1958-01-01;MON59;;;
-http://publications.europa.eu/resource/authority/site/MON63;true;2016-12-31;1958-01-01;MON63;Montoyer 63 (MON);;
-http://publications.europa.eu/resource/authority/site/MON70;false;;1958-01-01;MON70;Montoyer 70 (MTY);;
-http://publications.europa.eu/resource/authority/site/MON75;false;;1958-01-01;MON75;Montoyer 75 (MOY);;
-http://publications.europa.eu/resource/authority/site/MTCBLOCKA;false;;1958-01-01;MTCBLOCKA;MTC Block A;;
-http://publications.europa.eu/resource/authority/site/MTS;false;;2012-01-01;MTS;Montoyer-Science;;
-http://publications.europa.eu/resource/authority/site/MUJAHEDHADDAH;false;;1958-01-01;MUJAHEDHADDAH;Mujahed Street Haddah zone;;
-http://publications.europa.eu/resource/authority/site/N105;false;;1958-01-01;N105;;;
-http://publications.europa.eu/resource/authority/site/NAJEEBALRAYYES3;false;;1958-01-01;NAJEEBALRAYYES3;Najeeb Al-Rayyes3;;
-http://publications.europa.eu/resource/authority/site/NEWTONSTREET2;false;;1958-01-01;NEWTONSTREET2;Newton Street 2;;
-http://publications.europa.eu/resource/authority/site/NILECITYTOWERS;false;;1958-01-01;NILECITYTOWERS;Nile City Towers;;
-http://publications.europa.eu/resource/authority/site/NINOCHKHEIDZE38;false;;1958-01-01;NINOCHKHEIDZE38;Nino Chkheidze 38;;
-http://publications.europa.eu/resource/authority/site/NIZAMI90A;false;;1958-01-01;NIZAMI90A;Nizami 90A;;
-http://publications.europa.eu/resource/authority/site/NORFOLKSTREET1;false;;1958-01-01;NORFOLKSTREET1;Norfolk Street 1;;
-http://publications.europa.eu/resource/authority/site/NORTHBRIDGE250;false;;1958-01-01;NORTHBRIDGE250;North Bridge Road 250;;
-http://publications.europa.eu/resource/authority/site/OFFCONSTITUTION;false;;1958-01-01;OFFCONSTITUTION;Off Constitution;;
-http://publications.europa.eu/resource/authority/site/OFIPLAZADELESTE;false;;1958-01-01;OFIPLAZADELESTE;Ofiplaza del Este;;
-http://publications.europa.eu/resource/authority/site/OLIVIERROAD8;false;;1958-01-01;OLIVIERROAD8;Olivier Road 8;;
-http://publications.europa.eu/resource/authority/site/ONAMBLELENKOU1068;false;;1958-01-01;ONAMBLELENKOU1068;Onamblélé Nkou 1068;;
-http://publications.europa.eu/resource/authority/site/ONECANADASQ;true;2019-05-30;1958-01-01;ONECANADASQ;One Canada Square;;
-http://publications.europa.eu/resource/authority/site/OP_DATPRO;;;;OP_DATPRO;Provisional data;;Dati provvisori
-http://publications.europa.eu/resource/authority/site/ORANGERIE18;false;;1958-01-01;ORANGERIE18;Orangerie 18;;
-http://publications.europa.eu/resource/authority/site/ORBN;false;;1986-07-01;ORBN;;;
-http://publications.europa.eu/resource/authority/site/ORLYPLEIN24;false;;2019-03-11;ORLYPLEIN24;Orlyplein 24;;
-http://publications.europa.eu/resource/authority/site/OUTCA27;false;;1958-01-01;OUTCA27;Ó utca 27;;
-http://publications.europa.eu/resource/authority/site/OVER;false;;1958-01-01;OVER;;;
-http://publications.europa.eu/resource/authority/site/PALISADY29;false;;1958-01-01;PALISADY29;Palisády 29;;
-http://publications.europa.eu/resource/authority/site/PALM;false;;1958-01-01;PALM;;;
-http://publications.europa.eu/resource/authority/site/PE_TOA;false;;1958-01-01;PE_TOA;Tower A;;
-http://publications.europa.eu/resource/authority/site/PE_TOB;false;;1958-01-01;PE_TOB;Tower B;;
-http://publications.europa.eu/resource/authority/site/PFL;false;;1958-01-01;PFL;Pierre Pflimlin building;;
-http://publications.europa.eu/resource/authority/site/PHS;false;;1958-01-01;PHS;Paul-Henri Spaak;;
-http://publications.europa.eu/resource/authority/site/PKI;false;;1980-01-01;PKI;PKI;;
-http://publications.europa.eu/resource/authority/site/PLACEINDEPENDANCE;false;;1958-01-01;PLACEINDEPENDANCE;Place de l'Indépendance;;
-http://publications.europa.eu/resource/authority/site/PLB3;false;;2014-04-28;PLB3;;;
-http://publications.europa.eu/resource/authority/site/POLOT82A;false;;1958-01-01;POLOT82A;Polot 82 A European Compound;;
-http://publications.europa.eu/resource/authority/site/PONIENTEHOLCIM2;false;;1958-01-01;PONIENTEHOLCIM2;Poniente Holcim 2;;
-http://publications.europa.eu/resource/authority/site/POPOVICA40;false;;1958-01-01;POPOVICA40;Popovića 40;;
-http://publications.europa.eu/resource/authority/site/PRE;false;;1958-01-01;PRE;President;;
-http://publications.europa.eu/resource/authority/site/PREAHNORODOM100A;false;;1958-01-01;PREAHNORODOM100A;Preah Norodom 100A;;
-http://publications.europa.eu/resource/authority/site/QUARTIERDUHERON;false;;1958-01-01;QUARTIERDUHERON;Quartier du Héron;;
-http://publications.europa.eu/resource/authority/site/QUARTIERFLEUVE;false;;1958-01-01;QUARTIERFLEUVE;Quartier du Fleuve;;
-http://publications.europa.eu/resource/authority/site/QUEENSPARKWEST16;false;;1958-01-01;QUEENSPARKWEST16;Queen's Park West 16;;
-http://publications.europa.eu/resource/authority/site/RAGATIROAD;false;;1958-01-01;RAGATIROAD;Ragati Road;;
-http://publications.europa.eu/resource/authority/site/RAKOVSKI124;false;;1958-01-01;RAKOVSKI124;Rakovski 124;;
-http://publications.europa.eu/resource/authority/site/RAVALA4;false;;1958-01-01;RAVALA4;Rävala 4;;
-http://publications.europa.eu/resource/authority/site/REDMONDSTRAAT239;false;;1958-01-01;REDMONDSTRAAT239;Redmondstraat 239;;
-http://publications.europa.eu/resource/authority/site/REFORMA1675;false;;1958-01-01;REFORMA1675;Paseo de la Reforma 1675;;
-http://publications.europa.eu/resource/authority/site/REG;false;;1958-01-01;REG;Regus;;
-http://publications.europa.eu/resource/authority/site/REGERINGS65;false;;1958-01-01;REGERINGS65;Regeringsgatan 65;;
-http://publications.europa.eu/resource/authority/site/REIKATAYAVALA;false;;1958-01-01;REIKATAYAVALA;Rei Katyavala;;
-http://publications.europa.eu/resource/authority/site/REM;false;;1958-01-01;REM;;;
-http://publications.europa.eu/resource/authority/site/RIBEIRA;false;;1958-01-01;RIBEIRA;Ribeira;;
-http://publications.europa.eu/resource/authority/site/RMD;false;;1958-01-01;RMD;Remard;;
-http://publications.europa.eu/resource/authority/site/ROAD84GULSHAN2;false;;1958-01-01;ROAD84GULSHAN2;Road 84 Gulshan 2;;
-http://publications.europa.eu/resource/authority/site/ROBINSON758;false;;1958-01-01;ROBINSON758;Robinson 758;;
-http://publications.europa.eu/resource/authority/site/RP14;false;;1958-01-01;RP14;;;
-http://publications.europa.eu/resource/authority/site/RUAFATUMETA;false;;1958-01-01;RUAFATUMETA;Rua de Fatumeta;;
-http://publications.europa.eu/resource/authority/site/SALAHKHALAF;false;;1958-01-01;SALAHKHALAF;Salah Khalaf;;
-http://publications.europa.eu/resource/authority/site/SC11;false;;1958-01-01;SC11;;;
-http://publications.europa.eu/resource/authority/site/SC15;true;;1958-01-01;SC15;;;
-http://publications.europa.eu/resource/authority/site/SC27;false;;1958-01-01;SC27;;;
-http://publications.europa.eu/resource/authority/site/SC29;false;;1958-01-01;SC29;;;
-http://publications.europa.eu/resource/authority/site/SCH;false;;1958-01-01;SCH;Schuman;;
-http://publications.europa.eu/resource/authority/site/SCHWARZENBERG11;false;;1958-01-01;SCHWARZENBERG11;FRA site;;
-http://publications.europa.eu/resource/authority/site/SDM;false;;1958-01-01;SDM;Salvador De Madariaga;;
-http://publications.europa.eu/resource/authority/site/SDME;false;;1958-01-01;SDME;Square de Meeûs (SQM);;
-http://publications.europa.eu/resource/authority/site/SEN;false;;1958-01-01;SEN;Senningerberg;;
-http://publications.europa.eu/resource/authority/site/SENDALL11;false;;1958-01-01;SENDALL11;Sendall 11;;
-http://publications.europa.eu/resource/authority/site/SETTHATHIRATHROAD;false;;1958-01-01;SETTHATHIRATHROAD;Setthathirath Road;;
-http://publications.europa.eu/resource/authority/site/SHANNTINIKETAN5;false;;1958-01-01;SHANNTINIKETAN5;Shantiniketan5;;
-http://publications.europa.eu/resource/authority/site/SHINMOONRO116;true;2017-11-30;1958-01-01;SHINMOONRO116;Shinmoonro 116;;
-http://publications.europa.eu/resource/authority/site/SHISQI7;false;;1958-01-01;SHISQI7;SHIS QI 7;;
-http://publications.europa.eu/resource/authority/site/SHOHAM5_7;false;;1958-01-01;SHOHAM5_7;Shoham 5-7;;
-http://publications.europa.eu/resource/authority/site/SKENDERIJA3A;false;;1958-01-01;SKENDERIJA3A;Skenderija 3A;;
-http://publications.europa.eu/resource/authority/site/SMITHSQ32;false;;1958-01-01;SMITHSQ32;Smith Sq 32;;
-http://publications.europa.eu/resource/authority/site/SOMHLOLO;false;;1958-01-01;SOMHLOLO;Somhlolo Road;;
-http://publications.europa.eu/resource/authority/site/SONNEMANN20;false;;1997-11-10;SONNEMANN20;Sonnemannstraße 20;;
-http://publications.europa.eu/resource/authority/site/SPA2;false;;1958-01-01;SPA2;;;
-http://publications.europa.eu/resource/authority/site/SPA3;false;;1958-01-01;SPA3;;;
-http://publications.europa.eu/resource/authority/site/STDENISSTREET;false;;1958-01-01;STDENISSTREET;St. Denis Street;;
-http://publications.europa.eu/resource/authority/site/STEP_C;false;;1958-01-01;STEP_C;Science and Technology Park of Crete;;
-http://publications.europa.eu/resource/authority/site/STGERMAIN288;false;;1958-01-01;STGERMAIN288;Saint-Germain 288;;
-http://publications.europa.eu/resource/authority/site/STORRARDRIVE27;false;;1958-01-01;STORRARDRIVE27;Storrar Drive 27;;
-http://publications.europa.eu/resource/authority/site/STPAUL254;false;;1958-01-01;STPAUL254;St Paul 254;;
-http://publications.europa.eu/resource/authority/site/STREETNO88;false;;1958-01-01;STREETNO88;Street No 88;;
-http://publications.europa.eu/resource/authority/site/SUDIRMAN32;false;;1958-01-01;SUDIRMAN32;Sudirman 32;;
-http://publications.europa.eu/resource/authority/site/SVKIRILIMETODIJ52B;false;;1958-01-01;SVKIRILIMETODIJ52B;Sv. Kiril i Metodij 52b;;
-http://publications.europa.eu/resource/authority/site/T2;false;;2016-05-01;T2;Temporary Jean Monnet;;
-http://publications.europa.eu/resource/authority/site/TAPPOOCITYCOMPLEX;false;;1958-01-01;TAPPOOCITYCOMPLEX;Tappoo City Complex;;
-http://publications.europa.eu/resource/authority/site/TAUNUSTOR2;false;;1997-11-10;TAUNUSTOR2;Taunustor 2;;
-http://publications.europa.eu/resource/authority/site/TERESIANO1C;false;;1958-01-01;TERESIANO1C;Teresiano 1 C;;
-http://publications.europa.eu/resource/authority/site/TERRACE70;false;;1958-01-01;TERRACE70;The Terrace 70;;
-http://publications.europa.eu/resource/authority/site/TEVRAGHZEINA;false;;1958-01-01;TEVRAGHZEINA;Tevragh Zeina;;
-http://publications.europa.eu/resource/authority/site/TFP;true;2013-09-30;2006-01-01;TFP;;;
-http://publications.europa.eu/resource/authority/site/THABETALLOGHAWI;false;;1958-01-01;THABETALLOGHAWI;Thabet Al Loghawi;;
-http://publications.europa.eu/resource/authority/site/THM;false;;1993-02-12;THM;;;
-http://publications.europa.eu/resource/authority/site/THUONGKIET;false;;1958-01-01;THUONGKIET;Thuong Kiet;;
-http://publications.europa.eu/resource/authority/site/TO56;false;;1958-01-01;TO56;White Atrium Building;;
-http://publications.europa.eu/resource/authority/site/TOMTEBODA11A;false;;1958-01-01;TOMTEBODA11A;Tomteboda 11A;;
-http://publications.europa.eu/resource/authority/site/TORREJON;false;;1958-01-01;TORREJON;Torrejon Air Base;;
-http://publications.europa.eu/resource/authority/site/TORRESDIAGONALB3;false;;1958-01-01;TORRESDIAGONALB3;Torres Diagonal Litoral B3;;
-http://publications.europa.eu/resource/authority/site/TOURZITAL;false;;1958-01-01;TOURZITAL;Zital Tower;;
-http://publications.europa.eu/resource/authority/site/TR3;false;;1958-01-01;TR3;Trg republike 3;;
-http://publications.europa.eu/resource/authority/site/TRE;false;;1958-01-01;TRE;;;
-http://publications.europa.eu/resource/authority/site/TREURENBERG22;false;;1958-01-01;TREURENBERG22;Treurenberg 22;;
-http://publications.europa.eu/resource/authority/site/TRI;false;;1958-01-01;TRI;Trêves 1;;
-http://publications.europa.eu/resource/authority/site/TUN4JACKSON;false;;1958-01-01;TUN4JACKSON;Tun 4 Jackson;;
-http://publications.europa.eu/resource/authority/site/UGURMUMCU88;false;;1958-01-01;UGURMUMCU88;Ugur Mumcu 88;;
-http://publications.europa.eu/resource/authority/site/UMOJAHOUSE;false;;1958-01-01;UMOJAHOUSE;Umoja House;;
-http://publications.europa.eu/resource/authority/site/UMUGANDA1807;false;;1958-01-01;UMUGANDA1807;Umuganda 1807;;
-http://publications.europa.eu/resource/authority/site/UNDRIVE100;false;;1958-01-01;UNDRIVE100;U.N. Drive 100;;
-http://publications.europa.eu/resource/authority/site/UTTARDHOKASADAK;false;;1958-01-01;UTTARDHOKASADAK;Uttar Dhoka Sadak;;
-http://publications.europa.eu/resource/authority/site/VANBENTHEM1;false;;1958-01-01;VANBENTHEM1;Bob-van-Benthem 1;;
-http://publications.europa.eu/resource/authority/site/VASILISSISSOFIAS2;false;;1958-01-01;VASILISSISSOFIAS2;Vasilissis Sofias 2;;
-http://publications.europa.eu/resource/authority/site/VIJVERBERG5_6;false;;1958-01-01;VIJVERBERG5_6;Vijverberg 5-6;;
-http://publications.europa.eu/resource/authority/site/VILLAGUALINO;false;;1958-01-01;VILLAGUALINO;Villa Gualino;;
-http://publications.europa.eu/resource/authority/site/VM18;false;;1958-01-01;VM18;;;
-http://publications.europa.eu/resource/authority/site/VM2;false;;1958-01-01;VM2;;;
-http://publications.europa.eu/resource/authority/site/VOLODYMYRSKA101;false;;1958-01-01;VOLODYMYRSKA101;Volodymyrska 101;;
-http://publications.europa.eu/resource/authority/site/VONSUTTNER2_4;false;;1958-01-01;VONSUTTNER2_4;Bertha-von-Suttner 2-4;;
-http://publications.europa.eu/resource/authority/site/VYRONOS30;false;;1958-01-01;VYRONOS30;Vyronos 30;;
-http://publications.europa.eu/resource/authority/site/W910;false;;1958-01-01;W910;;;
-http://publications.europa.eu/resource/authority/site/WALI;false;;2006-06-21;WALI;;;
-http://publications.europa.eu/resource/authority/site/WARSPIRE;false;;1958-01-01;WARSPIRE;Warsau Spire;;
-http://publications.europa.eu/resource/authority/site/WAY;false;;1958-01-01;WAY;Wayenberg;;
-http://publications.europa.eu/resource/authority/site/WETSTRAAT223;false;;1997-11-10;WETSTRAAT223;Wetstraat 223;;
-http://publications.europa.eu/resource/authority/site/WHTO;false;;1958-01-01;WHTO;Westhafen Tower;;
-http://publications.europa.eu/resource/authority/site/WIB;false;;1958-01-01;WIB;Willy Brandt;;
-http://publications.europa.eu/resource/authority/site/WIC;false;;1958-01-01;WIC;Winston Churchill;;
-http://publications.europa.eu/resource/authority/site/WIDOK10;false;;1958-01-01;WIDOK10;Widok 10;;
-http://publications.europa.eu/resource/authority/site/WIE;false;;1958-01-01;WIE;Wiertz;;
-http://publications.europa.eu/resource/authority/site/WILS;false;;1958-01-01;WILS;;;
-http://publications.europa.eu/resource/authority/site/WIM;false;;2018-01-01;WIM;Wilfried Martens;;
-http://publications.europa.eu/resource/authority/site/WIND;false;;2007-12-01;WIND;Windhof (Data Centre);;
-http://publications.europa.eu/resource/authority/site/WIPPLINGER35;false;;1958-01-01;WIPPLINGER35;Wipplingerstraße 35;;
-http://publications.europa.eu/resource/authority/site/WIRELESS63;false;;1958-01-01;WIRELESS63;Wireless Road 63;;
-http://publications.europa.eu/resource/authority/site/WKI;false;;2008-06-02;WKI;EIB;;
-http://publications.europa.eu/resource/authority/site/WYATTVILLEROAD;false;;1958-01-01;WYATTVILLEROAD;Wyattville Road;;
+url,deprecated,valid_until,valid_from,id,label_en,skos:prefLabel,label_it
+http://publications.europa.eu/resource/authority/site/19THSTREET700,false,,1997-11-10,19THSTREET700,19th Street 700,,
+http://publications.europa.eu/resource/authority/site/20AVANDREPROTHIN,false,,2019-03-30,20AVANDREPROTHIN,Europlaza,,
+http://publications.europa.eu/resource/authority/site/3RDAVENUE666,false,,1958-01-01,3RDAVENUE666,3rd avenue 666,,
+http://publications.europa.eu/resource/authority/site/416HANGANGDAERO,false,,2017-12-01,416HANGANGDAERO,416 Hangang-daero,,
+http://publications.europa.eu/resource/authority/site/4TAAVE2DACALLE,false,,1958-01-01,4TAAVE2DACALLE,4ta Ave – 2da Calle,,
+http://publications.europa.eu/resource/authority/site/5TAAVENIDA2007,false,,1958-01-01,5TAAVENIDA2007,5ta avenida 2007,,
+http://publications.europa.eu/resource/authority/site/5TAAVENIDA5_55,false,,1958-01-01,5TAAVENIDA5_55,5ta avenida 5-55,,
+http://publications.europa.eu/resource/authority/site/A73,true,2005-01-01,1958-01-01,A73,,,
+http://publications.europa.eu/resource/authority/site/ABABUSCENT,false,,1958-01-01,ABABUSCENT,ABA Business Centre,,
+http://publications.europa.eu/resource/authority/site/ADALSTR6,false,,1958-01-01,ADALSTR6,Adalstraeti 6,,
+http://publications.europa.eu/resource/authority/site/ADG,false,,1958-01-01,ADG,Alcide De Gasperi building,,
+http://publications.europa.eu/resource/authority/site/ADHAMOV74,false,,1958-01-01,ADHAMOV74,Adhamov 74,,
+http://publications.europa.eu/resource/authority/site/ALAMEERAHBASMA,false,,1958-01-01,ALAMEERAHBASMA,Al-Ameerah Basma,,
+http://publications.europa.eu/resource/authority/site/ALVA9,false,,1958-01-01,ALVA9,Alva 9,,
+http://publications.europa.eu/resource/authority/site/AMALIAS8,false,,1958-01-01,AMALIAS8,Amalias 8,,
+http://publications.europa.eu/resource/authority/site/AMERICA404,false,,1958-01-01,AMERICA404,America 404,,
+http://publications.europa.eu/resource/authority/site/AMIRTEMUR107B,false,,1958-01-01,AMIRTEMUR107B,Amir Temur Street 107 B,,
+http://publications.europa.eu/resource/authority/site/AN,false,,2008-07-14,AN,,,
+http://publications.europa.eu/resource/authority/site/AN88,true,2017-03-31,1958-01-01,AN88,,,
+http://publications.europa.eu/resource/authority/site/ANNAKATU18,false,,1958-01-01,ANNAKATU18,Annakatu 18,,
+http://publications.europa.eu/resource/authority/site/ANX,true,,1958-01-01,ANX,Annex Building North-East (A-NE),,
+http://publications.europa.eu/resource/authority/site/ARCBUILDING,false,,1958-01-01,ARCBUILDING,Arc building,,
+http://publications.europa.eu/resource/authority/site/AREA18ROUNDABOUT,false,,1958-01-01,AREA18ROUNDABOUT,Area 18 Roundabout,,
+http://publications.europa.eu/resource/authority/site/ARGENTINIERSTRASSE26,false,,1958-01-01,ARGENTINIERSTRASSE26,Argentinierstrasse26,,
+http://publications.europa.eu/resource/authority/site/ARIA,false,,2015-01-01,ARIA,Ariane building,,
+http://publications.europa.eu/resource/authority/site/ARKANA18,false,,1958-01-01,ARKANA18,Arkana 18,,
+http://publications.europa.eu/resource/authority/site/ARTIGAS1300,false,,1958-01-01,ARTIGAS1300,Artigas 1300,,
+http://publications.europa.eu/resource/authority/site/ASP,false,,1958-01-01,ASP,Altiero Spinelli,,
+http://publications.europa.eu/resource/authority/site/ASPAZIJAS28,false,,1958-01-01,ASPAZIJAS28,Aspazijas 28,,
+http://publications.europa.eu/resource/authority/site/ATLANTICROAD74,false,,1958-01-01,ATLANTICROAD74,Atlantic Road 74,,
+http://publications.europa.eu/resource/authority/site/ATR,false,,1958-01-01,ATR,Atrium 1 and 2,,
+http://publications.europa.eu/resource/authority/site/AUGUSTACESARCA4_6,false,,1958-01-01,AUGUSTACESARCA4_6,Augusta Cesarca 4-6,,
+http://publications.europa.eu/resource/authority/site/AUXENCEICKONGA,false,,1958-01-01,AUXENCEICKONGA,Impasse Auxence Ickonga,,
+http://publications.europa.eu/resource/authority/site/AVBARTHBOGANDA,false,,1958-01-01,AVBARTHBOGANDA,Avenue Barthélémy Boganda,,
+http://publications.europa.eu/resource/authority/site/AVCLOZEL,false,,1958-01-01,AVCLOZEL,Av. Clozel,,
+http://publications.europa.eu/resource/authority/site/AVCOSTANERA300,false,,1958-01-01,AVCOSTANERA300,Avenida Costanera 300,,
+http://publications.europa.eu/resource/authority/site/AVENUEDUMOUNIO,false,,1958-01-01,AVENUEDUMOUNIO,Avenue du Mounio,,
+http://publications.europa.eu/resource/authority/site/AVEUROPA4,false,,1958-01-01,AVEUROPA4,Avenida de Europa 4,,
+http://publications.europa.eu/resource/authority/site/AVKWAMENKRUMAH,false,,1958-01-01,AVKWAMENKRUMAH,Avenue Kwame N'Krumah,,
+http://publications.europa.eu/resource/authority/site/AVLINCOLN1063,false,,1958-01-01,AVLINCOLN1063,Av. Abraham Lincoln 1063,,
+http://publications.europa.eu/resource/authority/site/AVMENDANA,false,,1958-01-01,AVMENDANA,Mendana Avenue,,
+http://publications.europa.eu/resource/authority/site/AVORELLANAE11_160,false,,1958-01-01,AVORELLANAE11_160,Av. Orellana E11-160,,
+http://publications.europa.eu/resource/authority/site/AVORINOCO,false,,1958-01-01,AVORINOCO,Avenida Orinoco,,
+http://publications.europa.eu/resource/authority/site/AVRICARDOLYON222,false,,1958-01-01,AVRICARDOLYON222,Av. Ricardo Lyon 222,,
+http://publications.europa.eu/resource/authority/site/AVROTARYINTER,false,,1958-01-01,AVROTARYINTER,Avenida Rotary International,,
+http://publications.europa.eu/resource/authority/site/AVSUFFREN100,false,,1958-01-01,AVSUFFREN100,Av Suffren 100,,
+http://publications.europa.eu/resource/authority/site/AVTERRASSONFOUGERES,false,,1958-01-01,AVTERRASSONFOUGERES,Avenue Terrasson de Fougères,,
+http://publications.europa.eu/resource/authority/site/AYACUCHO1537,false,,1958-01-01,AYACUCHO1537,Ayacucho 1537,,
+http://publications.europa.eu/resource/authority/site/AYALA6819,false,,1958-01-01,AYALA6819,Ayala 6819,,
+http://publications.europa.eu/resource/authority/site/B100,false,,1958-01-01,B100,,,
+http://publications.europa.eu/resource/authority/site/B135,true,,1958-01-01,B135,European Court of Auditors,,Corte dei conti europea
+http://publications.europa.eu/resource/authority/site/B232,false,,1958-01-01,B232,,,
+http://publications.europa.eu/resource/authority/site/B28,false,,1958-01-01,B28,,,
+http://publications.europa.eu/resource/authority/site/B68,false,,1958-01-01,B68,CoR/EESC,,CdR/CESE
+http://publications.europa.eu/resource/authority/site/BAIRRODAPENHA,false,,1958-01-01,BAIRRODAPENHA,Bairro da Penha,,
+http://publications.europa.eu/resource/authority/site/BARBUSSE2,false,,1958-01-01,BARBUSSE2,Barbusse 2,,
+http://publications.europa.eu/resource/authority/site/BATIMJARDIN,false,,1958-01-01,BATIMJARDIN,Jardin building,,
+http://publications.europa.eu/resource/authority/site/BAUDDHALOKA389,false,,1958-01-01,BAUDDHALOKA389,Bauddhaloka 389,,
+http://publications.europa.eu/resource/authority/site/BD4,false,,1958-01-01,BD4,BD4,,
+http://publications.europa.eu/resource/authority/site/BECH,false,,1958-01-01,BECH,Bech building,,
+http://publications.europa.eu/resource/authority/site/BEI,false,,1958-01-01,BEI,European Investment Bank,,Banca europea per gli investimenti
+http://publications.europa.eu/resource/authority/site/BELAUNDE332,false,,1958-01-01,BELAUNDE332,Belaunde 332,,
+http://publications.europa.eu/resource/authority/site/BERCY201_203,false,,2019-11-22,BERCY201_203,Bercy 201-203,,
+http://publications.europa.eu/resource/authority/site/BERL,false,,1958-01-01,BERL,,,
+http://publications.europa.eu/resource/authority/site/BMT,false,,2016-11-01,BMT,Belmont Court,,
+http://publications.europa.eu/resource/authority/site/BORNO19,false,,1958-01-01,BORNO19,Borno 19,,
+http://publications.europa.eu/resource/authority/site/BOULEVARD30JUIN,false,,1958-01-01,BOULEVARD30JUIN,Boulevard 30 juin,,
+http://publications.europa.eu/resource/authority/site/BOUR,false,,1958-01-01,BOUR,,,
+http://publications.europa.eu/resource/authority/site/BOUR2,false,,1958-01-01,BOUR2,,,
+http://publications.europa.eu/resource/authority/site/BQL,false,,1958-01-01,BQL,European Parliament Office in Belgium,,Ufficio del Parlamento europeo in Belgio
+http://publications.europa.eu/resource/authority/site/BRE2,false,,1958-01-01,BRE2,,,
+http://publications.europa.eu/resource/authority/site/BREY,false,,1958-01-01,BREY,,,
+http://publications.europa.eu/resource/authority/site/BSPHAUS,false,,1958-01-01,BSPHAUS,BSP Haus,,
+http://publications.europa.eu/resource/authority/site/BU1,false,,1958-01-01,BU1,,,
+http://publications.europa.eu/resource/authority/site/BU24,false,,1958-01-01,BU24,,,
+http://publications.europa.eu/resource/authority/site/BU25,false,,1958-01-01,BU25,,,
+http://publications.europa.eu/resource/authority/site/BU29,false,,1958-01-01,BU29,,,
+http://publications.europa.eu/resource/authority/site/BU31,false,,1958-01-01,BU31,,,
+http://publications.europa.eu/resource/authority/site/BU33,false,,1958-01-01,BU33,,,
+http://publications.europa.eu/resource/authority/site/BU5,false,,1958-01-01,BU5,,,
+http://publications.europa.eu/resource/authority/site/BU9,false,,1958-01-01,BU9,,,
+http://publications.europa.eu/resource/authority/site/BUILD_C,false,,1994-02-12,BUILD_C,C Building,,
+http://publications.europa.eu/resource/authority/site/BUILD_T,false,,1999-01-01,BUILD_T,T building,,
+http://publications.europa.eu/resource/authority/site/BUNDESGASSE18,false,,1958-01-01,BUNDESGASSE18,Bundesgasse 18,,
+http://publications.europa.eu/resource/authority/site/BVS,false,,1958-01-01,BVS,Bertha von Suttner,,
+http://publications.europa.eu/resource/authority/site/C107,false,,1958-01-01,C107,,,
+http://publications.europa.eu/resource/authority/site/C115,false,,2011-10-14,C115,,,
+http://publications.europa.eu/resource/authority/site/C150,false,,1958-01-01,C150,,,
+http://publications.europa.eu/resource/authority/site/C158,false,,1986-01-01,C158,,,
+http://publications.europa.eu/resource/authority/site/C25,false,,1958-01-01,C25,,,
+http://publications.europa.eu/resource/authority/site/CALLE116,false,,1958-01-01,CALLE116,Calle 116,,
+http://publications.europa.eu/resource/authority/site/CALLE53MARBELLA,false,,1958-01-01,CALLE53MARBELLA,Calle 53 Marbella,,
+http://publications.europa.eu/resource/authority/site/CANTONMENTS81,false,,1958-01-01,CANTONMENTS81,Cantonments 81,,
+http://publications.europa.eu/resource/authority/site/CAPEVERDEROAD,false,,1958-01-01,CAPEVERDEROAD,Cape-Verde Road,,
+http://publications.europa.eu/resource/authority/site/CARLOMAGNO1A,false,,1958-01-01,CARLOMAGNO1A,Carlo Magno 1A,,
+http://publications.europa.eu/resource/authority/site/CASPIAN2,false,,1958-01-01,CASPIAN2,Caspian 2,,
+http://publications.europa.eu/resource/authority/site/CASTELLANA46,false,,1958-01-01,CASTELLANA46,Castellana 46,,
+http://publications.europa.eu/resource/authority/site/CCAB,false,,1958-01-01,CCAB,Albert Borschette Centre,,
+http://publications.europa.eu/resource/authority/site/CCO,true,,1958-01-01,CCO,Conference Centre — Kirchberg,,
+http://publications.europa.eu/resource/authority/site/CDMA,false,,1958-01-01,CDMA,,,
+http://publications.europa.eu/resource/authority/site/CHAHARISEDARAT,false,,1958-01-01,CHAHARISEDARAT,Chahari Sedarat,,
+http://publications.europa.eu/resource/authority/site/CHAR,false,,1958-01-01,CHAR,Charlemagne,,
+http://publications.europa.eu/resource/authority/site/CHURCHILL30,true,2019-03-10,1958-01-01,CHURCHILL30,Churchill 30,,
+http://publications.europa.eu/resource/authority/site/CIH,false,,1958-01-01,CIH,Demeurslaan 132,,
+http://publications.europa.eu/resource/authority/site/CITEOUA,false,,1958-01-01,CITEOUA,Cité OUA,,
+http://publications.europa.eu/resource/authority/site/CJ_PALAIS,false,,2008-12-04,CJ_PALAIS,,,
+http://publications.europa.eu/resource/authority/site/CJ_TOA,false,,2008-07-15,CJ_TOA,Tower A,,
+http://publications.europa.eu/resource/authority/site/CJ_TOB,false,,2008-11-01,CJ_TOB,Tower B,,
+http://publications.europa.eu/resource/authority/site/CLOV,false,,1958-01-01,CLOV,,,
+http://publications.europa.eu/resource/authority/site/COE,false,,1958-01-01,COE,Council of Europe,,
+http://publications.europa.eu/resource/authority/site/COLE,false,,1958-01-01,COLE,,,
+http://publications.europa.eu/resource/authority/site/COLEAHLANSEBOUNDJI,false,,1958-01-01,COLEAHLANSEBOUNDJI,Coléah Lanséboundji,,
+http://publications.europa.eu/resource/authority/site/CONSTITUTION167,false,,1958-01-01,CONSTITUTION167,Constitution 167,,
+http://publications.europa.eu/resource/authority/site/COVE,false,,1958-01-01,COVE,,,
+http://publications.europa.eu/resource/authority/site/COVE2,false,,1958-01-01,COVE2,,,
+http://publications.europa.eu/resource/authority/site/CPE1,false,,1958-01-01,CPE1,Interinstitutional Children’s Centre,,
+http://publications.europa.eu/resource/authority/site/CPE2,false,,1958-01-01,CPE2,,,
+http://publications.europa.eu/resource/authority/site/CPE3,false,,1958-01-01,CPE3,,,
+http://publications.europa.eu/resource/authority/site/CPE4,true,2012-12-31,1958-01-01,CPE4,,,
+http://publications.europa.eu/resource/authority/site/CPE5,false,,1958-01-01,CPE5,,,
+http://publications.europa.eu/resource/authority/site/CSM1,false,,1958-01-01,CSM1,,,
+http://publications.europa.eu/resource/authority/site/CSM2,true,2016-11-29,1958-01-01,CSM2,,,
+http://publications.europa.eu/resource/authority/site/DAIL,false,,1958-01-01,DAIL,,,
+http://publications.europa.eu/resource/authority/site/DAV1,false,,1958-01-01,DAV1,,,
+http://publications.europa.eu/resource/authority/site/DAWSON18,false,,1958-01-01,DAWSON18,Dawson 18,,
+http://publications.europa.eu/resource/authority/site/DM24,false,,1958-01-01,DM24,,,
+http://publications.europa.eu/resource/authority/site/DM28,false,,1958-01-01,DM28,,,
+http://publications.europa.eu/resource/authority/site/DOMBENOUADAH,false,,1958-01-01,DOMBENOUADAH,Domaine Benouadah,,
+http://publications.europa.eu/resource/authority/site/DONGZHIMENWAIDAIJIE15,false,,1958-01-01,DONGZHIMENWAIDAIJIE15,Dongzhimenwai Daijie 15,,
+http://publications.europa.eu/resource/authority/site/DRB,false,,1958-01-01,DRB,Drosbach building,,
+http://publications.europa.eu/resource/authority/site/DUBLINROAD74_76,false,,1958-01-01,DUBLINROAD74_76,Dublin Road 74-76,,
+http://publications.europa.eu/resource/authority/site/DUNAJSKA20,false,,1958-01-01,DUNAJSKA20,Dunajska 20,,
+http://publications.europa.eu/resource/authority/site/EAS,true,2016-09-30,1958-01-01,EAS,Eastman,,
+http://publications.europa.eu/resource/authority/site/EBRC,false,,1958-01-01,EBRC,Resilience Centre,,
+http://publications.europa.eu/resource/authority/site/EE1,false,,1958-01-01,EE1,European School I — Kirchberg,,
+http://publications.europa.eu/resource/authority/site/EE2,false,,1958-01-01,EE2,European School II — Bertrange,,
+http://publications.europa.eu/resource/authority/site/EEAS,false,,2011-10-14,EEAS,EEAS Building,,
+http://publications.europa.eu/resource/authority/site/EISENHOWER73,false,,1958-01-01,EISENHOWER73,Eisenhower 73,,
+http://publications.europa.eu/resource/authority/site/EKI,false,,2008-06-02,EKI,EKI,,
+http://publications.europa.eu/resource/authority/site/ENGELS34A,false,,1958-01-01,ENGELS34A,Engels 34 A,,
+http://publications.europa.eu/resource/authority/site/EP_BRU_PRESS,false,,1958-01-01,EP_BRU_PRESS,European Parliament – Press Service,,
+http://publications.europa.eu/resource/authority/site/EP_SXB,false,,1958-01-01,EP_SXB,European Parliament Office in Strasbourg,,
+http://publications.europa.eu/resource/authority/site/ERA,false,,1988-10-05,ERA,,,
+http://publications.europa.eu/resource/authority/site/ERHARDT27,false,,1958-01-01,ERHARDT27,Erhardt 27,,
+http://publications.europa.eu/resource/authority/site/ERKINDIK21,false,,1958-01-01,ERKINDIK21,Erkindik 21,,
+http://publications.europa.eu/resource/authority/site/ER_RIAD,false,,1958-01-01,ER_RIAD,Boulevard Er-Riad,,
+http://publications.europa.eu/resource/authority/site/ETHNIKISANTISTASEOS72,false,,2021-07-01,ETHNIKISANTISTASEOS72,Ethnikis Antistaseos 72,,
+http://publications.europa.eu/resource/authority/site/ETIHADTOWER,false,,1958-01-01,ETIHADTOWER,Etihad Tower,,
+http://publications.europa.eu/resource/authority/site/EUFO1,false,,1958-01-01,EUFO1,Euroforum,,
+http://publications.europa.eu/resource/authority/site/EUROPE,false,,1958-01-01,EUROPE,House of Europe (MAEU),,
+http://publications.europa.eu/resource/authority/site/EUROPE123,false,,1958-01-01,EUROPE123,Europe 123,,
+http://publications.europa.eu/resource/authority/site/EYLAU12,false,,1958-01-01,EYLAU12,Eylau 12,,
+http://publications.europa.eu/resource/authority/site/F101,false,,1958-01-01,F101,,,
+http://publications.europa.eu/resource/authority/site/FEI,true,1958-01-01,1957-12-31,FEI,European Investment Fund,,Fondo europeo per gli investimenti
+http://publications.europa.eu/resource/authority/site/FISR,false,,1958-01-01,FISR,,,
+http://publications.europa.eu/resource/authority/site/FRIK21,false,,1958-01-01,FRIK21,Frik 21,,
+http://publications.europa.eu/resource/authority/site/G1,false,,1958-01-01,G1,,,
+http://publications.europa.eu/resource/authority/site/G12,false,,1958-01-01,G12,,,
+http://publications.europa.eu/resource/authority/site/G6,false,,1958-01-01,G6,,,
+http://publications.europa.eu/resource/authority/site/GAL,false,,2008-07-14,GAL,,,
+http://publications.europa.eu/resource/authority/site/GAMHORIA10,false,,1958-01-01,GAMHORIA10,Gamhoria 10,,
+http://publications.europa.eu/resource/authority/site/GARCIABARBON4,false,,1958-01-01,GARCIABARBON4,Odriozola building,,
+http://publications.europa.eu/resource/authority/site/GARDENROAD33,false,,1958-01-01,GARDENROAD33,Garden Road 33,,
+http://publications.europa.eu/resource/authority/site/GASP,true,2015-05-31,1958-01-01,GASP,,,
+http://publications.europa.eu/resource/authority/site/GEDIMINO16,false,,1958-01-01,GEDIMINO16,Gedimino 16,,
+http://publications.europa.eu/resource/authority/site/GEOS,true,2014-02-01,2004-02-01,GEOS,GEOS,,
+http://publications.europa.eu/resource/authority/site/GOL,true,2016-09-30,1958-01-01,GOL,Goldbell,,
+http://publications.europa.eu/resource/authority/site/GOTHERSGADE115,false,,1958-01-01,GOTHERSGADE115,Gothersgade 115,,
+http://publications.europa.eu/resource/authority/site/GRACIA90,false,,1958-01-01,GRACIA90,Gràcía 90,,
+http://publications.europa.eu/resource/authority/site/GRAN,false,,2002-03-14,GRAN,"Dunsany, Grange",,
+http://publications.europa.eu/resource/authority/site/GRANDPRE64,false,,1958-01-01,GRANDPRE64,Grand-Pré 64,,
+http://publications.europa.eu/resource/authority/site/GRANDPRE66,false,,1958-01-01,GRANDPRE66,Grand-Pré 66,,
+http://publications.europa.eu/resource/authority/site/GRENELLE103,true,2019-11-21,1958-01-01,GRENELLE103,Grenelle 103,,
+http://publications.europa.eu/resource/authority/site/GUIM,false,,1958-01-01,GUIM,,,
+http://publications.europa.eu/resource/authority/site/HANNINGTON17_23,false,,1958-01-01,HANNINGTON17_23,Hannington Road 17-23,,
+http://publications.europa.eu/resource/authority/site/HARBORDRIVE490,false,,1958-01-01,HARBORDRIVE490,Harbor drive 490,,
+http://publications.europa.eu/resource/authority/site/HASSANII12,false,,1958-01-01,HASSANII12,Hassan II 12,,
+http://publications.europa.eu/resource/authority/site/HASTINGSMAINROAD,false,,1958-01-01,HASTINGSMAINROAD,Hastings Main Road,,
+http://publications.europa.eu/resource/authority/site/HAV,false,,2013-01-01,HAV,Václav Havel,,
+http://publications.europa.eu/resource/authority/site/HEI,false,,1958-01-01,HEI,,,
+http://publications.europa.eu/resource/authority/site/HLEDANCENTRE,false,,1958-01-01,HLEDANCENTRE,Hledan Centre,,
+http://publications.europa.eu/resource/authority/site/HTC,false,,1958-01-01,HTC,,,
+http://publications.europa.eu/resource/authority/site/HTWG,false,,1958-01-01,HTWG,,,
+http://publications.europa.eu/resource/authority/site/IAK,false,,2016-01-01,IAK,,,
+http://publications.europa.eu/resource/authority/site/INFOPARKE,false,,1958-01-01,INFOPARKE,Infopark Building E,,
+http://publications.europa.eu/resource/authority/site/IPE3,false,,1958-01-01,IPE3,IPE 3,,
+http://publications.europa.eu/resource/authority/site/IVNOVEMBRE149,false,,1958-01-01,IVNOVEMBRE149,IV Novembre 149,,
+http://publications.europa.eu/resource/authority/site/J27,false,,1958-01-01,J27,,,
+http://publications.europa.eu/resource/authority/site/J30,false,,1958-01-01,J30,,,
+http://publications.europa.eu/resource/authority/site/J54,false,,1958-01-01,J54,,,
+http://publications.europa.eu/resource/authority/site/J59,false,,1958-01-01,J59,,,
+http://publications.europa.eu/resource/authority/site/J70,false,,1958-01-01,J70,,,
+http://publications.europa.eu/resource/authority/site/J79,false,,1958-01-01,J79,,,
+http://publications.europa.eu/resource/authority/site/J99,false,,1958-01-01,J99,,,
+http://publications.europa.eu/resource/authority/site/JALANTUNRAZAK207,false,,1958-01-01,JALANTUNRAZAK207,Jalan Tun Razak 207,,
+http://publications.europa.eu/resource/authority/site/JAN,false,,1958-01-01,JAN,József Antall,,
+http://publications.europa.eu/resource/authority/site/JANOVSKEHO438,false,,1958-01-01,JANOVSKEHO438,Janovskeho 438,,
+http://publications.europa.eu/resource/authority/site/JASNA14_16,false,,1958-01-01,JASNA14_16,Jasna 14/16,,
+http://publications.europa.eu/resource/authority/site/JDE,false,,1958-01-01,JDE,Jacques Delors,,
+http://publications.europa.eu/resource/authority/site/JFK,true,,1958-01-01,JFK,,,
+http://publications.europa.eu/resource/authority/site/JL,false,,1958-01-01,JL,,,
+http://publications.europa.eu/resource/authority/site/JMO,true,2017-06-30,1958-01-01,JMO,Jean Monnet building,,
+http://publications.europa.eu/resource/authority/site/JRCGEEL,false,,1960-05-01,JRCGEEL,Geel site,,
+http://publications.europa.eu/resource/authority/site/JRCISP,false,,1959-07-22,JRCISP,Ispra site,,
+http://publications.europa.eu/resource/authority/site/JRCKARLS,false,,1965-04-01,JRCKARLS,Karlsruhe site,,
+http://publications.europa.eu/resource/authority/site/JRCPETT,false,,1962-11-16,JRCPETT,Petten site,,
+http://publications.europa.eu/resource/authority/site/JRCSEVI,false,,2002-01-01,JRCSEVI,Expo building,,
+http://publications.europa.eu/resource/authority/site/JULIUSNYERERE,false,,1958-01-01,JULIUSNYERERE,Avenida Julius Nyerere,,
+http://publications.europa.eu/resource/authority/site/JUNGMANNOVA24,false,,1958-01-01,JUNGMANNOVA24,Jungmannova 24,,
+http://publications.europa.eu/resource/authority/site/K1K2K3,false,,1985-01-01,K1K2K3,European Court of Auditors,,Corte dei conti europea
+http://publications.europa.eu/resource/authority/site/K7,true,,1958-01-01,K7,T building,,
+http://publications.europa.eu/resource/authority/site/K8,true,,1958-01-01,K8,,,
+http://publications.europa.eu/resource/authority/site/K9,true,,1958-01-01,K9,Translation,,
+http://publications.europa.eu/resource/authority/site/KAD,false,,1958-01-01,KAD,Konrad Adenauer,,
+http://publications.europa.eu/resource/authority/site/KADASHEVSKAYA14,false,,1958-01-01,KADASHEVSKAYA14,Kadashevskaya 14,,
+http://publications.europa.eu/resource/authority/site/KADENAUER3,false,,1958-01-01,KADENAUER3,Konrad Adenauer 3,,
+http://publications.europa.eu/resource/authority/site/KAISERS29,false,,1997-11-10,KAISERS29,Kaiserstraße 29,,
+http://publications.europa.eu/resource/authority/site/KARADZICA12,false,,1958-01-01,KARADZICA12,Karadzica 12,,
+http://publications.europa.eu/resource/authority/site/KEBELE10ROOSEVELT,false,,1958-01-01,KEBELE10ROOSEVELT,Kebele 10 Roosevelt,,
+http://publications.europa.eu/resource/authority/site/KEELUNG333,false,,1958-01-01,KEELUNG333,Keelung 333,,
+http://publications.europa.eu/resource/authority/site/KLINGENBERG7A,false,,1958-01-01,KLINGENBERG7A,Klingenberg 7A,,
+http://publications.europa.eu/resource/authority/site/KOGALNICEANU12,false,,1958-01-01,KOGALNICEANU12,Kogalniceanu 12,,
+http://publications.europa.eu/resource/authority/site/KONGENSNYTORV6,false,,1958-01-01,KONGENSNYTORV6,Kongens Nytorv 6,,
+http://publications.europa.eu/resource/authority/site/KORT,false,,1958-01-01,KORT,Archives,,
+http://publications.europa.eu/resource/authority/site/KOSMONAVTOV62,false,,1958-01-01,KOSMONAVTOV62,Kosmonavtov 62,,
+http://publications.europa.eu/resource/authority/site/KOSOVOSTREET1,false,,1958-01-01,KOSOVOSTREET1,Kosovo Street 1,,
+http://publications.europa.eu/resource/authority/site/KSTREET2175,false,,1958-01-01,KSTREET2175,K Street 2175,,
+http://publications.europa.eu/resource/authority/site/L102,false,,1958-01-01,L102,,,
+http://publications.europa.eu/resource/authority/site/L130,false,,1958-01-01,L130,,,
+http://publications.europa.eu/resource/authority/site/L145,false,,1958-01-01,L145,,,
+http://publications.europa.eu/resource/authority/site/L15,false,,2013-06-21,L15,,,
+http://publications.europa.eu/resource/authority/site/L41,false,,1958-01-01,L41,,,
+http://publications.europa.eu/resource/authority/site/L56,false,,1958-01-01,L56,,,
+http://publications.europa.eu/resource/authority/site/L86,false,,1958-01-01,L86,,,
+http://publications.europa.eu/resource/authority/site/LACBIWA,false,,1958-01-01,LACBIWA,Lac Biwa,,
+http://publications.europa.eu/resource/authority/site/LACC,false,,2015-01-01,LACC,Laccolith building,,
+http://publications.europa.eu/resource/authority/site/LACWINDERMERE,false,,1958-01-01,LACWINDERMERE,Lac Windermere,,
+http://publications.europa.eu/resource/authority/site/LARGOJEANMONNET,false,,1958-01-01,LARGOJEANMONNET,Largo Jean Monnet,,
+http://publications.europa.eu/resource/authority/site/LASCAR31,false,,1958-01-01,LASCAR31,Lascar 31,,
+http://publications.europa.eu/resource/authority/site/LEFRANCQ120,false,,1958-01-01,LEFRANCQ120,Lefrancq 120,,
+http://publications.europa.eu/resource/authority/site/LEICESTERPEAK,false,,1958-01-01,LEICESTERPEAK,"Leicester Peak, Regent",,
+http://publications.europa.eu/resource/authority/site/LINDEN78,false,,1958-01-01,LINDEN78,Linden 78,,
+http://publications.europa.eu/resource/authority/site/LKI,false,,2016-01-01,LKI,LKI,,
+http://publications.europa.eu/resource/authority/site/LOSANGELESBV4899,false,,1958-01-01,LOSANGELESBV4899,Los Angeles Boulevard 4899,,
+http://publications.europa.eu/resource/authority/site/LOTCOCOTIERS,false,,1958-01-01,LOTCOCOTIERS,Lotissement des Cocotiers,,
+http://publications.europa.eu/resource/authority/site/LOVOHAZ35,false,,1958-01-01,LOVOHAZ35,Lövőház 35,,
+http://publications.europa.eu/resource/authority/site/LOW,false,,1958-01-01,LOW,Louise Weiss,,
+http://publications.europa.eu/resource/authority/site/LOWERMOUNT12_14,false,,1958-01-01,LOWERMOUNT12_14,Lower Mount 12-14,,
+http://publications.europa.eu/resource/authority/site/LX40,false,,1958-01-01,LX40,,,
+http://publications.europa.eu/resource/authority/site/LX46,false,,1958-01-01,LX46,,,
+http://publications.europa.eu/resource/authority/site/MADO,false,,1958-01-01,MADO,,,
+http://publications.europa.eu/resource/authority/site/MAGENTA59,false,,1958-01-01,MAGENTA59,Magenta 59,,
+http://publications.europa.eu/resource/authority/site/MALMINKATU16,false,,1958-01-01,MALMINKATU16,Malminkatu 16,,
+http://publications.europa.eu/resource/authority/site/MARECHALFOCH3,false,,1958-01-01,MARECHALFOCH3,Marechal Foch 3,,
+http://publications.europa.eu/resource/authority/site/MARSATEKLAI192,false,,1958-01-01,MARSATEKLAI192,Marsa Teklai 192,,
+http://publications.europa.eu/resource/authority/site/MEIEROVICA14,false,,1958-01-01,MEIEROVICA14,Meierovica 14,,
+http://publications.europa.eu/resource/authority/site/MER,false,,1958-01-01,MER,,,
+http://publications.europa.eu/resource/authority/site/MERO,false,,2016-11-30,MERO,Merode,,
+http://publications.europa.eu/resource/authority/site/METCALFE150,false,,1958-01-01,METCALFE150,Metcalfe 150,,
+http://publications.europa.eu/resource/authority/site/MHE,false,,2017-01-01,MHE,House of European History,,
+http://publications.europa.eu/resource/authority/site/MINAMIAZABU,false,,1958-01-01,MINAMIAZABU,Minami-Azabu,,
+http://publications.europa.eu/resource/authority/site/MIRIBILLA,false,,1958-01-01,MIRIBILLA,Miribilla building,,
+http://publications.europa.eu/resource/authority/site/MOLL150,false,,1958-01-01,MOLL150,avenue MOLL 150,,
+http://publications.europa.eu/resource/authority/site/MON15,false,,2016-10-19,MON15,Montoyer 15,,
+http://publications.europa.eu/resource/authority/site/MON34,false,,1958-01-01,MON34,,,
+http://publications.europa.eu/resource/authority/site/MON59,false,,1958-01-01,MON59,,,
+http://publications.europa.eu/resource/authority/site/MON63,true,2016-12-31,1958-01-01,MON63,Montoyer 63 (MON),,
+http://publications.europa.eu/resource/authority/site/MON70,false,,1958-01-01,MON70,Montoyer 70 (MTY),,
+http://publications.europa.eu/resource/authority/site/MON75,false,,1958-01-01,MON75,Montoyer 75 (MOY),,
+http://publications.europa.eu/resource/authority/site/MTCBLOCKA,false,,1958-01-01,MTCBLOCKA,MTC Block A,,
+http://publications.europa.eu/resource/authority/site/MTS,false,,2012-01-01,MTS,Montoyer-Science,,
+http://publications.europa.eu/resource/authority/site/MUJAHEDHADDAH,false,,1958-01-01,MUJAHEDHADDAH,Mujahed Street Haddah zone,,
+http://publications.europa.eu/resource/authority/site/N105,false,,1958-01-01,N105,,,
+http://publications.europa.eu/resource/authority/site/NAJEEBALRAYYES3,false,,1958-01-01,NAJEEBALRAYYES3,Najeeb Al-Rayyes3,,
+http://publications.europa.eu/resource/authority/site/NEWTONSTREET2,false,,1958-01-01,NEWTONSTREET2,Newton Street 2,,
+http://publications.europa.eu/resource/authority/site/NILECITYTOWERS,false,,1958-01-01,NILECITYTOWERS,Nile City Towers,,
+http://publications.europa.eu/resource/authority/site/NINOCHKHEIDZE38,false,,1958-01-01,NINOCHKHEIDZE38,Nino Chkheidze 38,,
+http://publications.europa.eu/resource/authority/site/NIZAMI90A,false,,1958-01-01,NIZAMI90A,Nizami 90A,,
+http://publications.europa.eu/resource/authority/site/NORFOLKSTREET1,false,,1958-01-01,NORFOLKSTREET1,Norfolk Street 1,,
+http://publications.europa.eu/resource/authority/site/NORTHBRIDGE250,false,,1958-01-01,NORTHBRIDGE250,North Bridge Road 250,,
+http://publications.europa.eu/resource/authority/site/OFFCONSTITUTION,false,,1958-01-01,OFFCONSTITUTION,Off Constitution,,
+http://publications.europa.eu/resource/authority/site/OFIPLAZADELESTE,false,,1958-01-01,OFIPLAZADELESTE,Ofiplaza del Este,,
+http://publications.europa.eu/resource/authority/site/OLIVIERROAD8,false,,1958-01-01,OLIVIERROAD8,Olivier Road 8,,
+http://publications.europa.eu/resource/authority/site/ONAMBLELENKOU1068,false,,1958-01-01,ONAMBLELENKOU1068,Onamblélé Nkou 1068,,
+http://publications.europa.eu/resource/authority/site/ONECANADASQ,true,2019-05-30,1958-01-01,ONECANADASQ,One Canada Square,,
+http://publications.europa.eu/resource/authority/site/OP_DATPRO,,,,OP_DATPRO,Provisional data,,Dati provvisori
+http://publications.europa.eu/resource/authority/site/ORANGERIE18,false,,1958-01-01,ORANGERIE18,Orangerie 18,,
+http://publications.europa.eu/resource/authority/site/ORBN,false,,1986-07-01,ORBN,,,
+http://publications.europa.eu/resource/authority/site/ORLYPLEIN24,false,,2019-03-11,ORLYPLEIN24,Orlyplein 24,,
+http://publications.europa.eu/resource/authority/site/OUTCA27,false,,1958-01-01,OUTCA27,Ó utca 27,,
+http://publications.europa.eu/resource/authority/site/OVER,false,,1958-01-01,OVER,,,
+http://publications.europa.eu/resource/authority/site/PALISADY29,false,,1958-01-01,PALISADY29,Palisády 29,,
+http://publications.europa.eu/resource/authority/site/PALM,false,,1958-01-01,PALM,,,
+http://publications.europa.eu/resource/authority/site/PE_TOA,false,,1958-01-01,PE_TOA,Tower A,,
+http://publications.europa.eu/resource/authority/site/PE_TOB,false,,1958-01-01,PE_TOB,Tower B,,
+http://publications.europa.eu/resource/authority/site/PFL,false,,1958-01-01,PFL,Pierre Pflimlin building,,
+http://publications.europa.eu/resource/authority/site/PHS,false,,1958-01-01,PHS,Paul-Henri Spaak,,
+http://publications.europa.eu/resource/authority/site/PKI,false,,1980-01-01,PKI,PKI,,
+http://publications.europa.eu/resource/authority/site/PLACEINDEPENDANCE,false,,1958-01-01,PLACEINDEPENDANCE,Place de l'Indépendance,,
+http://publications.europa.eu/resource/authority/site/PLB3,false,,2014-04-28,PLB3,,,
+http://publications.europa.eu/resource/authority/site/POLOT82A,false,,1958-01-01,POLOT82A,Polot 82 A European Compound,,
+http://publications.europa.eu/resource/authority/site/PONIENTEHOLCIM2,false,,1958-01-01,PONIENTEHOLCIM2,Poniente Holcim 2,,
+http://publications.europa.eu/resource/authority/site/POPOVICA40,false,,1958-01-01,POPOVICA40,Popovića 40,,
+http://publications.europa.eu/resource/authority/site/PRE,false,,1958-01-01,PRE,President,,
+http://publications.europa.eu/resource/authority/site/PREAHNORODOM100A,false,,1958-01-01,PREAHNORODOM100A,Preah Norodom 100A,,
+http://publications.europa.eu/resource/authority/site/QUARTIERDUHERON,false,,1958-01-01,QUARTIERDUHERON,Quartier du Héron,,
+http://publications.europa.eu/resource/authority/site/QUARTIERFLEUVE,false,,1958-01-01,QUARTIERFLEUVE,Quartier du Fleuve,,
+http://publications.europa.eu/resource/authority/site/QUEENSPARKWEST16,false,,1958-01-01,QUEENSPARKWEST16,Queen's Park West 16,,
+http://publications.europa.eu/resource/authority/site/RAGATIROAD,false,,1958-01-01,RAGATIROAD,Ragati Road,,
+http://publications.europa.eu/resource/authority/site/RAKOVSKI124,false,,1958-01-01,RAKOVSKI124,Rakovski 124,,
+http://publications.europa.eu/resource/authority/site/RAVALA4,false,,1958-01-01,RAVALA4,Rävala 4,,
+http://publications.europa.eu/resource/authority/site/REDMONDSTRAAT239,false,,1958-01-01,REDMONDSTRAAT239,Redmondstraat 239,,
+http://publications.europa.eu/resource/authority/site/REFORMA1675,false,,1958-01-01,REFORMA1675,Paseo de la Reforma 1675,,
+http://publications.europa.eu/resource/authority/site/REG,false,,1958-01-01,REG,Regus,,
+http://publications.europa.eu/resource/authority/site/REGERINGS65,false,,1958-01-01,REGERINGS65,Regeringsgatan 65,,
+http://publications.europa.eu/resource/authority/site/REIKATAYAVALA,false,,1958-01-01,REIKATAYAVALA,Rei Katyavala,,
+http://publications.europa.eu/resource/authority/site/REM,false,,1958-01-01,REM,,,
+http://publications.europa.eu/resource/authority/site/RIBEIRA,false,,1958-01-01,RIBEIRA,Ribeira,,
+http://publications.europa.eu/resource/authority/site/RMD,false,,1958-01-01,RMD,Remard,,
+http://publications.europa.eu/resource/authority/site/ROAD84GULSHAN2,false,,1958-01-01,ROAD84GULSHAN2,Road 84 Gulshan 2,,
+http://publications.europa.eu/resource/authority/site/ROBINSON758,false,,1958-01-01,ROBINSON758,Robinson 758,,
+http://publications.europa.eu/resource/authority/site/RP14,false,,1958-01-01,RP14,,,
+http://publications.europa.eu/resource/authority/site/RUAFATUMETA,false,,1958-01-01,RUAFATUMETA,Rua de Fatumeta,,
+http://publications.europa.eu/resource/authority/site/SALAHKHALAF,false,,1958-01-01,SALAHKHALAF,Salah Khalaf,,
+http://publications.europa.eu/resource/authority/site/SC11,false,,1958-01-01,SC11,,,
+http://publications.europa.eu/resource/authority/site/SC15,true,,1958-01-01,SC15,,,
+http://publications.europa.eu/resource/authority/site/SC27,false,,1958-01-01,SC27,,,
+http://publications.europa.eu/resource/authority/site/SC29,false,,1958-01-01,SC29,,,
+http://publications.europa.eu/resource/authority/site/SCH,false,,1958-01-01,SCH,Schuman,,
+http://publications.europa.eu/resource/authority/site/SCHWARZENBERG11,false,,1958-01-01,SCHWARZENBERG11,FRA site,,
+http://publications.europa.eu/resource/authority/site/SDM,false,,1958-01-01,SDM,Salvador De Madariaga,,
+http://publications.europa.eu/resource/authority/site/SDME,false,,1958-01-01,SDME,Square de Meeûs (SQM),,
+http://publications.europa.eu/resource/authority/site/SEN,false,,1958-01-01,SEN,Senningerberg,,
+http://publications.europa.eu/resource/authority/site/SENDALL11,false,,1958-01-01,SENDALL11,Sendall 11,,
+http://publications.europa.eu/resource/authority/site/SETTHATHIRATHROAD,false,,1958-01-01,SETTHATHIRATHROAD,Setthathirath Road,,
+http://publications.europa.eu/resource/authority/site/SHANNTINIKETAN5,false,,1958-01-01,SHANNTINIKETAN5,Shantiniketan5,,
+http://publications.europa.eu/resource/authority/site/SHINMOONRO116,true,2017-11-30,1958-01-01,SHINMOONRO116,Shinmoonro 116,,
+http://publications.europa.eu/resource/authority/site/SHISQI7,false,,1958-01-01,SHISQI7,SHIS QI 7,,
+http://publications.europa.eu/resource/authority/site/SHOHAM5_7,false,,1958-01-01,SHOHAM5_7,Shoham 5-7,,
+http://publications.europa.eu/resource/authority/site/SKENDERIJA3A,false,,1958-01-01,SKENDERIJA3A,Skenderija 3A,,
+http://publications.europa.eu/resource/authority/site/SMITHSQ32,false,,1958-01-01,SMITHSQ32,Smith Sq 32,,
+http://publications.europa.eu/resource/authority/site/SOMHLOLO,false,,1958-01-01,SOMHLOLO,Somhlolo Road,,
+http://publications.europa.eu/resource/authority/site/SONNEMANN20,false,,1997-11-10,SONNEMANN20,Sonnemannstraße 20,,
+http://publications.europa.eu/resource/authority/site/SPA2,false,,1958-01-01,SPA2,,,
+http://publications.europa.eu/resource/authority/site/SPA3,false,,1958-01-01,SPA3,,,
+http://publications.europa.eu/resource/authority/site/STDENISSTREET,false,,1958-01-01,STDENISSTREET,St. Denis Street,,
+http://publications.europa.eu/resource/authority/site/STEP_C,false,,1958-01-01,STEP_C,Science and Technology Park of Crete,,
+http://publications.europa.eu/resource/authority/site/STGERMAIN288,false,,1958-01-01,STGERMAIN288,Saint-Germain 288,,
+http://publications.europa.eu/resource/authority/site/STORRARDRIVE27,false,,1958-01-01,STORRARDRIVE27,Storrar Drive 27,,
+http://publications.europa.eu/resource/authority/site/STPAUL254,false,,1958-01-01,STPAUL254,St Paul 254,,
+http://publications.europa.eu/resource/authority/site/STREETNO88,false,,1958-01-01,STREETNO88,Street No 88,,
+http://publications.europa.eu/resource/authority/site/SUDIRMAN32,false,,1958-01-01,SUDIRMAN32,Sudirman 32,,
+http://publications.europa.eu/resource/authority/site/SVKIRILIMETODIJ52B,false,,1958-01-01,SVKIRILIMETODIJ52B,Sv. Kiril i Metodij 52b,,
+http://publications.europa.eu/resource/authority/site/T2,false,,2016-05-01,T2,Temporary Jean Monnet,,
+http://publications.europa.eu/resource/authority/site/TAPPOOCITYCOMPLEX,false,,1958-01-01,TAPPOOCITYCOMPLEX,Tappoo City Complex,,
+http://publications.europa.eu/resource/authority/site/TAUNUSTOR2,false,,1997-11-10,TAUNUSTOR2,Taunustor 2,,
+http://publications.europa.eu/resource/authority/site/TERESIANO1C,false,,1958-01-01,TERESIANO1C,Teresiano 1 C,,
+http://publications.europa.eu/resource/authority/site/TERRACE70,false,,1958-01-01,TERRACE70,The Terrace 70,,
+http://publications.europa.eu/resource/authority/site/TEVRAGHZEINA,false,,1958-01-01,TEVRAGHZEINA,Tevragh Zeina,,
+http://publications.europa.eu/resource/authority/site/TFP,true,2013-09-30,2006-01-01,TFP,,,
+http://publications.europa.eu/resource/authority/site/THABETALLOGHAWI,false,,1958-01-01,THABETALLOGHAWI,Thabet Al Loghawi,,
+http://publications.europa.eu/resource/authority/site/THM,false,,1993-02-12,THM,,,
+http://publications.europa.eu/resource/authority/site/THUONGKIET,false,,1958-01-01,THUONGKIET,Thuong Kiet,,
+http://publications.europa.eu/resource/authority/site/TO56,false,,1958-01-01,TO56,White Atrium Building,,
+http://publications.europa.eu/resource/authority/site/TOMTEBODA11A,false,,1958-01-01,TOMTEBODA11A,Tomteboda 11A,,
+http://publications.europa.eu/resource/authority/site/TORREJON,false,,1958-01-01,TORREJON,Torrejon Air Base,,
+http://publications.europa.eu/resource/authority/site/TORRESDIAGONALB3,false,,1958-01-01,TORRESDIAGONALB3,Torres Diagonal Litoral B3,,
+http://publications.europa.eu/resource/authority/site/TOURZITAL,false,,1958-01-01,TOURZITAL,Zital Tower,,
+http://publications.europa.eu/resource/authority/site/TR3,false,,1958-01-01,TR3,Trg republike 3,,
+http://publications.europa.eu/resource/authority/site/TRE,false,,1958-01-01,TRE,,,
+http://publications.europa.eu/resource/authority/site/TREURENBERG22,false,,1958-01-01,TREURENBERG22,Treurenberg 22,,
+http://publications.europa.eu/resource/authority/site/TRI,false,,1958-01-01,TRI,Trêves 1,,
+http://publications.europa.eu/resource/authority/site/TUN4JACKSON,false,,1958-01-01,TUN4JACKSON,Tun 4 Jackson,,
+http://publications.europa.eu/resource/authority/site/UGURMUMCU88,false,,1958-01-01,UGURMUMCU88,Ugur Mumcu 88,,
+http://publications.europa.eu/resource/authority/site/UMOJAHOUSE,false,,1958-01-01,UMOJAHOUSE,Umoja House,,
+http://publications.europa.eu/resource/authority/site/UMUGANDA1807,false,,1958-01-01,UMUGANDA1807,Umuganda 1807,,
+http://publications.europa.eu/resource/authority/site/UNDRIVE100,false,,1958-01-01,UNDRIVE100,U.N. Drive 100,,
+http://publications.europa.eu/resource/authority/site/UTTARDHOKASADAK,false,,1958-01-01,UTTARDHOKASADAK,Uttar Dhoka Sadak,,
+http://publications.europa.eu/resource/authority/site/VANBENTHEM1,false,,1958-01-01,VANBENTHEM1,Bob-van-Benthem 1,,
+http://publications.europa.eu/resource/authority/site/VASILISSISSOFIAS2,false,,1958-01-01,VASILISSISSOFIAS2,Vasilissis Sofias 2,,
+http://publications.europa.eu/resource/authority/site/VIJVERBERG5_6,false,,1958-01-01,VIJVERBERG5_6,Vijverberg 5-6,,
+http://publications.europa.eu/resource/authority/site/VILLAGUALINO,false,,1958-01-01,VILLAGUALINO,Villa Gualino,,
+http://publications.europa.eu/resource/authority/site/VM18,false,,1958-01-01,VM18,,,
+http://publications.europa.eu/resource/authority/site/VM2,false,,1958-01-01,VM2,,,
+http://publications.europa.eu/resource/authority/site/VOLODYMYRSKA101,false,,1958-01-01,VOLODYMYRSKA101,Volodymyrska 101,,
+http://publications.europa.eu/resource/authority/site/VONSUTTNER2_4,false,,1958-01-01,VONSUTTNER2_4,Bertha-von-Suttner 2-4,,
+http://publications.europa.eu/resource/authority/site/VYRONOS30,false,,1958-01-01,VYRONOS30,Vyronos 30,,
+http://publications.europa.eu/resource/authority/site/W910,false,,1958-01-01,W910,,,
+http://publications.europa.eu/resource/authority/site/WALI,false,,2006-06-21,WALI,,,
+http://publications.europa.eu/resource/authority/site/WARSPIRE,false,,1958-01-01,WARSPIRE,Warsau Spire,,
+http://publications.europa.eu/resource/authority/site/WAY,false,,1958-01-01,WAY,Wayenberg,,
+http://publications.europa.eu/resource/authority/site/WETSTRAAT223,false,,1997-11-10,WETSTRAAT223,Wetstraat 223,,
+http://publications.europa.eu/resource/authority/site/WHTO,false,,1958-01-01,WHTO,Westhafen Tower,,
+http://publications.europa.eu/resource/authority/site/WIB,false,,1958-01-01,WIB,Willy Brandt,,
+http://publications.europa.eu/resource/authority/site/WIC,false,,1958-01-01,WIC,Winston Churchill,,
+http://publications.europa.eu/resource/authority/site/WIDOK10,false,,1958-01-01,WIDOK10,Widok 10,,
+http://publications.europa.eu/resource/authority/site/WIE,false,,1958-01-01,WIE,Wiertz,,
+http://publications.europa.eu/resource/authority/site/WILS,false,,1958-01-01,WILS,,,
+http://publications.europa.eu/resource/authority/site/WIM,false,,2018-01-01,WIM,Wilfried Martens,,
+http://publications.europa.eu/resource/authority/site/WIND,false,,2007-12-01,WIND,Windhof (Data Centre),,
+http://publications.europa.eu/resource/authority/site/WIPPLINGER35,false,,1958-01-01,WIPPLINGER35,Wipplingerstraße 35,,
+http://publications.europa.eu/resource/authority/site/WIRELESS63,false,,1958-01-01,WIRELESS63,Wireless Road 63,,
+http://publications.europa.eu/resource/authority/site/WKI,false,,2008-06-02,WKI,EIB,,
+http://publications.europa.eu/resource/authority/site/WYATTVILLEROAD,false,,1958-01-01,WYATTVILLEROAD,Wyattville Road,,

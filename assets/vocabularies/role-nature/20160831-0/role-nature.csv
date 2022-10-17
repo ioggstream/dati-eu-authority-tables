@@ -1,4 +1,4 @@
-url;deprecated;valid_until;valid_from;id;label_en;label_it
-http://publications.europa.eu/resource/authority/role-nature/ENTITY;false;;1952-07-24;ENTITY;Entity;
-http://publications.europa.eu/resource/authority/role-nature/OP_DATPRO;;;;OP_DATPRO;Provisional data;Dati provvisori
-http://publications.europa.eu/resource/authority/role-nature/PERSON;false;;1952-07-24;PERSON;Person;
+url,deprecated,valid_until,valid_from,id,label_en,label_it
+http://publications.europa.eu/resource/authority/role-nature/ENTITY,false,,1952-07-24,ENTITY,Entity,
+http://publications.europa.eu/resource/authority/role-nature/OP_DATPRO,,,,OP_DATPRO,Provisional data,Dati provvisori
+http://publications.europa.eu/resource/authority/role-nature/PERSON,false,,1952-07-24,PERSON,Person,

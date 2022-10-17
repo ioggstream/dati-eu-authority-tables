@@ -244,11 +244,11 @@
     at:op-code "DOI_P" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:affected-table "notation-type" ;
-            at:legacy-code "id-doi.old" ;
+            at:legacy-code "id-doi" ;
             dc:source "MDR" ],
         [ a at:MappedCode ;
             at:affected-table "notation-type" ;
-            at:legacy-code "id-doi" ;
+            at:legacy-code "id-doi.old" ;
             dc:source "MDR" ] ;
     at:start.use "1970-01-01" ;
     atold:op-code "DOI_P" ;

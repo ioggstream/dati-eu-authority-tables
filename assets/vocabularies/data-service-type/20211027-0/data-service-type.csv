@@ -1,6 +1,6 @@
-url;deprecated;valid_until;valid_from;id;label_en;label_it
-http://publications.europa.eu/resource/authority/data-service-type/API;false;;2021-08-30;API;API;API
-http://publications.europa.eu/resource/authority/data-service-type/DOWNLOAD;false;;2021-08-30;DOWNLOAD;Download service;Servizio di download
-http://publications.europa.eu/resource/authority/data-service-type/HUMAN_INTERACTION;false;;2021-08-30;HUMAN_INTERACTION;Human interaction service;Servizio di interazione umana
-http://publications.europa.eu/resource/authority/data-service-type/OP_DATPRO;false;;1952-07-23;OP_DATPRO;Provisional data;Dati provvisori
-http://publications.europa.eu/resource/authority/data-service-type/SPARQL_ENDPOINT;false;;2021-08-30;SPARQL_ENDPOINT;SPARQL endpoint;Endpoint SPARQL
+url,deprecated,valid_until,valid_from,id,label_en,label_it
+http://publications.europa.eu/resource/authority/data-service-type/API,false,,2021-08-30,API,API,API
+http://publications.europa.eu/resource/authority/data-service-type/DOWNLOAD,false,,2021-08-30,DOWNLOAD,Download service,Servizio di download
+http://publications.europa.eu/resource/authority/data-service-type/HUMAN_INTERACTION,false,,2021-08-30,HUMAN_INTERACTION,Human interaction service,Servizio di interazione umana
+http://publications.europa.eu/resource/authority/data-service-type/OP_DATPRO,false,,1952-07-23,OP_DATPRO,Provisional data,Dati provvisori
+http://publications.europa.eu/resource/authority/data-service-type/SPARQL_ENDPOINT,false,,2021-08-30,SPARQL_ENDPOINT,SPARQL endpoint,Endpoint SPARQL

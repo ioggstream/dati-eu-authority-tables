@@ -14,11 +14,11 @@
     at:deprecated "false" ;
     at:op-code "010" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "01" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "01" ;
             dc:source "PUB" ] ;
     at:start.use "2014-04-06" ;
@@ -40,11 +40,11 @@
     at:deprecated "false" ;
     at:op-code "020" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "02" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "02" ;
             dc:source "PUB" ] ;
     at:start.use "2014-04-07" ;
@@ -89,11 +89,11 @@
     at:deprecated "false" ;
     at:op-code "030" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "03" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "03" ;
             dc:source "PUB" ] ;
     at:start.use "2015-01-28" ;
@@ -137,11 +137,11 @@
     at:deprecated "false" ;
     at:op-code "040" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "04" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "04" ;
             dc:source "PUB" ] ;
     at:start.use "2014-10-24" ;
@@ -164,11 +164,11 @@
     at:deprecated "false" ;
     at:op-code "050" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "05" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "05" ;
             dc:source "PUB" ] ;
     at:start.use "2015-06-03" ;
@@ -213,11 +213,11 @@
     at:deprecated "false" ;
     at:op-code "060" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "06" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "06" ;
             dc:source "PUB" ] ;
     at:start.use "2015-10-21" ;
@@ -339,11 +339,11 @@
     at:deprecated "false" ;
     at:op-code "090" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "09" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "09" ;
             dc:source "PUB" ] ;
     at:start.use "2015-12-07" ;
@@ -573,11 +573,11 @@
     at:deprecated "false" ;
     at:op-code "150" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "15" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "15" ;
             dc:source "PUB" ] ;
     at:start.use "2007-07-19" ;
@@ -599,11 +599,11 @@
     at:deprecated "false" ;
     at:op-code "160" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "16" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "16" ;
             dc:source "PUB" ] ;
     at:start.use "2007-09-11" ;
@@ -655,11 +655,11 @@
     at:deprecated "false" ;
     at:op-code "180" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "18" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "18" ;
             dc:source "PUB" ] ;
     at:start.use "2007-06-13" ;
@@ -789,11 +789,11 @@
     at:deprecated "false" ;
     at:op-code "1C0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "1C" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "1C" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -889,11 +889,11 @@
     at:deprecated "false" ;
     at:op-code "1F0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "1F" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "1F" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -992,11 +992,11 @@
     at:deprecated "false" ;
     at:op-code "1J0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "1J" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "1J" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -1027,11 +1027,11 @@
     at:deprecated "false" ;
     at:op-code "1K0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "1K" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "1K" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -1209,11 +1209,11 @@
     at:deprecated "false" ;
     at:op-code "1Q0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "1Q" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "1Q" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -1256,11 +1256,11 @@
     at:deprecated "false" ;
     at:op-code "1R0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "1R" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "1R" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -1393,11 +1393,11 @@
     at:deprecated "false" ;
     at:op-code "1U0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "1U" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "1U" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -1427,11 +1427,11 @@
     at:deprecated "false" ;
     at:op-code "1V0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "1V" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "1V" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -1464,11 +1464,11 @@
     at:deprecated "false" ;
     at:op-code "1W0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "1W" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "1W" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -1546,11 +1546,11 @@
     at:deprecated "false" ;
     at:op-code "1Y0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "1Y" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "1Y" ;
             dc:source "PUB" ] ;
     at:start.use "2007-06-06" ;
@@ -1626,11 +1626,11 @@
     at:deprecated "false" ;
     at:op-code "200" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "20" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "20" ;
             dc:source "PUB" ] ;
     at:start.use "2009-01-12" ;
@@ -1685,11 +1685,11 @@
     at:deprecated "false" ;
     at:op-code "220" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "22" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "22" ;
             dc:source "PUB" ] ;
     at:start.use "2008-01-21" ;
@@ -1805,11 +1805,11 @@
     at:deprecated "false" ;
     at:op-code "260" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "26" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "26" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -1856,11 +1856,11 @@
     at:deprecated "false" ;
     at:op-code "280" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "28" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "28" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -1881,11 +1881,11 @@
     at:deprecated "false" ;
     at:op-code "290" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "29" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "29" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -1906,11 +1906,11 @@
     at:deprecated "false" ;
     at:op-code "2A0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "2A" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "2A" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -1932,11 +1932,11 @@
     at:deprecated "false" ;
     at:op-code "2B0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "2B" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "2B" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -1957,11 +1957,11 @@
     at:deprecated "false" ;
     at:op-code "2C0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "2C" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "2C" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -1982,11 +1982,11 @@
     at:deprecated "false" ;
     at:op-code "2D0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "2D" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "2D" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -2032,11 +2032,11 @@
     at:deprecated "false" ;
     at:op-code "2F0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "2F" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "2F" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -2107,11 +2107,11 @@
     at:deprecated "false" ;
     at:op-code "2I0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "2I" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "2I" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -2132,11 +2132,11 @@
     at:deprecated "false" ;
     at:op-code "2J0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "2J" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "2J" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -2182,11 +2182,11 @@
     at:deprecated "false" ;
     at:op-code "2L0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "2L" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "2L" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -2207,11 +2207,11 @@
     at:deprecated "false" ;
     at:op-code "2M0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "2M" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "2M" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -2232,11 +2232,11 @@
     at:deprecated "false" ;
     at:op-code "2N0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "2N" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "2N" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -2257,11 +2257,11 @@
     at:deprecated "false" ;
     at:op-code "2P0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "2P" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "2P" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -2282,11 +2282,11 @@
     at:deprecated "false" ;
     at:op-code "2Q0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "2Q" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "2Q" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -2307,11 +2307,11 @@
     at:deprecated "false" ;
     at:op-code "2R0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "2R" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "2R" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -2332,11 +2332,11 @@
     at:deprecated "false" ;
     at:op-code "2S0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "2S" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "2S" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -2382,11 +2382,11 @@
     at:deprecated "false" ;
     at:op-code "2U0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "2U" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "2U" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -2432,11 +2432,11 @@
     at:deprecated "false" ;
     at:op-code "2W0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "2W" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "2W" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -2507,11 +2507,11 @@
     at:deprecated "false" ;
     at:op-code "2Z0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "2Z" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "2Z" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -2558,11 +2558,11 @@
     at:deprecated "false" ;
     at:op-code "310" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "31" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "31" ;
             dc:source "PUB" ] ;
     at:start.use "2007-10-30" ;
@@ -2636,11 +2636,11 @@
     at:deprecated "false" ;
     at:op-code "340" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "34" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "34" ;
             dc:source "PUB" ] ;
     at:start.use "2007-10-30" ;
@@ -2662,11 +2662,11 @@
     at:deprecated "false" ;
     at:op-code "350" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "35" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "35" ;
             dc:source "PUB" ] ;
     at:start.use "2009-03-17" ;
@@ -2688,11 +2688,11 @@
     at:deprecated "false" ;
     at:op-code "360" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "36" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "36" ;
             dc:source "PUB" ] ;
     at:start.use "2009-05-19" ;
@@ -2719,11 +2719,11 @@
     at:deprecated "false" ;
     at:op-code "370" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "37" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "37" ;
             dc:source "PUB" ] ;
     at:start.use "2009-08-21" ;
@@ -2749,11 +2749,11 @@
     at:deprecated "false" ;
     at:op-code "380" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "38" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "38" ;
             dc:source "PUB" ] ;
     at:start.use "2009-08-21" ;
@@ -2852,11 +2852,11 @@
     at:deprecated "false" ;
     at:op-code "3B0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "3B" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "3B" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -2904,11 +2904,11 @@
     at:deprecated "false" ;
     at:op-code "3D0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "3D" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "3D" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -2930,11 +2930,11 @@
     at:deprecated "false" ;
     at:op-code "3E0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "3E" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "3E" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -2982,11 +2982,11 @@
     at:deprecated "false" ;
     at:op-code "3G0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "3G" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "3G" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -3138,11 +3138,11 @@
     at:deprecated "false" ;
     at:op-code "3M0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "3M" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "3M" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -3164,11 +3164,11 @@
     at:deprecated "false" ;
     at:op-code "3N0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "3N" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "3N" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -3190,11 +3190,11 @@
     at:deprecated "false" ;
     at:op-code "3P0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "3P" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "3P" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -3216,11 +3216,11 @@
     at:deprecated "false" ;
     at:op-code "3Q0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "3Q" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "3Q" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -3242,11 +3242,11 @@
     at:deprecated "false" ;
     at:op-code "3R0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "3R" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "3R" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -3346,11 +3346,11 @@
     at:deprecated "false" ;
     at:op-code "3V0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "3V" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "3V" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -3372,11 +3372,11 @@
     at:deprecated "false" ;
     at:op-code "3W0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "3W" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "3W" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -3398,11 +3398,11 @@
     at:deprecated "false" ;
     at:op-code "3X0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "3X" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "3X" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -3424,11 +3424,11 @@
     at:deprecated "false" ;
     at:op-code "3Y0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "3Y" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "3Y" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -3450,11 +3450,11 @@
     at:deprecated "false" ;
     at:op-code "3Z0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "3Z" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "3Z" ;
             dc:source "PUB" ] ;
     at:start.use "2007-02-20" ;
@@ -3503,11 +3503,11 @@
     at:deprecated "false" ;
     at:op-code "410" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "41" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "41" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -3530,11 +3530,11 @@
     at:deprecated "false" ;
     at:op-code "420" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "42" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "42" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -3557,11 +3557,11 @@
     at:deprecated "false" ;
     at:op-code "430" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "43" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "43" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -3665,11 +3665,11 @@
     at:deprecated "false" ;
     at:op-code "470" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "47" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "47" ;
             dc:source "PUB" ] ;
     at:start.use "2007-12-12" ;
@@ -3720,11 +3720,11 @@
     at:deprecated "false" ;
     at:op-code "490" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "49" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "49" ;
             dc:source "PUB" ] ;
     at:start.use "2009-08-04" ;
@@ -3805,11 +3805,11 @@
     at:deprecated "false" ;
     at:op-code "4C0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "4C" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "4C" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -3859,11 +3859,11 @@
     at:deprecated "false" ;
     at:op-code "4E0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "4E" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "4E" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -3886,11 +3886,11 @@
     at:deprecated "false" ;
     at:op-code "4F0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "4F" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "4F" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -3913,11 +3913,11 @@
     at:deprecated "false" ;
     at:op-code "4G0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "4G" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "4G" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -4022,11 +4022,11 @@
     at:deprecated "false" ;
     at:op-code "4K0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "4K" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "4K" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -4049,11 +4049,11 @@
     at:deprecated "false" ;
     at:op-code "4L0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "4L" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "4L" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -4124,11 +4124,11 @@
     at:deprecated "false" ;
     at:op-code "4P0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "4P" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "4P" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -4259,11 +4259,11 @@
     at:deprecated "false" ;
     at:op-code "4U0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "4U" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "4U" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -4286,11 +4286,11 @@
     at:deprecated "false" ;
     at:op-code "4V0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "4V" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "4V" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -4340,11 +4340,11 @@
     at:deprecated "false" ;
     at:op-code "4X0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "4X" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "4X" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -4394,11 +4394,11 @@
     at:deprecated "false" ;
     at:op-code "4Z0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "4Z" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "4Z" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -4496,11 +4496,11 @@
     at:deprecated "false" ;
     at:op-code "530" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "53" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "53" ;
             dc:source "PUB" ] ;
     at:start.use "2009-09-16" ;
@@ -4578,11 +4578,11 @@
     at:deprecated "false" ;
     at:op-code "560" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "56" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "56" ;
             dc:source "PUB" ] ;
     at:start.use "2010-02-05" ;
@@ -4610,11 +4610,11 @@
     at:deprecated "false" ;
     at:op-code "570" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "57" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "57" ;
             dc:source "PUB" ] ;
     at:start.use "2010-07-28" ;
@@ -4640,11 +4640,11 @@
     at:deprecated "false" ;
     at:op-code "580" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "58" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "58" ;
             dc:source "PUB" ] ;
     at:start.use "2011-06-28" ;
@@ -4744,11 +4744,11 @@
     at:deprecated "false" ;
     at:op-code "5B0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "5B" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "5B" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -4772,11 +4772,11 @@
     at:deprecated "false" ;
     at:op-code "5C0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "5C" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "5C" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -4800,11 +4800,11 @@
     at:deprecated "false" ;
     at:op-code "5D0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "5D" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "5D" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -4828,11 +4828,11 @@
     at:deprecated "false" ;
     at:op-code "5E0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "5E" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "5E" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -4884,11 +4884,11 @@
     at:deprecated "false" ;
     at:op-code "5G0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "5G" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "5G" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -4940,11 +4940,11 @@
     at:deprecated "false" ;
     at:op-code "5I0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "5I" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "5I" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -5080,11 +5080,11 @@
     at:deprecated "false" ;
     at:op-code "5N0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "5N" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "5N" ;
             dc:source "PUB" ] ;
     at:start.use "2007-01-26" ;
@@ -5135,11 +5135,11 @@
     at:deprecated "false" ;
     at:op-code "5Q0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "5Q" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "5Q" ;
             dc:source "PUB" ] ;
     at:start.use "2011-12-15" ;
@@ -5214,11 +5214,11 @@
     at:deprecated "false" ;
     at:op-code "5S0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "5S" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "5S" ;
             dc:source "PUB" ] ;
     at:start.use "2012-07-03" ;
@@ -5329,11 +5329,11 @@
     at:deprecated "false" ;
     at:op-code "5V0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "5V" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "5V" ;
             dc:source "PUB" ] ;
     at:start.use "2013-11-11" ;
@@ -5423,11 +5423,11 @@
     at:deprecated "false" ;
     at:op-code "5Y0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "5Y" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "5Y" ;
             dc:source "PUB" ] ;
     at:start.use "2013-11-25" ;
@@ -5479,11 +5479,11 @@
     at:deprecated "false" ;
     at:op-code "600" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "60" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "60" ;
             dc:source "PUB" ] ;
     at:start.use "2011-10-10" ;
@@ -5560,11 +5560,11 @@
     at:deprecated "false" ;
     at:op-code "630" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "63" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "63" ;
             dc:source "PUB" ] ;
     at:start.use "2011-10-10" ;
@@ -5587,11 +5587,11 @@
     at:deprecated "false" ;
     at:op-code "640" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "64" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "64" ;
             dc:source "PUB" ] ;
     at:start.use "2011-10-28" ;
@@ -5613,11 +5613,11 @@
     at:deprecated "false" ;
     at:op-code "650" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "65" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "65" ;
             dc:source "PUB" ] ;
     at:start.use "2012-10-12" ;
@@ -5640,11 +5640,11 @@
     at:deprecated "false" ;
     at:op-code "660" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "66" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "66" ;
             dc:source "PUB" ] ;
     at:start.use "2013-03-02" ;
@@ -5695,11 +5695,11 @@
     at:deprecated "false" ;
     at:op-code "680" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "68" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "68" ;
             dc:source "PUB" ] ;
     at:start.use "2014-04-07" ;
@@ -5766,11 +5766,11 @@
     at:deprecated "false" ;
     at:op-code "6A0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "6A" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "6A" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -5825,11 +5825,11 @@
     at:deprecated "false" ;
     at:op-code "6C0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "6C" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "6C" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -5854,11 +5854,11 @@
     at:deprecated "false" ;
     at:op-code "6D0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "6D" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "6D" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -5883,11 +5883,11 @@
     at:deprecated "false" ;
     at:op-code "6E0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "6E" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "6E" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -5970,11 +5970,11 @@
     at:deprecated "false" ;
     at:op-code "6H0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "6H" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "6H" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -6028,11 +6028,11 @@
     at:deprecated "false" ;
     at:op-code "6J0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "6J" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "6J" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -6086,11 +6086,11 @@
     at:deprecated "false" ;
     at:op-code "6L0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "6L" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "6L" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -6228,11 +6228,11 @@
     at:deprecated "false" ;
     at:op-code "6R0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "6R" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "6R" ;
             dc:source "PUB" ] ;
     at:start.use "2016-04-08" ;
@@ -6253,11 +6253,11 @@
     at:deprecated "false" ;
     at:op-code "6S0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "6S" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "6S" ;
             dc:source "PUB" ] ;
     at:start.use "2016-05-30" ;
@@ -6279,11 +6279,11 @@
     at:deprecated "false" ;
     at:op-code "6T0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "6T" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "6T" ;
             dc:source "PUB" ] ;
     at:start.use "2016-06-09" ;
@@ -6313,11 +6313,11 @@
     at:deprecated "false" ;
     at:op-code "6U0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "6U" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "6U" ;
             dc:source "PUB" ] ;
     at:start.use "2016-08-01" ;
@@ -6342,11 +6342,11 @@
     at:deprecated "false" ;
     at:op-code "6V0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "6V" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "6V" ;
             dc:source "PUB" ] ;
     at:start.use "2016-08-10" ;
@@ -6380,11 +6380,11 @@
     at:deprecated "false" ;
     at:op-code "6W0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "6W" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "6W" ;
             dc:source "PUB" ] ;
     at:start.use "2016-11-17" ;
@@ -6552,11 +6552,11 @@
     at:deprecated "false" ;
     at:op-code "720" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "72" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "72" ;
             dc:source "PUB" ] ;
     at:start.use "2017-07-04" ;
@@ -6676,11 +6676,11 @@
     at:deprecated "false" ;
     at:op-code "760" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "76" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "76" ;
             dc:source "PUB" ] ;
     at:start.use "2017-07-04" ;
@@ -6736,11 +6736,11 @@
     at:deprecated "false" ;
     at:op-code "780" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "78" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "78" ;
             dc:source "PUB" ] ;
     at:start.use "2017-07-04" ;
@@ -6825,11 +6825,11 @@
     at:deprecated "false" ;
     at:op-code "7B0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "7B" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "7B" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -6916,11 +6916,11 @@
     at:deprecated "false" ;
     at:op-code "7E0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "7E" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "7E" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -6976,11 +6976,11 @@
     at:deprecated "false" ;
     at:op-code "7G0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "7G" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "7G" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -7036,11 +7036,11 @@
     at:deprecated "false" ;
     at:op-code "7I0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "7I" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "7I" ;
             dc:source "PUB" ] ;
     at:start.use "2008-12-03" ;
@@ -7095,11 +7095,11 @@
     at:deprecated "false" ;
     at:op-code "7K0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "7K" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "7K" ;
             dc:source "PUB" ] ;
     at:start.use "2017-07-04" ;
@@ -7124,11 +7124,11 @@
     at:deprecated "false" ;
     at:op-code "7L0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "7L" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "7L" ;
             dc:source "PUB" ] ;
     at:start.use "2017-07-04" ;
@@ -7153,11 +7153,11 @@
     at:deprecated "false" ;
     at:op-code "7M0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "7M" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "7M" ;
             dc:source "PUB" ] ;
     at:start.use "2017-07-04" ;
@@ -7268,11 +7268,11 @@
     at:deprecated "false" ;
     at:op-code "7R0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "7R" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "7R" ;
             dc:source "PUB" ] ;
     at:start.use "2017-07-04" ;
@@ -7324,11 +7324,11 @@
     at:deprecated "false" ;
     at:op-code "7T0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "7T" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "7T" ;
             dc:source "PUB" ] ;
     at:start.use "2017-07-04" ;
@@ -7352,11 +7352,11 @@
     at:deprecated "false" ;
     at:op-code "7U0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "7U" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "7U" ;
             dc:source "PUB" ] ;
     at:start.use "2017-07-04" ;
@@ -7408,11 +7408,11 @@
     at:deprecated "false" ;
     at:op-code "7W0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "7W" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "7W" ;
             dc:source "PUB" ] ;
     at:start.use "2017-07-04" ;
@@ -7436,11 +7436,11 @@
     at:deprecated "false" ;
     at:op-code "7X0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "7X" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "7X" ;
             dc:source "PUB" ] ;
     at:start.use "2017-07-04" ;
@@ -7520,11 +7520,11 @@
     at:deprecated "false" ;
     at:op-code "800" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "80" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "80" ;
             dc:source "PUB" ] ;
     at:start.use "2017-07-04" ;
@@ -7604,11 +7604,11 @@
     at:deprecated "false" ;
     at:op-code "830" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "83" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "83" ;
             dc:source "PUB" ] ;
     at:start.use "2017-07-04" ;
@@ -7660,11 +7660,11 @@
     at:deprecated "false" ;
     at:op-code "850" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "85" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "85" ;
             dc:source "PUB" ] ;
     at:start.use "2017-07-04" ;
@@ -7687,11 +7687,11 @@
     at:deprecated "false" ;
     at:op-code "860" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "86" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "86" ;
             dc:source "PUB" ] ;
     at:start.use "2017-07-04" ;
@@ -7741,11 +7741,11 @@
     at:deprecated "false" ;
     at:op-code "880" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "88" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "88" ;
             dc:source "PUB" ] ;
     at:start.use "2017-07-04" ;
@@ -7768,11 +7768,11 @@
     at:deprecated "false" ;
     at:op-code "890" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "89" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "89" ;
             dc:source "PUB" ] ;
     at:start.use "2017-07-04" ;
@@ -7826,11 +7826,11 @@
     at:deprecated "false" ;
     at:op-code "8B0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "8B" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "8B" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -7888,11 +7888,11 @@
     at:deprecated "false" ;
     at:op-code "8D0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "8D" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "8D" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -7981,11 +7981,11 @@
     at:deprecated "false" ;
     at:op-code "8G0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "8G" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "8G" ;
             dc:source "PUB" ] ;
     at:start.use "2017-07-04" ;
@@ -8197,11 +8197,11 @@
     at:deprecated "false" ;
     at:op-code "8P0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "8P" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "8P" ;
             dc:source "PUB" ] ;
     at:start.use "2017-07-04" ;
@@ -8304,11 +8304,11 @@
     at:deprecated "false" ;
     at:op-code "8T0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "8T" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "8T" ;
             dc:source "PUB" ] ;
     at:start.use "2017-07-04" ;
@@ -8382,11 +8382,11 @@
     at:deprecated "false" ;
     at:op-code "8W0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "8W" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "8W" ;
             dc:source "PUB" ] ;
     at:start.use "2017-07-04" ;
@@ -8434,11 +8434,11 @@
     at:deprecated "false" ;
     at:op-code "8Y0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "8Y" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "8Y" ;
             dc:source "PUB" ] ;
     at:start.use "2017-07-04" ;
@@ -8460,11 +8460,11 @@
     at:deprecated "false" ;
     at:op-code "8Z0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "8Z" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "8Z" ;
             dc:source "PUB" ] ;
     at:start.use "2017-07-04" ;
@@ -8564,11 +8564,11 @@
     at:deprecated "false" ;
     at:op-code "930" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "93" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "93" ;
             dc:source "PUB" ] ;
     at:start.use "2017-07-04" ;
@@ -8590,11 +8590,11 @@
     at:deprecated "false" ;
     at:op-code "940" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "94" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "94" ;
             dc:source "PUB" ] ;
     at:start.use "2017-07-04" ;
@@ -8616,11 +8616,11 @@
     at:deprecated "false" ;
     at:op-code "950" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "95" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "95" ;
             dc:source "PUB" ] ;
     at:start.use "2017-07-04" ;
@@ -8694,11 +8694,11 @@
     at:deprecated "false" ;
     at:op-code "980" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "98" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "98" ;
             dc:source "PUB" ] ;
     at:start.use "2017-07-04" ;
@@ -8746,11 +8746,11 @@
     at:deprecated "false" ;
     at:op-code "9A0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "9A" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "9A" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -8977,11 +8977,11 @@
     at:deprecated "false" ;
     at:op-code "9H0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "9H" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "9H" ;
             dc:source "PUB" ] ;
     at:start.use "2017-07-04" ;
@@ -9003,11 +9003,11 @@
     at:deprecated "false" ;
     at:op-code "9I0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "9I" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "9I" ;
             dc:source "PUB" ] ;
     at:start.use "2017-07-04" ;
@@ -9106,11 +9106,11 @@
     at:deprecated "false" ;
     at:op-code "9M0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "9M" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "9M" ;
             dc:source "PUB" ] ;
     at:start.use "2017-07-04" ;
@@ -9206,11 +9206,11 @@
     at:deprecated "false" ;
     at:op-code "9R0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "9R" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "9R" ;
             dc:source "PUB" ] ;
     at:start.use "2017-07-04" ;
@@ -9256,11 +9256,11 @@
     at:deprecated "false" ;
     at:op-code "9T0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "9T" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "9T" ;
             dc:source "PUB" ] ;
     at:start.use "2017-07-04" ;
@@ -9281,11 +9281,11 @@
     at:deprecated "false" ;
     at:op-code "9U0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "9U" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "9U" ;
             dc:source "PUB" ] ;
     at:start.use "2017-07-04" ;
@@ -9306,11 +9306,11 @@
     at:deprecated "false" ;
     at:op-code "9V0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "9V" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "9V" ;
             dc:source "PUB" ] ;
     at:start.use "2017-07-04" ;
@@ -9381,11 +9381,11 @@
     at:deprecated "false" ;
     at:op-code "9Y0" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "9Y" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "9Y" ;
             dc:source "PUB" ] ;
     at:start.use "2017-07-04" ;
@@ -9507,11 +9507,11 @@
     at:deprecated "false" ;
     at:op-code "A30" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "A3" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "A3" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -9607,11 +9607,11 @@
     at:deprecated "false" ;
     at:op-code "A70" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "A7" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "A7" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -9632,11 +9632,11 @@
     at:deprecated "false" ;
     at:op-code "A80" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "A8" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "A8" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -9682,11 +9682,11 @@
     at:deprecated "false" ;
     at:op-code "B00" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "B0" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "B0" ;
             dc:source "PUB" ] ;
     at:start.use "2017-07-04" ;
@@ -9757,11 +9757,11 @@
     at:deprecated "false" ;
     at:op-code "B30" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "B3" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "B3" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -9782,11 +9782,11 @@
     at:deprecated "false" ;
     at:op-code "B40" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "B4" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "B4" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -9807,11 +9807,11 @@
     at:deprecated "false" ;
     at:op-code "B50" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "B5" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "B5" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -9832,11 +9832,11 @@
     at:deprecated "false" ;
     at:op-code "B60" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "B6" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "B6" ;
             dc:source "PUB" ] ;
     at:start.use "1950-01-01" ;
@@ -9982,11 +9982,11 @@
     at:deprecated "false" ;
     at:op-code "C20" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "C2" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "C2" ;
             dc:source "PUB" ] ;
     at:start.use "2007-10-02" ;
@@ -10032,11 +10032,11 @@
     at:deprecated "false" ;
     at:op-code "C40" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "C4" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "C4" ;
             dc:source "PUB" ] ;
     at:start.use "2007-11-21" ;
@@ -10057,11 +10057,11 @@
     at:deprecated "false" ;
     at:op-code "C50" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "C5" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "C5" ;
             dc:source "PUB" ] ;
     at:start.use "2007-11-21" ;
@@ -10082,11 +10082,11 @@
     at:deprecated "false" ;
     at:op-code "C60" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "C6" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "C6" ;
             dc:source "PUB" ] ;
     at:start.use "2007-11-21" ;
@@ -10132,11 +10132,11 @@
     at:deprecated "false" ;
     at:op-code "C80" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "C8" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "C8" ;
             dc:source "PUB" ] ;
     at:start.use "2007-11-21" ;
@@ -10182,11 +10182,11 @@
     at:deprecated "false" ;
     at:op-code "D00" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "D0" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "D0" ;
             dc:source "PUB" ] ;
     at:start.use "2017-07-04" ;
@@ -10207,11 +10207,11 @@
     at:deprecated "false" ;
     at:op-code "D10" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "D1" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "D1" ;
             dc:source "PUB" ] ;
     at:start.use "2006-11-03" ;
@@ -10255,11 +10255,11 @@
     at:deprecated "false" ;
     at:op-code "D20" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "D2" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "D2" ;
             dc:source "PUB" ] ;
     at:start.use "2006-11-22" ;
@@ -10383,11 +10383,11 @@
     at:deprecated "false" ;
     at:op-code "D50" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "D5" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "D5" ;
             dc:source "PUB" ] ;
     at:start.use "2011-07-22" ;
@@ -10431,11 +10431,11 @@
     at:deprecated "false" ;
     at:op-code "D60" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "D6" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "D6" ;
             dc:source "PUB" ] ;
     at:start.use "2017-08-08" ;
@@ -10456,11 +10456,11 @@
     at:deprecated "false" ;
     at:op-code "D70" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "D7" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "D7" ;
             dc:source "PUB" ] ;
     at:start.use "2017-12-14" ;
@@ -10512,11 +10512,11 @@
     at:deprecated "false" ;
     at:op-code "D90" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "D9" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "D9" ;
             dc:source "PUB" ] ;
     at:start.use "2018-01-29" ;
@@ -10672,11 +10672,11 @@
     at:deprecated "false" ;
     at:op-code "E10" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "E1" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "E1" ;
             dc:source "PUB" ] ;
     at:start.use "2007-11-21" ;
@@ -10727,11 +10727,11 @@
     at:deprecated "false" ;
     at:op-code "E30" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "E3" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "E3" ;
             dc:source "PUB" ] ;
     at:start.use "2008-03-26" ;
@@ -10843,11 +10843,11 @@
     at:deprecated "false" ;
     at:op-code "E70" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "E7" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "E7" ;
             dc:source "PUB" ] ;
     at:start.use "2013-07-03" ;
@@ -10869,11 +10869,11 @@
     at:deprecated "false" ;
     at:op-code "E80" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "E8" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "E8" ;
             dc:source "PUB" ] ;
     at:start.use "2013-07-03" ;
@@ -10894,11 +10894,11 @@
     at:deprecated "false" ;
     at:op-code "E90" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "E9" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "E9" ;
             dc:source "PUB" ] ;
     at:start.use "2018-02-08" ;
@@ -10998,11 +10998,11 @@
     at:deprecated "false" ;
     at:op-code "F30" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "F3" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "F3" ;
             dc:source "PUB" ] ;
     at:start.use "2014-09-16" ;
@@ -11080,11 +11080,11 @@
     at:deprecated "false" ;
     at:op-code "F60" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "F6" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "F6" ;
             dc:source "PUB" ] ;
     at:start.use "2014-09-16" ;
@@ -11178,11 +11178,11 @@
     at:deprecated "false" ;
     at:op-code "F90" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "F9" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "F9" ;
             dc:source "PUB" ] ;
     at:start.use "2018-04-23" ;
@@ -11329,11 +11329,11 @@
     at:deprecated "false" ;
     at:op-code "G40" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "G4" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "G4" ;
             dc:source "PUB" ] ;
     at:start.use "2019-08-28" ;
@@ -11390,11 +11390,11 @@
     at:deprecated "false" ;
     at:op-code "G60" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "G6" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "G6" ;
             dc:source "PUB" ] ;
     at:start.use "2019-11-25" ;
@@ -11562,11 +11562,11 @@
     at:deprecated "false" ;
     at:op-code "H20" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "H2" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "H2" ;
             dc:source "PUB" ] ;
     at:start.use "2020-05-13" ;
@@ -11644,11 +11644,11 @@
     at:deprecated "false" ;
     at:op-code "H50" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "PUB_LNGISO" ;
+            at:affected-table "PUB_LANG" ;
             at:legacy-code "H5" ;
             dc:source "PUB" ],
         [ a at:MappedCode ;
-            at:affected-table "PUB_LANG" ;
+            at:affected-table "PUB_LNGISO" ;
             at:legacy-code "H5" ;
             dc:source "PUB" ] ;
     at:start.use "2021-05-28" ;

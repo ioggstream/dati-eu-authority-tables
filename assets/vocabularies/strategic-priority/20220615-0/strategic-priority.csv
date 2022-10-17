@@ -1,20 +1,20 @@
-url;deprecated;valid_until;valid_from;id;label_en;label_it
-http://publications.europa.eu/resource/authority/strategic-priority/05c79cb9ee;false;2024-11-30;2019-12-01;05c79cb9ee;A new push for European democracy;Un nuovo slancio per la democrazia europea
-http://publications.europa.eu/resource/authority/strategic-priority/33a612644a;false;2024-11-30;2019-12-01;33a612644a;An economy that works for people;Un'economia al servizio delle persone
-http://publications.europa.eu/resource/authority/strategic-priority/3c3c547b96;false;2024-11-30;2019-12-01;3c3c547b96;A European Green Deal;Green Deal europeo
-http://publications.europa.eu/resource/authority/strategic-priority/3da7cd2056;false;2024-11-30;2019-12-01;3da7cd2056;A stronger Europe in the world;Un'Europa più forte nel mondo
-http://publications.europa.eu/resource/authority/strategic-priority/6002f017ad;false;2024-11-30;2019-12-01;6002f017ad;A Europe fit for the digital age;Un'Europa pronta per l'era digitale
-http://publications.europa.eu/resource/authority/strategic-priority/OP_DATPRO;false;;1952-07-23;OP_DATPRO;Provisional data;Dati provvisori
-http://publications.europa.eu/resource/authority/strategic-priority/ad7bdb3bbd;false;2024-11-30;2019-12-01;ad7bdb3bbd;Promoting our European way of life;Promozione del nostro stile di vita europeo
-http://publications.europa.eu/resource/authority/strategic-priority/c_09dc7907;true;2019-11-30;2014-11-01;c_09dc7907;Commission priorities for 2014–2019;Le priorità della Commissione per il 2014-2019
-http://publications.europa.eu/resource/authority/strategic-priority/c_10762e4b;true;2019-11-30;2014-11-01;c_10762e4b;A union of democratic change;Un’Unione di cambiamento democratico
-http://publications.europa.eu/resource/authority/strategic-priority/c_13d46e13;true;2019-11-30;2014-11-01;c_13d46e13;A new boost for jobs, growth and investment;Il rilancio dell’occupazione, della crescita e degli investimenti
-http://publications.europa.eu/resource/authority/strategic-priority/c_35ac7bbe;true;2019-11-30;2014-11-01;c_35ac7bbe;A deeper and fairer internal market with a strengthened industrial base;Un mercato interno più profondo e più equo con una base industriale più solida
-http://publications.europa.eu/resource/authority/strategic-priority/c_935b7a94;true;2019-11-30;2014-11-01;c_935b7a94;An area of justice and fundamental rights based on mutual trust;Uno spazio di giustizia e di diritti fondamentali basato sulla reciproca fiducia
-http://publications.europa.eu/resource/authority/strategic-priority/c_b7061c2d;true;2019-11-30;2014-11-01;c_b7061c2d;A connected digital single market;Un mercato unico digitale connesso
-http://publications.europa.eu/resource/authority/strategic-priority/c_c373ca5b;true;2019-11-30;2014-11-01;c_c373ca5b;A stronger global actor;Un ruolo più incisivo a livello mondiale
-http://publications.europa.eu/resource/authority/strategic-priority/c_ce8346b5;true;2019-11-30;2014-11-01;c_ce8346b5;Towards a new policy on migration;Verso una nuova politica della migrazione
-http://publications.europa.eu/resource/authority/strategic-priority/c_d20941d9;false;2024-11-30;2019-12-01;c_d20941d9;Commission priorities for 2019–2024;Le priorità della Commissione per il 2019-2024
-http://publications.europa.eu/resource/authority/strategic-priority/c_e9d1425b;true;2019-11-30;2014-11-01;c_e9d1425b;A reasonable and balanced free trade agreement with the United States;Un accordo realistico ed equilibrato di libero scambio con gli Stati Uniti
-http://publications.europa.eu/resource/authority/strategic-priority/c_f6db89aa;true;2019-11-30;2014-11-01;c_f6db89aa;A resilient energy union with a forward-looking climate change policy;Un’unione dell’energia resiliente con politiche lungimiranti in materia di cambiamenti climatici
-http://publications.europa.eu/resource/authority/strategic-priority/c_f8bf3d64;true;2019-11-30;2014-11-01;c_f8bf3d64;A deeper and fairer economic and monetary union;Un’unione economica e monetaria più profonda e più equa
+url,deprecated,valid_until,valid_from,id,label_en,label_it
+http://publications.europa.eu/resource/authority/strategic-priority/05c79cb9ee,false,2024-11-30,2019-12-01,05c79cb9ee,A new push for European democracy,Un nuovo slancio per la democrazia europea
+http://publications.europa.eu/resource/authority/strategic-priority/33a612644a,false,2024-11-30,2019-12-01,33a612644a,An economy that works for people,Un'economia al servizio delle persone
+http://publications.europa.eu/resource/authority/strategic-priority/3c3c547b96,false,2024-11-30,2019-12-01,3c3c547b96,A European Green Deal,Green Deal europeo
+http://publications.europa.eu/resource/authority/strategic-priority/3da7cd2056,false,2024-11-30,2019-12-01,3da7cd2056,A stronger Europe in the world,Un'Europa più forte nel mondo
+http://publications.europa.eu/resource/authority/strategic-priority/6002f017ad,false,2024-11-30,2019-12-01,6002f017ad,A Europe fit for the digital age,Un'Europa pronta per l'era digitale
+http://publications.europa.eu/resource/authority/strategic-priority/OP_DATPRO,false,,1952-07-23,OP_DATPRO,Provisional data,Dati provvisori
+http://publications.europa.eu/resource/authority/strategic-priority/ad7bdb3bbd,false,2024-11-30,2019-12-01,ad7bdb3bbd,Promoting our European way of life,Promozione del nostro stile di vita europeo
+http://publications.europa.eu/resource/authority/strategic-priority/c_09dc7907,true,2019-11-30,2014-11-01,c_09dc7907,Commission priorities for 2014–2019,Le priorità della Commissione per il 2014-2019
+http://publications.europa.eu/resource/authority/strategic-priority/c_10762e4b,true,2019-11-30,2014-11-01,c_10762e4b,A union of democratic change,Un’Unione di cambiamento democratico
+http://publications.europa.eu/resource/authority/strategic-priority/c_13d46e13,true,2019-11-30,2014-11-01,c_13d46e13,"A new boost for jobs, growth and investment","Il rilancio dell’occupazione, della crescita e degli investimenti"
+http://publications.europa.eu/resource/authority/strategic-priority/c_35ac7bbe,true,2019-11-30,2014-11-01,c_35ac7bbe,A deeper and fairer internal market with a strengthened industrial base,Un mercato interno più profondo e più equo con una base industriale più solida
+http://publications.europa.eu/resource/authority/strategic-priority/c_935b7a94,true,2019-11-30,2014-11-01,c_935b7a94,An area of justice and fundamental rights based on mutual trust,Uno spazio di giustizia e di diritti fondamentali basato sulla reciproca fiducia
+http://publications.europa.eu/resource/authority/strategic-priority/c_b7061c2d,true,2019-11-30,2014-11-01,c_b7061c2d,A connected digital single market,Un mercato unico digitale connesso
+http://publications.europa.eu/resource/authority/strategic-priority/c_c373ca5b,true,2019-11-30,2014-11-01,c_c373ca5b,A stronger global actor,Un ruolo più incisivo a livello mondiale
+http://publications.europa.eu/resource/authority/strategic-priority/c_ce8346b5,true,2019-11-30,2014-11-01,c_ce8346b5,Towards a new policy on migration,Verso una nuova politica della migrazione
+http://publications.europa.eu/resource/authority/strategic-priority/c_d20941d9,false,2024-11-30,2019-12-01,c_d20941d9,Commission priorities for 2019–2024,Le priorità della Commissione per il 2019-2024
+http://publications.europa.eu/resource/authority/strategic-priority/c_e9d1425b,true,2019-11-30,2014-11-01,c_e9d1425b,A reasonable and balanced free trade agreement with the United States,Un accordo realistico ed equilibrato di libero scambio con gli Stati Uniti
+http://publications.europa.eu/resource/authority/strategic-priority/c_f6db89aa,true,2019-11-30,2014-11-01,c_f6db89aa,A resilient energy union with a forward-looking climate change policy,Un’unione dell’energia resiliente con politiche lungimiranti in materia di cambiamenti climatici
+http://publications.europa.eu/resource/authority/strategic-priority/c_f8bf3d64,true,2019-11-30,2014-11-01,c_f8bf3d64,A deeper and fairer economic and monetary union,Un’unione economica e monetaria più profonda e più equa

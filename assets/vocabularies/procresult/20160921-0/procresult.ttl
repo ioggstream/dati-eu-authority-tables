@@ -11,35 +11,11 @@
     at:op-code "ADJ" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:affected-table "FD_100" ;
+            at:legacy-code "DPEN=AJ" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
             at:legacy-code "INTE=AJ" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "PVOI=AJ" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "REVI=AJ" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "COMP=AJ" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "CARE=AJ" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "REFE=AJ" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "AVIS=AJ" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "FONC=AJ" ;
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
@@ -47,11 +23,35 @@
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
+            at:legacy-code "CARE=AJ" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "PREJ=AJ" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "REVI=AJ" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "INST=AJ" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "IMMU=AJ" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "REFE=AJ" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
             at:legacy-code "TIER=AJ" ;
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
-            at:legacy-code "DELI=AJ" ;
+            at:legacy-code "PVOI=AJ" ;
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
@@ -63,19 +63,7 @@
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
-            at:legacy-code "IMMU=AJ" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "DPEN=AJ" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "RESP=AJ" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "INST=AJ" ;
+            at:legacy-code "ASSI=AJ" ;
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
@@ -83,7 +71,11 @@
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
-            at:legacy-code "PREJ=AJ" ;
+            at:legacy-code "COMP=AJ" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "AVIS=AJ" ;
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
@@ -91,11 +83,19 @@
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
+            at:legacy-code "FONC=AJ" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
             at:legacy-code "RECT=AJ" ;
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
-            at:legacy-code "ASSI=AJ" ;
+            at:legacy-code "RESP=AJ" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "DELI=AJ" ;
             dc:source "EurLex" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "ADJ" ;
@@ -132,7 +132,59 @@
     at:op-code "APPL_GRANT" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:affected-table "FD_100" ;
+            at:legacy-code "INTE=OB" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "ASSI=OB" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "IMMU=OB" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "RESP=OB" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "CONS=OB" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "REEX=OB" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "REFE=OB" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "ANNU=OB" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "INTV=OB" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
             at:legacy-code "OPPO=OB" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "TIER=OB" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "SANC=OB" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "FONC=OB" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "INST=OB" ;
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
@@ -140,7 +192,15 @@
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
+            at:legacy-code "CARE=OB" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
             at:legacy-code "RECT=OB" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "REVI=OB" ;
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
@@ -149,66 +209,6 @@
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
             at:legacy-code "PVOI=OB" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "SANC=OB" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "RESP=OB" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "INST=OB" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "REEX=OB" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "CONS=OB" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "TIER=OB" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "INTE=OB" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "REFE=OB" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "INTV=OB" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "REVI=OB" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "IMMU=OB" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "FONC=OB" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "ANNU=OB" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "ASSI=OB" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "CARE=OB" ;
             dc:source "EurLex" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "APPL_GRANT" ;
@@ -286,11 +286,11 @@
     at:op-code "CONFORM_TREATY" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:affected-table "FD_100" ;
-            at:legacy-code "DELI=DC" ;
+            at:legacy-code "AVIS=DC" ;
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
-            at:legacy-code "AVIS=DC" ;
+            at:legacy-code "DELI=DC" ;
             dc:source "EurLex" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "CONFORM_TREATY" ;
@@ -327,6 +327,62 @@
     at:op-code "DISM_GROUNDS_INADM" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:affected-table "FD_100" ;
+            at:legacy-code "CARE=RI" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "PREJ=RI" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "OPPO=RI" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "SANC=RI" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "PVOI=RI" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "DELI=RI" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "EXEC=RI" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "DPEN=RI" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "IMMU=RI" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "REFE=RI" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "RECT=RI" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "REVI=RI" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "RESP=RI" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "CONS=RI" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
             at:legacy-code "COMP=RI" ;
             dc:source "EurLex" ],
         [ a at:MappedCode ;
@@ -335,35 +391,7 @@
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
-            at:legacy-code "REFE=RI" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "REVI=RI" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "PVOI=RI" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "CONS=RI" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "RECT=RI" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "DELI=RI" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "PREJ=RI" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "CARE=RI" ;
+            at:legacy-code "INTE=RI" ;
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
@@ -371,19 +399,7 @@
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
-            at:legacy-code "INTV=RI" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "TIER=RI" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "IMMU=RI" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "SANC=RI" ;
+            at:legacy-code "FONC=RI" ;
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
@@ -391,27 +407,11 @@
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
-            at:legacy-code "EXEC=RI" ;
+            at:legacy-code "TIER=RI" ;
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
-            at:legacy-code "INTE=RI" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "DPEN=RI" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "OPPO=RI" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "FONC=RI" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "RESP=RI" ;
+            at:legacy-code "INTV=RI" ;
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
@@ -452,35 +452,7 @@
     at:op-code "DISM_SUBST_GROUNDS" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:affected-table "FD_100" ;
-            at:legacy-code "FONC=RF" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "DPEN=RF" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "REFE=RF" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "SANC=RF" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "RECT=RF" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "INTV=RF" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "INST=RF" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "CONS=RF" ;
+            at:legacy-code "INTE=RF" ;
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
@@ -488,11 +460,11 @@
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
-            at:legacy-code "CARE=RF" ;
+            at:legacy-code "PVOI=RF" ;
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
-            at:legacy-code "COMP=RF" ;
+            at:legacy-code "FONC=RF" ;
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
@@ -500,23 +472,7 @@
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
-            at:legacy-code "EXEC=RF" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "IMMU=RF" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "REVI=RF" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "PVOI=RF" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "RESP=RF" ;
+            at:legacy-code "INTV=RF" ;
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
@@ -524,11 +480,55 @@
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
+            at:legacy-code "CONS=RF" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "RECT=RF" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
             at:legacy-code "OPPO=RF" ;
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
-            at:legacy-code "INTE=RF" ;
+            at:legacy-code "SANC=RF" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "IMMU=RF" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "INST=RF" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "REVI=RF" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "COMP=RF" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "CARE=RF" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "EXEC=RF" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "REFE=RF" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "DPEN=RF" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "RESP=RF" ;
             dc:source "EurLex" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "DISM_SUBST_GROUNDS" ;
@@ -565,15 +565,39 @@
     at:op-code "JUDG_INTLC" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:affected-table "FD_100" ;
-            at:legacy-code "TIER=IL" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "DPEN=IL" ;
+            at:legacy-code "OPPO=IL" ;
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
             at:legacy-code "IMMU=IL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "RECT=IL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "ASSI=IL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "CONS=IL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "INTV=IL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "INST=IL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "PVOI=IL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "DPEN=IL" ;
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
@@ -585,39 +609,11 @@
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
-            at:legacy-code "RESP=IL" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "OPPO=IL" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "INTE=IL" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "REFE=IL" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "ASSI=IL" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
             at:legacy-code "DELI=IL" ;
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
-            at:legacy-code "COMP=IL" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "FONC=IL" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "CONS=IL" ;
+            at:legacy-code "RESP=IL" ;
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
@@ -625,23 +621,19 @@
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
-            at:legacy-code "SANC=IL" ;
+            at:legacy-code "REVI=IL" ;
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
-            at:legacy-code "PVOI=IL" ;
+            at:legacy-code "INTE=IL" ;
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
-            at:legacy-code "INST=IL" ;
+            at:legacy-code "COMP=IL" ;
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
-            at:legacy-code "INTV=IL" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "RECT=IL" ;
+            at:legacy-code "TIER=IL" ;
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
@@ -649,7 +641,15 @@
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
-            at:legacy-code "REVI=IL" ;
+            at:legacy-code "FONC=IL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "SANC=IL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "REFE=IL" ;
             dc:source "EurLex" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "JUDG_INTLC" ;
@@ -686,23 +686,7 @@
     at:op-code "JUDG_NOT_PROCEED" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:affected-table "FD_100" ;
-            at:legacy-code "RECT=NL" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "OPPO=NL" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "DPEN=NL" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "INST=NL" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "ASSI=NL" ;
+            at:legacy-code "CONS=NL" ;
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
@@ -710,47 +694,7 @@
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
-            at:legacy-code "PVOI=NL" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "TIER=NL" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "AVIS=NL" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "EXEC=NL" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "ANNU=NL" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "RESP=NL" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "PREJ=NL" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "SANC=NL" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "INTV=NL" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "FONC=NL" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "REFE=NL" ;
+            at:legacy-code "DPEN=NL" ;
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
@@ -758,15 +702,35 @@
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
-            at:legacy-code "CONS=NL" ;
+            at:legacy-code "REEX=NL" ;
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
-            at:legacy-code "IMMU=NL" ;
+            at:legacy-code "INTV=NL" ;
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
-            at:legacy-code "COMP=NL" ;
+            at:legacy-code "REFE=NL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "PVOI=NL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "ASSI=NL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "AVIS=NL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "ANNU=NL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "REVI=NL" ;
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
@@ -774,11 +738,47 @@
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
-            at:legacy-code "REEX=NL" ;
+            at:legacy-code "RECT=NL" ;
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
-            at:legacy-code "REVI=NL" ;
+            at:legacy-code "TIER=NL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "IMMU=NL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "EXEC=NL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "RESP=NL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "SANC=NL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "FONC=NL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "COMP=NL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "OPPO=NL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "INST=NL" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "PREJ=NL" ;
             dc:source "EurLex" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "JUDG_NOT_PROCEED" ;
@@ -845,79 +845,7 @@
     at:op-code "RAD" ;
     at:op-mapped-code [ a at:MappedCode ;
             at:affected-table "FD_100" ;
-            at:legacy-code "RESP=RD" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "RECT=RD" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "FONC=RD" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "REVI=RD" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "ASSI=RD" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "COMP=RD" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "TIER=RD" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "INST=RD" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "PVOI=RD" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "ANNU=RD" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "PREJ=RD" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "AVIS=RD" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "CARE=RD" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "INTV=RD" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
             at:legacy-code "EXEC=RD" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "DPEN=RD" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "OPPO=RD" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "CONS=RD" ;
-            dc:source "EurLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_100" ;
-            at:legacy-code "IMMU=RD" ;
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
@@ -925,7 +853,23 @@
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
-            at:legacy-code "SANC=RD" ;
+            at:legacy-code "PVOI=RD" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "CONS=RD" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "CARE=RD" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "RECT=RD" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "INTV=RD" ;
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
@@ -933,11 +877,67 @@
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
+            at:legacy-code "INTE=RD" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "ANNU=RD" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "ASSI=RD" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
             at:legacy-code "REFE=RD" ;
             dc:source "EurLex" ],
         [ a at:MappedCode ;
             at:affected-table "FD_100" ;
-            at:legacy-code "INTE=RD" ;
+            at:legacy-code "IMMU=RD" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "FONC=RD" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "DPEN=RD" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "INST=RD" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "REVI=RD" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "TIER=RD" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "SANC=RD" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "PREJ=RD" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "OPPO=RD" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "COMP=RD" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "AVIS=RD" ;
+            dc:source "EurLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_100" ;
+            at:legacy-code "RESP=RD" ;
             dc:source "EurLex" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "RAD" ;

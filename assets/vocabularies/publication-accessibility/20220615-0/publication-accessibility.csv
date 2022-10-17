@@ -1,4 +1,4 @@
-url;deprecated;valid_until;valid_from;id;label_en;label_it
-http://publications.europa.eu/resource/authority/publication-accessibility/EASY;false;;2021-12-08;EASY;easy-to-read;di facile lettura
-http://publications.europa.eu/resource/authority/publication-accessibility/OPTIM;false;;2021-12-08;OPTIM;optimised for accessibility;ottimizzato per l’accessibilità
-http://publications.europa.eu/resource/authority/publication-accessibility/OP_DATPRO;false;;1952-07-23;OP_DATPRO;Provisional data;Dati provvisori
+url,deprecated,valid_until,valid_from,id,label_en,label_it
+http://publications.europa.eu/resource/authority/publication-accessibility/EASY,false,,2021-12-08,EASY,easy-to-read,di facile lettura
+http://publications.europa.eu/resource/authority/publication-accessibility/OPTIM,false,,2021-12-08,OPTIM,optimised for accessibility,ottimizzato per l’accessibilità
+http://publications.europa.eu/resource/authority/publication-accessibility/OP_DATPRO,false,,1952-07-23,OP_DATPRO,Provisional data,Dati provvisori

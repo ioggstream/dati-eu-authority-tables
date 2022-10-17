@@ -10,11 +10,11 @@
     at:deprecated "false" ;
     at:op-code "ADLAM" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "166" ;
-            dc:source "iso-15924-num" ],
-        [ a at:MappedCode ;
             at:legacy-code "Adlm" ;
-            dc:source "iso-15924-alpha-4" ] ;
+            dc:source "iso-15924-alpha-4" ],
+        [ a at:MappedCode ;
+            at:legacy-code "166" ;
+            dc:source "iso-15924-num" ] ;
     at:start.use "2012-07-05" ;
     atold:op-code "ADLAM" ;
     dc:identifier "ADLAM" ;
@@ -49,11 +49,11 @@
     at:deprecated "false" ;
     at:op-code "ARABIC" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "Arab" ;
-            dc:source "iso-15924-alpha-4" ],
-        [ a at:MappedCode ;
             at:legacy-code "160" ;
-            dc:source "iso-15924-num" ] ;
+            dc:source "iso-15924-num" ],
+        [ a at:MappedCode ;
+            at:legacy-code "Arab" ;
+            dc:source "iso-15924-alpha-4" ] ;
     at:start.use "2012-07-05" ;
     atold:op-code "ARABIC" ;
     dc:identifier "ARABIC" ;
@@ -205,11 +205,11 @@
     at:deprecated "false" ;
     at:op-code "CYRILLIC" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "220" ;
-            dc:source "iso-15924-num" ],
-        [ a at:MappedCode ;
             at:legacy-code "Cyrl" ;
-            dc:source "iso-15924-alpha-4" ] ;
+            dc:source "iso-15924-alpha-4" ],
+        [ a at:MappedCode ;
+            at:legacy-code "220" ;
+            dc:source "iso-15924-num" ] ;
     at:start.use "2007-01-01" ;
     atold:op-code "CYRILLIC" ;
     dc:identifier "CYRILLIC" ;
@@ -361,11 +361,11 @@
     at:deprecated "false" ;
     at:op-code "GREEK" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "200" ;
-            dc:source "iso-15924-num" ],
-        [ a at:MappedCode ;
             at:legacy-code "Grek" ;
-            dc:source "iso-15924-alpha-4" ] ;
+            dc:source "iso-15924-alpha-4" ],
+        [ a at:MappedCode ;
+            at:legacy-code "200" ;
+            dc:source "iso-15924-num" ] ;
     at:start.use "1981-01-01" ;
     atold:op-code "GREEK" ;
     dc:identifier "GREEK" ;
@@ -439,11 +439,11 @@
     at:deprecated "false" ;
     at:op-code "GURMUKHI" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "310" ;
-            dc:source "iso-15924-num" ],
-        [ a at:MappedCode ;
             at:legacy-code "Guru" ;
-            dc:source "iso-15924-alpha-4" ] ;
+            dc:source "iso-15924-alpha-4" ],
+        [ a at:MappedCode ;
+            at:legacy-code "310" ;
+            dc:source "iso-15924-num" ] ;
     at:start.use "2012-07-05" ;
     atold:op-code "GURMUKHI" ;
     dc:identifier "GURMUKHI" ;
@@ -517,11 +517,11 @@
     at:deprecated "false" ;
     at:op-code "HANGUL" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "Hang" ;
-            dc:source "iso-15924-alpha-4" ],
-        [ a at:MappedCode ;
             at:legacy-code "286" ;
-            dc:source "iso-15924-num" ] ;
+            dc:source "iso-15924-num" ],
+        [ a at:MappedCode ;
+            at:legacy-code "Hang" ;
+            dc:source "iso-15924-alpha-4" ] ;
     at:start.use "2012-07-05" ;
     atold:op-code "HANGUL" ;
     dc:identifier "HANGUL" ;
@@ -595,11 +595,11 @@
     at:deprecated "false" ;
     at:op-code "HIRAGANA" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "Hira" ;
-            dc:source "iso-15924-alpha-4" ],
-        [ a at:MappedCode ;
             at:legacy-code "410" ;
-            dc:source "iso-15924-num" ] ;
+            dc:source "iso-15924-num" ],
+        [ a at:MappedCode ;
+            at:legacy-code "Hira" ;
+            dc:source "iso-15924-alpha-4" ] ;
     at:start.use "2012-07-05" ;
     atold:op-code "HIRAGANA" ;
     dc:identifier "HIRAGANA" ;
@@ -634,11 +634,11 @@
     at:deprecated "false" ;
     at:op-code "KANNADA" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "345" ;
-            dc:source "iso-15924-num" ],
-        [ a at:MappedCode ;
             at:legacy-code "Knda" ;
-            dc:source "iso-15924-alpha-4" ] ;
+            dc:source "iso-15924-alpha-4" ],
+        [ a at:MappedCode ;
+            at:legacy-code "345" ;
+            dc:source "iso-15924-num" ] ;
     at:start.use "2012-07-05" ;
     atold:op-code "KANNADA" ;
     dc:identifier "KANNADA" ;
@@ -673,11 +673,11 @@
     at:deprecated "false" ;
     at:op-code "KATAKANA" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "Kana" ;
-            dc:source "iso-15924-alpha-4" ],
-        [ a at:MappedCode ;
             at:legacy-code "411" ;
-            dc:source "iso-15924-num" ] ;
+            dc:source "iso-15924-num" ],
+        [ a at:MappedCode ;
+            at:legacy-code "Kana" ;
+            dc:source "iso-15924-alpha-4" ] ;
     at:start.use "2012-07-05" ;
     atold:op-code "KATAKANA" ;
     dc:identifier "KATAKANA" ;
@@ -712,11 +712,11 @@
     at:deprecated "false" ;
     at:op-code "KHMER" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "355" ;
-            dc:source "iso-15924-num" ],
-        [ a at:MappedCode ;
             at:legacy-code "Khmr" ;
-            dc:source "iso-15924-alpha-4" ] ;
+            dc:source "iso-15924-alpha-4" ],
+        [ a at:MappedCode ;
+            at:legacy-code "355" ;
+            dc:source "iso-15924-num" ] ;
     at:start.use "2012-07-05" ;
     atold:op-code "KHMER" ;
     dc:identifier "KHMER" ;
@@ -1054,11 +1054,11 @@
     at:deprecated "false" ;
     at:op-code "TAMIL" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "Taml" ;
-            dc:source "iso-15924-alpha-4" ],
-        [ a at:MappedCode ;
             at:legacy-code "346" ;
-            dc:source "iso-15924-num" ] ;
+            dc:source "iso-15924-num" ],
+        [ a at:MappedCode ;
+            at:legacy-code "Taml" ;
+            dc:source "iso-15924-alpha-4" ] ;
     at:start.use "2012-07-05" ;
     atold:op-code "TAMIL" ;
     dc:identifier "TAMIL" ;
@@ -1171,11 +1171,11 @@
     at:deprecated "false" ;
     at:op-code "THAI" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "352" ;
-            dc:source "iso-15924-num" ],
-        [ a at:MappedCode ;
             at:legacy-code "Thai" ;
-            dc:source "iso-15924-alpha-4" ] ;
+            dc:source "iso-15924-alpha-4" ],
+        [ a at:MappedCode ;
+            at:legacy-code "352" ;
+            dc:source "iso-15924-num" ] ;
     at:start.use "2012-07-05" ;
     atold:op-code "THAI" ;
     dc:identifier "THAI" ;
@@ -1210,11 +1210,11 @@
     at:deprecated "false" ;
     at:op-code "TIBETAN" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:legacy-code "Tibt" ;
-            dc:source "iso-15924-alpha-4" ],
-        [ a at:MappedCode ;
             at:legacy-code "330" ;
-            dc:source "iso-15924-num" ] ;
+            dc:source "iso-15924-num" ],
+        [ a at:MappedCode ;
+            at:legacy-code "Tibt" ;
+            dc:source "iso-15924-alpha-4" ] ;
     at:start.use "2012-07-05" ;
     atold:op-code "TIBETAN" ;
     dc:identifier "TIBETAN" ;

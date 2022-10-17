@@ -1,404 +1,404 @@
-url;deprecated;valid_until;valid_from;id;label_en;label_it
-http://publications.europa.eu/resource/authority/resource-type/ABSTRACT_JUR;false;;1994-01-01;ABSTRACT_JUR;Abstract;Sunto
-http://publications.europa.eu/resource/authority/resource-type/ACKNOWLEDGE_RECP;false;;1952-07-24;ACKNOWLEDGE_RECP;Acknowledgement receipt;Ricevuta di ritorno
-http://publications.europa.eu/resource/authority/resource-type/ACT;false;;1952-07-24;ACT;Act;Atto
-http://publications.europa.eu/resource/authority/resource-type/ACTION_DOC;false;;2015-01-01;ACTION_DOC;Action document;Documento d’azione
-http://publications.europa.eu/resource/authority/resource-type/ACTS_ADOPT;false;;2013-07-12;ACTS_ADOPT;Adopted acts;Atti adottati
-http://publications.europa.eu/resource/authority/resource-type/ACTS_LEGIS_INSTRUMENTS;false;;2021-06-16;ACTS_LEGIS_INSTRUMENTS;Legislative acts and other instruments;Atti legislativi e altri strumenti
-http://publications.europa.eu/resource/authority/resource-type/ACT_ADOPT_INTERNATION;false;;1952-07-24;ACT_ADOPT_INTERNATION;Acts adopted by bodies created by international agreements;Atti adottati da organismi creati da accordi internazionali
-http://publications.europa.eu/resource/authority/resource-type/ACT_DEL;false;;2009-12-01;ACT_DEL;Delegated act;Atto delegato
-http://publications.europa.eu/resource/authority/resource-type/ACT_DEL_DRAFT;false;;2009-12-01;ACT_DEL_DRAFT;Draft delegated act;Progetto di atto delegato
-http://publications.europa.eu/resource/authority/resource-type/ACT_DRAFT;false;;1952-07-24;ACT_DRAFT;Draft act;Progetto di atto
-http://publications.europa.eu/resource/authority/resource-type/ACT_IMPL_DRAFT;false;;2009-12-01;ACT_IMPL_DRAFT;Draft implementing act;Progetto di atto di esecuzione
-http://publications.europa.eu/resource/authority/resource-type/ACT_LEGIS;false;;1952-07-24;ACT_LEGIS;Legislative acts;Atti legislativi
-http://publications.europa.eu/resource/authority/resource-type/ACT_LEGIS_NO;false;;1952-07-24;ACT_LEGIS_NO;Non-legislative acts;Atti non legislativi
-http://publications.europa.eu/resource/authority/resource-type/ACT_OTHER;false;;1952-07-24;ACT_OTHER;Other acts;Altri atti
-http://publications.europa.eu/resource/authority/resource-type/ACT_PREP;false;;1952-07-24;ACT_PREP;Preparatory act;Atto preparatorio
-http://publications.europa.eu/resource/authority/resource-type/ADD;false;;1952-07-24;ADD;Addendum;Addendum
-http://publications.europa.eu/resource/authority/resource-type/ADOPT_TEXT;false;;2009-12-01;ADOPT_TEXT;Texts adopted;Testi approvati
-http://publications.europa.eu/resource/authority/resource-type/AGENDA;false;;2015-01-01;AGENDA;Agenda;Ordine del giorno
-http://publications.europa.eu/resource/authority/resource-type/AGENDA_COM_MEETING;false;;2021-06-16;AGENDA_COM_MEETING;Agenda of Commission meeting;Ordine del giorno della riunione della Commissione
-http://publications.europa.eu/resource/authority/resource-type/AGREE;false;;1952-07-24;AGREE;Agreement;Accordo
-http://publications.europa.eu/resource/authority/resource-type/AGREE_ADDIT;false;;1952-07-24;AGREE_ADDIT;Additional agreement;Clausola aggiuntiva
-http://publications.europa.eu/resource/authority/resource-type/AGREE_AMEND;false;;1952-07-24;AGREE_AMEND;Amendment to an agreement;Emendamento di un accordo
-http://publications.europa.eu/resource/authority/resource-type/AGREE_EUMS;false;;1952-07-24;AGREE_EUMS;Agreement between Member States;Accordo tra Stati membri
-http://publications.europa.eu/resource/authority/resource-type/AGREE_EUMS_DRAFT;false;;1952-07-24;AGREE_EUMS_DRAFT;Draft agreement between Member States;Progetto di accordo tra Stati membri
-http://publications.europa.eu/resource/authority/resource-type/AGREE_INTERINSTIT;false;;1987-07-01;AGREE_INTERINSTIT;Interinstitutional agreement;Accordo interistituzionale
-http://publications.europa.eu/resource/authority/resource-type/AGREE_INTERINSTIT_DRAFT;false;;1987-07-01;AGREE_INTERINSTIT_DRAFT;Draft interinstitutional agreement;Progetto di accordo interistituzionale
-http://publications.europa.eu/resource/authority/resource-type/AGREE_INTERNAL;false;;1952-07-24;AGREE_INTERNAL;Internal agreement;Accordo interno
-http://publications.europa.eu/resource/authority/resource-type/AGREE_INTERNATION;false;;1952-07-24;AGREE_INTERNATION;International agreement;Accordo internazionale
-http://publications.europa.eu/resource/authority/resource-type/AGREE_INTERNATION_DRAFT;false;;1952-07-24;AGREE_INTERNATION_DRAFT;Draft international agreement;Progetto di accordo internazionale
-http://publications.europa.eu/resource/authority/resource-type/AGREE_PROT;false;;1952-07-24;AGREE_PROT;Protocol to the agreement;Protocollo all'accordo
-http://publications.europa.eu/resource/authority/resource-type/AGREE_UBEREINKOM;true;1952-07-24;1952-07-23;AGREE_UBEREINKOM;Agreement between Member States;Accordo tra Stati membri
-http://publications.europa.eu/resource/authority/resource-type/AGREE_UBEREINKOM_DRAFT;true;1952-07-24;1952-07-23;AGREE_UBEREINKOM_DRAFT;Draft agreement;Progetto di accordo
-http://publications.europa.eu/resource/authority/resource-type/AGREE_VEREINB;false;;1952-07-24;AGREE_VEREINB;Agreement;Accordo
-http://publications.europa.eu/resource/authority/resource-type/AID_STATE;false;;1952-07-24;AID_STATE;State aid;Aiuto di Stato
-http://publications.europa.eu/resource/authority/resource-type/AMEND_PROP;false;;2010-01-12;AMEND_PROP;Amended proposal;Proposta modificata
-http://publications.europa.eu/resource/authority/resource-type/AMEND_PROP_DEC;false;;2009-12-01;AMEND_PROP_DEC;Amended proposal for a decision;Proposta modificata di decisione
-http://publications.europa.eu/resource/authority/resource-type/AMEND_PROP_DIR;false;;2009-12-01;AMEND_PROP_DIR;Amended proposal for a directive;Proposta modificata di direttiva
-http://publications.europa.eu/resource/authority/resource-type/AMEND_PROP_REG;false;;2009-12-01;AMEND_PROP_REG;Amended proposal for a regulation;Proposta modificata di regolamento
-http://publications.europa.eu/resource/authority/resource-type/ANNEX;false;;1952-07-24;ANNEX;Annex;Allegato
-http://publications.europa.eu/resource/authority/resource-type/ANNEX_CONTRIB_CONSULT;false;;2015-05-19;ANNEX_CONTRIB_CONSULT;Documents annexed to contributions;Documenti allegati ai contributi
-http://publications.europa.eu/resource/authority/resource-type/ANNEX_SUM;false;;1952-07-24;ANNEX_SUM;Annex summary;Sintesi dell’allegato
-http://publications.europa.eu/resource/authority/resource-type/ANNOUNC;false;;1952-07-24;ANNOUNC;Announcements;Avvisi
-http://publications.europa.eu/resource/authority/resource-type/ANNOUNC_NEWS;false;;2015-01-01;ANNOUNC_NEWS;News announcement;Annuncio
-http://publications.europa.eu/resource/authority/resource-type/ARCHIVE_FILE;false;;1952-07-24;ARCHIVE_FILE;Archive file;Fascicolo di archivio
-http://publications.europa.eu/resource/authority/resource-type/ARRANG;false;;1952-07-24;ARRANG;Arrangement;Intesa
-http://publications.europa.eu/resource/authority/resource-type/ARTICLE_NEWS;false;;2015-01-01;ARTICLE_NEWS;News article;Articolo
-http://publications.europa.eu/resource/authority/resource-type/ASSENT;false;;1987-07-01;ASSENT;Assent;Parere conforme
-http://publications.europa.eu/resource/authority/resource-type/ASSENT_REQ;false;;2009-12-01;ASSENT_REQ;Request for assent;Richiesta di parere conforme
-http://publications.europa.eu/resource/authority/resource-type/BACKGROUND_DOC;false;;2015-05-19;BACKGROUND_DOC;Background document;Documento di riferimento
-http://publications.europa.eu/resource/authority/resource-type/BALANCE;false;;1952-07-24;BALANCE;Balance;Bilancio
-http://publications.europa.eu/resource/authority/resource-type/BRIEFING_CONSIL;false;;1952-07-24;BRIEFING_CONSIL;Council briefing;Nota informativa del Consiglio
-http://publications.europa.eu/resource/authority/resource-type/BUDGET;false;;1952-07-24;BUDGET;Budget;Bilancio
-http://publications.europa.eu/resource/authority/resource-type/BUDGET_DISCHARGE;false;;1958-01-01;BUDGET_DISCHARGE;Budgetary discharge;Discarico di bilancio
-http://publications.europa.eu/resource/authority/resource-type/BUDGET_DRAFT;false;;1952-07-24;BUDGET_DRAFT;Draft budget;Progetto di bilancio
-http://publications.europa.eu/resource/authority/resource-type/BUDGET_DRAFT_PRELIM;false;;1952-07-24;BUDGET_DRAFT_PRELIM;Preliminary draft budget;Progetto preliminare di bilancio
-http://publications.europa.eu/resource/authority/resource-type/BUDGET_DRAFT_PRELIM_SUPPL;false;;1952-07-24;BUDGET_DRAFT_PRELIM_SUPPL;Preliminary draft supplementary budget;Progetto preliminare di bilancio suppletivo e rettificativo
-http://publications.europa.eu/resource/authority/resource-type/BUDGET_DRAFT_SUPPL_AMEND;false;;1952-07-24;BUDGET_DRAFT_SUPPL_AMEND;Draft supplementary and amending budget;Progetto di bilancio rettificativo e suppletivo
-http://publications.europa.eu/resource/authority/resource-type/BUDGET_SUPPL_AMEND;false;;1952-07-24;BUDGET_SUPPL_AMEND;Supplementary and amending budget;Bilancio rettificativo e suppletivo
-http://publications.europa.eu/resource/authority/resource-type/CALL_EXPR_INTEREST;false;;1987-07-01;CALL_EXPR_INTEREST;Call for expression of interest;Invito a manifestare interesse
-http://publications.europa.eu/resource/authority/resource-type/CALL_FOR_EVIDENCE;false;;2021-02-24;CALL_FOR_EVIDENCE;Call for evidence for an initiative;Invito a presentare contributi per un’iniziativa
-http://publications.europa.eu/resource/authority/resource-type/CALL_PROP;false;;1987-07-01;CALL_PROP;Call for proposals;Invito a presentare proposte
-http://publications.europa.eu/resource/authority/resource-type/CASE;false;;1952-07-24;CASE;Case;Causa
-http://publications.europa.eu/resource/authority/resource-type/CASE_LAW;false;;1952-07-24;CASE_LAW;Reports of cases;Raccolta della Giurisprudenza
-http://publications.europa.eu/resource/authority/resource-type/CENSURE;false;;1987-07-01;CENSURE;Censure;Censura
-http://publications.europa.eu/resource/authority/resource-type/CENSURE_RJ;false;;1987-07-01;CENSURE_RJ;Rejected motion of censure;Mozione di censura respinta
-http://publications.europa.eu/resource/authority/resource-type/CENSURE_WDW;false;;1987-07-01;CENSURE_WDW;Withdrawn motion of censure;Mozione di censura ritirata
-http://publications.europa.eu/resource/authority/resource-type/CFE_COMBINED;false;;2021-02-24;CFE_COMBINED;Call for evidence for an evaluation and impact assessment run in parallel;Invito a presentare contributi per una valutazione e una valutazione d’impatto condotte in parallelo
-http://publications.europa.eu/resource/authority/resource-type/CFE_EVL_FC;false;;2021-02-24;CFE_EVL_FC;Call for evidence for an evaluation or fitness check;Invito a presentare contributi per una valutazione o un controllo dell’adeguatezza
-http://publications.europa.eu/resource/authority/resource-type/CFE_IMPACT_ASSESS;false;;2021-02-24;CFE_IMPACT_ASSESS;Call for evidence for an impact assessment;Invito a presentare contributi per una valutazione d’impatto
-http://publications.europa.eu/resource/authority/resource-type/CITIZ_SUM;false;;1987-07-01;CITIZ_SUM;Citizens’ summary;Sintesi per i cittadini
-http://publications.europa.eu/resource/authority/resource-type/COMMUNIC;false;;1952-07-24;COMMUNIC;Communication;Comunicazione
-http://publications.europa.eu/resource/authority/resource-type/COMMUNIC_DRAFT;false;;1952-07-24;COMMUNIC_DRAFT;Draft communication;Progetto di comunicazione
-http://publications.europa.eu/resource/authority/resource-type/COMMUNIC_POSIT;false;;1987-07-01;COMMUNIC_POSIT;Communication concerning the position of the Council;Comunicazione concernente la posizione del Consiglio
-http://publications.europa.eu/resource/authority/resource-type/COMPOS;false;;1987-07-01;COMPOS;Common position;Posizione comune
-http://publications.europa.eu/resource/authority/resource-type/COMPOS_ACCEPT;false;;1987-07-01;COMPOS_ACCEPT;Acceptance of common position;Posizione comune approvata
-http://publications.europa.eu/resource/authority/resource-type/COMPOS_AMEND;false;;1987-07-01;COMPOS_AMEND;Amendment to common position;Modifica posizione comune
-http://publications.europa.eu/resource/authority/resource-type/COMPOS_DRAFT;false;;1987-07-01;COMPOS_DRAFT;Draft common position;Progetto di posizione comune
-http://publications.europa.eu/resource/authority/resource-type/COMPOS_RJ;false;;1987-07-01;COMPOS_RJ;Rejection of the common position;Posizione comune respinta
-http://publications.europa.eu/resource/authority/resource-type/COMPOS_RJ_CONFIRM;false;;1987-07-01;COMPOS_RJ_CONFIRM;Confirmation of the rejection of the common position;Conferma del rigetto della posizione comune
-http://publications.europa.eu/resource/authority/resource-type/COM_ACTIV_WEEK;false;;2012-01-01;COM_ACTIV_WEEK;Commissioners’ weekly activities;Attività settimanali dei commissari
-http://publications.europa.eu/resource/authority/resource-type/CONCL;false;;1952-07-24;CONCL;Council conclusions;Conclusioni del Consiglio
-http://publications.europa.eu/resource/authority/resource-type/CONSULT_STRATEGY;false;;2015-05-19;CONSULT_STRATEGY;Consultation strategy;Strategia di consultazione
-http://publications.europa.eu/resource/authority/resource-type/CONS_TEXT;false;;1992-12-12;CONS_TEXT;Consolidated text;Testo consolidato
-http://publications.europa.eu/resource/authority/resource-type/CONTRIB_CONSULT;false;;2015-05-19;CONTRIB_CONSULT;Contributions to the consultation;Contributi alla consultazione
-http://publications.europa.eu/resource/authority/resource-type/CONVENTION;false;;1952-07-24;CONVENTION;Convention;Convenzione
-http://publications.europa.eu/resource/authority/resource-type/CORRIGENDUM;false;;1952-07-24;CORRIGENDUM;Corrigendum;Rettifica
-http://publications.europa.eu/resource/authority/resource-type/DATPRO;false;;1952-07-24;DATPRO;Provisional data;Dati provvisori
-http://publications.europa.eu/resource/authority/resource-type/DAY_NOTE_DEL;false;;2021-06-16;DAY_NOTE_DEL;Day note of delegation procedures;Nota giornaliera delle procedure di delega
-http://publications.europa.eu/resource/authority/resource-type/DAY_NOTE_EMPOWER;false;;2021-06-16;DAY_NOTE_EMPOWER;Day note of empowerment procedures;Nota giornaliera delle procedure di abilitazione
-http://publications.europa.eu/resource/authority/resource-type/DAY_NOTE_WRITTEN;false;;2021-06-16;DAY_NOTE_WRITTEN;Day note of written procedures;Nota giornaliera delle procedure scritte
-http://publications.europa.eu/resource/authority/resource-type/DEC;false;;1952-07-24;DEC;Decision;Decisione
-http://publications.europa.eu/resource/authority/resource-type/DECLAR;false;;1952-07-24;DECLAR;Declaration;Dichiarazione
-http://publications.europa.eu/resource/authority/resource-type/DECLAR_DRAFT;false;;1952-07-24;DECLAR_DRAFT;Draft declaration;Progetto di dichiarazione
-http://publications.europa.eu/resource/authority/resource-type/DEC_ADOPT_INTERNATION;false;;1952-07-24;DEC_ADOPT_INTERNATION;Decision adopted by bodies created by international agreements;Decisione adottata da organismi creati da accordi internazionali
-http://publications.europa.eu/resource/authority/resource-type/DEC_DEL;false;;2009-12-01;DEC_DEL;Delegated decision;Decisione delegata
-http://publications.europa.eu/resource/authority/resource-type/DEC_DEL_DRAFT;false;;2009-12-01;DEC_DEL_DRAFT;Draft delegated decision;Progetto di decisione delegata
-http://publications.europa.eu/resource/authority/resource-type/DEC_DRAFT;false;;1952-07-24;DEC_DRAFT;Draft decision;Progetto di decisione
-http://publications.europa.eu/resource/authority/resource-type/DEC_ENTSCHEID;true;2010-11-30;1952-07-24;DEC_ENTSCHEID;Decision;Decisione
-http://publications.europa.eu/resource/authority/resource-type/DEC_FRAMW;false;;1987-07-01;DEC_FRAMW;Framework decision;Decisione quadro
-http://publications.europa.eu/resource/authority/resource-type/DEC_FRAMW_DRAFT;false;;1987-07-01;DEC_FRAMW_DRAFT;Draft framework decision;Progetto di decisione quadro
-http://publications.europa.eu/resource/authority/resource-type/DEC_IMPL;false;;2009-12-01;DEC_IMPL;Implementing decision;Decisione di esecuzione
-http://publications.europa.eu/resource/authority/resource-type/DEC_IMPL_DRAFT;false;;2009-12-01;DEC_IMPL_DRAFT;Draft implementing decision;Progetto di decisione di esecuzione
-http://publications.europa.eu/resource/authority/resource-type/DEC_NC;false;;2010-12-01;DEC_NC;Decision by national courts in the field of European Union law;Decisione di tribunali nazionali nell’ambito del diritto dell’Unione europea
-http://publications.europa.eu/resource/authority/resource-type/DEC_REVIEW;false;;1952-07-24;DEC_REVIEW;Decision to review;Decisione di riesame
-http://publications.europa.eu/resource/authority/resource-type/DIR;false;;1952-07-24;DIR;Directive;Direttiva
-http://publications.europa.eu/resource/authority/resource-type/DIR_DEL;false;;2009-12-01;DIR_DEL;Delegated directive;Direttiva delegata
-http://publications.europa.eu/resource/authority/resource-type/DIR_DEL_DRAFT;false;;2009-12-01;DIR_DEL_DRAFT;Draft delegated directive;Progetto di direttiva delegata
-http://publications.europa.eu/resource/authority/resource-type/DIR_DRAFT;false;;1952-07-24;DIR_DRAFT;Draft directive;Progetto di direttiva
-http://publications.europa.eu/resource/authority/resource-type/DIR_IMPL;false;;2009-12-01;DIR_IMPL;Implementing directive;Direttiva di esecuzione
-http://publications.europa.eu/resource/authority/resource-type/DIR_IMPL_DRAFT;false;;2009-12-01;DIR_IMPL_DRAFT;Draft implementing directive;Progetto di direttiva di esecuzione
-http://publications.europa.eu/resource/authority/resource-type/DOC_ADMIN_BUDG;false;;2021-06-16;DOC_ADMIN_BUDG;Document related to administrative/budgetary matter;Documento relativo a questioni amministrative / di bilancio
-http://publications.europa.eu/resource/authority/resource-type/DOC_COMPETENCE_CAB;false;;2021-06-16;DOC_COMPETENCE_CAB;Document related to the cabinets competence distribution;Documento relativo alla ripartizione delle competenze dei gabinetti
-http://publications.europa.eu/resource/authority/resource-type/DOC_CONTROL_INFRING;false;;2021-06-16;DOC_CONTROL_INFRING;Document related to infringements control;Documento relativo al controllo delle infrazioni
-http://publications.europa.eu/resource/authority/resource-type/DOC_STATE_AID;false;;2021-06-16;DOC_STATE_AID;Document related to state aid control;Documento relativo al controllo degli aiuti di Stato
-http://publications.europa.eu/resource/authority/resource-type/DOC_THIRD_BODIES;false;;2021-06-16;DOC_THIRD_BODIES;Document related to a meeting with the constitutional bodies of European/third country governments;Documento relativo a una riunione con gli organi costituzionali dei governi europei / di paesi terzi
-http://publications.europa.eu/resource/authority/resource-type/DRAFT_NATION_LEGIS;false;;1994-01-01;DRAFT_NATION_LEGIS;Draft national legislation;Progetto di atto legislativo nazionale
-http://publications.europa.eu/resource/authority/resource-type/EVL;false;;2007-03-22;EVL;Evaluation;Valutazione
-http://publications.europa.eu/resource/authority/resource-type/EVL_SUM_EXE;false;;2007-03-22;EVL_SUM_EXE;Executive summary of the evaluation;Sintesi della valutazione
-http://publications.europa.eu/resource/authority/resource-type/EXCH_INFO_EUMS;false;;2015-01-01;EXCH_INFO_EUMS;Member State information exchange;Scambio di informazioni tra Stati membri
-http://publications.europa.eu/resource/authority/resource-type/EXCH_LET;false;;1952-07-24;EXCH_LET;Exchange of letters;Scambio di lettere
-http://publications.europa.eu/resource/authority/resource-type/EXCH_RATE;false;;1987-07-01;EXCH_RATE;Exchange rate;Tassi di cambio
-http://publications.europa.eu/resource/authority/resource-type/EXCH_RATE_MRO;false;;1999-01-01;EXCH_RATE_MRO;Interest rate — euro exchange rates;Tasso di interesse – Tassi di cambio dell'euro
-http://publications.europa.eu/resource/authority/resource-type/EXPLANATORY_COUNCIL;false;;2021-06-16;EXPLANATORY_COUNCIL;Council explanatory;Nota esplicativa del Consiglio
-http://publications.europa.eu/resource/authority/resource-type/EXPL_MEMORANDUM;false;;1989-09-15;EXPL_MEMORANDUM;Explanatory memorandum;Relazione
-http://publications.europa.eu/resource/authority/resource-type/FACTSHEET;false;;2015-01-01;FACTSHEET;Factsheet;Scheda informativa
-http://publications.europa.eu/resource/authority/resource-type/FACT_SUM_REPORT_CONSULT;false;;2015-05-19;FACT_SUM_REPORT_CONSULT;Factual summary report of the public consultation;Relazione di sintesi della consultazione pubblica
-http://publications.europa.eu/resource/authority/resource-type/FC;false;;2012-12-12;FC;Fitness check;Controllo di adeguatezza
-http://publications.europa.eu/resource/authority/resource-type/FC_SUM_EXE;false;;2012-12-12;FC_SUM_EXE;Executive summary of the fitness check;Sintesi del vaglio di adeguatezza
-http://publications.europa.eu/resource/authority/resource-type/FORECAST;false;;2015-01-01;FORECAST;Forecast;Previsioni
-http://publications.europa.eu/resource/authority/resource-type/FORM_OJ_TOC;false;;1952-07-24;FORM_OJ_TOC;Request form for the table of contents of the Official Journal;Modulo di richiesta per l’indice della Gazzetta ufficiale
-http://publications.europa.eu/resource/authority/resource-type/FORM_PPF;false;;1952-07-24;FORM_PPF;Form for print production file;Modulo per il file di stampa per la produzione
-http://publications.europa.eu/resource/authority/resource-type/FORM_REQ_COMM_DOC;false;;2020-09-01;FORM_REQ_COMM_DOC;Request form for communication post about a document;Modulo di richiesta per pubblicare una comunicazione relativa a un documento
-http://publications.europa.eu/resource/authority/resource-type/FORM_REQ_COMM_OJ;false;;2020-09-01;FORM_REQ_COMM_OJ;Request form for communication post about Official Journal;Modulo di richiesta per pubblicare una comunicazione relativa alla Gazzetta ufficiale
-http://publications.europa.eu/resource/authority/resource-type/FORM_REQ_PRE_PRESS;false;;1952-07-24;FORM_REQ_PRE_PRESS;Request form for pre-press of publication;Modulo di richiesta per prestampa di pubblicazione
-http://publications.europa.eu/resource/authority/resource-type/FORM_REQ_PUB;false;;1952-07-24;FORM_REQ_PUB;Request form for publication;Modulo di richiesta per pubblicazione
-http://publications.europa.eu/resource/authority/resource-type/FORM_REQ_PUB_ACCEPT;false;;1952-07-24;FORM_REQ_PUB_ACCEPT;Request form for the acceptance of publication;Modulo di richiesta per accettazione di pubblicazione
-http://publications.europa.eu/resource/authority/resource-type/FORM_REQ_PUB_REFUS;false;;1952-07-24;FORM_REQ_PUB_REFUS;Request form for the refusal of publication;Modulo di richiesta per rifiuto di pubblicazione
-http://publications.europa.eu/resource/authority/resource-type/FORM_REQ_READY_PRESS;false;;1952-07-24;FORM_REQ_READY_PRESS;Request form for the ready-for-press of publication;Modulo di richiesta di visto-si-stampi per pubblicazione
-http://publications.europa.eu/resource/authority/resource-type/GARNISHEE_ORDER;false;;1962-03-13;GARNISHEE_ORDER;Attachment order;Pignoramento
-http://publications.europa.eu/resource/authority/resource-type/GLOSSARY;false;;2015-01-01;GLOSSARY;Glossary;Glossario
-http://publications.europa.eu/resource/authority/resource-type/GLOS_TERM;false;;1987-07-01;GLOS_TERM;Glossary term;Termine del glossario
-http://publications.europa.eu/resource/authority/resource-type/GUIDELINE;false;;1987-07-01;GUIDELINE;Guideline;Indirizzo
-http://publications.europa.eu/resource/authority/resource-type/GUIDELINE_GEN;false;;1987-07-01;GUIDELINE_GEN;General guidelines;Orientamenti generali
-http://publications.europa.eu/resource/authority/resource-type/GUIDELINE_LIGNES;false;;1987-07-01;GUIDELINE_LIGNES;Guideline;Linee guida
-http://publications.europa.eu/resource/authority/resource-type/IMPACT_ASSESS;false;;2009-12-01;IMPACT_ASSESS;Impact assessment;Valutazione dell’impatto
-http://publications.europa.eu/resource/authority/resource-type/IMPACT_ASSESS_INCEP;true;2021-02-23;2009-12-01;IMPACT_ASSESS_INCEP;Inception impact assessment;Valutazione d’impatto iniziale
-http://publications.europa.eu/resource/authority/resource-type/IMPACT_ASSESS_SUM;false;;2009-12-01;IMPACT_ASSESS_SUM;Summary of impact assessment;Sintesi della valutazione d'impatto
-http://publications.europa.eu/resource/authority/resource-type/IMPL_PLAN;false;;2012-12-12;IMPL_PLAN;Implementation plan;Piano di attuazione
-http://publications.europa.eu/resource/authority/resource-type/INFO;false;;1952-07-24;INFO;Information;Info
-http://publications.europa.eu/resource/authority/resource-type/INFO_COMMUNIC;false;;1952-07-24;INFO_COMMUNIC;Information;Comunicazione
-http://publications.europa.eu/resource/authority/resource-type/INFO_GEN;false;;1952-07-24;INFO_GEN;General information;Informazioni generali
-http://publications.europa.eu/resource/authority/resource-type/INFO_JUDICIAL;false;;1952-07-24;INFO_JUDICIAL;Judicial information;Informazioni giudiziarie
-http://publications.europa.eu/resource/authority/resource-type/INFO_JUR;false;;1952-07-24;INFO_JUR;Information;Informazioni
-http://publications.europa.eu/resource/authority/resource-type/INFO_SPECIAL;false;;1952-07-24;INFO_SPECIAL;Special information;Informazioni speciali
-http://publications.europa.eu/resource/authority/resource-type/INFO_SUPPL;false;;1952-07-24;INFO_SUPPL;Supplementary information;Informazione supplementare
-http://publications.europa.eu/resource/authority/resource-type/INI;false;;2009-12-01;INI;Initiative;Iniziativa
-http://publications.europa.eu/resource/authority/resource-type/INTERNAL_DOC_CONSIL;false;;1952-07-24;INTERNAL_DOC_CONSIL;Council internal document;Documento interno del Consiglio
-http://publications.europa.eu/resource/authority/resource-type/INTRO_TEXT;false;;1987-07-01;INTRO_TEXT;Introductory text;Testo introduttivo
-http://publications.europa.eu/resource/authority/resource-type/ITEM_A_LIST;false;;1967-07-01;ITEM_A_LIST;List of ‘A’ items;Elenco dei punti «A»
-http://publications.europa.eu/resource/authority/resource-type/ITEM_A_LIST_ADP;false;;1967-07-01;ITEM_A_LIST_ADP;List of adopted ‘A’ items;Elenco dei punti «A» adottati
-http://publications.europa.eu/resource/authority/resource-type/ITEM_A_LIST_PROVIS;false;;1967-07-01;ITEM_A_LIST_PROVIS;Provisional list of ‘A’ items;Elenco provvisorio dei punti «A»
-http://publications.europa.eu/resource/authority/resource-type/ITEM_A_NOTE;false;;1967-07-01;ITEM_A_NOTE;‘A’ item note;Nota punto «A»
-http://publications.europa.eu/resource/authority/resource-type/ITEM_IA_NOTE;false;;1967-07-01;ITEM_IA_NOTE;‘I/A’ item note;Nota punto «I/A»
-http://publications.europa.eu/resource/authority/resource-type/ITEM_I_NOTE;false;;1967-07-01;ITEM_I_NOTE;‘I’ item note;Nota punto «A»
-http://publications.europa.eu/resource/authority/resource-type/JOINT_ACTION;false;;2009-12-01;JOINT_ACTION;Joint action;Azione comune
-http://publications.europa.eu/resource/authority/resource-type/JOINT_ACTION_DRAFT;false;;2009-12-01;JOINT_ACTION_DRAFT;Draft joint action;Progetto di azione comune
-http://publications.europa.eu/resource/authority/resource-type/JOINT_COMMUNIC;false;;2009-12-01;JOINT_COMMUNIC;Joint communication;Comunicazione congiunta
-http://publications.europa.eu/resource/authority/resource-type/JOINT_DEC;false;;2009-12-01;JOINT_DEC;Joint decision;Decisione congiunta
-http://publications.europa.eu/resource/authority/resource-type/JOINT_EVL;false;;2007-03-22;JOINT_EVL;Joint evaluation;Valutazione congiunta
-http://publications.europa.eu/resource/authority/resource-type/JOINT_EVL_SUM_EXE;false;;2007-03-22;JOINT_EVL_SUM_EXE;Executive summary of the joint evaluation;Sintesi della valutazione congiunta
-http://publications.europa.eu/resource/authority/resource-type/JOINT_FC;false;;2012-12-12;JOINT_FC;Joint fitness check;Vaglio di adeguatezza congiunto
-http://publications.europa.eu/resource/authority/resource-type/JOINT_FC_SUM_EXE;false;;2012-12-12;JOINT_FC_SUM_EXE;Executive summary of the joint fitness check;Sintesi del vaglio di adeguatezza congiunto
-http://publications.europa.eu/resource/authority/resource-type/JOINT_IMPACT_ASSESS;false;;2009-12-01;JOINT_IMPACT_ASSESS;Joint impact assessment;Valutazione d’impatto congiunta
-http://publications.europa.eu/resource/authority/resource-type/JOINT_IMPACT_ASSESS_SUM;false;;2009-12-01;JOINT_IMPACT_ASSESS_SUM;Joint impact assessment summary;Sintesi della valutazione d'impatto congiunta
-http://publications.europa.eu/resource/authority/resource-type/JOINT_IMPL_PLAN;false;;2012-12-12;JOINT_IMPL_PLAN;Joint implementation plan;Piano di attuazione congiunto
-http://publications.europa.eu/resource/authority/resource-type/JOINT_MOTION_RES;false;;1962-03-30;JOINT_MOTION_RES;Joint motion for a resolution;Proposta di risoluzione comune
-http://publications.europa.eu/resource/authority/resource-type/JOINT_PAPER_GREEN;false;;2009-12-01;JOINT_PAPER_GREEN;Joint Green Paper;Libro verde congiunto
-http://publications.europa.eu/resource/authority/resource-type/JOINT_PAPER_WHITE;false;;2009-12-01;JOINT_PAPER_WHITE;Joint White Paper;Libro bianco congiunto
-http://publications.europa.eu/resource/authority/resource-type/JOINT_PROP_DEC;false;;2009-12-01;JOINT_PROP_DEC;Joint proposal for a decision;Proposta congiunta di decisione
-http://publications.europa.eu/resource/authority/resource-type/JOINT_PROP_DIR;false;;2009-12-01;JOINT_PROP_DIR;Joint proposal for a directive;Proposta congiunta di direttiva
-http://publications.europa.eu/resource/authority/resource-type/JOINT_PROP_REG;false;;2009-12-01;JOINT_PROP_REG;Joint proposal for a regulation;Proposta congiunta di regolamento
-http://publications.europa.eu/resource/authority/resource-type/JOINT_REPORT;false;;2009-12-01;JOINT_REPORT;Joint report;Relazione congiunta
-http://publications.europa.eu/resource/authority/resource-type/JOINT_STAKEHOLDER_FEEDBACK;false;;2015-05-19;JOINT_STAKEHOLDER_FEEDBACK;Joint stakeholder feedback;Osservazioni congiunte delle parti interessate
-http://publications.europa.eu/resource/authority/resource-type/JOINT_SWD;false;;2009-12-01;JOINT_SWD;Joint staff working document;Documento di lavoro congiunto dei servizi
-http://publications.europa.eu/resource/authority/resource-type/JOINT_SYNOPSIS_REPORT_CONSULT;false;;2015-05-19;JOINT_SYNOPSIS_REPORT_CONSULT;Joint synopsis report of the public consultation;Relazione di sintesi congiunta della consultazione pubblica
-http://publications.europa.eu/resource/authority/resource-type/JOINT_TEXT;false;;2009-12-01;JOINT_TEXT;Joint text;Progetto comune
-http://publications.europa.eu/resource/authority/resource-type/JOINT_TEXT_APR;false;;2009-12-01;JOINT_TEXT_APR;Approved joint text;Progetto comune approvato
-http://publications.europa.eu/resource/authority/resource-type/JOINT_TEXT_RJ;false;;2009-12-01;JOINT_TEXT_RJ;Rejected joint text;Progetto comune respinto
-http://publications.europa.eu/resource/authority/resource-type/JOURNAL_ACAD;false;;2018-01-01;JOURNAL_ACAD;Academic journal;Rivista accademica
-http://publications.europa.eu/resource/authority/resource-type/JUDG;false;;1952-07-24;JUDG;Judgment;Sentenza
-http://publications.europa.eu/resource/authority/resource-type/JUDG_EXTRACT;false;;1989-11-15;JUDG_EXTRACT;Judgment (extracts);Sentenza (estratti)
-http://publications.europa.eu/resource/authority/resource-type/LEGIS_SUM;false;;1987-07-01;LEGIS_SUM;Summaries of EU legislation;Sintesi della legislazione dell’UE
-http://publications.europa.eu/resource/authority/resource-type/LET;false;;1952-07-24;LET;Letter;Lettera
-http://publications.europa.eu/resource/authority/resource-type/LET_ACCOMP;false;;2000-01-01;LET_ACCOMP;Accompanying letter;Lettera di accompagnamento
-http://publications.europa.eu/resource/authority/resource-type/LET_AMEND;false;;1952-07-24;LET_AMEND;Letter of amendment;Lettera rettificativa
-http://publications.europa.eu/resource/authority/resource-type/LET_DRAFT_NATION_LEGIS;false;;1994-01-01;LET_DRAFT_NATION_LEGIS;Letter on draft national legislation;Lettera su un progetto di atto legislativo nazionale
-http://publications.europa.eu/resource/authority/resource-type/LIST;false;;1952-07-24;LIST;List;Elenco
-http://publications.europa.eu/resource/authority/resource-type/LIST_ADMIN_BUDG;false;;2021-06-16;LIST_ADMIN_BUDG;List of administrative and budgetary matters;Elenco delle questioni amministrative e di bilancio
-http://publications.europa.eu/resource/authority/resource-type/LIST_COM_ON_DUTY;false;;2021-06-16;LIST_COM_ON_DUTY;List of the Members of the Commission on duty;Elenco dei membri della Commissione presenti
-http://publications.europa.eu/resource/authority/resource-type/LIST_WRITTEN_PROC_SIGNIF;false;;2021-06-16;LIST_WRITTEN_PROC_SIGNIF;List of significant written procedures;Elenco delle procedure scritte significative
-http://publications.europa.eu/resource/authority/resource-type/MAGAZINE;false;;2015-01-01;MAGAZINE;Magazine;Rivista
-http://publications.europa.eu/resource/authority/resource-type/MATERIAL_PROM;false;;2015-01-01;MATERIAL_PROM;Promotional material;Materiale promozionale
-http://publications.europa.eu/resource/authority/resource-type/MEAS_NATION_IMPL;false;;1987-07-01;MEAS_NATION_IMPL;National transposition measures;Misure nazionali di recepimento
-http://publications.europa.eu/resource/authority/resource-type/MEMORANDUM;false;;1952-07-24;MEMORANDUM;Memorandum;Memorandum
-http://publications.europa.eu/resource/authority/resource-type/MEMORANDUM_UNDERST;false;;1952-07-24;MEMORANDUM_UNDERST;Memorandum of understanding;Protocollo di intesa
-http://publications.europa.eu/resource/authority/resource-type/MINUTES;false;;1952-07-24;MINUTES;Minutes;Processo verbale
-http://publications.europa.eu/resource/authority/resource-type/MINUTES_COM_MEETING;false;;2021-06-16;MINUTES_COM_MEETING;Minutes of Commission meeting;Verbale della riunione della Commissione
-http://publications.europa.eu/resource/authority/resource-type/MINUTES_DIRECTORS_GENERAL;false;;2021-06-16;MINUTES_DIRECTORS_GENERAL;Minutes of the Directors-General meeting;Verbale della riunione dei direttori generali
-http://publications.europa.eu/resource/authority/resource-type/MINUTES_DRAFT;false;;1967-07-01;MINUTES_DRAFT;Draft minutes;Progetto del processo verbale
-http://publications.europa.eu/resource/authority/resource-type/MINUTES_INCOMING_PRESIDENCY;false;;2021-06-16;MINUTES_INCOMING_PRESIDENCY;Minutes from a meeting with incoming presidency;Verbale di una riunione con la presidenza entrante
-http://publications.europa.eu/resource/authority/resource-type/MOTION_RES;false;;1962-03-30;MOTION_RES;Motion for a resolution;Proposta di risoluzione
-http://publications.europa.eu/resource/authority/resource-type/NEWSLETTER;false;;2015-01-01;NEWSLETTER;Newsletter;Newsletter
-http://publications.europa.eu/resource/authority/resource-type/NEWS_DAILY;false;;2012-01-01;NEWS_DAILY;Daily news;Notizie giornaliere
-http://publications.europa.eu/resource/authority/resource-type/NOTE;false;;1952-07-24;NOTE;Note;Nota
-http://publications.europa.eu/resource/authority/resource-type/NOTE_AUTHENTICATION;false;;2021-06-16;NOTE_AUTHENTICATION;Authentication note;Nota di autenticazione
-http://publications.europa.eu/resource/authority/resource-type/NOTE_COVER;false;;1994-02-14;NOTE_COVER;Cover note;Nota di trasmissione
-http://publications.europa.eu/resource/authority/resource-type/NOTE_GUID;false;;2015-01-01;NOTE_GUID;Guidance note;Nota di orientamento
-http://publications.europa.eu/resource/authority/resource-type/NOTE_INFO;false;;1980-09-17;NOTE_INFO;Information note;Nota informativa
-http://publications.europa.eu/resource/authority/resource-type/NOTE_SG;false;;2021-06-16;NOTE_SG;Note of the Secretary-General;Nota del segretario generale
-http://publications.europa.eu/resource/authority/resource-type/NOTICE;false;;1952-07-24;NOTICE;Notice;Avviso
-http://publications.europa.eu/resource/authority/resource-type/NOTICE_AWARD;false;;1987-07-01;NOTICE_AWARD;Award notice;Avviso di aggiudicazione
-http://publications.europa.eu/resource/authority/resource-type/NOTICE_CONTRACT;false;;1987-07-01;NOTICE_CONTRACT;Contract notice;Bando di gara
-http://publications.europa.eu/resource/authority/resource-type/NOTICE_INFO;false;;1952-07-24;NOTICE_INFO;Notice;Informazione
-http://publications.europa.eu/resource/authority/resource-type/NOTICE_MODEL_PP;true;1977-12-31;1952-07-24;NOTICE_MODEL_PP;Model notice for public procurement;Modello di avviso per gli appalti pubblici
-http://publications.europa.eu/resource/authority/resource-type/NOTICE_READER;false;;1952-07-24;NOTICE_READER;Notice to readers;Avviso ai lettori
-http://publications.europa.eu/resource/authority/resource-type/NOTICE_STAKEHOLDER;false;;2015-01-01;NOTICE_STAKEHOLDER;Notice to stakeholders;Avviso ai portatori d’interessi
-http://publications.europa.eu/resource/authority/resource-type/NOTIF;false;;1987-07-01;NOTIF;Notification;Notifica
-http://publications.europa.eu/resource/authority/resource-type/OJ;false;;1958-04-20;OJ;Official Journal;Gazzetta ufficiale
-http://publications.europa.eu/resource/authority/resource-type/OJ_SPECIAL;false;;1972-01-01;OJ_SPECIAL;Special edition of the Official Journal;Edizione speciale della GU
-http://publications.europa.eu/resource/authority/resource-type/OPIN;false;;1952-07-24;OPIN;Opinion;Parere
-http://publications.europa.eu/resource/authority/resource-type/OPIN_ADDIT;false;;1952-07-24;OPIN_ADDIT;Additional opinion;Supplemento di parere
-http://publications.europa.eu/resource/authority/resource-type/OPIN_ADOP;false;;1990-01-01;OPIN_ADOP;Adopted opinion;Parere adottato
-http://publications.europa.eu/resource/authority/resource-type/OPIN_AG;false;;1952-07-24;OPIN_AG;Opinion of the Advocate General;Conclusioni dell'avvocato generale
-http://publications.europa.eu/resource/authority/resource-type/OPIN_AMEND_EP;false;;2009-12-01;OPIN_AMEND_EP;Opinion on the European Parliament’s amendments;Parere sugli emendamenti del Parlamento europeo
-http://publications.europa.eu/resource/authority/resource-type/OPIN_CASE;true;1952-07-24;1952-07-24;OPIN_CASE;Advocate general’s opinion;Conclusioni
-http://publications.europa.eu/resource/authority/resource-type/OPIN_DISPUT_LB;false;;2009-12-01;OPIN_DISPUT_LB;Opinion disputing a legal base;Parere che contesta la base giuridica
-http://publications.europa.eu/resource/authority/resource-type/OPIN_DRAFT_NATION_LEGIS;false;;1994-01-01;OPIN_DRAFT_NATION_LEGIS;Opinion on draft national legislation;Parere su un progetto di atto legislativo nazionale
-http://publications.europa.eu/resource/authority/resource-type/OPIN_EVL;false;;2015-05-19;OPIN_EVL;Opinion on evaluation;Parere sulla valutazione
-http://publications.europa.eu/resource/authority/resource-type/OPIN_EXP;false;;2015-01-01;OPIN_EXP;Expert opinion;Perizia
-http://publications.europa.eu/resource/authority/resource-type/OPIN_EXPLOR;false;;2009-12-01;OPIN_EXPLOR;Exploratory opinion;Parere esplorativo
-http://publications.europa.eu/resource/authority/resource-type/OPIN_EXPLOR_ADOP;false;;1990-01-01;OPIN_EXPLOR_ADOP;Adopted exploratory opinion;Parere esplorativo adottato
-http://publications.europa.eu/resource/authority/resource-type/OPIN_EXPLOR_PROVIS;false;;1990-01-01;OPIN_EXPLOR_PROVIS;Provisional exploratory opinion;Parere esplorativo provvisorio
-http://publications.europa.eu/resource/authority/resource-type/OPIN_FC;false;;2015-05-19;OPIN_FC;Opinion on fitness check;Parere sul vaglio di adeguatezza
-http://publications.europa.eu/resource/authority/resource-type/OPIN_IMPACT_ASSESS;false;;2006-11-14;OPIN_IMPACT_ASSESS;Opinion on impact assessment;Parere sulla valutazione d'impatto
-http://publications.europa.eu/resource/authority/resource-type/OPIN_JUR;false;;1952-07-24;OPIN_JUR;Opinion of the Court;Parere
-http://publications.europa.eu/resource/authority/resource-type/OPIN_NO_PROP_AMEND;false;;1952-07-24;OPIN_NO_PROP_AMEND;Opinion not proposing amendment;Parere che non modifica
-http://publications.europa.eu/resource/authority/resource-type/OPIN_NO_REPORT;false;;1952-07-24;OPIN_NO_REPORT;Opinion without report;Parere senza relazione
-http://publications.europa.eu/resource/authority/resource-type/OPIN_PROP_AMEND;false;;1952-07-24;OPIN_PROP_AMEND;Opinion proposing amendment;Parere che modifica
-http://publications.europa.eu/resource/authority/resource-type/OPIN_PROP_RJ;false;;1952-07-24;OPIN_PROP_RJ;Opinion proposing rejection;Parere che respinge
-http://publications.europa.eu/resource/authority/resource-type/OPIN_PROVIS;false;;1990-01-01;OPIN_PROVIS;Provisional opinion;Parere provvisorio
-http://publications.europa.eu/resource/authority/resource-type/OPIN_QUAL_APR;false;;1952-07-24;OPIN_QUAL_APR;Opinion with qualified approval;Parere con riserva
-http://publications.europa.eu/resource/authority/resource-type/OPIN_REAS_NP;false;;2010-04-21;OPIN_REAS_NP;Reasoned opinion of national Parliament;Parere motivato di un parlamento nazionale
-http://publications.europa.eu/resource/authority/resource-type/OP_DATPRO;false;;1952-07-23;OP_DATPRO;Provisional data;Dati provvisori
-http://publications.europa.eu/resource/authority/resource-type/ORDER;false;;1952-07-24;ORDER;Order;Ordinanza
-http://publications.europa.eu/resource/authority/resource-type/ORDER_EXTRACT;false;;1989-11-15;ORDER_EXTRACT;Order (extracts);Ordinanza (estratti)
-http://publications.europa.eu/resource/authority/resource-type/OUTCOME_PROCEEDINGS;false;;2021-06-16;OUTCOME_PROCEEDINGS;Outcome of proceedings;Esito dei lavori
-http://publications.europa.eu/resource/authority/resource-type/OWNINI_OPIN;false;;2010-01-12;OWNINI_OPIN;Own-initiative opinion;Parere d'iniziativa
-http://publications.europa.eu/resource/authority/resource-type/OWNINI_OPIN_ADDIT;false;;2010-01-12;OWNINI_OPIN_ADDIT;Additional own-initiative opinion;Supplemento di parere d'iniziativa
-http://publications.europa.eu/resource/authority/resource-type/OWNINI_OPIN_ADOP;false;;1990-01-01;OWNINI_OPIN_ADOP;Adopted own-initiative opinion;Parere di iniziativa adottato
-http://publications.europa.eu/resource/authority/resource-type/OWNINI_OPIN_DRAFT_NATION_LEGIS;false;;1994-01-01;OWNINI_OPIN_DRAFT_NATION_LEGIS;Own-initiative opinion on draft national legislation;Parere di iniziativa su un progetto di atto legislativo nazionale
-http://publications.europa.eu/resource/authority/resource-type/OWNINI_OPIN_PROVIS;false;;1990-01-01;OWNINI_OPIN_PROVIS;Provisional own-initiative opinion;Parere di iniziativa provvisorio
-http://publications.europa.eu/resource/authority/resource-type/OWNINI_REPORT;false;;2010-01-12;OWNINI_REPORT;Own-initiative report;Relazione d'iniziativa
-http://publications.europa.eu/resource/authority/resource-type/OWNINI_RES;false;;2010-01-12;OWNINI_RES;Own-initiative resolution;Risoluzione d'iniziativa
-http://publications.europa.eu/resource/authority/resource-type/PAPER_GREEN;false;;1987-07-01;PAPER_GREEN;Green Paper;Libro verde
-http://publications.europa.eu/resource/authority/resource-type/PAPER_REFLEC;false;;1991-02-01;PAPER_REFLEC;Reflection paper;Documento di riflessione
-http://publications.europa.eu/resource/authority/resource-type/PAPER_SCIENTIFIC;false;;2015-01-01;PAPER_SCIENTIFIC;Scientific paper;Pubblicazione scientifica
-http://publications.europa.eu/resource/authority/resource-type/PAPER_WHITE;false;;1987-07-01;PAPER_WHITE;White Paper;Libro bianco
-http://publications.europa.eu/resource/authority/resource-type/PATENT;false;;2021-07-01;PATENT;Patent;Brevetto
-http://publications.europa.eu/resource/authority/resource-type/PETITION;false;;1952-07-24;PETITION;Petition;Petizione
-http://publications.europa.eu/resource/authority/resource-type/PLANNING_DOC;false;;2009-12-01;PLANNING_DOC;Planning document;Documento di pianificazione
-http://publications.europa.eu/resource/authority/resource-type/PLAN_MANAGEMENT;false;;2015-01-01;PLAN_MANAGEMENT;Management plan;Piano di gestione
-http://publications.europa.eu/resource/authority/resource-type/PLAN_NATIONAL;false;;2015-01-01;PLAN_NATIONAL;National plan;Piano nazionale
-http://publications.europa.eu/resource/authority/resource-type/PLAN_STRATEGIC;false;;2015-01-01;PLAN_STRATEGIC;Strategic plan;Piano strategico
-http://publications.europa.eu/resource/authority/resource-type/POSIT;false;;1952-07-24;POSIT;Position;Posizione
-http://publications.europa.eu/resource/authority/resource-type/POSIT_ACCEPT;false;;1952-07-24;POSIT_ACCEPT;Acceptance of position;Posizione approvata
-http://publications.europa.eu/resource/authority/resource-type/POSIT_AMEND;false;;1952-07-24;POSIT_AMEND;Amendment to position;Modifica della posizione
-http://publications.europa.eu/resource/authority/resource-type/POSIT_EP;false;;2021-06-16;POSIT_EP;Position of the European Parliament;Posizione del Parlamento europeo
-http://publications.europa.eu/resource/authority/resource-type/POSIT_RJ;false;;1952-07-24;POSIT_RJ;Rejection of position;Posizione respinta
-http://publications.europa.eu/resource/authority/resource-type/POSIT_RJ_CONF;false;;1952-07-24;POSIT_RJ_CONF;Confirmation of the rejection of the position;Conferma del rigetto della posizione
-http://publications.europa.eu/resource/authority/resource-type/PRESENTATION;false;;2015-01-01;PRESENTATION;Presentation;Presentazione
-http://publications.europa.eu/resource/authority/resource-type/PRESS_REL;false;;1967-07-01;PRESS_REL;Press release;Comunicato stampa
-http://publications.europa.eu/resource/authority/resource-type/PROCEED_MINUTES;false;;1952-07-24;PROCEED_MINUTES;Minutes of proceeding;Verbale dei lavori
-http://publications.europa.eu/resource/authority/resource-type/PROCUREMENT_NOTICE;false;;2020-01-01;PROCUREMENT_NOTICE;Procurement notice;Avviso di appalto pubblico
-http://publications.europa.eu/resource/authority/resource-type/PROC_ADMIN;false;;1952-07-24;PROC_ADMIN;Administrative procedures;Procedure amministrative
-http://publications.europa.eu/resource/authority/resource-type/PROC_INTERNAL;false;;1952-07-24;PROC_INTERNAL;Rules of procedure;Regolamento interno
-http://publications.europa.eu/resource/authority/resource-type/PROC_JURIS;false;;1952-07-24;PROC_JURIS;Jurisdictional procedure;Procedimento giurisdizionale
-http://publications.europa.eu/resource/authority/resource-type/PROC_RULES;false;;1952-07-24;PROC_RULES;Rules of procedure;Regolamento di procedura
-http://publications.europa.eu/resource/authority/resource-type/PROGRAM;false;;1952-07-24;PROGRAM;Programme;Programma
-http://publications.europa.eu/resource/authority/resource-type/PROG_WORK_COM;false;;2015-01-01;PROG_WORK_COM;Commission work programme;Programma di lavoro della Commissione
-http://publications.europa.eu/resource/authority/resource-type/PROG_WORK_DEP;false;;2015-01-01;PROG_WORK_DEP;Department work programme;Programma di lavoro del servizio
-http://publications.europa.eu/resource/authority/resource-type/PROP_ACT;false;;1952-07-24;PROP_ACT;Proposal for an act;Proposta di atto
-http://publications.europa.eu/resource/authority/resource-type/PROP_ACT_LEGIS;false;;1993-11-01;PROP_ACT_LEGIS;Proposal for a legislative act;Proposta di atto legislativo
-http://publications.europa.eu/resource/authority/resource-type/PROP_AMEND;false;;2002-02-12;PROP_AMEND;Amendments to the proposal;Modifiche della proposta
-http://publications.europa.eu/resource/authority/resource-type/PROP_COMPOS;false;;1987-07-01;PROP_COMPOS;Proposal for a common position;Proposta di posizione comune
-http://publications.europa.eu/resource/authority/resource-type/PROP_DEC;false;;1952-07-24;PROP_DEC;Proposal for a decision;Proposta di decisione
-http://publications.europa.eu/resource/authority/resource-type/PROP_DECLAR;false;;1952-07-24;PROP_DECLAR;Proposal for a declaration;Proposta di dichiarazione
-http://publications.europa.eu/resource/authority/resource-type/PROP_DEC_FRAMW;false;;1987-07-01;PROP_DEC_FRAMW;Proposal for a framework decision;Proposta di decisione quadro del Consiglio
-http://publications.europa.eu/resource/authority/resource-type/PROP_DEC_IMPL;false;;2009-12-01;PROP_DEC_IMPL;Proposal for an implementing decision;Proposta di decisione di esecuzione
-http://publications.europa.eu/resource/authority/resource-type/PROP_DEC_NO_ADDRESSEE;true;2009-11-30;1952-07-24;PROP_DEC_NO_ADDRESSEE;Proposal for a decision without addressee;Proposta di decisione senza destinatario
-http://publications.europa.eu/resource/authority/resource-type/PROP_DIR;false;;1952-07-24;PROP_DIR;Proposal for a directive;Proposta di direttiva
-http://publications.europa.eu/resource/authority/resource-type/PROP_DIR_IMPL;false;;2009-12-01;PROP_DIR_IMPL;Proposal for an implementing directive;Proposta di direttiva di esecuzione
-http://publications.europa.eu/resource/authority/resource-type/PROP_DRAFT;false;;1952-07-24;PROP_DRAFT;Draft proposal;Progetto di proposta
-http://publications.europa.eu/resource/authority/resource-type/PROP_JOINT_ACTION;false;;2009-12-01;PROP_JOINT_ACTION;Proposal for a joint action;Proposta di azione comune
-http://publications.europa.eu/resource/authority/resource-type/PROP_OPIN;false;;2013-05-21;PROP_OPIN;Proposal for an opinion;Proposta di parere
-http://publications.europa.eu/resource/authority/resource-type/PROP_RECO;false;;1952-07-24;PROP_RECO;Proposal for a recommendation;Proposta di raccomandazione
-http://publications.europa.eu/resource/authority/resource-type/PROP_REG;false;;1952-07-24;PROP_REG;Proposal for a regulation;Proposta di regolamento
-http://publications.europa.eu/resource/authority/resource-type/PROP_REG_IMPL;false;;2009-12-01;PROP_REG_IMPL;Proposal for an implementing regulation;Proposta di regolamento di esecuzione
-http://publications.europa.eu/resource/authority/resource-type/PROP_RES;false;;1952-07-24;PROP_RES;Proposal for a resolution;Proposta di risoluzione
-http://publications.europa.eu/resource/authority/resource-type/PROT;false;;1952-07-24;PROT;Protocol;Protocollo
-http://publications.europa.eu/resource/authority/resource-type/PROT_DRAFT;false;;1952-07-24;PROT_DRAFT;Draft protocol;Progetto di protocollo
-http://publications.europa.eu/resource/authority/resource-type/PUB_GEN;false;;1952-07-24;PUB_GEN;General publications;Pubblicazioni di carattere generale
-http://publications.europa.eu/resource/authority/resource-type/QUESTIONNAIRE;false;;2015-01-01;QUESTIONNAIRE;Questionnaire;Questionario
-http://publications.europa.eu/resource/authority/resource-type/QUEST_ORAL;false;;1952-07-24;QUEST_ORAL;Oral question;Interrogazione orale
-http://publications.europa.eu/resource/authority/resource-type/QUEST_TIME;false;;1952-07-24;QUEST_TIME;Question at question time;Interrogazione durante il tempo delle interrogazioni
-http://publications.europa.eu/resource/authority/resource-type/QUEST_WRITTEN;false;;1952-07-24;QUEST_WRITTEN;Written question;Interrogazione scritta
-http://publications.europa.eu/resource/authority/resource-type/Q_AND_A;false;;2012-01-01;Q_AND_A;Questions and answers;Domande e risposte
-http://publications.europa.eu/resource/authority/resource-type/RECO;false;;1952-07-24;RECO;Recommendation;Raccomandazione
-http://publications.europa.eu/resource/authority/resource-type/RECO_ADOPT_INTERNATION;false;;1952-07-24;RECO_ADOPT_INTERNATION;Recommendation adopted by bodies created by international agreements;Raccomandazione adottata da organismi creati da accordi internazionali
-http://publications.europa.eu/resource/authority/resource-type/RECO_DEC;false;;1987-07-01;RECO_DEC;Recommendation for a decision;Raccomandazione di decisione
-http://publications.europa.eu/resource/authority/resource-type/RECO_DIR;false;;1952-07-24;RECO_DIR;Recommendation for a directive;Raccomandazione di direttiva
-http://publications.europa.eu/resource/authority/resource-type/RECO_DRAFT;false;;1952-07-24;RECO_DRAFT;Draft recommendation;Progetto di raccomandazione
-http://publications.europa.eu/resource/authority/resource-type/RECO_OPIN;false;;1987-07-01;RECO_OPIN;Recommendation for an opinion;Raccomandazione di parere
-http://publications.europa.eu/resource/authority/resource-type/RECO_RECO;false;;1987-07-01;RECO_RECO;Recommendation for a recommendation;Raccomandazione di raccomandazione
-http://publications.europa.eu/resource/authority/resource-type/RECO_REG;false;;1952-07-24;RECO_REG;Recommendation for a regulation;Raccomandazione di regolamento
-http://publications.europa.eu/resource/authority/resource-type/RECO_RES;false;;1952-07-24;RECO_RES;Recommendation for a resolution;Raccomandazione di risoluzione
-http://publications.europa.eu/resource/authority/resource-type/RECRUIT;false;;1967-07-01;RECRUIT;Recruitment;Assunzione
-http://publications.europa.eu/resource/authority/resource-type/REFDATA_ASSET;false;;2014-05-15;REFDATA_ASSET;Reference data asset;Risorsa di dati di riferimento
-http://publications.europa.eu/resource/authority/resource-type/REFDATA_ASSET_DOC;false;;2014-05-15;REFDATA_ASSET_DOC;Reference data asset documentation;Documentazione della risorsa di dati di riferimento
-http://publications.europa.eu/resource/authority/resource-type/REFDATA_PUB;false;;2014-05-15;REFDATA_PUB;Reference data publication;Pubblicazione dei dati di riferimento
-http://publications.europa.eu/resource/authority/resource-type/REFDATA_PUB_DOC;false;;2014-05-15;REFDATA_PUB_DOC;Reference data publication documentation;Documentazione della pubblicazione dei dati di riferimento
-http://publications.europa.eu/resource/authority/resource-type/REFERRAL_LET;false;;1952-07-24;REFERRAL_LET;Referral letter;Lettera di consultazione
-http://publications.europa.eu/resource/authority/resource-type/REG;false;;1952-07-24;REG;Regulation;Regolamento
-http://publications.europa.eu/resource/authority/resource-type/REG_ADOPT_INTERNATION;false;;1952-07-24;REG_ADOPT_INTERNATION;Regulation adopted by bodies created by international agreements;Regolamento adottato da organismi creati da accordi internazionali
-http://publications.europa.eu/resource/authority/resource-type/REG_DEL;false;;2009-12-01;REG_DEL;Delegated regulation;Regolamento delegato
-http://publications.europa.eu/resource/authority/resource-type/REG_DEL_DRAFT;false;;2009-12-01;REG_DEL_DRAFT;Draft delegated regulation;Progetto di regolamento delegato
-http://publications.europa.eu/resource/authority/resource-type/REG_DRAFT;false;;1952-07-24;REG_DRAFT;Draft regulation;Progetto di regolamento
-http://publications.europa.eu/resource/authority/resource-type/REG_FINANC;false;;1952-07-24;REG_FINANC;Financial regulation;Regolamento finanziario
-http://publications.europa.eu/resource/authority/resource-type/REG_IMPL;false;;2009-12-01;REG_IMPL;Implementing regulation;Regolamento di esecuzione
-http://publications.europa.eu/resource/authority/resource-type/REG_IMPL_DRAFT;false;;2009-12-01;REG_IMPL_DRAFT;Draft implementing regulation;Progetto di regolamento di esecuzione
-http://publications.europa.eu/resource/authority/resource-type/REPLY_OPIN_NP;false;;2009-12-01;REPLY_OPIN_NP;Reply to national Parliaments’ opinion;Risposta a un parere dei Parlamenti nazionali
-http://publications.europa.eu/resource/authority/resource-type/REPORT;false;;1952-07-24;REPORT;Report;Relazione
-http://publications.europa.eu/resource/authority/resource-type/REPORT_AAR;false;;1993-01-01;REPORT_AAR;Annual activity report;Relazione annuale di attività
-http://publications.europa.eu/resource/authority/resource-type/REPORT_ANNUAL;false;;1952-07-24;REPORT_ANNUAL;Annual report;Relazione annuale
-http://publications.europa.eu/resource/authority/resource-type/REPORT_ANNUAL_BUDGET;false;;1952-07-24;REPORT_ANNUAL_BUDGET;Annual report on the EU general budget;Relazione annuale sul bilancio generale dell'UE
-http://publications.europa.eu/resource/authority/resource-type/REPORT_ANNUAL_DAS;false;;2009-12-01;REPORT_ANNUAL_DAS;Annual report with the statement of assurance;Relazione annuale con la dichiarazione di affidabilità
-http://publications.europa.eu/resource/authority/resource-type/REPORT_ANNUAL_EDF;false;;2009-12-01;REPORT_ANNUAL_EDF;Annual report on the activities funded by the European Development Fund;Relazione annuale sulle attività finanziate dal Fondo europeo di sviluppo
-http://publications.europa.eu/resource/authority/resource-type/REPORT_ANNUAL_MAN_PERFORM;false;;2015-01-01;REPORT_ANNUAL_MAN_PERFORM;Annual management and performance report;Relazione annuale sulla gestione e il rendimento
-http://publications.europa.eu/resource/authority/resource-type/REPORT_ANNUAL_SPECIF;false;;1952-07-24;REPORT_ANNUAL_SPECIF;Specific annual report;Relazione annuale specifica
-http://publications.europa.eu/resource/authority/resource-type/REPORT_PERIOD;false;;1952-07-24;REPORT_PERIOD;Periodic report;Prospetto periodico
-http://publications.europa.eu/resource/authority/resource-type/REPORT_PROGRESS;false;;2015-01-01;REPORT_PROGRESS;Progress report;Relazione sullo stato di avanzamento dei lavori
-http://publications.europa.eu/resource/authority/resource-type/REPORT_SEMEST;false;;1952-07-24;REPORT_SEMEST;Six-monthly report;Relazione semestrale
-http://publications.europa.eu/resource/authority/resource-type/REPORT_SPECIAL;false;;1952-07-24;REPORT_SPECIAL;Special report;Relazione speciale
-http://publications.europa.eu/resource/authority/resource-type/REPORT_SPECIF;false;;1952-07-24;REPORT_SPECIF;Specific report;Relazione specifica
-http://publications.europa.eu/resource/authority/resource-type/REPORT_VALID;false;;1952-07-24;REPORT_VALID;Validation report;Rapporto di convalida
-http://publications.europa.eu/resource/authority/resource-type/REQ_OPIN;false;;2015-01-01;REQ_OPIN;Request for an opinion;Richiesta di parere
-http://publications.europa.eu/resource/authority/resource-type/RES;false;;1952-07-24;RES;Resolution;Risoluzione
-http://publications.europa.eu/resource/authority/resource-type/RES_DRAFT;false;;1952-07-24;RES_DRAFT;Draft resolution;Progetto di risoluzione
-http://publications.europa.eu/resource/authority/resource-type/RES_LEGIS;false;;1987-01-01;RES_LEGIS;Legislative resolution;Risoluzione legislativa
-http://publications.europa.eu/resource/authority/resource-type/ROADMAP;true;2021-02-23;2009-12-01;ROADMAP;Roadmap;Tabelle di marcia
-http://publications.europa.eu/resource/authority/resource-type/ROADMAP_EFC;true;2021-02-23;2009-12-01;ROADMAP_EFC;Evaluation roadmap;Tabella di marcia della valutazione
-http://publications.europa.eu/resource/authority/resource-type/RULING;false;;1952-07-24;RULING;Ruling;Deliberazione
-http://publications.europa.eu/resource/authority/resource-type/SCHEDULE;false;;2015-01-01;SCHEDULE;Schedule;Programma
-http://publications.europa.eu/resource/authority/resource-type/SIGN_OJ_ATC;false;;2014-03-31;SIGN_OJ_ATC;Signature file for the authentic Official Journal;File per la firma per la Gazzetta ufficiale autentica
-http://publications.europa.eu/resource/authority/resource-type/SPEECH;false;;2015-01-01;SPEECH;Speech;Discorso
-http://publications.europa.eu/resource/authority/resource-type/STAKEHOLDER_FEEDBACK;false;;2015-05-19;STAKEHOLDER_FEEDBACK;Stakeholder feedback;Osservazioni delle parti interessate
-http://publications.europa.eu/resource/authority/resource-type/STAT;false;;2009-12-01;STAT;Statement;Dichiarazione
-http://publications.europa.eu/resource/authority/resource-type/STATUTE;false;;1952-07-24;STATUTE;Statute;Statuto
-http://publications.europa.eu/resource/authority/resource-type/STAT_REASON;false;;1967-07-01;STAT_REASON;Statement of reasons;Motivazione
-http://publications.europa.eu/resource/authority/resource-type/STAT_REASON_DRAFT;false;;1967-07-01;STAT_REASON_DRAFT;Draft statement of reasons;Progetto di motivazione
-http://publications.europa.eu/resource/authority/resource-type/STRATEGY_COMMON;false;;1999-05-01;STRATEGY_COMMON;Common strategy;Strategia comune
-http://publications.europa.eu/resource/authority/resource-type/STU;false;;1952-07-24;STU;Study;Studio
-http://publications.europa.eu/resource/authority/resource-type/STU_ANNEX;false;;1952-07-24;STU_ANNEX;Annex to a study;Allegato a uno studio
-http://publications.europa.eu/resource/authority/resource-type/STU_EVL;false;;1952-07-24;STU_EVL;Evaluation study;Studio valutativo
-http://publications.europa.eu/resource/authority/resource-type/STU_EVL_ANNEX;false;;1952-07-24;STU_EVL_ANNEX;Annex to an evaluation study;Allegato a uno studio valutativo
-http://publications.europa.eu/resource/authority/resource-type/STU_EVL_SUM_EXE;false;;1952-07-24;STU_EVL_SUM_EXE;Executive summary of an evaluation study;Sintesi di uno studio valutativo
-http://publications.europa.eu/resource/authority/resource-type/STU_SUM_EXE;false;;1952-07-24;STU_SUM_EXE;Executive summary of a study;Sintesi di uno studio
-http://publications.europa.eu/resource/authority/resource-type/SUM;false;;1952-07-24;SUM;Summary;Sintesi
-http://publications.europa.eu/resource/authority/resource-type/SUM_JUR;false;;1952-07-24;SUM_JUR;Summary;Massime
-http://publications.europa.eu/resource/authority/resource-type/SWD;false;;2009-12-01;SWD;Staff working document;Documento di lavoro dei servizi
-http://publications.europa.eu/resource/authority/resource-type/SYNOPSIS_REPORT_CONSULT;false;;2015-05-19;SYNOPSIS_REPORT_CONSULT;Synopsis report of the public consultation;Relazione di sintesi della consultazione pubblica
-http://publications.europa.eu/resource/authority/resource-type/TENTAT_AGENDA_COM_MEETING;false;;2021-06-16;TENTAT_AGENDA_COM_MEETING;Tentative agenda for forthcoming Commission meeting;Ordine del giorno provvisorio della prossima riunione della Commissione
-http://publications.europa.eu/resource/authority/resource-type/THIRDPARTY_PROCEED;false;;1959-07-12;THIRDPARTY_PROCEED;Third-party proceedings;Opposizione di terzo
-http://publications.europa.eu/resource/authority/resource-type/TIMETABLE_COM_MEETING;false;;2021-06-16;TIMETABLE_COM_MEETING;Timetable of Commission meetings;Calendario delle riunioni della Commissione
-http://publications.europa.eu/resource/authority/resource-type/TOC_OJ;false;;1952-07-24;TOC_OJ;Contents;Sommario
-http://publications.europa.eu/resource/authority/resource-type/TOC_OJ_SPECIAL;false;;1972-01-01;TOC_OJ_SPECIAL;Contents of the special edition of the Official Journal;Contenuto dell’edizione speciale della Gazzetta ufficiale
-http://publications.europa.eu/resource/authority/resource-type/TRANSFER_APPROPR;false;;1952-07-24;TRANSFER_APPROPR;Transfer of appropriations;Trasferimento di crediti
-http://publications.europa.eu/resource/authority/resource-type/TREATY;false;;1952-07-24;TREATY;Treaty;Trattato
-http://publications.europa.eu/resource/authority/resource-type/TREATY_DRAFT;false;;1952-07-24;TREATY_DRAFT;Draft treaty;Progetto di trattato
-http://publications.europa.eu/resource/authority/resource-type/TWD;false;;2015-01-01;TWD;Technical working document;Documento tecnico di lavoro
-http://publications.europa.eu/resource/authority/resource-type/VERBATIM_REPORT;false;;1952-07-23;VERBATIM_REPORT;Verbatim report;Resoconto integrale
-http://publications.europa.eu/resource/authority/resource-type/VERBATIM_REPORT_PROCEED;false;;1952-07-23;VERBATIM_REPORT_PROCEED;Verbatim report of proceedings;Resoconto integrale delle discussioni
-http://publications.europa.eu/resource/authority/resource-type/VIEW;false;;1952-07-24;VIEW;View;Presa di posizione
-http://publications.europa.eu/resource/authority/resource-type/VIEWPOINT;false;;2009-12-01;VIEWPOINT;Viewpoint;Punto di vista
-http://publications.europa.eu/resource/authority/resource-type/VIEW_AG;false;;1952-07-24;VIEW_AG;View of the Advocate General;Presa di posizione dell'avvocato generale
-http://publications.europa.eu/resource/authority/resource-type/VOTING_RES;false;;2006-07-24;VOTING_RES;Voting result;Risultato della votazione
-http://publications.europa.eu/resource/authority/resource-type/WARN;false;;2010-12-16;WARN;Warning;Segnalazione
-http://publications.europa.eu/resource/authority/resource-type/WEBPAGE;false;;1991-08-06;WEBPAGE;Webpage;Pagina web
-http://publications.europa.eu/resource/authority/resource-type/WEBSITE;false;;1991-08-06;WEBSITE;Website;Sito web
-http://publications.europa.eu/resource/authority/resource-type/WEBSITE_ARCH;false;;1991-08-06;WEBSITE_ARCH;Archived website;Sito web archiviato
-http://publications.europa.eu/resource/authority/resource-type/WHOISWHO_ASSET;false;;2014-05-15;WHOISWHO_ASSET;Whoiswho asset;Risorsa del Whoiswho
-http://publications.europa.eu/resource/authority/resource-type/WITHD_AGREE;false;;2007-12-13;WITHD_AGREE;Withdrawal agreement;Accordo di recesso
-http://publications.europa.eu/resource/authority/resource-type/WORK_BUNDLE;false;;2013-03-05;WORK_BUNDLE;Work bundle;Pacchetto di lavori
-http://publications.europa.eu/resource/authority/resource-type/WORK_DOC;false;;2009-12-01;WORK_DOC;Working document;Documento di lavoro
+url,deprecated,valid_until,valid_from,id,label_en,label_it
+http://publications.europa.eu/resource/authority/resource-type/ABSTRACT_JUR,false,,1994-01-01,ABSTRACT_JUR,Abstract,Sunto
+http://publications.europa.eu/resource/authority/resource-type/ACKNOWLEDGE_RECP,false,,1952-07-24,ACKNOWLEDGE_RECP,Acknowledgement receipt,Ricevuta di ritorno
+http://publications.europa.eu/resource/authority/resource-type/ACT,false,,1952-07-24,ACT,Act,Atto
+http://publications.europa.eu/resource/authority/resource-type/ACTION_DOC,false,,2015-01-01,ACTION_DOC,Action document,Documento d’azione
+http://publications.europa.eu/resource/authority/resource-type/ACTS_ADOPT,false,,2013-07-12,ACTS_ADOPT,Adopted acts,Atti adottati
+http://publications.europa.eu/resource/authority/resource-type/ACTS_LEGIS_INSTRUMENTS,false,,2021-06-16,ACTS_LEGIS_INSTRUMENTS,Legislative acts and other instruments,Atti legislativi e altri strumenti
+http://publications.europa.eu/resource/authority/resource-type/ACT_ADOPT_INTERNATION,false,,1952-07-24,ACT_ADOPT_INTERNATION,Acts adopted by bodies created by international agreements,Atti adottati da organismi creati da accordi internazionali
+http://publications.europa.eu/resource/authority/resource-type/ACT_DEL,false,,2009-12-01,ACT_DEL,Delegated act,Atto delegato
+http://publications.europa.eu/resource/authority/resource-type/ACT_DEL_DRAFT,false,,2009-12-01,ACT_DEL_DRAFT,Draft delegated act,Progetto di atto delegato
+http://publications.europa.eu/resource/authority/resource-type/ACT_DRAFT,false,,1952-07-24,ACT_DRAFT,Draft act,Progetto di atto
+http://publications.europa.eu/resource/authority/resource-type/ACT_IMPL_DRAFT,false,,2009-12-01,ACT_IMPL_DRAFT,Draft implementing act,Progetto di atto di esecuzione
+http://publications.europa.eu/resource/authority/resource-type/ACT_LEGIS,false,,1952-07-24,ACT_LEGIS,Legislative acts,Atti legislativi
+http://publications.europa.eu/resource/authority/resource-type/ACT_LEGIS_NO,false,,1952-07-24,ACT_LEGIS_NO,Non-legislative acts,Atti non legislativi
+http://publications.europa.eu/resource/authority/resource-type/ACT_OTHER,false,,1952-07-24,ACT_OTHER,Other acts,Altri atti
+http://publications.europa.eu/resource/authority/resource-type/ACT_PREP,false,,1952-07-24,ACT_PREP,Preparatory act,Atto preparatorio
+http://publications.europa.eu/resource/authority/resource-type/ADD,false,,1952-07-24,ADD,Addendum,Addendum
+http://publications.europa.eu/resource/authority/resource-type/ADOPT_TEXT,false,,2009-12-01,ADOPT_TEXT,Texts adopted,Testi approvati
+http://publications.europa.eu/resource/authority/resource-type/AGENDA,false,,2015-01-01,AGENDA,Agenda,Ordine del giorno
+http://publications.europa.eu/resource/authority/resource-type/AGENDA_COM_MEETING,false,,2021-06-16,AGENDA_COM_MEETING,Agenda of Commission meeting,Ordine del giorno della riunione della Commissione
+http://publications.europa.eu/resource/authority/resource-type/AGREE,false,,1952-07-24,AGREE,Agreement,Accordo
+http://publications.europa.eu/resource/authority/resource-type/AGREE_ADDIT,false,,1952-07-24,AGREE_ADDIT,Additional agreement,Clausola aggiuntiva
+http://publications.europa.eu/resource/authority/resource-type/AGREE_AMEND,false,,1952-07-24,AGREE_AMEND,Amendment to an agreement,Emendamento di un accordo
+http://publications.europa.eu/resource/authority/resource-type/AGREE_EUMS,false,,1952-07-24,AGREE_EUMS,Agreement between Member States,Accordo tra Stati membri
+http://publications.europa.eu/resource/authority/resource-type/AGREE_EUMS_DRAFT,false,,1952-07-24,AGREE_EUMS_DRAFT,Draft agreement between Member States,Progetto di accordo tra Stati membri
+http://publications.europa.eu/resource/authority/resource-type/AGREE_INTERINSTIT,false,,1987-07-01,AGREE_INTERINSTIT,Interinstitutional agreement,Accordo interistituzionale
+http://publications.europa.eu/resource/authority/resource-type/AGREE_INTERINSTIT_DRAFT,false,,1987-07-01,AGREE_INTERINSTIT_DRAFT,Draft interinstitutional agreement,Progetto di accordo interistituzionale
+http://publications.europa.eu/resource/authority/resource-type/AGREE_INTERNAL,false,,1952-07-24,AGREE_INTERNAL,Internal agreement,Accordo interno
+http://publications.europa.eu/resource/authority/resource-type/AGREE_INTERNATION,false,,1952-07-24,AGREE_INTERNATION,International agreement,Accordo internazionale
+http://publications.europa.eu/resource/authority/resource-type/AGREE_INTERNATION_DRAFT,false,,1952-07-24,AGREE_INTERNATION_DRAFT,Draft international agreement,Progetto di accordo internazionale
+http://publications.europa.eu/resource/authority/resource-type/AGREE_PROT,false,,1952-07-24,AGREE_PROT,Protocol to the agreement,Protocollo all'accordo
+http://publications.europa.eu/resource/authority/resource-type/AGREE_UBEREINKOM,true,1952-07-24,1952-07-23,AGREE_UBEREINKOM,Agreement between Member States,Accordo tra Stati membri
+http://publications.europa.eu/resource/authority/resource-type/AGREE_UBEREINKOM_DRAFT,true,1952-07-24,1952-07-23,AGREE_UBEREINKOM_DRAFT,Draft agreement,Progetto di accordo
+http://publications.europa.eu/resource/authority/resource-type/AGREE_VEREINB,false,,1952-07-24,AGREE_VEREINB,Agreement,Accordo
+http://publications.europa.eu/resource/authority/resource-type/AID_STATE,false,,1952-07-24,AID_STATE,State aid,Aiuto di Stato
+http://publications.europa.eu/resource/authority/resource-type/AMEND_PROP,false,,2010-01-12,AMEND_PROP,Amended proposal,Proposta modificata
+http://publications.europa.eu/resource/authority/resource-type/AMEND_PROP_DEC,false,,2009-12-01,AMEND_PROP_DEC,Amended proposal for a decision,Proposta modificata di decisione
+http://publications.europa.eu/resource/authority/resource-type/AMEND_PROP_DIR,false,,2009-12-01,AMEND_PROP_DIR,Amended proposal for a directive,Proposta modificata di direttiva
+http://publications.europa.eu/resource/authority/resource-type/AMEND_PROP_REG,false,,2009-12-01,AMEND_PROP_REG,Amended proposal for a regulation,Proposta modificata di regolamento
+http://publications.europa.eu/resource/authority/resource-type/ANNEX,false,,1952-07-24,ANNEX,Annex,Allegato
+http://publications.europa.eu/resource/authority/resource-type/ANNEX_CONTRIB_CONSULT,false,,2015-05-19,ANNEX_CONTRIB_CONSULT,Documents annexed to contributions,Documenti allegati ai contributi
+http://publications.europa.eu/resource/authority/resource-type/ANNEX_SUM,false,,1952-07-24,ANNEX_SUM,Annex summary,Sintesi dell’allegato
+http://publications.europa.eu/resource/authority/resource-type/ANNOUNC,false,,1952-07-24,ANNOUNC,Announcements,Avvisi
+http://publications.europa.eu/resource/authority/resource-type/ANNOUNC_NEWS,false,,2015-01-01,ANNOUNC_NEWS,News announcement,Annuncio
+http://publications.europa.eu/resource/authority/resource-type/ARCHIVE_FILE,false,,1952-07-24,ARCHIVE_FILE,Archive file,Fascicolo di archivio
+http://publications.europa.eu/resource/authority/resource-type/ARRANG,false,,1952-07-24,ARRANG,Arrangement,Intesa
+http://publications.europa.eu/resource/authority/resource-type/ARTICLE_NEWS,false,,2015-01-01,ARTICLE_NEWS,News article,Articolo
+http://publications.europa.eu/resource/authority/resource-type/ASSENT,false,,1987-07-01,ASSENT,Assent,Parere conforme
+http://publications.europa.eu/resource/authority/resource-type/ASSENT_REQ,false,,2009-12-01,ASSENT_REQ,Request for assent,Richiesta di parere conforme
+http://publications.europa.eu/resource/authority/resource-type/BACKGROUND_DOC,false,,2015-05-19,BACKGROUND_DOC,Background document,Documento di riferimento
+http://publications.europa.eu/resource/authority/resource-type/BALANCE,false,,1952-07-24,BALANCE,Balance,Bilancio
+http://publications.europa.eu/resource/authority/resource-type/BRIEFING_CONSIL,false,,1952-07-24,BRIEFING_CONSIL,Council briefing,Nota informativa del Consiglio
+http://publications.europa.eu/resource/authority/resource-type/BUDGET,false,,1952-07-24,BUDGET,Budget,Bilancio
+http://publications.europa.eu/resource/authority/resource-type/BUDGET_DISCHARGE,false,,1958-01-01,BUDGET_DISCHARGE,Budgetary discharge,Discarico di bilancio
+http://publications.europa.eu/resource/authority/resource-type/BUDGET_DRAFT,false,,1952-07-24,BUDGET_DRAFT,Draft budget,Progetto di bilancio
+http://publications.europa.eu/resource/authority/resource-type/BUDGET_DRAFT_PRELIM,false,,1952-07-24,BUDGET_DRAFT_PRELIM,Preliminary draft budget,Progetto preliminare di bilancio
+http://publications.europa.eu/resource/authority/resource-type/BUDGET_DRAFT_PRELIM_SUPPL,false,,1952-07-24,BUDGET_DRAFT_PRELIM_SUPPL,Preliminary draft supplementary budget,Progetto preliminare di bilancio suppletivo e rettificativo
+http://publications.europa.eu/resource/authority/resource-type/BUDGET_DRAFT_SUPPL_AMEND,false,,1952-07-24,BUDGET_DRAFT_SUPPL_AMEND,Draft supplementary and amending budget,Progetto di bilancio rettificativo e suppletivo
+http://publications.europa.eu/resource/authority/resource-type/BUDGET_SUPPL_AMEND,false,,1952-07-24,BUDGET_SUPPL_AMEND,Supplementary and amending budget,Bilancio rettificativo e suppletivo
+http://publications.europa.eu/resource/authority/resource-type/CALL_EXPR_INTEREST,false,,1987-07-01,CALL_EXPR_INTEREST,Call for expression of interest,Invito a manifestare interesse
+http://publications.europa.eu/resource/authority/resource-type/CALL_FOR_EVIDENCE,false,,2021-02-24,CALL_FOR_EVIDENCE,Call for evidence for an initiative,Invito a presentare contributi per un’iniziativa
+http://publications.europa.eu/resource/authority/resource-type/CALL_PROP,false,,1987-07-01,CALL_PROP,Call for proposals,Invito a presentare proposte
+http://publications.europa.eu/resource/authority/resource-type/CASE,false,,1952-07-24,CASE,Case,Causa
+http://publications.europa.eu/resource/authority/resource-type/CASE_LAW,false,,1952-07-24,CASE_LAW,Reports of cases,Raccolta della Giurisprudenza
+http://publications.europa.eu/resource/authority/resource-type/CENSURE,false,,1987-07-01,CENSURE,Censure,Censura
+http://publications.europa.eu/resource/authority/resource-type/CENSURE_RJ,false,,1987-07-01,CENSURE_RJ,Rejected motion of censure,Mozione di censura respinta
+http://publications.europa.eu/resource/authority/resource-type/CENSURE_WDW,false,,1987-07-01,CENSURE_WDW,Withdrawn motion of censure,Mozione di censura ritirata
+http://publications.europa.eu/resource/authority/resource-type/CFE_COMBINED,false,,2021-02-24,CFE_COMBINED,Call for evidence for an evaluation and impact assessment run in parallel,Invito a presentare contributi per una valutazione e una valutazione d’impatto condotte in parallelo
+http://publications.europa.eu/resource/authority/resource-type/CFE_EVL_FC,false,,2021-02-24,CFE_EVL_FC,Call for evidence for an evaluation or fitness check,Invito a presentare contributi per una valutazione o un controllo dell’adeguatezza
+http://publications.europa.eu/resource/authority/resource-type/CFE_IMPACT_ASSESS,false,,2021-02-24,CFE_IMPACT_ASSESS,Call for evidence for an impact assessment,Invito a presentare contributi per una valutazione d’impatto
+http://publications.europa.eu/resource/authority/resource-type/CITIZ_SUM,false,,1987-07-01,CITIZ_SUM,Citizens’ summary,Sintesi per i cittadini
+http://publications.europa.eu/resource/authority/resource-type/COMMUNIC,false,,1952-07-24,COMMUNIC,Communication,Comunicazione
+http://publications.europa.eu/resource/authority/resource-type/COMMUNIC_DRAFT,false,,1952-07-24,COMMUNIC_DRAFT,Draft communication,Progetto di comunicazione
+http://publications.europa.eu/resource/authority/resource-type/COMMUNIC_POSIT,false,,1987-07-01,COMMUNIC_POSIT,Communication concerning the position of the Council,Comunicazione concernente la posizione del Consiglio
+http://publications.europa.eu/resource/authority/resource-type/COMPOS,false,,1987-07-01,COMPOS,Common position,Posizione comune
+http://publications.europa.eu/resource/authority/resource-type/COMPOS_ACCEPT,false,,1987-07-01,COMPOS_ACCEPT,Acceptance of common position,Posizione comune approvata
+http://publications.europa.eu/resource/authority/resource-type/COMPOS_AMEND,false,,1987-07-01,COMPOS_AMEND,Amendment to common position,Modifica posizione comune
+http://publications.europa.eu/resource/authority/resource-type/COMPOS_DRAFT,false,,1987-07-01,COMPOS_DRAFT,Draft common position,Progetto di posizione comune
+http://publications.europa.eu/resource/authority/resource-type/COMPOS_RJ,false,,1987-07-01,COMPOS_RJ,Rejection of the common position,Posizione comune respinta
+http://publications.europa.eu/resource/authority/resource-type/COMPOS_RJ_CONFIRM,false,,1987-07-01,COMPOS_RJ_CONFIRM,Confirmation of the rejection of the common position,Conferma del rigetto della posizione comune
+http://publications.europa.eu/resource/authority/resource-type/COM_ACTIV_WEEK,false,,2012-01-01,COM_ACTIV_WEEK,Commissioners’ weekly activities,Attività settimanali dei commissari
+http://publications.europa.eu/resource/authority/resource-type/CONCL,false,,1952-07-24,CONCL,Council conclusions,Conclusioni del Consiglio
+http://publications.europa.eu/resource/authority/resource-type/CONSULT_STRATEGY,false,,2015-05-19,CONSULT_STRATEGY,Consultation strategy,Strategia di consultazione
+http://publications.europa.eu/resource/authority/resource-type/CONS_TEXT,false,,1992-12-12,CONS_TEXT,Consolidated text,Testo consolidato
+http://publications.europa.eu/resource/authority/resource-type/CONTRIB_CONSULT,false,,2015-05-19,CONTRIB_CONSULT,Contributions to the consultation,Contributi alla consultazione
+http://publications.europa.eu/resource/authority/resource-type/CONVENTION,false,,1952-07-24,CONVENTION,Convention,Convenzione
+http://publications.europa.eu/resource/authority/resource-type/CORRIGENDUM,false,,1952-07-24,CORRIGENDUM,Corrigendum,Rettifica
+http://publications.europa.eu/resource/authority/resource-type/DATPRO,false,,1952-07-24,DATPRO,Provisional data,Dati provvisori
+http://publications.europa.eu/resource/authority/resource-type/DAY_NOTE_DEL,false,,2021-06-16,DAY_NOTE_DEL,Day note of delegation procedures,Nota giornaliera delle procedure di delega
+http://publications.europa.eu/resource/authority/resource-type/DAY_NOTE_EMPOWER,false,,2021-06-16,DAY_NOTE_EMPOWER,Day note of empowerment procedures,Nota giornaliera delle procedure di abilitazione
+http://publications.europa.eu/resource/authority/resource-type/DAY_NOTE_WRITTEN,false,,2021-06-16,DAY_NOTE_WRITTEN,Day note of written procedures,Nota giornaliera delle procedure scritte
+http://publications.europa.eu/resource/authority/resource-type/DEC,false,,1952-07-24,DEC,Decision,Decisione
+http://publications.europa.eu/resource/authority/resource-type/DECLAR,false,,1952-07-24,DECLAR,Declaration,Dichiarazione
+http://publications.europa.eu/resource/authority/resource-type/DECLAR_DRAFT,false,,1952-07-24,DECLAR_DRAFT,Draft declaration,Progetto di dichiarazione
+http://publications.europa.eu/resource/authority/resource-type/DEC_ADOPT_INTERNATION,false,,1952-07-24,DEC_ADOPT_INTERNATION,Decision adopted by bodies created by international agreements,Decisione adottata da organismi creati da accordi internazionali
+http://publications.europa.eu/resource/authority/resource-type/DEC_DEL,false,,2009-12-01,DEC_DEL,Delegated decision,Decisione delegata
+http://publications.europa.eu/resource/authority/resource-type/DEC_DEL_DRAFT,false,,2009-12-01,DEC_DEL_DRAFT,Draft delegated decision,Progetto di decisione delegata
+http://publications.europa.eu/resource/authority/resource-type/DEC_DRAFT,false,,1952-07-24,DEC_DRAFT,Draft decision,Progetto di decisione
+http://publications.europa.eu/resource/authority/resource-type/DEC_ENTSCHEID,true,2010-11-30,1952-07-24,DEC_ENTSCHEID,Decision,Decisione
+http://publications.europa.eu/resource/authority/resource-type/DEC_FRAMW,false,,1987-07-01,DEC_FRAMW,Framework decision,Decisione quadro
+http://publications.europa.eu/resource/authority/resource-type/DEC_FRAMW_DRAFT,false,,1987-07-01,DEC_FRAMW_DRAFT,Draft framework decision,Progetto di decisione quadro
+http://publications.europa.eu/resource/authority/resource-type/DEC_IMPL,false,,2009-12-01,DEC_IMPL,Implementing decision,Decisione di esecuzione
+http://publications.europa.eu/resource/authority/resource-type/DEC_IMPL_DRAFT,false,,2009-12-01,DEC_IMPL_DRAFT,Draft implementing decision,Progetto di decisione di esecuzione
+http://publications.europa.eu/resource/authority/resource-type/DEC_NC,false,,2010-12-01,DEC_NC,Decision by national courts in the field of European Union law,Decisione di tribunali nazionali nell’ambito del diritto dell’Unione europea
+http://publications.europa.eu/resource/authority/resource-type/DEC_REVIEW,false,,1952-07-24,DEC_REVIEW,Decision to review,Decisione di riesame
+http://publications.europa.eu/resource/authority/resource-type/DIR,false,,1952-07-24,DIR,Directive,Direttiva
+http://publications.europa.eu/resource/authority/resource-type/DIR_DEL,false,,2009-12-01,DIR_DEL,Delegated directive,Direttiva delegata
+http://publications.europa.eu/resource/authority/resource-type/DIR_DEL_DRAFT,false,,2009-12-01,DIR_DEL_DRAFT,Draft delegated directive,Progetto di direttiva delegata
+http://publications.europa.eu/resource/authority/resource-type/DIR_DRAFT,false,,1952-07-24,DIR_DRAFT,Draft directive,Progetto di direttiva
+http://publications.europa.eu/resource/authority/resource-type/DIR_IMPL,false,,2009-12-01,DIR_IMPL,Implementing directive,Direttiva di esecuzione
+http://publications.europa.eu/resource/authority/resource-type/DIR_IMPL_DRAFT,false,,2009-12-01,DIR_IMPL_DRAFT,Draft implementing directive,Progetto di direttiva di esecuzione
+http://publications.europa.eu/resource/authority/resource-type/DOC_ADMIN_BUDG,false,,2021-06-16,DOC_ADMIN_BUDG,Document related to administrative/budgetary matter,Documento relativo a questioni amministrative / di bilancio
+http://publications.europa.eu/resource/authority/resource-type/DOC_COMPETENCE_CAB,false,,2021-06-16,DOC_COMPETENCE_CAB,Document related to the cabinets competence distribution,Documento relativo alla ripartizione delle competenze dei gabinetti
+http://publications.europa.eu/resource/authority/resource-type/DOC_CONTROL_INFRING,false,,2021-06-16,DOC_CONTROL_INFRING,Document related to infringements control,Documento relativo al controllo delle infrazioni
+http://publications.europa.eu/resource/authority/resource-type/DOC_STATE_AID,false,,2021-06-16,DOC_STATE_AID,Document related to state aid control,Documento relativo al controllo degli aiuti di Stato
+http://publications.europa.eu/resource/authority/resource-type/DOC_THIRD_BODIES,false,,2021-06-16,DOC_THIRD_BODIES,Document related to a meeting with the constitutional bodies of European/third country governments,Documento relativo a una riunione con gli organi costituzionali dei governi europei / di paesi terzi
+http://publications.europa.eu/resource/authority/resource-type/DRAFT_NATION_LEGIS,false,,1994-01-01,DRAFT_NATION_LEGIS,Draft national legislation,Progetto di atto legislativo nazionale
+http://publications.europa.eu/resource/authority/resource-type/EVL,false,,2007-03-22,EVL,Evaluation,Valutazione
+http://publications.europa.eu/resource/authority/resource-type/EVL_SUM_EXE,false,,2007-03-22,EVL_SUM_EXE,Executive summary of the evaluation,Sintesi della valutazione
+http://publications.europa.eu/resource/authority/resource-type/EXCH_INFO_EUMS,false,,2015-01-01,EXCH_INFO_EUMS,Member State information exchange,Scambio di informazioni tra Stati membri
+http://publications.europa.eu/resource/authority/resource-type/EXCH_LET,false,,1952-07-24,EXCH_LET,Exchange of letters,Scambio di lettere
+http://publications.europa.eu/resource/authority/resource-type/EXCH_RATE,false,,1987-07-01,EXCH_RATE,Exchange rate,Tassi di cambio
+http://publications.europa.eu/resource/authority/resource-type/EXCH_RATE_MRO,false,,1999-01-01,EXCH_RATE_MRO,Interest rate — euro exchange rates,Tasso di interesse – Tassi di cambio dell'euro
+http://publications.europa.eu/resource/authority/resource-type/EXPLANATORY_COUNCIL,false,,2021-06-16,EXPLANATORY_COUNCIL,Council explanatory,Nota esplicativa del Consiglio
+http://publications.europa.eu/resource/authority/resource-type/EXPL_MEMORANDUM,false,,1989-09-15,EXPL_MEMORANDUM,Explanatory memorandum,Relazione
+http://publications.europa.eu/resource/authority/resource-type/FACTSHEET,false,,2015-01-01,FACTSHEET,Factsheet,Scheda informativa
+http://publications.europa.eu/resource/authority/resource-type/FACT_SUM_REPORT_CONSULT,false,,2015-05-19,FACT_SUM_REPORT_CONSULT,Factual summary report of the public consultation,Relazione di sintesi della consultazione pubblica
+http://publications.europa.eu/resource/authority/resource-type/FC,false,,2012-12-12,FC,Fitness check,Controllo di adeguatezza
+http://publications.europa.eu/resource/authority/resource-type/FC_SUM_EXE,false,,2012-12-12,FC_SUM_EXE,Executive summary of the fitness check,Sintesi del vaglio di adeguatezza
+http://publications.europa.eu/resource/authority/resource-type/FORECAST,false,,2015-01-01,FORECAST,Forecast,Previsioni
+http://publications.europa.eu/resource/authority/resource-type/FORM_OJ_TOC,false,,1952-07-24,FORM_OJ_TOC,Request form for the table of contents of the Official Journal,Modulo di richiesta per l’indice della Gazzetta ufficiale
+http://publications.europa.eu/resource/authority/resource-type/FORM_PPF,false,,1952-07-24,FORM_PPF,Form for print production file,Modulo per il file di stampa per la produzione
+http://publications.europa.eu/resource/authority/resource-type/FORM_REQ_COMM_DOC,false,,2020-09-01,FORM_REQ_COMM_DOC,Request form for communication post about a document,Modulo di richiesta per pubblicare una comunicazione relativa a un documento
+http://publications.europa.eu/resource/authority/resource-type/FORM_REQ_COMM_OJ,false,,2020-09-01,FORM_REQ_COMM_OJ,Request form for communication post about Official Journal,Modulo di richiesta per pubblicare una comunicazione relativa alla Gazzetta ufficiale
+http://publications.europa.eu/resource/authority/resource-type/FORM_REQ_PRE_PRESS,false,,1952-07-24,FORM_REQ_PRE_PRESS,Request form for pre-press of publication,Modulo di richiesta per prestampa di pubblicazione
+http://publications.europa.eu/resource/authority/resource-type/FORM_REQ_PUB,false,,1952-07-24,FORM_REQ_PUB,Request form for publication,Modulo di richiesta per pubblicazione
+http://publications.europa.eu/resource/authority/resource-type/FORM_REQ_PUB_ACCEPT,false,,1952-07-24,FORM_REQ_PUB_ACCEPT,Request form for the acceptance of publication,Modulo di richiesta per accettazione di pubblicazione
+http://publications.europa.eu/resource/authority/resource-type/FORM_REQ_PUB_REFUS,false,,1952-07-24,FORM_REQ_PUB_REFUS,Request form for the refusal of publication,Modulo di richiesta per rifiuto di pubblicazione
+http://publications.europa.eu/resource/authority/resource-type/FORM_REQ_READY_PRESS,false,,1952-07-24,FORM_REQ_READY_PRESS,Request form for the ready-for-press of publication,Modulo di richiesta di visto-si-stampi per pubblicazione
+http://publications.europa.eu/resource/authority/resource-type/GARNISHEE_ORDER,false,,1962-03-13,GARNISHEE_ORDER,Attachment order,Pignoramento
+http://publications.europa.eu/resource/authority/resource-type/GLOSSARY,false,,2015-01-01,GLOSSARY,Glossary,Glossario
+http://publications.europa.eu/resource/authority/resource-type/GLOS_TERM,false,,1987-07-01,GLOS_TERM,Glossary term,Termine del glossario
+http://publications.europa.eu/resource/authority/resource-type/GUIDELINE,false,,1987-07-01,GUIDELINE,Guideline,Indirizzo
+http://publications.europa.eu/resource/authority/resource-type/GUIDELINE_GEN,false,,1987-07-01,GUIDELINE_GEN,General guidelines,Orientamenti generali
+http://publications.europa.eu/resource/authority/resource-type/GUIDELINE_LIGNES,false,,1987-07-01,GUIDELINE_LIGNES,Guideline,Linee guida
+http://publications.europa.eu/resource/authority/resource-type/IMPACT_ASSESS,false,,2009-12-01,IMPACT_ASSESS,Impact assessment,Valutazione dell’impatto
+http://publications.europa.eu/resource/authority/resource-type/IMPACT_ASSESS_INCEP,true,2021-02-23,2009-12-01,IMPACT_ASSESS_INCEP,Inception impact assessment,Valutazione d’impatto iniziale
+http://publications.europa.eu/resource/authority/resource-type/IMPACT_ASSESS_SUM,false,,2009-12-01,IMPACT_ASSESS_SUM,Summary of impact assessment,Sintesi della valutazione d'impatto
+http://publications.europa.eu/resource/authority/resource-type/IMPL_PLAN,false,,2012-12-12,IMPL_PLAN,Implementation plan,Piano di attuazione
+http://publications.europa.eu/resource/authority/resource-type/INFO,false,,1952-07-24,INFO,Information,Info
+http://publications.europa.eu/resource/authority/resource-type/INFO_COMMUNIC,false,,1952-07-24,INFO_COMMUNIC,Information,Comunicazione
+http://publications.europa.eu/resource/authority/resource-type/INFO_GEN,false,,1952-07-24,INFO_GEN,General information,Informazioni generali
+http://publications.europa.eu/resource/authority/resource-type/INFO_JUDICIAL,false,,1952-07-24,INFO_JUDICIAL,Judicial information,Informazioni giudiziarie
+http://publications.europa.eu/resource/authority/resource-type/INFO_JUR,false,,1952-07-24,INFO_JUR,Information,Informazioni
+http://publications.europa.eu/resource/authority/resource-type/INFO_SPECIAL,false,,1952-07-24,INFO_SPECIAL,Special information,Informazioni speciali
+http://publications.europa.eu/resource/authority/resource-type/INFO_SUPPL,false,,1952-07-24,INFO_SUPPL,Supplementary information,Informazione supplementare
+http://publications.europa.eu/resource/authority/resource-type/INI,false,,2009-12-01,INI,Initiative,Iniziativa
+http://publications.europa.eu/resource/authority/resource-type/INTERNAL_DOC_CONSIL,false,,1952-07-24,INTERNAL_DOC_CONSIL,Council internal document,Documento interno del Consiglio
+http://publications.europa.eu/resource/authority/resource-type/INTRO_TEXT,false,,1987-07-01,INTRO_TEXT,Introductory text,Testo introduttivo
+http://publications.europa.eu/resource/authority/resource-type/ITEM_A_LIST,false,,1967-07-01,ITEM_A_LIST,List of ‘A’ items,Elenco dei punti «A»
+http://publications.europa.eu/resource/authority/resource-type/ITEM_A_LIST_ADP,false,,1967-07-01,ITEM_A_LIST_ADP,List of adopted ‘A’ items,Elenco dei punti «A» adottati
+http://publications.europa.eu/resource/authority/resource-type/ITEM_A_LIST_PROVIS,false,,1967-07-01,ITEM_A_LIST_PROVIS,Provisional list of ‘A’ items,Elenco provvisorio dei punti «A»
+http://publications.europa.eu/resource/authority/resource-type/ITEM_A_NOTE,false,,1967-07-01,ITEM_A_NOTE,‘A’ item note,Nota punto «A»
+http://publications.europa.eu/resource/authority/resource-type/ITEM_IA_NOTE,false,,1967-07-01,ITEM_IA_NOTE,‘I/A’ item note,Nota punto «I/A»
+http://publications.europa.eu/resource/authority/resource-type/ITEM_I_NOTE,false,,1967-07-01,ITEM_I_NOTE,‘I’ item note,Nota punto «A»
+http://publications.europa.eu/resource/authority/resource-type/JOINT_ACTION,false,,2009-12-01,JOINT_ACTION,Joint action,Azione comune
+http://publications.europa.eu/resource/authority/resource-type/JOINT_ACTION_DRAFT,false,,2009-12-01,JOINT_ACTION_DRAFT,Draft joint action,Progetto di azione comune
+http://publications.europa.eu/resource/authority/resource-type/JOINT_COMMUNIC,false,,2009-12-01,JOINT_COMMUNIC,Joint communication,Comunicazione congiunta
+http://publications.europa.eu/resource/authority/resource-type/JOINT_DEC,false,,2009-12-01,JOINT_DEC,Joint decision,Decisione congiunta
+http://publications.europa.eu/resource/authority/resource-type/JOINT_EVL,false,,2007-03-22,JOINT_EVL,Joint evaluation,Valutazione congiunta
+http://publications.europa.eu/resource/authority/resource-type/JOINT_EVL_SUM_EXE,false,,2007-03-22,JOINT_EVL_SUM_EXE,Executive summary of the joint evaluation,Sintesi della valutazione congiunta
+http://publications.europa.eu/resource/authority/resource-type/JOINT_FC,false,,2012-12-12,JOINT_FC,Joint fitness check,Vaglio di adeguatezza congiunto
+http://publications.europa.eu/resource/authority/resource-type/JOINT_FC_SUM_EXE,false,,2012-12-12,JOINT_FC_SUM_EXE,Executive summary of the joint fitness check,Sintesi del vaglio di adeguatezza congiunto
+http://publications.europa.eu/resource/authority/resource-type/JOINT_IMPACT_ASSESS,false,,2009-12-01,JOINT_IMPACT_ASSESS,Joint impact assessment,Valutazione d’impatto congiunta
+http://publications.europa.eu/resource/authority/resource-type/JOINT_IMPACT_ASSESS_SUM,false,,2009-12-01,JOINT_IMPACT_ASSESS_SUM,Joint impact assessment summary,Sintesi della valutazione d'impatto congiunta
+http://publications.europa.eu/resource/authority/resource-type/JOINT_IMPL_PLAN,false,,2012-12-12,JOINT_IMPL_PLAN,Joint implementation plan,Piano di attuazione congiunto
+http://publications.europa.eu/resource/authority/resource-type/JOINT_MOTION_RES,false,,1962-03-30,JOINT_MOTION_RES,Joint motion for a resolution,Proposta di risoluzione comune
+http://publications.europa.eu/resource/authority/resource-type/JOINT_PAPER_GREEN,false,,2009-12-01,JOINT_PAPER_GREEN,Joint Green Paper,Libro verde congiunto
+http://publications.europa.eu/resource/authority/resource-type/JOINT_PAPER_WHITE,false,,2009-12-01,JOINT_PAPER_WHITE,Joint White Paper,Libro bianco congiunto
+http://publications.europa.eu/resource/authority/resource-type/JOINT_PROP_DEC,false,,2009-12-01,JOINT_PROP_DEC,Joint proposal for a decision,Proposta congiunta di decisione
+http://publications.europa.eu/resource/authority/resource-type/JOINT_PROP_DIR,false,,2009-12-01,JOINT_PROP_DIR,Joint proposal for a directive,Proposta congiunta di direttiva
+http://publications.europa.eu/resource/authority/resource-type/JOINT_PROP_REG,false,,2009-12-01,JOINT_PROP_REG,Joint proposal for a regulation,Proposta congiunta di regolamento
+http://publications.europa.eu/resource/authority/resource-type/JOINT_REPORT,false,,2009-12-01,JOINT_REPORT,Joint report,Relazione congiunta
+http://publications.europa.eu/resource/authority/resource-type/JOINT_STAKEHOLDER_FEEDBACK,false,,2015-05-19,JOINT_STAKEHOLDER_FEEDBACK,Joint stakeholder feedback,Osservazioni congiunte delle parti interessate
+http://publications.europa.eu/resource/authority/resource-type/JOINT_SWD,false,,2009-12-01,JOINT_SWD,Joint staff working document,Documento di lavoro congiunto dei servizi
+http://publications.europa.eu/resource/authority/resource-type/JOINT_SYNOPSIS_REPORT_CONSULT,false,,2015-05-19,JOINT_SYNOPSIS_REPORT_CONSULT,Joint synopsis report of the public consultation,Relazione di sintesi congiunta della consultazione pubblica
+http://publications.europa.eu/resource/authority/resource-type/JOINT_TEXT,false,,2009-12-01,JOINT_TEXT,Joint text,Progetto comune
+http://publications.europa.eu/resource/authority/resource-type/JOINT_TEXT_APR,false,,2009-12-01,JOINT_TEXT_APR,Approved joint text,Progetto comune approvato
+http://publications.europa.eu/resource/authority/resource-type/JOINT_TEXT_RJ,false,,2009-12-01,JOINT_TEXT_RJ,Rejected joint text,Progetto comune respinto
+http://publications.europa.eu/resource/authority/resource-type/JOURNAL_ACAD,false,,2018-01-01,JOURNAL_ACAD,Academic journal,Rivista accademica
+http://publications.europa.eu/resource/authority/resource-type/JUDG,false,,1952-07-24,JUDG,Judgment,Sentenza
+http://publications.europa.eu/resource/authority/resource-type/JUDG_EXTRACT,false,,1989-11-15,JUDG_EXTRACT,Judgment (extracts),Sentenza (estratti)
+http://publications.europa.eu/resource/authority/resource-type/LEGIS_SUM,false,,1987-07-01,LEGIS_SUM,Summaries of EU legislation,Sintesi della legislazione dell’UE
+http://publications.europa.eu/resource/authority/resource-type/LET,false,,1952-07-24,LET,Letter,Lettera
+http://publications.europa.eu/resource/authority/resource-type/LET_ACCOMP,false,,2000-01-01,LET_ACCOMP,Accompanying letter,Lettera di accompagnamento
+http://publications.europa.eu/resource/authority/resource-type/LET_AMEND,false,,1952-07-24,LET_AMEND,Letter of amendment,Lettera rettificativa
+http://publications.europa.eu/resource/authority/resource-type/LET_DRAFT_NATION_LEGIS,false,,1994-01-01,LET_DRAFT_NATION_LEGIS,Letter on draft national legislation,Lettera su un progetto di atto legislativo nazionale
+http://publications.europa.eu/resource/authority/resource-type/LIST,false,,1952-07-24,LIST,List,Elenco
+http://publications.europa.eu/resource/authority/resource-type/LIST_ADMIN_BUDG,false,,2021-06-16,LIST_ADMIN_BUDG,List of administrative and budgetary matters,Elenco delle questioni amministrative e di bilancio
+http://publications.europa.eu/resource/authority/resource-type/LIST_COM_ON_DUTY,false,,2021-06-16,LIST_COM_ON_DUTY,List of the Members of the Commission on duty,Elenco dei membri della Commissione presenti
+http://publications.europa.eu/resource/authority/resource-type/LIST_WRITTEN_PROC_SIGNIF,false,,2021-06-16,LIST_WRITTEN_PROC_SIGNIF,List of significant written procedures,Elenco delle procedure scritte significative
+http://publications.europa.eu/resource/authority/resource-type/MAGAZINE,false,,2015-01-01,MAGAZINE,Magazine,Rivista
+http://publications.europa.eu/resource/authority/resource-type/MATERIAL_PROM,false,,2015-01-01,MATERIAL_PROM,Promotional material,Materiale promozionale
+http://publications.europa.eu/resource/authority/resource-type/MEAS_NATION_IMPL,false,,1987-07-01,MEAS_NATION_IMPL,National transposition measures,Misure nazionali di recepimento
+http://publications.europa.eu/resource/authority/resource-type/MEMORANDUM,false,,1952-07-24,MEMORANDUM,Memorandum,Memorandum
+http://publications.europa.eu/resource/authority/resource-type/MEMORANDUM_UNDERST,false,,1952-07-24,MEMORANDUM_UNDERST,Memorandum of understanding,Protocollo di intesa
+http://publications.europa.eu/resource/authority/resource-type/MINUTES,false,,1952-07-24,MINUTES,Minutes,Processo verbale
+http://publications.europa.eu/resource/authority/resource-type/MINUTES_COM_MEETING,false,,2021-06-16,MINUTES_COM_MEETING,Minutes of Commission meeting,Verbale della riunione della Commissione
+http://publications.europa.eu/resource/authority/resource-type/MINUTES_DIRECTORS_GENERAL,false,,2021-06-16,MINUTES_DIRECTORS_GENERAL,Minutes of the Directors-General meeting,Verbale della riunione dei direttori generali
+http://publications.europa.eu/resource/authority/resource-type/MINUTES_DRAFT,false,,1967-07-01,MINUTES_DRAFT,Draft minutes,Progetto del processo verbale
+http://publications.europa.eu/resource/authority/resource-type/MINUTES_INCOMING_PRESIDENCY,false,,2021-06-16,MINUTES_INCOMING_PRESIDENCY,Minutes from a meeting with incoming presidency,Verbale di una riunione con la presidenza entrante
+http://publications.europa.eu/resource/authority/resource-type/MOTION_RES,false,,1962-03-30,MOTION_RES,Motion for a resolution,Proposta di risoluzione
+http://publications.europa.eu/resource/authority/resource-type/NEWSLETTER,false,,2015-01-01,NEWSLETTER,Newsletter,Newsletter
+http://publications.europa.eu/resource/authority/resource-type/NEWS_DAILY,false,,2012-01-01,NEWS_DAILY,Daily news,Notizie giornaliere
+http://publications.europa.eu/resource/authority/resource-type/NOTE,false,,1952-07-24,NOTE,Note,Nota
+http://publications.europa.eu/resource/authority/resource-type/NOTE_AUTHENTICATION,false,,2021-06-16,NOTE_AUTHENTICATION,Authentication note,Nota di autenticazione
+http://publications.europa.eu/resource/authority/resource-type/NOTE_COVER,false,,1994-02-14,NOTE_COVER,Cover note,Nota di trasmissione
+http://publications.europa.eu/resource/authority/resource-type/NOTE_GUID,false,,2015-01-01,NOTE_GUID,Guidance note,Nota di orientamento
+http://publications.europa.eu/resource/authority/resource-type/NOTE_INFO,false,,1980-09-17,NOTE_INFO,Information note,Nota informativa
+http://publications.europa.eu/resource/authority/resource-type/NOTE_SG,false,,2021-06-16,NOTE_SG,Note of the Secretary-General,Nota del segretario generale
+http://publications.europa.eu/resource/authority/resource-type/NOTICE,false,,1952-07-24,NOTICE,Notice,Avviso
+http://publications.europa.eu/resource/authority/resource-type/NOTICE_AWARD,false,,1987-07-01,NOTICE_AWARD,Award notice,Avviso di aggiudicazione
+http://publications.europa.eu/resource/authority/resource-type/NOTICE_CONTRACT,false,,1987-07-01,NOTICE_CONTRACT,Contract notice,Bando di gara
+http://publications.europa.eu/resource/authority/resource-type/NOTICE_INFO,false,,1952-07-24,NOTICE_INFO,Notice,Informazione
+http://publications.europa.eu/resource/authority/resource-type/NOTICE_MODEL_PP,true,1977-12-31,1952-07-24,NOTICE_MODEL_PP,Model notice for public procurement,Modello di avviso per gli appalti pubblici
+http://publications.europa.eu/resource/authority/resource-type/NOTICE_READER,false,,1952-07-24,NOTICE_READER,Notice to readers,Avviso ai lettori
+http://publications.europa.eu/resource/authority/resource-type/NOTICE_STAKEHOLDER,false,,2015-01-01,NOTICE_STAKEHOLDER,Notice to stakeholders,Avviso ai portatori d’interessi
+http://publications.europa.eu/resource/authority/resource-type/NOTIF,false,,1987-07-01,NOTIF,Notification,Notifica
+http://publications.europa.eu/resource/authority/resource-type/OJ,false,,1958-04-20,OJ,Official Journal,Gazzetta ufficiale
+http://publications.europa.eu/resource/authority/resource-type/OJ_SPECIAL,false,,1972-01-01,OJ_SPECIAL,Special edition of the Official Journal,Edizione speciale della GU
+http://publications.europa.eu/resource/authority/resource-type/OPIN,false,,1952-07-24,OPIN,Opinion,Parere
+http://publications.europa.eu/resource/authority/resource-type/OPIN_ADDIT,false,,1952-07-24,OPIN_ADDIT,Additional opinion,Supplemento di parere
+http://publications.europa.eu/resource/authority/resource-type/OPIN_ADOP,false,,1990-01-01,OPIN_ADOP,Adopted opinion,Parere adottato
+http://publications.europa.eu/resource/authority/resource-type/OPIN_AG,false,,1952-07-24,OPIN_AG,Opinion of the Advocate General,Conclusioni dell'avvocato generale
+http://publications.europa.eu/resource/authority/resource-type/OPIN_AMEND_EP,false,,2009-12-01,OPIN_AMEND_EP,Opinion on the European Parliament’s amendments,Parere sugli emendamenti del Parlamento europeo
+http://publications.europa.eu/resource/authority/resource-type/OPIN_CASE,true,1952-07-24,1952-07-24,OPIN_CASE,Advocate general’s opinion,Conclusioni
+http://publications.europa.eu/resource/authority/resource-type/OPIN_DISPUT_LB,false,,2009-12-01,OPIN_DISPUT_LB,Opinion disputing a legal base,Parere che contesta la base giuridica
+http://publications.europa.eu/resource/authority/resource-type/OPIN_DRAFT_NATION_LEGIS,false,,1994-01-01,OPIN_DRAFT_NATION_LEGIS,Opinion on draft national legislation,Parere su un progetto di atto legislativo nazionale
+http://publications.europa.eu/resource/authority/resource-type/OPIN_EVL,false,,2015-05-19,OPIN_EVL,Opinion on evaluation,Parere sulla valutazione
+http://publications.europa.eu/resource/authority/resource-type/OPIN_EXP,false,,2015-01-01,OPIN_EXP,Expert opinion,Perizia
+http://publications.europa.eu/resource/authority/resource-type/OPIN_EXPLOR,false,,2009-12-01,OPIN_EXPLOR,Exploratory opinion,Parere esplorativo
+http://publications.europa.eu/resource/authority/resource-type/OPIN_EXPLOR_ADOP,false,,1990-01-01,OPIN_EXPLOR_ADOP,Adopted exploratory opinion,Parere esplorativo adottato
+http://publications.europa.eu/resource/authority/resource-type/OPIN_EXPLOR_PROVIS,false,,1990-01-01,OPIN_EXPLOR_PROVIS,Provisional exploratory opinion,Parere esplorativo provvisorio
+http://publications.europa.eu/resource/authority/resource-type/OPIN_FC,false,,2015-05-19,OPIN_FC,Opinion on fitness check,Parere sul vaglio di adeguatezza
+http://publications.europa.eu/resource/authority/resource-type/OPIN_IMPACT_ASSESS,false,,2006-11-14,OPIN_IMPACT_ASSESS,Opinion on impact assessment,Parere sulla valutazione d'impatto
+http://publications.europa.eu/resource/authority/resource-type/OPIN_JUR,false,,1952-07-24,OPIN_JUR,Opinion of the Court,Parere
+http://publications.europa.eu/resource/authority/resource-type/OPIN_NO_PROP_AMEND,false,,1952-07-24,OPIN_NO_PROP_AMEND,Opinion not proposing amendment,Parere che non modifica
+http://publications.europa.eu/resource/authority/resource-type/OPIN_NO_REPORT,false,,1952-07-24,OPIN_NO_REPORT,Opinion without report,Parere senza relazione
+http://publications.europa.eu/resource/authority/resource-type/OPIN_PROP_AMEND,false,,1952-07-24,OPIN_PROP_AMEND,Opinion proposing amendment,Parere che modifica
+http://publications.europa.eu/resource/authority/resource-type/OPIN_PROP_RJ,false,,1952-07-24,OPIN_PROP_RJ,Opinion proposing rejection,Parere che respinge
+http://publications.europa.eu/resource/authority/resource-type/OPIN_PROVIS,false,,1990-01-01,OPIN_PROVIS,Provisional opinion,Parere provvisorio
+http://publications.europa.eu/resource/authority/resource-type/OPIN_QUAL_APR,false,,1952-07-24,OPIN_QUAL_APR,Opinion with qualified approval,Parere con riserva
+http://publications.europa.eu/resource/authority/resource-type/OPIN_REAS_NP,false,,2010-04-21,OPIN_REAS_NP,Reasoned opinion of national Parliament,Parere motivato di un parlamento nazionale
+http://publications.europa.eu/resource/authority/resource-type/OP_DATPRO,false,,1952-07-23,OP_DATPRO,Provisional data,Dati provvisori
+http://publications.europa.eu/resource/authority/resource-type/ORDER,false,,1952-07-24,ORDER,Order,Ordinanza
+http://publications.europa.eu/resource/authority/resource-type/ORDER_EXTRACT,false,,1989-11-15,ORDER_EXTRACT,Order (extracts),Ordinanza (estratti)
+http://publications.europa.eu/resource/authority/resource-type/OUTCOME_PROCEEDINGS,false,,2021-06-16,OUTCOME_PROCEEDINGS,Outcome of proceedings,Esito dei lavori
+http://publications.europa.eu/resource/authority/resource-type/OWNINI_OPIN,false,,2010-01-12,OWNINI_OPIN,Own-initiative opinion,Parere d'iniziativa
+http://publications.europa.eu/resource/authority/resource-type/OWNINI_OPIN_ADDIT,false,,2010-01-12,OWNINI_OPIN_ADDIT,Additional own-initiative opinion,Supplemento di parere d'iniziativa
+http://publications.europa.eu/resource/authority/resource-type/OWNINI_OPIN_ADOP,false,,1990-01-01,OWNINI_OPIN_ADOP,Adopted own-initiative opinion,Parere di iniziativa adottato
+http://publications.europa.eu/resource/authority/resource-type/OWNINI_OPIN_DRAFT_NATION_LEGIS,false,,1994-01-01,OWNINI_OPIN_DRAFT_NATION_LEGIS,Own-initiative opinion on draft national legislation,Parere di iniziativa su un progetto di atto legislativo nazionale
+http://publications.europa.eu/resource/authority/resource-type/OWNINI_OPIN_PROVIS,false,,1990-01-01,OWNINI_OPIN_PROVIS,Provisional own-initiative opinion,Parere di iniziativa provvisorio
+http://publications.europa.eu/resource/authority/resource-type/OWNINI_REPORT,false,,2010-01-12,OWNINI_REPORT,Own-initiative report,Relazione d'iniziativa
+http://publications.europa.eu/resource/authority/resource-type/OWNINI_RES,false,,2010-01-12,OWNINI_RES,Own-initiative resolution,Risoluzione d'iniziativa
+http://publications.europa.eu/resource/authority/resource-type/PAPER_GREEN,false,,1987-07-01,PAPER_GREEN,Green Paper,Libro verde
+http://publications.europa.eu/resource/authority/resource-type/PAPER_REFLEC,false,,1991-02-01,PAPER_REFLEC,Reflection paper,Documento di riflessione
+http://publications.europa.eu/resource/authority/resource-type/PAPER_SCIENTIFIC,false,,2015-01-01,PAPER_SCIENTIFIC,Scientific paper,Pubblicazione scientifica
+http://publications.europa.eu/resource/authority/resource-type/PAPER_WHITE,false,,1987-07-01,PAPER_WHITE,White Paper,Libro bianco
+http://publications.europa.eu/resource/authority/resource-type/PATENT,false,,2021-07-01,PATENT,Patent,Brevetto
+http://publications.europa.eu/resource/authority/resource-type/PETITION,false,,1952-07-24,PETITION,Petition,Petizione
+http://publications.europa.eu/resource/authority/resource-type/PLANNING_DOC,false,,2009-12-01,PLANNING_DOC,Planning document,Documento di pianificazione
+http://publications.europa.eu/resource/authority/resource-type/PLAN_MANAGEMENT,false,,2015-01-01,PLAN_MANAGEMENT,Management plan,Piano di gestione
+http://publications.europa.eu/resource/authority/resource-type/PLAN_NATIONAL,false,,2015-01-01,PLAN_NATIONAL,National plan,Piano nazionale
+http://publications.europa.eu/resource/authority/resource-type/PLAN_STRATEGIC,false,,2015-01-01,PLAN_STRATEGIC,Strategic plan,Piano strategico
+http://publications.europa.eu/resource/authority/resource-type/POSIT,false,,1952-07-24,POSIT,Position,Posizione
+http://publications.europa.eu/resource/authority/resource-type/POSIT_ACCEPT,false,,1952-07-24,POSIT_ACCEPT,Acceptance of position,Posizione approvata
+http://publications.europa.eu/resource/authority/resource-type/POSIT_AMEND,false,,1952-07-24,POSIT_AMEND,Amendment to position,Modifica della posizione
+http://publications.europa.eu/resource/authority/resource-type/POSIT_EP,false,,2021-06-16,POSIT_EP,Position of the European Parliament,Posizione del Parlamento europeo
+http://publications.europa.eu/resource/authority/resource-type/POSIT_RJ,false,,1952-07-24,POSIT_RJ,Rejection of position,Posizione respinta
+http://publications.europa.eu/resource/authority/resource-type/POSIT_RJ_CONF,false,,1952-07-24,POSIT_RJ_CONF,Confirmation of the rejection of the position,Conferma del rigetto della posizione
+http://publications.europa.eu/resource/authority/resource-type/PRESENTATION,false,,2015-01-01,PRESENTATION,Presentation,Presentazione
+http://publications.europa.eu/resource/authority/resource-type/PRESS_REL,false,,1967-07-01,PRESS_REL,Press release,Comunicato stampa
+http://publications.europa.eu/resource/authority/resource-type/PROCEED_MINUTES,false,,1952-07-24,PROCEED_MINUTES,Minutes of proceeding,Verbale dei lavori
+http://publications.europa.eu/resource/authority/resource-type/PROCUREMENT_NOTICE,false,,2020-01-01,PROCUREMENT_NOTICE,Procurement notice,Avviso di appalto pubblico
+http://publications.europa.eu/resource/authority/resource-type/PROC_ADMIN,false,,1952-07-24,PROC_ADMIN,Administrative procedures,Procedure amministrative
+http://publications.europa.eu/resource/authority/resource-type/PROC_INTERNAL,false,,1952-07-24,PROC_INTERNAL,Rules of procedure,Regolamento interno
+http://publications.europa.eu/resource/authority/resource-type/PROC_JURIS,false,,1952-07-24,PROC_JURIS,Jurisdictional procedure,Procedimento giurisdizionale
+http://publications.europa.eu/resource/authority/resource-type/PROC_RULES,false,,1952-07-24,PROC_RULES,Rules of procedure,Regolamento di procedura
+http://publications.europa.eu/resource/authority/resource-type/PROGRAM,false,,1952-07-24,PROGRAM,Programme,Programma
+http://publications.europa.eu/resource/authority/resource-type/PROG_WORK_COM,false,,2015-01-01,PROG_WORK_COM,Commission work programme,Programma di lavoro della Commissione
+http://publications.europa.eu/resource/authority/resource-type/PROG_WORK_DEP,false,,2015-01-01,PROG_WORK_DEP,Department work programme,Programma di lavoro del servizio
+http://publications.europa.eu/resource/authority/resource-type/PROP_ACT,false,,1952-07-24,PROP_ACT,Proposal for an act,Proposta di atto
+http://publications.europa.eu/resource/authority/resource-type/PROP_ACT_LEGIS,false,,1993-11-01,PROP_ACT_LEGIS,Proposal for a legislative act,Proposta di atto legislativo
+http://publications.europa.eu/resource/authority/resource-type/PROP_AMEND,false,,2002-02-12,PROP_AMEND,Amendments to the proposal,Modifiche della proposta
+http://publications.europa.eu/resource/authority/resource-type/PROP_COMPOS,false,,1987-07-01,PROP_COMPOS,Proposal for a common position,Proposta di posizione comune
+http://publications.europa.eu/resource/authority/resource-type/PROP_DEC,false,,1952-07-24,PROP_DEC,Proposal for a decision,Proposta di decisione
+http://publications.europa.eu/resource/authority/resource-type/PROP_DECLAR,false,,1952-07-24,PROP_DECLAR,Proposal for a declaration,Proposta di dichiarazione
+http://publications.europa.eu/resource/authority/resource-type/PROP_DEC_FRAMW,false,,1987-07-01,PROP_DEC_FRAMW,Proposal for a framework decision,Proposta di decisione quadro del Consiglio
+http://publications.europa.eu/resource/authority/resource-type/PROP_DEC_IMPL,false,,2009-12-01,PROP_DEC_IMPL,Proposal for an implementing decision,Proposta di decisione di esecuzione
+http://publications.europa.eu/resource/authority/resource-type/PROP_DEC_NO_ADDRESSEE,true,2009-11-30,1952-07-24,PROP_DEC_NO_ADDRESSEE,Proposal for a decision without addressee,Proposta di decisione senza destinatario
+http://publications.europa.eu/resource/authority/resource-type/PROP_DIR,false,,1952-07-24,PROP_DIR,Proposal for a directive,Proposta di direttiva
+http://publications.europa.eu/resource/authority/resource-type/PROP_DIR_IMPL,false,,2009-12-01,PROP_DIR_IMPL,Proposal for an implementing directive,Proposta di direttiva di esecuzione
+http://publications.europa.eu/resource/authority/resource-type/PROP_DRAFT,false,,1952-07-24,PROP_DRAFT,Draft proposal,Progetto di proposta
+http://publications.europa.eu/resource/authority/resource-type/PROP_JOINT_ACTION,false,,2009-12-01,PROP_JOINT_ACTION,Proposal for a joint action,Proposta di azione comune
+http://publications.europa.eu/resource/authority/resource-type/PROP_OPIN,false,,2013-05-21,PROP_OPIN,Proposal for an opinion,Proposta di parere
+http://publications.europa.eu/resource/authority/resource-type/PROP_RECO,false,,1952-07-24,PROP_RECO,Proposal for a recommendation,Proposta di raccomandazione
+http://publications.europa.eu/resource/authority/resource-type/PROP_REG,false,,1952-07-24,PROP_REG,Proposal for a regulation,Proposta di regolamento
+http://publications.europa.eu/resource/authority/resource-type/PROP_REG_IMPL,false,,2009-12-01,PROP_REG_IMPL,Proposal for an implementing regulation,Proposta di regolamento di esecuzione
+http://publications.europa.eu/resource/authority/resource-type/PROP_RES,false,,1952-07-24,PROP_RES,Proposal for a resolution,Proposta di risoluzione
+http://publications.europa.eu/resource/authority/resource-type/PROT,false,,1952-07-24,PROT,Protocol,Protocollo
+http://publications.europa.eu/resource/authority/resource-type/PROT_DRAFT,false,,1952-07-24,PROT_DRAFT,Draft protocol,Progetto di protocollo
+http://publications.europa.eu/resource/authority/resource-type/PUB_GEN,false,,1952-07-24,PUB_GEN,General publications,Pubblicazioni di carattere generale
+http://publications.europa.eu/resource/authority/resource-type/QUESTIONNAIRE,false,,2015-01-01,QUESTIONNAIRE,Questionnaire,Questionario
+http://publications.europa.eu/resource/authority/resource-type/QUEST_ORAL,false,,1952-07-24,QUEST_ORAL,Oral question,Interrogazione orale
+http://publications.europa.eu/resource/authority/resource-type/QUEST_TIME,false,,1952-07-24,QUEST_TIME,Question at question time,Interrogazione durante il tempo delle interrogazioni
+http://publications.europa.eu/resource/authority/resource-type/QUEST_WRITTEN,false,,1952-07-24,QUEST_WRITTEN,Written question,Interrogazione scritta
+http://publications.europa.eu/resource/authority/resource-type/Q_AND_A,false,,2012-01-01,Q_AND_A,Questions and answers,Domande e risposte
+http://publications.europa.eu/resource/authority/resource-type/RECO,false,,1952-07-24,RECO,Recommendation,Raccomandazione
+http://publications.europa.eu/resource/authority/resource-type/RECO_ADOPT_INTERNATION,false,,1952-07-24,RECO_ADOPT_INTERNATION,Recommendation adopted by bodies created by international agreements,Raccomandazione adottata da organismi creati da accordi internazionali
+http://publications.europa.eu/resource/authority/resource-type/RECO_DEC,false,,1987-07-01,RECO_DEC,Recommendation for a decision,Raccomandazione di decisione
+http://publications.europa.eu/resource/authority/resource-type/RECO_DIR,false,,1952-07-24,RECO_DIR,Recommendation for a directive,Raccomandazione di direttiva
+http://publications.europa.eu/resource/authority/resource-type/RECO_DRAFT,false,,1952-07-24,RECO_DRAFT,Draft recommendation,Progetto di raccomandazione
+http://publications.europa.eu/resource/authority/resource-type/RECO_OPIN,false,,1987-07-01,RECO_OPIN,Recommendation for an opinion,Raccomandazione di parere
+http://publications.europa.eu/resource/authority/resource-type/RECO_RECO,false,,1987-07-01,RECO_RECO,Recommendation for a recommendation,Raccomandazione di raccomandazione
+http://publications.europa.eu/resource/authority/resource-type/RECO_REG,false,,1952-07-24,RECO_REG,Recommendation for a regulation,Raccomandazione di regolamento
+http://publications.europa.eu/resource/authority/resource-type/RECO_RES,false,,1952-07-24,RECO_RES,Recommendation for a resolution,Raccomandazione di risoluzione
+http://publications.europa.eu/resource/authority/resource-type/RECRUIT,false,,1967-07-01,RECRUIT,Recruitment,Assunzione
+http://publications.europa.eu/resource/authority/resource-type/REFDATA_ASSET,false,,2014-05-15,REFDATA_ASSET,Reference data asset,Risorsa di dati di riferimento
+http://publications.europa.eu/resource/authority/resource-type/REFDATA_ASSET_DOC,false,,2014-05-15,REFDATA_ASSET_DOC,Reference data asset documentation,Documentazione della risorsa di dati di riferimento
+http://publications.europa.eu/resource/authority/resource-type/REFDATA_PUB,false,,2014-05-15,REFDATA_PUB,Reference data publication,Pubblicazione dei dati di riferimento
+http://publications.europa.eu/resource/authority/resource-type/REFDATA_PUB_DOC,false,,2014-05-15,REFDATA_PUB_DOC,Reference data publication documentation,Documentazione della pubblicazione dei dati di riferimento
+http://publications.europa.eu/resource/authority/resource-type/REFERRAL_LET,false,,1952-07-24,REFERRAL_LET,Referral letter,Lettera di consultazione
+http://publications.europa.eu/resource/authority/resource-type/REG,false,,1952-07-24,REG,Regulation,Regolamento
+http://publications.europa.eu/resource/authority/resource-type/REG_ADOPT_INTERNATION,false,,1952-07-24,REG_ADOPT_INTERNATION,Regulation adopted by bodies created by international agreements,Regolamento adottato da organismi creati da accordi internazionali
+http://publications.europa.eu/resource/authority/resource-type/REG_DEL,false,,2009-12-01,REG_DEL,Delegated regulation,Regolamento delegato
+http://publications.europa.eu/resource/authority/resource-type/REG_DEL_DRAFT,false,,2009-12-01,REG_DEL_DRAFT,Draft delegated regulation,Progetto di regolamento delegato
+http://publications.europa.eu/resource/authority/resource-type/REG_DRAFT,false,,1952-07-24,REG_DRAFT,Draft regulation,Progetto di regolamento
+http://publications.europa.eu/resource/authority/resource-type/REG_FINANC,false,,1952-07-24,REG_FINANC,Financial regulation,Regolamento finanziario
+http://publications.europa.eu/resource/authority/resource-type/REG_IMPL,false,,2009-12-01,REG_IMPL,Implementing regulation,Regolamento di esecuzione
+http://publications.europa.eu/resource/authority/resource-type/REG_IMPL_DRAFT,false,,2009-12-01,REG_IMPL_DRAFT,Draft implementing regulation,Progetto di regolamento di esecuzione
+http://publications.europa.eu/resource/authority/resource-type/REPLY_OPIN_NP,false,,2009-12-01,REPLY_OPIN_NP,Reply to national Parliaments’ opinion,Risposta a un parere dei Parlamenti nazionali
+http://publications.europa.eu/resource/authority/resource-type/REPORT,false,,1952-07-24,REPORT,Report,Relazione
+http://publications.europa.eu/resource/authority/resource-type/REPORT_AAR,false,,1993-01-01,REPORT_AAR,Annual activity report,Relazione annuale di attività
+http://publications.europa.eu/resource/authority/resource-type/REPORT_ANNUAL,false,,1952-07-24,REPORT_ANNUAL,Annual report,Relazione annuale
+http://publications.europa.eu/resource/authority/resource-type/REPORT_ANNUAL_BUDGET,false,,1952-07-24,REPORT_ANNUAL_BUDGET,Annual report on the EU general budget,Relazione annuale sul bilancio generale dell'UE
+http://publications.europa.eu/resource/authority/resource-type/REPORT_ANNUAL_DAS,false,,2009-12-01,REPORT_ANNUAL_DAS,Annual report with the statement of assurance,Relazione annuale con la dichiarazione di affidabilità
+http://publications.europa.eu/resource/authority/resource-type/REPORT_ANNUAL_EDF,false,,2009-12-01,REPORT_ANNUAL_EDF,Annual report on the activities funded by the European Development Fund,Relazione annuale sulle attività finanziate dal Fondo europeo di sviluppo
+http://publications.europa.eu/resource/authority/resource-type/REPORT_ANNUAL_MAN_PERFORM,false,,2015-01-01,REPORT_ANNUAL_MAN_PERFORM,Annual management and performance report,Relazione annuale sulla gestione e il rendimento
+http://publications.europa.eu/resource/authority/resource-type/REPORT_ANNUAL_SPECIF,false,,1952-07-24,REPORT_ANNUAL_SPECIF,Specific annual report,Relazione annuale specifica
+http://publications.europa.eu/resource/authority/resource-type/REPORT_PERIOD,false,,1952-07-24,REPORT_PERIOD,Periodic report,Prospetto periodico
+http://publications.europa.eu/resource/authority/resource-type/REPORT_PROGRESS,false,,2015-01-01,REPORT_PROGRESS,Progress report,Relazione sullo stato di avanzamento dei lavori
+http://publications.europa.eu/resource/authority/resource-type/REPORT_SEMEST,false,,1952-07-24,REPORT_SEMEST,Six-monthly report,Relazione semestrale
+http://publications.europa.eu/resource/authority/resource-type/REPORT_SPECIAL,false,,1952-07-24,REPORT_SPECIAL,Special report,Relazione speciale
+http://publications.europa.eu/resource/authority/resource-type/REPORT_SPECIF,false,,1952-07-24,REPORT_SPECIF,Specific report,Relazione specifica
+http://publications.europa.eu/resource/authority/resource-type/REPORT_VALID,false,,1952-07-24,REPORT_VALID,Validation report,Rapporto di convalida
+http://publications.europa.eu/resource/authority/resource-type/REQ_OPIN,false,,2015-01-01,REQ_OPIN,Request for an opinion,Richiesta di parere
+http://publications.europa.eu/resource/authority/resource-type/RES,false,,1952-07-24,RES,Resolution,Risoluzione
+http://publications.europa.eu/resource/authority/resource-type/RES_DRAFT,false,,1952-07-24,RES_DRAFT,Draft resolution,Progetto di risoluzione
+http://publications.europa.eu/resource/authority/resource-type/RES_LEGIS,false,,1987-01-01,RES_LEGIS,Legislative resolution,Risoluzione legislativa
+http://publications.europa.eu/resource/authority/resource-type/ROADMAP,true,2021-02-23,2009-12-01,ROADMAP,Roadmap,Tabelle di marcia
+http://publications.europa.eu/resource/authority/resource-type/ROADMAP_EFC,true,2021-02-23,2009-12-01,ROADMAP_EFC,Evaluation roadmap,Tabella di marcia della valutazione
+http://publications.europa.eu/resource/authority/resource-type/RULING,false,,1952-07-24,RULING,Ruling,Deliberazione
+http://publications.europa.eu/resource/authority/resource-type/SCHEDULE,false,,2015-01-01,SCHEDULE,Schedule,Programma
+http://publications.europa.eu/resource/authority/resource-type/SIGN_OJ_ATC,false,,2014-03-31,SIGN_OJ_ATC,Signature file for the authentic Official Journal,File per la firma per la Gazzetta ufficiale autentica
+http://publications.europa.eu/resource/authority/resource-type/SPEECH,false,,2015-01-01,SPEECH,Speech,Discorso
+http://publications.europa.eu/resource/authority/resource-type/STAKEHOLDER_FEEDBACK,false,,2015-05-19,STAKEHOLDER_FEEDBACK,Stakeholder feedback,Osservazioni delle parti interessate
+http://publications.europa.eu/resource/authority/resource-type/STAT,false,,2009-12-01,STAT,Statement,Dichiarazione
+http://publications.europa.eu/resource/authority/resource-type/STATUTE,false,,1952-07-24,STATUTE,Statute,Statuto
+http://publications.europa.eu/resource/authority/resource-type/STAT_REASON,false,,1967-07-01,STAT_REASON,Statement of reasons,Motivazione
+http://publications.europa.eu/resource/authority/resource-type/STAT_REASON_DRAFT,false,,1967-07-01,STAT_REASON_DRAFT,Draft statement of reasons,Progetto di motivazione
+http://publications.europa.eu/resource/authority/resource-type/STRATEGY_COMMON,false,,1999-05-01,STRATEGY_COMMON,Common strategy,Strategia comune
+http://publications.europa.eu/resource/authority/resource-type/STU,false,,1952-07-24,STU,Study,Studio
+http://publications.europa.eu/resource/authority/resource-type/STU_ANNEX,false,,1952-07-24,STU_ANNEX,Annex to a study,Allegato a uno studio
+http://publications.europa.eu/resource/authority/resource-type/STU_EVL,false,,1952-07-24,STU_EVL,Evaluation study,Studio valutativo
+http://publications.europa.eu/resource/authority/resource-type/STU_EVL_ANNEX,false,,1952-07-24,STU_EVL_ANNEX,Annex to an evaluation study,Allegato a uno studio valutativo
+http://publications.europa.eu/resource/authority/resource-type/STU_EVL_SUM_EXE,false,,1952-07-24,STU_EVL_SUM_EXE,Executive summary of an evaluation study,Sintesi di uno studio valutativo
+http://publications.europa.eu/resource/authority/resource-type/STU_SUM_EXE,false,,1952-07-24,STU_SUM_EXE,Executive summary of a study,Sintesi di uno studio
+http://publications.europa.eu/resource/authority/resource-type/SUM,false,,1952-07-24,SUM,Summary,Sintesi
+http://publications.europa.eu/resource/authority/resource-type/SUM_JUR,false,,1952-07-24,SUM_JUR,Summary,Massime
+http://publications.europa.eu/resource/authority/resource-type/SWD,false,,2009-12-01,SWD,Staff working document,Documento di lavoro dei servizi
+http://publications.europa.eu/resource/authority/resource-type/SYNOPSIS_REPORT_CONSULT,false,,2015-05-19,SYNOPSIS_REPORT_CONSULT,Synopsis report of the public consultation,Relazione di sintesi della consultazione pubblica
+http://publications.europa.eu/resource/authority/resource-type/TENTAT_AGENDA_COM_MEETING,false,,2021-06-16,TENTAT_AGENDA_COM_MEETING,Tentative agenda for forthcoming Commission meeting,Ordine del giorno provvisorio della prossima riunione della Commissione
+http://publications.europa.eu/resource/authority/resource-type/THIRDPARTY_PROCEED,false,,1959-07-12,THIRDPARTY_PROCEED,Third-party proceedings,Opposizione di terzo
+http://publications.europa.eu/resource/authority/resource-type/TIMETABLE_COM_MEETING,false,,2021-06-16,TIMETABLE_COM_MEETING,Timetable of Commission meetings,Calendario delle riunioni della Commissione
+http://publications.europa.eu/resource/authority/resource-type/TOC_OJ,false,,1952-07-24,TOC_OJ,Contents,Sommario
+http://publications.europa.eu/resource/authority/resource-type/TOC_OJ_SPECIAL,false,,1972-01-01,TOC_OJ_SPECIAL,Contents of the special edition of the Official Journal,Contenuto dell’edizione speciale della Gazzetta ufficiale
+http://publications.europa.eu/resource/authority/resource-type/TRANSFER_APPROPR,false,,1952-07-24,TRANSFER_APPROPR,Transfer of appropriations,Trasferimento di crediti
+http://publications.europa.eu/resource/authority/resource-type/TREATY,false,,1952-07-24,TREATY,Treaty,Trattato
+http://publications.europa.eu/resource/authority/resource-type/TREATY_DRAFT,false,,1952-07-24,TREATY_DRAFT,Draft treaty,Progetto di trattato
+http://publications.europa.eu/resource/authority/resource-type/TWD,false,,2015-01-01,TWD,Technical working document,Documento tecnico di lavoro
+http://publications.europa.eu/resource/authority/resource-type/VERBATIM_REPORT,false,,1952-07-23,VERBATIM_REPORT,Verbatim report,Resoconto integrale
+http://publications.europa.eu/resource/authority/resource-type/VERBATIM_REPORT_PROCEED,false,,1952-07-23,VERBATIM_REPORT_PROCEED,Verbatim report of proceedings,Resoconto integrale delle discussioni
+http://publications.europa.eu/resource/authority/resource-type/VIEW,false,,1952-07-24,VIEW,View,Presa di posizione
+http://publications.europa.eu/resource/authority/resource-type/VIEWPOINT,false,,2009-12-01,VIEWPOINT,Viewpoint,Punto di vista
+http://publications.europa.eu/resource/authority/resource-type/VIEW_AG,false,,1952-07-24,VIEW_AG,View of the Advocate General,Presa di posizione dell'avvocato generale
+http://publications.europa.eu/resource/authority/resource-type/VOTING_RES,false,,2006-07-24,VOTING_RES,Voting result,Risultato della votazione
+http://publications.europa.eu/resource/authority/resource-type/WARN,false,,2010-12-16,WARN,Warning,Segnalazione
+http://publications.europa.eu/resource/authority/resource-type/WEBPAGE,false,,1991-08-06,WEBPAGE,Webpage,Pagina web
+http://publications.europa.eu/resource/authority/resource-type/WEBSITE,false,,1991-08-06,WEBSITE,Website,Sito web
+http://publications.europa.eu/resource/authority/resource-type/WEBSITE_ARCH,false,,1991-08-06,WEBSITE_ARCH,Archived website,Sito web archiviato
+http://publications.europa.eu/resource/authority/resource-type/WHOISWHO_ASSET,false,,2014-05-15,WHOISWHO_ASSET,Whoiswho asset,Risorsa del Whoiswho
+http://publications.europa.eu/resource/authority/resource-type/WITHD_AGREE,false,,2007-12-13,WITHD_AGREE,Withdrawal agreement,Accordo di recesso
+http://publications.europa.eu/resource/authority/resource-type/WORK_BUNDLE,false,,2013-03-05,WORK_BUNDLE,Work bundle,Pacchetto di lavori
+http://publications.europa.eu/resource/authority/resource-type/WORK_DOC,false,,2009-12-01,WORK_DOC,Working document,Documento di lavoro

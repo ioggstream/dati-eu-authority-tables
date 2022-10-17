@@ -1,6 +1,6 @@
-url;deprecated;valid_until;valid_from;id;label_en;label_it
-http://publications.europa.eu/resource/authority/requirement-stage/OP_DATPRO;;;;OP_DATPRO;Provisional data;Dati provvisori
-http://publications.europa.eu/resource/authority/requirement-stage/not-requ;false;;2020-06-24;not-requ;Not required;Indicazione non necessaria
-http://publications.europa.eu/resource/authority/requirement-stage/nyk;false;;2020-06-24;nyk;Not yet known;Dato non ancora noto
-http://publications.europa.eu/resource/authority/requirement-stage/par-requ;false;;2020-06-24;par-requ;Request to participate requirement;Indicazione obbligatoria nella domanda di partecipazione
-http://publications.europa.eu/resource/authority/requirement-stage/t-requ;false;;2020-06-24;t-requ;Tender requirement;Indicazione obbligatoria nell'offerta
+url,deprecated,valid_until,valid_from,id,label_en,label_it
+http://publications.europa.eu/resource/authority/requirement-stage/OP_DATPRO,,,,OP_DATPRO,Provisional data,Dati provvisori
+http://publications.europa.eu/resource/authority/requirement-stage/not-requ,false,,2020-06-24,not-requ,Not required,Indicazione non necessaria
+http://publications.europa.eu/resource/authority/requirement-stage/nyk,false,,2020-06-24,nyk,Not yet known,Dato non ancora noto
+http://publications.europa.eu/resource/authority/requirement-stage/par-requ,false,,2020-06-24,par-requ,Request to participate requirement,Indicazione obbligatoria nella domanda di partecipazione
+http://publications.europa.eu/resource/authority/requirement-stage/t-requ,false,,2020-06-24,t-requ,Tender requirement,Indicazione obbligatoria nell'offerta

@@ -3695,13 +3695,13 @@
     at:deprecated "false" ;
     at:op-code "DEC_byCMT_MIX" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "FD_613" ;
-            at:legacy-code "DECOMIX" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
             at:affected-table "event" ;
             at:legacy-code "DEC_byCMT_CONJOIN" ;
-            dc:source "MDR" ] ;
+            dc:source "MDR" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_613" ;
+            at:legacy-code "DECOMIX" ;
+            dc:source "ATTO" ] ;
     at:start.use "1967-07-01" ;
     atold:op-code "DEC_byCMT_MIX" ;
     dc:identifier "DEC_byCMT_MIX" ;
@@ -9251,13 +9251,13 @@
     at:deprecated "false" ;
     at:op-code "TRS_toEURCOU_byCOM" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "FD_613" ;
-            at:legacy-code "TEC" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
             at:affected-table "event" ;
             at:legacy-code "TRS_toCONSIL__byCOM" ;
-            dc:source "MDR" ] ;
+            dc:source "MDR" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_613" ;
+            at:legacy-code "TEC" ;
+            dc:source "ATTO" ] ;
     at:start.use "1967-07-01" ;
     atold:op-code "TRS_toEURCOU_byCOM" ;
     dc:identifier "TRS_toEURCOU_byCOM" ;

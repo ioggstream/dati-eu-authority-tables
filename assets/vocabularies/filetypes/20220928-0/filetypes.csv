@@ -1,200 +1,200 @@
-url;deprecated;valid_until;valid_from;id;label_en;label_it
-http://publications.europa.eu/resource/authority/file-type/7Z;false;;2000-01-01;7Z;7z;
-http://publications.europa.eu/resource/authority/file-type/AAB;false;;2021-08-01;AAB;AAB;
-http://publications.europa.eu/resource/authority/file-type/AAC;false;;1997-01-01;AAC;AAC;
-http://publications.europa.eu/resource/authority/file-type/AKN4EU;false;;2019-06-20;AKN4EU;AKN4EU file;
-http://publications.europa.eu/resource/authority/file-type/AKN4EU_ZIP;false;;2019-06-20;AKN4EU_ZIP;AKN4EU ZIP;
-http://publications.europa.eu/resource/authority/file-type/APK;false;;2008-09-23;APK;APK;
-http://publications.europa.eu/resource/authority/file-type/APPX;false;;2012-10-26;APPX;AppX;
-http://publications.europa.eu/resource/authority/file-type/ARC;false;;1996-05-12;ARC;ARC;
-http://publications.europa.eu/resource/authority/file-type/ARCINFO_COV;false;;1982-01-01;ARCINFO_COV;ArcInfo coverage;
-http://publications.europa.eu/resource/authority/file-type/ARC_GZ;false;;2012-09-01;ARC_GZ;ARC GZ;
-http://publications.europa.eu/resource/authority/file-type/ARJ;false;;1990-01-01;ARJ;ARJ;
-http://publications.europa.eu/resource/authority/file-type/ATOM;false;;2005-12-01;ATOM;Atom Feed;
-http://publications.europa.eu/resource/authority/file-type/AZW;false;;2012-09-01;AZW;Amazon Kindle eBook;
-http://publications.europa.eu/resource/authority/file-type/BIN;false;;1996-11-01;BIN;Binary Data;
-http://publications.europa.eu/resource/authority/file-type/BITS;false;;2012-08-22;BITS;BITS XML;
-http://publications.europa.eu/resource/authority/file-type/BMP;false;;1996-04-01;BMP;Bitmap Image File;
-http://publications.europa.eu/resource/authority/file-type/BWF;false;;2001-07-01;BWF;BWF;
-http://publications.europa.eu/resource/authority/file-type/BZIP2;false;;1996-07-18;BZIP2;bzip2;
-http://publications.europa.eu/resource/authority/file-type/CSS;false;;2012-09-01;CSS;CSS;
-http://publications.europa.eu/resource/authority/file-type/CSV;false;;2013-05-21;CSV;CSV;
-http://publications.europa.eu/resource/authority/file-type/DAPK;false;;2022-04-06;DAPK;DAPK;
-http://publications.europa.eu/resource/authority/file-type/DBF;false;;2013-09-18;DBF;DBF;
-http://publications.europa.eu/resource/authority/file-type/DCR;false;;1988-01-01;DCR;DCR File;
-http://publications.europa.eu/resource/authority/file-type/DEB;false;;1994-04-01;DEB;deb;
-http://publications.europa.eu/resource/authority/file-type/DGN;false;;2000-01-01;DGN;DGN;
-http://publications.europa.eu/resource/authority/file-type/DMG;false;;2001-01-01;DMG;DMG;
-http://publications.europa.eu/resource/authority/file-type/DMP;false;;2004-01-01;DMP;Oracle Dump;
-http://publications.europa.eu/resource/authority/file-type/DOC;false;;2012-09-01;DOC;Word DOC;
-http://publications.europa.eu/resource/authority/file-type/DOCX;false;;2012-09-01;DOCX;Word DOCX;
-http://publications.europa.eu/resource/authority/file-type/DTD_SGML;false;;2012-09-01;DTD_SGML;SGML DTD;
-http://publications.europa.eu/resource/authority/file-type/DTD_XML;false;;2012-09-01;DTD_XML;XML DTD;
-http://publications.europa.eu/resource/authority/file-type/DWG;false;;1982-01-01;DWG;DWG;
-http://publications.europa.eu/resource/authority/file-type/DXF;false;;1982-01-01;DXF;DXF;
-http://publications.europa.eu/resource/authority/file-type/E00;false;;2013-09-18;E00;E00;
-http://publications.europa.eu/resource/authority/file-type/EAR;false;;2006-05-11;EAR;EAR;
-http://publications.europa.eu/resource/authority/file-type/ECW;false;;1998-01-01;ECW;ECW;
-http://publications.europa.eu/resource/authority/file-type/EPS;false;;2012-09-01;EPS;Encapsulated Postscript;
-http://publications.europa.eu/resource/authority/file-type/EPUB;false;;2012-09-01;EPUB;EPUB;
-http://publications.europa.eu/resource/authority/file-type/ETSI_XML;false;;2021-06-16;ETSI_XML;ETSI signature validation report;
-http://publications.europa.eu/resource/authority/file-type/EXE;false;;1978-01-01;EXE;EXE;
-http://publications.europa.eu/resource/authority/file-type/FMX2;true;1999-03-31;1989-01-01;FMX2;Formex 2;
-http://publications.europa.eu/resource/authority/file-type/FMX3;true;2004-04-30;1999-04-01;FMX3;Formex 3;
-http://publications.europa.eu/resource/authority/file-type/FMX4;false;;2004-05-01;FMX4;Formex 4;
-http://publications.europa.eu/resource/authority/file-type/FMX4_ZIP;false;;2020-12-16;FMX4_ZIP;FMX4 ZIP;
-http://publications.europa.eu/resource/authority/file-type/GDB;false;;2008-02-06;GDB;Esri File Geodatabase;
-http://publications.europa.eu/resource/authority/file-type/GEOJSON;false;;2016-08-01;GEOJSON;GeoJSON;
-http://publications.europa.eu/resource/authority/file-type/GEOTIFF;false;;2019-09-14;GEOTIFF;GeoTIFF;
-http://publications.europa.eu/resource/authority/file-type/GIF;false;;2012-09-01;GIF;GIF;
-http://publications.europa.eu/resource/authority/file-type/GML;false;;2000-05-01;GML;GML;
-http://publications.europa.eu/resource/authority/file-type/GMZ;false;;2013-09-03;GMZ;Zipped GML;
-http://publications.europa.eu/resource/authority/file-type/GPKG;false;;2014-02-13;GPKG;GeoPackage;
-http://publications.europa.eu/resource/authority/file-type/GRID;false;;2013-08-21;GRID;Esri binary grid;
-http://publications.europa.eu/resource/authority/file-type/GRID_ASCII;false;;2013-08-21;GRID_ASCII;Esri ASCII grid;
-http://publications.europa.eu/resource/authority/file-type/GTFS;false;;2006-09-27;GTFS;GTFS;
-http://publications.europa.eu/resource/authority/file-type/GZIP;false;;2012-09-01;GZIP;GNU zip;
-http://publications.europa.eu/resource/authority/file-type/HDF;false;;1990-01-01;HDF;HDF;
-http://publications.europa.eu/resource/authority/file-type/HDT;false;;2011-03-30;HDT;HDT;
-http://publications.europa.eu/resource/authority/file-type/HTML;false;;2012-09-01;HTML;HTML;
-http://publications.europa.eu/resource/authority/file-type/HTML5;false;;2008-01-22;HTML5;HTML5;
-http://publications.europa.eu/resource/authority/file-type/HTML_SIMPL;false;;2012-09-01;HTML_SIMPL;HTML simplified;
-http://publications.europa.eu/resource/authority/file-type/ICS;false;;1998-01-01;ICS;ICalendar;
-http://publications.europa.eu/resource/authority/file-type/IMMC_XML;false;;2016-04-08;IMMC_XML;IMMC XML message;
-http://publications.europa.eu/resource/authority/file-type/INDD;false;;2012-09-01;INDD;INDD;
-http://publications.europa.eu/resource/authority/file-type/IPA;false;;2008-07-10;IPA;IPA;
-http://publications.europa.eu/resource/authority/file-type/ISO;false;;1988-09-01;ISO;ISO image;
-http://publications.europa.eu/resource/authority/file-type/ISO_ZIP;false;;2012-09-01;ISO_ZIP;Zipped ISO image;
-http://publications.europa.eu/resource/authority/file-type/JAR;false;;1997-01-01;JAR;JAR;
-http://publications.europa.eu/resource/authority/file-type/JATS;false;;2003-03-31;JATS;JATS XML;
-http://publications.europa.eu/resource/authority/file-type/JPEG;false;;2012-09-01;JPEG;JPEG;
-http://publications.europa.eu/resource/authority/file-type/JPEG2000;false;;2000-01-01;JPEG2000;JPEG 2000;
-http://publications.europa.eu/resource/authority/file-type/JS;false;;1995-12-04;JS;JavaScript;
-http://publications.europa.eu/resource/authority/file-type/JSON;false;;2006-07-01;JSON;JSON;
-http://publications.europa.eu/resource/authority/file-type/JSON_LD;false;;2011-12-27;JSON_LD;JSON-LD;
-http://publications.europa.eu/resource/authority/file-type/KML;false;;2013-09-18;KML;KML;
-http://publications.europa.eu/resource/authority/file-type/KMZ;false;;2013-11-27;KMZ;KMZ;
-http://publications.europa.eu/resource/authority/file-type/LAS;false;;2003-05-09;LAS;LASer file;
-http://publications.europa.eu/resource/authority/file-type/LAZ;false;;2003-05-09;LAZ;Compressed LAS file;
-http://publications.europa.eu/resource/authority/file-type/LEG;true;2020-12-15;2016-06-01;LEG;LEG;
-http://publications.europa.eu/resource/authority/file-type/LHA;false;;1988-01-01;LHA;LHA;
-http://publications.europa.eu/resource/authority/file-type/LPK;false;;2010-01-01;LPK;Layer package;
-http://publications.europa.eu/resource/authority/file-type/LZIP;false;;2008-01-01;LZIP;lzip;
-http://publications.europa.eu/resource/authority/file-type/LZMA;false;;2000-01-01;LZMA;lzma;
-http://publications.europa.eu/resource/authority/file-type/LZO;false;;1996-01-01;LZO;lzo;
-http://publications.europa.eu/resource/authority/file-type/MAP_PRVW;false;;2010-01-01;MAP_PRVW;ArcGIS Map Preview;
-http://publications.europa.eu/resource/authority/file-type/MAP_SRVC;false;;2010-01-01;MAP_SRVC;ArcGIS Map Service;
-http://publications.europa.eu/resource/authority/file-type/MBOX;false;;2005-09-01;MBOX;MBOX;
-http://publications.europa.eu/resource/authority/file-type/MDB;false;;2013-09-18;MDB;MDB;
-http://publications.europa.eu/resource/authority/file-type/METS;false;;2003-10-27;METS;METS XML;
-http://publications.europa.eu/resource/authority/file-type/METS_ZIP;false;;2003-10-27;METS_ZIP;METS package;
-http://publications.europa.eu/resource/authority/file-type/MHTML;false;;1999-03-01;MHTML;MHTML;
-http://publications.europa.eu/resource/authority/file-type/MIF_MID;false;;1986-01-01;MIF_MID;MIF/MID;
-http://publications.europa.eu/resource/authority/file-type/MOBI;false;;2012-09-01;MOBI;Mobipocket eBook;
-http://publications.europa.eu/resource/authority/file-type/MOP;false;;2013-09-18;MOP;MOP;
-http://publications.europa.eu/resource/authority/file-type/MP3;false;;1991-12-06;MP3;MP3;
-http://publications.europa.eu/resource/authority/file-type/MPEG2;false;;2000-12-01;MPEG2;MPEG-2;
-http://publications.europa.eu/resource/authority/file-type/MPEG4;false;;2001-10-11;MPEG4;MPEG-4;
-http://publications.europa.eu/resource/authority/file-type/MPEG4_AVC;false;;2003-05-30;MPEG4_AVC;MPEG-4 AVC;
-http://publications.europa.eu/resource/authority/file-type/MRSID;false;;1996-01-01;MRSID;MrSID;
-http://publications.europa.eu/resource/authority/file-type/MSG_HTTP;false;;2014-06-01;MSG_HTTP;HTTP Message;
-http://publications.europa.eu/resource/authority/file-type/MSI;false;;1999-08-31;MSI;MSI;
-http://publications.europa.eu/resource/authority/file-type/MXD;false;;2013-09-18;MXD;MXD;
-http://publications.europa.eu/resource/authority/file-type/N3;false;;2008-01-01;N3;N3;
-http://publications.europa.eu/resource/authority/file-type/NETCDF;false;;1990-01-01;NETCDF;NetCDF;
-http://publications.europa.eu/resource/authority/file-type/OAPK;false;;2022-04-06;OAPK;OAPK;
-http://publications.europa.eu/resource/authority/file-type/OCTET;false;;1996-11-01;OCTET;Octet Stream;
-http://publications.europa.eu/resource/authority/file-type/ODB;false;;2009-01-16;ODB;OpenDocument Database;
-http://publications.europa.eu/resource/authority/file-type/ODC;false;;2005-05-01;ODC;OpenDocument Chart;
-http://publications.europa.eu/resource/authority/file-type/ODF;false;;2012-09-01;ODF;ODF;
-http://publications.europa.eu/resource/authority/file-type/ODG;false;;2006-05-31;ODG;OpenDocument Image;
-http://publications.europa.eu/resource/authority/file-type/ODP;false;;2005-05-01;ODP;ODP;
-http://publications.europa.eu/resource/authority/file-type/ODS;false;;2013-11-27;ODS;ODS;
-http://publications.europa.eu/resource/authority/file-type/ODT;false;;2012-09-01;ODT;ODT;
-http://publications.europa.eu/resource/authority/file-type/OP_DATPRO;;;;OP_DATPRO;Provisional data;Dati provvisori
-http://publications.europa.eu/resource/authority/file-type/OVF;false;;2007-09-10;OVF;OVF;
-http://publications.europa.eu/resource/authority/file-type/OWL;false;;2012-09-01;OWL;OWL;
-http://publications.europa.eu/resource/authority/file-type/PDF;false;;2012-09-01;PDF;PDF;
-http://publications.europa.eu/resource/authority/file-type/PDF1X;false;;2012-09-01;PDF1X;PDF1X;
-http://publications.europa.eu/resource/authority/file-type/PDFA1A;false;;2012-09-01;PDFA1A;PDF/A-1a;
-http://publications.europa.eu/resource/authority/file-type/PDFA1B;false;;2012-09-01;PDFA1B;PDF/A-1b;
-http://publications.europa.eu/resource/authority/file-type/PDFA2A;false;;2011-07-01;PDFA2A;PDF/A-2a;
-http://publications.europa.eu/resource/authority/file-type/PDFA2B;false;;2011-07-01;PDFA2B;PDF/A-2b;
-http://publications.europa.eu/resource/authority/file-type/PDFA3;false;;2012-12-15;PDFA3;PDFA-3;
-http://publications.europa.eu/resource/authority/file-type/PDFUA;false;;2012-07-15;PDFUA;PDF/UA;
-http://publications.europa.eu/resource/authority/file-type/PDFX;false;;2001-12-01;PDFX;PDF/X;
-http://publications.europa.eu/resource/authority/file-type/PDFX1A;false;;2001-12-01;PDFX1A;PDF/X-1a;
-http://publications.europa.eu/resource/authority/file-type/PDFX2A;false;;2003-12-01;PDFX2A;PDF/X-2a;
-http://publications.europa.eu/resource/authority/file-type/PDFX4;false;;2008-03-01;PDFX4;PDF/X-4;
-http://publications.europa.eu/resource/authority/file-type/PL;false;;1987-12-18;PL;Perl script;
-http://publications.europa.eu/resource/authority/file-type/PNG;false;;2012-09-01;PNG;PNG;
-http://publications.europa.eu/resource/authority/file-type/PPS;false;;2012-09-01;PPS;PowerPoint Slide Show;
-http://publications.europa.eu/resource/authority/file-type/PPSX;false;;2012-09-01;PPSX;PowerPoint PPSX;
-http://publications.europa.eu/resource/authority/file-type/PPT;false;;2012-09-01;PPT;PowerPoint PPT;
-http://publications.europa.eu/resource/authority/file-type/PPTX;false;;2012-09-01;PPTX;PowerPoint PPTX;
-http://publications.europa.eu/resource/authority/file-type/PS;false;;2012-09-01;PS;PS;
-http://publications.europa.eu/resource/authority/file-type/PSD;false;;2012-09-01;PSD;PSD;
-http://publications.europa.eu/resource/authority/file-type/PWP;false;;2017-05-01;PWP;PWP;
-http://publications.europa.eu/resource/authority/file-type/QGS;false;;2002-07-01;QGS;QGS;
-http://publications.europa.eu/resource/authority/file-type/RAR;false;;1993-03-01;RAR;RAR;
-http://publications.europa.eu/resource/authority/file-type/RDF;false;;2012-09-01;RDF;RDF;
-http://publications.europa.eu/resource/authority/file-type/RDFA;false;;2006-03-10;RDFA;RDFa;
-http://publications.europa.eu/resource/authority/file-type/RDF_N_QUADS;false;;2013-04-09;RDF_N_QUADS;RDF N-Quads;
-http://publications.europa.eu/resource/authority/file-type/RDF_N_TRIPLES;false;;2008-02-17;RDF_N_TRIPLES;RDF N-Triples;
-http://publications.europa.eu/resource/authority/file-type/RDF_THRIFT;false;;2014-01-01;RDF_THRIFT;RDF Thrift;
-http://publications.europa.eu/resource/authority/file-type/RDF_TRIG;false;;2013-04-09;RDF_TRIG;RDF TriG;
-http://publications.europa.eu/resource/authority/file-type/RDF_TRIX;false;;2004-05-13;RDF_TRIX;RDF TriX;
-http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE;false;;2012-09-01;RDF_TURTLE;RDF Turtle;
-http://publications.europa.eu/resource/authority/file-type/RDF_XML;false;;2012-09-01;RDF_XML;RDF XML;
-http://publications.europa.eu/resource/authority/file-type/REST;false;;2010-01-01;REST;Esri REST;
-http://publications.europa.eu/resource/authority/file-type/RPM;false;;1997-01-01;RPM;RPM;
-http://publications.europa.eu/resource/authority/file-type/RSS;false;;2013-11-27;RSS;RSS feed;
-http://publications.europa.eu/resource/authority/file-type/RTF;false;;2012-09-01;RTF;RTF;
-http://publications.europa.eu/resource/authority/file-type/SB3;false;;2019-01-02;SB3;sb3;
-http://publications.europa.eu/resource/authority/file-type/SCHEMA_XML;false;;2012-09-01;SCHEMA_XML;XML schema;
-http://publications.europa.eu/resource/authority/file-type/SDMX;false;;2001-01-01;SDMX;SDMX;
-http://publications.europa.eu/resource/authority/file-type/SGML;false;;2012-09-01;SGML;SGML;
-http://publications.europa.eu/resource/authority/file-type/SHP;false;;1998-07-01;SHP;Esri Shape;
-http://publications.europa.eu/resource/authority/file-type/SKOS_XML;false;;2012-09-01;SKOS_XML;SKOS;
-http://publications.europa.eu/resource/authority/file-type/SPARQLQ;false;;2012-09-01;SPARQLQ;SPARQL;
-http://publications.europa.eu/resource/authority/file-type/SPARQLQRES;false;;2012-09-01;SPARQLQRES;SPARQL results;
-http://publications.europa.eu/resource/authority/file-type/SQL;false;;1974-01-01;SQL;SQL;
-http://publications.europa.eu/resource/authority/file-type/STL;false;;1987-01-01;STL;StL;
-http://publications.europa.eu/resource/authority/file-type/SVG;false;;2001-09-04;SVG;SVG;
-http://publications.europa.eu/resource/authority/file-type/SWM;false;;2007-01-30;SWM;SWM;
-http://publications.europa.eu/resource/authority/file-type/TAB;false;;2000-03-26;TAB;MapInfo TAB file;
-http://publications.europa.eu/resource/authority/file-type/TAB_RSTR;false;;2000-03-26;TAB_RSTR;MapInfo TAB raster file;
-http://publications.europa.eu/resource/authority/file-type/TAR;false;;2012-09-01;TAR;TAR;
-http://publications.europa.eu/resource/authority/file-type/TAR_GZ;false;;2012-09-01;TAR_GZ;TAR GZ;
-http://publications.europa.eu/resource/authority/file-type/TAR_XZ;false;;2012-09-01;TAR_XZ;TAR XZ;
-http://publications.europa.eu/resource/authority/file-type/TIFF;false;;2012-09-01;TIFF;TIFF;
-http://publications.europa.eu/resource/authority/file-type/TIFF_FX;false;;2005-02-01;TIFF_FX;TIFF FX;
-http://publications.europa.eu/resource/authority/file-type/TMX;false;;1997-11-25;TMX;TMX;
-http://publications.europa.eu/resource/authority/file-type/TSV;false;;2013-10-02;TSV;TSV;
-http://publications.europa.eu/resource/authority/file-type/TXT;false;;2012-09-01;TXT;Plain text;
-http://publications.europa.eu/resource/authority/file-type/UNGEN;false;;2010-01-01;UNGEN;Ungen;
-http://publications.europa.eu/resource/authority/file-type/WAR;false;;1999-01-01;WAR;WAR;
-http://publications.europa.eu/resource/authority/file-type/WARC;false;;2009-05-15;WARC;WARC;
-http://publications.europa.eu/resource/authority/file-type/WARC_GZ;false;;2012-09-01;WARC_GZ;WARC GZ;
-http://publications.europa.eu/resource/authority/file-type/WAV;false;;1991-08-01;WAV;WAV;
-http://publications.europa.eu/resource/authority/file-type/WCS_SRVC;false;;2003-08-27;WCS_SRVC;WCS;
-http://publications.europa.eu/resource/authority/file-type/WFS_SRVC;false;;2006-01-01;WFS_SRVC;WFS;
-http://publications.europa.eu/resource/authority/file-type/WIM;false;;2007-01-30;WIM;WIM;
-http://publications.europa.eu/resource/authority/file-type/WMS_SRVC;false;;1999-01-01;WMS_SRVC;WMS;
-http://publications.europa.eu/resource/authority/file-type/WORLD;false;;2001-03-26;WORLD;World file;
-http://publications.europa.eu/resource/authority/file-type/XHTML;false;;2012-09-01;XHTML;XHTML;
-http://publications.europa.eu/resource/authority/file-type/XHTML5;false;;2022-05-22;XHTML5;XHTML5;
-http://publications.europa.eu/resource/authority/file-type/XHTML_SIMPL;false;;2012-09-01;XHTML_SIMPL;XHTML simplified;
-http://publications.europa.eu/resource/authority/file-type/XLIFF;false;;2001-05-30;XLIFF;XLIFF;
-http://publications.europa.eu/resource/authority/file-type/XLS;false;;2012-09-01;XLS;Excel XLS;
-http://publications.europa.eu/resource/authority/file-type/XLSB;false;;2007-01-30;XLSB;XLSB;
-http://publications.europa.eu/resource/authority/file-type/XLSM;false;;2007-01-30;XLSM;XLSM;
-http://publications.europa.eu/resource/authority/file-type/XLSX;false;;2012-09-01;XLSX;Excel XLSX;
-http://publications.europa.eu/resource/authority/file-type/XML;false;;2012-09-01;XML;XML;
-http://publications.europa.eu/resource/authority/file-type/XSLFO;false;;2012-09-01;XSLFO;XSL-FO;
-http://publications.europa.eu/resource/authority/file-type/XSLT;false;;2012-09-01;XSLT;XSLT;
-http://publications.europa.eu/resource/authority/file-type/XYZ;false;;2010-10-10;XYZ;XYZ Chemical File;
-http://publications.europa.eu/resource/authority/file-type/XZ;false;;2010-10-23;XZ;xz;
-http://publications.europa.eu/resource/authority/file-type/YAML;false;;2001-05-11;YAML;YAML;
-http://publications.europa.eu/resource/authority/file-type/Z;false;;1985-02-01;Z;Z;
-http://publications.europa.eu/resource/authority/file-type/ZIP;false;;2012-09-01;ZIP;ZIP;
+url,deprecated,valid_until,valid_from,id,label_en,label_it
+http://publications.europa.eu/resource/authority/file-type/7Z,false,,2000-01-01,7Z,7z,
+http://publications.europa.eu/resource/authority/file-type/AAB,false,,2021-08-01,AAB,AAB,
+http://publications.europa.eu/resource/authority/file-type/AAC,false,,1997-01-01,AAC,AAC,
+http://publications.europa.eu/resource/authority/file-type/AKN4EU,false,,2019-06-20,AKN4EU,AKN4EU file,
+http://publications.europa.eu/resource/authority/file-type/AKN4EU_ZIP,false,,2019-06-20,AKN4EU_ZIP,AKN4EU ZIP,
+http://publications.europa.eu/resource/authority/file-type/APK,false,,2008-09-23,APK,APK,
+http://publications.europa.eu/resource/authority/file-type/APPX,false,,2012-10-26,APPX,AppX,
+http://publications.europa.eu/resource/authority/file-type/ARC,false,,1996-05-12,ARC,ARC,
+http://publications.europa.eu/resource/authority/file-type/ARCINFO_COV,false,,1982-01-01,ARCINFO_COV,ArcInfo coverage,
+http://publications.europa.eu/resource/authority/file-type/ARC_GZ,false,,2012-09-01,ARC_GZ,ARC GZ,
+http://publications.europa.eu/resource/authority/file-type/ARJ,false,,1990-01-01,ARJ,ARJ,
+http://publications.europa.eu/resource/authority/file-type/ATOM,false,,2005-12-01,ATOM,Atom Feed,
+http://publications.europa.eu/resource/authority/file-type/AZW,false,,2012-09-01,AZW,Amazon Kindle eBook,
+http://publications.europa.eu/resource/authority/file-type/BIN,false,,1996-11-01,BIN,Binary Data,
+http://publications.europa.eu/resource/authority/file-type/BITS,false,,2012-08-22,BITS,BITS XML,
+http://publications.europa.eu/resource/authority/file-type/BMP,false,,1996-04-01,BMP,Bitmap Image File,
+http://publications.europa.eu/resource/authority/file-type/BWF,false,,2001-07-01,BWF,BWF,
+http://publications.europa.eu/resource/authority/file-type/BZIP2,false,,1996-07-18,BZIP2,bzip2,
+http://publications.europa.eu/resource/authority/file-type/CSS,false,,2012-09-01,CSS,CSS,
+http://publications.europa.eu/resource/authority/file-type/CSV,false,,2013-05-21,CSV,CSV,
+http://publications.europa.eu/resource/authority/file-type/DAPK,false,,2022-04-06,DAPK,DAPK,
+http://publications.europa.eu/resource/authority/file-type/DBF,false,,2013-09-18,DBF,DBF,
+http://publications.europa.eu/resource/authority/file-type/DCR,false,,1988-01-01,DCR,DCR File,
+http://publications.europa.eu/resource/authority/file-type/DEB,false,,1994-04-01,DEB,deb,
+http://publications.europa.eu/resource/authority/file-type/DGN,false,,2000-01-01,DGN,DGN,
+http://publications.europa.eu/resource/authority/file-type/DMG,false,,2001-01-01,DMG,DMG,
+http://publications.europa.eu/resource/authority/file-type/DMP,false,,2004-01-01,DMP,Oracle Dump,
+http://publications.europa.eu/resource/authority/file-type/DOC,false,,2012-09-01,DOC,Word DOC,
+http://publications.europa.eu/resource/authority/file-type/DOCX,false,,2012-09-01,DOCX,Word DOCX,
+http://publications.europa.eu/resource/authority/file-type/DTD_SGML,false,,2012-09-01,DTD_SGML,SGML DTD,
+http://publications.europa.eu/resource/authority/file-type/DTD_XML,false,,2012-09-01,DTD_XML,XML DTD,
+http://publications.europa.eu/resource/authority/file-type/DWG,false,,1982-01-01,DWG,DWG,
+http://publications.europa.eu/resource/authority/file-type/DXF,false,,1982-01-01,DXF,DXF,
+http://publications.europa.eu/resource/authority/file-type/E00,false,,2013-09-18,E00,E00,
+http://publications.europa.eu/resource/authority/file-type/EAR,false,,2006-05-11,EAR,EAR,
+http://publications.europa.eu/resource/authority/file-type/ECW,false,,1998-01-01,ECW,ECW,
+http://publications.europa.eu/resource/authority/file-type/EPS,false,,2012-09-01,EPS,Encapsulated Postscript,
+http://publications.europa.eu/resource/authority/file-type/EPUB,false,,2012-09-01,EPUB,EPUB,
+http://publications.europa.eu/resource/authority/file-type/ETSI_XML,false,,2021-06-16,ETSI_XML,ETSI signature validation report,
+http://publications.europa.eu/resource/authority/file-type/EXE,false,,1978-01-01,EXE,EXE,
+http://publications.europa.eu/resource/authority/file-type/FMX2,true,1999-03-31,1989-01-01,FMX2,Formex 2,
+http://publications.europa.eu/resource/authority/file-type/FMX3,true,2004-04-30,1999-04-01,FMX3,Formex 3,
+http://publications.europa.eu/resource/authority/file-type/FMX4,false,,2004-05-01,FMX4,Formex 4,
+http://publications.europa.eu/resource/authority/file-type/FMX4_ZIP,false,,2020-12-16,FMX4_ZIP,FMX4 ZIP,
+http://publications.europa.eu/resource/authority/file-type/GDB,false,,2008-02-06,GDB,Esri File Geodatabase,
+http://publications.europa.eu/resource/authority/file-type/GEOJSON,false,,2016-08-01,GEOJSON,GeoJSON,
+http://publications.europa.eu/resource/authority/file-type/GEOTIFF,false,,2019-09-14,GEOTIFF,GeoTIFF,
+http://publications.europa.eu/resource/authority/file-type/GIF,false,,2012-09-01,GIF,GIF,
+http://publications.europa.eu/resource/authority/file-type/GML,false,,2000-05-01,GML,GML,
+http://publications.europa.eu/resource/authority/file-type/GMZ,false,,2013-09-03,GMZ,Zipped GML,
+http://publications.europa.eu/resource/authority/file-type/GPKG,false,,2014-02-13,GPKG,GeoPackage,
+http://publications.europa.eu/resource/authority/file-type/GRID,false,,2013-08-21,GRID,Esri binary grid,
+http://publications.europa.eu/resource/authority/file-type/GRID_ASCII,false,,2013-08-21,GRID_ASCII,Esri ASCII grid,
+http://publications.europa.eu/resource/authority/file-type/GTFS,false,,2006-09-27,GTFS,GTFS,
+http://publications.europa.eu/resource/authority/file-type/GZIP,false,,2012-09-01,GZIP,GNU zip,
+http://publications.europa.eu/resource/authority/file-type/HDF,false,,1990-01-01,HDF,HDF,
+http://publications.europa.eu/resource/authority/file-type/HDT,false,,2011-03-30,HDT,HDT,
+http://publications.europa.eu/resource/authority/file-type/HTML,false,,2012-09-01,HTML,HTML,
+http://publications.europa.eu/resource/authority/file-type/HTML5,false,,2008-01-22,HTML5,HTML5,
+http://publications.europa.eu/resource/authority/file-type/HTML_SIMPL,false,,2012-09-01,HTML_SIMPL,HTML simplified,
+http://publications.europa.eu/resource/authority/file-type/ICS,false,,1998-01-01,ICS,ICalendar,
+http://publications.europa.eu/resource/authority/file-type/IMMC_XML,false,,2016-04-08,IMMC_XML,IMMC XML message,
+http://publications.europa.eu/resource/authority/file-type/INDD,false,,2012-09-01,INDD,INDD,
+http://publications.europa.eu/resource/authority/file-type/IPA,false,,2008-07-10,IPA,IPA,
+http://publications.europa.eu/resource/authority/file-type/ISO,false,,1988-09-01,ISO,ISO image,
+http://publications.europa.eu/resource/authority/file-type/ISO_ZIP,false,,2012-09-01,ISO_ZIP,Zipped ISO image,
+http://publications.europa.eu/resource/authority/file-type/JAR,false,,1997-01-01,JAR,JAR,
+http://publications.europa.eu/resource/authority/file-type/JATS,false,,2003-03-31,JATS,JATS XML,
+http://publications.europa.eu/resource/authority/file-type/JPEG,false,,2012-09-01,JPEG,JPEG,
+http://publications.europa.eu/resource/authority/file-type/JPEG2000,false,,2000-01-01,JPEG2000,JPEG 2000,
+http://publications.europa.eu/resource/authority/file-type/JS,false,,1995-12-04,JS,JavaScript,
+http://publications.europa.eu/resource/authority/file-type/JSON,false,,2006-07-01,JSON,JSON,
+http://publications.europa.eu/resource/authority/file-type/JSON_LD,false,,2011-12-27,JSON_LD,JSON-LD,
+http://publications.europa.eu/resource/authority/file-type/KML,false,,2013-09-18,KML,KML,
+http://publications.europa.eu/resource/authority/file-type/KMZ,false,,2013-11-27,KMZ,KMZ,
+http://publications.europa.eu/resource/authority/file-type/LAS,false,,2003-05-09,LAS,LASer file,
+http://publications.europa.eu/resource/authority/file-type/LAZ,false,,2003-05-09,LAZ,Compressed LAS file,
+http://publications.europa.eu/resource/authority/file-type/LEG,true,2020-12-15,2016-06-01,LEG,LEG,
+http://publications.europa.eu/resource/authority/file-type/LHA,false,,1988-01-01,LHA,LHA,
+http://publications.europa.eu/resource/authority/file-type/LPK,false,,2010-01-01,LPK,Layer package,
+http://publications.europa.eu/resource/authority/file-type/LZIP,false,,2008-01-01,LZIP,lzip,
+http://publications.europa.eu/resource/authority/file-type/LZMA,false,,2000-01-01,LZMA,lzma,
+http://publications.europa.eu/resource/authority/file-type/LZO,false,,1996-01-01,LZO,lzo,
+http://publications.europa.eu/resource/authority/file-type/MAP_PRVW,false,,2010-01-01,MAP_PRVW,ArcGIS Map Preview,
+http://publications.europa.eu/resource/authority/file-type/MAP_SRVC,false,,2010-01-01,MAP_SRVC,ArcGIS Map Service,
+http://publications.europa.eu/resource/authority/file-type/MBOX,false,,2005-09-01,MBOX,MBOX,
+http://publications.europa.eu/resource/authority/file-type/MDB,false,,2013-09-18,MDB,MDB,
+http://publications.europa.eu/resource/authority/file-type/METS,false,,2003-10-27,METS,METS XML,
+http://publications.europa.eu/resource/authority/file-type/METS_ZIP,false,,2003-10-27,METS_ZIP,METS package,
+http://publications.europa.eu/resource/authority/file-type/MHTML,false,,1999-03-01,MHTML,MHTML,
+http://publications.europa.eu/resource/authority/file-type/MIF_MID,false,,1986-01-01,MIF_MID,MIF/MID,
+http://publications.europa.eu/resource/authority/file-type/MOBI,false,,2012-09-01,MOBI,Mobipocket eBook,
+http://publications.europa.eu/resource/authority/file-type/MOP,false,,2013-09-18,MOP,MOP,
+http://publications.europa.eu/resource/authority/file-type/MP3,false,,1991-12-06,MP3,MP3,
+http://publications.europa.eu/resource/authority/file-type/MPEG2,false,,2000-12-01,MPEG2,MPEG-2,
+http://publications.europa.eu/resource/authority/file-type/MPEG4,false,,2001-10-11,MPEG4,MPEG-4,
+http://publications.europa.eu/resource/authority/file-type/MPEG4_AVC,false,,2003-05-30,MPEG4_AVC,MPEG-4 AVC,
+http://publications.europa.eu/resource/authority/file-type/MRSID,false,,1996-01-01,MRSID,MrSID,
+http://publications.europa.eu/resource/authority/file-type/MSG_HTTP,false,,2014-06-01,MSG_HTTP,HTTP Message,
+http://publications.europa.eu/resource/authority/file-type/MSI,false,,1999-08-31,MSI,MSI,
+http://publications.europa.eu/resource/authority/file-type/MXD,false,,2013-09-18,MXD,MXD,
+http://publications.europa.eu/resource/authority/file-type/N3,false,,2008-01-01,N3,N3,
+http://publications.europa.eu/resource/authority/file-type/NETCDF,false,,1990-01-01,NETCDF,NetCDF,
+http://publications.europa.eu/resource/authority/file-type/OAPK,false,,2022-04-06,OAPK,OAPK,
+http://publications.europa.eu/resource/authority/file-type/OCTET,false,,1996-11-01,OCTET,Octet Stream,
+http://publications.europa.eu/resource/authority/file-type/ODB,false,,2009-01-16,ODB,OpenDocument Database,
+http://publications.europa.eu/resource/authority/file-type/ODC,false,,2005-05-01,ODC,OpenDocument Chart,
+http://publications.europa.eu/resource/authority/file-type/ODF,false,,2012-09-01,ODF,ODF,
+http://publications.europa.eu/resource/authority/file-type/ODG,false,,2006-05-31,ODG,OpenDocument Image,
+http://publications.europa.eu/resource/authority/file-type/ODP,false,,2005-05-01,ODP,ODP,
+http://publications.europa.eu/resource/authority/file-type/ODS,false,,2013-11-27,ODS,ODS,
+http://publications.europa.eu/resource/authority/file-type/ODT,false,,2012-09-01,ODT,ODT,
+http://publications.europa.eu/resource/authority/file-type/OP_DATPRO,,,,OP_DATPRO,Provisional data,Dati provvisori
+http://publications.europa.eu/resource/authority/file-type/OVF,false,,2007-09-10,OVF,OVF,
+http://publications.europa.eu/resource/authority/file-type/OWL,false,,2012-09-01,OWL,OWL,
+http://publications.europa.eu/resource/authority/file-type/PDF,false,,2012-09-01,PDF,PDF,
+http://publications.europa.eu/resource/authority/file-type/PDF1X,false,,2012-09-01,PDF1X,PDF1X,
+http://publications.europa.eu/resource/authority/file-type/PDFA1A,false,,2012-09-01,PDFA1A,PDF/A-1a,
+http://publications.europa.eu/resource/authority/file-type/PDFA1B,false,,2012-09-01,PDFA1B,PDF/A-1b,
+http://publications.europa.eu/resource/authority/file-type/PDFA2A,false,,2011-07-01,PDFA2A,PDF/A-2a,
+http://publications.europa.eu/resource/authority/file-type/PDFA2B,false,,2011-07-01,PDFA2B,PDF/A-2b,
+http://publications.europa.eu/resource/authority/file-type/PDFA3,false,,2012-12-15,PDFA3,PDFA-3,
+http://publications.europa.eu/resource/authority/file-type/PDFUA,false,,2012-07-15,PDFUA,PDF/UA,
+http://publications.europa.eu/resource/authority/file-type/PDFX,false,,2001-12-01,PDFX,PDF/X,
+http://publications.europa.eu/resource/authority/file-type/PDFX1A,false,,2001-12-01,PDFX1A,PDF/X-1a,
+http://publications.europa.eu/resource/authority/file-type/PDFX2A,false,,2003-12-01,PDFX2A,PDF/X-2a,
+http://publications.europa.eu/resource/authority/file-type/PDFX4,false,,2008-03-01,PDFX4,PDF/X-4,
+http://publications.europa.eu/resource/authority/file-type/PL,false,,1987-12-18,PL,Perl script,
+http://publications.europa.eu/resource/authority/file-type/PNG,false,,2012-09-01,PNG,PNG,
+http://publications.europa.eu/resource/authority/file-type/PPS,false,,2012-09-01,PPS,PowerPoint Slide Show,
+http://publications.europa.eu/resource/authority/file-type/PPSX,false,,2012-09-01,PPSX,PowerPoint PPSX,
+http://publications.europa.eu/resource/authority/file-type/PPT,false,,2012-09-01,PPT,PowerPoint PPT,
+http://publications.europa.eu/resource/authority/file-type/PPTX,false,,2012-09-01,PPTX,PowerPoint PPTX,
+http://publications.europa.eu/resource/authority/file-type/PS,false,,2012-09-01,PS,PS,
+http://publications.europa.eu/resource/authority/file-type/PSD,false,,2012-09-01,PSD,PSD,
+http://publications.europa.eu/resource/authority/file-type/PWP,false,,2017-05-01,PWP,PWP,
+http://publications.europa.eu/resource/authority/file-type/QGS,false,,2002-07-01,QGS,QGS,
+http://publications.europa.eu/resource/authority/file-type/RAR,false,,1993-03-01,RAR,RAR,
+http://publications.europa.eu/resource/authority/file-type/RDF,false,,2012-09-01,RDF,RDF,
+http://publications.europa.eu/resource/authority/file-type/RDFA,false,,2006-03-10,RDFA,RDFa,
+http://publications.europa.eu/resource/authority/file-type/RDF_N_QUADS,false,,2013-04-09,RDF_N_QUADS,RDF N-Quads,
+http://publications.europa.eu/resource/authority/file-type/RDF_N_TRIPLES,false,,2008-02-17,RDF_N_TRIPLES,RDF N-Triples,
+http://publications.europa.eu/resource/authority/file-type/RDF_THRIFT,false,,2014-01-01,RDF_THRIFT,RDF Thrift,
+http://publications.europa.eu/resource/authority/file-type/RDF_TRIG,false,,2013-04-09,RDF_TRIG,RDF TriG,
+http://publications.europa.eu/resource/authority/file-type/RDF_TRIX,false,,2004-05-13,RDF_TRIX,RDF TriX,
+http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE,false,,2012-09-01,RDF_TURTLE,RDF Turtle,
+http://publications.europa.eu/resource/authority/file-type/RDF_XML,false,,2012-09-01,RDF_XML,RDF XML,
+http://publications.europa.eu/resource/authority/file-type/REST,false,,2010-01-01,REST,Esri REST,
+http://publications.europa.eu/resource/authority/file-type/RPM,false,,1997-01-01,RPM,RPM,
+http://publications.europa.eu/resource/authority/file-type/RSS,false,,2013-11-27,RSS,RSS feed,
+http://publications.europa.eu/resource/authority/file-type/RTF,false,,2012-09-01,RTF,RTF,
+http://publications.europa.eu/resource/authority/file-type/SB3,false,,2019-01-02,SB3,sb3,
+http://publications.europa.eu/resource/authority/file-type/SCHEMA_XML,false,,2012-09-01,SCHEMA_XML,XML schema,
+http://publications.europa.eu/resource/authority/file-type/SDMX,false,,2001-01-01,SDMX,SDMX,
+http://publications.europa.eu/resource/authority/file-type/SGML,false,,2012-09-01,SGML,SGML,
+http://publications.europa.eu/resource/authority/file-type/SHP,false,,1998-07-01,SHP,Esri Shape,
+http://publications.europa.eu/resource/authority/file-type/SKOS_XML,false,,2012-09-01,SKOS_XML,SKOS,
+http://publications.europa.eu/resource/authority/file-type/SPARQLQ,false,,2012-09-01,SPARQLQ,SPARQL,
+http://publications.europa.eu/resource/authority/file-type/SPARQLQRES,false,,2012-09-01,SPARQLQRES,SPARQL results,
+http://publications.europa.eu/resource/authority/file-type/SQL,false,,1974-01-01,SQL,SQL,
+http://publications.europa.eu/resource/authority/file-type/STL,false,,1987-01-01,STL,StL,
+http://publications.europa.eu/resource/authority/file-type/SVG,false,,2001-09-04,SVG,SVG,
+http://publications.europa.eu/resource/authority/file-type/SWM,false,,2007-01-30,SWM,SWM,
+http://publications.europa.eu/resource/authority/file-type/TAB,false,,2000-03-26,TAB,MapInfo TAB file,
+http://publications.europa.eu/resource/authority/file-type/TAB_RSTR,false,,2000-03-26,TAB_RSTR,MapInfo TAB raster file,
+http://publications.europa.eu/resource/authority/file-type/TAR,false,,2012-09-01,TAR,TAR,
+http://publications.europa.eu/resource/authority/file-type/TAR_GZ,false,,2012-09-01,TAR_GZ,TAR GZ,
+http://publications.europa.eu/resource/authority/file-type/TAR_XZ,false,,2012-09-01,TAR_XZ,TAR XZ,
+http://publications.europa.eu/resource/authority/file-type/TIFF,false,,2012-09-01,TIFF,TIFF,
+http://publications.europa.eu/resource/authority/file-type/TIFF_FX,false,,2005-02-01,TIFF_FX,TIFF FX,
+http://publications.europa.eu/resource/authority/file-type/TMX,false,,1997-11-25,TMX,TMX,
+http://publications.europa.eu/resource/authority/file-type/TSV,false,,2013-10-02,TSV,TSV,
+http://publications.europa.eu/resource/authority/file-type/TXT,false,,2012-09-01,TXT,Plain text,
+http://publications.europa.eu/resource/authority/file-type/UNGEN,false,,2010-01-01,UNGEN,Ungen,
+http://publications.europa.eu/resource/authority/file-type/WAR,false,,1999-01-01,WAR,WAR,
+http://publications.europa.eu/resource/authority/file-type/WARC,false,,2009-05-15,WARC,WARC,
+http://publications.europa.eu/resource/authority/file-type/WARC_GZ,false,,2012-09-01,WARC_GZ,WARC GZ,
+http://publications.europa.eu/resource/authority/file-type/WAV,false,,1991-08-01,WAV,WAV,
+http://publications.europa.eu/resource/authority/file-type/WCS_SRVC,false,,2003-08-27,WCS_SRVC,WCS,
+http://publications.europa.eu/resource/authority/file-type/WFS_SRVC,false,,2006-01-01,WFS_SRVC,WFS,
+http://publications.europa.eu/resource/authority/file-type/WIM,false,,2007-01-30,WIM,WIM,
+http://publications.europa.eu/resource/authority/file-type/WMS_SRVC,false,,1999-01-01,WMS_SRVC,WMS,
+http://publications.europa.eu/resource/authority/file-type/WORLD,false,,2001-03-26,WORLD,World file,
+http://publications.europa.eu/resource/authority/file-type/XHTML,false,,2012-09-01,XHTML,XHTML,
+http://publications.europa.eu/resource/authority/file-type/XHTML5,false,,2022-05-22,XHTML5,XHTML5,
+http://publications.europa.eu/resource/authority/file-type/XHTML_SIMPL,false,,2012-09-01,XHTML_SIMPL,XHTML simplified,
+http://publications.europa.eu/resource/authority/file-type/XLIFF,false,,2001-05-30,XLIFF,XLIFF,
+http://publications.europa.eu/resource/authority/file-type/XLS,false,,2012-09-01,XLS,Excel XLS,
+http://publications.europa.eu/resource/authority/file-type/XLSB,false,,2007-01-30,XLSB,XLSB,
+http://publications.europa.eu/resource/authority/file-type/XLSM,false,,2007-01-30,XLSM,XLSM,
+http://publications.europa.eu/resource/authority/file-type/XLSX,false,,2012-09-01,XLSX,Excel XLSX,
+http://publications.europa.eu/resource/authority/file-type/XML,false,,2012-09-01,XML,XML,
+http://publications.europa.eu/resource/authority/file-type/XSLFO,false,,2012-09-01,XSLFO,XSL-FO,
+http://publications.europa.eu/resource/authority/file-type/XSLT,false,,2012-09-01,XSLT,XSLT,
+http://publications.europa.eu/resource/authority/file-type/XYZ,false,,2010-10-10,XYZ,XYZ Chemical File,
+http://publications.europa.eu/resource/authority/file-type/XZ,false,,2010-10-23,XZ,xz,
+http://publications.europa.eu/resource/authority/file-type/YAML,false,,2001-05-11,YAML,YAML,
+http://publications.europa.eu/resource/authority/file-type/Z,false,,1985-02-01,Z,Z,
+http://publications.europa.eu/resource/authority/file-type/ZIP,false,,2012-09-01,ZIP,ZIP,

@@ -1,11 +1,11 @@
-url;deprecated;valid_until;valid_from;id;label_en;label_it
-http://publications.europa.eu/resource/authority/customer-service/OP_DATPRO;;;;OP_DATPRO;Provisional data;Dati provvisori
-http://publications.europa.eu/resource/authority/customer-service/assistance;false;;2021-06-16;assistance;Assistance for persons with reduced mobility;Assistenza alle persone a mobilità ridotta
-http://publications.europa.eu/resource/authority/customer-service/cancel;false;;2021-06-16;cancel;Cancellations;Cancellazioni
-http://publications.europa.eu/resource/authority/customer-service/clean;false;;2021-06-16;clean;Cleanliness of rolling stock and station facilities;Pulizia del materiale rotabile e delle stazioni
-http://publications.europa.eu/resource/authority/customer-service/complaint;false;;2021-06-16;complaint;Complaint handling;Trattamento dei reclami
-http://publications.europa.eu/resource/authority/customer-service/info;false;;2021-06-16;info;Information;Informazioni
-http://publications.europa.eu/resource/authority/customer-service/other;false;;2021-06-16;other;Other;Altro
-http://publications.europa.eu/resource/authority/customer-service/reliability;false;;2021-06-16;reliability;Punctuality and reliability;Puntualità e affidabilità
-http://publications.europa.eu/resource/authority/customer-service/sat-surv;false;;2021-06-16;sat-surv;Customer satisfaction survey;Sondaggio sulla soddisfazione della clientela
-http://publications.europa.eu/resource/authority/customer-service/ticket;false;;2021-06-16;ticket;Ticketing;Emissione di biglietti
+url,deprecated,valid_until,valid_from,id,label_en,label_it
+http://publications.europa.eu/resource/authority/customer-service/OP_DATPRO,,,,OP_DATPRO,Provisional data,Dati provvisori
+http://publications.europa.eu/resource/authority/customer-service/assistance,false,,2021-06-16,assistance,Assistance for persons with reduced mobility,Assistenza alle persone a mobilità ridotta
+http://publications.europa.eu/resource/authority/customer-service/cancel,false,,2021-06-16,cancel,Cancellations,Cancellazioni
+http://publications.europa.eu/resource/authority/customer-service/clean,false,,2021-06-16,clean,Cleanliness of rolling stock and station facilities,Pulizia del materiale rotabile e delle stazioni
+http://publications.europa.eu/resource/authority/customer-service/complaint,false,,2021-06-16,complaint,Complaint handling,Trattamento dei reclami
+http://publications.europa.eu/resource/authority/customer-service/info,false,,2021-06-16,info,Information,Informazioni
+http://publications.europa.eu/resource/authority/customer-service/other,false,,2021-06-16,other,Other,Altro
+http://publications.europa.eu/resource/authority/customer-service/reliability,false,,2021-06-16,reliability,Punctuality and reliability,Puntualità e affidabilità
+http://publications.europa.eu/resource/authority/customer-service/sat-surv,false,,2021-06-16,sat-surv,Customer satisfaction survey,Sondaggio sulla soddisfazione della clientela
+http://publications.europa.eu/resource/authority/customer-service/ticket,false,,2021-06-16,ticket,Ticketing,Emissione di biglietti

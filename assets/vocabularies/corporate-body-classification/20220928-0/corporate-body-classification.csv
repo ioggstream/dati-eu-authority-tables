@@ -1,45 +1,45 @@
-url;deprecated;valid_until;valid_from;id;label_en;label_it
-http://publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_CFSP;false;;2002-01-01;AGENCY_CFSP;Common foreign and security policy agency;Agenzia per la politica estera e di sicurezza comune
-http://publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC;false;;1994-09-01;AGENCY_DEC;Decentralised agency;Agenzia decentrata
-http://publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_EURATOM;false;;1958-12-06;AGENCY_EURATOM;Euratom agency;Agenzia dell’Euratom
-http://publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_EXEC;false;;2014-12-17;AGENCY_EXEC;Executive agency;Agenzia esecutiva
-http://publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_OTHER;false;;2007-01-01;AGENCY_OTHER;Other agency;Altra agenzia
-http://publications.europa.eu/resource/authority/corporate-body-classification/CB;false;;1951-01-01;CB;Corporate body;Persona giuridica
-http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU;false;;1951-01-01;CB_EU;European Union corporate body;Persona giuridica dell’Unione europea
-http://publications.europa.eu/resource/authority/corporate-body-classification/CB_INT;false;;1900-01-01;CB_INT;International organisation;Organizzazione internazionale
-http://publications.europa.eu/resource/authority/corporate-body-classification/CB_OTHER;false;;2012-08-30;CB_OTHER;Other organisation;Altra organizzazione
-http://publications.europa.eu/resource/authority/corporate-body-classification/CMT_MIX;false;;1957-03-25;CMT_MIX;Joint committee;Comitato misto
-http://publications.europa.eu/resource/authority/corporate-body-classification/COR_COM;false;;1994-03-09;COR_COM;COR commission;Commissione CdR
-http://publications.europa.eu/resource/authority/corporate-body-classification/COR_DIR;false;;2012-01-01;COR_DIR;COR directorate;Direzione CdR
-http://publications.europa.eu/resource/authority/corporate-body-classification/COR_GROUP;false;;1994-03-09;COR_GROUP;COR group;Gruppo CdR
-http://publications.europa.eu/resource/authority/corporate-body-classification/COUN_ASS;false;;1957-03-25;COUN_ASS;Association council;Consiglio di associazione
-http://publications.europa.eu/resource/authority/corporate-body-classification/COUN_COOP;false;;1958-01-01;COUN_COOP;Cooperation council;Consiglio di cooperazione
-http://publications.europa.eu/resource/authority/corporate-body-classification/COUN_STAB_ASS;false;;2009-12-01;COUN_STAB_ASS;Stabilisation and association council;Consiglio di stabilizzazione e di associazione
-http://publications.europa.eu/resource/authority/corporate-body-classification/DEL;false;;1960-01-01;DEL;Delegation;Delegazione
-http://publications.europa.eu/resource/authority/corporate-body-classification/DIR;false;;1958-01-01;DIR;Directorate;Direzione
-http://publications.europa.eu/resource/authority/corporate-body-classification/DIR_GEN;false;;1958-01-01;DIR_GEN;Directorate-general;Direzione generale
-http://publications.europa.eu/resource/authority/corporate-body-classification/EP_AP;false;;1952-07-23;EP_AP;Delegation to a parliamentary assembly;Delegazione a un’assemblea parlamentare
-http://publications.europa.eu/resource/authority/corporate-body-classification/EP_CE;false;;1958-03-19;EP_CE;EP committee of inquiry;Commissione di inchiesta del PE
-http://publications.europa.eu/resource/authority/corporate-body-classification/EP_CJ;false;;1958-03-19;EP_CJ;EP joint committee;Comissione mista del PE
-http://publications.europa.eu/resource/authority/corporate-body-classification/EP_CMT;false;;1958-03-19;EP_CMT;EP parliamentary committee;Commissione parlamentare PE
-http://publications.europa.eu/resource/authority/corporate-body-classification/EP_CT;false;;1958-03-19;EP_CT;EP special committee;Commissione speciale del PE
-http://publications.europa.eu/resource/authority/corporate-body-classification/EP_DE;false;;1952-07-23;EP_DE;Interparliamentary delegation;Delegazione interparlamentare
-http://publications.europa.eu/resource/authority/corporate-body-classification/EP_DEL;false;;1952-07-23;EP_DEL;EP delegation;Delegazione del PE
-http://publications.europa.eu/resource/authority/corporate-body-classification/EP_DIR_GEN;false;;1952-07-23;EP_DIR_GEN;EP directorate-general;Direzione generale PE
-http://publications.europa.eu/resource/authority/corporate-body-classification/EP_DM;false;;1952-07-23;EP_DM;Delegation to a joint committee;Delegazione a un comitato misto
-http://publications.europa.eu/resource/authority/corporate-body-classification/EP_GROUP;false;;1958-01-01;EP_GROUP;EP political group;Gruppo politico PE
-http://publications.europa.eu/resource/authority/corporate-body-classification/EP_IG;false;;1952-07-23;EP_IG;Intergroup;Intergruppo
-http://publications.europa.eu/resource/authority/corporate-body-classification/EP_POLBODY;false;;1952-07-23;EP_POLBODY;EP political body;Organo politico del PE
-http://publications.europa.eu/resource/authority/corporate-body-classification/EP_SC;false;;1958-03-19;EP_SC;EP subcommittee;Sottocommissione del PE
-http://publications.europa.eu/resource/authority/corporate-body-classification/EU_AGENCY;false;;1958-12-06;EU_AGENCY;EU agency;Agenzia dell’UE
-http://publications.europa.eu/resource/authority/corporate-body-classification/EU_BODY;false;;1951-01-01;EU_BODY;EU body;Organo dell’UE
-http://publications.europa.eu/resource/authority/corporate-body-classification/EU_INST;false;;1951-01-01;EU_INST;EU institution;Istituzione dell’UE
-http://publications.europa.eu/resource/authority/corporate-body-classification/EU_INTERINSTSERV;false;;1968-12-31;EU_INTERINSTSERV;EU interinstitutional service;Servizio interistituzionale dell’UE
-http://publications.europa.eu/resource/authority/corporate-body-classification/EU_JU;false;;2007-02-27;EU_JU;EU joint undertaking;Impresa comune dell’UE
-http://publications.europa.eu/resource/authority/corporate-body-classification/INF_OFF;false;;1958-01-01;INF_OFF;Information office;Ufficio d’informazione
-http://publications.europa.eu/resource/authority/corporate-body-classification/LIA_OFF;false;;2018-07-01;LIA_OFF;Liaison office;Ufficio di collegamento
-http://publications.europa.eu/resource/authority/corporate-body-classification/NP;false;;1900-01-01;NP;National party;Partito nazionale
-http://publications.europa.eu/resource/authority/corporate-body-classification/OP_DATPRO;false;;1952-07-23;OP_DATPRO;Provisional data;Dati provvisori
-http://publications.europa.eu/resource/authority/corporate-body-classification/REPRES;false;;1958-01-01;REPRES;Representation;Rappresentanza
-http://publications.europa.eu/resource/authority/corporate-body-classification/SERV_DEP;false;;1983-02-01;SERV_DEP;Service;Servizio
-http://publications.europa.eu/resource/authority/corporate-body-classification/WG;false;;1901-01-01;WG;Working group;Gruppo di lavoro
+url,deprecated,valid_until,valid_from,id,label_en,label_it
+http://publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_CFSP,false,,2002-01-01,AGENCY_CFSP,Common foreign and security policy agency,Agenzia per la politica estera e di sicurezza comune
+http://publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC,false,,1994-09-01,AGENCY_DEC,Decentralised agency,Agenzia decentrata
+http://publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_EURATOM,false,,1958-12-06,AGENCY_EURATOM,Euratom agency,Agenzia dell’Euratom
+http://publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_EXEC,false,,2014-12-17,AGENCY_EXEC,Executive agency,Agenzia esecutiva
+http://publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_OTHER,false,,2007-01-01,AGENCY_OTHER,Other agency,Altra agenzia
+http://publications.europa.eu/resource/authority/corporate-body-classification/CB,false,,1951-01-01,CB,Corporate body,Persona giuridica
+http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU,false,,1951-01-01,CB_EU,European Union corporate body,Persona giuridica dell’Unione europea
+http://publications.europa.eu/resource/authority/corporate-body-classification/CB_INT,false,,1900-01-01,CB_INT,International organisation,Organizzazione internazionale
+http://publications.europa.eu/resource/authority/corporate-body-classification/CB_OTHER,false,,2012-08-30,CB_OTHER,Other organisation,Altra organizzazione
+http://publications.europa.eu/resource/authority/corporate-body-classification/CMT_MIX,false,,1957-03-25,CMT_MIX,Joint committee,Comitato misto
+http://publications.europa.eu/resource/authority/corporate-body-classification/COR_COM,false,,1994-03-09,COR_COM,COR commission,Commissione CdR
+http://publications.europa.eu/resource/authority/corporate-body-classification/COR_DIR,false,,2012-01-01,COR_DIR,COR directorate,Direzione CdR
+http://publications.europa.eu/resource/authority/corporate-body-classification/COR_GROUP,false,,1994-03-09,COR_GROUP,COR group,Gruppo CdR
+http://publications.europa.eu/resource/authority/corporate-body-classification/COUN_ASS,false,,1957-03-25,COUN_ASS,Association council,Consiglio di associazione
+http://publications.europa.eu/resource/authority/corporate-body-classification/COUN_COOP,false,,1958-01-01,COUN_COOP,Cooperation council,Consiglio di cooperazione
+http://publications.europa.eu/resource/authority/corporate-body-classification/COUN_STAB_ASS,false,,2009-12-01,COUN_STAB_ASS,Stabilisation and association council,Consiglio di stabilizzazione e di associazione
+http://publications.europa.eu/resource/authority/corporate-body-classification/DEL,false,,1960-01-01,DEL,Delegation,Delegazione
+http://publications.europa.eu/resource/authority/corporate-body-classification/DIR,false,,1958-01-01,DIR,Directorate,Direzione
+http://publications.europa.eu/resource/authority/corporate-body-classification/DIR_GEN,false,,1958-01-01,DIR_GEN,Directorate-general,Direzione generale
+http://publications.europa.eu/resource/authority/corporate-body-classification/EP_AP,false,,1952-07-23,EP_AP,Delegation to a parliamentary assembly,Delegazione a un’assemblea parlamentare
+http://publications.europa.eu/resource/authority/corporate-body-classification/EP_CE,false,,1958-03-19,EP_CE,EP committee of inquiry,Commissione di inchiesta del PE
+http://publications.europa.eu/resource/authority/corporate-body-classification/EP_CJ,false,,1958-03-19,EP_CJ,EP joint committee,Comissione mista del PE
+http://publications.europa.eu/resource/authority/corporate-body-classification/EP_CMT,false,,1958-03-19,EP_CMT,EP parliamentary committee,Commissione parlamentare PE
+http://publications.europa.eu/resource/authority/corporate-body-classification/EP_CT,false,,1958-03-19,EP_CT,EP special committee,Commissione speciale del PE
+http://publications.europa.eu/resource/authority/corporate-body-classification/EP_DE,false,,1952-07-23,EP_DE,Interparliamentary delegation,Delegazione interparlamentare
+http://publications.europa.eu/resource/authority/corporate-body-classification/EP_DEL,false,,1952-07-23,EP_DEL,EP delegation,Delegazione del PE
+http://publications.europa.eu/resource/authority/corporate-body-classification/EP_DIR_GEN,false,,1952-07-23,EP_DIR_GEN,EP directorate-general,Direzione generale PE
+http://publications.europa.eu/resource/authority/corporate-body-classification/EP_DM,false,,1952-07-23,EP_DM,Delegation to a joint committee,Delegazione a un comitato misto
+http://publications.europa.eu/resource/authority/corporate-body-classification/EP_GROUP,false,,1958-01-01,EP_GROUP,EP political group,Gruppo politico PE
+http://publications.europa.eu/resource/authority/corporate-body-classification/EP_IG,false,,1952-07-23,EP_IG,Intergroup,Intergruppo
+http://publications.europa.eu/resource/authority/corporate-body-classification/EP_POLBODY,false,,1952-07-23,EP_POLBODY,EP political body,Organo politico del PE
+http://publications.europa.eu/resource/authority/corporate-body-classification/EP_SC,false,,1958-03-19,EP_SC,EP subcommittee,Sottocommissione del PE
+http://publications.europa.eu/resource/authority/corporate-body-classification/EU_AGENCY,false,,1958-12-06,EU_AGENCY,EU agency,Agenzia dell’UE
+http://publications.europa.eu/resource/authority/corporate-body-classification/EU_BODY,false,,1951-01-01,EU_BODY,EU body,Organo dell’UE
+http://publications.europa.eu/resource/authority/corporate-body-classification/EU_INST,false,,1951-01-01,EU_INST,EU institution,Istituzione dell’UE
+http://publications.europa.eu/resource/authority/corporate-body-classification/EU_INTERINSTSERV,false,,1968-12-31,EU_INTERINSTSERV,EU interinstitutional service,Servizio interistituzionale dell’UE
+http://publications.europa.eu/resource/authority/corporate-body-classification/EU_JU,false,,2007-02-27,EU_JU,EU joint undertaking,Impresa comune dell’UE
+http://publications.europa.eu/resource/authority/corporate-body-classification/INF_OFF,false,,1958-01-01,INF_OFF,Information office,Ufficio d’informazione
+http://publications.europa.eu/resource/authority/corporate-body-classification/LIA_OFF,false,,2018-07-01,LIA_OFF,Liaison office,Ufficio di collegamento
+http://publications.europa.eu/resource/authority/corporate-body-classification/NP,false,,1900-01-01,NP,National party,Partito nazionale
+http://publications.europa.eu/resource/authority/corporate-body-classification/OP_DATPRO,false,,1952-07-23,OP_DATPRO,Provisional data,Dati provvisori
+http://publications.europa.eu/resource/authority/corporate-body-classification/REPRES,false,,1958-01-01,REPRES,Representation,Rappresentanza
+http://publications.europa.eu/resource/authority/corporate-body-classification/SERV_DEP,false,,1983-02-01,SERV_DEP,Service,Servizio
+http://publications.europa.eu/resource/authority/corporate-body-classification/WG,false,,1901-01-01,WG,Working group,Gruppo di lavoro

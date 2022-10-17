@@ -1,32 +1,32 @@
-url;deprecated;valid_until;valid_from;id;label_en;label_it
-http://publications.europa.eu/resource/authority/frequency/ANNUAL;false;;1952-07-25;ANNUAL;annual;annuale
-http://publications.europa.eu/resource/authority/frequency/ANNUAL_2;false;;1952-07-25;ANNUAL_2;semiannual;semestrale
-http://publications.europa.eu/resource/authority/frequency/ANNUAL_3;false;;1952-07-25;ANNUAL_3;three times a year;tre volte all'anno
-http://publications.europa.eu/resource/authority/frequency/BIDECENNIAL;false;;1952-07-25;BIDECENNIAL;bidecennial;bidecennale
-http://publications.europa.eu/resource/authority/frequency/BIENNIAL;false;;1952-07-25;BIENNIAL;biennial;biennale
-http://publications.europa.eu/resource/authority/frequency/BIHOURLY;false;;1952-07-25;BIHOURLY;bihourly;ogni due ore
-http://publications.europa.eu/resource/authority/frequency/BIMONTHLY;false;;1952-07-25;BIMONTHLY;bimonthly;bimestrale
-http://publications.europa.eu/resource/authority/frequency/BIWEEKLY;false;;1952-07-25;BIWEEKLY;biweekly;quindicinale
-http://publications.europa.eu/resource/authority/frequency/CONT;false;;1952-07-25;CONT;continuous;continuo
-http://publications.europa.eu/resource/authority/frequency/DAILY;false;;1952-07-25;DAILY;daily;quotidiano
-http://publications.europa.eu/resource/authority/frequency/DAILY_2;false;;1952-07-25;DAILY_2;twice a day;due volte al giorno
-http://publications.europa.eu/resource/authority/frequency/DECENNIAL;false;;1952-07-25;DECENNIAL;decennial;decennale
-http://publications.europa.eu/resource/authority/frequency/HOURLY;false;;1952-07-25;HOURLY;hourly;ogni ora
-http://publications.europa.eu/resource/authority/frequency/IRREG;false;;1952-07-25;IRREG;irregular;irregolare
-http://publications.europa.eu/resource/authority/frequency/MONTHLY;false;;1952-07-25;MONTHLY;monthly;mensile
-http://publications.europa.eu/resource/authority/frequency/MONTHLY_2;false;;1952-07-25;MONTHLY_2;semimonthly;bimensile
-http://publications.europa.eu/resource/authority/frequency/MONTHLY_3;false;;1952-07-25;MONTHLY_3;three times a month;tre volte al mese
-http://publications.europa.eu/resource/authority/frequency/NEVER;false;;1952-07-25;NEVER;never;mai
-http://publications.europa.eu/resource/authority/frequency/OP_DATPRO;false;;1952-07-23;OP_DATPRO;Provisional data;Dati provvisori
-http://publications.europa.eu/resource/authority/frequency/OTHER;false;;1952-07-25;OTHER;other;altro
-http://publications.europa.eu/resource/authority/frequency/QUADRENNIAL;false;;1952-07-25;QUADRENNIAL;quadrennial;ogni quattro anni
-http://publications.europa.eu/resource/authority/frequency/QUARTERLY;false;;1952-07-25;QUARTERLY;quarterly;trimestrale
-http://publications.europa.eu/resource/authority/frequency/QUINQUENNIAL;false;;1952-07-25;QUINQUENNIAL;quinquennial;ogni cinque anni
-http://publications.europa.eu/resource/authority/frequency/TRIDECENNIAL;false;;1952-07-25;TRIDECENNIAL;tridecennial;tridecennale
-http://publications.europa.eu/resource/authority/frequency/TRIENNIAL;false;;1952-07-25;TRIENNIAL;triennial;triennale
-http://publications.europa.eu/resource/authority/frequency/TRIHOURLY;false;;1952-07-25;TRIHOURLY;trihourly;ogni tre ore
-http://publications.europa.eu/resource/authority/frequency/UNKNOWN;false;;1952-07-25;UNKNOWN;unknown;sconosciuto
-http://publications.europa.eu/resource/authority/frequency/UPDATE_CONT;false;;1952-07-25;UPDATE_CONT;continuously updated;in continuo aggiornamento
-http://publications.europa.eu/resource/authority/frequency/WEEKLY;false;;1952-07-25;WEEKLY;weekly;settimanale
-http://publications.europa.eu/resource/authority/frequency/WEEKLY_2;false;;1952-07-25;WEEKLY_2;semiweekly;bisettimanale
-http://publications.europa.eu/resource/authority/frequency/WEEKLY_3;false;;1952-07-25;WEEKLY_3;three times a week;tre volte a settimana
+url,deprecated,valid_until,valid_from,id,label_en,label_it
+http://publications.europa.eu/resource/authority/frequency/ANNUAL,false,,1952-07-25,ANNUAL,annual,annuale
+http://publications.europa.eu/resource/authority/frequency/ANNUAL_2,false,,1952-07-25,ANNUAL_2,semiannual,semestrale
+http://publications.europa.eu/resource/authority/frequency/ANNUAL_3,false,,1952-07-25,ANNUAL_3,three times a year,tre volte all'anno
+http://publications.europa.eu/resource/authority/frequency/BIDECENNIAL,false,,1952-07-25,BIDECENNIAL,bidecennial,bidecennale
+http://publications.europa.eu/resource/authority/frequency/BIENNIAL,false,,1952-07-25,BIENNIAL,biennial,biennale
+http://publications.europa.eu/resource/authority/frequency/BIHOURLY,false,,1952-07-25,BIHOURLY,bihourly,ogni due ore
+http://publications.europa.eu/resource/authority/frequency/BIMONTHLY,false,,1952-07-25,BIMONTHLY,bimonthly,bimestrale
+http://publications.europa.eu/resource/authority/frequency/BIWEEKLY,false,,1952-07-25,BIWEEKLY,biweekly,quindicinale
+http://publications.europa.eu/resource/authority/frequency/CONT,false,,1952-07-25,CONT,continuous,continuo
+http://publications.europa.eu/resource/authority/frequency/DAILY,false,,1952-07-25,DAILY,daily,quotidiano
+http://publications.europa.eu/resource/authority/frequency/DAILY_2,false,,1952-07-25,DAILY_2,twice a day,due volte al giorno
+http://publications.europa.eu/resource/authority/frequency/DECENNIAL,false,,1952-07-25,DECENNIAL,decennial,decennale
+http://publications.europa.eu/resource/authority/frequency/HOURLY,false,,1952-07-25,HOURLY,hourly,ogni ora
+http://publications.europa.eu/resource/authority/frequency/IRREG,false,,1952-07-25,IRREG,irregular,irregolare
+http://publications.europa.eu/resource/authority/frequency/MONTHLY,false,,1952-07-25,MONTHLY,monthly,mensile
+http://publications.europa.eu/resource/authority/frequency/MONTHLY_2,false,,1952-07-25,MONTHLY_2,semimonthly,bimensile
+http://publications.europa.eu/resource/authority/frequency/MONTHLY_3,false,,1952-07-25,MONTHLY_3,three times a month,tre volte al mese
+http://publications.europa.eu/resource/authority/frequency/NEVER,false,,1952-07-25,NEVER,never,mai
+http://publications.europa.eu/resource/authority/frequency/OP_DATPRO,false,,1952-07-23,OP_DATPRO,Provisional data,Dati provvisori
+http://publications.europa.eu/resource/authority/frequency/OTHER,false,,1952-07-25,OTHER,other,altro
+http://publications.europa.eu/resource/authority/frequency/QUADRENNIAL,false,,1952-07-25,QUADRENNIAL,quadrennial,ogni quattro anni
+http://publications.europa.eu/resource/authority/frequency/QUARTERLY,false,,1952-07-25,QUARTERLY,quarterly,trimestrale
+http://publications.europa.eu/resource/authority/frequency/QUINQUENNIAL,false,,1952-07-25,QUINQUENNIAL,quinquennial,ogni cinque anni
+http://publications.europa.eu/resource/authority/frequency/TRIDECENNIAL,false,,1952-07-25,TRIDECENNIAL,tridecennial,tridecennale
+http://publications.europa.eu/resource/authority/frequency/TRIENNIAL,false,,1952-07-25,TRIENNIAL,triennial,triennale
+http://publications.europa.eu/resource/authority/frequency/TRIHOURLY,false,,1952-07-25,TRIHOURLY,trihourly,ogni tre ore
+http://publications.europa.eu/resource/authority/frequency/UNKNOWN,false,,1952-07-25,UNKNOWN,unknown,sconosciuto
+http://publications.europa.eu/resource/authority/frequency/UPDATE_CONT,false,,1952-07-25,UPDATE_CONT,continuously updated,in continuo aggiornamento
+http://publications.europa.eu/resource/authority/frequency/WEEKLY,false,,1952-07-25,WEEKLY,weekly,settimanale
+http://publications.europa.eu/resource/authority/frequency/WEEKLY_2,false,,1952-07-25,WEEKLY_2,semiweekly,bisettimanale
+http://publications.europa.eu/resource/authority/frequency/WEEKLY_3,false,,1952-07-25,WEEKLY_3,three times a week,tre volte a settimana

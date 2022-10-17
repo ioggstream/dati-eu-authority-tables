@@ -1,45 +1,45 @@
-url;deprecated;valid_until;valid_from;id;label_en;label_it
-http://publications.europa.eu/resource/authority/address-type/ADM;false;;2021-09-29;ADM;Administrative address;Indirizzo amministrativo
-http://publications.europa.eu/resource/authority/address-type/ADR_OFFICE;false;;2009-12-01;ADR_OFFICE;Office address;Indirizzo professionale
-http://publications.europa.eu/resource/authority/address-type/ADR_POSTAL;false;;2009-12-01;ADR_POSTAL;Postal address;
-http://publications.europa.eu/resource/authority/address-type/BLG;false;;2021-09-29;BLG;Blog;Blog
-http://publications.europa.eu/resource/authority/address-type/CAL;false;;2021-09-29;CAL;Calendar;Calendario
-http://publications.europa.eu/resource/authority/address-type/CDC;false;;2021-09-29;CDC;Correspondence and documentation;Posta e documentazione
-http://publications.europa.eu/resource/authority/address-type/CON;false;;2021-09-29;CON;Confidential address;Indirizzo riservato
-http://publications.europa.eu/resource/authority/address-type/DIF;false;;2021-12-08;DIF;Declaration of financial interests;Dichiarazione di interesse(i) finanziari(o)
-http://publications.europa.eu/resource/authority/address-type/DOC;false;;2021-09-29;DOC;Documentation address;Indirizzo per la documentazione
-http://publications.europa.eu/resource/authority/address-type/DOM;false;;2021-09-29;DOM;Home address;Indirizzo privato
-http://publications.europa.eu/resource/authority/address-type/EMAIL;false;;2009-12-01;EMAIL;E-mail address;Indirizzo e-mail
-http://publications.europa.eu/resource/authority/address-type/EMI;false;;2021-09-29;EMI;Personal e-mail address;Indirizzo e-mail personale
-http://publications.europa.eu/resource/authority/address-type/EMP;false;;2021-09-29;EMP;Professional e-mail address;Indirizzo e-mail professionale
-http://publications.europa.eu/resource/authority/address-type/EPL;false;;2021-09-29;EPL;Europarl;
-http://publications.europa.eu/resource/authority/address-type/FAX;false;;2009-12-01;FAX;Fax;Fax
-http://publications.europa.eu/resource/authority/address-type/FBK;false;;2021-09-29;FBK;Facebook;Facebook
-http://publications.europa.eu/resource/authority/address-type/FBP;false;;2021-09-29;FBP;Facebook profile;Profilo Facebook
-http://publications.europa.eu/resource/authority/address-type/FBW;false;;2021-09-29;FBW;Facebook page;Pagina Facebook
-http://publications.europa.eu/resource/authority/address-type/FLK;false;;2021-09-29;FLK;Flickr;Flickr
-http://publications.europa.eu/resource/authority/address-type/GGL;true;2019-04-02;2011-06-28;GGL;Google+;Google+
-http://publications.europa.eu/resource/authority/address-type/GWS;false;;2021-09-29;GWS;Groupwise;Groupwise
-http://publications.europa.eu/resource/authority/address-type/IST;false;;2021-09-29;IST;Instagram;Instagram
-http://publications.europa.eu/resource/authority/address-type/ITP;false;;2021-09-29;ITP;Instagram profile;Profilo Instagram
-http://publications.europa.eu/resource/authority/address-type/LKP;false;;2021-09-29;LKP;LinkedIn profile;Profilo LinkedIn
-http://publications.europa.eu/resource/authority/address-type/LNK;false;;2021-09-29;LNK;LinkedIn;LinkedIn
-http://publications.europa.eu/resource/authority/address-type/MAIN;false;;2018-05-30;MAIN;Main address;
-http://publications.europa.eu/resource/authority/address-type/NON;false;;2021-09-29;NON;No address for correspondence;Nessun recapito postale
-http://publications.europa.eu/resource/authority/address-type/OFFICE_NO;false;;2009-12-01;OFFICE_NO;Office;
-http://publications.europa.eu/resource/authority/address-type/OLD;false;;2021-09-29;OLD;Previous e-mail address;Indirizzo e-mail precedente
-http://publications.europa.eu/resource/authority/address-type/OP_DATPRO;false;;1952-07-23;OP_DATPRO;Provisional data;Dati provvisori
-http://publications.europa.eu/resource/authority/address-type/PRI;false;;2021-09-29;PRI;Private address;Indirizzo privato
-http://publications.europa.eu/resource/authority/address-type/SEC;false;;2021-09-29;SEC;Secret address;Indirizzo segreto
-http://publications.europa.eu/resource/authority/address-type/SND;false;;2021-09-29;SND;SoundCloud;SoundCloud
-http://publications.europa.eu/resource/authority/address-type/TEL;false;;2009-12-01;TEL;Telephone;Telefono
-http://publications.europa.eu/resource/authority/address-type/TEL_EXT;false;;2009-12-01;TEL_EXT;Extension;
-http://publications.europa.eu/resource/authority/address-type/TEL_SWI;false;;2009-12-01;TEL_SWI;Switchboard;Standard
-http://publications.europa.eu/resource/authority/address-type/TGR;false;;2021-09-29;TGR;Telegram ;Telegramma
-http://publications.europa.eu/resource/authority/address-type/TRA;false;;2021-09-29;TRA;Work address;Lavoro
-http://publications.europa.eu/resource/authority/address-type/TT;false;;2021-09-29;TT;Twitter;Twitter
-http://publications.europa.eu/resource/authority/address-type/TWT;false;;2021-09-29;TWT;Twitter profile;Profilo Twitter
-http://publications.europa.eu/resource/authority/address-type/URL;false;;2021-09-29;URL;Uniform Resource Locator;Uniform Resource Locator
-http://publications.europa.eu/resource/authority/address-type/WEB;false;;2021-09-29;WEB;Website;Sito web
-http://publications.europa.eu/resource/authority/address-type/YTB;false;;2021-09-29;YTB;YouTube;YouTube
-http://publications.europa.eu/resource/authority/address-type/YTC;false;;2021-09-29;YTC;YouTube channel;Canale Youtube
+url,deprecated,valid_until,valid_from,id,label_en,label_it
+http://publications.europa.eu/resource/authority/address-type/ADM,false,,2021-09-29,ADM,Administrative address,Indirizzo amministrativo
+http://publications.europa.eu/resource/authority/address-type/ADR_OFFICE,false,,2009-12-01,ADR_OFFICE,Office address,Indirizzo professionale
+http://publications.europa.eu/resource/authority/address-type/ADR_POSTAL,false,,2009-12-01,ADR_POSTAL,Postal address,
+http://publications.europa.eu/resource/authority/address-type/BLG,false,,2021-09-29,BLG,Blog,Blog
+http://publications.europa.eu/resource/authority/address-type/CAL,false,,2021-09-29,CAL,Calendar,Calendario
+http://publications.europa.eu/resource/authority/address-type/CDC,false,,2021-09-29,CDC,Correspondence and documentation,Posta e documentazione
+http://publications.europa.eu/resource/authority/address-type/CON,false,,2021-09-29,CON,Confidential address,Indirizzo riservato
+http://publications.europa.eu/resource/authority/address-type/DIF,false,,2021-12-08,DIF,Declaration of financial interests,Dichiarazione di interesse(i) finanziari(o)
+http://publications.europa.eu/resource/authority/address-type/DOC,false,,2021-09-29,DOC,Documentation address,Indirizzo per la documentazione
+http://publications.europa.eu/resource/authority/address-type/DOM,false,,2021-09-29,DOM,Home address,Indirizzo privato
+http://publications.europa.eu/resource/authority/address-type/EMAIL,false,,2009-12-01,EMAIL,E-mail address,Indirizzo e-mail
+http://publications.europa.eu/resource/authority/address-type/EMI,false,,2021-09-29,EMI,Personal e-mail address,Indirizzo e-mail personale
+http://publications.europa.eu/resource/authority/address-type/EMP,false,,2021-09-29,EMP,Professional e-mail address,Indirizzo e-mail professionale
+http://publications.europa.eu/resource/authority/address-type/EPL,false,,2021-09-29,EPL,Europarl,
+http://publications.europa.eu/resource/authority/address-type/FAX,false,,2009-12-01,FAX,Fax,Fax
+http://publications.europa.eu/resource/authority/address-type/FBK,false,,2021-09-29,FBK,Facebook,Facebook
+http://publications.europa.eu/resource/authority/address-type/FBP,false,,2021-09-29,FBP,Facebook profile,Profilo Facebook
+http://publications.europa.eu/resource/authority/address-type/FBW,false,,2021-09-29,FBW,Facebook page,Pagina Facebook
+http://publications.europa.eu/resource/authority/address-type/FLK,false,,2021-09-29,FLK,Flickr,Flickr
+http://publications.europa.eu/resource/authority/address-type/GGL,true,2019-04-02,2011-06-28,GGL,Google+,Google+
+http://publications.europa.eu/resource/authority/address-type/GWS,false,,2021-09-29,GWS,Groupwise,Groupwise
+http://publications.europa.eu/resource/authority/address-type/IST,false,,2021-09-29,IST,Instagram,Instagram
+http://publications.europa.eu/resource/authority/address-type/ITP,false,,2021-09-29,ITP,Instagram profile,Profilo Instagram
+http://publications.europa.eu/resource/authority/address-type/LKP,false,,2021-09-29,LKP,LinkedIn profile,Profilo LinkedIn
+http://publications.europa.eu/resource/authority/address-type/LNK,false,,2021-09-29,LNK,LinkedIn,LinkedIn
+http://publications.europa.eu/resource/authority/address-type/MAIN,false,,2018-05-30,MAIN,Main address,
+http://publications.europa.eu/resource/authority/address-type/NON,false,,2021-09-29,NON,No address for correspondence,Nessun recapito postale
+http://publications.europa.eu/resource/authority/address-type/OFFICE_NO,false,,2009-12-01,OFFICE_NO,Office,
+http://publications.europa.eu/resource/authority/address-type/OLD,false,,2021-09-29,OLD,Previous e-mail address,Indirizzo e-mail precedente
+http://publications.europa.eu/resource/authority/address-type/OP_DATPRO,false,,1952-07-23,OP_DATPRO,Provisional data,Dati provvisori
+http://publications.europa.eu/resource/authority/address-type/PRI,false,,2021-09-29,PRI,Private address,Indirizzo privato
+http://publications.europa.eu/resource/authority/address-type/SEC,false,,2021-09-29,SEC,Secret address,Indirizzo segreto
+http://publications.europa.eu/resource/authority/address-type/SND,false,,2021-09-29,SND,SoundCloud,SoundCloud
+http://publications.europa.eu/resource/authority/address-type/TEL,false,,2009-12-01,TEL,Telephone,Telefono
+http://publications.europa.eu/resource/authority/address-type/TEL_EXT,false,,2009-12-01,TEL_EXT,Extension,
+http://publications.europa.eu/resource/authority/address-type/TEL_SWI,false,,2009-12-01,TEL_SWI,Switchboard,Standard
+http://publications.europa.eu/resource/authority/address-type/TGR,false,,2021-09-29,TGR,Telegram ,Telegramma
+http://publications.europa.eu/resource/authority/address-type/TRA,false,,2021-09-29,TRA,Work address,Lavoro
+http://publications.europa.eu/resource/authority/address-type/TT,false,,2021-09-29,TT,Twitter,Twitter
+http://publications.europa.eu/resource/authority/address-type/TWT,false,,2021-09-29,TWT,Twitter profile,Profilo Twitter
+http://publications.europa.eu/resource/authority/address-type/URL,false,,2021-09-29,URL,Uniform Resource Locator,Uniform Resource Locator
+http://publications.europa.eu/resource/authority/address-type/WEB,false,,2021-09-29,WEB,Website,Sito web
+http://publications.europa.eu/resource/authority/address-type/YTB,false,,2021-09-29,YTB,YouTube,YouTube
+http://publications.europa.eu/resource/authority/address-type/YTC,false,,2021-09-29,YTC,YouTube channel,Canale Youtube

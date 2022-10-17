@@ -1,57 +1,57 @@
-url;deprecated;valid_until;valid_from;id;label_en;label_it
-http://publications.europa.eu/resource/authority/position-grade/AD;false;;1958-01-01;AD;AD;
-http://publications.europa.eu/resource/authority/position-grade/AD10;false;;1958-01-01;AD10;AD 10;
-http://publications.europa.eu/resource/authority/position-grade/AD11;false;;1958-01-01;AD11;AD 11;
-http://publications.europa.eu/resource/authority/position-grade/AD12;false;;1958-01-01;AD12;AD 12;
-http://publications.europa.eu/resource/authority/position-grade/AD13;false;;1958-01-01;AD13;AD 13;
-http://publications.europa.eu/resource/authority/position-grade/AD14;false;;1958-01-01;AD14;AD 14;
-http://publications.europa.eu/resource/authority/position-grade/AD15;false;;1958-01-01;AD15;AD 15;
-http://publications.europa.eu/resource/authority/position-grade/AD16;false;;1958-01-01;AD16;AD 16;
-http://publications.europa.eu/resource/authority/position-grade/AD5;false;;1958-01-01;AD5;AD 5;
-http://publications.europa.eu/resource/authority/position-grade/AD6;false;;1958-01-01;AD6;AD 6;
-http://publications.europa.eu/resource/authority/position-grade/AD7;false;;1958-01-01;AD7;AD 7;
-http://publications.europa.eu/resource/authority/position-grade/AD8;false;;1958-01-01;AD8;AD 8;
-http://publications.europa.eu/resource/authority/position-grade/AD9;false;;1958-01-01;AD9;AD 9;
-http://publications.europa.eu/resource/authority/position-grade/AST;false;;1958-01-01;AST;AST;
-http://publications.europa.eu/resource/authority/position-grade/AST1;false;;1958-01-01;AST1;AST 1;
-http://publications.europa.eu/resource/authority/position-grade/AST10;false;;1958-01-01;AST10;AST 10;
-http://publications.europa.eu/resource/authority/position-grade/AST11;false;;1958-01-01;AST11;AST 11;
-http://publications.europa.eu/resource/authority/position-grade/AST2;false;;1958-01-01;AST2;AST 2;
-http://publications.europa.eu/resource/authority/position-grade/AST3;false;;1958-01-01;AST3;AST 3;
-http://publications.europa.eu/resource/authority/position-grade/AST4;false;;1958-01-01;AST4;AST 4;
-http://publications.europa.eu/resource/authority/position-grade/AST5;false;;1958-01-01;AST5;AST 5;
-http://publications.europa.eu/resource/authority/position-grade/AST6;false;;1958-01-01;AST6;AST 6;
-http://publications.europa.eu/resource/authority/position-grade/AST7;false;;1958-01-01;AST7;AST 7;
-http://publications.europa.eu/resource/authority/position-grade/AST8;false;;1958-01-01;AST8;AST 8;
-http://publications.europa.eu/resource/authority/position-grade/AST9;false;;1958-01-01;AST9;AST 9;
-http://publications.europa.eu/resource/authority/position-grade/CONTR1;false;;1958-01-01;CONTR1;Contractual I;
-http://publications.europa.eu/resource/authority/position-grade/CONTR1_1;false;;1958-01-01;CONTR1_1;Contractual I-1;
-http://publications.europa.eu/resource/authority/position-grade/CONTR1_2;false;;1958-01-01;CONTR1_2;Contractual I-2;
-http://publications.europa.eu/resource/authority/position-grade/CONTR1_3;false;;1958-01-01;CONTR1_3;Contractual I-3;
-http://publications.europa.eu/resource/authority/position-grade/CONTR2;false;;1958-01-01;CONTR2;Contractual II;
-http://publications.europa.eu/resource/authority/position-grade/CONTR2_4;false;;1958-01-01;CONTR2_4;Contractual II-4;
-http://publications.europa.eu/resource/authority/position-grade/CONTR2_5;false;;1958-01-01;CONTR2_5;Contractual II-5;
-http://publications.europa.eu/resource/authority/position-grade/CONTR2_6;false;;1958-01-01;CONTR2_6;Contractual II-6;
-http://publications.europa.eu/resource/authority/position-grade/CONTR2_7;false;;1958-01-01;CONTR2_7;Contractual II-7;
-http://publications.europa.eu/resource/authority/position-grade/CONTR3;false;;1958-01-01;CONTR3;Contractual III;
-http://publications.europa.eu/resource/authority/position-grade/CONTR3_10;false;;1958-01-01;CONTR3_10;Contractual III-10;
-http://publications.europa.eu/resource/authority/position-grade/CONTR3_11;false;;1958-01-01;CONTR3_11;Contractual III-11;
-http://publications.europa.eu/resource/authority/position-grade/CONTR3_12;false;;1958-01-01;CONTR3_12;Contractual III-12;
-http://publications.europa.eu/resource/authority/position-grade/CONTR3_8;false;;1958-01-01;CONTR3_8;Contractual III-8;
-http://publications.europa.eu/resource/authority/position-grade/CONTR3_9;false;;1958-01-01;CONTR3_9;Contractual III-9;
-http://publications.europa.eu/resource/authority/position-grade/CONTR4;false;;1958-01-01;CONTR4;Contractual IV;
-http://publications.europa.eu/resource/authority/position-grade/CONTR4_13;false;;1958-01-01;CONTR4_13;Contractual IV-13;
-http://publications.europa.eu/resource/authority/position-grade/CONTR4_14;false;;1958-01-01;CONTR4_14;Contractual IV-14;
-http://publications.europa.eu/resource/authority/position-grade/CONTR4_15;false;;1958-01-01;CONTR4_15;Contractual IV-15;
-http://publications.europa.eu/resource/authority/position-grade/CONTR4_16;false;;1958-01-01;CONTR4_16;Contractual IV-16;
-http://publications.europa.eu/resource/authority/position-grade/CONTR4_17;false;;1958-01-01;CONTR4_17;Contractual IV-17;
-http://publications.europa.eu/resource/authority/position-grade/CONTR4_18;false;;1958-01-01;CONTR4_18;Contractual IV-18;
-http://publications.europa.eu/resource/authority/position-grade/NAT_EXP;true;1958-01-01;1958-01-01;NAT_EXP;Seconded national expert;
-http://publications.europa.eu/resource/authority/position-grade/OP_DATPRO;;;;OP_DATPRO;Provisional data;Dati provvisori
-http://publications.europa.eu/resource/authority/position-grade/SC;false;;1958-01-01;SC;AST/SC;
-http://publications.europa.eu/resource/authority/position-grade/SC1;false;;1958-01-01;SC1;AST/SC 1;
-http://publications.europa.eu/resource/authority/position-grade/SC2;false;;1958-01-01;SC2;AST/SC 2;
-http://publications.europa.eu/resource/authority/position-grade/SC3;false;;1958-01-01;SC3;AST/SC 3;
-http://publications.europa.eu/resource/authority/position-grade/SC4;false;;1958-01-01;SC4;AST/SC 4;
-http://publications.europa.eu/resource/authority/position-grade/SC5;false;;1958-01-01;SC5;AST/SC 5;
-http://publications.europa.eu/resource/authority/position-grade/SC6;false;;1958-01-01;SC6;AST/SC 6;
+url,deprecated,valid_until,valid_from,id,label_en,label_it
+http://publications.europa.eu/resource/authority/position-grade/AD,false,,1958-01-01,AD,AD,
+http://publications.europa.eu/resource/authority/position-grade/AD10,false,,1958-01-01,AD10,AD 10,
+http://publications.europa.eu/resource/authority/position-grade/AD11,false,,1958-01-01,AD11,AD 11,
+http://publications.europa.eu/resource/authority/position-grade/AD12,false,,1958-01-01,AD12,AD 12,
+http://publications.europa.eu/resource/authority/position-grade/AD13,false,,1958-01-01,AD13,AD 13,
+http://publications.europa.eu/resource/authority/position-grade/AD14,false,,1958-01-01,AD14,AD 14,
+http://publications.europa.eu/resource/authority/position-grade/AD15,false,,1958-01-01,AD15,AD 15,
+http://publications.europa.eu/resource/authority/position-grade/AD16,false,,1958-01-01,AD16,AD 16,
+http://publications.europa.eu/resource/authority/position-grade/AD5,false,,1958-01-01,AD5,AD 5,
+http://publications.europa.eu/resource/authority/position-grade/AD6,false,,1958-01-01,AD6,AD 6,
+http://publications.europa.eu/resource/authority/position-grade/AD7,false,,1958-01-01,AD7,AD 7,
+http://publications.europa.eu/resource/authority/position-grade/AD8,false,,1958-01-01,AD8,AD 8,
+http://publications.europa.eu/resource/authority/position-grade/AD9,false,,1958-01-01,AD9,AD 9,
+http://publications.europa.eu/resource/authority/position-grade/AST,false,,1958-01-01,AST,AST,
+http://publications.europa.eu/resource/authority/position-grade/AST1,false,,1958-01-01,AST1,AST 1,
+http://publications.europa.eu/resource/authority/position-grade/AST10,false,,1958-01-01,AST10,AST 10,
+http://publications.europa.eu/resource/authority/position-grade/AST11,false,,1958-01-01,AST11,AST 11,
+http://publications.europa.eu/resource/authority/position-grade/AST2,false,,1958-01-01,AST2,AST 2,
+http://publications.europa.eu/resource/authority/position-grade/AST3,false,,1958-01-01,AST3,AST 3,
+http://publications.europa.eu/resource/authority/position-grade/AST4,false,,1958-01-01,AST4,AST 4,
+http://publications.europa.eu/resource/authority/position-grade/AST5,false,,1958-01-01,AST5,AST 5,
+http://publications.europa.eu/resource/authority/position-grade/AST6,false,,1958-01-01,AST6,AST 6,
+http://publications.europa.eu/resource/authority/position-grade/AST7,false,,1958-01-01,AST7,AST 7,
+http://publications.europa.eu/resource/authority/position-grade/AST8,false,,1958-01-01,AST8,AST 8,
+http://publications.europa.eu/resource/authority/position-grade/AST9,false,,1958-01-01,AST9,AST 9,
+http://publications.europa.eu/resource/authority/position-grade/CONTR1,false,,1958-01-01,CONTR1,Contractual I,
+http://publications.europa.eu/resource/authority/position-grade/CONTR1_1,false,,1958-01-01,CONTR1_1,Contractual I-1,
+http://publications.europa.eu/resource/authority/position-grade/CONTR1_2,false,,1958-01-01,CONTR1_2,Contractual I-2,
+http://publications.europa.eu/resource/authority/position-grade/CONTR1_3,false,,1958-01-01,CONTR1_3,Contractual I-3,
+http://publications.europa.eu/resource/authority/position-grade/CONTR2,false,,1958-01-01,CONTR2,Contractual II,
+http://publications.europa.eu/resource/authority/position-grade/CONTR2_4,false,,1958-01-01,CONTR2_4,Contractual II-4,
+http://publications.europa.eu/resource/authority/position-grade/CONTR2_5,false,,1958-01-01,CONTR2_5,Contractual II-5,
+http://publications.europa.eu/resource/authority/position-grade/CONTR2_6,false,,1958-01-01,CONTR2_6,Contractual II-6,
+http://publications.europa.eu/resource/authority/position-grade/CONTR2_7,false,,1958-01-01,CONTR2_7,Contractual II-7,
+http://publications.europa.eu/resource/authority/position-grade/CONTR3,false,,1958-01-01,CONTR3,Contractual III,
+http://publications.europa.eu/resource/authority/position-grade/CONTR3_10,false,,1958-01-01,CONTR3_10,Contractual III-10,
+http://publications.europa.eu/resource/authority/position-grade/CONTR3_11,false,,1958-01-01,CONTR3_11,Contractual III-11,
+http://publications.europa.eu/resource/authority/position-grade/CONTR3_12,false,,1958-01-01,CONTR3_12,Contractual III-12,
+http://publications.europa.eu/resource/authority/position-grade/CONTR3_8,false,,1958-01-01,CONTR3_8,Contractual III-8,
+http://publications.europa.eu/resource/authority/position-grade/CONTR3_9,false,,1958-01-01,CONTR3_9,Contractual III-9,
+http://publications.europa.eu/resource/authority/position-grade/CONTR4,false,,1958-01-01,CONTR4,Contractual IV,
+http://publications.europa.eu/resource/authority/position-grade/CONTR4_13,false,,1958-01-01,CONTR4_13,Contractual IV-13,
+http://publications.europa.eu/resource/authority/position-grade/CONTR4_14,false,,1958-01-01,CONTR4_14,Contractual IV-14,
+http://publications.europa.eu/resource/authority/position-grade/CONTR4_15,false,,1958-01-01,CONTR4_15,Contractual IV-15,
+http://publications.europa.eu/resource/authority/position-grade/CONTR4_16,false,,1958-01-01,CONTR4_16,Contractual IV-16,
+http://publications.europa.eu/resource/authority/position-grade/CONTR4_17,false,,1958-01-01,CONTR4_17,Contractual IV-17,
+http://publications.europa.eu/resource/authority/position-grade/CONTR4_18,false,,1958-01-01,CONTR4_18,Contractual IV-18,
+http://publications.europa.eu/resource/authority/position-grade/NAT_EXP,true,1958-01-01,1958-01-01,NAT_EXP,Seconded national expert,
+http://publications.europa.eu/resource/authority/position-grade/OP_DATPRO,,,,OP_DATPRO,Provisional data,Dati provvisori
+http://publications.europa.eu/resource/authority/position-grade/SC,false,,1958-01-01,SC,AST/SC,
+http://publications.europa.eu/resource/authority/position-grade/SC1,false,,1958-01-01,SC1,AST/SC 1,
+http://publications.europa.eu/resource/authority/position-grade/SC2,false,,1958-01-01,SC2,AST/SC 2,
+http://publications.europa.eu/resource/authority/position-grade/SC3,false,,1958-01-01,SC3,AST/SC 3,
+http://publications.europa.eu/resource/authority/position-grade/SC4,false,,1958-01-01,SC4,AST/SC 4,
+http://publications.europa.eu/resource/authority/position-grade/SC5,false,,1958-01-01,SC5,AST/SC 5,
+http://publications.europa.eu/resource/authority/position-grade/SC6,false,,1958-01-01,SC6,AST/SC 6,

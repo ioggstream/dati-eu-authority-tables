@@ -1,6 +1,6 @@
-url;deprecated;valid_until;valid_from;id;label_en;label_it
-http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN;false;;2013-01-01;DOCUMENTATION_MAIN;Main documentation;Documentazione principale
-http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED;false;;2013-01-01;DOCUMENTATION_RELATED;Related documentation;Documentazione correlata
-http://publications.europa.eu/resource/authority/documentation-type/VISUALIZATION;true;2013-01-02;2013-01-01;VISUALIZATION;Visualization;Visualizzazione
-http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED;false;;2013-01-01;WEBPAGE_RELATED;Related webpage;Pagina web collegata
-http://publications.europa.eu/resource/authority/documentation-types/OP_DATPRO;false;;1952-07-23;OP_DATPRO;Provisional data;Dati provvisori
+url,deprecated,valid_until,valid_from,id,label_en,label_it
+http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN,false,,2013-01-01,DOCUMENTATION_MAIN,Main documentation,Documentazione principale
+http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED,false,,2013-01-01,DOCUMENTATION_RELATED,Related documentation,Documentazione correlata
+http://publications.europa.eu/resource/authority/documentation-type/VISUALIZATION,true,2013-01-02,2013-01-01,VISUALIZATION,Visualization,Visualizzazione
+http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED,false,,2013-01-01,WEBPAGE_RELATED,Related webpage,Pagina web collegata
+http://publications.europa.eu/resource/authority/documentation-types/OP_DATPRO,false,,1952-07-23,OP_DATPRO,Provisional data,Dati provvisori

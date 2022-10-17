@@ -1,9 +1,9 @@
-url;deprecated;valid_until;valid_from;id;label_en;label_it
-http://publications.europa.eu/resource/authority/eu-budget-stage/CPA;false;;1958-01-01;CPA;Completion preparatory action;Completamento dell’azione preparatoria
-http://publications.europa.eu/resource/authority/eu-budget-stage/CPP;false;;1958-01-01;CPP;Completion pilot project;Completamento del progetto pilota
-http://publications.europa.eu/resource/authority/eu-budget-stage/OP_DATPRO;;;;OP_DATPRO;Provisional data;Dati provvisori
-http://publications.europa.eu/resource/authority/eu-budget-stage/PA1;false;;1958-01-01;PA1;Preparatory action first year;Azione preparatoria, primo anno
-http://publications.europa.eu/resource/authority/eu-budget-stage/PA2;false;;1958-01-01;PA2;Preparatory action second year;Azione preparatoria, secondo anno
-http://publications.europa.eu/resource/authority/eu-budget-stage/PA3;false;;1958-01-01;PA3;Preparatory action third year;Azione preparatoria, terzo anno
-http://publications.europa.eu/resource/authority/eu-budget-stage/PP1;false;;1958-01-01;PP1;Pilot project first year;Progetto pilota, primo anno
-http://publications.europa.eu/resource/authority/eu-budget-stage/PP2;false;;1958-01-01;PP2;Pilot project second year;Progetto pilota, secondo anno
+url,deprecated,valid_until,valid_from,id,label_en,label_it
+http://publications.europa.eu/resource/authority/eu-budget-stage/CPA,false,,1958-01-01,CPA,Completion preparatory action,Completamento dell’azione preparatoria
+http://publications.europa.eu/resource/authority/eu-budget-stage/CPP,false,,1958-01-01,CPP,Completion pilot project,Completamento del progetto pilota
+http://publications.europa.eu/resource/authority/eu-budget-stage/OP_DATPRO,,,,OP_DATPRO,Provisional data,Dati provvisori
+http://publications.europa.eu/resource/authority/eu-budget-stage/PA1,false,,1958-01-01,PA1,Preparatory action first year,"Azione preparatoria, primo anno"
+http://publications.europa.eu/resource/authority/eu-budget-stage/PA2,false,,1958-01-01,PA2,Preparatory action second year,"Azione preparatoria, secondo anno"
+http://publications.europa.eu/resource/authority/eu-budget-stage/PA3,false,,1958-01-01,PA3,Preparatory action third year,"Azione preparatoria, terzo anno"
+http://publications.europa.eu/resource/authority/eu-budget-stage/PP1,false,,1958-01-01,PP1,Pilot project first year,"Progetto pilota, primo anno"
+http://publications.europa.eu/resource/authority/eu-budget-stage/PP2,false,,1958-01-01,PP2,Pilot project second year,"Progetto pilota, secondo anno"

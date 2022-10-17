@@ -1,8 +1,8 @@
-url;deprecated;valid_until;valid_from;id;label_en;label_it
-http://publications.europa.eu/resource/authority/contract-detail/OP_DATPRO;;;;OP_DATPRO;Provisional data;Dati provvisori
-http://publications.europa.eu/resource/authority/contract-detail/all-rev-tic;false;;2021-06-16;all-rev-tic;Allocation of revenues of sales from tickets;Ripartizione dei ricavi dalla vendita di biglietti
-http://publications.europa.eu/resource/authority/contract-detail/cost-comp;false;;2021-06-16;cost-comp;Cost parameters for compensation payments;Parametri di costo per le compensazioni
-http://publications.europa.eu/resource/authority/contract-detail/exc-right;false;;2021-06-16;exc-right;Exclusive rights are granted;Sono concessi diritti di esclusiva
-http://publications.europa.eu/resource/authority/contract-detail/other;false;;2021-06-16;other;Other;Altre
-http://publications.europa.eu/resource/authority/contract-detail/publ-ser-obl;false;;2021-06-16;publ-ser-obl;Public service obligations;Obblighi di servizio pubblico
-http://publications.europa.eu/resource/authority/contract-detail/soc-stand;false;;2021-06-16;soc-stand;Social standards;Standard sociali
+url,deprecated,valid_until,valid_from,id,label_en,label_it
+http://publications.europa.eu/resource/authority/contract-detail/OP_DATPRO,,,,OP_DATPRO,Provisional data,Dati provvisori
+http://publications.europa.eu/resource/authority/contract-detail/all-rev-tic,false,,2021-06-16,all-rev-tic,Allocation of revenues of sales from tickets,Ripartizione dei ricavi dalla vendita di biglietti
+http://publications.europa.eu/resource/authority/contract-detail/cost-comp,false,,2021-06-16,cost-comp,Cost parameters for compensation payments,Parametri di costo per le compensazioni
+http://publications.europa.eu/resource/authority/contract-detail/exc-right,false,,2021-06-16,exc-right,Exclusive rights are granted,Sono concessi diritti di esclusiva
+http://publications.europa.eu/resource/authority/contract-detail/other,false,,2021-06-16,other,Other,Altre
+http://publications.europa.eu/resource/authority/contract-detail/publ-ser-obl,false,,2021-06-16,publ-ser-obl,Public service obligations,Obblighi di servizio pubblico
+http://publications.europa.eu/resource/authority/contract-detail/soc-stand,false,,2021-06-16,soc-stand,Social standards,Standard sociali

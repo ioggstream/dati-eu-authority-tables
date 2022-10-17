@@ -1,52 +1,52 @@
-url;deprecated;valid_until;valid_from;id;label_en;label_it
-http://publications.europa.eu/resource/authority/procjur/ACTION_ANNU;false;;1952-07-24;ACTION_ANNU;Actions for annulment;Ricorso di annullamento
-http://publications.europa.eu/resource/authority/procjur/ACTION_DAM;false;;1952-07-24;ACTION_DAM;Action for damages;Ricorso per risarcimento dei danni
-http://publications.europa.eu/resource/authority/procjur/ACTION_DIR;false;;1952-07-24;ACTION_DIR;Direct action;Ricorso diretto
-http://publications.europa.eu/resource/authority/procjur/ACTION_FAIL_ACT;false;;1952-07-24;ACTION_FAIL_ACT;Actions for failure to act;Ricorso per carenza
-http://publications.europa.eu/resource/authority/procjur/ACTION_FAIL_OBLIG;false;;1952-07-24;ACTION_FAIL_OBLIG;Action for a declaration of failure to fulfil obligations;Ricorso per inadempimento
-http://publications.europa.eu/resource/authority/procjur/ACTION_SANC;false;;1952-07-24;ACTION_SANC;Appeal brought against a sanction;Ricorso contro una sanzione
-http://publications.europa.eu/resource/authority/procjur/ACTION_STAFF;false;;1952-07-24;ACTION_STAFF;Actions brought by officials;Ricorsi di dipendenti
-http://publications.europa.eu/resource/authority/procjur/APPEAL;false;;1952-07-24;APPEAL;Appeals;Impugnazione
-http://publications.europa.eu/resource/authority/procjur/APPEAL_INTV;false;;1952-07-24;APPEAL_INTV;Appeal on intervention;Impugnazione emessa in sede di intervento
-http://publications.europa.eu/resource/authority/procjur/APPEAL_INT_MEAS;false;;1952-07-24;APPEAL_INT_MEAS;Appeal on interim measures;Impugnazione di pronuncia emessa in sede di procedimento sommario
-http://publications.europa.eu/resource/authority/procjur/APPL_AID;false;;1952-07-24;APPL_AID;Application for legal aid;Domanda di gratuito patrocinio
-http://publications.europa.eu/resource/authority/procjur/APPL_COST;false;;1952-07-24;APPL_COST;Application as to costs;Domanda relativa alle spese
-http://publications.europa.eu/resource/authority/procjur/APPL_IMMUN;false;;1952-07-24;APPL_IMMUN;Request concerning immunities;Domanda relativa alle immunità
-http://publications.europa.eu/resource/authority/procjur/APPL_IMPL_IMM;false;;1952-07-24;APPL_IMPL_IMM;Application for immediate implementation (EURATOM Treaty);Domanda di esecuzione immediata (Trattato EURATOM)
-http://publications.europa.eu/resource/authority/procjur/APPL_INTERP;false;;1952-07-24;APPL_INTERP;Application for the interpretation of a judgment;Domanda di interpretazione di una sentenza
-http://publications.europa.eu/resource/authority/procjur/APPL_INTV;false;;1952-07-24;APPL_INTV;Application for leave to intervene;Istanza d'intervento
-http://publications.europa.eu/resource/authority/procjur/APPL_MEAS_INQ;false;;1952-07-24;APPL_MEAS_INQ;Application for measures of inquiry;Domanda di misure istruttorie
-http://publications.europa.eu/resource/authority/procjur/APPL_RECT;false;;1952-07-24;APPL_RECT;Application for rectification of a judgment;Domanda di rettifica di una sentenza
-http://publications.europa.eu/resource/authority/procjur/APPL_REV;false;;1952-07-24;APPL_REV;Application for revision of a judgment;Domanda di revocazione di una sentenza
-http://publications.europa.eu/resource/authority/procjur/APPL_SUSP_ADP;false;;1952-07-24;APPL_SUSP_ADP;Application to suspend adoption or stay execution or application for interim measures;Domanda di sospensione dell'esecuzione o domanda di provvedimenti provvisori
-http://publications.europa.eu/resource/authority/procjur/APPL_SUSP_ENF;false;;1952-07-24;APPL_SUSP_ENF;Application to suspend enforcement;Domanda di sospensione d'esecuzione forzata
-http://publications.europa.eu/resource/authority/procjur/CLAUSE_ARB;false;;1952-07-24;CLAUSE_ARB;Arbitration clause;Clausola compromissoria
-http://publications.europa.eu/resource/authority/procjur/COST_ENF;false;;1952-07-24;COST_ENF;Enforcement of costs;Esecuzione delle spese
-http://publications.europa.eu/resource/authority/procjur/COST_TAX;false;;1952-07-24;COST_TAX;Taxation of costs;Liquidazione delle spese
-http://publications.europa.eu/resource/authority/procjur/DISS;false;;1952-07-24;DISS;Separation of cases;Stralcio di cause
-http://publications.europa.eu/resource/authority/procjur/GARNISHEE_ORDER;false;;1952-07-24;GARNISHEE_ORDER;Attachment order;Pignoramento
-http://publications.europa.eu/resource/authority/procjur/INTERP;false;;1952-07-24;INTERP;Interpretation;Interpretazione
-http://publications.europa.eu/resource/authority/procjur/JUDG_REF_BACK;false;;1952-07-24;JUDG_REF_BACK;Judgment delivered after setting aside and referral back;Sentenza pronunciata a seguito di annullamento e rinvio
-http://publications.europa.eu/resource/authority/procjur/JUDG_REV;false;;1952-07-24;JUDG_REV;Revision of a judgment;Revocazione di una sentenza
-http://publications.europa.eu/resource/authority/procjur/OMST;false;;1952-07-24;OMST;Failure to adjudicate;Omessa pronuncia
-http://publications.europa.eu/resource/authority/procjur/OPPO;false;;1952-07-24;OPPO;Opposition;Opposizione
-http://publications.europa.eu/resource/authority/procjur/OP_DATPRO;false;;1952-07-23;OP_DATPRO;Provisional data;Dati provvisori
-http://publications.europa.eu/resource/authority/procjur/PPAR;false;;2018-03-16;PPAR;Special proceedings;Procedimento particolare
-http://publications.europa.eu/resource/authority/procjur/PROC_OPI;false;;1952-07-24;PROC_OPI;Opinion procedure;Procedura di parere
-http://publications.europa.eu/resource/authority/procjur/PROC_PART;false;;1952-07-24;PROC_PART;Particular form of procedure;Procedimento particolare
-http://publications.europa.eu/resource/authority/procjur/PROPERTY_INTEL;false;;1952-07-24;PROPERTY_INTEL;Intellectual property;Proprità intellettuale
-http://publications.europa.eu/resource/authority/procjur/RECT;false;;1952-07-24;RECT;Rectification;Rettifica
-http://publications.europa.eu/resource/authority/procjur/REFER_PREL;false;;1952-07-24;REFER_PREL;Reference for a preliminary ruling;Rinvio pregiudiziale
-http://publications.europa.eu/resource/authority/procjur/REFER_PREL_URG;false;;1952-07-24;REFER_PREL_URG;Preliminary reference - urgent procedure;Rinvio pregiudiziale - Procedimento d'urgenza
-http://publications.europa.eu/resource/authority/procjur/REF_BACK_ASIDE;false;;1952-07-24;REF_BACK_ASIDE;Referral back after setting aside;Rinvio dopo annullamento
-http://publications.europa.eu/resource/authority/procjur/REF_BACK_DECLIN;false;;1952-07-24;REF_BACK_DECLIN;Referrals back after jurisdiction has been declined;Rinvio dopo riattribuzione di cause
-http://publications.europa.eu/resource/authority/procjur/REF_BACK_LACK;false;;1952-07-24;REF_BACK_LACK;Referral back for lack of competence;Rinvio per incompetenza
-http://publications.europa.eu/resource/authority/procjur/REF_BACK_REVIEW;false;;1952-07-24;REF_BACK_REVIEW;Referral back after review;Rinvio dopo riesame
-http://publications.europa.eu/resource/authority/procjur/REF_P_BACK_ASIDE;false;;1952-07-24;REF_P_BACK_ASIDE;Partial referral back after setting aside;Rinvio parziale dopo annullamento
-http://publications.europa.eu/resource/authority/procjur/REF_P_BACK_DECLIN;false;;1952-07-24;REF_P_BACK_DECLIN;Partial referrals back after jurisdiction has been declined;Rinvio parziale dopo riattribuzione di cause
-http://publications.europa.eu/resource/authority/procjur/REF_P_BACK_LACK;false;;1952-07-24;REF_P_BACK_LACK;Partial referral back for lack of competence;Rinvio parziale per incompetenza
-http://publications.europa.eu/resource/authority/procjur/RESP_MEMB;false;;1952-07-24;RESP_MEMB;Responsibility of a member of the institutions;Responsabilità di un membro delle istituzioni
-http://publications.europa.eu/resource/authority/procjur/REVIEW;false;;1952-07-24;REVIEW;Review;Riesame
-http://publications.europa.eu/resource/authority/procjur/RULING;false;;1952-07-24;RULING;Ruling (EURATOM Treaty);Deliberazione (Trattato EURATOM)
-http://publications.europa.eu/resource/authority/procjur/STAFF;false;;1952-07-24;STAFF;Staff cases;Funzione pubblica
-http://publications.europa.eu/resource/authority/procjur/THIRDPARTY_PROCEED;false;;1952-07-24;THIRDPARTY_PROCEED;Third-party proceedings;Opposizione di terzo
+url,deprecated,valid_until,valid_from,id,label_en,label_it
+http://publications.europa.eu/resource/authority/procjur/ACTION_ANNU,false,,1952-07-24,ACTION_ANNU,Actions for annulment,Ricorso di annullamento
+http://publications.europa.eu/resource/authority/procjur/ACTION_DAM,false,,1952-07-24,ACTION_DAM,Action for damages,Ricorso per risarcimento dei danni
+http://publications.europa.eu/resource/authority/procjur/ACTION_DIR,false,,1952-07-24,ACTION_DIR,Direct action,Ricorso diretto
+http://publications.europa.eu/resource/authority/procjur/ACTION_FAIL_ACT,false,,1952-07-24,ACTION_FAIL_ACT,Actions for failure to act,Ricorso per carenza
+http://publications.europa.eu/resource/authority/procjur/ACTION_FAIL_OBLIG,false,,1952-07-24,ACTION_FAIL_OBLIG,Action for a declaration of failure to fulfil obligations,Ricorso per inadempimento
+http://publications.europa.eu/resource/authority/procjur/ACTION_SANC,false,,1952-07-24,ACTION_SANC,Appeal brought against a sanction,Ricorso contro una sanzione
+http://publications.europa.eu/resource/authority/procjur/ACTION_STAFF,false,,1952-07-24,ACTION_STAFF,Actions brought by officials,Ricorsi di dipendenti
+http://publications.europa.eu/resource/authority/procjur/APPEAL,false,,1952-07-24,APPEAL,Appeals,Impugnazione
+http://publications.europa.eu/resource/authority/procjur/APPEAL_INTV,false,,1952-07-24,APPEAL_INTV,Appeal on intervention,Impugnazione emessa in sede di intervento
+http://publications.europa.eu/resource/authority/procjur/APPEAL_INT_MEAS,false,,1952-07-24,APPEAL_INT_MEAS,Appeal on interim measures,Impugnazione di pronuncia emessa in sede di procedimento sommario
+http://publications.europa.eu/resource/authority/procjur/APPL_AID,false,,1952-07-24,APPL_AID,Application for legal aid,Domanda di gratuito patrocinio
+http://publications.europa.eu/resource/authority/procjur/APPL_COST,false,,1952-07-24,APPL_COST,Application as to costs,Domanda relativa alle spese
+http://publications.europa.eu/resource/authority/procjur/APPL_IMMUN,false,,1952-07-24,APPL_IMMUN,Request concerning immunities,Domanda relativa alle immunità
+http://publications.europa.eu/resource/authority/procjur/APPL_IMPL_IMM,false,,1952-07-24,APPL_IMPL_IMM,Application for immediate implementation (EURATOM Treaty),Domanda di esecuzione immediata (Trattato EURATOM)
+http://publications.europa.eu/resource/authority/procjur/APPL_INTERP,false,,1952-07-24,APPL_INTERP,Application for the interpretation of a judgment,Domanda di interpretazione di una sentenza
+http://publications.europa.eu/resource/authority/procjur/APPL_INTV,false,,1952-07-24,APPL_INTV,Application for leave to intervene,Istanza d'intervento
+http://publications.europa.eu/resource/authority/procjur/APPL_MEAS_INQ,false,,1952-07-24,APPL_MEAS_INQ,Application for measures of inquiry,Domanda di misure istruttorie
+http://publications.europa.eu/resource/authority/procjur/APPL_RECT,false,,1952-07-24,APPL_RECT,Application for rectification of a judgment,Domanda di rettifica di una sentenza
+http://publications.europa.eu/resource/authority/procjur/APPL_REV,false,,1952-07-24,APPL_REV,Application for revision of a judgment,Domanda di revocazione di una sentenza
+http://publications.europa.eu/resource/authority/procjur/APPL_SUSP_ADP,false,,1952-07-24,APPL_SUSP_ADP,Application to suspend adoption or stay execution or application for interim measures,Domanda di sospensione dell'esecuzione o domanda di provvedimenti provvisori
+http://publications.europa.eu/resource/authority/procjur/APPL_SUSP_ENF,false,,1952-07-24,APPL_SUSP_ENF,Application to suspend enforcement,Domanda di sospensione d'esecuzione forzata
+http://publications.europa.eu/resource/authority/procjur/CLAUSE_ARB,false,,1952-07-24,CLAUSE_ARB,Arbitration clause,Clausola compromissoria
+http://publications.europa.eu/resource/authority/procjur/COST_ENF,false,,1952-07-24,COST_ENF,Enforcement of costs,Esecuzione delle spese
+http://publications.europa.eu/resource/authority/procjur/COST_TAX,false,,1952-07-24,COST_TAX,Taxation of costs,Liquidazione delle spese
+http://publications.europa.eu/resource/authority/procjur/DISS,false,,1952-07-24,DISS,Separation of cases,Stralcio di cause
+http://publications.europa.eu/resource/authority/procjur/GARNISHEE_ORDER,false,,1952-07-24,GARNISHEE_ORDER,Attachment order,Pignoramento
+http://publications.europa.eu/resource/authority/procjur/INTERP,false,,1952-07-24,INTERP,Interpretation,Interpretazione
+http://publications.europa.eu/resource/authority/procjur/JUDG_REF_BACK,false,,1952-07-24,JUDG_REF_BACK,Judgment delivered after setting aside and referral back,Sentenza pronunciata a seguito di annullamento e rinvio
+http://publications.europa.eu/resource/authority/procjur/JUDG_REV,false,,1952-07-24,JUDG_REV,Revision of a judgment,Revocazione di una sentenza
+http://publications.europa.eu/resource/authority/procjur/OMST,false,,1952-07-24,OMST,Failure to adjudicate,Omessa pronuncia
+http://publications.europa.eu/resource/authority/procjur/OPPO,false,,1952-07-24,OPPO,Opposition,Opposizione
+http://publications.europa.eu/resource/authority/procjur/OP_DATPRO,false,,1952-07-23,OP_DATPRO,Provisional data,Dati provvisori
+http://publications.europa.eu/resource/authority/procjur/PPAR,false,,2018-03-16,PPAR,Special proceedings,Procedimento particolare
+http://publications.europa.eu/resource/authority/procjur/PROC_OPI,false,,1952-07-24,PROC_OPI,Opinion procedure,Procedura di parere
+http://publications.europa.eu/resource/authority/procjur/PROC_PART,false,,1952-07-24,PROC_PART,Particular form of procedure,Procedimento particolare
+http://publications.europa.eu/resource/authority/procjur/PROPERTY_INTEL,false,,1952-07-24,PROPERTY_INTEL,Intellectual property,Proprità intellettuale
+http://publications.europa.eu/resource/authority/procjur/RECT,false,,1952-07-24,RECT,Rectification,Rettifica
+http://publications.europa.eu/resource/authority/procjur/REFER_PREL,false,,1952-07-24,REFER_PREL,Reference for a preliminary ruling,Rinvio pregiudiziale
+http://publications.europa.eu/resource/authority/procjur/REFER_PREL_URG,false,,1952-07-24,REFER_PREL_URG,Preliminary reference - urgent procedure,Rinvio pregiudiziale - Procedimento d'urgenza
+http://publications.europa.eu/resource/authority/procjur/REF_BACK_ASIDE,false,,1952-07-24,REF_BACK_ASIDE,Referral back after setting aside,Rinvio dopo annullamento
+http://publications.europa.eu/resource/authority/procjur/REF_BACK_DECLIN,false,,1952-07-24,REF_BACK_DECLIN,Referrals back after jurisdiction has been declined,Rinvio dopo riattribuzione di cause
+http://publications.europa.eu/resource/authority/procjur/REF_BACK_LACK,false,,1952-07-24,REF_BACK_LACK,Referral back for lack of competence,Rinvio per incompetenza
+http://publications.europa.eu/resource/authority/procjur/REF_BACK_REVIEW,false,,1952-07-24,REF_BACK_REVIEW,Referral back after review,Rinvio dopo riesame
+http://publications.europa.eu/resource/authority/procjur/REF_P_BACK_ASIDE,false,,1952-07-24,REF_P_BACK_ASIDE,Partial referral back after setting aside,Rinvio parziale dopo annullamento
+http://publications.europa.eu/resource/authority/procjur/REF_P_BACK_DECLIN,false,,1952-07-24,REF_P_BACK_DECLIN,Partial referrals back after jurisdiction has been declined,Rinvio parziale dopo riattribuzione di cause
+http://publications.europa.eu/resource/authority/procjur/REF_P_BACK_LACK,false,,1952-07-24,REF_P_BACK_LACK,Partial referral back for lack of competence,Rinvio parziale per incompetenza
+http://publications.europa.eu/resource/authority/procjur/RESP_MEMB,false,,1952-07-24,RESP_MEMB,Responsibility of a member of the institutions,Responsabilità di un membro delle istituzioni
+http://publications.europa.eu/resource/authority/procjur/REVIEW,false,,1952-07-24,REVIEW,Review,Riesame
+http://publications.europa.eu/resource/authority/procjur/RULING,false,,1952-07-24,RULING,Ruling (EURATOM Treaty),Deliberazione (Trattato EURATOM)
+http://publications.europa.eu/resource/authority/procjur/STAFF,false,,1952-07-24,STAFF,Staff cases,Funzione pubblica
+http://publications.europa.eu/resource/authority/procjur/THIRDPARTY_PROCEED,false,,1952-07-24,THIRDPARTY_PROCEED,Third-party proceedings,Opposizione di terzo

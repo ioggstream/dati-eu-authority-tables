@@ -1,7 +1,7 @@
-url;deprecated;valid_until;valid_from;id;label_en;label_it
-http://publications.europa.eu/resource/authority/procedure-nature/INT;false;;1958-01-01;INT;internal;interno
-http://publications.europa.eu/resource/authority/procedure-nature/INTERINST;false;;1958-01-01;INTERINST;interinstitutional;interistituzionale
-http://publications.europa.eu/resource/authority/procedure-nature/JURISD;false;;1958-01-01;JURISD;jurisdictional;giurisdizionale
-http://publications.europa.eu/resource/authority/procedure-nature/LEG;false;;1958-01-01;LEG;legislative;legislativo
-http://publications.europa.eu/resource/authority/procedure-nature/NON_LEG;false;;1958-01-01;NON_LEG;non legislative;non legislativo
-http://publications.europa.eu/resource/authority/procedure-nature/OP_DATPRO;;;;OP_DATPRO;Provisional data;Dati provvisori
+url,deprecated,valid_until,valid_from,id,label_en,label_it
+http://publications.europa.eu/resource/authority/procedure-nature/INT,false,,1958-01-01,INT,internal,interno
+http://publications.europa.eu/resource/authority/procedure-nature/INTERINST,false,,1958-01-01,INTERINST,interinstitutional,interistituzionale
+http://publications.europa.eu/resource/authority/procedure-nature/JURISD,false,,1958-01-01,JURISD,jurisdictional,giurisdizionale
+http://publications.europa.eu/resource/authority/procedure-nature/LEG,false,,1958-01-01,LEG,legislative,legislativo
+http://publications.europa.eu/resource/authority/procedure-nature/NON_LEG,false,,1958-01-01,NON_LEG,non legislative,non legislativo
+http://publications.europa.eu/resource/authority/procedure-nature/OP_DATPRO,,,,OP_DATPRO,Provisional data,Dati provvisori

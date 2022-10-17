@@ -1,4 +1,4 @@
-url;deprecated;valid_until;valid_from;id;label_en;label_it
-http://publications.europa.eu/resource/authority/number-type/CARDINAL;false;;2014-11-26;CARDINAL;cardinal;cardinale
-http://publications.europa.eu/resource/authority/number-type/OP_DATPRO;;;;OP_DATPRO;Provisional data;Dati provvisori
-http://publications.europa.eu/resource/authority/number-type/ORDINAL;false;;2014-11-26;ORDINAL;ordinal;ordinale
+url,deprecated,valid_until,valid_from,id,label_en,label_it
+http://publications.europa.eu/resource/authority/number-type/CARDINAL,false,,2014-11-26,CARDINAL,cardinal,cardinale
+http://publications.europa.eu/resource/authority/number-type/OP_DATPRO,,,,OP_DATPRO,Provisional data,Dati provvisori
+http://publications.europa.eu/resource/authority/number-type/ORDINAL,false,,2014-11-26,ORDINAL,ordinal,ordinale

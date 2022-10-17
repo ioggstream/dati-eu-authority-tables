@@ -1,8 +1,8 @@
-url;deprecated;valid_until;valid_from;id;label_en;label_it
-http://publications.europa.eu/resource/authority/correction-status/CORR;false;;2014-07-28;CORR;corrected;
-http://publications.europa.eu/resource/authority/correction-status/CORR_ISG;false;;2014-07-28;CORR_ISG;corrected for ISG;
-http://publications.europa.eu/resource/authority/correction-status/NOT_APPL;false;;2014-07-28;NOT_APPL;not applicable;
-http://publications.europa.eu/resource/authority/correction-status/NOT_CHNG;false;;2014-07-28;NOT_CHNG;do not change;
-http://publications.europa.eu/resource/authority/correction-status/NOT_CORR;false;;2014-07-28;NOT_CORR;not corrected;
-http://publications.europa.eu/resource/authority/correction-status/OP_DATPRO;;;;OP_DATPRO;Provisional data;Dati provvisori
-http://publications.europa.eu/resource/authority/correction-status/UNDER;false;;2014-07-28;UNDER;under check;
+url,deprecated,valid_until,valid_from,id,label_en,label_it
+http://publications.europa.eu/resource/authority/correction-status/CORR,false,,2014-07-28,CORR,corrected,
+http://publications.europa.eu/resource/authority/correction-status/CORR_ISG,false,,2014-07-28,CORR_ISG,corrected for ISG,
+http://publications.europa.eu/resource/authority/correction-status/NOT_APPL,false,,2014-07-28,NOT_APPL,not applicable,
+http://publications.europa.eu/resource/authority/correction-status/NOT_CHNG,false,,2014-07-28,NOT_CHNG,do not change,
+http://publications.europa.eu/resource/authority/correction-status/NOT_CORR,false,,2014-07-28,NOT_CORR,not corrected,
+http://publications.europa.eu/resource/authority/correction-status/OP_DATPRO,,,,OP_DATPRO,Provisional data,Dati provvisori
+http://publications.europa.eu/resource/authority/correction-status/UNDER,false,,2014-07-28,UNDER,under check,

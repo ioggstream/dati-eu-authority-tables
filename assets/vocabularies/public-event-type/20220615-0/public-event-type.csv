@@ -1,11 +1,11 @@
-url;deprecated;valid_until;valid_from;id;label_en;label_it
-http://publications.europa.eu/resource/authority/public-event-type/CAMP_LAUNCH;false;;2020-11-01;CAMP_LAUNCH;Campaign launches;Lancio di una campagna
-http://publications.europa.eu/resource/authority/public-event-type/COMPETITION_AWARD_CEREMONY;false;;1958-01-01;COMPETITION_AWARD_CEREMONY;Competitions and award ceremonies;Concorsi e cerimonie di premiazione
-http://publications.europa.eu/resource/authority/public-event-type/CONFERENCE_SUMMIT;false;;1958-01-01;CONFERENCE_SUMMIT;Conferences and summits;Conferenze e vertici
-http://publications.europa.eu/resource/authority/public-event-type/EXHIBITION;false;;1958-01-01;EXHIBITION;Exhibitions;Esposizioni
-http://publications.europa.eu/resource/authority/public-event-type/EXPERT_MEETING;false;;2022-02-21;EXPERT_MEETING;Expert meetings;Riunioni di esperti
-http://publications.europa.eu/resource/authority/public-event-type/INFO_DAY;false;;1958-01-01;INFO_DAY;Info days;Giornate d'informazione
-http://publications.europa.eu/resource/authority/public-event-type/PARTNER_MEETING;false;;1958-01-01;PARTNER_MEETING;Partner meetings;Riunioni dei partner
-http://publications.europa.eu/resource/authority/public-event-type/POLITICAL_MEETING;false;;1958-01-01;POLITICAL_MEETING;Political meetings;Riunioni politiche
-http://publications.europa.eu/resource/authority/public-event-type/PUBLIC_DEBATE;false;;1958-01-01;PUBLIC_DEBATE;Public debates;Dibattiti pubblici
-http://publications.europa.eu/resource/authority/public-event-type/TRAINING_WORKSHOP;false;;1958-01-01;TRAINING_WORKSHOP;Training and workshops;Formazione e seminari
+url,deprecated,valid_until,valid_from,id,label_en,label_it
+http://publications.europa.eu/resource/authority/public-event-type/CAMP_LAUNCH,false,,2020-11-01,CAMP_LAUNCH,Campaign launches,Lancio di una campagna
+http://publications.europa.eu/resource/authority/public-event-type/COMPETITION_AWARD_CEREMONY,false,,1958-01-01,COMPETITION_AWARD_CEREMONY,Competitions and award ceremonies,Concorsi e cerimonie di premiazione
+http://publications.europa.eu/resource/authority/public-event-type/CONFERENCE_SUMMIT,false,,1958-01-01,CONFERENCE_SUMMIT,Conferences and summits,Conferenze e vertici
+http://publications.europa.eu/resource/authority/public-event-type/EXHIBITION,false,,1958-01-01,EXHIBITION,Exhibitions,Esposizioni
+http://publications.europa.eu/resource/authority/public-event-type/EXPERT_MEETING,false,,2022-02-21,EXPERT_MEETING,Expert meetings,Riunioni di esperti
+http://publications.europa.eu/resource/authority/public-event-type/INFO_DAY,false,,1958-01-01,INFO_DAY,Info days,Giornate d'informazione
+http://publications.europa.eu/resource/authority/public-event-type/PARTNER_MEETING,false,,1958-01-01,PARTNER_MEETING,Partner meetings,Riunioni dei partner
+http://publications.europa.eu/resource/authority/public-event-type/POLITICAL_MEETING,false,,1958-01-01,POLITICAL_MEETING,Political meetings,Riunioni politiche
+http://publications.europa.eu/resource/authority/public-event-type/PUBLIC_DEBATE,false,,1958-01-01,PUBLIC_DEBATE,Public debates,Dibattiti pubblici
+http://publications.europa.eu/resource/authority/public-event-type/TRAINING_WORKSHOP,false,,1958-01-01,TRAINING_WORKSHOP,Training and workshops,Formazione e seminari

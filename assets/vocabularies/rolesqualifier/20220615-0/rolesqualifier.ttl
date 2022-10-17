@@ -2108,24 +2108,24 @@
     at:deprecated "false" ;
     at:op-code "EUINST" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "FD_110" ;
-            at:legacy-code "IC" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_160" ;
             at:legacy-code "IC" ;
             dc:source "PreLex" ],
         [ a at:MappedCode ;
-            at:affected-table "FD_160" ;
-            at:legacy-code "IC" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
             at:affected-table "FD_110" ;
             at:legacy-code "IC" ;
-            dc:source "PreLex" ],
+            dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:legacy-code "CI" ;
-            dc:source "CJ" ] ;
+            dc:source "CJ" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_160" ;
+            at:legacy-code "IC" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_110" ;
+            at:legacy-code "IC" ;
+            dc:source "PreLex" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "EUINST" ;
     dc:identifier "EUINST" ;
@@ -2164,12 +2164,12 @@
     at:deprecated "false" ;
     at:op-code "EUMS" ;
     at:op-mapped-code [ a at:MappedCode ;
+            at:legacy-code "MS" ;
+            dc:source "CJ" ],
+        [ a at:MappedCode ;
             at:affected-table "FD_160" ;
             at:legacy-code "EM" ;
             dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:legacy-code "MS" ;
-            dc:source "CJ" ],
         [ a at:MappedCode ;
             at:affected-table "FD_160" ;
             at:legacy-code "EM" ;
@@ -3407,11 +3407,11 @@
         [ a at:MappedCode ;
             at:affected-table "FD_110" ;
             at:legacy-code "PART" ;
-            dc:source "PreLex" ],
+            dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:affected-table "FD_110" ;
             at:legacy-code "PART" ;
-            dc:source "ATTO" ] ;
+            dc:source "PreLex" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "INDIV" ;
     dc:identifier "INDIV" ;
@@ -3451,14 +3451,14 @@
     at:deprecated "false" ;
     at:op-code "INTERNAT_BODIES" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "FD_140" ;
-            at:legacy-code "X INT CEDH" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
             at:legacy-code "IO" ;
             dc:source "CJ" ],
         [ a at:MappedCode ;
             at:affected-table "FD_140" ;
+            at:legacy-code "XI" ;
+            dc:source "PreLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_140" ;
             at:legacy-code "X INT CEDH" ;
             dc:source "PreLex" ],
         [ a at:MappedCode ;
@@ -3471,11 +3471,11 @@
             dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:affected-table "FD_140" ;
-            at:legacy-code "X INT EFTA AELE" ;
-            dc:source "PreLex" ],
+            at:legacy-code "X INT CEDH" ;
+            dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:affected-table "FD_140" ;
-            at:legacy-code "XI" ;
+            at:legacy-code "X INT EFTA AELE" ;
             dc:source "PreLex" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "INTERNAT_BODIES" ;
@@ -4786,19 +4786,19 @@
     at:deprecated "false" ;
     at:op-code "STAFF" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "FD_110" ;
-            at:legacy-code "FONC" ;
-            dc:source "PreLex" ],
-        [ a at:MappedCode ;
             at:legacy-code "STAFF" ;
             dc:source "CJ" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_110" ;
+            at:legacy-code "FONC" ;
+            dc:source "ATTO" ],
         [ a at:MappedCode ;
             at:legacy-code "1" ;
             dc:source "WHOISWHO" ],
         [ a at:MappedCode ;
             at:affected-table "FD_110" ;
             at:legacy-code "FONC" ;
-            dc:source "ATTO" ] ;
+            dc:source "PreLex" ] ;
     at:start.use "2005-01-01" ;
     atold:op-code "STAFF" ;
     dc:identifier "STAFF" ;
@@ -5101,24 +5101,24 @@
     at:deprecated "false" ;
     at:op-code "THIRD_COUNTRY" ;
     at:op-mapped-code [ a at:MappedCode ;
-            at:affected-table "FD_140" ;
-            at:legacy-code "X" ;
-            dc:source "PreLex" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_140" ;
-            at:legacy-code "X" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_140" ;
-            at:legacy-code "XX" ;
-            dc:source "ATTO" ],
-        [ a at:MappedCode ;
-            at:affected-table "FD_140" ;
-            at:legacy-code "XX" ;
-            dc:source "PreLex" ],
-        [ a at:MappedCode ;
             at:legacy-code "TC" ;
-            dc:source "CJ" ] ;
+            dc:source "CJ" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_140" ;
+            at:legacy-code "X" ;
+            dc:source "PreLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_140" ;
+            at:legacy-code "XX" ;
+            dc:source "PreLex" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_140" ;
+            at:legacy-code "XX" ;
+            dc:source "ATTO" ],
+        [ a at:MappedCode ;
+            at:affected-table "FD_140" ;
+            at:legacy-code "X" ;
+            dc:source "ATTO" ] ;
     at:start.use "1952-07-24" ;
     atold:op-code "THIRD_COUNTRY" ;
     dc:identifier "THIRD_COUNTRY" ;

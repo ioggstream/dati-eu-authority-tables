@@ -1,4 +1,4 @@
-url;deprecated;valid_until;valid_from;id;label_en;label_it
-http://publications.europa.eu/resource/authority/grammatical-consciousness/H;false;;1952-07-23;H;Human being;Essere umano
-http://publications.europa.eu/resource/authority/grammatical-consciousness/OP_DATPRO;false;;1952-07-23;OP_DATPRO;Provisional data;Dati provvisori
-http://publications.europa.eu/resource/authority/grammatical-consciousness/T;false;;1952-07-23;T;Thing;Cosa
+url,deprecated,valid_until,valid_from,id,label_en,label_it
+http://publications.europa.eu/resource/authority/grammatical-consciousness/H,false,,1952-07-23,H,Human being,Essere umano
+http://publications.europa.eu/resource/authority/grammatical-consciousness/OP_DATPRO,false,,1952-07-23,OP_DATPRO,Provisional data,Dati provvisori
+http://publications.europa.eu/resource/authority/grammatical-consciousness/T,false,,1952-07-23,T,Thing,Cosa

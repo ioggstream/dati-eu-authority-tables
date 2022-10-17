@@ -1,24 +1,24 @@
-url;deprecated;valid_until;valid_from;id;label_en;label_it
-http://publications.europa.eu/resource/authority/dataset-type/APROF;false;;2017-10-30;APROF;Application profile;Profilo applicazione
-http://publications.europa.eu/resource/authority/dataset-type/ATTO_LEX;false;;2017-10-30;ATTO_LEX;ATTO table – EUR-Lex domain;Tabella ATTO – dominio EUR-Lex
-http://publications.europa.eu/resource/authority/dataset-type/ATTO_PUB;false;;2017-10-30;ATTO_PUB;ATTO table – Publications domain;Tabella ATTO – dominio Pubblicazioni
-http://publications.europa.eu/resource/authority/dataset-type/CODE_LIST;false;;2013-01-01;CODE_LIST;Code list;Elenco dei codici
-http://publications.europa.eu/resource/authority/dataset-type/CORE_COMP;false;;2013-01-01;CORE_COMP;Core component;Componente centrale
-http://publications.europa.eu/resource/authority/dataset-type/DIRECTORY;false;;1981-01-10;DIRECTORY;Directory;Directory
-http://publications.europa.eu/resource/authority/dataset-type/DOMAIN_MODEL;false;;2013-01-01;DOMAIN_MODEL;Domain model;Modello di dominio
-http://publications.europa.eu/resource/authority/dataset-type/DSCRP_SERV;false;;2013-01-01;DSCRP_SERV;Service description;Descrizione del servizio
-http://publications.europa.eu/resource/authority/dataset-type/GEOSPATIAL;false;;2019-01-30;GEOSPATIAL;Geospatial data;Dati geospaziali
-http://publications.europa.eu/resource/authority/dataset-type/GLOSSARY;false;;2020-11-25;GLOSSARY;Glossary;Glossario
-http://publications.europa.eu/resource/authority/dataset-type/IEPD;false;;2013-01-01;IEPD;Information exchange package description;Descrizione del pacchetto «scambio di informazioni»
-http://publications.europa.eu/resource/authority/dataset-type/MAPPING;false;;2013-01-01;MAPPING;Mapping;Mappatura
-http://publications.europa.eu/resource/authority/dataset-type/NAL;false;;2013-01-01;NAL;Name authority list;Elenco dei nomi autorizzati
-http://publications.europa.eu/resource/authority/dataset-type/ONTOLOGY;false;;2013-01-01;ONTOLOGY;Ontology;Ontologia
-http://publications.europa.eu/resource/authority/dataset-type/SCHEMA;false;;2013-01-01;SCHEMA;Schema;Schema
-http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL;false;;2013-01-01;STATISTICAL;Statistical data;Dati statistici
-http://publications.europa.eu/resource/authority/dataset-type/STYLES;false;;2017-10-30;STYLES;Style sheets;Fogli di stile
-http://publications.europa.eu/resource/authority/dataset-type/SYNTAX_ECD_SCHEME;false;;2013-01-01;SYNTAX_ECD_SCHEME;Syntax encoding scheme;Sistema di codifica basato sulla sintassi
-http://publications.europa.eu/resource/authority/dataset-type/SYNTHETIC_DATA;false;;2020-05-19;SYNTHETIC_DATA;Synthetic data;Dati sintetici
-http://publications.europa.eu/resource/authority/dataset-type/TAXONOMY;false;;2013-01-01;TAXONOMY;Taxonomy;Tassonomia
-http://publications.europa.eu/resource/authority/dataset-type/TEST_DATA;false;;2020-05-19;TEST_DATA;Test data;Dati di prova
-http://publications.europa.eu/resource/authority/dataset-type/THESAURUS;false;;2013-01-01;THESAURUS;Thesaurus;Tesauro
-http://publications.europa.eu/resource/authority/dataset-types/OP_DATPRO;false;;1952-07-23;OP_DATPRO;Provisional data;Dati provvisori
+url,deprecated,valid_until,valid_from,id,label_en,label_it
+http://publications.europa.eu/resource/authority/dataset-type/APROF,false,,2017-10-30,APROF,Application profile,Profilo applicazione
+http://publications.europa.eu/resource/authority/dataset-type/ATTO_LEX,false,,2017-10-30,ATTO_LEX,ATTO table – EUR-Lex domain,Tabella ATTO – dominio EUR-Lex
+http://publications.europa.eu/resource/authority/dataset-type/ATTO_PUB,false,,2017-10-30,ATTO_PUB,ATTO table – Publications domain,Tabella ATTO – dominio Pubblicazioni
+http://publications.europa.eu/resource/authority/dataset-type/CODE_LIST,false,,2013-01-01,CODE_LIST,Code list,Elenco dei codici
+http://publications.europa.eu/resource/authority/dataset-type/CORE_COMP,false,,2013-01-01,CORE_COMP,Core component,Componente centrale
+http://publications.europa.eu/resource/authority/dataset-type/DIRECTORY,false,,1981-01-10,DIRECTORY,Directory,Directory
+http://publications.europa.eu/resource/authority/dataset-type/DOMAIN_MODEL,false,,2013-01-01,DOMAIN_MODEL,Domain model,Modello di dominio
+http://publications.europa.eu/resource/authority/dataset-type/DSCRP_SERV,false,,2013-01-01,DSCRP_SERV,Service description,Descrizione del servizio
+http://publications.europa.eu/resource/authority/dataset-type/GEOSPATIAL,false,,2019-01-30,GEOSPATIAL,Geospatial data,Dati geospaziali
+http://publications.europa.eu/resource/authority/dataset-type/GLOSSARY,false,,2020-11-25,GLOSSARY,Glossary,Glossario
+http://publications.europa.eu/resource/authority/dataset-type/IEPD,false,,2013-01-01,IEPD,Information exchange package description,Descrizione del pacchetto «scambio di informazioni»
+http://publications.europa.eu/resource/authority/dataset-type/MAPPING,false,,2013-01-01,MAPPING,Mapping,Mappatura
+http://publications.europa.eu/resource/authority/dataset-type/NAL,false,,2013-01-01,NAL,Name authority list,Elenco dei nomi autorizzati
+http://publications.europa.eu/resource/authority/dataset-type/ONTOLOGY,false,,2013-01-01,ONTOLOGY,Ontology,Ontologia
+http://publications.europa.eu/resource/authority/dataset-type/SCHEMA,false,,2013-01-01,SCHEMA,Schema,Schema
+http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL,false,,2013-01-01,STATISTICAL,Statistical data,Dati statistici
+http://publications.europa.eu/resource/authority/dataset-type/STYLES,false,,2017-10-30,STYLES,Style sheets,Fogli di stile
+http://publications.europa.eu/resource/authority/dataset-type/SYNTAX_ECD_SCHEME,false,,2013-01-01,SYNTAX_ECD_SCHEME,Syntax encoding scheme,Sistema di codifica basato sulla sintassi
+http://publications.europa.eu/resource/authority/dataset-type/SYNTHETIC_DATA,false,,2020-05-19,SYNTHETIC_DATA,Synthetic data,Dati sintetici
+http://publications.europa.eu/resource/authority/dataset-type/TAXONOMY,false,,2013-01-01,TAXONOMY,Taxonomy,Tassonomia
+http://publications.europa.eu/resource/authority/dataset-type/TEST_DATA,false,,2020-05-19,TEST_DATA,Test data,Dati di prova
+http://publications.europa.eu/resource/authority/dataset-type/THESAURUS,false,,2013-01-01,THESAURUS,Thesaurus,Tesauro
+http://publications.europa.eu/resource/authority/dataset-types/OP_DATPRO,false,,1952-07-23,OP_DATPRO,Provisional data,Dati provvisori
